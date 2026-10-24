@@ -1,0 +1,1928 @@
+﻿1
+00:00:04,730 --> 00:00:07,150
+<font face="Segoe UI" size="26">Cậu không nghĩ tỷ lệ thực tế là 0% đấy chứ?</font>
+
+2
+00:00:08,070 --> 00:00:13,650
+<font face="Segoe UI" size="26">Xác suất để nhiệm vụ B408 thành công và Grid giải cứu được Huroi ấy.</font>
+
+3
+00:00:14,160 --> 00:00:16,740
+<font face="Segoe UI" size="26">Không lẽ Morpheus đã phát sinh lỗi sao?</font>
+
+4
+00:00:16,740 --> 00:00:19,940
+<font face="Segoe UI" size="26">Không, chúng ta chưa nhận được bất kỳ báo cáo bất thường nào về việc đó cả...</font>
+
+5
+00:00:19,940 --> 00:00:22,890
+<font face="Segoe UI" size="26">Tôi biết chứ. Chỉ là tôi thấy sốt ruột và căng thẳng quá thôi.</font>
+
+6
+00:00:22,890 --> 00:00:25,680
+<font face="Segoe UI" size="26">Việc chia sẻ nhiệm vụ đã làm thay đổi toàn bộ kịch bản,</font>
+
+7
+00:00:26,100 --> 00:00:29,000
+<font face="Segoe UI" size="26">và giờ đây hệ thống không thể tính toán được xác suất chính xác nữa.</font>
+
+8
+00:00:29,490 --> 00:00:34,060
+<font face="Segoe UI" size="26">Chúng ta chỉ còn cách hy vọng Grid có thể tạo nên điều kỳ diệu thôi.</font>
+
+9
+00:00:34,570 --> 00:00:39,050
+<font face="Segoe UI" size="26">Cậu ta sở hữu chức nghiệp Huyền thoại, nhưng cấp độ mới chỉ vỏn vẹn level 21.</font>
+
+10
+00:00:39,460 --> 00:00:40,690
+<font face="Segoe UI" size="26">Tệ thật đấy.</font>
+
+11
+00:01:03,270 --> 00:01:04,800
+<font face="Segoe UI" size="26">{\an1}<font size="17"><b><font face="Segoe UI"><font color="#f85d09">O<font color="#eb270a">v<font color="#ce2818">e<font color="#f32610">r<font color="#c30517">g<font color="#a00613">e<font color="#8f020f">a<font color="#440509">r<font color="#2f1d21">e<font color="#000000">d</font></font></font></font></font></font></font></font></font></font></font></b></font></font>
+
+12
+00:01:04,800 --> 00:01:08,030
+<font face="Segoe UI" size="20">{\an8}<font size="16"><b><font face="Segoe UI"><font color="#f85d09">O<font color="#eb270a">v<font color="#ce2818">e<font color="#f32610">r<font color="#c30517">g<font color="#a00613">e<font color="#8f020f">a<font color="#440509">r<font color="#2f1d21">e<font color="#000000">d</font></font></font></font></font></font></font></font></font></font></font></b></font></font>
+
+13
+00:02:13,550 --> 00:02:16,440
+<font face="Segoe UI" size="26">Chủ đề của trận đấu là "dao găm"!</font>
+
+14
+00:02:16,440 --> 00:02:21,450
+<font face="Segoe UI" size="26">Người rèn ra thanh dao găm tốt hơn trong vòng ba tiếng đồng hồ sẽ giành chiến thắng!</font>
+
+15
+00:02:21,450 --> 00:02:25,330
+<font face="Segoe UI" size="26"><i>Mình là Hậu duệ của Pagma! Thợ rèn huyền thoại đấy nhé!</i></font>
+
+16
+00:02:25,640 --> 00:02:27,170
+<font face="Segoe UI" size="26"><i>Mình tuyệt đối không thể thua được!</i></font>
+
+17
+00:02:29,850 --> 00:02:32,950
+<font face="Segoe UI" size="26"><i>Trước tiên, để xem cậu có bản lĩnh gì nào.</i></font>
+
+18
+00:02:33,620 --> 00:02:35,840
+<font face="Segoe UI" size="26"><i>Kỹ năng: Quan sát (Observe).</i></font>
+
+19
+00:02:36,980 --> 00:02:39,840
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}<font color="#e7e7e7">Không thể phân tích kỹ năng của mục tiêu!</font></b></font>
+
+20
+00:02:40,210 --> 00:02:42,810
+<font face="Segoe UI" size="26"><i>Cấp độ kỹ năng của bạn quá thấp.</i></font>
+
+21
+00:02:42,810 --> 00:02:43,720
+<font face="Segoe UI" size="26"><i>Sao lại thế được?</i></font>
+
+22
+00:02:44,230 --> 00:02:48,150
+<font face="Segoe UI" size="26"><i>Mình từng sao chép kỹ năng từ cả các NPC thợ rèn cấp cao rồi cơ mà!</i></font>
+
+23
+00:02:48,770 --> 00:02:51,730
+<font face="Segoe UI" size="26"><i>Đừng nói hắn ta sở hữu chức nghiệp Sử thi (Epic) đấy nhé...</i></font>
+
+24
+00:02:52,170 --> 00:02:54,580
+<font face="Segoe UI" size="26"><i>Không thể nào. Điều đó là bất khả thi.</i></font>
+
+25
+00:02:54,580 --> 00:02:59,740
+<font face="Segoe UI" size="26"><i>Những người duy nhất sở hữu chức nghiệp Sử thi chỉ có Roy, Agnus và mình thôi!</i></font>
+
+26
+00:02:59,740 --> 00:03:03,050
+<font face="Segoe UI" size="26"><i>Đành phải dùng cách khác vậy.</i></font>
+
+27
+00:03:07,750 --> 00:03:09,780
+<font face="Segoe UI" size="26">Được rồi, trông ngon lành rồi đấy!</font>
+
+28
+00:03:09,780 --> 00:03:12,750
+<font face="Segoe UI" size="26">Mời ngài Khan bước lên sàn đấu!</font>
+
+29
+00:03:13,200 --> 00:03:15,380
+<font face="Segoe UI" size="26">Tiểu thư Erina có một đề xuất:</font>
+
+30
+00:03:15,380 --> 00:03:19,150
+<font face="Segoe UI" size="26">Nếu hai người là thầy trò, chi bằng hãy cùng nhau hợp sức!</font>
+
+31
+00:03:19,150 --> 00:03:19,770
+<font face="Segoe UI" size="26">Hả?</font>
+
+32
+00:03:22,350 --> 00:03:24,000
+<font face="Segoe UI" size="26">Bác không thành vấn đề.</font>
+
+33
+00:03:24,000 --> 00:03:25,340
+<font face="Segoe UI" size="26">Vậy là hai chọi một sao?</font>
+
+34
+00:03:25,340 --> 00:03:26,640
+<font face="Segoe UI" size="26">Chấp người luôn à?</font>
+
+35
+00:03:26,640 --> 00:03:29,890
+<font face="Segoe UI" size="26">Chết tiệt! Con nhóc ranh đó dám coi thường nghĩ mình không thắng nổi sao?</font>
+
+36
+00:03:30,220 --> 00:03:32,790
+<font face="Segoe UI" size="26"><i>Sư phụ của cậu ta chắc chắn phải có tài.</i></font>
+
+37
+00:03:31,750 --> 00:03:33,850
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}<font size="15"><font color="#eaecee">Kỹ năng Thợ rèn Cao cấp</font></font></b></font>
+
+38
+00:03:34,390 --> 00:03:36,860
+<font face="Segoe UI" size="26"><i>Mượn tạm sức mạnh của ông một chút nhé.</i></font>
+
+39
+00:03:36,860 --> 00:03:37,590
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}<font size="15"><font color="#eaecee">Kỹ năng Thợ rèn Cao cấp</font></font></b></font>
+
+40
+00:03:38,940 --> 00:03:40,840
+<font face="Segoe UI" size="26"><i>Sao chép kỹ năng thành công.</i></font>
+
+41
+00:03:40,840 --> 00:03:42,860
+<font face="Segoe UI" size="26"><i>Tốt lắm! Giờ đến lượt đạo cụ...</i></font>
+
+42
+00:03:40,840 --> 00:03:43,940
+<font face="Segoe UI" size="26"><i>{\an8}Bạn chỉ có thể sử dụng kỹ năng này một lần.</i></font>
+
+43
+00:03:47,260 --> 00:03:50,110
+<font face="Segoe UI" size="26">Được rồi! Cuộc chơi giờ mới thực sự bắt đầu!</font>
+
+44
+00:03:50,520 --> 00:03:52,270
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}<font size="15"><font color="#b143a5">Búa Rèn Được Ban Phúc</font></font></b></font>
+
+45
+00:03:52,270 --> 00:03:55,330
+<font face="Segoe UI" size="26">Erina! Erina!</font>
+
+46
+00:03:55,330 --> 00:03:57,000
+<font face="Segoe UI" size="26"><i>Chiến thắng này chắc chắn là của mình!</i></font>
+
+47
+00:03:57,000 --> 00:04:00,050
+<font face="Segoe UI" size="26"><i>Mình có thể cảm nhận từng chuyển động của thỏi sắt dưới nhát búa rèn.</i></font>
+
+48
+00:04:00,050 --> 00:04:02,050
+<font face="Segoe UI" size="26"><i>Hai bác cháu phối hợp nhịp nhàng đến từng mili-giây!</i></font>
+
+49
+00:04:03,030 --> 00:04:04,550
+<font face="Segoe UI" size="26"><i>Tiến triển rất tốt!</i></font>
+
+50
+00:04:45,680 --> 00:04:47,930
+<font face="Segoe UI" size="26">Thật tuyệt mỹ.</font>
+
+51
+00:04:47,930 --> 00:04:51,490
+<font face="Segoe UI" size="26">Bác rất tự hào khi được góp sức tạo nên một kiệt tác thế này.</font>
+
+52
+00:04:51,490 --> 00:04:53,430
+<font face="Segoe UI" size="26">Chúng ta vẫn còn thêm nguyên liệu nữa.</font>
+
+53
+00:04:56,440 --> 00:05:01,240
+<font face="Segoe UI" size="26"><i>Cháu đã bỏ ra tận 10 đồng vàng để mua cái sừng minotaur này nhằm thắng nhiệm vụ đấy.</i></font>
+
+54
+00:05:01,550 --> 00:05:04,150
+<font face="Segoe UI" size="26"><i>Tuyệt đối không thể thua được!</i></font>
+
+55
+00:05:10,010 --> 00:05:12,320
+<font face="Segoe UI" size="26">Xong rồi! Mình hoàn thành rồi!</font>
+
+56
+00:05:13,520 --> 00:05:15,210
+<font face="Segoe UI" size="26">Mọi người hãy nhìn xem kìa!</font>
+
+57
+00:05:15,210 --> 00:05:18,830
+<font face="Segoe UI" size="26">Một thanh dao găm tuyệt đẹp hệt như chính người đã tạo ra nó!</font>
+
+58
+00:05:19,560 --> 00:05:23,960
+<font face="Segoe UI" size="26"><i>Dù không muốn thừa nhận, nhưng đó thực sự là một món trang bị tuyệt vời.</i></font>
+
+59
+00:05:24,610 --> 00:05:27,310
+<font face="Segoe UI" size="26">Bây giờ, chúng ta hãy cùng xem qua các chỉ số của nó nào!</font>
+
+60
+00:05:29,710 --> 00:05:32,680
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}<font size="10"><font color="#bd38b7">Dao Găm Cám Dỗ</font></font></b></font>
+
+61
+00:05:29,710 --> 00:05:32,680
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}<font size="10"></font></b>Phẩm cấp: <font color="#bd38b7">Sử thi (Epic)</font></font>
+
+62
+00:05:29,710 --> 00:05:32,680
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}<font color="#517589"></font></b>m 0 0 l 105 0 105 5 0 5</font>
+
+63
+00:05:29,710 --> 00:05:32,680
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}<font size="10"></font></b>Độ bền</font>
+
+64
+00:05:29,710 --> 00:05:32,680
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}<font color="#517589"></font></b>m 0 0 l 50 0 50 6 0 6</font>
+
+65
+00:05:29,710 --> 00:05:32,680
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}<font size="10"></font></b>Sức tấn công</font>
+
+66
+00:05:29,710 --> 00:05:32,680
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}<font color="#517589"></font></b>m 0 0 l 50 0 50 7 0 7</font>
+
+67
+00:05:29,710 --> 00:05:32,680
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}<font size="10"></font></b>* Tốc độ tấn công</font>
+
+68
+00:05:29,710 --> 00:05:32,680
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}<font color="#517589"></font></b>m 0 0 l 50 0 50 5 0 5</font>
+
+69
+00:05:29,710 --> 00:05:32,680
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}<font size="10"></font></b>* Tỷ lệ mê hoặc kẻ địch</font>
+
+70
+00:05:29,710 --> 00:05:32,680
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}<font size="10"></font></b>* Nếu đòn đánh bị chặn, độ bền sẽ giảm nhanh hơn</font>
+
+71
+00:05:29,710 --> 00:05:32,680
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}<font color="#4f747e"></font></b>m 0 0 l 325 0 325 22 0 22</font>
+
+72
+00:05:29,710 --> 00:05:32,680
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}<font size="10"></font></b>Điều kiện trang bị: Cấp độ 100, Nhanh nhẹn 200+, Trí tuệ 30+</font>
+
+73
+00:05:29,710 --> 00:05:32,680
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}<font size="10"></font></b>Thông thạo Dao găm Trung cấp</font>
+
+74
+00:05:32,680 --> 00:05:33,680
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}<font size="40"><font color="#cf3dd4">Dao Găm Cám Dỗ</font></font></b></font>
+
+75
+00:05:33,680 --> 00:05:35,340
+<font face="Segoe UI" size="26">Phẩm cấp "Sử thi" ư?!</font>
+
+76
+00:05:35,340 --> 00:05:37,450
+<font face="Segoe UI" size="26">Lại còn có các chỉ số kinh ngạc thế kia nữa chứ!</font>
+
+77
+00:05:37,450 --> 00:05:39,560
+<font face="Segoe UI" size="26">Coi như kết quả trận đấu đã ngã ngũ rồi còn gì!</font>
+
+78
+00:05:40,070 --> 00:05:41,720
+<font face="Segoe UI" size="26">Tiểu thư Erina thật là đỉnh quá đi mất!</font>
+
+79
+00:05:46,800 --> 00:05:49,450
+<font face="Segoe UI" size="26">{\an8}Cảm ơn tất cả mọi người nhé!</font>
+
+80
+00:05:47,010 --> 00:05:49,450
+<font face="Segoe UI" size="26">Tay nghề của cô bé đó ngang ngửa với bác.</font>
+
+81
+00:05:49,930 --> 00:05:52,200
+<font face="Segoe UI" size="26">Ở độ tuổi đó mà đạt tới trình độ này quả thực rất đáng nể.</font>
+
+82
+00:05:52,810 --> 00:05:56,210
+<font face="Segoe UI" size="26">Nhưng cô bé vẫn chưa phải là đối thủ của cháu đâu.</font>
+
+83
+00:05:56,990 --> 00:05:58,900
+<font face="Segoe UI" size="26">Đúng không, Grid?</font>
+
+84
+00:05:59,710 --> 00:06:01,900
+<font face="Segoe UI" size="26">Vâng, tất nhiên rồi ạ.</font>
+
+85
+00:06:01,900 --> 00:06:04,740
+<font face="Segoe UI" size="26"><i>"Hơi Thở của Thợ Rèn Huyền Thoại" đã kích hoạt.</i></font>
+
+86
+00:06:04,740 --> 00:06:06,370
+<font face="Segoe UI" size="26"><i>Chỉ số của trang bị được chế tác sẽ tăng lên.</i></font>
+
+87
+00:06:06,370 --> 00:06:07,170
+<font face="Segoe UI" size="26">Mình...</font>
+
+88
+00:06:08,560 --> 00:06:10,340
+<font face="Segoe UI" size="26">cũng rèn xong rồi đây!</font>
+
+89
+00:06:10,340 --> 00:06:12,720
+<font face="Segoe UI" size="26">Chắc chắn đám đông ngoài kia sẽ phải há hốc mồm kinh ngạc cho xem!</font>
+
+90
+00:06:15,230 --> 00:06:16,140
+<font face="Segoe UI" size="26">Đứng im, không được nhúc nhích!</font>
+
+91
+00:06:16,900 --> 00:06:18,270
+<font face="Segoe UI" size="26">Huroi đã khai ra tất cả rồi!</font>
+
+92
+00:06:18,270 --> 00:06:21,730
+<font face="Segoe UI" size="26">Hắn ta khai rằng ngươi cũng là kẻ phản bội Bá tước Steim!</font>
+
+93
+00:06:24,530 --> 00:06:26,650
+<font face="Segoe UI" size="26">Có chuyện gì đang xảy ra thế kia?</font>
+
+94
+00:06:27,510 --> 00:06:31,100
+<font face="Segoe UI" size="26">Đáng lẽ ra Huroi không thể còn chút sức lực nào để nói được chứ.</font>
+
+95
+00:06:31,100 --> 00:06:33,440
+<font face="Segoe UI" size="26">Và để điều động được đám lính canh đó thì...</font>
+
+96
+00:06:33,910 --> 00:06:37,010
+<font face="Segoe UI" size="26">Ngài đã ra tay sắp đặt chuyện này từ trước khi trận đấu bắt đầu rồi đúng không?</font>
+
+97
+00:06:38,410 --> 00:06:41,040
+<font face="Segoe UI" size="26">Ta vốn là một kẻ cẩn trọng mà.</font>
+
+98
+00:06:41,660 --> 00:06:44,960
+<font face="Segoe UI" size="26">Ý ngài là ngài không tin tưởng ta sao?</font>
+
+99
+00:06:44,960 --> 00:06:46,490
+<font face="Segoe UI" size="26">Nếu đúng là vậy thì sao nào?</font>
+
+100
+00:06:46,490 --> 00:06:48,300
+<font face="Segoe UI" size="26">Ngươi chỉ là một con thỏ trong cái chuồng nhỏ mà thôi.</font>
+
+101
+00:06:48,300 --> 00:06:50,800
+<font face="Segoe UI" size="26">Lẽ nào ngươi định cắn lại chính chủ nhân của mình sao...</font>
+
+102
+00:06:51,470 --> 00:06:52,880
+<font face="Segoe UI" size="26">hả Rabbit?</font>
+
+103
+00:06:54,610 --> 00:06:58,750
+<font face="Segoe UI" size="26">Khan, có vẻ như ngươi sẽ phải ngoan ngoãn giao nộp lò rèn ra rồi!</font>
+
+104
+00:06:59,140 --> 00:07:02,480
+<font face="Segoe UI" size="26">Tên khốn Valmont, ngươi đã gài bẫy bọn ta!</font>
+
+105
+00:07:00,660 --> 00:07:03,520
+<font face="Segoe UI" size="26">Thả tao ra! Khốn nạn, mau thả tao ra!</font>
+
+106
+00:07:03,520 --> 00:07:05,040
+<font face="Segoe UI" size="26">Tôi chỉ là một người thợ rèn thôi mà!</font>
+
+107
+00:07:05,040 --> 00:07:09,490
+<font face="Segoe UI" size="26">Mẹ kiếp! Thả tao ra mau!</font>
+
+108
+00:07:14,620 --> 00:07:16,450
+<font face="Segoe UI" size="26"><i>Nhảm nhí hết sức.</i></font>
+
+109
+00:07:16,450 --> 00:07:19,020
+<font face="Segoe UI" size="26"><i>Thế còn nhiệm vụ thi đấu chế tạo trang bị thì tính sao đây hả?</i></font>
+
+110
+00:07:18,850 --> 00:07:21,190
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}</b><font size="8">Nhiệm vụ</font></font>
+
+111
+00:07:18,850 --> 00:07:21,190
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}<font size="8">Trận Đấu Chế Tạo Trang Bị Với Công Ty Mero</font></b></font>
+
+112
+00:07:18,850 --> 00:07:21,190
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}</b><font size="10">Công ty Mero đã thách thức bạn trong trận chiến giành lò rèn.</font></font>
+
+113
+00:07:18,850 --> 00:07:21,190
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}<font color="#54627a">m 0 0 l 255 0 255 55 0 55</font></b></font>
+
+114
+00:07:18,850 --> 00:07:21,190
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}</b><font size="10">Khan đang trong tình trạng kiệt sức và nhờ bạn tham gia thay thế.</font></font>
+
+115
+00:07:18,850 --> 00:07:21,190
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}</b><font size="10">Điều kiện hoàn thành: Chiến thắng trận đấu của Công ty Mero</font></font>
+
+116
+00:07:18,850 --> 00:07:21,190
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}</b><font size="10">Phần thưởng: 600 đồng vàng</font></font>
+
+117
+00:07:18,850 --> 00:07:21,190
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}</b><font size="10">+500 Danh vọng tại Winston</font></font>
+
+118
+00:07:18,850 --> 00:07:21,190
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}</b><font size="10">Thất bại: Danh vọng tại Winston trở về 1.</font></font>
+
+119
+00:07:18,850 --> 00:07:21,190
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}</b><font size="10">Khan sẽ mất lò rèn vào tay Công ty Mero.</font></font>
+
+120
+00:07:19,870 --> 00:07:21,190
+<font face="Segoe UI" size="26"><i>Hướng dẫn từ hệ thống.</i></font>
+
+121
+00:07:21,190 --> 00:07:23,130
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}</b><font size="8">Nhiệm vụ Ẩn</font></font>
+
+122
+00:07:21,190 --> 00:07:23,130
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}<font size="8">Tông Đồ của Công Lý</font></b></font>
+
+123
+00:07:21,190 --> 00:07:23,130
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}</b><font size="10">Bạn đã bị giam cầm trong ngục tối dưới lòng đất!</font></font>
+
+124
+00:07:21,190 --> 00:07:23,130
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}<font color="#4b5b73">m 0 0 l 255 0 255 86 0 86</font></b></font>
+
+125
+00:07:21,190 --> 00:07:23,130
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}</b><font size="10">Hãy giải cứu Huroi đang bị giam cầm ở tầng sâu nhất,</font></font>
+
+126
+00:07:21,190 --> 00:07:23,130
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}</b><font size="10">và mang lại công lý cho dân làng Winston!</font></font>
+
+127
+00:07:21,190 --> 00:07:23,130
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}</b><font size="10">Điều kiện hoàn thành: Giải cứu Huroi trong vòng 7 giờ</font></font>
+
+128
+00:07:21,190 --> 00:07:23,130
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}</b><font size="10">Phần thưởng: Danh hiệu "Tông Đồ của Công Lý"</font></font>
+
+129
+00:07:21,190 --> 00:07:23,130
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}</b><font size="10"><font color="#c01739">* Tông Đồ của Công Lý: Mở khóa chỉ số "Dũng cảm".</font></font></font>
+
+130
+00:07:21,190 --> 00:07:23,130
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}</b><font size="10"><font color="#c01739">Tất cả chỉ số +10.</font></font></font>
+
+131
+00:07:21,190 --> 00:07:23,130
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}</b><font size="10"><font color="#c01739">Nhận được kỹ năng "Công Lý Bất Khuất".</font></font></font>
+
+132
+00:07:21,190 --> 00:07:23,130
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}</b><font size="10">Thất bại: Cấp độ -2</font></font>
+
+133
+00:07:21,190 --> 00:07:23,130
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}</b><font size="10">Danh hiệu "Kẻ Hèn Nhát"</font></font>
+
+134
+00:07:21,190 --> 00:07:23,130
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}</b><font size="10"><font color="#c01739">*Kẻ Hèn Nhát: Mức độ thân thiện với NPC bị giảm sút.</font></font></font>
+
+135
+00:07:21,190 --> 00:07:23,130
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}</b><font size="10"><font color="#c01739">Tỷ lệ kích hoạt nhiệm vụ mới bị giảm sút.</font></font></font>
+
+136
+00:07:21,190 --> 00:07:23,130
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}</b><font size="10"><font color="#c01739">Các NPC có tinh thần trượng nghĩa cao sẽ có ác cảm với bạn.</font></font></font>
+
+137
+00:07:21,190 --> 00:07:23,130
+<font face="Segoe UI" size="26"><i>Nhiệm vụ đã bị thay đổi.</i></font>
+
+138
+00:07:23,130 --> 00:07:23,810
+<font face="Segoe UI" size="26">Cái gì cơ?!</font>
+
+139
+00:07:23,810 --> 00:07:26,960
+<font face="Segoe UI" size="26"><i>Nhiệm vụ mới của bạn là 
+"Tông Đồ của Công Lý (S)".</i></font>
+
+140
+00:07:25,380 --> 00:07:31,380
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}</b><font color="#cfd2d8"><font size="9">Nhiệm vụ Ẩn
+<b>Tông Đồ của Công Lý (S)
+
+</b>Bạn đã bị giam cầm trong ngục tối dưới lòng đất!
+Giải cứu Huroi đang bị giam cầm ở tầng sâu nhất,
+và mang lại công lý cho dân làng Winston!
+
+Diều kiện hoàn thành: Giải cứu Huroi trong vòng 7 giờ
+Phần thưởng: Danh hiệu "Tông Đồ của Công Lý"
+<font color="#a11e38">* Tông Đồ của Công Lý: Mở khóa chỉ số "Dũng cảm".
+Tất cả chỉ số +10.
+Nhận được kỹ năng "Công Lý Bất Khuất".
+
+<font color="#cfd2d8">Thất bại: Cấp độ -2
+Danh hiệu "Kẻ Hèn Nhát"
+<font color="#a11e38">*Kẻ Hèn Nhát: Mức độ thân thiện với NPC bị giảm sút.
+Tỷ lệ kích hoạt nhiệm vụ mới bị giảm sút.
+NPC có tinh thần trượng nghĩa sẽ có ác cảm với bạn.</font></font></font></font></font></font>
+
+141
+00:07:25,380 --> 00:07:31,380
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}<font color="#546788">m 0 0 l 200 0 200 71 0 71</font></b></font>
+
+142
+00:07:26,960 --> 00:07:30,500
+<font face="Segoe UI" size="26"><i>Đây là một nhiệm vụ hợp tác hai người cùng Huroi.</i></font>
+
+143
+00:07:30,500 --> 00:07:32,430
+<font face="Segoe UI" size="26"><i>Phần thưởng hoàn thành này...</i></font>
+
+144
+00:07:32,430 --> 00:07:33,860
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}<font color="#546788">m 0 0 l 200 0 200 56 0 56</font></b></font>
+
+145
+00:07:32,430 --> 00:07:33,860
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}</b><font color="#cfd2d8"><font size="9">Bạn đã từ bỏ nhiệm vụ của Công ty Mero nhằm thuyết phục dân làng
+và đã hứa sẽ đến thủ đô "Frontier" để tố cáo tội ác của chúng với Bá tước Steim!
+
+Diều kiện hoàn thành: Đẩy lùi các đợt tấn công của công ty
+và yết kiến Bá tước Steim
+Phần thưởng: Danh hiệu "Tông Đồ của Công Lý"
+<font color="#a11e38">* Tông Đồ của Công Lý: Mở khóa chỉ số "Dũng cảm".
+Tất cả chỉ số +10.
+Nhận được kỹ năng "Công Lý Bất Khuất".
+
+<font color="#cfd2d8">Thất bại: Bị Công ty Mero bắt giữ.
+Cấp độ -1
+Bị cấm vào Winston cho đến khi lãnh chúa mới nhậm chức.</font></font></font></font></font>
+
+146
+00:07:33,950 --> 00:07:37,260
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}<font color="#546788">m 0 0 l 200 0 200 60 0 60</font></b></font>
+
+147
+00:07:33,950 --> 00:07:37,260
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}</b><font color="#cfd2d8"><font size="9">Bạn đã bị giam cầm trong ngục tối dưới lòng đất!
+Giải cứu Huroi đang bị giam cầm ở tầng sâu nhất,
+và mang lại công lý cho dân làng Winston!
+
+Diều kiện hoàn thành: Giải cứu Huroi trong vòng 7 giờ
+Phần thưởng: Danh hiệu "Tông Đồ của Công Lý"
+<font color="#a11e38">* Tông Đồ của Công Lý: Mở khóa chỉ số "Dũng cảm".
+Tất cả chỉ số +10.
+Nhận được kỹ năng "Công Lý Bất Khuất".
+
+<font color="#cfd2d8">Thất bại: Cấp độ -2
+Danh hiệu "Kẻ Hèn Nhát"
+<font color="#a11e38">*Kẻ Hèn Nhát: Mức độ thân thiện với NPC bị giảm sút.
+Tỷ lệ kích hoạt nhiệm vụ mới bị giảm sút.
+NPC có tinh thần trượng nghĩa sẽ có ác cảm với bạn.</font></font></font></font></font></font>
+
+148
+00:07:34,210 --> 00:07:37,260
+<font face="Segoe UI" size="26"><i>Nó giống hệt như nhiệm vụ mà Huroi từng cho mình xem!</i></font>
+
+149
+00:07:37,600 --> 00:07:41,150
+<font face="Segoe UI" size="26"><i>Hóa ra có một nhiệm vụ khác được ẩn giấu bên trong Trận Đấu Chế Tạo Trang Bị sao?</i></font>
+
+150
+00:07:41,520 --> 00:07:44,410
+<font face="Segoe UI" size="26"><i>Khoan đã, giờ thì ngay cả mình cũng bị tống vào tù luôn rồi!</i></font>
+
+151
+00:07:41,520 --> 00:07:52,280
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}</b><font color="#cfd2d8"><font size="9">Điều kiện hoàn thành: Giải cứu Huroi trong vòng 7 giờ
+Phần thưởng: Danh hiệu "Tông Đồ của Công Lý"
+<font color="#a11e38">* Tông Đồ của Công Lý: Mở khóa chỉ số "Dũng cảm".
+Tất cả chỉ số +10.
+Nhận được kỹ năng "Công Lý Bất Khuất".
+
+<font color="#cfd2d8">Thất bại: Cấp độ -2
+Danh hiệu "Kẻ Hèn Nhát"
+<font color="#a11e38">*Kẻ Hèn Nhát: Mức độ thân thiện với NPC bị giảm sút.
+Tỷ lệ kích hoạt nhiệm vụ mới bị giảm sút.
+NPC có tinh thần trượng nghĩa sẽ có ác cảm với bạn.</font></font></font></font></font></font>
+
+152
+00:07:41,520 --> 00:07:52,280
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}<font color="#546788">m 0 0 l 200 0 200 46 0 46</font></b></font>
+
+153
+00:07:44,410 --> 00:07:46,950
+<font face="Segoe UI" size="26"><i>Làm quái nào để mình cứu được cậu ta chứ?</i></font>
+
+154
+00:07:46,950 --> 00:07:49,170
+<font face="Segoe UI" size="26"><i>Mà cái hình phạt khi thất bại này đúng là đồ dở hơi!</i></font>
+
+155
+00:07:49,170 --> 00:07:51,450
+<font face="Segoe UI" size="26"><i>Bố mày cóc thèm làm! Biến đi, cái nhiệm vụ chết tiệt này!</i></font>
+
+156
+00:07:50,880 --> 00:07:52,280
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}<font color="#d9d9d9">Không thể từ bỏ nhiệm vụ này</font></b></font>
+
+157
+00:07:52,510 --> 00:07:54,180
+<font face="Segoe UI" size="26"><i>Vớ va vớ vẩn thật đấy!</i></font>
+
+158
+00:07:54,180 --> 00:07:57,030
+<font face="Segoe UI" size="26"><i>Tại sao những chuyện quái gở thế này cứ liên tục đổ lên đầu mình vậy hả?!</i></font>
+
+159
+00:08:00,950 --> 00:08:05,670
+<font face="Segoe UI" size="26"><i>Ta đã từng chứng kiến vô số trang bị trong suốt những năm tháng làm việc tại Công ty Mero, và ta có thể khẳng định...</i></font>
+
+160
+00:08:07,000 --> 00:08:10,150
+<font face="Segoe UI" size="26"><i>Sẽ chẳng hề quá lời nếu nói rằng kỹ nghệ rèn của cậu ta đứng đầu toàn bộ đại lục.</i></font>
+
+161
+00:08:11,870 --> 00:08:13,070
+<font face="Segoe UI" size="26">Một thất bại hoàn toàn của chúng ta.</font>
+
+162
+00:08:13,070 --> 00:08:14,050
+<font face="Segoe UI" size="26">Thật nực cười.</font>
+
+163
+00:08:14,560 --> 00:08:17,810
+<font face="Segoe UI" size="26">Đám đông ngoài kia ai nấy đều tin chắc rằng Erina đã chiến thắng.</font>
+
+164
+00:08:17,810 --> 00:08:19,180
+<font face="Segoe UI" size="26">Mau giấu thứ đó đi.</font>
+
+165
+00:08:20,090 --> 00:08:20,930
+<font face="Segoe UI" size="26">Này.</font>
+
+166
+00:08:21,390 --> 00:08:24,500
+<font face="Segoe UI" size="26">Phía công ty các người đã có được thứ mình muốn rồi đúng không?</font>
+
+167
+00:08:24,840 --> 00:08:26,940
+<font face="Segoe UI" size="26">Tôi tới để nhận phần thưởng của mình.</font>
+
+168
+00:08:26,940 --> 00:08:28,290
+<font face="Segoe UI" size="26">Được thôi.</font>
+
+169
+00:08:28,290 --> 00:08:30,820
+<font face="Segoe UI" size="26">Chúng ta là những người luôn giữ đúng lời hứa mà.</font>
+
+170
+00:08:31,370 --> 00:08:32,690
+<font face="Segoe UI" size="26"><i>Nhiệm vụ hoàn thành.</i></font>
+
+171
+00:08:32,800 --> 00:08:35,840
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}<font color="#e0e0e0">Danh hiệu</font></b></font>
+
+172
+00:08:32,800 --> 00:08:35,840
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}<font color="#e0e0e0">Kẻ Thao Túng Trò Chơi</font></b></font>
+
+173
+00:08:32,800 --> 00:08:35,840
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}<font color="#e0e0e0">Đã nhận được</font></b></font>
+
+174
+00:08:33,170 --> 00:08:35,160
+<font face="Segoe UI" size="26"><i>Bạn đã nhận được một danh hiệu mới.</i></font>
+
+175
+00:08:37,420 --> 00:08:40,120
+<font face="Segoe UI" size="26">Nếu không có sự can thiệp vừa rồi thì chắc chắn người thua cuộc là tôi rồi đúng không?</font>
+
+176
+00:08:40,120 --> 00:08:44,480
+<font face="Segoe UI" size="26">Có lẽ tin đồn cậu ta là Hậu duệ của Pagma thực sự là sự thật...</font>
+
+177
+00:08:45,430 --> 00:08:46,570
+<font face="Segoe UI" size="26">Tiểu thư Euphemina.</font>
+
+178
+00:08:47,490 --> 00:08:50,650
+<font face="Segoe UI" size="26">Ta có thể nhờ cô giúp thêm một việc nữa được không?</font>
+
+179
+00:08:53,110 --> 00:08:55,290
+<font face="Segoe UI" size="26">Mọi người, tất cả đã cầm chắc vũ khí trong tay chưa?!</font>
+
+180
+00:08:55,290 --> 00:08:56,520
+<font face="Segoe UI" size="26">Rồi!</font>
+
+181
+00:08:56,810 --> 00:08:59,140
+<font face="Segoe UI" size="26">Trước tiên, chúng ta phải giải cứu Huroi và Grid!</font>
+
+182
+00:08:59,490 --> 00:09:01,910
+<font face="Segoe UI" size="26">Lần này, chúng ta nhất định sẽ giành lại tự do cho chính mình!</font>
+
+183
+00:09:03,740 --> 00:09:06,520
+<font face="Segoe UI" size="26">Ta biết tỏng là lũ dân đen các ngươi sẽ dở trò này mà.</font>
+
+184
+00:09:06,880 --> 00:09:11,630
+<font face="Segoe UI" size="26">Ta có quyền bắt giữ bất kỳ kẻ nào dám làm loạn chống lại lãnh chúa của mình.</font>
+
+185
+00:09:12,160 --> 00:09:13,650
+<font face="Segoe UI" size="26">Valmont...</font>
+
+186
+00:09:13,650 --> 00:09:15,490
+<font face="Segoe UI" size="26">Đừng lo.</font>
+
+187
+00:09:15,490 --> 00:09:18,030
+<font face="Segoe UI" size="26">Ta sẽ chăm sóc thật tốt cho lò rèn của ngươi.</font>
+
+188
+00:09:19,530 --> 00:09:22,170
+<font face="Segoe UI" size="26">Đồ cặn bã khốn nạn!</font>
+
+189
+00:09:23,040 --> 00:09:27,040
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}</b><font size="15"><font color="#c1c6cd">Nhiệm vụ</font></font></font>
+
+190
+00:09:23,040 --> 00:09:27,040
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}<b><font size="15"><font color="#f0f0f0">Chờ Đợi</font></font></b></b></font>
+
+191
+00:09:23,040 --> 00:09:27,040
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}<b><font size="12"><font color="#f0f0f0">Thời Gian Còn Lại</font></font></b></b></font>
+
+192
+00:09:28,260 --> 00:09:31,550
+<font face="Segoe UI" size="26">Còn sáu tiếng nữa...</font>
+
+193
+00:09:37,690 --> 00:09:39,220
+<font face="Segoe UI" size="26">Tình hình này nguy hiểm quá!</font>
+
+194
+00:09:39,710 --> 00:09:41,720
+<font face="Segoe UI" size="26">Chúng ta phải cưỡng chế đăng xuất cậu ấy ra khỏi game ngay!</font>
+
+195
+00:09:41,720 --> 00:09:46,480
+<font face="Segoe UI" size="26">Nếu Huroi có mệnh hệ gì, công chúng sẽ nghĩ rằng bản thân trò chơi Satisfy này có vấn đề nguy hiểm.</font>
+
+196
+00:09:46,730 --> 00:09:50,170
+<font face="Segoe UI" size="26">Đáng lẽ Grid phải tới giải cứu cậu ta, nhưng giờ cậu ta vẫn đang kẹt cứng trong buồng giam kìa.</font>
+
+197
+00:09:50,490 --> 00:09:54,610
+<font face="Segoe UI" size="26">Có vẻ như việc phó thác vận mệnh của công ty vào một người chơi cấp thấp như cậu ta là điều không tưởng rồi...</font>
+
+198
+00:09:54,610 --> 00:09:58,010
+<font face="Segoe UI" size="26">Tỷ lệ giải cứu thành công lúc này chưa tới 1% nữa!</font>
+
+199
+00:09:59,780 --> 00:10:01,700
+<font face="Segoe UI" size="26">Đúng là Grid có cấp độ thấp,</font>
+
+200
+00:10:01,700 --> 00:10:04,750
+<font face="Segoe UI" size="26">nhưng cậu ấy đã từng nhiều lần vượt xa mọi kỳ vọng của chúng ta rồi.</font>
+
+201
+00:10:05,300 --> 00:10:09,320
+<font face="Segoe UI" size="26">Khả năng cậu ấy mở khóa được chức nghiệp thứ hai không phải là con số 0.</font>
+
+202
+00:10:11,940 --> 00:10:15,310
+<font face="Segoe UI" size="26">Chúng ta hãy đặt cược vào cậu ấy đi.</font>
+
+203
+00:10:17,010 --> 00:10:21,760
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}</b><font size="15"><font color="#c1c6cd">Nhiệm vụ</font></font></font>
+
+204
+00:10:17,010 --> 00:10:21,760
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}<b><font size="15"><font color="#f0f0f0">Tông Đồ của Công Lý</font></font></b></b></font>
+
+205
+00:10:17,010 --> 00:10:21,760
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}<b><font size="12"><font color="#f0f0f0">Thời Gian Còn Lại</font></font></b></b></font>
+
+206
+00:10:17,810 --> 00:10:20,350
+<font face="Segoe UI" size="26"><i>Còn một giờ nữa trước khi nhiệm vụ hết hạn.</i></font>
+
+207
+00:10:21,760 --> 00:10:25,270
+<font face="Segoe UI" size="26"><i>Nếu nữ thần may mắn thực sự tồn tại trên đời này...</i></font>
+
+208
+00:10:25,270 --> 00:10:28,930
+<font face="Segoe UI" size="26"><i>thì mình chỉ muốn đấm thẳng vào mặt cô ta một cú cho hả giận!</i></font>
+
+209
+00:10:29,520 --> 00:10:31,400
+<font face="Segoe UI" size="26">Grid.</font>
+
+210
+00:10:31,400 --> 00:10:33,400
+<font face="Segoe UI" size="26">Grid ơi.</font>
+
+211
+00:10:33,400 --> 00:10:35,090
+<font face="Segoe UI" size="26">{\an8}Grid!</font>
+
+212
+00:10:33,400 --> 00:10:35,770
+<font face="Segoe UI" size="26"><i>Con nhóc ranh đó làm cái quái gì ở đây thế?</i></font>
+
+213
+00:10:35,770 --> 00:10:36,780
+<font face="Segoe UI" size="26">Grid!</font>
+
+214
+00:10:36,780 --> 00:10:39,620
+<font face="Segoe UI" size="26"><i>Chẳng lẽ cô ta chính là nữ thần may mắn của mình sao?</i></font>
+
+215
+00:10:37,210 --> 00:10:42,720
+<font face="Segoe UI" size="26">{\an8}Grid! Grid! Grid!</font>
+
+216
+00:10:39,620 --> 00:10:41,780
+<font face="Segoe UI" size="26"><i>Dù là thế nào đi nữa, đây cũng là cơ hội duy nhất của mình!</i></font>
+
+217
+00:10:44,860 --> 00:10:46,940
+<font face="Segoe UI" size="26">Cậu đang ở cái xó nào thế hả?!</font>
+
+218
+00:10:46,940 --> 00:10:48,670
+<font face="Segoe UI" size="26">Mình ghét cay ghét đắng cái tên này thật đấy.</font>
+
+219
+00:10:53,270 --> 00:10:55,500
+<font face="Segoe UI" size="26">Đ-Đừng có dọa người ta giật bắn mình như thế chứ!</font>
+
+220
+00:10:55,500 --> 00:10:58,260
+<font face="Segoe UI" size="20">{\an8}<font size="32"><font face="Comic Sans MS"><font color="#d1d1d1">Thả tôi ra khỏi đây mau!!</font></font></font></font>
+
+221
+00:10:59,770 --> 00:11:02,390
+<font face="Segoe UI" size="26">Nếu cậu muốn tôi cứu cậu ra khỏi đây, tôi có điều kiện đấy.</font>
+
+222
+00:11:02,390 --> 00:11:03,450
+<font face="Segoe UI" size="20">{\an8}<font size="32"><font face="Comic Sans MS"><font color="#d1d1d1">Điều kiện á?</font></font></font></font>
+
+223
+00:11:03,870 --> 00:11:05,240
+<font face="Segoe UI" size="20">{\an8}<font size="32"><font face="Comic Sans MS"><font color="#d1d1d1">Ý cô là sao?</font></font></font></font>
+
+224
+00:11:04,990 --> 00:11:08,790
+<font face="Segoe UI" size="26">{\an8}Tôi muốn nhờ cậu chế tạo một món trang bị cho tôi, bằng chính thực lực của cậu.</font>
+
+225
+00:11:07,830 --> 00:11:08,790
+<font face="Segoe UI" size="20">{\an8}<font size="32"><font face="Comic Sans MS"><font color="#d1d1d1">Hửm?</font></font></font></font>
+
+226
+00:11:12,490 --> 00:11:14,520
+<font face="Segoe UI" size="26">Thoát nạn rồi!</font>
+
+227
+00:11:14,520 --> 00:11:15,770
+<font face="Segoe UI" size="26">Cầm lấy này.</font>
+
+228
+00:11:16,160 --> 00:11:18,150
+<font face="Segoe UI" size="26">Cảm ơn nhé, nhóc con.</font>
+
+229
+00:11:19,300 --> 00:11:23,010
+<font face="Segoe UI" size="26">Tên tôi rất dễ thương là Euphemina nhé.</font>
+
+230
+00:11:23,010 --> 00:11:24,850
+<font face="Segoe UI" size="26">Đừng có gọi tôi là "nhóc con" nữa.</font>
+
+231
+00:11:24,850 --> 00:11:26,550
+<font face="Segoe UI" size="26">Euphemina-san...</font>
+
+232
+00:11:26,550 --> 00:11:27,290
+<font face="Segoe UI" size="26">Sao thế?</font>
+
+233
+00:11:29,790 --> 00:11:33,290
+<font face="Segoe UI" size="26">Cô thực sự lặn lội tới đây cứu tôi chỉ vì muốn có một quả cầu ma thuật (orb) thôi sao?</font>
+
+234
+00:11:34,040 --> 00:11:36,820
+<font face="Segoe UI" size="26">Ra khỏi đây rồi cậu sẽ hiểu thôi.</font>
+
+235
+00:11:36,820 --> 00:11:38,600
+<font face="Segoe UI" size="26">Cái quái gì thế này?</font>
+
+236
+00:11:38,600 --> 00:11:41,290
+<font face="Segoe UI" size="26">Mà khoan đã, làm thế nào mà một thợ rèn lại đột nhập được vào tận đây chứ?</font>
+
+237
+00:11:41,290 --> 00:11:44,050
+<font face="Segoe UI" size="26">Tôi đâu phải là thợ rèn.</font>
+
+238
+00:11:44,610 --> 00:11:47,050
+<font face="Segoe UI" size="26">Tôi là một Sao chép sư (Duplicator). Chức nghiệp Sử thi hẳn hoi đấy.</font>
+
+239
+00:11:47,550 --> 00:11:52,230
+<font face="Segoe UI" size="26">Trong trận đấu rèn trang bị, tôi đã sao chép kỹ năng của sư phụ cậu đấy thôi.</font>
+
+240
+00:11:52,230 --> 00:11:55,970
+<font face="Segoe UI" size="26">Sử thi sao? Toàn server chỉ có vỏn vẹn ba người sở hữu thôi đúng không?</font>
+
+241
+00:11:55,970 --> 00:11:56,870
+<font face="Segoe UI" size="26">Chuẩn rồi.</font>
+
+242
+00:11:56,870 --> 00:11:59,740
+<font face="Segoe UI" size="26">Nhưng chức nghiệp của cậu còn hiếm hơn cả cấp Độc nhất (Unique) cơ mà, phải không?</font>
+
+243
+00:11:59,740 --> 00:12:01,280
+<font face="Segoe UI" size="26">À thì...</font>
+
+244
+00:12:02,230 --> 00:12:03,630
+<font face="Segoe UI" size="26">Hắn ta đang vượt ngục kìa!</font>
+
+245
+00:12:03,630 --> 00:12:04,740
+<font face="Segoe UI" size="26">Đừng hòng chạy thoát!</font>
+
+246
+00:12:05,260 --> 00:12:08,740
+<font face="Segoe UI" size="26">Khốn khiếp. Bộ bắt mình phải chiến đấu chỉ với độc một thanh dao găm này sao?</font>
+
+247
+00:12:10,250 --> 00:12:11,620
+<font face="Segoe UI" size="26"><i>Phẩm cấp Độc nhất (Unique) ư?!</i></font>
+
+248
+00:12:10,600 --> 00:12:15,880
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}<font size="10"><font color="#c24f6b">Dao Găm Lý Tưởng</font></font></b></font>
+
+249
+00:12:10,810 --> 00:12:12,350
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}</b><font size="12">Mức độ thấu hiểu của bạn về <b>Dao Găm Lý Tưởng</b>
+đã đạt 100%</font></font>
+
+250
+00:12:11,100 --> 00:12:12,560
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}<b><font size="12"><font color="#e4dfde">Dao Găm Lý Tưởng</font></font></b>
+Sức tấn công -20%
+
+
+
+
+
+
+
+
+Eiệu ứng điều kiện -50%</b></font>
+
+251
+00:12:12,210 --> 00:12:14,480
+<font face="Segoe UI" size="26"><i>Dù có chút hình phạt giảm trừ, nhưng nó vẫn mạnh đến khủng khiếp!</i></font>
+
+252
+00:12:12,730 --> 00:12:15,880
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}Kỹ năng</b></font>
+
+253
+00:12:13,310 --> 00:12:13,420
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}<font size="12"></font></b>Phản Xạ Nhanh</font>
+
+254
+00:12:13,390 --> 00:12:13,500
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}<font size="12"></font></b>Cuồng Phong Đao Khí</font>
+
+255
+00:12:13,420 --> 00:12:15,880
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}<font size="12"></font></b><font color="#dcfeff"><font color="#e4e8f0">Phản Xạ Nhanh</font></font></font>
+
+256
+00:12:13,500 --> 00:12:15,880
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}<font size="12"></font></b><font color="#dcfeff"><font color="#e4e8f0">Cuồng Phong Đao Khí</font></font></font>
+
+257
+00:12:14,480 --> 00:12:15,880
+<font face="Segoe UI" size="26"><i>Hướng dẫn từ hệ thống.</i></font>
+
+258
+00:12:15,880 --> 00:12:18,380
+<font face="Segoe UI" size="26"><i>Bạn đã học được kỹ năng mới.</i></font>
+
+259
+00:12:15,880 --> 00:12:17,350
+<font face="Segoe UI" size="26">{\an8}Mau cản bọn chúng lại!</font>
+
+260
+00:12:21,890 --> 00:12:23,260
+<font face="Segoe UI" size="26">Đỡ này!</font>
+
+261
+00:12:24,060 --> 00:12:24,930
+<font face="Segoe UI" size="26">Cuồng Phong Đao Khí!</font>
+
+262
+00:12:26,790 --> 00:12:29,060
+<font face="Segoe UI" size="26">Oa. Ngầu phết nhỉ.</font>
+
+263
+00:12:29,330 --> 00:12:30,680
+<font face="Segoe UI" size="26">Mau giúp tôi một tay đi!</font>
+
+264
+00:12:30,680 --> 00:12:32,520
+<font face="Segoe UI" size="26">Chúng ta phải nhanh chóng cứu Huroi!</font>
+
+265
+00:12:32,520 --> 00:12:34,690
+<font face="Segoe UI" size="26">Tôi chẳng thích làm không công chút nào đâu.</font>
+
+266
+00:12:34,690 --> 00:12:37,310
+<font face="Segoe UI" size="26">Cứ giúp tôi trước đi đã, nhóc con!</font>
+
+267
+00:12:38,580 --> 00:12:40,410
+<font face="Segoe UI" size="26">Tôi vừa mới nói cái gì hả?</font>
+
+268
+00:12:40,720 --> 00:12:43,320
+<font face="Segoe UI" size="26">Đã bảo là không được gọi tôi như thế rồi mà!</font>
+
+269
+00:12:43,320 --> 00:12:45,320
+<font face="Segoe UI" size="26">Hủy Diệt Chi Mâu (Spear of Annihilation)!</font>
+
+270
+00:12:52,130 --> 00:12:53,710
+<font face="Segoe UI" size="26">Đáng sợ vãi chưởng...</font>
+
+271
+00:12:53,710 --> 00:12:55,420
+<font face="Segoe UI" size="26">Đằng kia! Tôi tìm thấy bọn chúng rồi!</font>
+
+272
+00:12:55,420 --> 00:12:57,760
+<font face="Segoe UI" size="26">Bắt đầu phát ngán với lũ này rồi đấy.</font>
+
+273
+00:12:58,390 --> 00:12:58,960
+<font face="Segoe UI" size="26">Đứng lại đã!</font>
+
+274
+00:12:58,960 --> 00:13:00,460
+<font face="Segoe UI" size="26">Cậu tính chạy đi đâu đấy hả?</font>
+
+275
+00:13:00,460 --> 00:13:01,830
+<font face="Segoe UI" size="26">Tôi đi tìm Huroi đây!</font>
+
+276
+00:13:01,830 --> 00:13:03,090
+<font face="Segoe UI" size="26">Chặn chúng giùm tôi nhé!</font>
+
+277
+00:13:04,270 --> 00:13:05,680
+<font face="Segoe UI" size="26">Bắt lấy con nhỏ đó trước!</font>
+
+278
+00:13:05,680 --> 00:13:06,920
+<font face="Segoe UI" size="26">Xông lên mau!</font>
+
+279
+00:13:08,660 --> 00:13:12,020
+<font face="Segoe UI" size="26">Nếu mình dùng kỹ năng quá mạnh, cả cái ngục này sẽ sập mất.</font>
+
+280
+00:13:12,440 --> 00:13:14,970
+<font face="Segoe UI" size="26">Ước gì mình có thể thoải mái xả ma thuật hỏa diễm.</font>
+
+281
+00:13:14,970 --> 00:13:16,770
+<font face="Segoe UI" size="26">Nhưng ở trong này thì chịu rồi.</font>
+
+282
+00:13:19,870 --> 00:13:22,400
+<font face="Segoe UI" size="26">Nhanh cái chân lên đấy, Grid!</font>
+
+283
+00:13:22,980 --> 00:13:25,110
+<font face="Segoe UI" size="26"><i>Thời gian còn lại: năm phút.</i></font>
+
+284
+00:13:24,740 --> 00:13:25,990
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}</b><font size="8"><font color="#c1c6cd">Nhiệm vụ</font></font></font>
+
+285
+00:13:24,740 --> 00:13:25,990
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}<b><font size="8"><font color="#f0f0f0">Tông Đồ của Công Lý</font></font></b></b></font>
+
+286
+00:13:24,740 --> 00:13:25,990
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}<b><font size="8"><font color="#f0f0f0">Thời Gian Còn Lại</font></font></b></b></font>
+
+287
+00:13:25,110 --> 00:13:27,290
+<font face="Segoe UI" size="26">Khốn nạn thật! Hết sạch thời gian rồi!</font>
+
+288
+00:13:28,530 --> 00:13:29,240
+<font face="Segoe UI" size="26">Đằng kia!</font>
+
+289
+00:13:30,890 --> 00:13:31,950
+<font face="Segoe UI" size="26">Cậu đang ở đâu thế hả?!</font>
+
+290
+00:13:35,140 --> 00:13:36,400
+<font face="Segoe UI" size="26">Phía cuối hành lang đằng kia sao?</font>
+
+291
+00:13:40,400 --> 00:13:42,840
+<font face="Segoe UI" size="26">Ta là Hiệp sĩ của Winston...</font>
+
+292
+00:13:44,800 --> 00:13:45,840
+<font face="Segoe UI" size="26">Leo!</font>
+
+293
+00:13:46,560 --> 00:13:49,550
+<font face="Segoe UI" size="26"><i>Nếu là hiệp sĩ thì cấp độ của hắn ít nhất cũng phải cỡ level 180.</i></font>
+
+294
+00:13:49,550 --> 00:13:51,100
+<font face="Segoe UI" size="26"><i>Trong khi mình mới có level 21!</i></font>
+
+295
+00:13:51,100 --> 00:13:54,350
+<font face="Segoe UI" size="26">Ngươi đừng hòng bén mảng tới chỗ của Huroi!</font>
+
+296
+00:13:55,030 --> 00:13:57,470
+<font face="Segoe UI" size="26"><i>"Cơn Thịnh Nộ của Thợ Rèn" đã được kích hoạt.</i></font>
+
+297
+00:13:57,470 --> 00:13:59,020
+<font face="Segoe UI" size="26">Phản Xạ Nhanh!</font>
+
+298
+00:14:07,610 --> 00:14:08,570
+<font face="Segoe UI" size="26">Cuồng Phong Đao Khí!</font>
+
+299
+00:14:12,930 --> 00:14:14,180
+<font face="Segoe UI" size="26">Tên khốn kiếp.</font>
+
+300
+00:14:14,830 --> 00:14:15,620
+<font face="Segoe UI" size="26">Đã vậy thì...</font>
+
+301
+00:14:18,820 --> 00:14:21,130
+<font face="Segoe UI" size="26">Thanh kiếm hỏa diễm tối thượng của ta sẽ thiêu rụi ngươi</font>
+
+302
+00:14:22,000 --> 00:14:26,010
+<font face="Segoe UI" size="26">đến mảnh tro tàn cũng chẳng còn!</font>
+
+303
+00:14:31,300 --> 00:14:35,720
+<font face="Segoe UI" size="26">Khốn kiếp... cái đồ... sâu bọ...</font>
+
+304
+00:14:35,830 --> 00:14:37,980
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}</b>Danh hiệu<b>
+
+
+
+
+
+
+Kẻ Đồ Sát Hiệp Sĩ</b></font>
+
+305
+00:14:36,010 --> 00:14:38,480
+<font face="Segoe UI" size="26"><i>Bạn đã đánh bại Hiệp sĩ của Winston.</i></font>
+
+306
+00:14:36,330 --> 00:14:37,980
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}</b>Nhận được <b>Chìa Khóa Ngục Giam</b></font>
+
+307
+00:14:39,870 --> 00:14:41,650
+<font face="Segoe UI" size="26"><i>Bạn đã nhận được một danh hiệu mới.</i></font>
+
+308
+00:14:41,650 --> 00:14:43,980
+<font face="Segoe UI" size="26"><i>Bạn đã nhận được Chìa Khóa Ngục Giam.</i></font>
+
+309
+00:14:43,980 --> 00:14:46,990
+<font face="Segoe UI" size="26">Đừng có coi thường trang bị của bổn thiếu gia!</font>
+
+310
+00:14:46,990 --> 00:14:48,820
+<font face="Segoe UI" size="26"><i>Nhận được điểm kinh nghiệm.</i></font>
+
+311
+00:14:47,090 --> 00:14:52,490
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}<font size="32"><font color="#cfd2d5">Grid</font></font></b></font>
+
+312
+00:14:47,090 --> 00:14:52,490
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}<font size="32"><font color="#cfd2d5">Nghề nghiệp</font></font></b></font>
+
+313
+00:14:47,090 --> 00:14:52,490
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}<font size="32"><font color="#cfd2d5">Phẩm cấp</font></font></b></font>
+
+314
+00:14:47,090 --> 00:14:52,490
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}<font size="32"><font color="#cfd2d5">Danh hiệu</font></font></b></font>
+
+315
+00:14:47,090 --> 00:14:52,490
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}<font size="32"><font color="#c7a02e">Hậu duệ của Pagma</font></font></b></font>
+
+316
+00:14:47,090 --> 00:14:52,490
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}<font size="32"><font color="#c7a02e">Huyền thoại</font></font></b></font>
+
+317
+00:14:47,090 --> 00:14:52,490
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}<font size="32"><font color="#c7a02e">Kẻ Xuất Chúng Huyền Thoại</font></font></b></font>
+
+318
+00:14:47,090 --> 00:14:52,490
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}<font color="#5a6982">m 0 0 l 105 0 105 18 0 18</font></b></font>
+
+319
+00:14:47,090 --> 00:14:52,490
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}<font color="#465b72">m 0 0 l 75 0 75 48 0 48</font></b></font>
+
+320
+00:14:47,090 --> 00:14:52,490
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}<font color="#465b72">m 0 0 l 185 0 185 48 0 48</font></b></font>
+
+321
+00:14:49,910 --> 00:14:52,490
+<font face="Segoe UI" size="26"><i>Cấp độ hiện tại của bạn là level 45.</i></font>
+
+322
+00:14:52,900 --> 00:14:56,490
+<font face="Segoe UI" size="26">Tuyệt cú mèo!</font>
+
+323
+00:15:09,040 --> 00:15:12,660
+<font face="Segoe UI" size="26">Lúc tìm thấy cậu tôi đã tính đá đít cậu một cú cho bõ ghét rồi,</font>
+
+324
+00:15:12,660 --> 00:15:15,310
+<font face="Segoe UI" size="26">nhưng trông người ngợm cậu lúc này như sắp chết đến nơi rồi ấy.</font>
+
+325
+00:15:15,760 --> 00:15:18,250
+<font face="Segoe UI" size="26">Cậu là người của bác Khan...</font>
+
+326
+00:15:18,750 --> 00:15:19,500
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}</b><font size="8">Nhiệm vụ Ẩn</font></font>
+
+327
+00:15:18,750 --> 00:15:19,500
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}<font size="8">Chờ Đợi</font></b></font>
+
+328
+00:15:18,750 --> 00:15:19,500
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}<font size="10">Công ty Mero đã nhốt bạn trong ngục tối dưới lòng đất Thành Winston.
+Nếu bạn có thể kiên cường chờ đợi trong nhà ngục không lối thoát này,
+"Tông Đồ của Công Lý" mà bạn từng thất bại trong việc trở thành sẽ tới cứu bạn!
+
+
+Điều kiện hoàn thành: Không đăng xuất trong vòng 8 ngày thời gian trong game
+<font color="#b21534">*Đây là một nhiệm vụ cực kỳ nguy hiểm.
+Người chơi cao tuổi hoặc có vấn đề về sức khỏe vui lòng từ bỏ nhiệm vụ.
+
+
+<font color="#cfd2d8">Phần thưởng: Chức nghiệp thứ 2
+"Bạn Đồng Hành của Tông Đồ Công Lý"
+<font color="#b21534">*Mở khóa chỉ số "Dũng cảm"
+Tất cả chỉ số +20 khi ở cùng Tông Đồ Công Lý
+Nhận kỹ năng "Công Lý Bất Khuất" + "Hi Sinh Vì Công Lý"
+<font color="#cfd2d8">Danh hiệu "Kẻ Vượt Qua Nghịch Cảnh"
+<font color="#b21534">*Mở khóa chỉ số "Bất Khuất"
+Nhận kỹ năng "Ý Chí Kiên Cường"
+
+
+<font color="#cfd2d8">Thất bại: Không có hình phạt</font></font></font></font></font></font></font></b></font>
+
+329
+00:15:18,750 --> 00:15:19,500
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}<font color="#495e7b">m 0 0 l 320 0 320 108 0 108</font></b></font>
+
+330
+00:15:19,670 --> 00:15:21,120
+<font face="Segoe UI" size="26"><i>Nhiệm vụ hoàn thành.</i></font>
+
+331
+00:15:19,750 --> 00:15:21,120
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}</b><font size="9"><font color="#c1c6cd">Nhiệm vụ Ẩn</font></font></font>
+
+332
+00:15:19,750 --> 00:15:21,120
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}<b><font size="9"><font color="#c1c6cd">Chờ Đợi</font></font></b></b></font>
+
+333
+00:15:19,750 --> 00:15:21,120
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}</b><font size="15"><font color="#f5f7fc">Hoàn Thành Nhiệm Vụ!
+Bạn đã nhận được phần thưởng!</font></font></font>
+
+334
+00:15:21,240 --> 00:15:22,520
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}<font size="12"></font></b>Chức nghiệp thứ 2
+<b>Bạn Đồng Hành của Tông Đồ Công Lý</b></font>
+
+335
+00:15:21,750 --> 00:15:22,520
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}<font size="12"></font></b>Danh hiệu
+<b>Kẻ Vượt Qua Nghịch Cảnh</b></font>
+
+336
+00:15:22,520 --> 00:15:29,530
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}<font size="9"></font></b>Chức nghiệp thứ 2
+<b>Bạn Đồng Hành của Tông Đồ Công Lý</b></font>
+
+337
+00:15:22,520 --> 00:15:29,530
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}<font color="#546788">m 0 0 l 150 0 150 11 0 11</font></b></font>
+
+338
+00:15:22,520 --> 00:15:29,530
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}<font size="9"></font></b>Danh hiệu
+<b>Kẻ Vượt Qua Nghịch Cảnh</b></font>
+
+339
+00:15:22,520 --> 00:15:29,530
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}<font color="#546788">m 0 0 l 150 0 150 11 0 11</font></b></font>
+
+340
+00:15:22,520 --> 00:15:24,290
+<font face="Segoe UI" size="26"><i>Xin chúc mừng.</i></font>
+
+341
+00:15:24,290 --> 00:15:28,890
+<font face="Segoe UI" size="26"><i>Bạn là người chơi đầu tiên trong <i>Satisfy</i> 
+mở khóa được chức nghiệp thứ hai.</i></font>
+
+342
+00:15:29,530 --> 00:15:33,830
+<font face="Segoe UI" size="26"><i>Tên tuổi của bạn sẽ được lưu truyền 
+muôn đời trong thế giới này.</i></font>
+
+343
+00:15:35,050 --> 00:15:37,760
+<font face="Segoe UI" size="26">Kết quả này thực sự vượt xa 
+tất cả những gì mình từng dám mơ ước!</font>
+
+344
+00:15:38,540 --> 00:15:41,500
+<font face="Segoe UI" size="26">Mình đã nhận được danh hiệu Tông Đồ của Công Lý rồi!</font>
+
+345
+00:15:41,500 --> 00:15:42,710
+<font face="Segoe UI" size="26">Grid đại nhân...</font>
+
+346
+00:15:42,710 --> 00:15:43,920
+<font face="Segoe UI" size="26">Hả? "Đại nhân" á?</font>
+
+347
+00:15:44,730 --> 00:15:47,560
+<font face="Segoe UI" size="26">Huroi tôi, người mang trong mình 
+dòng máu của loài sói xanh...</font>
+
+348
+00:15:48,170 --> 00:15:51,930
+<font face="Segoe UI" size="26">nhất định sẽ báo đáp ơn nghĩa cứu mạng 
+của ngài ngày hôm nay!</font>
+
+349
+00:15:52,880 --> 00:15:56,170
+<font face="Segoe UI" size="26">Tôi xin lấy danh nghĩa bạn đồng hành của 
+Tông Đồ Công Lý ra để thề độc!</font>
+
+350
+00:15:57,880 --> 00:15:59,450
+<font face="Segoe UI" size="26">Ờ, được thôi.</font>
+
+351
+00:16:04,570 --> 00:16:07,870
+<font face="Segoe UI" size="26">Không thể tin nổi là hai người họ lại thực sự làm được điều đó...</font>
+
+352
+00:16:08,640 --> 00:16:12,150
+<font face="Segoe UI" size="26">Bây giờ tất cả những gì còn lại là trốn thoát khỏi đây an toàn.</font>
+
+353
+00:16:17,170 --> 00:16:19,410
+<font face="Segoe UI" size="26"><i>Mình chỉ còn sót lại đúng một kỹ năng duy nhất.</i></font>
+
+354
+00:16:19,690 --> 00:16:21,660
+<font face="Segoe UI" size="26"><i>Nhưng uy lực của nó lại quá khủng khiếp.</i></font>
+
+355
+00:16:23,160 --> 00:16:25,380
+<font face="Segoe UI" size="26">Ta sẽ báo thù cho các đồng đội của mình!</font>
+
+356
+00:16:27,290 --> 00:16:28,550
+<font face="Segoe UI" size="26">Xin lỗi nhé.</font>
+
+357
+00:16:30,160 --> 00:16:31,900
+<font face="Segoe UI" size="26">Mất nhiều thời gian hơn tôi tưởng!</font>
+
+358
+00:16:32,260 --> 00:16:33,680
+<font face="Segoe UI" size="26">Grid!</font>
+
+359
+00:16:33,680 --> 00:16:34,640
+<font face="Segoe UI" size="26">Ừ.</font>
+
+360
+00:16:34,640 --> 00:16:36,220
+<font face="Segoe UI" size="26">Trông cô vẫn còn sung sức chán nhỉ.</font>
+
+361
+00:16:36,220 --> 00:16:40,190
+<font face="Segoe UI" size="26">Cậu làm cái quái gì mà lề mà lề mề thế hả! Đồ ngốc! Đồ cặn bã! Đồ đần độn!</font>
+
+362
+00:16:40,190 --> 00:16:42,180
+<font face="Segoe UI" size="26">Biết thế khỏi quay lại cứu cho rồi.</font>
+
+363
+00:16:45,000 --> 00:16:46,060
+<font face="Segoe UI" size="26">Cẩn thận!</font>
+
+364
+00:16:56,300 --> 00:16:59,250
+<font face="Segoe UI" size="26">Huroi! Cậu có sao không?</font>
+
+365
+00:16:59,250 --> 00:17:00,200
+<font face="Segoe UI" size="26">Tôi không sao.</font>
+
+366
+00:17:00,200 --> 00:17:04,580
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}<font size="30"><font color="#d1d3d7">Kỹ năng</font></font></b></font>
+
+367
+00:17:00,200 --> 00:17:04,580
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}<font size="12"></font></b>Ý Chí Bất Khuất</font>
+
+368
+00:17:00,200 --> 00:17:04,580
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}<font size="12"></font></b>Công Lý Bất Khuất</font>
+
+369
+00:17:00,200 --> 00:17:04,580
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}<font size="12"></font></b>Hi Sinh Vì Công Lý</font>
+
+370
+00:17:00,480 --> 00:17:04,580
+<font face="Segoe UI" size="26"><i>Tôi vừa nhận được kỹ năng mới nhờ sống sót qua nhiệm vụ.</i></font>
+
+371
+00:17:01,310 --> 00:17:04,580
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}<font size="14"><font color="#d1d3d7">Ý Chí Bất Khuất</font></font></b></font>
+
+372
+00:17:01,310 --> 00:17:04,580
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}</b><font size="12"><font color="#d1d3d7">* Vô hiệu hóa một đòn tấn công bất kỳ trong vòng mười giây.</font></font></font>
+
+373
+00:17:06,170 --> 00:17:08,350
+<font face="Segoe UI" size="26">Hai người cứ việc chạy ra trước đi.</font>
+
+374
+00:17:08,660 --> 00:17:10,870
+<font face="Segoe UI" size="26">Để tôi ở lại chặn đường bọn chúng cho.</font>
+
+375
+00:17:11,600 --> 00:17:15,620
+<font face="Segoe UI" size="26">Tôi đã thề sẽ dành trọn phần đời còn lại của mình để báo đáp ân tình của Grid đại nhân.</font>
+
+376
+00:17:15,620 --> 00:17:17,420
+<font face="Segoe UI" size="26">Được đấy, nghe chí lý lắm!</font>
+
+377
+00:17:17,420 --> 00:17:18,850
+<font face="Segoe UI" size="26">Đợi tôi với chứ!</font>
+
+378
+00:17:18,850 --> 00:17:20,390
+<font face="Segoe UI" size="26">Đứng lại! Chúng tao không để bọn mày trốn thoát đâu!</font>
+
+379
+00:17:20,390 --> 00:17:23,270
+<font face="Segoe UI" size="26">Đứng yên tại chỗ cho tao, lũ khốn kiếp!</font>
+
+380
+00:17:24,680 --> 00:17:25,500
+<font face="Segoe UI" size="26">Cơ thể mình không cử động được!</font>
+
+381
+00:17:25,500 --> 00:17:28,770
+<font face="Segoe UI" size="26">Lũ cặn bã các ngươi còn không xứng đáng bằng thứ rác rưởi.</font>
+
+382
+00:17:28,770 --> 00:17:32,400
+<font face="Segoe UI" size="26">Tao sẽ băm vằm tụi bay ra thành từng mảnh rồi ném cho lợn ăn.</font>
+
+383
+00:17:32,870 --> 00:17:34,740
+<font face="Segoe UI" size="26">Hãy nếm thử kỹ năng mới của tao đi!</font>
+
+384
+00:17:36,540 --> 00:17:38,070
+<font face="Segoe UI" size="26">Công Lý Bất Khuất!</font>
+
+385
+00:17:42,120 --> 00:17:45,210
+<font face="Segoe UI" size="26"><i>Grid đại nhân, chúc ngài may mắn!</i></font>
+
+386
+00:17:52,680 --> 00:17:54,340
+<font face="Segoe UI" size="26">Các ngươi tưởng mình có thể trốn thoát được sao?</font>
+
+387
+00:17:55,400 --> 00:17:56,500
+<font face="Segoe UI" size="26">Làm cái gì đi chứ!</font>
+
+388
+00:17:56,500 --> 00:17:59,090
+<font face="Segoe UI" size="26">Này, cái tên ngốc này! Ôi trời đất ơi là trời!</font>
+
+389
+00:17:59,090 --> 00:18:02,650
+<font face="Segoe UI" size="26">Ra ngoài này rồi thì mình có thể thoải mái tung hàng khủng rồi!</font>
+
+390
+00:18:04,850 --> 00:18:06,760
+<font face="Segoe UI" size="26">Hỏa Diễm Đuôi Ma Vương (Demon King's Tail Fire)!</font>
+
+391
+00:18:30,890 --> 00:18:32,620
+<font face="Segoe UI" size="26">Giờ thì thấy nhẹ nhõm sảng khoái hơn hẳn rồi đấy.</font>
+
+392
+00:18:33,210 --> 00:18:34,880
+<font face="Segoe UI" size="26">Đáng sợ vãi chưởng...</font>
+
+393
+00:18:34,880 --> 00:18:37,170
+<font face="Segoe UI" size="26">C-Chỉ với một đòn duy nhất sao?</font>
+
+394
+00:18:37,680 --> 00:18:39,500
+<font face="Segoe UI" size="26">Từ đây cứ để tôi lo liệu.</font>
+
+395
+00:18:41,550 --> 00:18:44,630
+<font face="Segoe UI" size="26">Rabbit! Ngươi đến để cứu ta đấy à?</font>
+
+396
+00:18:50,890 --> 00:18:53,570
+<font face="Segoe UI" size="26">Valmont, ta sẽ giao nộp ngài cho chính quyền xử lý.</font>
+
+397
+00:18:55,410 --> 00:18:57,070
+<font face="Segoe UI" size="26">Ngươi dám phản bội ta sao?!</font>
+
+398
+00:18:57,290 --> 00:19:00,410
+<font face="Segoe UI" size="26">Tôi đã chịu đựng quá đủ cái cách hành xử bẩn thỉu của ngài rồi.</font>
+
+399
+00:19:02,240 --> 00:19:03,480
+<font face="Segoe UI" size="26">Và hơn hết...</font>
+
+400
+00:19:03,480 --> 00:19:05,990
+<font face="Segoe UI" size="26">tôi chỉ đơn thuần ưu tiên lợi ích thiết thực của bản thân mình mà thôi.</font>
+
+401
+00:19:06,220 --> 00:19:08,250
+<font face="Segoe UI" size="26">Dù sao thì tôi cũng là một thương nhân mà.</font>
+
+402
+00:19:08,970 --> 00:19:11,750
+<font face="Segoe UI" size="26">Đấy nhé, tôi đã cứu mạng cậu rồi đấy.</font>
+
+403
+00:19:12,010 --> 00:19:13,600
+<font face="Segoe UI" size="26">Tất cả là do Rabbit đã chủ động nhờ tôi đấy.</font>
+
+404
+00:19:14,050 --> 00:19:16,850
+<font face="Segoe UI" size="26">À, ra là vậy...</font>
+
+405
+00:19:16,850 --> 00:19:17,840
+<font face="Segoe UI" size="26">Grid-san.</font>
+
+406
+00:19:19,010 --> 00:19:21,910
+<font face="Segoe UI" size="26">Ta muốn đặt trọn niềm tin vào cậu.</font>
+
+407
+00:19:23,130 --> 00:19:25,450
+<font face="Segoe UI" size="26">Tài năng rèn đúc của cậu là hàng thật giá thật.</font>
+
+408
+00:19:25,760 --> 00:19:30,020
+<font face="Segoe UI" size="26">Nhưng giá trị mà một cá nhân đơn độc có thể tạo ra luôn có giới hạn của nó.</font>
+
+409
+00:19:30,020 --> 00:19:33,010
+<font face="Segoe UI" size="26">Nếu cậu bằng lòng bắt tay hợp tác cùng ta,</font>
+
+410
+00:19:33,520 --> 00:19:36,600
+<font face="Segoe UI" size="26">ta cam đoan sẽ mang lại thành công vang dội cho cậu tại công ty mới của ta.</font>
+
+411
+00:19:37,690 --> 00:19:38,900
+<font face="Segoe UI" size="26">Ý ông là...</font>
+
+412
+00:19:39,860 --> 00:19:42,410
+<font face="Segoe UI" size="26">Ta sẽ biến cậu thành một kẻ giàu sứt đầu mẻ trán.</font>
+
+413
+00:19:42,650 --> 00:19:44,780
+<font face="Segoe UI" size="26">Giàu nứt đố đổ vách á?!</font>
+
+414
+00:19:44,780 --> 00:19:49,030
+<font face="Segoe UI" size="26">Này, đừng có mà quên thỏa thuận giữa hai chúng ta đấy nhé.</font>
+
+415
+00:19:49,030 --> 00:19:50,790
+<font face="Segoe UI" size="26">Cậu còn nợ tôi một quả cầu ma thuật (orb) đấy.</font>
+
+416
+00:19:50,790 --> 00:19:52,170
+<font face="Segoe UI" size="26">Cứ để đó cho tôi.</font>
+
+417
+00:19:53,190 --> 00:19:54,540
+<font face="Segoe UI" size="26">Xong ngay ấy mà.</font>
+
+418
+00:19:54,540 --> 00:19:59,390
+<font face="Segoe UI" size="26"><i>Nhóc con, cô phải đưa bản thiết kế miễn phí cho tôi đấy nhé!</i></font>
+
+419
+00:20:00,100 --> 00:20:01,520
+<font face="Segoe UI" size="26">Thôi nhé, hẹn gặp lại sau!</font>
+
+420
+00:20:05,080 --> 00:20:09,190
+<font face="Segoe UI" size="26">Ta dự định sẽ khởi đầu công ty mới ngay từ chính lò rèn của Khan-san.</font>
+
+421
+00:20:09,540 --> 00:20:12,050
+<font face="Segoe UI" size="26">Ta sẽ bàn chi tiết cụ thể với cậu vào dịp khác.</font>
+
+422
+00:20:12,730 --> 00:20:13,480
+<font face="Segoe UI" size="26">Được thôi.</font>
+
+423
+00:20:14,820 --> 00:20:15,730
+<font face="Segoe UI" size="26">Trông cậy cả vào ông đấy nhé.</font>
+
+424
+00:20:16,730 --> 00:20:20,740
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}<font size="30"><font color="#4a4f5a">Huroi</font></font></b></font>
+
+425
+00:20:18,030 --> 00:20:23,890
+<font face="Segoe UI" size="26">Tình trạng sức khỏe của Huroi có vẻ ổn, nhưng để an toàn, chúng tôi đã tạm khóa đăng nhập của cậu ấy.</font>
+
+426
+00:20:24,320 --> 00:20:26,620
+<font face="Segoe UI" size="26">Chúng tôi sẽ bảo đảm cậu ấy được nghỉ ngơi đầy đủ.</font>
+
+427
+00:20:26,880 --> 00:20:31,890
+<font face="Segoe UI" size="26">Sự ra đời của người chơi đầu tiên trong <i>Satisfy</i> sở hữu cùng lúc hai chức nghiệp.</font>
+
+428
+00:20:31,870 --> 00:20:36,880
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}<font size="30"><font color="#404242">Grid</font></font></b></font>
+
+429
+00:20:32,470 --> 00:20:36,880
+<font face="Segoe UI" size="26">Grid lại một lần nữa viết nên trang sử mới rồi nhỉ?</font>
+
+430
+00:20:37,980 --> 00:20:40,570
+<font face="Segoe UI" size="26">Mặc dù chính bản thân cậu ấy còn chẳng hề hay biết gì về điều đó.</font>
+
+431
+00:20:42,070 --> 00:20:44,010
+<font face="Segoe UI" size="26"><i>Bản tin đặc biệt khẩn cấp!</i></font>
+
+432
+00:20:44,240 --> 00:20:50,120
+<font face="Segoe UI" size="26"><i>Người chơi đầu tiên trong lịch sử <i>Satisfy</i> 
+sở hữu hai chức nghiệp!</i></font>
+
+433
+00:20:50,120 --> 00:20:51,140
+<font face="Segoe UI" size="26">Người ta vừa nói cái gì cơ?</font>
+
+434
+00:20:51,140 --> 00:20:54,520
+<font face="Segoe UI" size="26"><i>{\an8}Việc sở hữu chức nghiệp thứ hai mang lại vô vàn lợi ích to lớn.</i></font>
+
+435
+00:20:51,140 --> 00:20:58,900
+<font face="Segoe UI" size="20">{\an8}<font size="14"><font face="Arial Black"><font color="#fafafa"><i>Người chơi đầu tiên của Satisfy <font color="#1e1e1e">sở hữu chức nghiệp thứ 2!</font></i></font></font></font></font>
+
+436
+00:20:54,520 --> 00:20:58,900
+<font face="Segoe UI" size="26"><i>{\an8}Theo ghi nhận, người chơi sẽ nhận được điểm tăng chỉ số gấp đôi mỗi khi lên cấp!</i></font>
+
+437
+00:20:59,200 --> 00:21:01,200
+<font face="Segoe UI" size="26">Thế thì gian lận quá rồi...</font>
+
+438
+00:20:59,200 --> 00:21:03,900
+<font face="Segoe UI" size="26"><i>{\an8}Nhiều người chơi trước đây vốn tập trung tìm kiếm các chức nghiệp hiếm,</i></font>
+
+439
+00:21:03,900 --> 00:21:08,160
+<font face="Segoe UI" size="26"><i>{\an8}nhưng giờ đây sẽ có thêm rất nhiều người tìm cách sở hữu chức nghiệp thứ hai!</i></font>
+
+440
+00:21:08,380 --> 00:21:12,080
+<font face="Segoe UI" size="26"><i>Điều này sẽ làm thay đổi diện mạo của <i>Satisfy</i> mãi mãi!</i></font>
+
+441
+00:21:19,180 --> 00:21:21,820
+<font face="Segoe UI" size="26">Chẳng thấy tin tức gì từ Huroi cả nhỉ?</font>
+
+442
+00:21:22,190 --> 00:21:24,830
+<font face="Segoe UI" size="26">Xem ra cậu ta vẫn chưa đăng nhập lại vào game.</font>
+
+443
+00:21:25,550 --> 00:21:27,680
+<font face="Segoe UI" size="26">Mà thôi, đó đâu phải chuyện của mình!</font>
+
+444
+00:21:28,070 --> 00:21:32,240
+<font face="Segoe UI" size="26">Dù sao thì nhờ có Rabbit, sắp tới mình sẽ giàu to rồi!</font>
+
+445
+00:21:32,240 --> 00:21:34,600
+<font face="Segoe UI" size="26"><i><i>Satisfy</i>! Đã sẵn sàng?</i></font>
+
+446
+00:21:35,600 --> 00:21:38,170
+<font face="Segoe UI" size="26">R-Rabbit cũng bị bắt giam luôn rồi á?!</font>
+
+447
+00:21:38,170 --> 00:21:40,660
+<font face="Segoe UI" size="26">Ừ, lão ta phải ngồi tù bóc lịch tận 10 năm lận.</font>
+
+448
+00:21:40,660 --> 00:21:42,230
+<font face="Segoe UI" size="26">Bá tước Steim tuyệt đối không nương tay</font>
+
+449
+00:21:42,230 --> 00:21:45,990
+<font face="Segoe UI" size="26">với bất kỳ ai dính líu đến những tội ác của Công ty Mero.</font>
+
+450
+00:21:45,990 --> 00:21:47,870
+<font face="Segoe UI" size="26">Thế còn công ty mới của cháu thì tính sao đây hả trời?!</font>
+
+451
+00:21:47,870 --> 00:21:49,360
+<font face="Segoe UI" size="26">Giải tán rồi, còn sao với trăng gì nữa.</font>
+
+452
+00:21:49,360 --> 00:21:50,490
+<font face="Segoe UI" size="26">Đến bao giờ cháu mới được đổi đời thành đại gia đây?!</font>
+
+453
+00:21:50,490 --> 00:21:52,310
+<font face="Segoe UI" size="26">Còn lâu nhé cháu.</font>
+
+454
+00:21:56,150 --> 00:22:00,960
+<font face="Segoe UI" size="26">À phải rồi, Bá tước Steim sẽ đích thân quản lý ngôi làng này tốt hơn trước.</font>
+
+455
+00:22:00,960 --> 00:22:04,010
+<font face="Segoe UI" size="26">Ngài ấy đã phái một người mới tới đây tiếp quản.</font>
+
+456
+00:22:05,060 --> 00:22:07,450
+<font face="Segoe UI" size="26">Là con gái cưng của ngài ấy.</font>
+

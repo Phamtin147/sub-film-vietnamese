@@ -1,0 +1,1356 @@
+﻿[Script Info]
+Title: The Godfather (1972) - VietSub (Synced by Phamtin147)
+Original Script: Altair
+Timing & Re-sync: Phamtin147
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1920
+PlayResY: 1080
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,65,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,0,0,0,0,100,100,0,0,1,3.5,1.5,2,40,40,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:54.98,0:00:57.98,Default,,0,0,0,,Phudeviet.org trân trọng giới thiệu
+Dialogue: 0,0:00:58.98,0:01:01.98,Default,,0,0,0,,THE GODFATHER
+Dialogue: 0,0:01:02.98,0:01:05.98,Default,,0,0,0,,Dịch: Altair | Timing & Resync: Phamtin147
+Dialogue: 0,0:01:16.82,0:01:19.65,Default,,0,0,0,,Tôi tin tưởng ở Mỹ quốc.
+Dialogue: 0,0:01:19.74,0:01:22.70,Default,,0,0,0,,Nước Mỹ đã cho tôi cơ hội nở mày nở mặt.
+Dialogue: 0,0:01:22.78,0:01:26.91,Default,,0,0,0,,Tôi nuôi dạy con gái\Nnhư bất cứ người Mỹ nào.
+Dialogue: 0,0:01:26.99,0:01:31.83,Default,,0,0,0,,Tôi không giữ rịt nó ở trong nhà vì tin\Nlà đã giáo huấn nó về danh dự gia đình.
+Dialogue: 0,0:01:33.19,0:01:36.32,Default,,0,0,0,,Con bé có thằng bạn thân,\Nkhông phải người Ý.
+Dialogue: 0,0:01:36.46,0:01:40.89,Default,,0,0,0,,Tụi nó đi xi-nê với nhau đến khuya mới về.
+Dialogue: 0,0:01:41.01,0:01:42.72,Default,,0,0,0,,Tôi không nói một lời.
+Dialogue: 0,0:01:43.80,0:01:48.52,Default,,0,0,0,,Cách đây hai tháng, nó lái xe rủ con nhỏ\Nđi chơi cùng một thằng bạn nữa.
+Dialogue: 0,0:01:49.56,0:01:52.19,Default,,0,0,0,,Chúng cho con nhỏ uống whiskey...
+Dialogue: 0,0:01:52.27,0:01:56.65,Default,,0,0,0,,rồi toan làm hỗn.
+Dialogue: 0,0:01:56.73,0:02:00.86,Default,,0,0,0,,Con bé không chịu, không để mình bị nhục.
+Dialogue: 0,0:02:02.20,0:02:05.20,Default,,0,0,0,,Tụi nó đập, như đập một con vật vậy.
+Dialogue: 0,0:02:07.03,0:02:12.00,Default,,0,0,0,,Lúc tôi vô nhà thương,\Ncon nhỏ mũi dập, hàm bể
+Dialogue: 0,0:02:12.08,0:02:16.54,Default,,0,0,0,,phải kẹp không biết bao nhiêu chỗ!
+Dialogue: 0,0:02:18.75,0:02:22.17,Default,,0,0,0,,Nó đau đến độ khóc cũng chẳng được.
+Dialogue: 0,0:02:24.22,0:02:27.72,Default,,0,0,0,,Tôi đã khóc. Làm sao tôi khóc?
+Dialogue: 0,0:02:30.39,0:02:32.73,Default,,0,0,0,,Vì con nhỏ là cuộc đời tôi.
+Dialogue: 0,0:02:34.69,0:02:36.40,Default,,0,0,0,,Con bé đẹp lắm.
+Dialogue: 0,0:02:40.07,0:02:43.03,Default,,0,0,0,,Bây giờ thì nó chẳng còn\Nđẹp với ai được nữa.
+Dialogue: 0,0:02:49.58,0:02:50.95,Default,,0,0,0,,Xin lỗi.
+Dialogue: 0,0:02:59.25,0:03:03.92,Default,,0,0,0,,Là một người Mĩ lương thiện,\Ntôi đi thưa cảnh sát.
+Dialogue: 0,0:03:04.01,0:03:06.68,Default,,0,0,0,,Cả hai thằng bị truy tố ra toà.
+Dialogue: 0,0:03:07.76,0:03:10.56,Default,,0,0,0,,Quan tòa quyết mỗi đứa ba năm.
+Dialogue: 0,0:03:10.64,0:03:12.77,Default,,0,0,0,,Nhưng lại là tù treo.
+Dialogue: 0,0:03:13.93,0:03:18.94,Default,,0,0,0,,Tù treo! Chúng ung dung ra về!
+Dialogue: 0,0:03:21.23,0:03:24.53,Default,,0,0,0,,Tôi đứng ngơ ngẩn trước toà.
+Dialogue: 0,0:03:24.61,0:03:28.12,Default,,0,0,0,,Còn bị hai thằng súc sinh cười vào mặt nữa.
+Dialogue: 0,0:03:29.37,0:03:34.96,Default,,0,0,0,,Tôi bèn nói với nhà tôi, “Việc này\Nphải nhờ đến Ông Trùm mới xong…”.
+Dialogue: 0,0:03:40.38,0:03:44.76,Default,,0,0,0,,Vậy ông đi thưa cảnh sát làm gì?\NTại sao ngay từ đầu ông không đến tôi luôn?
+Dialogue: 0,0:03:44.88,0:03:48.40,Default,,0,0,0,,Tôi phải mất gì cho ông?\NÔng muốn gì cứ nói.
+Dialogue: 0,0:03:48.42,0:03:51.00,Default,,0,0,0,,Xong thì bao nhiêu tôi cũng chi.
+Dialogue: 0,0:03:51.05,0:03:52.72,Default,,0,0,0,,Ông nhờ cái gì mới được?
+Dialogue: 0,0:04:03.86,0:04:05.69,Default,,0,0,0,,Tôi muốn chúng chết.
+Dialogue: 0,0:04:17.33,0:04:19.12,Default,,0,0,0,,Cái vụ đó làm thế nào được.
+Dialogue: 0,0:04:20.46,0:04:22.96,Default,,0,0,0,,Ông muốn bao nhiêu tôi cũng chịu hết.
+Dialogue: 0,0:04:25.25,0:04:30.89,Default,,0,0,0,,Tôi với ông biết nhau lâu rồi, nhưng\Nchưa bao giờ ông đến nhờ tôi giúp đỡ.
+Dialogue: 0,0:04:32.05,0:04:37.10,Default,,0,0,0,,Mà ông cũng chẳng thèm mời lại nhà\Nuống tách cà phê.
+Dialogue: 0,0:04:38.27,0:04:42.02,Default,,0,0,0,,Mà vợ tôi lại là mẹ đỡ\Nđầu của con bé nhà ông bạn đấy.
+Dialogue: 0,0:04:42.11,0:04:47.11,Default,,0,0,0,,Ta nói thẳng với nhau thế này.\NÔng đã coi khinh tình bạn của tôi.
+Dialogue: 0,0:04:47.19,0:04:50.95,Default,,0,0,0,,Ông ngại phải mang ơn tôi.
+Dialogue: 0,0:04:51.03,0:04:53.45,Default,,0,0,0,,Tại tính tôi không muốn rắc rối…
+Dialogue: 0,0:04:54.58,0:04:56.20,Default,,0,0,0,,Tôi hiểu quá mà.
+Dialogue: 0,0:04:57.70,0:05:00.58,Default,,0,0,0,,Với ông nước Mĩ là thiên đường.
+Dialogue: 0,0:05:02.88,0:05:07.55,Default,,0,0,0,,Ông có cuộc sống an lạc, có cảnh sát\Ntrông nom, có pháp luật bảo vệ.
+Dialogue: 0,0:05:07.63,0:05:10.34,Default,,0,0,0,,Đâu phải nhờ vả đến thằng này.
+Dialogue: 0,0:05:11.88,0:05:15.56,Default,,0,0,0,,Thế rồi bây giờ ông đến\Ntìm tôi và bảo,
+Dialogue: 0,0:05:15.64,0:05:18.06,Default,,0,0,0,,"Don Corleone, xin ông\Nthế thiên hành đạo giúp cho."
+Dialogue: 0,0:05:19.98,0:05:22.81,Default,,0,0,0,,Ông còn nói với tôi bằng\Ngiọng thiếu lễ độ nữa.
+Dialogue: 0,0:05:22.90,0:05:27.61,Default,,0,0,0,,Ông không nhân danh tình bạn. Ông\Nkhông thèm gọi tôi là Bố già.
+Dialogue: 0,0:05:29.32,0:05:36.20,Default,,0,0,0,,Ông nhè đúng ngày tôi gả con để tới chơi\Nvà đề nghị tôi giết người vì tiền.
+Dialogue: 0,0:05:36.29,0:05:38.83,Default,,0,0,0,,Tôi xin ông công lí.
+Dialogue: 0,0:05:38.91,0:05:41.92,Default,,0,0,0,,Công lý đâu có như vậy.\NCon gái ông còn sống sờ sờ ra.
+Dialogue: 0,0:05:42.96,0:05:46.42,Default,,0,0,0,,Phải bắt chúng chịu những\Nđau đớn mà con tôi đã chịu.
+Dialogue: 0,0:05:48.55,0:05:50.84,Default,,0,0,0,,Ông bạn tính bao nhiêu xin cho biết?
+Dialogue: 0,0:06:05.52,0:06:09.44,Default,,0,0,0,,Bonasera, Bonasera.
+Dialogue: 0,0:06:09.53,0:06:13.61,Default,,0,0,0,,Tôi đã làm những gì mà ông bạn\Nnỡ nào đánh giá tôi quá rẻ nhường ấy?
+Dialogue: 0,0:06:14.74,0:06:17.28,Default,,0,0,0,,Nếu ông nhớ đến thằng này thì dễ quá,
+Dialogue: 0,0:06:17.37,0:06:21.79,Default,,0,0,0,,ngay giờ này hai thằng súc sinh kia\Nchắc chắn sẽ khốn nạn hơn con nhỏ nhiều.
+Dialogue: 0,0:06:22.92,0:06:28.09,Default,,0,0,0,,Và người đứng đắn như ông có kẻ thù,\Nchúng sẽ là kẻ thù của chính tôi.
+Dialogue: 0,0:06:31.01,0:06:33.84,Default,,0,0,0,,Chúng phải sợ ông một nước.
+Dialogue: 0,0:06:37.35,0:06:39.47,Default,,0,0,0,,Xin ông hãy coi tôi như bạn.
+Dialogue: 0,0:06:43.44,0:06:44.98,Default,,0,0,0,,Bố già.
+Dialogue: 0,0:06:49.32,0:06:50.53,Default,,0,0,0,,Được.
+Dialogue: 0,0:06:52.65,0:06:57.82,Default,,0,0,0,,Rất có thể một ngày kia\Ntôi sẽ có việc nhờ lại.
+Dialogue: 0,0:06:59.20,0:07:01.33,Default,,0,0,0,,Còn bây giờ...
+Dialogue: 0,0:07:03.12,0:07:07.42,Default,,0,0,0,,Còn bây giờ xin ông hãy coi việc này\Nnhư món quà trong ngày cưới con tôi,
+Dialogue: 0,0:07:07.50,0:07:09.92,Default,,0,0,0,,- Cảm ơn, Bố già.\N- Không sao.
+Dialogue: 0,0:07:16.97,0:07:19.68,Default,,0,0,0,,Giao vụ này cho thằng Clemenza.
+Dialogue: 0,0:07:21.97,0:07:25.44,Default,,0,0,0,,Bảo nó lựa mấy thằng đàng hoàng.
+Dialogue: 0,0:07:25.52,0:07:29.69,Default,,0,0,0,,Thây kệ thằng cha nhà đòn nói gì nói,\Nmình đâu phải quân giết mướn.
+Dialogue: 0,0:07:54.96,0:07:58.38,Default,,0,0,0,,- Thằng Michael đâu?\N- Cha khỏi lo, nhóc nó đến ngay.
+Dialogue: 0,0:07:59.51,0:08:02.60,Default,,0,0,0,,Không có thằng Michael thì không\Nchụp chiếc gì hết.
+Dialogue: 0,0:08:08.94,0:08:11.40,Default,,0,0,0,,- Chuyện gì vậy?\N- Thì tại chú em Michael đó.
+Dialogue: 0,0:09:01.07,0:09:02.74,Default,,0,0,0,,Don Barzini.
+Dialogue: 0,0:09:19.05,0:09:22.43,Default,,0,0,0,,Hú, Paulie! Cho tao thêm rượu coi.
+Dialogue: 0,0:09:22.51,0:09:24.76,Default,,0,0,0,,Paulie! Thêm rượu.
+Dialogue: 0,0:09:26.60,0:09:31.81,Default,,0,0,0,,- Ông nhảy chẳng kém vũ công thứ thiệt.\N- Mày là giám khảo hả?
+Dialogue: 0,0:09:31.89,0:09:34.15,Default,,0,0,0,,Đi làm phận sự của mày đi kìa.
+Dialogue: 0,0:09:41.90,0:09:45.16,Default,,0,0,0,,Sandra, trông chừng lũ trẻ.\NĐế chúng chạy lung tung là không được nghe.
+Dialogue: 0,0:09:45.24,0:09:47.70,Default,,0,0,0,,Lo cái thân anh đi kìa.
+Dialogue: 0,0:10:08.85,0:10:13.10,Default,,0,0,0,,Hai ba chục ngàn chứ đâu phải ít.\NToàn là tiền mặt với ngân phiếu.
+Dialogue: 0,0:10:14.06,0:10:16.44,Default,,0,0,0,,Trong cái túi lụa nhỏ xinh đó hết cả.
+Dialogue: 0,0:10:16.52,0:10:20.11,Default,,0,0,0,,Đây mà là đám cưới ai khác thì...\Nhẳn là cả một gia tài!
+Dialogue: 0,0:10:20.19,0:10:21.45,Default,,0,0,0,,Này, Paulie!
+Dialogue: 0,0:10:21.53,0:10:25.32,Default,,0,0,0,,Tao có hai cái bánh gabagool, capocol,\Nvà một cái bánh prosciut nè.
+Dialogue: 0,0:10:25.41,0:10:26.49,Default,,0,0,0,,Thằng khốn nạn!
+Dialogue: 0,0:10:35.63,0:10:37.54,Default,,0,0,0,,Chuyện gì đây?
+Dialogue: 0,0:10:49.81,0:10:52.39,Default,,0,0,0,,- Anh lại có việc nữa rồi.\N- Tom à.
+Dialogue: 0,0:10:52.48,0:10:56.73,Default,,0,0,0,,Chẳng người Sicily nào nỡ từ chối\Nai điều gì trong ngày gả con.
+Dialogue: 0,0:11:02.44,0:11:07.57,Default,,0,0,0,,Tôi rất vinh dự và cảm động\Nđược ông trùm chiếu cố mời đến.
+Dialogue: 0,0:11:12.41,0:11:15.62,Default,,0,0,0,,Biến con mẹ tụi bây hết! Đám tiệc riêng\Ntư của người ta mà cũng phá. Biến!
+Dialogue: 0,0:11:16.71,0:11:19.67,Default,,0,0,0,,Cái gì đây? Đám cưới của em tao nhá.
+Dialogue: 0,0:11:26.26,0:11:28.97,Default,,0,0,0,,Mấy thằng FBI không nể nang gì hết!
+Dialogue: 0,0:11:31.97,0:11:35.35,Default,,0,0,0,,Đến đây, đến đây, đến đây!
+Dialogue: 0,0:11:49.62,0:11:54.16,Default,,0,0,0,,Nó bị quân Mỹ bắt làm thợ chuyên môn.
+Dialogue: 0,0:11:54.25,0:11:57.33,Default,,0,0,0,,Nó tới giúp việc lò bánh sáu tháng ròng.
+Dialogue: 0,0:11:57.42,0:12:00.17,Default,,0,0,0,,Nazorine, tôi làm gì được cho bạn đây?
+Dialogue: 0,0:12:00.25,0:12:02.21,Default,,0,0,0,,Chiến tranh thì đã đi qua rồi,
+Dialogue: 0,0:12:02.30,0:12:06.30,Default,,0,0,0,,Người ta lại muốn tống thằng nhóc về Ý.
+Dialogue: 0,0:12:06.38,0:12:11.26,Default,,0,0,0,,Bố già ơi, tôi có một mụn con gái.\NMà ông bạn thấy đó, nó và thằng Enzo...
+Dialogue: 0,0:12:12.47,0:12:16.98,Default,,0,0,0,,Bạn muốn cho Enzo ở lại, để\Ncon gái bạn có được tấm chồng chứ gì.
+Dialogue: 0,0:12:18.14,0:12:20.44,Default,,0,0,0,,Quả là chuyện gì ông bạn cũng thấu suốt.
+Dialogue: 0,0:12:21.27,0:12:23.65,Default,,0,0,0,,Rất cảm tạ ông Hagen.
+Dialogue: 0,0:12:26.78,0:12:30.74,Default,,0,0,0,,Ông bạn phải ráng xem cho kỳ được\Nổ bánh cưới tôi làm tặng đấy!
+Dialogue: 0,0:12:30.82,0:12:33.58,Default,,0,0,0,,Có cô dâu, chú rể và thiên thần...
+Dialogue: 0,0:12:38.83,0:12:43.38,Default,,0,0,0,,- Việc này mình giao cho ai ạ?\N- Để dân nhà quê Sicily làm là không ổn.
+Dialogue: 0,0:12:43.46,0:12:48.59,Default,,0,0,0,,Phải bảo thằng dân biểu Do Thái ở quận\Nbên vậy. Còn ai trong danh sách nữa?
+Dialogue: 0,0:12:55.64,0:12:57.23,Default,,0,0,0,,Chào, Michael!
+Dialogue: 0,0:13:17.04,0:13:20.50,Default,,0,0,0,,Con không ghi sẵn, nhưng thằng\NLuca Brasi muốn vô gặp bác.
+Dialogue: 0,0:13:26.34,0:13:28.72,Default,,0,0,0,,Có cần thiết không?
+Dialogue: 0,0:13:28.80,0:13:33.43,Default,,0,0,0,,Con đoán nó không ngờ nhận được thiếp mời\Nnên muốn gặp bác để cám ơn.
+Dialogue: 0,0:13:34.76,0:13:40.18,Default,,0,0,0,,Tôi rất vinh dự và cảm động\Nđược ông trùm chiếu cố mời đến.
+Dialogue: 0,0:13:40.27,0:13:43.11,Default,,0,0,0,,Vào ngày cưới con gái ngài.
+Dialogue: 0,0:13:43.19,0:13:45.61,Default,,0,0,0,,Xin chúc cho con đầu lòng\Ncủa đôi trẻ là con trai.
+Dialogue: 0,0:13:46.82,0:13:48.24,Default,,0,0,0,,Michael...
+Dialogue: 0,0:13:50.03,0:13:53.41,Default,,0,0,0,,Cái ông đằng kia đang lảm nhảm\Nmột mình kìa.
+Dialogue: 0,0:13:53.49,0:13:56.33,Default,,0,0,0,,Anh có thấy ông đó đáng sợ không?
+Dialogue: 0,0:13:56.41,0:13:59.91,Default,,0,0,0,,- Hung thần trong giang hồ đó em.\N- Ông đó tên gì?
+Dialogue: 0,0:13:60.00,0:14:04.67,Default,,0,0,0,,Tên là Luca Brasi. Thỉnh thoảng ổng\Ncũng đỡ đần một tay cho cha của anh.
+Dialogue: 0,0:14:06.46,0:14:09.38,Default,,0,0,0,,Michael, ổng tới đây kìa!
+Dialogue: 0,0:14:13.72,0:14:15.55,Default,,0,0,0,,Nhìn bảnh quá vậy chú em!
+Dialogue: 0,0:14:15.64,0:14:18.93,Default,,0,0,0,,Anh của anh, Tom Hagen này,\Ncòn đây là Kay Adams.
+Dialogue: 0,0:14:20.68,0:14:22.94,Default,,0,0,0,,Cha đang muốn gặp em đó.
+Dialogue: 0,0:14:23.02,0:14:25.86,Default,,0,0,0,,- Rất vui được gặp cô.\N- Rất vui được gặp anh.
+Dialogue: 0,0:14:27.61,0:14:30.32,Default,,0,0,0,,Anh của anh mà sao tên khác vậy?
+Dialogue: 0,0:14:30.44,0:14:34.28,Default,,0,0,0,,Ảnh đang sống lang thang thì Sonny bắt gặp.
+Dialogue: 0,0:14:34.36,0:14:38.28,Default,,0,0,0,,Ông già thấy tứ cố vô thân thì\Ncho vào luôn.
+Dialogue: 0,0:14:40.04,0:14:43.12,Default,,0,0,0,,Kể từ đó.
+Dialogue: 0,0:14:43.21,0:14:45.17,Default,,0,0,0,,Ảnh là thầy cãi ngon lành lắm nghe.
+Dialogue: 0,0:14:46.00,0:14:48.32,Default,,0,0,0,,Tuy không phải người\NSicily, nhưng anh nghĩ có
+Dialogue: 0,0:14:48.35,0:14:50.61,Default,,0,0,0,,khi ảnh trèo lên ghế\Nconsigliere không chừng.
+Dialogue: 0,0:14:50.67,0:14:53.59,Default,,0,0,0,,- Nghĩa là sao?\N- Đó là...
+Dialogue: 0,0:14:53.67,0:14:57.47,Default,,0,0,0,,Cố vấn kiêm phụ tá, một\Nnhân vật tối quan trọng trong gia đình.
+Dialogue: 0,0:14:58.47,0:15:00.64,Default,,0,0,0,,Em thích món lasagna không?
+Dialogue: 0,0:15:04.89,0:15:07.11,Default,,0,0,0,,Thưa ngài.
+Dialogue: 0,0:15:07.19,0:15:09.86,Default,,0,0,0,,Tôi rất vinh dự và cảm động\Nđược ông trùm chiếu cố mời đến.
+Dialogue: 0,0:15:09.94,0:15:13.78,Default,,0,0,0,,Được ông trùm chiếu cố mời đến\Nđám cưới của con gái.
+Dialogue: 0,0:15:18.78,0:15:22.08,Default,,0,0,0,,Ngay cái ngày đám cưới con gái của ngài.
+Dialogue: 0,0:15:22.16,0:15:27.00,Default,,0,0,0,,Chúc cho đôi trẻ sớm sanh quý tử.
+Dialogue: 0,0:15:28.42,0:15:33.55,Default,,0,0,0,,Tôi thề lòng trung thành vô hạn.
+Dialogue: 0,0:15:35.51,0:15:37.82,Default,,0,0,0,,Đây là bao thư\Nmừng cô dâu chú rể.
+Dialogue: 0,0:15:37.85,0:15:40.96,Default,,0,0,0,,Cảm ơn Luca. Ông bạn\Nquý hóa nhất của tôi.
+Dialogue: 0,0:15:41.01,0:15:46.14,Default,,0,0,0,,Tôi xin phép ngài đi ra,\Ntôi biết ngài rất bận bịu.
+Dialogue: 0,0:15:46.69,0:15:48.02,Default,,0,0,0,,Cảm ơn.
+Dialogue: 0,0:16:37.53,0:16:39.87,Default,,0,0,0,,Phu nhân Corleone!
+Dialogue: 0,0:16:41.07,0:16:43.91,Default,,0,0,0,,Thôi nào!
+Dialogue: 0,0:17:53.02,0:17:58.11,Default,,0,0,0,,Ông nghị sĩ Cauley xin lỗi không thể thân\Nđến được, bảo là bác sẽ hiểu.
+Dialogue: 0,0:17:58.19,0:18:02.45,Default,,0,0,0,,Có mấy ông phán không tới được\Ncũng gởi quà đến.
+Dialogue: 0,0:18:05.49,0:18:06.85,Default,,0,0,0,,Chuyện gì ồn ào bên ngoài thế kia?
+Dialogue: 0,0:18:15.79,0:18:20.34,Default,,0,0,0,,Johnny! Johnny!
+Dialogue: 0,0:18:21.38,0:18:23.05,Default,,0,0,0,,Em yêu anh!
+Dialogue: 0,0:18:33.35,0:18:36.77,Default,,0,0,0,,Nó đi một mạch từ California tới.\NTao đã bảo nó tới là nó tới mà!
+Dialogue: 0,0:18:36.86,0:18:40.36,Default,,0,0,0,,- Chắc lại sanh chuyện gì đây nữa rồi.\N- Thằng con đỡ đầu này ngoan đấy chứ.
+Dialogue: 0,0:18:41.36,0:18:45.70,Default,,0,0,0,,Johnny, Johnny! Góp vui một bài coi con!
+Dialogue: 0,0:19:01.71,0:19:04.13,Default,,0,0,0,,Gia đình anh có quen với Johnny hả?
+Dialogue: 0,0:19:04.22,0:19:08.31,Default,,0,0,0,,- Ừ! Có muốn giới thiệu không?\N- Tuyệt cú mèo.
+Dialogue: 0,0:19:08.39,0:19:12.23,Default,,0,0,0,,- Ông già anh nâng đỡ cho ảnh đó.\N- Có hả?
+Dialogue: 0,0:19:12.31,0:19:13.39,Default,,0,0,0,,Bằng cách nào?
+Dialogue: 0,0:19:15.94,0:19:18.77,Default,,0,0,0,,- Thưởng thức bài hát cái đi đã.\N- Michael ơi...
+Dialogue: 0,0:19:52.10,0:19:54.27,Default,,0,0,0,,Michael à. Kể đi.
+Dialogue: 0,0:19:57.77,0:20:02.82,Default,,0,0,0,,Hồi trước Johnny mới đi cầm ca,\Nảnh bị trói chân trói tay bằng một hợp đồng
+Dialogue: 0,0:20:02.90,0:20:05.78,Default,,0,0,0,,với một ông bầu lớn.
+Dialogue: 0,0:20:05.90,0:20:10.12,Default,,0,0,0,,Sự nghiệp thì lên như diều gặp gió\Nnên Johnny muốn ra riêng.
+Dialogue: 0,0:20:11.16,0:20:13.87,Default,,0,0,0,,Vì thằng con đỡ đầu.
+Dialogue: 0,0:20:13.95,0:20:17.29,Default,,0,0,0,,Ông già anh phải đứng ra đích thân thu xếp.
+Dialogue: 0,0:20:17.37,0:20:21.25,Default,,0,0,0,,Cha anh ra giá $10.000 xé giao kèo.
+Dialogue: 0,0:20:21.34,0:20:24.09,Default,,0,0,0,,Nhưng mà ông bầu đâu có chịu.
+Dialogue: 0,0:20:24.17,0:20:29.55,Default,,0,0,0,,Hôm sau, ổng trở lại để bàn tiếp,\Nnhưng cùng đi có Luca Brasi.
+Dialogue: 0,0:20:31.31,0:20:33.56,Default,,0,0,0,,Trong có một tiếng,
+Dialogue: 0,0:20:33.64,0:20:39.15,Default,,0,0,0,,Chữ ký của ông bầu thòi ra ngay.
+Dialogue: 0,0:20:41.15,0:20:45.11,Default,,0,0,0,,- Sao cha của anh làm được hay vậy?\N- Đưa ra một đề nghị hắn không thể bỏ qua.
+Dialogue: 0,0:20:46.78,0:20:51.66,Default,,0,0,0,,- Đề nghị gì đó?\N- Luca Brasi kê súng vào thái dương ông bầu
+Dialogue: 0,0:20:51.78,0:20:57.00,Default,,0,0,0,,còn ổng nói trên tờ giấy sẽ có hoặc chữ kí\Nhoặc một ít huyết của ông ta.
+Dialogue: 0,0:21:02.00,0:21:03.63,Default,,0,0,0,,Chuyện thật đấy cưng.
+Dialogue: 0,0:21:15.06,0:21:17.73,Default,,0,0,0,,Đó là gia đình anh chứ anh thì đời nào thế.
+Dialogue: 0,0:21:30.24,0:21:31.99,Default,,0,0,0,,Hay lắm con!
+Dialogue: 0,0:22:04.23,0:22:06.36,Default,,0,0,0,,Tao lo hết.
+Dialogue: 0,0:22:06.44,0:22:08.32,Default,,0,0,0,,Tom...
+Dialogue: 0,0:22:08.40,0:22:12.11,Default,,0,0,0,,Mày đi tìm Santino.\NNhắn nó đến văn phòng.
+Dialogue: 0,0:22:19.37,0:22:22.33,Default,,0,0,0,,Anh ba Fredo sao rồi?
+Dialogue: 0,0:22:22.42,0:22:25.00,Default,,0,0,0,,Anh ba của anh, Fredo,\Nđây là Kay Adams.
+Dialogue: 0,0:22:26.09,0:22:28.38,Default,,0,0,0,,- Chào.\N- Cưng có khỏe không?
+Dialogue: 0,0:22:30.34,0:22:34.85,Default,,0,0,0,,- Đây là em trai Mike của anh.\N- Anh có thấy vui không?
+Dialogue: 0,0:22:34.93,0:22:37.51,Default,,0,0,0,,Bạn của chú mày đây à?
+Dialogue: 0,0:22:37.60,0:22:42.27,Default,,0,0,0,,Con chẳng biết sao nữa cha ơi.\NCon không còn tiếng nói gì nữa.
+Dialogue: 0,0:22:43.98,0:22:50.44,Default,,0,0,0,,Mà có một bộ phim này, con mà\Nđược đóng thì trở lại chiếu trên ngay.
+Dialogue: 0,0:22:50.53,0:22:55.87,Default,,0,0,0,,Nhưng thằng chủ hãng gạch tên con cái một.
+Dialogue: 0,0:22:55.95,0:22:59.20,Default,,0,0,0,,- Hắn tên gì?\N- Woltz.
+Dialogue: 0,0:22:59.29,0:23:03.46,Default,,0,0,0,,Ai khác được đóng chứ con\Ncó chết cũng chẳng có vé.
+Dialogue: 0,0:23:07.71,0:23:09.00,Default,,0,0,0,,Sonny?
+Dialogue: 0,0:23:10.63,0:23:11.80,Default,,0,0,0,,Sonny?
+Dialogue: 0,0:23:18.22,0:23:19.47,Default,,0,0,0,,Sonny?
+Dialogue: 0,0:23:20.31,0:23:23.06,Default,,0,0,0,,- Sonny, anh có trong đó không?\N- Sao hả?
+Dialogue: 0,0:23:23.14,0:23:25.02,Default,,0,0,0,,Ông già muốn gặp anh đó.
+Dialogue: 0,0:23:26.27,0:23:27.98,Default,,0,0,0,,Đợi một lát.
+Dialogue: 0,0:23:42.41,0:23:47.46,Default,,0,0,0,,Tháng trước nó vớ được độc quyền quay\Nphim bộ tiểu thuyết lớn, ăn khách nhất.
+Dialogue: 0,0:23:47.54,0:23:51.13,Default,,0,0,0,,Nhân vật chính cứ như nhìn con mà chế vậy.
+Dialogue: 0,0:23:51.21,0:23:53.88,Default,,0,0,0,,Thậm chí con chẳng cần\Nnhập vai nhập viếc gì.
+Dialogue: 0,0:23:54.84,0:23:57.68,Default,,0,0,0,,Bố già ơi, con hết biết làm gì rồi.
+Dialogue: 0,0:23:58.97,0:24:03.27,Default,,0,0,0,,Làm cho ra người lớn!\NMày bị cái gì vậy?
+Dialogue: 0,0:24:03.35,0:24:09.06,Default,,0,0,0,,Mày đổ đốn đến thế hả? Mày là thằng\Nbù nhìn khóc lóc ỉ ôi sao?
+Dialogue: 0,0:24:09.15,0:24:13.19,Default,,0,0,0,,"Phải làm gì? Con phải làm gì bây giờ?"\NThế nghĩa là sao hả?
+Dialogue: 0,0:24:13.28,0:24:14.99,Default,,0,0,0,,Lố bịch.
+Dialogue: 0,0:24:19.70,0:24:22.83,Default,,0,0,0,,- Mày có hay đến nhà con vợ cũ không?\N- Có ạ.
+Dialogue: 0,0:24:22.91,0:24:24.54,Default,,0,0,0,,Được.
+Dialogue: 0,0:24:24.58,0:24:29.29,Default,,0,0,0,,Có gia đình mà không gần gũi chăm nom\Nthì còn làm thằng đàn ông cái gì.
+Dialogue: 0,0:24:34.92,0:24:38.38,Default,,0,0,0,,Nhìn mày xuống sắc quá chừng.\NĐi xuống ăn uống đi con.
+Dialogue: 0,0:24:38.47,0:24:43.77,Default,,0,0,0,,Nghỉ ngơi đi, đúng một tháng thì thằng chủ\NHollywood của mày sẽ giao vai đó cho mày.
+Dialogue: 0,0:24:43.85,0:24:46.98,Default,,0,0,0,,Trễ rồi cha à. Chỉ còn một tuần\Nnữa là khởi sự quay.
+Dialogue: 0,0:24:47.06,0:24:50.23,Default,,0,0,0,,Tao sẽ cho nó một đề nghị không thể bỏ qua.
+Dialogue: 0,0:24:53.07,0:24:58.07,Default,,0,0,0,,Mày đi xuống vui chơi với bà con,\Nchúng bạn đi cho quên hết sự phiền.
+Dialogue: 0,0:25:00.24,0:25:03.29,Default,,0,0,0,,- Mọi việc đã có tao lo hết.\N- Vâng, thưa cha.
+Dialogue: 0,0:25:28.35,0:25:33.65,Default,,0,0,0,,- Này, chừng nào rước dâu?\N- Dạ, cắt bánh cưới xong là rước đấy ạ.
+Dialogue: 0,0:25:33.73,0:25:37.36,Default,,0,0,0,,Thằng chồng con Connie có nên giao cho nó\Nmột công việc gì kha khá trong nhà không?
+Dialogue: 0,0:25:37.44,0:25:42.78,Default,,0,0,0,,Dẹp. Cho nó việc gì kiếm sống thôi.\NCòn việc nhà cấm hở cho nó biết.
+Dialogue: 0,0:25:42.87,0:25:45.66,Default,,0,0,0,,- Còn gì nữa không?\N- Thằng Sollozzo gọi.
+Dialogue: 0,0:25:45.79,0:25:50.21,Default,,0,0,0,,- Tuần tới là nhà mình phải đi gặp nó rồi.\N- Lúc đó mày cũng từ California về.
+Dialogue: 0,0:25:51.58,0:25:54.71,Default,,0,0,0,,- Khi nào con đi được ạ?\N- Tối nay là ổn.
+Dialogue: 0,0:25:54.84,0:26:00.13,Default,,0,0,0,,Tao muốn mai mày đi gặp thằng cha chủ hãng phim\Nlàm xong vụ Hollywood cho thằng Johnny đã.
+Dialogue: 0,0:26:01.47,0:26:05.60,Default,,0,0,0,,Nếu không còn gì nữa thì tao xuống\Nđám cưới chung vui đây.
+Dialogue: 0,0:26:07.77,0:26:10.73,Default,,0,0,0,,Carlo, chúng ta chuẩn bị chụp hình nè.
+Dialogue: 0,0:26:11.77,0:26:13.56,Default,,0,0,0,,Đợi một tí.
+Dialogue: 0,0:26:13.65,0:26:15.94,Default,,0,0,0,,Không, Michael. Đừng có lôi em vào.
+Dialogue: 0,0:26:20.44,0:26:23.32,Default,,0,0,0,,Đẹp rồi đó nghe. Cứ giữ yên như vậy đi.
+Dialogue: 0,0:28:13.47,0:28:16.64,Default,,0,0,0,,- Diễn cảnh đó thêm tình tứ nữa nào.\N- Xin ông bắt đầu đi.
+Dialogue: 0,0:28:16.73,0:28:20.15,Default,,0,0,0,,Tôi là người mà bạn ông\NJohnny Fontane cử tới.
+Dialogue: 0,0:28:20.23,0:28:23.99,Default,,0,0,0,,Nếu ông chủ gia ơn cho lần này
+Dialogue: 0,0:28:24.07,0:28:26.90,Default,,0,0,0,,thì người bạn này sẽ muôn đời không quên.
+Dialogue: 0,0:28:26.99,0:28:29.32,Default,,0,0,0,,Woltz nghe đây.
+Dialogue: 0,0:28:29.41,0:28:33.49,Default,,0,0,0,,Xin ông cho Johnny sắm vai chính trong\Ncuốn phim chiến tranh bấm máy tuần sau.
+Dialogue: 0,0:28:39.21,0:28:44.21,Default,,0,0,0,,Vậy ông bạn đó định đền đáp Woltz thế nào?
+Dialogue: 0,0:28:44.30,0:28:47.84,Default,,0,0,0,,Thân chủ tôi bảo đảm rằng nghiệp đoàn\Nkhông dám lôi thôi với ông nữa.
+Dialogue: 0,0:28:47.93,0:28:52.01,Default,,0,0,0,,Và quý hãng có một nghệ sĩ\Nmới từ cần sa nhảy qua bạch phiến.
+Dialogue: 0,0:28:52.10,0:28:56.39,Default,,0,0,0,,Ông bạn chơi ép thằng già này đấy hả?\NNày cái thằng bợ đít thối thây!
+Dialogue: 0,0:28:56.48,0:28:59.06,Default,,0,0,0,,Nói vắn tắt thế này này,\Ndù chủ mày có là ai...
+Dialogue: 0,0:28:59.15,0:29:01.15,Default,,0,0,0,,Thằng Johnny Fontane khỏi đóng gì hết!
+Dialogue: 0,0:29:01.27,0:29:05.78,Default,,0,0,0,,Mấy thằng cướp mafia có bâu đến\Nnhư ruồi ông cũng chấp hết.
+Dialogue: 0,0:29:05.86,0:29:09.70,Default,,0,0,0,,- Thưa, tôi là người Đức-Ireland.\N- Nghe đây, ông bạn Phổ-Ái.
+Dialogue: 0,0:29:09.78,0:29:14.16,Default,,0,0,0,,- Tôi cho mấy ông bạn tới số hết!\N- Tôi là luật sư. Tôi chẳng hề dọa dẫm...
+Dialogue: 0,0:29:14.24,0:29:17.62,Default,,0,0,0,,Mấy luật sư có danh ở New York\Ntôi rành rẽ cả. Xin hỏi ông bạn là ai?
+Dialogue: 0,0:29:17.71,0:29:21.25,Default,,0,0,0,,Tôi làm ăn khá là đặc biệt.\NTôi chỉ đại diện cho một thân chủ thôi.
+Dialogue: 0,0:29:21.34,0:29:23.34,Default,,0,0,0,,Có gì hay xin gọi tôi.
+Dialogue: 0,0:29:25.09,0:29:28.05,Default,,0,0,0,,Còn một điều, tôi thành thực hâm mộ mấy\Ncuốn phim mà quý hãng thực hiện.
+Dialogue: 0,0:29:32.85,0:29:34.35,Default,,0,0,0,,Kiểm tra nó coi.
+Dialogue: 0,0:29:56.87,0:29:59.41,Default,,0,0,0,,- Nhà đâu mà đẹp lộng lẫy vậy.\N- Cậu nhìn kìa.
+Dialogue: 0,0:29:59.50,0:30:04.00,Default,,0,0,0,,- Người ta từng dùng nó trong cung vua đó.\N- Hết sảy.
+Dialogue: 0,0:30:04.09,0:30:06.46,Default,,0,0,0,,Lẽ ra phải cho biết ngay thân chủ\Ncủa bạn là Corleone chớ?
+Dialogue: 0,0:30:06.59,0:30:10.80,Default,,0,0,0,,Làm tôi cứ tưởng đâu Johnny\Nmướn một thầy cãi hạng bét nào.
+Dialogue: 0,0:30:10.88,0:30:14.22,Default,,0,0,0,,- Tôi không tùy tiện lôi tên thân chủ ra.\N- Nước uống ngon không?
+Dialogue: 0,0:30:14.35,0:30:17.81,Default,,0,0,0,,- Được đấy.\N- Giờ tôi cho cậu cái này đẹp lắm.
+Dialogue: 0,0:30:17.89,0:30:20.48,Default,,0,0,0,,Cậu cũng trân quý cái đẹp mà.
+Dialogue: 0,0:30:23.44,0:30:26.48,Default,,0,0,0,,Tốn sáu trăm ngàn rước nó về đó.
+Dialogue: 0,0:30:26.57,0:30:30.53,Default,,0,0,0,,Tôi cam đoan là Sa hoàng cũng không\Ndám chi bạo tay như vậy.
+Dialogue: 0,0:30:30.61,0:30:32.16,Default,,0,0,0,,Khartoum.
+Dialogue: 0,0:30:32.78,0:30:34.07,Default,,0,0,0,,Khartoum.
+Dialogue: 0,0:30:35.62,0:30:40.00,Default,,0,0,0,,Tôi không cho đua nữa. Chỉ để đúc giống\Nđặc biệt cho chuồng ngựa nhà.
+Dialogue: 0,0:30:41.58,0:30:43.12,Default,,0,0,0,,Cảm ơn, Tony.
+Dialogue: 0,0:30:43.92,0:30:46.84,Default,,0,0,0,,Mình đi ăn đi.
+Dialogue: 0,0:30:46.92,0:30:50.34,Default,,0,0,0,,Corleone là cha đỡ đầu của Johnny.
+Dialogue: 0,0:30:50.42,0:30:54.85,Default,,0,0,0,,Với người Ý đó là mối quan hệ\Ngắn bó thiêng liêng.
+Dialogue: 0,0:30:54.93,0:30:58.85,Default,,0,0,0,,Tôi tôn trọng điều đó. Có điều\Nkhông được là không được.
+Dialogue: 0,0:30:58.93,0:31:01.27,Default,,0,0,0,,Miễn cho cái vụ này thì\Ngì tôi cũng chịu hết.
+Dialogue: 0,0:31:01.35,0:31:04.65,Default,,0,0,0,,Ông ấy không bao giờ nhờ\Nđến một người đã một lần từ chối.
+Dialogue: 0,0:31:04.77,0:31:10.90,Default,,0,0,0,,Ông bạn không hiểu rồi. Johnny Fontane\Nđừng hòng có vai gì trong đó.
+Dialogue: 0,0:31:10.99,0:31:14.66,Default,,0,0,0,,Vai đó là đo ni đóng giày cho nó.\NNó sẽ lên ghê lắm.
+Dialogue: 0,0:31:14.78,0:31:18.87,Default,,0,0,0,,Nhưng tôi sẽ chơi cho nó mạt luôn.\NTại sao thì để tôi nói bạn nghe.
+Dialogue: 0,0:31:20.87,0:31:25.54,Default,,0,0,0,,Hắn thui mất của tôi một mầm\Nnon nhiều triển vọng nhất.
+Dialogue: 0,0:31:25.63,0:31:31.01,Default,,0,0,0,,Con đào non tôi bỏ 5 năm nuôi nấng,\Nđào tạo từ ca, diễn cho đến nhảy.
+Dialogue: 0,0:31:31.13,0:31:35.72,Default,,0,0,0,,Cả trăm ngàn đầu tư\Nvô nó để cho nó thành sao.
+Dialogue: 0,0:31:35.80,0:31:38.60,Default,,0,0,0,,Nói trắng ra
+Dialogue: 0,0:31:38.68,0:31:43.68,Default,,0,0,0,,để bạn thấy rằng tôi không phải gỗ đá.\NTiền nong chẳng là thá gì cả.
+Dialogue: 0,0:31:43.77,0:31:47.40,Default,,0,0,0,,Con bé này ngon mắt lắm.\NTrẻ đẹp, trinh trắng!
+Dialogue: 0,0:31:47.48,0:31:52.90,Default,,0,0,0,,Đứa ngon nhất trong số những\Nđứa ngon nhất tôi từng có.
+Dialogue: 0,0:31:52.99,0:31:59.12,Default,,0,0,0,,Vậy mà thằng chó đẻ òn ỉ, tán tỉnh thế nảo
+Dialogue: 0,0:31:59.20,0:32:00.91,Default,,0,0,0,,mà con nhỏ chạy theo nó.
+Dialogue: 0,0:32:02.25,0:32:06.33,Default,,0,0,0,,Nó còn liệng bỏ tất cả chỉ cốt\Nđể thằng già này xấu mặt!
+Dialogue: 0,0:32:06.42,0:32:11.59,Default,,0,0,0,,Một thằng địa vị tôi mà xấu mặt\Nthì có chịu đời nổi không?
+Dialogue: 0,0:32:11.67,0:32:14.01,Default,,0,0,0,,Xin ông bạn biến khuất mắt cho!
+Dialogue: 0,0:32:14.09,0:32:18.47,Default,,0,0,0,,Tôi chẳng phải thằng bầu ban nhạc\Nhồi đó mà hòng Corleone chơi dữ đâu.
+Dialogue: 0,0:32:19.76,0:32:22.77,Default,,0,0,0,,Phải, tôi rành chuyện ấy quá đi chứ.
+Dialogue: 0,0:32:23.60,0:32:27.60,Default,,0,0,0,,Cảm ơn ông chủ có lòng tiếp.
+Dialogue: 0,0:32:27.69,0:32:30.57,Default,,0,0,0,,Ông chủ xin phiền cho mượn xe\Nđi phi trường ngay.
+Dialogue: 0,0:32:30.65,0:32:34.24,Default,,0,0,0,,Ngài Corleone cứ đòi có chuyện gì không\Nxong là phải cho hay liền.
+Dialogue: 0,0:34:26.93,0:34:30.85,Default,,0,0,0,,- Mày có mệt lắm không Tom?\N- Con ngủ trên máy bay rồi ạ.
+Dialogue: 0,0:34:30.94,0:34:34.02,Default,,0,0,0,,Hồ sơ Sollozzo cũng trong đây.
+Dialogue: 0,0:34:34.11,0:34:35.36,Default,,0,0,0,,Bây giờ...
+Dialogue: 0,0:34:37.32,0:34:40.90,Default,,0,0,0,,Sollozzo có ngoại hiệu “dân Thổ”.
+Dialogue: 0,0:34:40.99,0:34:42.95,Default,,0,0,0,,Hắn chơi dao rất chì.
+Dialogue: 0,0:34:43.03,0:34:47.45,Default,,0,0,0,,Nhưng chỉ giới hạn trong\Nphạm vi nghề nghiệp.
+Dialogue: 0,0:34:47.54,0:34:50.79,Default,,0,0,0,,Mà nghề của hắn là ma túy.
+Dialogue: 0,0:34:50.87,0:34:54.25,Default,,0,0,0,,Nó có mấy nhà vườn trồng thẩu bên Thổ.
+Dialogue: 0,0:34:54.33,0:34:58.17,Default,,0,0,0,,Ở Sicily, Sollozzo có lò\Nchế nhựa thẩu thành heroin.
+Dialogue: 0,0:34:58.26,0:35:01.76,Default,,0,0,0,,Nó cần vốn và mấy anh cảnh sát bảo kê cho.
+Dialogue: 0,0:35:01.84,0:35:05.76,Default,,0,0,0,,Mình sẽ được ăn chia, nhưng\Nbao nhiêu chưa biết.
+Dialogue: 0,0:35:05.89,0:35:11.10,Default,,0,0,0,,Sau lưng hắn là bọn nhà Tattaglia.\NBọn này cũng có phần.
+Dialogue: 0,0:35:12.39,0:35:16.98,Default,,0,0,0,,- Hắn có tiền án gì không?\N- Một ở Ý, một ở đây.
+Dialogue: 0,0:35:17.07,0:35:19.82,Default,,0,0,0,,Ai cũng biết về ma túy nó là gốc bự.
+Dialogue: 0,0:35:19.90,0:35:24.57,Default,,0,0,0,,- Santino, mày thấy sao?\N- Cái chất bột trắng này ra tiền.
+Dialogue: 0,0:35:26.91,0:35:28.28,Default,,0,0,0,,Tom?
+Dialogue: 0,0:35:28.37,0:35:32.54,Default,,0,0,0,,Nên chứ ạ. Chẳng có ngành\Nnào ngon ăn bằng ma túy.
+Dialogue: 0,0:35:32.62,0:35:37.38,Default,,0,0,0,,Mà mình không làm thì thằng khác làm,\Ncó khi cả Ngũ Đại Gia nhào vô không chừng.
+Dialogue: 0,0:35:37.46,0:35:41.92,Default,,0,0,0,,Chúng sẽ tung tiền ma túy\Nra mua cớm, mua chính khứa.
+Dialogue: 0,0:35:42.01,0:35:44.09,Default,,0,0,0,,Rồi chúng nuốt sống mình luôn.
+Dialogue: 0,0:35:44.22,0:35:50.72,Default,,0,0,0,,Mình còn nắm sòng bạc và nghiệp đoàn.\NNhưng sắp tới chủ lực sẽ là ma túy.
+Dialogue: 0,0:35:50.81,0:35:55.94,Default,,0,0,0,,Mình phải nhào vô ăn có với chúng,\Nnếu không mình sẽ mất tất trong 10 năm nữa.
+Dialogue: 0,0:36:00.48,0:36:03.57,Default,,0,0,0,,Cha quyết định sao về vụ này?
+Dialogue: 0,0:36:08.32,0:36:10.08,Default,,0,0,0,,Don Corleone.
+Dialogue: 0,0:36:12.16,0:36:15.46,Default,,0,0,0,,Trước hết tôi cần có một nhân vật thần thế.
+Dialogue: 0,0:36:15.58,0:36:18.29,Default,,0,0,0,,Sau là một triệu đô la tiền mặt.
+Dialogue: 0,0:36:18.38,0:36:24.22,Default,,0,0,0,,Ông trùm Corleone trong túi có\Nnhiều ông toà. Tôi cũng cần lắm.
+Dialogue: 0,0:36:25.68,0:36:29.68,Default,,0,0,0,,- Phần chia của bọn tôi là bao nhiêu?\N- 30%.
+Dialogue: 0,0:36:29.76,0:36:33.72,Default,,0,0,0,,Nội năm đầu cũng 3 triệu, 4 triệu rồi.
+Dialogue: 0,0:36:33.81,0:36:35.81,Default,,0,0,0,,Còn vô nhiều, nhiều nữa.
+Dialogue: 0,0:36:37.02,0:36:40.44,Default,,0,0,0,,Còn phần chia của cánh nhà Tattaglia?
+Dialogue: 0,0:36:42.44,0:36:44.28,Default,,0,0,0,,Cái đó tính phần của tôi.
+Dialogue: 0,0:36:47.95,0:36:51.37,Default,,0,0,0,,Tôi sẽ lo bên họ.
+Dialogue: 0,0:36:51.45,0:36:55.75,Default,,0,0,0,,Nghĩa là bên tôi được chia 30%
+Dialogue: 0,0:36:55.83,0:36:59.17,Default,,0,0,0,,nhờ chút vốn bỏ ra và lo bảo đảm pháp lý?
+Dialogue: 0,0:36:59.25,0:37:00.96,Default,,0,0,0,,Đúng.
+Dialogue: 0,0:37:02.25,0:37:06.18,Default,,0,0,0,,Nếu vậy thì ông cần đến bọn tôi làm gì?\NBọn tôi có làm gì đáng để chia phần?
+Dialogue: 0,0:37:06.26,0:37:11.55,Default,,0,0,0,,Nếu 1 triệu đô la đối với ông trùm\Nchỉ là “chút vốn bỏ ra”
+Dialogue: 0,0:37:11.64,0:37:13.81,Default,,0,0,0,,thì tôi xin thật ngưỡng mộ!
+Dialogue: 0,0:37:24.32,0:37:29.57,Default,,0,0,0,,Ông Sollozzo có mặt ở đây vì\Ntôi cũng nghe nói ông là người làm ăn
+Dialogue: 0,0:37:29.66,0:37:31.91,Default,,0,0,0,,đứng đắn, đàng hoàng.
+Dialogue: 0,0:37:36.58,0:37:39.88,Default,,0,0,0,,Nhưng đề nghị của ông tôi phải từ chối.
+Dialogue: 0,0:37:41.04,0:37:43.88,Default,,0,0,0,,Tôi cũng xin giải thích cho ông hiểu.
+Dialogue: 0,0:37:43.96,0:37:46.80,Default,,0,0,0,,Tôi có nhiều anh em quen biết\Ntrong giới thẩm quyền thật.
+Dialogue: 0,0:37:48.05,0:37:52.47,Default,,0,0,0,,Nhưng nếu tôi đụng đến\Nma túy thì hết anh em.
+Dialogue: 0,0:37:52.55,0:37:58.18,Default,,0,0,0,,Mở sòng bạc được, cái đó vô hại.\NMa túy thì không.
+Dialogue: 0,0:37:58.27,0:38:03.27,Default,,0,0,0,,Người ta làm ăn thế nào thì\Ncũng chẳng ảnh hưởng gì đến tôi.
+Dialogue: 0,0:38:03.36,0:38:08.61,Default,,0,0,0,,Nhưng ngành của ông thì\Nhơi nguy hiểm.
+Dialogue: 0,0:38:08.70,0:38:13.12,Default,,0,0,0,,Bề nào cũng còn gia đình\NTattaglia bảo đảm nữa!
+Dialogue: 0,0:38:13.20,0:38:16.70,Default,,0,0,0,,- Bộ bọn Tattaglia bảo đảm...\N- Khoan đã.
+Dialogue: 0,0:38:24.00,0:38:28.80,Default,,0,0,0,,Cũng tại cưng chiều mấy\Nthằng nhỏ quá mà đâm hư hết!
+Dialogue: 0,0:38:28.88,0:38:32.14,Default,,0,0,0,,Nói bừa nói leo.\NXin ông Sollozzo hiểu cho...
+Dialogue: 0,0:38:32.26,0:38:37.64,Default,,0,0,0,,Tôi buộc phải từ chối. Nhưng cũng\Nxin chúc ông làm ăn phát đạt.
+Dialogue: 0,0:38:37.72,0:38:41.19,Default,,0,0,0,,Tôi biết ông sẽ làm tốt, chúc ông may mắn.
+Dialogue: 0,0:38:41.27,0:38:46.11,Default,,0,0,0,,Mình vẫn cứ thân thiện vì mỗi người\Nmỗi ngành đâu có dẫm chân nhau. Cảm ơn.
+Dialogue: 0,0:39:06.75,0:39:08.67,Default,,0,0,0,,Santino.
+Dialogue: 0,0:39:08.76,0:39:10.59,Default,,0,0,0,,Tới đây.
+Dialogue: 0,0:39:12.93,0:39:14.84,Default,,0,0,0,,Mày bị cái gì vậy?
+Dialogue: 0,0:39:14.93,0:39:19.56,Default,,0,0,0,,Tao nghĩ vì mày quần con bé kia quá\Nnên đầu óc láng quáng mất rồi.
+Dialogue: 0,0:39:19.64,0:39:23.77,Default,,0,0,0,,Đừng có để cho người ngoài\Nthấy được đầu óc mày.
+Dialogue: 0,0:39:25.06,0:39:26.32,Default,,0,0,0,,Biến đi.
+Dialogue: 0,0:39:30.28,0:39:33.11,Default,,0,0,0,,Tom, cái gì vậy con?
+Dialogue: 0,0:39:33.20,0:39:36.62,Default,,0,0,0,,Quà của thằng Johnny đó ạ.\NNó được nhận vai rồi.
+Dialogue: 0,0:39:38.95,0:39:41.54,Default,,0,0,0,,- Thôi, đem đi giùm cải.\N- Đem lại đàng kia.
+Dialogue: 0,0:39:42.83,0:39:44.37,Default,,0,0,0,,Và...
+Dialogue: 0,0:39:45.42,0:39:47.59,Default,,0,0,0,,lệnh cho thằng Luca Brasi vào đây.
+Dialogue: 0,0:39:53.72,0:39:57.14,Default,,0,0,0,,Tôi hơi ngán cái thằng Sollozzo này.
+Dialogue: 0,0:39:57.22,0:40:00.18,Default,,0,0,0,,Ông bạn đi điều tra xem nó\Ntính giở trò gì giùm tôi.
+Dialogue: 0,0:40:01.18,0:40:04.81,Default,,0,0,0,,La cà với nhà Tattaglia đi.
+Dialogue: 0,0:40:04.89,0:40:09.19,Default,,0,0,0,,Cứ cho chúng thấy ông bạn\Nbất mãn với bên cánh tôi
+Dialogue: 0,0:40:10.57,0:40:12.95,Default,,0,0,0,,tìm hiểu được gì thì cứ tìm.
+Dialogue: 0,0:40:30.42,0:40:33.72,Default,,0,0,0,,Em có quà tặng mẹ anh và anh Sonny nè...
+Dialogue: 0,0:40:33.80,0:40:38.47,Default,,0,0,0,,rồi còn một cái cà vạt tặng anh Freddy,\Nbút máy Reynolds tặng anh Tom Hagen.
+Dialogue: 0,0:40:38.55,0:40:41.81,Default,,0,0,0,,- Em khoái cái gì để anh mua tặng?\N- Mình anh đủ rồi!
+Dialogue: 0,0:41:13.71,0:41:15.63,Default,,0,0,0,,Đi, Fredo.
+Dialogue: 0,0:41:15.72,0:41:19.14,Default,,0,0,0,,- Con bảo thằng Paulie lấy xe sẵn đi.\N- Dạ, cha.
+Dialogue: 0,0:41:19.22,0:41:23.22,Default,,0,0,0,,Để con. Nó phôn tới kêu đau, xin nghỉ\Nhồi sáng.
+Dialogue: 0,0:41:24.97,0:41:28.23,Default,,0,0,0,,Thằng Paulie nó đàng hoàng.\NĐể con lấy xe cũng được mà.
+Dialogue: 0,0:41:31.65,0:41:33.82,Default,,0,0,0,,Giáng sinh vui vẻ nghe Caro. Cảm ơn.
+Dialogue: 0,0:42:16.44,0:42:20.74,Default,,0,0,0,,- Luca! Tôi là Bruno Tattaglia.\N- Tôi biết.
+Dialogue: 0,0:42:30.67,0:42:31.67,Default,,0,0,0,,Chắc ông biết tôi là ai rồi?
+Dialogue: 0,0:42:31.75,0:42:33.09,Default,,0,0,0,,Tôi biết chứ.
+Dialogue: 0,0:42:34.38,0:42:37.97,Default,,0,0,0,,Ông đang bàn bạc với\Nnhà Tattaglia phải không?
+Dialogue: 0,0:42:38.97,0:42:42.97,Default,,0,0,0,,Tôi đề nghị một chuyện làm ăn.
+Dialogue: 0,0:42:44.80,0:42:47.47,Default,,0,0,0,,Tôi cần một người cứng như ông.
+Dialogue: 0,0:42:48.10,0:42:50.94,Default,,0,0,0,,Theo chỗ tôi nghe, nhà Corleone...
+Dialogue: 0,0:42:51.35,0:42:53.65,Default,,0,0,0,,cũng không đối tốt với ông cho lắm.
+Dialogue: 0,0:42:54.40,0:42:56.15,Default,,0,0,0,,Thế ông có muốn theo tụi này không?
+Dialogue: 0,0:42:57.32,0:42:59.28,Default,,0,0,0,,Phần ăn chia của tôi thế nào?
+Dialogue: 0,0:43:01.91,0:43:04.82,Default,,0,0,0,,Chuyến đầu phần ông đảm bảo là 50 ngàn.
+Dialogue: 0,0:43:06.83,0:43:08.08,Default,,0,0,0,,Thơm đấy!
+Dialogue: 0,0:43:09.75,0:43:11.37,Default,,0,0,0,,Thế là ông chịu nhé?
+Dialogue: 0,0:44:10.81,0:44:14.52,Default,,0,0,0,,Tom! Tom Hagen. Giáng sinh vui vẻ.
+Dialogue: 0,0:44:14.64,0:44:18.39,Default,,0,0,0,,Gặp được ông hay quá. Tôi\Ncó chút chuyện với ông bạn.
+Dialogue: 0,0:44:18.41,0:44:19.59,Default,,0,0,0,,Tôi mắc bận.
+Dialogue: 0,0:44:19.65,0:44:22.69,Default,,0,0,0,,Nhín chút thời gian đi quân sư.\NVào xe nào.
+Dialogue: 0,0:44:24.53,0:44:29.03,Default,,0,0,0,,Ông bạn sợ cái gì? Nếu tôi muốn chơi thì\Nông bạn đâu còn sống được nữa.
+Dialogue: 0,0:44:29.12,0:44:30.58,Default,,0,0,0,,Vào xe đi.
+Dialogue: 0,0:44:41.59,0:44:45.30,Default,,0,0,0,,- Fredo, cha mua trái cây cái đã.\N- Dạ.
+Dialogue: 0,0:44:52.10,0:44:54.93,Default,,0,0,0,,Chúc bác Giáng sinh vui vẻ.\NCho tôi mua ít trái cây.
+Dialogue: 0,0:46:22.48,0:46:26.53,Default,,0,0,0,,Em là sơ thì chàng có mê em\Nhơn không? Truyện cổ tích có đó.
+Dialogue: 0,0:46:29.66,0:46:30.66,Default,,0,0,0,,Không.
+Dialogue: 0,0:46:30.74,0:46:35.12,Default,,0,0,0,,- Vậy nếu em là danh ca Ingrid Bergman?\N- Cái đó thì anh phải suy nghĩ lại à.
+Dialogue: 0,0:46:37.70,0:46:39.66,Default,,0,0,0,,Michael.
+Dialogue: 0,0:46:39.75,0:46:42.17,Default,,0,0,0,,Em có là Ingrid Bergman thì anh cũng\Nchỉ yêu em như vậy thôi.
+Dialogue: 0,0:46:42.25,0:46:44.04,Default,,0,0,0,,Có chuyện gì vậy?
+Dialogue: 0,0:47:00.94,0:47:03.61,Default,,0,0,0,,Báo không nói ổng còn sống hay đã đi nữa.
+Dialogue: 0,0:47:25.88,0:47:29.17,Default,,0,0,0,,- Anh Sonny, em Michael đây.\N- Mày ở đâu đấy?
+Dialogue: 0,0:47:29.26,0:47:32.01,Default,,0,0,0,,- Cha làm sao rồi?\N- Không biết.
+Dialogue: 0,0:47:32.09,0:47:36.14,Default,,0,0,0,,Chuyện tam sao thất bản.\NNhưng ông già bị nặng lắm.
+Dialogue: 0,0:47:38.10,0:47:41.35,Default,,0,0,0,,- Mày còn đó không?\N- Em đây.
+Dialogue: 0,0:47:41.48,0:47:46.36,Default,,0,0,0,,- Mày ở cái xó nào đấy? Tao lo cho mày đó.\N- Bộ thằng Tom không nói sao?
+Dialogue: 0,0:47:46.44,0:47:50.49,Default,,0,0,0,,Mày mau bò về nhà gấp\Nlo cho mẹ nè, nghe rõ chưa?
+Dialogue: 0,0:47:57.95,0:47:59.54,Default,,0,0,0,,Chúa ơi!
+Dialogue: 0,0:48:03.54,0:48:04.96,Default,,0,0,0,,Sonny!
+Dialogue: 0,0:48:13.84,0:48:16.14,Default,,0,0,0,,Quay trở vào mau.
+Dialogue: 0,0:48:16.22,0:48:18.89,Default,,0,0,0,,- Ai đó?\N- Mở cửa. Clemenza đây.
+Dialogue: 0,0:48:21.31,0:48:24.56,Default,,0,0,0,,Có tin của ông già mày nè.
+Dialogue: 0,0:48:24.64,0:48:26.81,Default,,0,0,0,,Ngoài đường người ta đồn ổng đi rồi!
+Dialogue: 0,0:48:27.23,0:48:31.15,Default,,0,0,0,,- Chú mắc chứng gì vậy hả?\N- Mày bình tĩnh lại coi!
+Dialogue: 0,0:48:31.32,0:48:34.57,Default,,0,0,0,,- Thằng Paulie đâu?\N- Nó cúm. Chớm lạnh là cúm lên cúm xuống!
+Dialogue: 0,0:48:34.66,0:48:37.07,Default,,0,0,0,,- Nó cúm mấy lần cả thảy?\N- Đâu ba bốn lần gì đó.
+Dialogue: 0,0:48:37.16,0:48:40.95,Default,,0,0,0,,- Freddy nó cũng nói khỏi cần thay.\N- Chú đi đón thằng Paulie đi.
+Dialogue: 0,0:48:41.04,0:48:45.87,Default,,0,0,0,,Cúm kiếc gì kệ mẹ nó.\NĐón nó rồi chú lại nhà ông già cho tôi.
+Dialogue: 0,0:48:45.96,0:48:49.04,Default,,0,0,0,,- Mày muốn thằng nào bảo vệ nhà này không?\N- Khỏi. Cứ theo lời tôi đi.
+Dialogue: 0,0:48:58.22,0:49:02.22,Default,,0,0,0,,Anh sẽ cho hai đứa lại\Nnhà này canh liền.
+Dialogue: 0,0:49:05.14,0:49:07.31,Default,,0,0,0,,- Alô?\N- Phải ông Santino Corleone không ạ?
+Dialogue: 0,0:49:07.40,0:49:10.23,Default,,0,0,0,,- Ừ.\N- Tom Hagen hiện ở trong tay bọn này.
+Dialogue: 0,0:49:10.32,0:49:14.03,Default,,0,0,0,,Ba giờ nữa sẽ ra về, kèm một đề nghị.
+Dialogue: 0,0:49:14.11,0:49:17.45,Default,,0,0,0,,Trước khi biết cái đề nghị\Nđó xin ông chớ vọng động.
+Dialogue: 0,0:49:17.53,0:49:22.16,Default,,0,0,0,,Sự việc thì đã rồi. Xin ông Sonny\Ntự kiềm chế cho một chút.
+Dialogue: 0,0:49:22.24,0:49:23.95,Default,,0,0,0,,Được, tôi sẽ chờ.
+Dialogue: 0,0:49:38.30,0:49:40.30,Default,,0,0,0,,Ông trùm của ông bạn chết rồi.
+Dialogue: 0,0:49:43.14,0:49:47.56,Default,,0,0,0,,Tôi biết ông bạn không thuộc\Nngành võ nhà Corleone, đừng hoảng.
+Dialogue: 0,0:49:48.64,0:49:52.52,Default,,0,0,0,,Tôi muốn ông bạn giúp ông trùm,\Ncũng là giúp cả tôi.
+Dialogue: 0,0:49:56.49,0:50:00.99,Default,,0,0,0,,Sau khi tôi mời ông đến,\Nlính của tôi hạ ổng khi ổng ở văn phòng ra.
+Dialogue: 0,0:50:02.41,0:50:03.70,Default,,0,0,0,,Uống đi.
+Dialogue: 0,0:50:08.46,0:50:11.92,Default,,0,0,0,,Ông bạn làm cây cầu hoà\Nbình giữa Sonny và tôi.
+Dialogue: 0,0:50:16.13,0:50:18.93,Default,,0,0,0,,Sonny mặn đề nghị của tôi lắm,\Nphải không?
+Dialogue: 0,0:50:20.30,0:50:23.14,Default,,0,0,0,,Ông bạn cũng thấy rõ sự lợi hại của vấn đề.
+Dialogue: 0,0:50:24.31,0:50:29.44,Default,,0,0,0,,- Sonny nó sẽ tới xử ông trước hết.\N- Đấy chỉ là máu nóng lúc đầu thôi.
+Dialogue: 0,0:50:30.85,0:50:37.36,Default,,0,0,0,,Ông bạn sẽ cho nó biết chuyện phải quấy.\NNên nhớ sau tôi còn có cánh Tattaglia.
+Dialogue: 0,0:50:37.44,0:50:42.53,Default,,0,0,0,,Dân giang hồ New York cũng\Nchỉ cần hai chữ bình yên.
+Dialogue: 0,0:50:42.62,0:50:47.83,Default,,0,0,0,,Ông bạn dư biết là ông trùm,\Nhiện đã đi rồi, đang xuống dốc.
+Dialogue: 0,0:50:50.83,0:50:53.84,Default,,0,0,0,,Mười năm trước, tôi\Nlàm gì có đẳng cấp với tới ổng.
+Dialogue: 0,0:50:57.71,0:51:01.68,Default,,0,0,0,,Bây giờ ổng đi rồi, Tom à.\NNgười chết không quay về được.
+Dialogue: 0,0:51:03.47,0:51:09.35,Default,,0,0,0,,Vậy tôi nhờ ông bạn đánh tiếng với Sonny,\Ncác capo, Tessio và lão Clemenza béo.
+Dialogue: 0,0:51:14.31,0:51:16.40,Default,,0,0,0,,Vụ ma túy này ngon ăn mà Tom.
+Dialogue: 0,0:51:17.78,0:51:22.61,Default,,0,0,0,,Tôi sẽ thử. Nhưng còn Luca Brasi thì\Nđến cả Sonny cũng chịu.
+Dialogue: 0,0:51:25.66,0:51:27.45,Default,,0,0,0,,À...
+Dialogue: 0,0:51:29.29,0:51:31.66,Default,,0,0,0,,Thằng Luca để tôi tính.
+Dialogue: 0,0:51:36.88,0:51:39.26,Default,,0,0,0,,Chỉ nhờ anh kềm giùm Sonny.
+Dialogue: 0,0:51:39.34,0:51:41.59,Default,,0,0,0,,Và hai thằng em nó.
+Dialogue: 0,0:51:44.55,0:51:47.05,Default,,0,0,0,,- Tôi sẽ làm tròn trách nhiệm.\N- Tốt.
+Dialogue: 0,0:51:49.43,0:51:51.85,Default,,0,0,0,,Thôi ông bạn đi đi.
+Dialogue: 0,0:51:58.69,0:52:03.36,Default,,0,0,0,,Tôi cũng là người làm ăn thôi.\NAi lại muốn đổ máu bao giờ.
+Dialogue: 0,0:52:03.45,0:52:05.91,Default,,0,0,0,,Thấy máu là thấy tốn tiền.
+Dialogue: 0,0:52:27.14,0:52:29.01,Default,,0,0,0,,Ổng còn sống!
+Dialogue: 0,0:52:29.10,0:52:33.06,Default,,0,0,0,,Lãnh một lúc năm viên mà vẫn không chết!
+Dialogue: 0,0:52:33.14,0:52:37.90,Default,,0,0,0,,Tôi cũng xui, mà ông bạn không làm\Ncho xong thì lại càng xui!
+Dialogue: 0,0:53:22.61,0:53:27.45,Default,,0,0,0,,Ông trùm nhiều hy vọng qua khỏi!\NBà trùm đang ở nhà thương lo săn sóc.
+Dialogue: 0,0:53:29.28,0:53:35.91,Default,,0,0,0,,Phải xử cho bằng hết. Sollozzo,\NPhilip Tattaglia, Bruno Tattaglia, Ramon...
+Dialogue: 0,0:53:36.00,0:53:39.42,Default,,0,0,0,,- Bộ phải giết hết tụi nó sao?\N- Đâu được!
+Dialogue: 0,0:53:39.50,0:53:41.96,Default,,0,0,0,,Giết được thằng Sollozzo\Nlà êm xuôi mọi đường.
+Dialogue: 0,0:53:42.05,0:53:46.34,Default,,0,0,0,,Luca thì sao đây? Thằng Sollozzo\Ncoi bộ không ngán gì Luca hết,
+Dialogue: 0,0:53:46.43,0:53:50.22,Default,,0,0,0,,Nếu thực sự nó phản thì bọn mình mệt lắm.
+Dialogue: 0,0:53:50.30,0:53:53.89,Default,,0,0,0,,- Có ai tiếp xúc với Luca không?\N- Tao phôn không biết bao nhiêu lần.
+Dialogue: 0,0:53:53.97,0:53:58.02,Default,,0,0,0,,- Em phôn vài lần nữa coi...\N- Luca không ngủ bậy bao giờ cả.
+Dialogue: 0,0:54:00.11,0:54:05.32,Default,,0,0,0,,Tom, mày là quân sư. Ví dụ ông già\Nkhông qua khỏi thì mày tính sao?
+Dialogue: 0,0:54:06.45,0:54:12.66,Default,,0,0,0,,Thiếu ổng, thiếu sự quen biết lớn của ổng\Nthì nhà này mất đứt nửa lực lượng.
+Dialogue: 0,0:54:12.74,0:54:18.41,Default,,0,0,0,,Các cánh khác trước sau sẽ theo\NSollozzo hết để khỏi đổ máu dài dài.
+Dialogue: 0,0:54:18.50,0:54:23.05,Default,,0,0,0,,Hết chiến tranh rồi. Thằng nào\Nlại muốn chơi chết bỏ nữa.
+Dialogue: 0,0:54:23.13,0:54:24.80,Default,,0,0,0,,Nếu chẳng may ông già mất...
+Dialogue: 0,0:54:27.22,0:54:28.97,Default,,0,0,0,,Thì ta phải hợp tác với chúng.
+Dialogue: 0,0:54:29.05,0:54:31.60,Default,,0,0,0,,Nói dễ nghe quá! Đâu\Nphải ông già mày bị bắn?
+Dialogue: 0,0:54:31.63,0:54:33.96,Default,,0,0,0,,Tao cũng là con ổng\Nnhư mày hay Michael thôi.
+Dialogue: 0,0:54:38.52,0:54:40.02,Default,,0,0,0,,Gì đó?
+Dialogue: 0,0:54:41.02,0:54:46.82,Default,,0,0,0,,- Paulie, tao đã nói mày ở ngoài mà.\N- Thằng gác cổng nói có bưu phẩm.
+Dialogue: 0,0:54:46.90,0:54:49.03,Default,,0,0,0,,Tessio, coi coi đó là gì.
+Dialogue: 0,0:54:52.37,0:54:54.62,Default,,0,0,0,,- Tôi ở lại có được không?\N- Ừ. Mà mày còn bệnh không?
+Dialogue: 0,0:54:54.70,0:54:58.45,Default,,0,0,0,,- Khỏe rồi.\N- Có đồ ăn đó. Đói thì lấy đi.
+Dialogue: 0,0:54:58.54,0:55:02.12,Default,,0,0,0,,- Khỏi ạ.\N- Hay uống gì đi. Brandy giải cảm tốt.
+Dialogue: 0,0:55:02.21,0:55:04.84,Default,,0,0,0,,- Đi đi.\N- Coi bộ được đó.
+Dialogue: 0,0:55:06.59,0:55:12.64,Default,,0,0,0,,Phải cho thằng này đi!\NThằng chó bán đứng ông già.
+Dialogue: 0,0:55:12.72,0:55:16.31,Default,,0,0,0,,- Chú phải ưu tiên việc này đó.\N- Rõ rồi.
+Dialogue: 0,0:55:16.39,0:55:20.69,Default,,0,0,0,,Mickey, ngày mai đưa vài thằng\Ntới tận nhà Luca.
+Dialogue: 0,0:55:20.77,0:55:24.48,Default,,0,0,0,,Hay là chúng ta đừng nên để Mike dính vào.
+Dialogue: 0,0:55:27.03,0:55:30.74,Default,,0,0,0,,Thôi mày gác điện thoại trong nhà\Ncũng là làm việc lớn rồi.
+Dialogue: 0,0:55:31.61,0:55:33.53,Default,,0,0,0,,Gọi Luca lại nữa coi.
+Dialogue: 0,0:55:42.46,0:55:45.21,Default,,0,0,0,,- Cái gì đây?\N- Một lối đưa tin kiểu Sicily..
+Dialogue: 0,0:55:45.29,0:55:48.17,Default,,0,0,0,,Đại ý là Luca Brasi bây giờ đã\Nngủ với cá.
+Dialogue: 0,0:56:01.89,0:56:03.98,Default,,0,0,0,,- Anh đi.\N- Chừng nào anh mới về?
+Dialogue: 0,0:56:04.06,0:56:05.73,Default,,0,0,0,,Coi bộ cũng trễ đó.
+Dialogue: 0,0:56:08.28,0:56:11.95,Default,,0,0,0,,- Nhớ đem bánh cannoli theo đó!\N- Ừ, ừ.
+Dialogue: 0,0:56:14.20,0:56:18.70,Default,,0,0,0,,Rocco, mày phải xích qua bên một chút coi.\NChắn cha nó kính chiếu hậu rồi.
+Dialogue: 0,0:56:20.24,0:56:23.66,Default,,0,0,0,,Thằng Sonny điên đầu rồi.\NChưa gì hết đã muốn trải nệm.
+Dialogue: 0,0:56:23.75,0:56:29.63,Default,,0,0,0,,Bây giờ phải kiếm một căn ngon lành\Nở mé Tây. Lại căn 309 Tây đường 43 coi.
+Dialogue: 0,0:56:29.71,0:56:33.22,Default,,0,0,0,,- Mày biết chỗ nào ngon bên đó không?\N- Để tôi coi coi.
+Dialogue: 0,0:56:33.30,0:56:37.05,Default,,0,0,0,,Vừa lái vừa nhớ đi.\NTháng này kiểu gì cũng phải đánh New York.
+Dialogue: 0,0:56:37.14,0:56:38.89,Default,,0,0,0,,Lùi xe lại nhớ coi chừng mấy đứa con nít.
+Dialogue: 0,0:56:49.78,0:56:55.57,Default,,0,0,0,,Paulie, lái xuống đường 39,\Nnhận 18 tấm thảm rồi lấy cho tao hóa đơn.
+Dialogue: 0,0:56:55.66,0:56:57.07,Default,,0,0,0,,Ừ.
+Dialogue: 0,0:56:57.16,0:57:01.58,Default,,0,0,0,,Nhớ thảm phải sạch đó.\NQuân mình đóng ở đó lâu dài mà.
+Dialogue: 0,0:57:01.66,0:57:05.92,Default,,0,0,0,,- Đảm bảo thảm sạch láng, vi trùng diệt hết.\N- Từ đó là từ kỵ nghe mày.
+Dialogue: 0,0:57:06.00,0:57:09.96,Default,,0,0,0,,Tiêu diệt! Coi chừng tụi tao\Ntiêu diệt mày đó nghe!
+Dialogue: 0,0:57:16.68,0:57:19.18,Default,,0,0,0,,Ngừng xe lại cho tao\Ntrút bầu tâm sự cái đã.
+Dialogue: 0,0:58:01.05,0:58:04.27,Default,,0,0,0,,Liệng súng đi. Chỉ lấy\Nbánh cannoli cho tao.
+Dialogue: 0,0:58:22.45,0:58:25.33,Default,,0,0,0,,Ê, Mike! Ê, Mikey!
+Dialogue: 0,0:58:27.25,0:58:29.37,Default,,0,0,0,,- Dạ.\N- Mày có điện thoại.
+Dialogue: 0,0:58:35.42,0:58:37.63,Default,,0,0,0,,- Ai đó?\N- Con nhỏ nào đó.
+Dialogue: 0,0:58:41.93,0:58:44.35,Default,,0,0,0,,- Alô. Em Kay hả?\N- Ông già thế nào rồi, anh?
+Dialogue: 0,0:58:44.43,0:58:46.43,Default,,0,0,0,,Ông già tai qua nạn khỏi.
+Dialogue: 0,0:58:46.89,0:58:48.73,Default,,0,0,0,,Em yêu anh.
+Dialogue: 0,0:58:50.14,0:58:51.77,Default,,0,0,0,,Em yêu anh!
+Dialogue: 0,0:58:52.61,0:58:55.23,Default,,0,0,0,,- Michael ơi?\N- Ừ, anh biết.
+Dialogue: 0,0:58:55.32,0:58:58.24,Default,,0,0,0,,- Anh nói yêu em coi nào.\N- Nói thế nào được.
+Dialogue: 0,0:58:58.32,0:59:00.20,Default,,0,0,0,,Anh không thể nói được sao?
+Dialogue: 0,0:59:01.41,0:59:03.28,Default,,0,0,0,,Thôi để tối nay anh gặp em.
+Dialogue: 0,0:59:04.08,0:59:07.20,Default,,0,0,0,,Yêu em thì nói yêu em chứ\Nsợ gì mà không nói hả Mikey?
+Dialogue: 0,0:59:07.29,0:59:12.08,Default,,0,0,0,,Anh yêu em bằng cả trái tim.\NKhông gặp được em trái tim anh tan nát.
+Dialogue: 0,0:59:13.17,0:59:18.05,Default,,0,0,0,,Học tao đây nè. Rồi cũng có ngày mày phải\Nlàm đầu bếp cho 20 thằng ăn như tao thôi.
+Dialogue: 0,0:59:18.13,0:59:21.76,Default,,0,0,0,,Đổ dầu ăn vào trước để phi tỏi.
+Dialogue: 0,0:59:21.89,0:59:27.52,Default,,0,0,0,,Quăng cà chua, sốt cà, rán lên,\Nnhớ đừng để cho nó dính.
+Dialogue: 0,0:59:27.60,0:59:31.69,Default,,0,0,0,,Đợi cho tới lúc sôi, rồi cứ thế\Nđổ xúc xích, thịt băm vào.
+Dialogue: 0,0:59:33.56,0:59:35.65,Default,,0,0,0,,Cho một chút rượu.
+Dialogue: 0,0:59:38.90,0:59:43.32,Default,,0,0,0,,Một chút đường.\NMẹo của tao đó.
+Dialogue: 0,0:59:43.45,0:59:47.70,Default,,0,0,0,,Liệng mấy thứ vớ vẩn ấy đi. Chú\Ncòn bao nhiêu chuyện gấp nè. Paulie sao?
+Dialogue: 0,0:59:47.79,0:59:50.00,Default,,0,0,0,,Khỏi thấy nó nữa.
+Dialogue: 0,0:59:51.46,0:59:53.96,Default,,0,0,0,,- Mày đi đâu đó?\N- Vào thành phố.
+Dialogue: 0,0:59:54.04,0:59:57.55,Default,,0,0,0,,- Cho lính lác đi theo nó bảo vệ.\N- Em đi thăm cha...
+Dialogue: 0,0:59:57.63,1:00:00.97,Default,,0,0,0,,Nó không sao đâu. Sollozzo\Nbiết nó đâu dính vào chuyện nhà.
+Dialogue: 0,1:00:01.05,1:00:03.05,Default,,0,0,0,,- Cẩn thận đó nhe mày.\N- Ờ.
+Dialogue: 0,1:00:06.18,1:00:08.47,Default,,0,0,0,,Thôi cũng kệ, cho người đi theo nó đi.
+Dialogue: 0,1:00:36.54,1:00:39.59,Default,,0,0,0,,- Anh đi đây.\N- Cho em đi theo với.
+Dialogue: 0,1:00:41.38,1:00:45.72,Default,,0,0,0,,Thôi cưng. Đám cảnh sát, báo chí\Ncắm chốt sẵn ở đó rồi.
+Dialogue: 0,1:00:45.80,1:00:47.93,Default,,0,0,0,,Vậy cho em đợi trong xe cũng được.
+Dialogue: 0,1:00:50.56,1:00:53.18,Default,,0,0,0,,Anh không muốn em bị liên lụy đâu.
+Dialogue: 0,1:00:55.90,1:00:58.15,Default,,0,0,0,,Chừng nào em được gặp anh nữa vậy?
+Dialogue: 0,1:01:04.49,1:01:08.62,Default,,0,0,0,,Em về New Hampshire, ở nhà cha mẹ\Ncho đàng hoàng đi rồi anh gọi.
+Dialogue: 0,1:01:10.37,1:01:15.08,Default,,0,0,0,,- Chừng nào em được gặp anh nữa, Michael?\N- Anh không biết.
+Dialogue: 0,1:03:27.30,1:03:31.14,Default,,0,0,0,,Anh làm gì ở đây?\NAnh đâu có được vào đây.
+Dialogue: 0,1:03:31.22,1:03:34.72,Default,,0,0,0,,Tôi là Michael Corleone.\NTôi là con của ổng.
+Dialogue: 0,1:03:34.80,1:03:37.14,Default,,0,0,0,,Mấy ông vẫn canh chừng đây đi đâu cả rồi?
+Dialogue: 0,1:03:37.22,1:03:42.65,Default,,0,0,0,,Người bệnh mệt vì quá nhiều người vô thăm,\Nvượt ra ngoài thể lệ bệnh viện.
+Dialogue: 0,1:03:42.73,1:03:46.07,Default,,0,0,0,,Cách đây chừng 10 phút,\Ncảnh sát vô mời ra hết.
+Dialogue: 0,1:03:50.57,1:03:54.53,Default,,0,0,0,,Gọi cho tôi số Long Beach 45620.
+Dialogue: 0,1:03:57.08,1:03:59.41,Default,,0,0,0,,Y tá, cô ở lại đây một chút.
+Dialogue: 0,1:04:03.46,1:04:08.30,Default,,0,0,0,,Sonny, em ghé bệnh viện thăm\Ncha mà chẳng thấy ai hết trọi.
+Dialogue: 0,1:04:08.42,1:04:11.18,Default,,0,0,0,,Người của Tessio không\Ncó, cớm cũng tuyệt tích.
+Dialogue: 0,1:04:11.21,1:04:12.70,Default,,0,0,0,,Cha nằm trơ một mình kìa.
+Dialogue: 0,1:04:12.76,1:04:15.26,Default,,0,0,0,,- Chớ có sợ hoảng.\N- Sợ quái gì mà sợ.
+Dialogue: 0,1:04:16.72,1:04:19.60,Default,,0,0,0,,Tôi xin lỗi, ông phải ra thôi.
+Dialogue: 0,1:04:22.31,1:04:25.15,Default,,0,0,0,,Ông già tôi bây giờ phải\Nchuyển đi chỗ khác.
+Dialogue: 0,1:04:25.23,1:04:28.23,Default,,0,0,0,,Nhờ cô tháo gấp mấy ống.
+Dialogue: 0,1:04:28.32,1:04:31.86,Default,,0,0,0,,- Chuyện này không thể được!\N- Chắc cô có biến tin về ổng chớ?
+Dialogue: 0,1:04:31.95,1:04:36.24,Default,,0,0,0,,Có đứa sắp tới đây cho ổng đi luôn.\NCô nắm được chưa?
+Dialogue: 0,1:04:36.32,1:04:38.12,Default,,0,0,0,,Giúp tôi đi.
+Dialogue: 0,1:05:55.20,1:05:58.99,Default,,0,0,0,,- Anh là ai?\N- Tôi là thợ bánh Enzo nè.
+Dialogue: 0,1:06:00.03,1:06:02.08,Default,,0,0,0,,- Anh không nhớ tôi à?\N- Enzo.
+Dialogue: 0,1:06:02.16,1:06:05.29,Default,,0,0,0,,Bây giờ lo về đi.\NSắp có chuyện lộn xộn.
+Dialogue: 0,1:06:05.37,1:06:10.00,Default,,0,0,0,,Nếu lộn xộn tôi phải ở lại chớ. Chỗ ông\Ntrùm với nhà tôi mà về coi sao được.
+Dialogue: 0,1:06:12.00,1:06:16.13,Default,,0,0,0,,Vậy anh đợi tôi trước cổng bệnh viện đi.
+Dialogue: 0,1:06:16.22,1:06:18.30,Default,,0,0,0,,Tôi xong chuyện rồi ra liền.
+Dialogue: 0,1:06:32.07,1:06:35.82,Default,,0,0,0,,Cha cứ nằm yên.\NCó con ở đây lo cho cha.
+Dialogue: 0,1:06:37.78,1:06:39.82,Default,,0,0,0,,Có con ở đây rồi.
+Dialogue: 0,1:06:41.45,1:06:42.99,Default,,0,0,0,,Có con đây.
+Dialogue: 0,1:07:18.45,1:07:20.61,Default,,0,0,0,,Quăng mẹ nó đi. Tới đây.
+Dialogue: 0,1:07:21.57,1:07:25.99,Default,,0,0,0,,Anh để tay vào túi giả bộ như có súng đi.\NRồi sẽ ổn hết mà.
+Dialogue: 0,1:08:17.34,1:08:19.01,Default,,0,0,0,,Anh giỏi lắm.
+Dialogue: 0,1:09:07.55,1:09:10.77,Default,,0,0,0,,Tao đã cho hốt hết lũ Ý tụi bây mà!
+Dialogue: 0,1:09:10.89,1:09:15.48,Default,,0,0,0,,- Mấy anh đang canh mà đi đâu mất hết vậy?\N- Thứ chó chết!
+Dialogue: 0,1:09:15.56,1:09:19.48,Default,,0,0,0,,Mày sủa bậy vô công việc của tao hả?\NTao lệnh tụi nó rút đấy.
+Dialogue: 0,1:09:19.61,1:09:25.53,Default,,0,0,0,,- Cút cha mày đi!\N- Cho bảo vệ ông già tôi đi rồi tính.
+Dialogue: 0,1:09:26.36,1:09:29.66,Default,,0,0,0,,- Phil, mày nắm đầu nó cho tao!\N- Trình đại úy, nó đâu có vũ khí.
+Dialogue: 0,1:09:29.74,1:09:32.38,Default,,0,0,0,,Nó là anh hùng chiến tranh.\NNó không dính...!
+Dialogue: 0,1:09:32.40,1:09:33.60,Default,,0,0,0,,Tao biểu nắm đi!
+Dialogue: 0,1:09:35.75,1:09:42.01,Default,,0,0,0,,- Thằng Thổ chi cho ông cái gì?\N- Nắm nó. Dựng nó đứng thẳng coi.
+Dialogue: 0,1:09:42.09,1:09:43.97,Default,,0,0,0,,Bắt nó đứng thẳng.
+Dialogue: 0,1:10:06.11,1:10:11.74,Default,,0,0,0,,Tôi là luật sư nhà Corleone. Những vị\Nnày được mướn để bảo vệ Vito Corleone.
+Dialogue: 0,1:10:11.83,1:10:14.25,Default,,0,0,0,,Họ có giấy phép mang vũ khí đàng hoàng.
+Dialogue: 0,1:10:14.33,1:10:18.75,Default,,0,0,0,,Nếu đại úy câu lưu họ thì sáng mai xin\Nmời ra biện lý cuộc giải thích lý do.
+Dialogue: 0,1:10:18.83,1:10:20.84,Default,,0,0,0,,Buông nó ra.
+Dialogue: 0,1:10:53.24,1:10:57.16,Default,,0,0,0,,- Toàn là ma mới không vậy?\N- Bây giờ phải xài tới lũ này thôi.
+Dialogue: 0,1:10:57.25,1:11:00.12,Default,,0,0,0,,Thằng Sonny điên lên về\Nvụ đêm qua ở nhà thương.
+Dialogue: 0,1:11:00.21,1:11:03.38,Default,,0,0,0,,Người của mình vừa quất xong thằng\NBruno Tattaglia, đúng 4 giờ sáng nay.
+Dialogue: 0,1:11:04.51,1:11:06.51,Default,,0,0,0,,Má ơi.
+Dialogue: 0,1:11:13.18,1:11:15.68,Default,,0,0,0,,Về đây cứ tưởng như vô pháo đài vậy.
+Dialogue: 0,1:11:17.81,1:11:23.19,Default,,0,0,0,,Tamaduch! Cả trăm đàn em tao đã\Ngài sẵn cho nằm đầy đường rồi.
+Dialogue: 0,1:11:23.27,1:11:26.86,Default,,0,0,0,,Thằng Thổ ló một sợi tóc\Ncũng chết cha nó với tao!
+Dialogue: 0,1:11:28.90,1:11:30.99,Default,,0,0,0,,Mike, để tao nhìn mặt mày coi.
+Dialogue: 0,1:11:35.03,1:11:38.08,Default,,0,0,0,,Đẹp, đẹp lắm.\NThế này mới lộng lẫy chứ em trai.
+Dialogue: 0,1:11:38.20,1:11:43.79,Default,,0,0,0,,Thằng Thổ đề nghị điều đình!\NThằng này gan lì lắm.
+Dialogue: 0,1:11:43.88,1:11:46.63,Default,,0,0,0,,- Nó đề nghị hôm nay nữa chứ.\N- Vậy nó muốn gì?
+Dialogue: 0,1:11:46.76,1:11:51.55,Default,,0,0,0,,Nó yêu cầu tụi mình cử thằng Michael\Ntới tiếp xúc nghe đề nghị của nó.
+Dialogue: 0,1:11:51.64,1:11:55.10,Default,,0,0,0,,Nó hứa là đề nghị sẽ rất biết điều,\Nchắc chắn bên mình chấp thuận.
+Dialogue: 0,1:11:55.18,1:11:58.27,Default,,0,0,0,,- Còn mạng thằng Bruno Tattaglia?\N- Cái đó cũng được nói rồi.
+Dialogue: 0,1:11:58.35,1:12:02.65,Default,,0,0,0,,- Cái đó là trả món nợ mưu sát ông già.\N- Mình phải tới coi nó đề nghị cái gì.
+Dialogue: 0,1:12:02.73,1:12:05.86,Default,,0,0,0,,Thôi ông quân sư!\NKhỏi điều đình, đề nghị gì hết.
+Dialogue: 0,1:12:05.94,1:12:09.49,Default,,0,0,0,,Tao không có gì để nói đi\Nnói lại với thằng Sollozzo hết!
+Dialogue: 0,1:12:09.57,1:12:12.61,Default,,0,0,0,,Nạp thằng Sollozzo, bằng\Nkhông thì đổ máu lớn.
+Dialogue: 0,1:12:12.70,1:12:15.66,Default,,0,0,0,,- Đời nào các cánh khác chịu.\N- Vậy thì nạp mạng thằng Sollozzo!
+Dialogue: 0,1:12:15.74,1:12:18.04,Default,,0,0,0,,Chuyện làm ăn đừng đem cá nhân vào!
+Dialogue: 0,1:12:18.12,1:12:22.54,Default,,0,0,0,,- Tụi nó bắn cha tao...\N- Đó cũng là do làm ăn thôi.
+Dialogue: 0,1:12:23.46,1:12:27.21,Default,,0,0,0,,Vậy thì cả lũ cùng chịu.\NMột chuyện này thôi.
+Dialogue: 0,1:12:27.30,1:12:31.30,Default,,0,0,0,,Mày khỏi cần cố vấn về cái vụ điều đình!\NBổn phận của mày là giúp tao thắng.
+Dialogue: 0,1:12:37.60,1:12:41.52,Default,,0,0,0,,Tao điều tra thằng đại úy McCluskey.\NThằng chó dám đập bể hàm Mike.
+Dialogue: 0,1:12:41.60,1:12:45.90,Default,,0,0,0,,Sollozzo mua đứt nó.
+Dialogue: 0,1:12:45.98,1:12:50.03,Default,,0,0,0,,McCluskey còn chịu làm cận vệ luôn nữa chứ.
+Dialogue: 0,1:12:50.11,1:12:53.86,Default,,0,0,0,,Có một thằng cán vệ như vậy thì\Ncòn làm gì nổi Sollozzo mà làm.
+Dialogue: 0,1:12:53.95,1:12:57.53,Default,,0,0,0,,Xưa nay có thằng nào dám nổ\Nđại úy cảnh sát New York.
+Dialogue: 0,1:12:57.66,1:13:03.58,Default,,0,0,0,,Toàn thể giới giang hồ sẽ cứ\Nnhè cánh Corleone mình mà đổ vạ!
+Dialogue: 0,1:13:03.66,1:13:07.50,Default,,0,0,0,,Ông già có tạo được bao nhiêu\Nthế lực chính trị cũng vứt đi.
+Dialogue: 0,1:13:08.80,1:13:12.63,Default,,0,0,0,,Mày đã tính trước cái hậu quả đó chưa?
+Dialogue: 0,1:13:16.47,1:13:18.47,Default,,0,0,0,,Thôi được, đợi thì đợi.
+Dialogue: 0,1:13:23.89,1:13:26.73,Default,,0,0,0,,Không có đợi. Không có đợi.
+Dialogue: 0,1:13:28.19,1:13:32.15,Default,,0,0,0,,Chờ đợi là chết với nó vì\Nthua keo này nó sẽ bày keo khác.
+Dialogue: 0,1:13:32.24,1:13:35.95,Default,,0,0,0,,Đó là đường sống của nó.\NNhư vậy mình chơi thằng Sollozzo.
+Dialogue: 0,1:13:36.03,1:13:40.33,Default,,0,0,0,,- Mike nói đúng.\N- Nhưng tao hỏi mày câu này.
+Dialogue: 0,1:13:40.41,1:13:45.00,Default,,0,0,0,,Nhưng còn thằng McCluskey.\NMày tính sao với thằng cớm này?
+Dialogue: 0,1:13:50.17,1:13:53.05,Default,,0,0,0,,Tụi nó muốn gặp tôi chứ gì?
+Dialogue: 0,1:13:53.92,1:13:58.35,Default,,0,0,0,,Tôi, Sollozzo và McCluskey.
+Dialogue: 0,1:14:00.35,1:14:02.35,Default,,0,0,0,,Cứ hẹn gặp đi.
+Dialogue: 0,1:14:04.52,1:14:08.23,Default,,0,0,0,,Phải cấp tốc tung người ra nghe ngóng,\Nphăng ra cho bằng được.
+Dialogue: 0,1:14:10.06,1:14:13.86,Default,,0,0,0,,Buộc nó phải gặp gỡ ở một chỗ\Ncông cộng. Bar rượu, nhà hàng.
+Dialogue: 0,1:14:13.94,1:14:17.70,Default,,0,0,0,,Chỗ nào đông đông cho nó an toàn.
+Dialogue: 0,1:14:20.45,1:14:23.45,Default,,0,0,0,,Lúc gặp nó vẫn phải soát người em.
+Dialogue: 0,1:14:23.54,1:14:25.87,Default,,0,0,0,,Vậy nên em không đem đồ theo được.
+Dialogue: 0,1:14:29.25,1:14:34.21,Default,,0,0,0,,Clemenza phải lo đặt đồ nghề ở\Nđịa điểm họp, giấu sẵn đâu đó.
+Dialogue: 0,1:14:39.18,1:14:41.39,Default,,0,0,0,,Em sẽ cho cả hai đi luôn.
+Dialogue: 0,1:14:53.48,1:14:58.20,Default,,0,0,0,,Một thằng học trò như mày! Xưa không muốn\Ndính vô bất cứ chuyện gì của nhà mà.
+Dialogue: 0,1:14:58.32,1:15:01.95,Default,,0,0,0,,Nổ cả đại úy cảnh sát chỉ\Nvì bị nó đấm bể mặt!
+Dialogue: 0,1:15:02.07,1:15:08.58,Default,,0,0,0,,Đây đâu phải quân ngũ! Nó ở sát nách mày,\Nóc nó văng vô bộ vét của mày.
+Dialogue: 0,1:15:08.66,1:15:11.71,Default,,0,0,0,,Mày trả hận.
+Dialogue: 0,1:15:11.79,1:15:15.21,Default,,0,0,0,,Tom, đương bàn chuyện làm ăn\Nmà nó lại đòi trả thù.
+Dialogue: 0,1:15:15.34,1:15:18.80,Default,,0,0,0,,- Luật nào cấm giết cớm?\N- Mikey...
+Dialogue: 0,1:15:18.93,1:15:25.02,Default,,0,0,0,,Một thằng cớm bẩn, một thằng cớm bán\Nđứt lương tâm dính vô áp-phe ma túy.
+Dialogue: 0,1:15:26.06,1:15:30.35,Default,,0,0,0,,Ăn chia rồi thì phải ráng mà chịu.
+Dialogue: 0,1:15:30.48,1:15:35.02,Default,,0,0,0,,Chuyện này lên báo là hết sẩy.\NMình có móc nối sẵn với báo chí.
+Dialogue: 0,1:15:36.48,1:15:40.32,Default,,0,0,0,,- Đám nhà báo nhào vô đớp liền.\N- Có thể thôi.
+Dialogue: 0,1:15:43.99,1:15:47.58,Default,,0,0,0,,Trên đời này cái quái gì chẳng là làm ăn.
+Dialogue: 0,1:15:50.79,1:15:52.33,Default,,0,0,0,,Lạnh như thép.
+Dialogue: 0,1:15:52.42,1:15:55.67,Default,,0,0,0,,Mày đừng lo dấu tay, khỏi có chắc.
+Dialogue: 0,1:15:56.09,1:16:00.13,Default,,0,0,0,,Báng súng, cò súng đều dán băng\Ndính đặc biệt rồi. Mày thử đi.
+Dialogue: 0,1:16:12.31,1:16:14.40,Default,,0,0,0,,Cò có chật quá không?
+Dialogue: 0,1:16:17.73,1:16:18.94,Default,,0,0,0,,My ears!
+Dialogue: 0,1:16:19.03,1:16:23.66,Default,,0,0,0,,Cần phải cho nó nổ lớn để hù\Nmấy thằng có máu anh hùng chứ.
+Dialogue: 0,1:16:24.82,1:16:27.74,Default,,0,0,0,,Mày bắn xong hai thằng.\NRồi mày làm gì tiếp?
+Dialogue: 0,1:16:30.12,1:16:33.79,Default,,0,0,0,,- Ngồi xuống ăn tiếp.\N- Đừng có giỡn nữa.
+Dialogue: 0,1:16:33.88,1:16:37.42,Default,,0,0,0,,Buông xuôi tay xuống, rồi\Nthả súng cho nó rớt.
+Dialogue: 0,1:16:37.50,1:16:41.93,Default,,0,0,0,,Để người ngoài cứ tưởng mình còn\Nsúng trong tay. Tụi nó chỉ ngó cái mặt mà!
+Dialogue: 0,1:16:42.01,1:16:44.89,Default,,0,0,0,,Nhanh chân bước ra. Chớ có chạy.
+Dialogue: 0,1:16:44.97,1:16:48.39,Default,,0,0,0,,Không nhìn tận mắt thằng nào\Nmà cũng không ngó lảng đi đâu hết.
+Dialogue: 0,1:16:48.47,1:16:51.98,Default,,0,0,0,,Chúng nó sẽ hết hồn,\Nmày cứ vững lên.
+Dialogue: 0,1:16:54.02,1:16:58.27,Default,,0,0,0,,Mày thì ngon. Đi nghỉ mát\Nở xứ khỉ ho cò gáy nào đó,
+Dialogue: 0,1:16:58.36,1:17:00.44,Default,,0,0,0,,Tụi tao mới là lãnh đủ.
+Dialogue: 0,1:17:01.07,1:17:04.91,Default,,0,0,0,,- Tới cỡ nào?\N- Khủng khiếp.
+Dialogue: 0,1:17:04.99,1:17:08.03,Default,,0,0,0,,Các cánh khác thế nào cũng xúm\Nvào hội động tụi mình.
+Dialogue: 0,1:17:08.16,1:17:11.03,Default,,0,0,0,,Có điều năm, mười năm\Nlà phải có đổ máu lớn.
+Dialogue: 0,1:17:11.06,1:17:13.73,Default,,0,0,0,,Kể như một dịp để tẩy\Nbớt thứ máu xấu đi.
+Dialogue: 0,1:17:13.83,1:17:18.25,Default,,0,0,0,,10 năm trước có một lần đánh lớn rồi.\NPhải đập tụi nó ngay từ đầu.
+Dialogue: 0,1:17:18.38,1:17:24.09,Default,,0,0,0,,Như Hitler vậy, chặn lại ngay từ hồi Munich\Nthì nó đâu có làm điên đảo toàn thế giới.
+Dialogue: 0,1:17:25.51,1:17:30.02,Default,,0,0,0,,Tụi tao hãnh diện có một anh hùng\Nnhư mày lắm đó, Mike.
+Dialogue: 0,1:17:30.10,1:17:31.81,Default,,0,0,0,,Cha mày cũng sung sướng lắm.
+Dialogue: 0,1:18:09.89,1:18:13.31,Default,,0,0,0,,Tụi nó giữ kín quá!
+Dialogue: 0,1:18:14.27,1:18:18.52,Default,,0,0,0,,Đến đàn em của nó còn cóc biết ở đâu.
+Dialogue: 0,1:18:18.60,1:18:20.94,Default,,0,0,0,,Mà mình còn bao lâu nữa?
+Dialogue: 0,1:18:21.82,1:18:26.61,Default,,0,0,0,,Một tiếng rưỡi nữa tụi nó sẽ đón\NMichael ở trước cửa quán Jack Dempsey.
+Dialogue: 0,1:18:27.61,1:18:32.49,Default,,0,0,0,,- Cho người theo đuôi vậy.\N- Sollozzo cắt đuôi mấy hồi.
+Dialogue: 0,1:18:33.87,1:18:38.42,Default,,0,0,0,,- Còn thằng trung gian đến chưa?\N- Nó đang chơi pinochle với đàn em của tao.
+Dialogue: 0,1:18:38.54,1:18:41.41,Default,,0,0,0,,Tụi nó thả cho thằng\Nnhỏ thắng, nó vui lắm.
+Dialogue: 0,1:18:41.44,1:18:43.65,Default,,0,0,0,,Nguy hiểm quá. Hay là hủy đi.
+Dialogue: 0,1:18:43.71,1:18:47.09,Default,,0,0,0,,Thằng Mike bình an về thì\Nmới cho thằng trung gian đi.
+Dialogue: 0,1:18:47.18,1:18:49.84,Default,,0,0,0,,Hay quất đại vào xe, thằng\Nnào trong xe lãnh hết?
+Dialogue: 0,1:18:49.86,1:18:51.25,Default,,0,0,0,,Tụi nó cũng tính rồi.
+Dialogue: 0,1:18:51.31,1:18:54.64,Default,,0,0,0,,Chắc gì Sollozzo có mặt trên xe!
+Dialogue: 0,1:18:54.73,1:18:56.23,Default,,0,0,0,,Rồi.
+Dialogue: 0,1:19:21.50,1:19:23.67,Default,,0,0,0,,Nhà hàng Louis trong khu Bronx.
+Dialogue: 0,1:19:23.75,1:19:27.09,Default,,0,0,0,,- Chắc ăn không đó?\N- Người của tao ở sở làm của McCluskey mà.
+Dialogue: 0,1:19:27.22,1:19:32.93,Default,,0,0,0,,Đại úy cảnh sát phải trực chiến 24 giờ chứ.\NHắn sẽ ở đó từ 8 đến 10 giờ.
+Dialogue: 0,1:19:33.01,1:19:34.43,Default,,0,0,0,,Có ai biết quán này?
+Dialogue: 0,1:19:34.45,1:19:37.92,Default,,0,0,0,,Có tao đây! Một chỗ\Ncực ngon cho mình chơi.
+Dialogue: 0,1:19:37.98,1:19:42.94,Default,,0,0,0,,Quán gia đình nhỏ, thức ăn chiến.\NThực khách chẳng ai buồn để ý ai. Tuyệt!
+Dialogue: 0,1:19:43.69,1:19:48.86,Default,,0,0,0,,Quán này xài loại cầu tiêu kiểu cũ.\NLoại xài dây xích và bồn đó.
+Dialogue: 0,1:19:50.86,1:19:53.95,Default,,0,0,0,,Lấy băng keo dán cứng nó\Nsau bồn nước là ngon.
+Dialogue: 0,1:19:54.03,1:19:58.16,Default,,0,0,0,,Rồi. Mike, mày nhớ nè,\Nvào nhà hàng rồi,
+Dialogue: 0,1:19:58.25,1:20:02.13,Default,,0,0,0,,Mày cứ ngồi ăn uống một hồi\Ncho bọn chúng ỷ y.
+Dialogue: 0,1:20:02.21,1:20:07.55,Default,,0,0,0,,Xong mày tiểu. Lại ấp\Núng xin phép chúng nó.
+Dialogue: 0,1:20:07.63,1:20:12.09,Default,,0,0,0,,Đi ra là mày nổ liền, khỏi chần chừ.\NChơi vào đầu, mỗi đứa 2 phát.
+Dialogue: 0,1:20:13.85,1:20:16.35,Default,,0,0,0,,Đặt súng chú phải lựa thằng\Nnào thật đàng hoàng đó.
+Dialogue: 0,1:20:16.43,1:20:19.94,Default,,0,0,0,,Đừng có để thằng em tôi vô rồi\Nra tay không là không xong đâu.
+Dialogue: 0,1:20:20.02,1:20:25.57,Default,,0,0,0,,- Khẩu này sẽ nằm đó liền tức thời!\N- Chú đón nó.
+Dialogue: 0,1:20:25.65,1:20:27.32,Default,,0,0,0,,Đi chuẩn bị thôi.
+Dialogue: 0,1:20:32.82,1:20:35.99,Default,,0,0,0,,Ổng đã chỉ cho mày cách buông súng chưa?
+Dialogue: 0,1:20:36.08,1:20:37.95,Default,,0,0,0,,Cỡ một triệu lần!
+Dialogue: 0,1:20:42.71,1:20:46.92,Default,,0,0,0,,Đừng quên nghe. Mày đi ra là phải cho\Nmột thằng ăn hai phát liền.
+Dialogue: 0,1:20:53.51,1:20:57.10,Default,,0,0,0,,Em sẽ vắng mặt cỡ bao lâu?
+Dialogue: 0,1:20:57.93,1:21:00.02,Default,,0,0,0,,Ít ra một năm.
+Dialogue: 0,1:21:00.14,1:21:04.94,Default,,0,0,0,,Tao nói với mẹ rồi, chớ có giở trò\Ntừ biệt con nhỏ trước khi đi...
+Dialogue: 0,1:21:06.48,1:21:10.32,Default,,0,0,0,,Tụi tao sẽ có tin cho nó sau.
+Dialogue: 0,1:21:16.16,1:21:17.66,Default,,0,0,0,,Bảo trọng.
+Dialogue: 0,1:21:20.45,1:21:22.21,Default,,0,0,0,,Bảo trọng, Mike.
+Dialogue: 0,1:21:55.03,1:21:58.83,Default,,0,0,0,,Rất mừng gặp anh bạn tối nay\Nđể ta giải quyết công việc cho xong.
+Dialogue: 0,1:22:00.03,1:22:05.12,Default,,0,0,0,,Tôi không muốn công việc\Ndiễn tiến kỳ cục thế này.
+Dialogue: 0,1:22:05.25,1:22:09.55,Default,,0,0,0,,Tôi cũng muốn sắp đặt cho êm tối nay.\NTôi không muốn ông già bị thêm nữa!
+Dialogue: 0,1:22:09.63,1:22:12.88,Default,,0,0,0,,Tôi dám thề trên đầu mấy đứa con tôi.\NKhông có nữa đâu!
+Dialogue: 0,1:22:13.88,1:22:17.18,Default,,0,0,0,,Chỉ mong anh bạn thông cảm\Nkhi chúng ta bàn bạc.
+Dialogue: 0,1:22:17.26,1:22:21.68,Default,,0,0,0,,Chứ nóng nảy Sonny thì chẳng\Ncó cách nào nói chuyện được!
+Dialogue: 0,1:22:23.56,1:22:25.23,Default,,0,0,0,,Cậu này người đàng hoàng.
+Dialogue: 0,1:22:29.31,1:22:32.69,Default,,0,0,0,,Xin lỗi về vụ tối hôm ấy nghe Mike.
+Dialogue: 0,1:22:32.78,1:22:36.86,Default,,0,0,0,,Tôi phải soát cậu thôi.\NQuay mặt lại với tôi này.
+Dialogue: 0,1:22:41.99,1:22:46.66,Default,,0,0,0,,Tuổi này coi bộ hết làm nổi rồi.\NƯa nổi sùng bất tử.
+Dialogue: 0,1:22:48.08,1:22:51.92,Default,,0,0,0,,Tinh thần căng thẳng chịu hết nổi.\NCậu chắc hiểu cho tôi mà.
+Dialogue: 0,1:22:54.21,1:22:55.63,Default,,0,0,0,,Nó sạch sẽ.
+Dialogue: 0,1:23:22.24,1:23:24.54,Default,,0,0,0,,Đi Jersey hả mấy anh bạn?
+Dialogue: 0,1:23:27.04,1:23:28.58,Default,,0,0,0,,Có thể.
+Dialogue: 0,1:23:53.86,1:23:55.65,Default,,0,0,0,,Ngon lắm, Lou.
+Dialogue: 0,1:24:32.81,1:24:38.36,Default,,0,0,0,,- Quán này có gì hấp dẫn không?\N- Thử gọi món bê con coi. Số một thành phố!
+Dialogue: 0,1:24:38.44,1:24:40.11,Default,,0,0,0,,Để gọi thử.
+Dialogue: 0,1:25:15.69,1:25:18.86,Default,,0,0,0,,- Tụi tôi xài tiếng Ý.\N- Ừ.
+Dialogue: 0,1:26:38.48,1:26:40.15,Default,,0,0,0,,Cái tôi muốn...
+Dialogue: 0,1:26:41.11,1:26:43.28,Default,,0,0,0,,Quan trọng nhất...
+Dialogue: 0,1:26:46.03,1:26:50.24,Default,,0,0,0,,Là sự đảm bảo chắc chắn rằng\Nông già tôi không bị đe doạ nữa.
+Dialogue: 0,1:26:50.32,1:26:55.08,Default,,0,0,0,,Tôi mà đảm bảo gì được?\NMạng tôi đang bị săn đuổi là khác!
+Dialogue: 0,1:26:55.16,1:26:58.71,Default,,0,0,0,,Tôi đã bị hụt giò.\NMà anh bạn còn đề cao quá đáng!
+Dialogue: 0,1:26:58.79,1:27:00.63,Default,,0,0,0,,Tôi đâu ghê gớm đến vậy.
+Dialogue: 0,1:27:02.13,1:27:04.38,Default,,0,0,0,,Tôi chỉ muốn đình chiến thôi.
+Dialogue: 0,1:27:10.93,1:27:14.77,Default,,0,0,0,,Tôi vô đi tiểu chút. Được chứ?
+Dialogue: 0,1:27:16.14,1:27:18.65,Default,,0,0,0,,Mắc thì đi đi.
+Dialogue: 0,1:27:24.15,1:27:26.07,Default,,0,0,0,,Nó không có gì đâu.
+Dialogue: 0,1:27:26.15,1:27:28.24,Default,,0,0,0,,Đi lẹ lên nghe.
+Dialogue: 0,1:27:31.37,1:27:33.16,Default,,0,0,0,,Tôi có kinh nghiệm lắm mà.
+Dialogue: 0,1:32:23.78,1:32:25.79,Default,,0,0,0,,Anh đỡ đi.
+Dialogue: 0,1:32:43.05,1:32:44.89,Default,,0,0,0,,Con yêu ông lắm lắm.
+Dialogue: 0,1:32:47.81,1:32:50.52,Default,,0,0,0,,Xin lỗi cha. Thằng nhóc\Ncòn nhỏ quá chưa biết ất giáp gì cả.
+Dialogue: 0,1:32:51.85,1:32:54.94,Default,,0,0,0,,- Nhóc con, đọc cho ông nghe đi.\N- Dạ.
+Dialogue: 0,1:32:55.06,1:32:59.07,Default,,0,0,0,,"Con cầu cho ông khỏe\Nlại, và được gặp ông sớm.
+Dialogue: 0,1:32:59.10,1:33:01.35,Default,,0,0,0,,Cháu cưng của ông, Frank."
+Dialogue: 0,1:33:04.32,1:33:06.62,Default,,0,0,0,,Theo mẹ đi con.
+Dialogue: 0,1:33:06.70,1:33:08.83,Default,,0,0,0,,Xuống lầu nè.
+Dialogue: 0,1:33:14.96,1:33:17.00,Default,,0,0,0,,Mày cũng đi đi Carlo.
+Dialogue: 0,1:33:18.71,1:33:20.42,Default,,0,0,0,,Đi.
+Dialogue: 0,1:33:41.03,1:33:45.03,Default,,0,0,0,,- Anh có bệnh gì hả Carlo?\N- Mày im mà dọn bàn đi à.
+Dialogue: 0,1:34:00.59,1:34:06.64,Default,,0,0,0,,Sau vụ xử thằng McCluskey, tụi cớm\Nvây cánh nhà ta ráo riết quá.
+Dialogue: 0,1:34:08.39,1:34:13.27,Default,,0,0,0,,Mấy cánh kia cũng lãnh đạn đủ.
+Dialogue: 0,1:34:13.35,1:34:16.85,Default,,0,0,0,,Bên ta, bên nó cứ bắn quá bắn lại.
+Dialogue: 0,1:34:17.69,1:34:22.24,Default,,0,0,0,,Mà nhiều tờ báo phe ta\Ncũng đã đăng tài liệu...
+Dialogue: 0,1:34:22.32,1:34:26.61,Default,,0,0,0,,mối liên hệ làm ăn ma túy\Ngiữa hắn và tên Sollozzo rồi.
+Dialogue: 0,1:34:26.70,1:34:28.83,Default,,0,0,0,,Tình hình cũng hết căng thẳng.
+Dialogue: 0,1:34:30.08,1:34:34.83,Default,,0,0,0,,Thằng Fredo thì được cử qua Las Vegas,
+Dialogue: 0,1:34:34.91,1:34:37.46,Default,,0,0,0,,cho ông trùm Francesco vùng LA bảo bọc.
+Dialogue: 0,1:34:37.58,1:34:42.09,Default,,0,0,0,,- Cho nó nghỉ ngơi tí.\N- Con sẽ học nghề sòng bạc ạ.
+Dialogue: 0,1:34:50.43,1:34:52.22,Default,,0,0,0,,Thằng Michael đâu?
+Dialogue: 0,1:35:04.53,1:35:07.66,Default,,0,0,0,,Thằng Michael hạ sát Sollozzo.
+Dialogue: 0,1:35:09.45,1:35:13.29,Default,,0,0,0,,Nhưng mà nó không sao đâu bác.\NTụi con đang vận động đưa nó về đây.
+Dialogue: 0,1:35:34.68,1:35:37.06,Default,,0,0,0,,Mày tìm ra thằng tú ông già Tattaglia\Nđang trốn ở xó nào cho tao.
+Dialogue: 0,1:35:37.14,1:35:39.10,Default,,0,0,0,,Tao là muốn chơi nó bây giờ.
+Dialogue: 0,1:35:39.19,1:35:42.73,Default,,0,0,0,,Sonny, chuyện sắp yên lành rồi.
+Dialogue: 0,1:35:42.82,1:35:47.53,Default,,0,0,0,,Mày chơi thằng Tattaglia cho xáo trộn\Nlên nữa hả? Để đó ông già điều đình đi.
+Dialogue: 0,1:35:47.61,1:35:50.21,Default,,0,0,0,,Để ông già nghỉ ngơi.\NTao sẽ quyết...
+Dialogue: 0,1:35:50.23,1:35:53.64,Default,,0,0,0,,Bắn giết tốn kém lắm.\NCòn làm ăn gì được nữa.
+Dialogue: 0,1:35:53.70,1:35:56.13,Default,,0,0,0,,Vậy tao cho tụi nó cũng khỏi làm ăn.\NMày khỏi lo!
+Dialogue: 0,1:35:56.16,1:35:57.56,Default,,0,0,0,,Rồi cánh mình sẽ bị kẹt!
+Dialogue: 0,1:35:57.66,1:36:02.59,Default,,0,0,0,,- Kẹt con mẹ. Tao giết thằng đó là xong.\N- Rồi tao cho mày nổi tiếng nhé.
+Dialogue: 0,1:36:02.71,1:36:08.76,Default,,0,0,0,,Mày cứ làm theo tao đi! Mày mà là quân sư\NSicily thời chiến thì tao đâu lâm cảnh này!
+Dialogue: 0,1:36:08.84,1:36:11.14,Default,,0,0,0,,Ông già còn có bác Genco.\NTao có cái đéo gì.
+Dialogue: 0,1:36:14.72,1:36:17.02,Default,,0,0,0,,Thôi, tao xin lỗi. Tao không cố ý.
+Dialogue: 0,1:36:18.19,1:36:21.15,Default,,0,0,0,,Hôm nay Chủ nhật, bà già có làm\Nbữa tối nho nhỏ đó.
+Dialogue: 0,1:36:22.06,1:36:26.44,Default,,0,0,0,,Mấy thằng đen đang tọa hưởng\Nmấy cái “tổng hành dinh” khu Harlem.
+Dialogue: 0,1:36:26.53,1:36:30.70,Default,,0,0,0,,Đi thì đi Cadillac mà người ta\Ntrúng thì đòi chia phân nửa.
+Dialogue: 0,1:36:30.78,1:36:34.12,Default,,0,0,0,,Đớp lớn rồi thì phải vậy.
+Dialogue: 0,1:36:34.20,1:36:37.50,Default,,0,0,0,,Cha không có bao giờ bàn chuyện\Nlàm ăn khi đang ăn uống hết.
+Dialogue: 0,1:36:37.58,1:36:41.46,Default,,0,0,0,,- Im đi, Connie...\N- Mày có quyền đéo gì mà kêu em tao im.
+Dialogue: 0,1:36:42.21,1:36:43.29,Default,,0,0,0,,Đừng có can vào.
+Dialogue: 0,1:36:45.59,1:36:49.51,Default,,0,0,0,,Sau bữa tối để em bàn bạc với anh.\NEm có thể góp nhiều hơn cho nhà mình mà...
+Dialogue: 0,1:36:49.59,1:36:52.39,Default,,0,0,0,,Không bàn chuyện làm ăn trong giờ ăn.
+Dialogue: 0,1:37:39.60,1:37:42.23,Default,,0,0,0,,Kính chào ông trùm Tommasino.
+Dialogue: 0,1:37:47.77,1:37:49.78,Default,,0,0,0,,Sao mày đi chơi xa nhà thế?
+Dialogue: 0,1:37:50.44,1:37:53.11,Default,,0,0,0,,Tao phải đảm bảo mày ngon lành\Nvới cha mày mà.
+Dialogue: 0,1:37:53.20,1:37:54.49,Default,,0,0,0,,Có vệ sĩ ở đây mà bác.
+Dialogue: 0,1:37:55.41,1:37:56.74,Default,,0,0,0,,Vệ sĩ chứ vẫn nguy hiểm lắm.
+Dialogue: 0,1:37:57.87,1:37:59.62,Default,,0,0,0,,Tao nghe tin từ thằng Santino...
+Dialogue: 0,1:38:01.04,1:38:03.29,Default,,0,0,0,,Kẻ thù của mày biết mày\Nnương náu ở đây rồi.
+Dialogue: 0,1:38:05.29,1:38:07.04,Default,,0,0,0,,Anh Santino có nói khi nào con về không?
+Dialogue: 0,1:38:07.71,1:38:09.00,Default,,0,0,0,,Vậy thì chưa.
+Dialogue: 0,1:38:09.67,1:38:11.51,Default,,0,0,0,,Cái đó khỏi bàn tới.
+Dialogue: 0,1:38:14.97,1:38:16.39,Default,,0,0,0,,Mày đi đâu đó?
+Dialogue: 0,1:38:18.06,1:38:19.10,Default,,0,0,0,,Về làng Corleone ạ.
+Dialogue: 0,1:38:19.72,1:38:20.97,Default,,0,0,0,,Lên xe tao mà đi nè.
+Dialogue: 0,1:38:24.31,1:38:25.39,Default,,0,0,0,,Thôi để con đi bộ được rồi.
+Dialogue: 0,1:38:27.98,1:38:29.15,Default,,0,0,0,,Cẩn thận đó.
+Dialogue: 0,1:39:03.68,1:39:05.32,Default,,0,0,0,,Không biết đàn ông trong làng này đâu cả.
+Dialogue: 0,1:39:06.10,1:39:08.31,Default,,0,0,0,,Toàn là báo thù rồi chết hết.
+Dialogue: 0,1:39:09.94,1:39:12.36,Default,,0,0,0,,Có tên người chết in lên nè.
+Dialogue: 0,1:39:28.75,1:39:32.88,Default,,0,0,0,,Ê, mấy anh lính,\Ncho tôi đến Mỹ quốc đi!
+Dialogue: 0,1:39:32.96,1:39:37.26,Default,,0,0,0,,Ê, cho tôi đến Mỹ quốc đi, mấy anh!\NCó Clark Gable đó!
+Dialogue: 0,1:39:37.38,1:39:42.64,Default,,0,0,0,,Mỹ quốc! Cho tôi đến đó đi các anh!\NClark Gable, Rita Hayworth!
+Dialogue: 0,1:40:00.57,1:40:02.62,Default,,0,0,0,,Má ơi, đẹp mê hồn luôn.
+Dialogue: 0,1:40:10.79,1:40:13.88,Default,,0,0,0,,Cậu lãnh nguyên một cú sét rồi!
+Dialogue: 0,1:40:20.09,1:40:24.10,Default,,0,0,0,,Ở Sicily, phụ nữ còn hiểm nguy\Nhơn cả lupara nữa đấy.
+Dialogue: 0,1:40:46.79,1:40:48.96,Default,,0,0,0,,Các anh đi săn có trúng không đó?
+Dialogue: 0,1:40:49.91,1:40:52.29,Default,,0,0,0,,Ông mở quán chắc biết hết\Nmấy cô trong làng hả?
+Dialogue: 0,1:40:52.79,1:40:54.31,Default,,0,0,0,,Lúc nãy chúng tôi vừa ngó thấy một cô.
+Dialogue: 0,1:40:55.13,1:40:58.63,Default,,0,0,0,,Ông bạn này lãnh phải cú sét tình yêu rồi.
+Dialogue: 0,1:41:01.84,1:41:04.60,Default,,0,0,0,,Cô đó làm ông bạn này nổi hứng lên rồi.
+Dialogue: 0,1:41:12.23,1:41:14.40,Default,,0,0,0,,Xứng đôi vừa lứa.
+Dialogue: 0,1:41:14.48,1:41:15.52,Default,,0,0,0,,Phải không Calo?
+Dialogue: 0,1:41:19.28,1:41:21.28,Default,,0,0,0,,Mái tóc nè, cái miệng nè!
+Dialogue: 0,1:41:23.66,1:41:26.83,Default,,0,0,0,,Phụ nữ ở đây đẹp thật,\Nnhưng mà đoan trang lắm.
+Dialogue: 0,1:41:27.37,1:41:29.75,Default,,0,0,0,,Cô này mặc váy tím...
+Dialogue: 0,1:41:30.12,1:41:32.25,Default,,0,0,0,,Có dải băng tím trên tóc.
+Dialogue: 0,1:41:33.12,1:41:36.30,Default,,0,0,0,,Giống týp người Hy Lạp hơn là Ý.
+Dialogue: 0,1:41:38.71,1:41:40.55,Default,,0,0,0,,Ông biết không?
+Dialogue: 0,1:41:44.97,1:41:47.76,Default,,0,0,0,,Chẳng biết ai như vậy hết.
+Dialogue: 0,1:41:50.48,1:41:51.69,Default,,0,0,0,,Chết mẹ, hiểu rồi!
+Dialogue: 0,1:41:55.81,1:41:56.81,Default,,0,0,0,,Chuyện gì vậy?
+Dialogue: 0,1:41:59.03,1:42:00.40,Default,,0,0,0,,Dông thôi.
+Dialogue: 0,1:42:02.36,1:42:03.61,Default,,0,0,0,,Con gái ổng đó.
+Dialogue: 0,1:42:04.07,1:42:05.57,Default,,0,0,0,,Kêu cha già đó ra đây.
+Dialogue: 0,1:42:08.99,1:42:10.33,Default,,0,0,0,,Cứ kêu ra.
+Dialogue: 0,1:42:30.39,1:42:32.73,Default,,0,0,0,,Fabrizio, mày dịch đi.
+Dialogue: 0,1:42:36.85,1:42:38.73,Default,,0,0,0,,Xin bỏ qua cho sự đường đột.
+Dialogue: 0,1:42:39.73,1:42:43.15,Default,,0,0,0,,Tôi chẳng phải người địa phương.
+Dialogue: 0,1:42:43.24,1:42:46.32,Default,,0,0,0,,Tôi không hề có ý bất nhã\Nvới ông hay con gái ông.
+Dialogue: 0,1:42:51.79,1:42:54.66,Default,,0,0,0,,Tôi người Mỹ, sang Sicily nương náu.
+Dialogue: 0,1:42:56.08,1:42:58.42,Default,,0,0,0,,Tên tôi là Michael Corleone.
+Dialogue: 0,1:43:00.46,1:43:04.59,Default,,0,0,0,,Có người thưởng hậu cho ông nếu\Nông phi báo cái tin này.
+Dialogue: 0,1:43:06.76,1:43:09.81,Default,,0,0,0,,Nhưng e rằng vậy thì con gái ông\Nvừa không có một thằng chồng khá...
+Dialogue: 0,1:43:11.39,1:43:13.77,Default,,0,0,0,,mà còn mất luôn một người cha nữa.
+Dialogue: 0,1:43:21.94,1:43:24.15,Default,,0,0,0,,Tôi muốn quen biết cô con ông.
+Dialogue: 0,1:43:24.82,1:43:29.41,Default,,0,0,0,,Dĩ nhiên là phải có sự đồng ý của\Nông và trong khuôn khổ gia đình.
+Dialogue: 0,1:43:30.07,1:43:31.92,Default,,0,0,0,,Với đủ mọi nghi thức và\Ntrịnh trọng cần thiết.
+Dialogue: 0,1:43:37.79,1:43:41.80,Default,,0,0,0,,Xin mời chiều Chủ nhật tới.\NTôi là Vitelli.
+Dialogue: 0,1:43:42.82,1:43:45.42,Default,,0,0,0,,Nhà riêng ở trên đồi đằng kia\Nnhưng anh cứ tới đây tôi sẽ đưa lên.
+Dialogue: 0,1:43:47.30,1:43:48.80,Default,,0,0,0,,Tên cô con gái ông là gì?
+Dialogue: 0,1:43:50.53,1:43:51.03,Default,,0,0,0,,Apollonia.
+Dialogue: 0,1:46:44.14,1:46:46.31,Default,,0,0,0,,Đánh cho em ngây ngất bây giờ.
+Dialogue: 0,1:46:52.07,1:46:54.15,Default,,0,0,0,,Để dành nó cho thư viện đi.
+Dialogue: 0,1:46:57.82,1:47:00.49,Default,,0,0,0,,Đi đón con em của tao.
+Dialogue: 0,1:47:18.55,1:47:20.26,Default,,0,0,0,,Gì vậy em?
+Dialogue: 0,1:47:22.72,1:47:24.52,Default,,0,0,0,,Gì vậy em?
+Dialogue: 0,1:47:26.31,1:47:28.23,Default,,0,0,0,,- Tại em anh ơi!\N- Nó đâu?
+Dialogue: 0,1:47:28.31,1:47:31.48,Default,,0,0,0,,Anh ơi, tại em gây chuyện.\NEm đòi đập trước.
+Dialogue: 0,1:47:31.57,1:47:35.36,Default,,0,0,0,,Em gây sự trước với ảnh.\NEm đánh ảnh nên ảnh mới ra tay lại...
+Dialogue: 0,1:47:40.58,1:47:43.87,Default,,0,0,0,,Để anh phôn kêu bác sĩ lại đây săn sóc em.
+Dialogue: 0,1:47:43.95,1:47:46.46,Default,,0,0,0,,Sonny, anh đừng làm gì hết nghe.
+Dialogue: 0,1:47:48.42,1:47:50.50,Default,,0,0,0,,Em bị sao vậy?\NAnh có đòi làm gì đâu?
+Dialogue: 0,1:47:50.59,1:47:53.46,Default,,0,0,0,,Anh không để cho con em\Nmới sanh ra đã mồ côi cha đâu!
+Dialogue: 0,1:47:58.01,1:48:01.22,Default,,0,0,0,,Tụi bây vẫn bắt độ đội Yankee hả?
+Dialogue: 0,1:48:01.31,1:48:03.97,Default,,0,0,0,,Bảo dừng nghe chưa.
+Dialogue: 0,1:48:04.81,1:48:06.53,Default,,0,0,0,,Tuần trước mất con mẹ nó một đống tiền rồi.
+Dialogue: 0,1:48:13.65,1:48:15.69,Default,,0,0,0,,Tới đây! Tới đây!
+Dialogue: 0,1:49:12.63,1:49:15.96,Default,,0,0,0,,Mày đụng tới con em tao một\Nlần nữa là tao giết mày!
+Dialogue: 0,1:53:09.20,1:53:13.45,Default,,0,0,0,,Chào cô Kay! Cô đến đường đột quá.\NNhẽ ra phải gọi trước một tiếng chứ.
+Dialogue: 0,1:53:13.53,1:53:17.87,Default,,0,0,0,,Tôi gọi rồi. Viết thư, gọi\Nđiện tôi đều làm rồi.
+Dialogue: 0,1:53:17.95,1:53:21.79,Default,,0,0,0,,- Tôi muốn gặp Michael.\N- Giờ chúng tôi chẳng biết nó ở đâu cả.
+Dialogue: 0,1:53:21.88,1:53:24.42,Default,,0,0,0,,Nhưng an toàn, mạnh khoẻ thì chắc chắn.
+Dialogue: 0,1:53:26.96,1:53:27.95,Default,,0,0,0,,Cái xe bị sao vậy?
+Dialogue: 0,1:53:27.98,1:53:30.62,Default,,0,0,0,,Tai nạn xoàng thôi,\Nai cũng mạnh khỏe hết.
+Dialogue: 0,1:53:31.72,1:53:35.85,Default,,0,0,0,,Tom, anh có thể chuyển dùm\Ncái này cho Michael không?
+Dialogue: 0,1:53:37.39,1:53:42.56,Default,,0,0,0,,Nếu tôi nhận, thì bằng sự này toà có thể\Nchứng minh tôi biết chỗ nó lẩn tránh.
+Dialogue: 0,1:53:43.56,1:53:45.44,Default,,0,0,0,,Thế nào Michael cũng nhắn về mà.
+Dialogue: 0,1:53:45.57,1:53:49.24,Default,,0,0,0,,Tôi lỡ cho taxi đi rồi, anh cho tôi\Nvào nhà gọi taxi khác được không?
+Dialogue: 0,1:53:49.32,1:53:51.20,Default,,0,0,0,,Ừ.
+Dialogue: 0,1:54:08.42,1:54:13.09,Default,,0,0,0,,- Alô?\N- Có anh Carlo không?
+Dialogue: 0,1:54:13.89,1:54:16.35,Default,,0,0,0,,- Ai ở đầu dây vậy?\N- Tôi là bạn Carlo.
+Dialogue: 0,1:54:16.43,1:54:19.81,Default,,0,0,0,,Thông báo với ảnh tối\Nnay tôi không đến được.
+Dialogue: 0,1:54:25.56,1:54:26.81,Default,,0,0,0,,Con đĩ!
+Dialogue: 0,1:54:28.82,1:54:31.61,Default,,0,0,0,,- Cơm tối xong rồi đó.\N- Tao không đói.
+Dialogue: 0,1:54:31.69,1:54:35.03,Default,,0,0,0,,- Thức ăn nguội bây giờ.\N- Chút tao ăn.
+Dialogue: 0,1:54:35.11,1:54:38.49,Default,,0,0,0,,- Mày vừa mới kêu làm cơm tối mà!\N- Đụ má!
+Dialogue: 0,1:54:38.70,1:54:40.83,Default,,0,0,0,,Mày biến cho khuất mắt đi!
+Dialogue: 0,1:54:45.67,1:54:48.46,Default,,0,0,0,,Con này miệng mồm bẩn thỉu.
+Dialogue: 0,1:54:52.80,1:54:57.14,Default,,0,0,0,,Đó, đập hết đi, đồ con Ý bẩn thỉu.\NĐập hết mẹ nó đi!
+Dialogue: 0,1:55:06.35,1:55:09.48,Default,,0,0,0,,Sao mày không đem con đĩ của mày\Nvề ăn tại đây luôn?
+Dialogue: 0,1:55:10.48,1:55:12.15,Default,,0,0,0,,Để tao đem về.
+Dialogue: 0,1:55:18.91,1:55:22.08,Default,,0,0,0,,- Dọn sạch ngay!\N- Dọn con mẹ mày!
+Dialogue: 0,1:55:22.16,1:55:26.08,Default,,0,0,0,,Đồ con bẩn thỉu, ốm nhách.\NDọn! Dọn sạch!
+Dialogue: 0,1:55:26.17,1:55:30.67,Default,,0,0,0,,Dọn đi! Tao nói dọn nghe chưa!\NDọn đi!
+Dialogue: 0,1:55:30.75,1:55:35.59,Default,,0,0,0,,Dọn đi. Dọn hết cái đống đó, mày...
+Dialogue: 0,1:55:38.85,1:55:40.56,Default,,0,0,0,,Dọn nó!
+Dialogue: 0,1:55:40.64,1:55:44.89,Default,,0,0,0,,Dọn đi! Ừ, giết tao đi.\NNhư thằng cha mày đó.
+Dialogue: 0,1:55:44.98,1:55:48.44,Default,,0,0,0,,- Lũ Corleone nhà mày toàn lũ giết người!\N- Tao ghét mày!
+Dialogue: 0,1:55:48.52,1:55:50.23,Default,,0,0,0,,Đâm tao một nhát nè!
+Dialogue: 0,1:55:51.77,1:55:53.44,Default,,0,0,0,,Mày biến khỏi đây!
+Dialogue: 0,1:55:53.53,1:55:56.95,Default,,0,0,0,,- Tao ghét mày!\N- Tới tao giết mày nè!
+Dialogue: 0,1:55:57.03,1:55:59.70,Default,,0,0,0,,Đồ con Ý. Biến ra khỏi đây!
+Dialogue: 0,1:56:10.17,1:56:13.13,Default,,0,0,0,,Connie, mày bị gì?\NTao nghe không được.
+Dialogue: 0,1:56:14.26,1:56:17.30,Default,,0,0,0,,Connie, nói lớn nữa coi.\NThằng nhỏ đang khóc nè.
+Dialogue: 0,1:56:17.38,1:56:20.30,Default,,0,0,0,,Santino, tao không có hiểu.\NTao không nghe gì hết.
+Dialogue: 0,1:56:21.60,1:56:23.39,Default,,0,0,0,,Ừ, Connie.
+Dialogue: 0,1:56:28.06,1:56:30.02,Default,,0,0,0,,Em đợi đó.
+Dialogue: 0,1:56:32.65,1:56:35.19,Default,,0,0,0,,Không, em đợi ở đó.
+Dialogue: 0,1:56:37.36,1:56:39.61,Default,,0,0,0,,Thằng chó đẻ.
+Dialogue: 0,1:56:39.70,1:56:42.91,Default,,0,0,0,,- Thằng chó đẻ!\N- Cái gì vậy?
+Dialogue: 0,1:56:47.08,1:56:50.17,Default,,0,0,0,,Mở cửa ra cho tao!
+Dialogue: 0,1:56:58.18,1:56:59.43,Default,,0,0,0,,Sonny!
+Dialogue: 0,1:57:05.89,1:57:07.89,Default,,0,0,0,,- Sonny.\N- Biến đi!
+Dialogue: 0,1:57:08.98,1:57:10.85,Default,,0,0,0,,Đi theo ổng, đi mau lên!
+Dialogue: 0,1:57:40.59,1:57:42.64,Default,,0,0,0,,Thằng chó đẻ. Lẹ lên!
+Dialogue: 0,1:59:31.33,1:59:33.16,Default,,0,0,0,,Cho tao một hớp.
+Dialogue: 0,1:59:41.59,1:59:43.88,Default,,0,0,0,,Vợ con tao thì đang khóc trên lầu.
+Dialogue: 0,1:59:46.26,1:59:48.76,Default,,0,0,0,,Tao nghe có tiếng xe đi vào.
+Dialogue: 0,1:59:53.43,1:59:56.35,Default,,0,0,0,,Mày là quân sư,
+Dialogue: 0,1:59:56.44,1:59:59.94,Default,,0,0,0,,mày phải cho ông trùm của mày biết\Ncái chuyện mà mọi người đã biết hết chớ.
+Dialogue: 0,2:00:00.02,2:00:02.40,Default,,0,0,0,,Con đâu có nói với bác gái chuyện gì.
+Dialogue: 0,2:00:03.36,2:00:06.61,Default,,0,0,0,,Con tính lên đánh thức bác, cho bác hay.
+Dialogue: 0,2:00:10.12,2:00:12.33,Default,,0,0,0,,Mày tính làm xong ly rượu\Nrồi mới lên gọi tao dậy?
+Dialogue: 0,2:00:14.66,2:00:15.91,Default,,0,0,0,,Dạ.
+Dialogue: 0,2:00:19.21,2:00:21.71,Default,,0,0,0,,Rượu mày uống rồi đó.
+Dialogue: 0,2:00:27.26,2:00:31.14,Default,,0,0,0,,Tụi nó bắn thằng Sonny ở khúc đường nổi.\NBắn chết ngay.
+Dialogue: 0,2:00:48.20,2:00:50.74,Default,,0,0,0,,Không được điều tra truy tầm thủ phạm.
+Dialogue: 0,2:00:55.20,2:00:57.75,Default,,0,0,0,,Không được trả thù.
+Dialogue: 0,2:00:59.46,2:01:02.29,Default,,0,0,0,,Tao muốn có một cuộc họp
+Dialogue: 0,2:01:03.30,2:01:05.92,Default,,0,0,0,,với thủ lĩnh của Ngũ Đại gia.
+Dialogue: 0,2:01:07.84,2:01:09.93,Default,,0,0,0,,Trận chiến này phải chấm dứt ngay.
+Dialogue: 0,2:01:31.86,2:01:34.41,Default,,0,0,0,,Gọi Bonasera.
+Dialogue: 0,2:01:34.49,2:01:36.66,Default,,0,0,0,,Tao cần ổng gấp.
+Dialogue: 0,2:01:49.05,2:01:54.22,Default,,0,0,0,,Tom Hagen đây. Tôi gọi nhân danh\NVito Corleone, theo lời ổng yêu cầu.
+Dialogue: 0,2:01:54.30,2:01:56.68,Default,,0,0,0,,Ông còn nợ ông trùm một việc.
+Dialogue: 0,2:01:56.77,2:02:00.31,Default,,0,0,0,,Ông trùm tin tưởng ông sẽ giúp đỡ lại.
+Dialogue: 0,2:02:00.39,2:02:04.73,Default,,0,0,0,,Cỡ một giờ nữa, đích thân ông trùm sẽ tới\Nđằng cửa hàng. Xin ông tới cửa hàng.
+Dialogue: 0,2:02:25.92,2:02:30.72,Default,,0,0,0,,Chắc ông bạn vui lòng làm trả chớ?
+Dialogue: 0,2:02:30.80,2:02:33.89,Default,,0,0,0,,Vâng, bạn cần tôi làm gì nào?
+Dialogue: 0,2:02:42.27,2:02:46.73,Default,,0,0,0,,Bạn ráng hết sức, bạn mang\Nhết kinh nghiệm nhà nghề.
+Dialogue: 0,2:02:50.90,2:02:53.82,Default,,0,0,0,,Tôi không dám để mẹ nó nhìn cảnh tượng này.
+Dialogue: 0,2:03:09.84,2:03:12.97,Default,,0,0,0,,Bạn thấy thằng con tôi bị\Nchúng chơi dã man chưa?
+Dialogue: 0,2:03:41.99,2:03:45.25,Default,,0,0,0,,Dạy em học tiếng Anh coi còn an toàn hơn!
+Dialogue: 0,2:03:46.00,2:03:47.42,Default,,0,0,0,,Em biết tiếng Anh mà...
+Dialogue: 0,2:03:47.50,2:03:52.30,Default,,0,0,0,,Thứ hai, thứ ba, thứ tư, thứ năm\Nthứ sáu, thứ bảy, chủ nhật.
+Dialogue: 0,2:03:59.51,2:04:01.31,Default,,0,0,0,,Chào bác Tommasino.
+Dialogue: 0,2:04:02.02,2:04:04.02,Default,,0,0,0,,Tình hình Palermo sao?
+Dialogue: 0,2:04:10.02,2:04:14.07,Default,,0,0,0,,Michael đang dạy con lái xe.\NĐể con cho bác coi.s.
+Dialogue: 0,2:04:16.86,2:04:18.70,Default,,0,0,0,,Tình hình Palermo sao rồi bác?
+Dialogue: 0,2:04:19.07,2:04:22.20,Default,,0,0,0,,Cánh trẻ không biết thế nào là lễ độ nữa...
+Dialogue: 0,2:04:23.29,2:04:26.66,Default,,0,0,0,,Thời cuộc không tốt rồi.
+Dialogue: 0,2:04:28.92,2:04:32.34,Default,,0,0,0,,Chỗ này quá nguy hiểm cho mày.
+Dialogue: 0,2:04:35.05,2:04:40.22,Default,,0,0,0,,Bác sẽ cho chuyển mày đến một villa\Ngần Siracusa ngay.
+Dialogue: 0,2:04:46.23,2:04:47.39,Default,,0,0,0,,Có chuyện gì vậy bác?
+Dialogue: 0,2:04:48.52,2:04:50.73,Default,,0,0,0,,Tin dữ từ bên Mỹ.
+Dialogue: 0,2:04:53.19,2:04:56.90,Default,,0,0,0,,Anh mày, Santino, bị bắn chết.
+Dialogue: 0,2:05:03.49,2:05:05.33,Default,,0,0,0,,Đi đi, anh hứa rồi mà.
+Dialogue: 0,2:05:24.14,2:05:25.14,Default,,0,0,0,,Fabrizio!
+Dialogue: 0,2:05:25.22,2:05:26.64,Default,,0,0,0,,Lấy xe đi.
+Dialogue: 0,2:05:28.02,2:05:32.19,Default,,0,0,0,,Cậu tự lái hả cậu chủ?\NMà bữa nay cô ấy có đi không?
+Dialogue: 0,2:05:32.27,2:05:35.86,Default,,0,0,0,,Cho cô ấy đi lánh nạn ở nhà cha,\Ntình hình yên thì về.
+Dialogue: 0,2:05:35.94,2:05:37.86,Default,,0,0,0,,Dạ.
+Dialogue: 0,2:05:43.78,2:05:45.54,Default,,0,0,0,,Calo, Apollonia đâu?
+Dialogue: 0,2:05:46.29,2:05:49.79,Default,,0,0,0,,Cô ấy nói muốn lái xe làm cậu ngạc nhiên.
+Dialogue: 0,2:05:52.08,2:05:54.13,Default,,0,0,0,,In như mấy bà mấy cô Mỹ thiệt rồi.
+Dialogue: 0,2:05:55.59,2:05:58.13,Default,,0,0,0,,Tôi mang hành lý xuống nghe.
+Dialogue: 0,2:06:08.39,2:06:10.56,Default,,0,0,0,,Fabrizio!
+Dialogue: 0,2:06:10.64,2:06:12.31,Default,,0,0,0,,Mày đi đâu vậy?
+Dialogue: 0,2:06:14.02,2:06:16.44,Default,,0,0,0,,Anh đứng đó đi! Em sẽ lái xe tới chỗ anh.
+Dialogue: 0,2:06:22.57,2:06:23.99,Default,,0,0,0,,Không, Apollonia!
+Dialogue: 0,2:06:47.06,2:06:52.90,Default,,0,0,0,,Ông trùm Barzini, xin cảm ơn ông\Nđã giúp tôi tổ chức buổi họp này,
+Dialogue: 0,2:06:53.02,2:06:57.86,Default,,0,0,0,,và các thủ lĩnh khác của Ngũ Đại gia\Ntừ New York và New Jersey.
+Dialogue: 0,2:06:59.61,2:07:02.74,Default,,0,0,0,,Ông trùm Carmine Cuneo từ khu Bronx,
+Dialogue: 0,2:07:02.82,2:07:06.16,Default,,0,0,0,,và từ khu Brooklyn...
+Dialogue: 0,2:07:07.78,2:07:09.87,Default,,0,0,0,,Ông trùm Philip Tattaglia.
+Dialogue: 0,2:07:11.66,2:07:14.37,Default,,0,0,0,,Và từ khu Staten Island...
+Dialogue: 0,2:07:14.46,2:07:17.96,Default,,0,0,0,,chúng ta xin nhắc đến ông\Ntrùm Victor Strachi.
+Dialogue: 0,2:07:18.05,2:07:23.68,Default,,0,0,0,,Và những người bạn bè đến từ phương xa\Ncỡ California và thành phố Kansas
+Dialogue: 0,2:07:23.76,2:07:27.51,Default,,0,0,0,,và những vùng lãnh thổ khác của đất nước.\NCảm ơn.
+Dialogue: 0,2:07:34.35,2:07:37.81,Default,,0,0,0,,Tại sao sự tình biến chuyển đến nỗi này?
+Dialogue: 0,2:07:37.90,2:07:39.52,Default,,0,0,0,,Tôi không rõ.
+Dialogue: 0,2:07:41.57,2:07:45.07,Default,,0,0,0,,Thật không may, mà cũng\Nkhông đến nỗi phải làm như vậy.
+Dialogue: 0,2:07:48.20,2:07:51.62,Default,,0,0,0,,Bên Tattaglia mất một đứa\Ncon, phía tôi mất một.
+Dialogue: 0,2:07:54.08,2:07:57.50,Default,,0,0,0,,Thôi thì chịu.\NNếu nhà Tattaglia đồng ý,
+Dialogue: 0,2:07:57.58,2:08:01.59,Default,,0,0,0,,thì tôi đề nghị trước sao bây giờ cứ thế.
+Dialogue: 0,2:08:03.05,2:08:06.68,Default,,0,0,0,,Tôi xin ngỏ lời cảm ơn ông bạn Corleone\Nvì đã triệu tập cuộc họp này.
+Dialogue: 0,2:08:06.76,2:08:12.14,Default,,0,0,0,,Người mà ai cũng đều công nhận là thủ tín.\NMột con người khiêm tốn biết nghe lý lẽ.
+Dialogue: 0,2:08:12.22,2:08:16.31,Default,,0,0,0,,Phải đấy ông trùm Barzini ạ.\NQuá là khiêm tốn đi.
+Dialogue: 0,2:08:16.40,2:08:20.61,Default,,0,0,0,,Mấy ông lớn thực sự ông\Nbạn Corleone nắm hết.
+Dialogue: 0,2:08:20.69,2:08:23.57,Default,,0,0,0,,Mà ông bạn nhất định không chịu làm ăn.
+Dialogue: 0,2:08:23.65,2:08:27.45,Default,,0,0,0,,Xưa nay tôi có từ chối anh em cái gì chưa?
+Dialogue: 0,2:08:27.53,2:08:29.91,Default,,0,0,0,,Anh em quen tôi lâu rồi.
+Dialogue: 0,2:08:30.83,2:08:36.00,Default,,0,0,0,,Họa chăng là chỉ có một lần này thôi.\NTại sao?
+Dialogue: 0,2:08:37.67,2:08:43.51,Default,,0,0,0,,Tôi biết đụng vô ma túy là sớm muộn gì\Ncũng hư hết cơ nghiệp.
+Dialogue: 0,2:08:43.59,2:08:47.84,Default,,0,0,0,,Không như cờ bạc, không\Nnhư rượu, hoặc đĩ điếm.
+Dialogue: 0,2:08:47.93,2:08:53.89,Default,,0,0,0,,Những thứ nhiều người thích nhưng\Nbị nhà nước hay mấy ông nhà tu cấm.
+Dialogue: 0,2:08:54.02,2:08:58.73,Default,,0,0,0,,Mấy thầy chú xưa nay giúp được mình\Nchuyện cờ bạc, chuyện nọ chuyện kia..
+Dialogue: 0,2:08:58.81,2:09:03.02,Default,,0,0,0,,Nhưng với ma túy họ không dám.
+Dialogue: 0,2:09:03.11,2:09:08.24,Default,,0,0,0,,Trước kia cũng vậy,\Nbây giờ cũng vậy.
+Dialogue: 0,2:09:08.32,2:09:10.53,Default,,0,0,0,,Thời thế thay đổi rồi ông bạn.
+Dialogue: 0,2:09:10.66,2:09:15.37,Default,,0,0,0,,Thời buổi này đâu còn vụ đường\Nai nấy đi như ngày xưa.
+Dialogue: 0,2:09:15.45,2:09:18.33,Default,,0,0,0,,Từ chối đâu phải là nghĩa cử\Ncủa anh em bạn bè.
+Dialogue: 0,2:09:18.41,2:09:23.84,Default,,0,0,0,,Ông bạn Corleone có mấy ông tòa\Nthì phải chia cho anh em...
+Dialogue: 0,2:09:23.92,2:09:28.51,Default,,0,0,0,,phải cho anh em xài chung. Giếng là\Ngiếng chung, phải cho anh em múc nước với.
+Dialogue: 0,2:09:29.59,2:09:33.18,Default,,0,0,0,,Anh em đâu dám để thiệt cho ông bạn.
+Dialogue: 0,2:09:33.26,2:09:35.85,Default,,0,0,0,,Tụi mình đâu phải cộng sản.
+Dialogue: 0,2:09:38.98,2:09:42.06,Default,,0,0,0,,Như tôi nhất định không dính vô.
+Dialogue: 0,2:09:42.19,2:09:47.03,Default,,0,0,0,,Tôi đã phải trả thêm phụ cấp để mấy\Nthằng thủ hạ khỏi dính dấp đến ma tuý.
+Dialogue: 0,2:09:47.11,2:09:50.24,Default,,0,0,0,,Thử hỏi có thằng đến rỉ tai\Ntụi nó: "Tao có hàng trắng."
+Dialogue: 0,2:09:50.32,2:09:53.57,Default,,0,0,0,,"Mày có ba bốn ngàn vốn không?
+Dialogue: 0,2:09:53.87,2:09:56.66,Default,,0,0,0,,Bỏ ra, mày sẽ thu vô năm mươi ngàn cấp kỳ.”
+Dialogue: 0,2:09:57.87,2:10:03.79,Default,,0,0,0,,Thế là tụi nó nhào vô. Vậy thì tại sao\Nkhông vô để nắm lấy quyền kiểm soát?
+Dialogue: 0,2:10:03.88,2:10:08.67,Default,,0,0,0,,Mình không cho tụi nó bày ra gần trường\Nhọc, không cho bán cho đám con nít.
+Dialogue: 0,2:10:08.76,2:10:10.55,Default,,0,0,0,,Đồi bại quá!
+Dialogue: 0,2:10:11.89,2:10:15.81,Default,,0,0,0,,Ở chỗ tôi, tôi chỉ cho phép tụi\Nnó làm ăn trong các khu đen.
+Dialogue: 0,2:10:15.89,2:10:19.10,Default,,0,0,0,,Bản thân chúng kể bỏ, vậy cho\Nchúng tiêu thụ ma tuý để kể bỏ luôn.
+Dialogue: 0,2:10:25.73,2:10:29.32,Default,,0,0,0,,Chúng tôi mời quý bạn tới cốt nói phải quấy\Nvới nhau, giải quyết công việc cho êm đẹp.
+Dialogue: 0,2:10:30.74,2:10:37.37,Default,,0,0,0,,Giá nào cũng phải tìm ra\Nmột biện pháp hòa giải.
+Dialogue: 0,2:10:37.91,2:10:42.50,Default,,0,0,0,,Chúng tôi tán thành. Mọi người có thể\Nbuôn bán ma túy, nhưng phải kiểm soát.
+Dialogue: 0,2:10:42.58,2:10:46.88,Default,,0,0,0,,Ông Corleone phải đảm bảo việc lo lót\Nvới chức quyền miền Đông
+Dialogue: 0,2:10:46.96,2:10:50.72,Default,,0,0,0,,tôi muốn được nghe một lời cam kết\Ncủa ông bạn Corleone.
+Dialogue: 0,2:10:50.80,2:10:54.09,Default,,0,0,0,,Một khi phục hồi lực lượng,
+Dialogue: 0,2:10:54.18,2:10:56.85,Default,,0,0,0,,Tôi muốn biết ông bạn có tìm\Ncách trả thù nữa không?
+Dialogue: 0,2:10:56.93,2:11:02.06,Default,,0,0,0,,Chúng ta đều là người biết lý lẽ.\NCam kết để mà làm gì.
+Dialogue: 0,2:11:02.14,2:11:05.02,Default,,0,0,0,,Ông bạn nói chuyện trả thù.
+Dialogue: 0,2:11:05.10,2:11:08.36,Default,,0,0,0,,Trả thù thì con ông bạn có sống lại không?
+Dialogue: 0,2:11:08.44,2:11:10.99,Default,,0,0,0,,Con tôi có sống lại không?
+Dialogue: 0,2:11:11.07,2:11:13.86,Default,,0,0,0,,Tôi bằng lòng bỏ qua, không trả thù.
+Dialogue: 0,2:11:16.66,2:11:18.95,Default,,0,0,0,,Dĩ nhiên tôi phải có chút tư tâm.
+Dialogue: 0,2:11:21.25,2:11:24.83,Default,,0,0,0,,Thằng con út tôi hiện phải bỏ xứ
+Dialogue: 0,2:11:26.71,2:11:29.25,Default,,0,0,0,,vì chuyện thằng Sollozzo này.
+Dialogue: 0,2:11:30.80,2:11:34.72,Default,,0,0,0,,Bây giờ tôi phải lo thu\Nxếp để nó yên ổn trở về.
+Dialogue: 0,2:11:34.80,2:11:37.47,Default,,0,0,0,,Không sợ bị dính oan vào vụ đó.
+Dialogue: 0,2:11:38.89,2:11:42.02,Default,,0,0,0,,Có điều tôi là người mê tín dị đoan.
+Dialogue: 0,2:11:42.14,2:11:47.44,Default,,0,0,0,,Nếu nó chẳng may có mệnh hệ nào,\Nchẳng hạn một thầy chú nào lỡ tay bắn
+Dialogue: 0,2:11:48.82,2:11:52.40,Default,,0,0,0,,hay nó bị bắt và treo cổ trong xà lim,
+Dialogue: 0,2:11:52.49,2:11:55.36,Default,,0,0,0,,hay bị sét đánh,
+Dialogue: 0,2:11:56.66,2:12:00.24,Default,,0,0,0,,tôi không thể không kết tội\Nmột vài anh em có mặt ở đây.
+Dialogue: 0,2:12:01.91,2:12:04.25,Default,,0,0,0,,Tôi không thể tha thứ.
+Dialogue: 0,2:12:06.71,2:12:09.09,Default,,0,0,0,,Ngoài vụ đó ra,
+Dialogue: 0,2:12:12.17,2:12:14.51,Default,,0,0,0,,tôi thề...
+Dialogue: 0,2:12:16.14,2:12:19.26,Default,,0,0,0,,trên đầu đám con cháu tôi,
+Dialogue: 0,2:12:19.35,2:12:23.73,Default,,0,0,0,,Là sẽ không bao giờ xé rào nổ bậy.
+Dialogue: 0,2:12:49.21,2:12:54.67,Default,,0,0,0,,Có nên yêu cầu bên nhà Tattaglia tụi cò\Nma túy của chúng có lý lịch sạch không?
+Dialogue: 0,2:12:54.76,2:12:56.88,Default,,0,0,0,,Chỉ cần nhắc hờ thôi.
+Dialogue: 0,2:12:58.89,2:13:03.81,Default,,0,0,0,,- Barzini sẽ tự biết.\N- Tattaglia chứ bác.
+Dialogue: 0,2:13:05.43,2:13:07.39,Default,,0,0,0,,Tattaglia chỉ là thằng tú ông.
+Dialogue: 0,2:13:08.48,2:13:11.61,Default,,0,0,0,,Sức mấy mà quất được thằng Santino.
+Dialogue: 0,2:13:13.98,2:13:19.57,Default,,0,0,0,,Phải có cánh Barzini đứng sau nó mới\Ndám liều vậy chớ.
+Dialogue: 0,2:13:35.05,2:13:37.13,Default,,0,0,0,,Đi nè, Nancy.
+Dialogue: 0,2:13:38.34,2:13:40.93,Default,,0,0,0,,Các em đi cạnh nhau nè. Brian.
+Dialogue: 0,2:13:42.26,2:13:43.93,Default,,0,0,0,,Ừ, đúng rồi.
+Dialogue: 0,2:13:57.03,2:13:59.24,Default,,0,0,0,,Anh về nước bao lâu rồi?
+Dialogue: 0,2:14:00.03,2:14:01.86,Default,,0,0,0,,Một năm rồi em à.
+Dialogue: 0,2:14:03.28,2:14:05.41,Default,,0,0,0,,Mà cũng không chừng lâu hơn.
+Dialogue: 0,2:14:08.25,2:14:10.41,Default,,0,0,0,,Gặp được em anh vui lắm, Kay.
+Dialogue: 0,2:14:21.47,2:14:24.01,Default,,0,0,0,,Anh hiện tại thì làm cho ông già., Kay.
+Dialogue: 0,2:14:26.52,2:14:29.52,Default,,0,0,0,,Ổng yếu xuống lắm rồi.
+Dialogue: 0,2:14:31.06,2:14:33.02,Default,,0,0,0,,Anh đâu có giống ông già anh đâu.
+Dialogue: 0,2:14:33.10,2:14:36.90,Default,,0,0,0,,Anh đã nói là sẽ không giống như\Nông già mà.
+Dialogue: 0,2:14:38.82,2:14:43.11,Default,,0,0,0,,Ông già thì cũng như\Nbao nhiêu ông lớn tay to khác thôi.
+Dialogue: 0,2:14:43.20,2:14:46.66,Default,,0,0,0,,Ổng phải chịu trách nhiệm\Nnhững người khác.
+Dialogue: 0,2:14:47.87,2:14:50.29,Default,,0,0,0,,Như nghị sĩ hay tổng thống vậy đó.
+Dialogue: 0,2:14:50.37,2:14:52.83,Default,,0,0,0,,- Anh nói nghe ngây thơ dễ sợ.\N- Tại sao?
+Dialogue: 0,2:14:52.92,2:14:55.75,Default,,0,0,0,,Mấy ông to bà lớn đâu có giết người.
+Dialogue: 0,2:14:59.17,2:15:01.18,Default,,0,0,0,,Tới lượt em ngây thơ rồi đó Kay.
+Dialogue: 0,2:15:02.43,2:15:06.68,Default,,0,0,0,,Giai đoạn làm ăn như ông già anh đã\Nqua, qua hẳn rồi. Ổng cũng hiểu.
+Dialogue: 0,2:15:08.22,2:15:12.60,Default,,0,0,0,,Chỉ năm năm nữa, gia đình Corleone\Nsẽ kiếm sống hoàn toàn hợp pháp.
+Dialogue: 0,2:15:14.44,2:15:18.40,Default,,0,0,0,,Tin anh đi. Việc làm ăn anh chỉ có thể\Nkể em nghe nhiêu đó thôi, Kay...
+Dialogue: 0,2:15:19.86,2:15:22.99,Default,,0,0,0,,Michael, tại sao anh lại tới?
+Dialogue: 0,2:15:24.28,2:15:29.12,Default,,0,0,0,,Anh còn muốn gì ở em nữa?\NEm đã gọi điện, đã viết thư đủ kiểu.
+Dialogue: 0,2:15:29.20,2:15:32.71,Default,,0,0,0,,Vì anh cần em.\NAnh lo lắng cho em.
+Dialogue: 0,2:15:32.79,2:15:36.63,Default,,0,0,0,,- Bỏ đi, Michael.\N- Vì anh muốn cưới em.
+Dialogue: 0,2:15:38.34,2:15:40.92,Default,,0,0,0,,- Trễ rồi anh à.\N- Anh xin em, Kay...
+Dialogue: 0,2:15:42.67,2:15:46.55,Default,,0,0,0,,Anh sẽ làm bất cứ điều gì\Nđể bù đắp cho em.
+Dialogue: 0,2:15:48.22,2:15:52.48,Default,,0,0,0,,Kay, điều quan trọng là...
+Dialogue: 0,2:15:54.02,2:15:57.27,Default,,0,0,0,,Chúng ta có nhau.\NChúng ta cùng sống với nhau.
+Dialogue: 0,2:15:58.86,2:16:01.57,Default,,0,0,0,,Chúng ta lại có con nữa.
+Dialogue: 0,2:16:03.07,2:16:05.24,Default,,0,0,0,,Kay, anh cần em.
+Dialogue: 0,2:16:07.20,2:16:08.78,Default,,0,0,0,,Anh yêu em.
+Dialogue: 0,2:16:30.93,2:16:34.68,Default,,0,0,0,,Bọn đàn em Barzini hồi này\Nlấn đất tao lu bù!
+Dialogue: 0,2:16:34.81,2:16:37.15,Default,,0,0,0,,Rồi tới lúc một chỗ đất\Ncắm dùi cũng không có!
+Dialogue: 0,2:16:37.17,2:16:38.46,Default,,0,0,0,,Chú bác cứ kiên nhẫn.
+Dialogue: 0,2:16:38.52,2:16:41.65,Default,,0,0,0,,Tao không yêu cầu giúp.\NChỉ cần mày cởi trói cho tao thôi.
+Dialogue: 0,2:16:41.73,2:16:44.86,Default,,0,0,0,,- Chú cứ kiên nhẫn.\N- Tụi tao cũng phải tự vệ chứ.
+Dialogue: 0,2:16:44.94,2:16:48.41,Default,,0,0,0,,- Phải cho tụi tao tăng thêm lính chứ.\N- Không.
+Dialogue: 0,2:16:48.49,2:16:51.08,Default,,0,0,0,,Thế nào cánh Barzini\Ncũng lấy đó làm cớ đánh.
+Dialogue: 0,2:16:51.10,2:16:52.39,Default,,0,0,0,,Mike, mày bậy rồi.
+Dialogue: 0,2:16:53.87,2:16:56.04,Default,,0,0,0,,Ông trùm...
+Dialogue: 0,2:16:56.12,2:17:00.25,Default,,0,0,0,,Ông bạn từng nói sẽ có ngày\Ntôi và Tessio được làm ăn riêng.
+Dialogue: 0,2:17:00.33,2:17:04.38,Default,,0,0,0,,Hôm nay tôi muốn xin phép của ông bạn\Nđể ra riêng.
+Dialogue: 0,2:17:05.38,2:17:08.05,Default,,0,0,0,,Giờ thủ lĩnh là thằng Michael.
+Dialogue: 0,2:17:08.14,2:17:12.43,Default,,0,0,0,,Nó đồng ý thì tôi chịu thôi.
+Dialogue: 0,2:17:12.51,2:17:14.89,Default,,0,0,0,,Lúc gia đình chuyển hết xuống Nevada...
+Dialogue: 0,2:17:14.98,2:17:19.40,Default,,0,0,0,,hai chú có thể toàn quyền tách\Nra làm ăn riêng, lập cánh riêng.
+Dialogue: 0,2:17:19.48,2:17:23.82,Default,,0,0,0,,- Vậy sẽ là bao lâu?\N- Sáu tháng.
+Dialogue: 0,2:17:23.90,2:17:27.15,Default,,0,0,0,,Xin ông trùm thứ lỗi, nhưng ông mà xuống,
+Dialogue: 0,2:17:27.24,2:17:30.07,Default,,0,0,0,,tôi và Pete rồi cũng bị Barzini nuốt sống.
+Dialogue: 0,2:17:30.16,2:17:35.83,Default,,0,0,0,,Tôi cũng không ưa Barzini. Sáu tháng tới\Ncó khi đến cháo cũng chẳng còn húp nữa.
+Dialogue: 0,2:17:35.91,2:17:38.25,Default,,0,0,0,,Các bạn có tin tưởng\Nquyết định của tôi không?
+Dialogue: 0,2:17:38.27,2:17:38.86,Default,,0,0,0,,Có.
+Dialogue: 0,2:17:38.92,2:17:41.83,Default,,0,0,0,,- Các bạn có trung thành với tôi không?\N- Luôn luôn, thưa ông trùm.
+Dialogue: 0,2:17:41.92,2:17:45.17,Default,,0,0,0,,Vậy thì hãy trợ giúp cho thằng Michael.\NNó nói gì cứ làm y vậy.
+Dialogue: 0,2:17:50.09,2:17:55.43,Default,,0,0,0,,Sẽ có nhiều vụ thương thuyết để giải\Nquyết tất cả những vấn đề của hai ông.
+Dialogue: 0,2:17:55.52,2:17:57.85,Default,,0,0,0,,Bây giờ tôi chỉ được phép tiết lộ vậy thôi.
+Dialogue: 0,2:17:58.68,2:18:01.27,Default,,0,0,0,,Carlo, mày là người dưới Nevada.
+Dialogue: 0,2:18:01.35,2:18:04.73,Default,,0,0,0,,Do đó lúc dọn xuống, tôi hy vọng\Nchú sẽ là cánh tay mặt trợ giúp tôi.
+Dialogue: 0,2:18:04.82,2:18:09.61,Default,,0,0,0,,Tom Hagen không là quân sư nhà này nữa.\NHắn là luật sư của tôi ở Vegas.
+Dialogue: 0,2:18:09.70,2:18:12.24,Default,,0,0,0,,Tôi chỉ muốn Tom giúp đỡ tôi\Ntrên cương vị và trong giới hạn đó.
+Dialogue: 0,2:18:12.32,2:18:17.04,Default,,0,0,0,,Vả lại nếu cần phải có một quân sư thì còn\Nai hay cho bằng ông già tôi, phải không?
+Dialogue: 0,2:18:37.06,2:18:40.89,Default,,0,0,0,,- Cảm ơn cha.\N- Tao thấy mừng cho mày đó Carlo.
+Dialogue: 0,2:18:40.98,2:18:43.90,Default,,0,0,0,,Tại sao mày lại đẩy tao de kỳ cục vậy?
+Dialogue: 0,2:18:45.40,2:18:48.11,Default,,0,0,0,,Anh không phải quân sư, cố vấn thời chiến.
+Dialogue: 0,2:18:49.40,2:18:52.66,Default,,0,0,0,,Công việc đang tiến hành có\Nthể đem lại nhiều chuyện dữ.
+Dialogue: 0,2:18:52.74,2:18:54.03,Default,,0,0,0,,Tom.
+Dialogue: 0,2:18:59.20,2:19:04.38,Default,,0,0,0,,Là tao khuyên Michael vậy. Tao có bao giờ\Nnghĩ mày là một thằng quân sư tồi đâu.
+Dialogue: 0,2:19:04.46,2:19:08.59,Default,,0,0,0,,Thằng Santino không đủ\Ntư cách làm trùm thật.
+Dialogue: 0,2:19:10.05,2:19:13.26,Default,,0,0,0,,Nhưng thằng Michael tao tin nó làm được,\Ncũng như tao tin mày vậy.
+Dialogue: 0,2:19:14.26,2:19:19.22,Default,,0,0,0,,Nhưng có những lý do mày không thể\Ndính dấp vô mấy chuyện sắp xảy ra.
+Dialogue: 0,2:19:20.27,2:19:23.31,Default,,0,0,0,,- Thiếu gì việc tao có thể giúp mày được.\N- Anh phải de.
+Dialogue: 0,2:20:12.49,2:20:16.78,Default,,0,0,0,,Mặt mày dạo này đẹp trai lắm nghe.
+Dialogue: 0,2:20:16.91,2:20:21.50,Default,,0,0,0,,Bác sĩ cũng mát tay đó chứ.\NCó phải là do Kay đốc thúc mày mổ không?
+Dialogue: 0,2:20:21.58,2:20:25.71,Default,,0,0,0,,Để đó đi. Chú em tao mệt rồi,\Nmuốn giải trí một lát.
+Dialogue: 0,2:20:25.79,2:20:28.17,Default,,0,0,0,,Để tao mở cửa cho.
+Dialogue: 0,2:20:34.34,2:20:39.76,Default,,0,0,0,,- Chào Mike! Las Vegas xin chào đón cậu!\N- Dành cho cậu đó! Nhờ ý của thằng này nè.
+Dialogue: 0,2:20:39.85,2:20:42.47,Default,,0,0,0,,- Anh cậu Freddy đó.\N- Gái?
+Dialogue: 0,2:20:46.40,2:20:49.48,Default,,0,0,0,,Tôi trở lại liền. Cứ vui\Nchơi với tụi nó đi.
+Dialogue: 0,2:20:50.69,2:20:54.19,Default,,0,0,0,,- Thế nào, chú em muốn gì anh chiều.\N- Mấy con nhỏ đó là ai?
+Dialogue: 0,2:20:55.61,2:20:59.03,Default,,0,0,0,,- Cái đó dành cho em tìm hiểu.\N- Kêu ra hết đi, anh Fredo.
+Dialogue: 0,2:21:00.58,2:21:05.25,Default,,0,0,0,,- Mike à...\N- Em tới vì công việc làm ăn. Kêu ra đi.
+Dialogue: 0,2:21:05.33,2:21:08.00,Default,,0,0,0,,Em đang mệt nữa. Kêu ban nhạc ra luôn.
+Dialogue: 0,2:21:13.88,2:21:17.18,Default,,0,0,0,,Này, đi, đi.
+Dialogue: 0,2:21:17.26,2:21:19.39,Default,,0,0,0,,Ừ. Kìa, Angelo.
+Dialogue: 0,2:21:21.10,2:21:23.22,Default,,0,0,0,,Đi đi! Cút!
+Dialogue: 0,2:21:24.89,2:21:28.44,Default,,0,0,0,,Đi đi các cưng. Tôi cũng không hiểu\Nthằng em nữa. Anh Johnny à.
+Dialogue: 0,2:21:28.52,2:21:29.81,Default,,0,0,0,,Xin lỗi.
+Dialogue: 0,2:21:31.77,2:21:34.32,Default,,0,0,0,,Tôi không biết tại sao nữa.\NChắc nó mệt thôi.
+Dialogue: 0,2:21:41.33,2:21:44.41,Default,,0,0,0,,Moe Greene đâu?
+Dialogue: 0,2:21:44.50,2:21:48.83,Default,,0,0,0,,Nó có công chuyện. Nó bảo khi nào\Nbắt đầu thì gọi nó một tiếng.
+Dialogue: 0,2:21:48.92,2:21:50.88,Default,,0,0,0,,Vậy thì gọi đi.
+Dialogue: 0,2:21:52.25,2:21:55.38,Default,,0,0,0,,- Johnny, anh thế nào?\N- Gặp được em vui lắm.
+Dialogue: 0,2:21:55.46,2:21:57.67,Default,,0,0,0,,- Chúng tôi rất tự hào về anh.\N- Cảm ơn.
+Dialogue: 0,2:21:57.76,2:22:01.34,Default,,0,0,0,,Ngồi xuống đi, em muốn trò chuyện với anh.\NÔng già cũng rất là tự hào cho anh.
+Dialogue: 0,2:22:01.43,2:22:03.68,Default,,0,0,0,,Nhờ ổng anh mới có ngày hôm nay đó.
+Dialogue: 0,2:22:04.89,2:22:06.48,Default,,0,0,0,,Ổng biết.
+Dialogue: 0,2:22:06.56,2:22:09.81,Default,,0,0,0,,Bởi vậy hôm nay ổng mới\Nthỉnh cầu anh một chuyện.
+Dialogue: 0,2:22:09.90,2:22:11.81,Default,,0,0,0,,Mike, anh làm được gì?
+Dialogue: 0,2:22:12.98,2:22:15.44,Default,,0,0,0,,Gia đình tôi quyết định dừng
+Dialogue: 0,2:22:15.53,2:22:18.44,Default,,0,0,0,,cơ sở nhập cảng dầu olive\Nvà dời hết xuống đây làm.
+Dialogue: 0,2:22:19.28,2:22:24.62,Default,,0,0,0,,Moe sẽ bán hết cổ phần trong sòng bạc\Nvà khách sạn này. Chúng tôi sẽ sở hữu hết.
+Dialogue: 0,2:22:24.70,2:22:27.45,Default,,0,0,0,,- Tom!\N- Mày chắc không?
+Dialogue: 0,2:22:27.54,2:22:30.54,Default,,0,0,0,,Nó khoái cái ngành này lắm mà.\NChẳng thấy nó nhắc tới bán đi bao giờ.
+Dialogue: 0,2:22:30.62,2:22:33.33,Default,,0,0,0,,Thì mình sẽ đưa một đề\Nnghị không thể từ chối.
+Dialogue: 0,2:22:34.63,2:22:37.05,Default,,0,0,0,,Nè, Johnny...
+Dialogue: 0,2:22:37.13,2:22:41.34,Default,,0,0,0,,Sòng bạc muốn đông khách phải có\Ntrình diễn ca nhạc để lôi cuốn.
+Dialogue: 0,2:22:41.43,2:22:45.18,Default,,0,0,0,,Bâ giờ một năm anh ký\Ngiao kèo chơi cỡ năm lần.
+Dialogue: 0,2:22:48.10,2:22:52.73,Default,,0,0,0,,Bè bạn anh trong nghề\Nthiếu gì, anh cứ kéo về.
+Dialogue: 0,2:22:53.98,2:22:56.11,Default,,0,0,0,,Trông cậy nhiều vào anh đấy.
+Dialogue: 0,2:22:58.11,2:23:01.78,Default,,0,0,0,,Tất nhiên rồi, Mike. Công việc của\NBố già thì tôi phải yểm trợ rồi.
+Dialogue: 0,2:23:01.86,2:23:03.16,Default,,0,0,0,,Tốt.
+Dialogue: 0,2:23:04.78,2:23:09.41,Default,,0,0,0,,Chào Mike! Chào các bạn.\NAi cũng ở đây hết. Freddy. Tom.
+Dialogue: 0,2:23:09.50,2:23:12.04,Default,,0,0,0,,- Rất vui được gặp mày, Mike.\N- Anh khỏe không, Moe?
+Dialogue: 0,2:23:12.17,2:23:17.25,Default,,0,0,0,,Mọi thứ ô-kê hết chứ? Thức ăn chuẩn bị sẵn,\Nvũ công cừ nhất, tiền vào như nước.
+Dialogue: 0,2:23:17.34,2:23:20.92,Default,,0,0,0,,Đưa biếu họ một số phỉnh cho\Nhọ xuống dưới sòng chơi đi.
+Dialogue: 0,2:23:23.59,2:23:26.35,Default,,0,0,0,,Tiền của tôi đủ để mua đứt không?
+Dialogue: 0,2:23:28.10,2:23:29.93,Default,,0,0,0,,Mua đứt à?
+Dialogue: 0,2:23:30.02,2:23:32.60,Default,,0,0,0,,Mua cái sòng bạc và khách sạn này.
+Dialogue: 0,2:23:32.69,2:23:35.61,Default,,0,0,0,,Gia đình Corleone tính mua đứt số cổ phần.
+Dialogue: 0,2:23:35.69,2:23:41.11,Default,,0,0,0,,Nhà Corleone muốn cho tao de hả?\NLà tao mua đứt chỗ này mới phải.
+Dialogue: 0,2:23:41.19,2:23:44.61,Default,,0,0,0,,Sòng bạc đang thua đậm.\NChúng tôi có thể làm tốt hơn.
+Dialogue: 0,2:23:44.70,2:23:48.58,Default,,0,0,0,,- Mày nghĩ tao bòn rút hả?\N- Anh chỉ gặp vận xui thôi.
+Dialogue: 0,2:23:53.37,2:23:55.79,Default,,0,0,0,,Bọn Ý tụi bây làm tao buồn cười quá.
+Dialogue: 0,2:23:55.92,2:24:00.51,Default,,0,0,0,,Lúc thằng Fred xuống tỵ nạn tao lo lắng.\NBây giờ qua rồi mày tính đá đít cả tao nữa!
+Dialogue: 0,2:24:01.88,2:24:05.30,Default,,0,0,0,,Anh đâu có làm không công. Nhà Corleone\Ncho sòng bạc của anh một mớ mà.
+Dialogue: 0,2:24:05.39,2:24:10.64,Default,,0,0,0,,Cánh Molinari cũng bảo vệ Fred.\NGiờ bàn chuyện làm ăn đi.
+Dialogue: 0,2:24:10.72,2:24:13.48,Default,,0,0,0,,Phải, bàn chuyện làm ăn đi.\NTrước hết, mày ngon đấy.
+Dialogue: 0,2:24:13.56,2:24:16.02,Default,,0,0,0,,Gia đình Corleone bây giờ đâu phải\Ngiang hồ Corleone ngày xưa!
+Dialogue: 0,2:24:16.15,2:24:20.53,Default,,0,0,0,,Ông trùm nằm một chỗ.\NBị bọn chúng đẩy bật ra khỏi Nữu-Ước.
+Dialogue: 0,2:24:20.61,2:24:24.53,Default,,0,0,0,,Mày nghĩ nhảy xuống đây\Ntha hồ làm trời chắc?
+Dialogue: 0,2:24:24.61,2:24:29.66,Default,,0,0,0,,Tao đã nói chuyện với Barzini. Tao vừa\Ncó thể ra giá mà vừa giữ được chỗ này.
+Dialogue: 0,2:24:29.74,2:24:33.25,Default,,0,0,0,,Có phải vì anh bạn nghĩ vậy nên mới tát\Nthằng Fred trước công chúng phải không?
+Dialogue: 0,2:24:33.33,2:24:38.17,Default,,0,0,0,,Đâu có gì, Mike.\NMoe có làm gì đâu.
+Dialogue: 0,2:24:38.25,2:24:42.46,Default,,0,0,0,,Thỉnh thoảng nó cũng nóng giận.\NGiữa tao và nó bao giờ cũng là tình bạn.
+Dialogue: 0,2:24:42.55,2:24:45.56,Default,,0,0,0,,Tao chịu trách nhiệm điều\Nkhiển cả cái khách sạn.
+Dialogue: 0,2:24:45.58,2:24:47.33,Default,,0,0,0,,Không cứng vậy hóa loạn sao?
+Dialogue: 0,2:24:47.39,2:24:51.26,Default,,0,0,0,,Tao bực bội nên đập cảnh cáo cho nó tởn.
+Dialogue: 0,2:24:51.35,2:24:54.18,Default,,0,0,0,,Vậy có nghĩa là anh tôi\Nbị đập cảnh cáo đấy?
+Dialogue: 0,2:24:54.27,2:24:58.73,Default,,0,0,0,,Con chiêu đãi nào nó cũng quất hết.\NKhách khứa không có nước nôi mà uống.
+Dialogue: 0,2:24:58.81,2:25:00.77,Default,,0,0,0,,Mày bị sao vậy hả?
+Dialogue: 0,2:25:05.65,2:25:08.78,Default,,0,0,0,,Mai tôi về New York. Anh bạn nên\Nsuy nghĩ kỹ giá cả đi.
+Dialogue: 0,2:25:11.41,2:25:16.58,Default,,0,0,0,,Tao là Moe Greene! Thằng này\Nđổ máu làm nên lúc mày còn bú ti mẹ đó.
+Dialogue: 0,2:25:16.67,2:25:19.17,Default,,0,0,0,,Khoan đã, Moe. Tao có ý kiến này.
+Dialogue: 0,2:25:20.29,2:25:23.84,Default,,0,0,0,,Tom, mày là quân sư. Mày\Nnói chuyện với ông già thử coi.
+Dialogue: 0,2:25:23.96,2:25:29.34,Default,,0,0,0,,Ông trùm giờ này kể như về hưu. Mọi công\Nviệc làm ăn của nhà do Mike điều khiển hết.
+Dialogue: 0,2:25:29.43,2:25:32.76,Default,,0,0,0,,Mày cần nói gì cứ việc\Nnói thẳng với Michael.
+Dialogue: 0,2:25:37.64,2:25:42.48,Default,,0,0,0,,Mike, mày xuống cái xứ Las Vegas này\Nmà ăn nói với Moe Greene vậy hả!
+Dialogue: 0,2:25:43.23,2:25:44.44,Default,,0,0,0,,Fredo...
+Dialogue: 0,2:25:45.65,2:25:48.41,Default,,0,0,0,,Anh là anh. Dĩ nhiên em quý mến.
+Dialogue: 0,2:25:49.86,2:25:53.87,Default,,0,0,0,,Nhưng anh chớ dại dột theo người ngoài,\Nđi ngược với quyền lợi gia đình lần nữa.
+Dialogue: 0,2:25:55.37,2:25:56.37,Default,,0,0,0,,Không bao giờ.
+Dialogue: 0,2:26:04.50,2:26:08.67,Default,,0,0,0,,Anh phải gặp cha và mọi người rồi,\Nem cứ ăn đừng đợi ăn.
+Dialogue: 0,2:26:10.43,2:26:15.31,Default,,0,0,0,,Cuối tuần, hai đứa mình rảnh rang lên\NNew York coi hát, ăn nhà hàng nhé.
+Dialogue: 0,2:26:22.69,2:26:25.73,Default,,0,0,0,,Em của anh muốn nhờ anh cái gì kìa.
+Dialogue: 0,2:26:25.82,2:26:27.94,Default,,0,0,0,,- Thì nó cứ nói đi.\N- Nó không dám nói.
+Dialogue: 0,2:26:28.03,2:26:30.99,Default,,0,0,0,,Nó muốn anh làm cha đỡ đầu\Ncon đầu lòng của nó.
+Dialogue: 0,2:26:31.07,2:26:32.91,Default,,0,0,0,,- Để anh tính.\N- Được không anh?
+Dialogue: 0,2:26:32.99,2:26:35.33,Default,,0,0,0,,Để anh suy nghĩ đã. Ra xe đi.
+Dialogue: 0,2:26:44.21,2:26:47.09,Default,,0,0,0,,Barzini sẽ ra tay trước.
+Dialogue: 0,2:26:47.17,2:26:51.59,Default,,0,0,0,,Chúng sẽ mượn tay một thằng thân cận\Nnhất để sắp đặt cho mày đi họp.
+Dialogue: 0,2:26:51.68,2:26:53.72,Default,,0,0,0,,Tiếng là bảo đảm an toàn cho mày.
+Dialogue: 0,2:26:54.97,2:26:58.06,Default,,0,0,0,,Nhưng tại cuộc họp thì nó sẽ xử lý mày.
+Dialogue: 0,2:27:02.77,2:27:05.77,Default,,0,0,0,,Dạo này tao uống rượu nhiều hơn.
+Dialogue: 0,2:27:07.19,2:27:10.70,Default,,0,0,0,,- Tao uống nhiều hơn.\N- Tốt mà cha.
+Dialogue: 0,2:27:15.74,2:27:17.24,Default,,0,0,0,,Tao không biết.
+Dialogue: 0,2:27:19.29,2:27:22.21,Default,,0,0,0,,Mày thấy hạnh phúc với vợ con không?
+Dialogue: 0,2:27:23.17,2:27:26.00,Default,,0,0,0,,- Dạ, rất hạnh phúc.\N- Thế thì được.
+Dialogue: 0,2:27:27.88,2:27:32.76,Default,,0,0,0,,Mày đừng phiền tao hay chen vào\Nchuyện thằng Barzini này.
+Dialogue: 0,2:27:32.84,2:27:35.80,Default,,0,0,0,,- Con đâu có phiền đâu.\N- Thói quen cũ của tao.
+Dialogue: 0,2:27:37.26,2:27:40.27,Default,,0,0,0,,Đời tao phải sống rất là thận trọng.
+Dialogue: 0,2:27:41.81,2:27:45.27,Default,,0,0,0,,Đàn bà con nít vô tâm thì được,\Nnhưng đàn ông thì không.
+Dialogue: 0,2:27:48.61,2:27:50.94,Default,,0,0,0,,- Thằng nhóc nhà mày sao?\N- Ngoan lắm ạ.
+Dialogue: 0,2:27:51.07,2:27:53.78,Default,,0,0,0,,Càng ngày nhìn nó càng giống mày.
+Dialogue: 0,2:27:56.49,2:28:00.95,Default,,0,0,0,,Nó còn thông minh hơn con nữa.\NBa tuổi mà đọc báo vanh vách rồi.
+Dialogue: 0,2:28:03.08,2:28:05.12,Default,,0,0,0,,Đọc mục truyện cười chứ gì.
+Dialogue: 0,2:28:12.34,2:28:17.97,Default,,0,0,0,,Mày sắp xếp cho thằng nào kiểm tra\Nnhững cuộc gọi đến gọi đi trong nhà.
+Dialogue: 0,2:28:18.10,2:28:23.39,Default,,0,0,0,,- Con đã lo chuyện đó rồi cha.\N- Ừ. Tao quên.
+Dialogue: 0,2:28:27.44,2:28:29.15,Default,,0,0,0,,Chuyện gì vậy cha?
+Dialogue: 0,2:28:29.98,2:28:32.03,Default,,0,0,0,,Cha có chuyện phiền lòng gì phải không?
+Dialogue: 0,2:28:35.61,2:28:40.24,Default,,0,0,0,,Con làm được mà cha.\NCon nói được là làm được.
+Dialogue: 0,2:28:53.51,2:28:58.01,Default,,0,0,0,,Tao biết thằng Santino cũng phải\Ncó phần số của nó.
+Dialogue: 0,2:28:58.09,2:28:59.72,Default,,0,0,0,,Còn thằng Fredo...
+Dialogue: 0,2:29:02.43,2:29:04.48,Default,,0,0,0,,Fredo thật là, mà thôi...
+Dialogue: 0,2:29:06.35,2:29:09.19,Default,,0,0,0,,Nhưng còn mày tao không muốn chút nào.
+Dialogue: 0,2:29:11.52,2:29:16.57,Default,,0,0,0,,Tao bỏ xương máu ra làm ăn. Vì gia\Nđình tao không thấy hối tiếc chút nào.
+Dialogue: 0,2:29:16.66,2:29:20.58,Default,,0,0,0,,Nhưng mà tao thích sống theo lối của tao,
+Dialogue: 0,2:29:20.66,2:29:24.79,Default,,0,0,0,,chứ không phải bị bọn tai to mặt lớn\Nnó nắm đầu.
+Dialogue: 0,2:29:26.75,2:29:30.21,Default,,0,0,0,,Tao không hối hận. Đời tao là vậy, nhưng...
+Dialogue: 0,2:29:31.88,2:29:37.05,Default,,0,0,0,,tới đời mày, mày phải là\Nngười nắm đầu lại tụi nó.
+Dialogue: 0,2:29:38.84,2:29:44.52,Default,,0,0,0,,Nghị sĩ Corleone. Thống đốc Corleone.
+Dialogue: 0,2:29:44.60,2:29:47.60,Default,,0,0,0,,Hay một tay tổ ngành nghề cũng được.
+Dialogue: 0,2:29:47.69,2:29:49.35,Default,,0,0,0,,Mà...
+Dialogue: 0,2:29:52.57,2:29:56.49,Default,,0,0,0,,Không đủ thời gian rồi, Michael.\NKhông đủ.
+Dialogue: 0,2:29:56.57,2:30:00.07,Default,,0,0,0,,Chúng ta sẽ làm được mà cha.\NSẽ làm được.
+Dialogue: 0,2:30:04.91,2:30:09.37,Default,,0,0,0,,Nhớ, thằng nào sắp xếp phiên\Nhọp này cho mày với Barzini,
+Dialogue: 0,2:30:09.46,2:30:12.42,Default,,0,0,0,,đó là thằng phản. Mày đừng quên.
+Dialogue: 0,2:30:29.39,2:30:31.52,Default,,0,0,0,,Cho con cầm đi ông.
+Dialogue: 0,2:30:46.62,2:30:50.50,Default,,0,0,0,,- Cho con tưới nghe.\N- Ừ.
+Dialogue: 0,2:30:50.58,2:30:53.38,Default,,0,0,0,,Ở đây, ở đây nè.
+Dialogue: 0,2:30:55.25,2:30:57.76,Default,,0,0,0,,Cẩn thận đó. Coi chừng đổ nước đó con.
+Dialogue: 0,2:31:04.14,2:31:05.89,Default,,0,0,0,,Anthony!
+Dialogue: 0,2:31:05.97,2:31:07.64,Default,,0,0,0,,Đến đây, đến đây.
+Dialogue: 0,2:31:12.81,2:31:15.48,Default,,0,0,0,,Ừ. Để nó ở đây.
+Dialogue: 0,2:31:20.70,2:31:23.28,Default,,0,0,0,,Để ông cho con coi cái này. Tới đây.
+Dialogue: 0,2:31:25.33,2:31:27.20,Default,,0,0,0,,Đứng đây.
+Dialogue: 0,2:31:30.96,2:31:32.71,Default,,0,0,0,,Cho con trái cam đi!
+Dialogue: 0,2:31:51.06,2:31:52.85,Default,,0,0,0,,Trò mới đó con.
+Dialogue: 0,2:31:53.85,2:31:56.19,Default,,0,0,0,,Chạy vào trong đó đi.
+Dialogue: 0,2:32:09.75,2:32:11.70,Default,,0,0,0,,Ông đâu rồi?
+Dialogue: 0,2:35:09.38,2:35:11.76,Default,,0,0,0,,Mike, rảnh không?
+Dialogue: 0,2:35:21.85,2:35:24.31,Default,,0,0,0,,Barzini muốn có một cuộc gặp.
+Dialogue: 0,2:35:24.40,2:35:27.69,Default,,0,0,0,,Hắn nói xích mích gì thì\Ngiải quyết hết ở đó.
+Dialogue: 0,2:35:28.36,2:35:30.57,Default,,0,0,0,,- Chú nói chuyện với hắn hả?\N- Ừ.
+Dialogue: 0,2:35:31.91,2:35:35.70,Default,,0,0,0,,Tao sẽ bảo đảm vấn đề an toàn.\NTrên đất làm ăn của tao.
+Dialogue: 0,2:35:38.75,2:35:41.29,Default,,0,0,0,,- Được không?\N- Ừ.
+Dialogue: 0,2:35:58.81,2:36:01.77,Default,,0,0,0,,Mà tụi nó làm sao chơi mày,\Nmày biết chưa?
+Dialogue: 0,2:36:04.27,2:36:07.94,Default,,0,0,0,,Tao và tụi nó sẽ họp trong vùng Brooklyn,\Nlãnh địa của Tessio.
+Dialogue: 0,2:36:10.11,2:36:11.90,Default,,0,0,0,,Tha hồ an toàn.
+Dialogue: 0,2:36:24.17,2:36:27.75,Default,,0,0,0,,Bảo là Clemenza đi, tao còn tin.\NAi dè lại là Tessio!
+Dialogue: 0,2:36:27.84,2:36:31.63,Default,,0,0,0,,Một nước đi khôn ngoan.\NTessio khôn hơn cả đám mà.
+Dialogue: 0,2:36:33.88,2:36:35.18,Default,,0,0,0,,Nhưng tao sẽ đợi.
+Dialogue: 0,2:36:35.84,2:36:36.84,Default,,0,0,0,,Sau lễ rửa tội.
+Dialogue: 0,2:36:40.72,2:36:44.31,Default,,0,0,0,,Tao nhận làm cha đỡ đầu cho\Nthằng con của Connie.
+Dialogue: 0,2:36:44.39,2:36:48.57,Default,,0,0,0,,Xong rồi gặp hai tên Barzini và Tattaglia.
+Dialogue: 0,2:36:50.15,2:36:53.11,Default,,0,0,0,,Toàn bộ thủ lĩnh của Ngũ Đại gia.
+Dialogue: 0,2:39:14.09,2:39:19.05,Default,,0,0,0,,Michael, con có tin Đức Chúa Trời là\NCha phép tắc vô cùng dựng nên trời đất?
+Dialogue: 0,2:39:19.13,2:39:20.30,Default,,0,0,0,,Con tin.
+Dialogue: 0,2:39:20.38,2:39:23.89,Default,,0,0,0,,Con có tin Đức Giêsu là Con Một\NĐức Chúa Cha cùng là Chúa chúng ta?
+Dialogue: 0,2:39:23.97,2:39:24.97,Default,,0,0,0,,Con tin.
+Dialogue: 0,2:39:25.06,2:39:29.10,Default,,0,0,0,,Con có tin Đức Chúa\NThánh Thần và hội Thánh?
+Dialogue: 0,2:39:29.18,2:39:30.48,Default,,0,0,0,,Con tin.
+Dialogue: 0,2:40:36.04,2:40:40.38,Default,,0,0,0,,Michael Francis Rizzi,\Ncon có từ bỏ Satan không?
+Dialogue: 0,2:40:46.64,2:40:47.89,Default,,0,0,0,,Con từ bỏ.
+Dialogue: 0,2:40:57.56,2:40:59.24,Default,,0,0,0,,Con có từ bỏ những việc làm của hắn không?
+Dialogue: 0,2:41:12.87,2:41:13.91,Default,,0,0,0,,Con từ bỏ.
+Dialogue: 0,2:41:15.67,2:41:16.92,Default,,0,0,0,,Chúa ơi!
+Dialogue: 0,2:41:19.84,2:41:23.51,Default,,0,0,0,,- Con có từ bỏ những phù hoa của hắn?\N- Con từ bỏ.
+Dialogue: 0,2:41:39.27,2:41:43.49,Default,,0,0,0,,Michael Rizzi, con có rửa tội không?
+Dialogue: 0,2:41:43.57,2:41:44.78,Default,,0,0,0,,Con rửa tội.
+Dialogue: 0,2:41:51.91,2:41:57.42,Default,,0,0,0,,Michael Rizzi, hãy đi về bình an,\NChúa sẽ phù hộ con. Amen.
+Dialogue: 0,2:42:11.64,2:42:13.56,Default,,0,0,0,,Kay!
+Dialogue: 0,2:42:13.64,2:42:15.60,Default,,0,0,0,,Hôn cha đỡ đầu của con nè.
+Dialogue: 0,2:42:40.00,2:42:44.09,Default,,0,0,0,,Carlo, mày không đi Vegas được.\NCó công chuyện ở đây rồi.
+Dialogue: 0,2:42:44.17,2:42:45.84,Default,,0,0,0,,Mọi người cứ đi đi.
+Dialogue: 0,2:42:45.92,2:42:48.88,Default,,0,0,0,,- Mike, đây là kỳ nghỉ đầu tiên mà!\N- Connie, đi.
+Dialogue: 0,2:42:49.01,2:42:52.51,Default,,0,0,0,,Về nhà đợi tao gọi điện thoại.\NChuyện quan trọng đó.
+Dialogue: 0,2:42:53.64,2:42:56.02,Default,,0,0,0,,Chỉ vài ngày thôi mà em.
+Dialogue: 0,2:43:12.28,2:43:14.49,Default,,0,0,0,,Chúng tôi chuẩn bị đến Brooklyn.
+Dialogue: 0,2:43:16.66,2:43:20.42,Default,,0,0,0,,- Mong thằng Michael dàn xếp cho xong.\N- Dĩ nhiên là nó làm xong.
+Dialogue: 0,2:43:28.22,2:43:31.81,Default,,0,0,0,,Sal, Tom, ông chủ vừa cho\Nhay sẽ đi bằng xe riêng.
+Dialogue: 0,2:43:31.83,2:43:33.66,Default,,0,0,0,,Hai ông cứ việc đi trước.
+Dialogue: 0,2:43:33.72,2:43:37.27,Default,,0,0,0,,- Hư hết trơn mọi dự tính của tao rồi.\N- Ổng nói vậy đó.
+Dialogue: 0,2:43:37.35,2:43:39.52,Default,,0,0,0,,Tôi cũng không thể đi cùng.
+Dialogue: 0,2:43:51.49,2:43:55.41,Default,,0,0,0,,Nói dùm với Michael, vụ này thuần tuý công\Nviệc, chớ tôi vẫn có cảm tình với nó.
+Dialogue: 0,2:43:57.08,2:43:59.91,Default,,0,0,0,,- Nó biết.\N- Xin lỗi, Sal.
+Dialogue: 0,2:44:05.92,2:44:08.38,Default,,0,0,0,,Tom, mày có thể gỡ dùm tao\Ncái vụ này được không?
+Dialogue: 0,2:44:09.55,2:44:12.72,Default,,0,0,0,,- Bao nhiêu năm nay...\N- Tôi không thể làm được, Sally.
+Dialogue: 0,2:44:58.14,2:45:00.97,Default,,0,0,0,,Hôm nay mày phải trả lời vụ Santino, Carlo.
+Dialogue: 0,2:45:05.85,2:45:09.77,Default,,0,0,0,,- Mike, anh lầm rồi.\N- Mày đã bán đứng Sonny cho cánh Barzini.
+Dialogue: 0,2:45:10.82,2:45:14.74,Default,,0,0,0,,Mày đóng kịch hành hạ con em tao.
+Dialogue: 0,2:45:14.82,2:45:19.91,Default,,0,0,0,,- Mày nghĩ là qua mặt được nhà Corleone à?\N- Em vô tội. Em thề trên đầu các con em.
+Dialogue: 0,2:45:19.99,2:45:22.70,Default,,0,0,0,,- Đừng đối với em như vậy.\N- Ngồi xuống.
+Dialogue: 0,2:45:25.37,2:45:27.67,Default,,0,0,0,,Anh đừng đối với em như vậy.
+Dialogue: 0,2:45:36.93,2:45:38.68,Default,,0,0,0,,Thằng Barzini chết rồi.
+Dialogue: 0,2:45:40.81,2:45:43.14,Default,,0,0,0,,Lão Phillip Tattaglia cũng hết sống.
+Dialogue: 0,2:45:44.35,2:45:45.85,Default,,0,0,0,,Moe Greene.
+Dialogue: 0,2:45:46.81,2:45:50.61,Default,,0,0,0,,Strachi. Cuneo.
+Dialogue: 0,2:45:52.57,2:45:57.82,Default,,0,0,0,,Hôm nay tao thanh toán bằng hết ân oán.\NMày đừng nói ngây thơ, không biết gì.
+Dialogue: 0,2:45:57.91,2:45:59.70,Default,,0,0,0,,Dám làm thì dám nhận đi.
+Dialogue: 0,2:46:03.62,2:46:05.29,Default,,0,0,0,,Lấy ly rượu cho nó đi.
+Dialogue: 0,2:46:11.59,2:46:12.88,Default,,0,0,0,,Nói đi.
+Dialogue: 0,2:46:14.21,2:46:16.63,Default,,0,0,0,,Mày đừng sợ, Carlo.
+Dialogue: 0,2:46:16.72,2:46:19.59,Default,,0,0,0,,Mày sợ tao giết mày để\Ncon em tao goá chồng hả?
+Dialogue: 0,2:46:20.72,2:46:23.43,Default,,0,0,0,,Mày đừng quên tao vừa nhận đỡ\Nđầu cho một đứa con mày, Carlo.
+Dialogue: 0,2:46:30.35,2:46:32.40,Default,,0,0,0,,Uống đi.
+Dialogue: 0,2:46:37.20,2:46:41.03,Default,,0,0,0,,Hình phạt của mày là từ nay bị đạp ra\Nkhỏi chuyện làm ăn trong gia đình.
+Dialogue: 0,2:46:42.12,2:46:46.08,Default,,0,0,0,,Xong rồi. Tao sẽ cho tụi nó đưa mày\Nlên máy bay đi Las Vegas.
+Dialogue: 0,2:46:46.16,2:46:47.79,Default,,0,0,0,,Tom.
+Dialogue: 0,2:46:51.92,2:46:55.51,Default,,0,0,0,,Mày sẽ ở luôn dưới đó. Rõ chưa?
+Dialogue: 0,2:46:55.59,2:46:58.17,Default,,0,0,0,,Nhưng mày đừng nói không biết gì.
+Dialogue: 0,2:46:59.43,2:47:03.68,Default,,0,0,0,,Vậy là mày chửi lên đầu tao,\Nchỉ làm tao nổi sùng thêm.
+Dialogue: 0,2:47:07.93,2:47:09.98,Default,,0,0,0,,Thế nào, đứa nào biểu mày?
+Dialogue: 0,2:47:11.27,2:47:13.48,Default,,0,0,0,,Tattaglia hay Barzini?
+Dialogue: 0,2:47:21.36,2:47:23.08,Default,,0,0,0,,Là Barzini.
+Dialogue: 0,2:47:27.20,2:47:28.79,Default,,0,0,0,,Tốt.
+Dialogue: 0,2:47:35.00,2:47:39.05,Default,,0,0,0,,Có xe đợi ở ngoài đưa mày ra phi trường.
+Dialogue: 0,2:47:39.13,2:47:42.68,Default,,0,0,0,,Tao sẽ phôn cho vợ mày và báo\Nchuyến bay mày đến.
+Dialogue: 0,2:47:46.97,2:47:49.52,Default,,0,0,0,,- Mike...\N- Biến cho khuất mắt tao.
+Dialogue: 0,2:48:15.67,2:48:17.30,Default,,0,0,0,,Chào, Carlo.
+Dialogue: 0,2:49:17.15,2:49:20.27,Default,,0,0,0,,- Để mẹ nói con nghe...\N- Mẹ à!
+Dialogue: 0,2:49:28.66,2:49:30.74,Default,,0,0,0,,Michael!
+Dialogue: 0,2:49:30.83,2:49:32.83,Default,,0,0,0,,- Gì vậy em?\N- Hắn đâu?
+Dialogue: 0,2:49:35.25,2:49:40.38,Default,,0,0,0,,Michael, thằng khốn nạn!\NMày giết chồng tao.
+Dialogue: 0,2:49:40.46,2:49:44.55,Default,,0,0,0,,Mày đợi cha chết, không\Nai ngăn cản được mày.
+Dialogue: 0,2:49:44.63,2:49:47.72,Default,,0,0,0,,Mày đổ tội cho nó về vụ anh Sonny chớ gì?\NCả nhà này đổ tội cho chồng tao.
+Dialogue: 0,2:49:47.80,2:49:53.60,Default,,0,0,0,,Nhưng còn tao có ai thèm nghĩ đến!\NTao biết làm gì bây giờ?
+Dialogue: 0,2:49:53.68,2:49:55.31,Default,,0,0,0,,Connie.
+Dialogue: 0,2:49:57.56,2:50:00.27,Default,,0,0,0,,Chị biết tại sao nó giữ Carlo ở nhà không?
+Dialogue: 0,2:50:00.36,2:50:03.19,Default,,0,0,0,,Nó nhất định tìm cách giết bằng được Carlo.
+Dialogue: 0,2:50:03.28,2:50:08.61,Default,,0,0,0,,Lại còn giả vờ làm cha đỡ đầu cho con tôi.\NĐồ khốn nạn máu lạnh!
+Dialogue: 0,2:50:08.70,2:50:12.79,Default,,0,0,0,,Nó còn ra lệnh giết bao nhiêu\Nngười, chị cứ đọc báo là biết liền.
+Dialogue: 0,2:50:12.87,2:50:15.62,Default,,0,0,0,,Chồng của chị đó,\Nchồng của chị đó!
+Dialogue: 0,2:50:25.30,2:50:29.51,Default,,0,0,0,,Không! Không, không...
+Dialogue: 0,2:50:29.59,2:50:32.97,Default,,0,0,0,,Đưa nó lên lầu rồi\Nkêu bác sĩ về cho nó.
+Dialogue: 0,2:50:54.12,2:50:55.83,Default,,0,0,0,,Nó phát cuồng lên.
+Dialogue: 0,2:51:00.38,2:51:02.13,Default,,0,0,0,,Phát cuồng lên.
+Dialogue: 0,2:51:04.13,2:51:05.84,Default,,0,0,0,,Michael, nó nói đúng không?
+Dialogue: 0,2:51:07.84,2:51:11.51,Default,,0,0,0,,- Kay, đừng hỏi anh chuyện làm ăn.\N- Có đúng không?
+Dialogue: 0,2:51:11.59,2:51:13.66,Default,,0,0,0,,Đừng hỏi anh chuyện làm ăn.
+Dialogue: 0,2:51:13.69,2:51:14.37,Default,,0,0,0,,Đủ rồi!
+Dialogue: 0,2:51:34.41,2:51:35.91,Default,,0,0,0,,Thôi được.
+Dialogue: 0,2:51:38.75,2:51:40.50,Default,,0,0,0,,Lần này.
+Dialogue: 0,2:51:44.46,2:51:47.80,Default,,0,0,0,,Chỉ một lần này thôi.\NAnh sẽ cho em hỏi.
+Dialogue: 0,2:51:53.89,2:51:55.31,Default,,0,0,0,,Có đúng không?
+Dialogue: 0,2:51:59.39,2:52:00.89,Default,,0,0,0,,Hả anh?
+Dialogue: 0,2:52:02.65,2:52:04.02,Default,,0,0,0,,Không.
+Dialogue: 0,2:52:17.95,2:52:20.91,Default,,0,0,0,,Tụi mình mỗi đứa cần một ly.
+Dialogue: 0,2:52:52.20,2:52:53.91,Default,,0,0,0,,Ông trùm Corleone.
+Dialogue: 0,2:53:05.98,2:53:08.98,Default,,0,0,0,,Phudeviet.org trân trọng giới thiệu
+Dialogue: 0,2:53:09.98,2:53:12.98,Default,,0,0,0,,THE GODFATHER
+Dialogue: 0,2:53:13.98,2:53:16.98,Default,,0,0,0,,Dịch: Altair | Timing & Resync: Phamtin147

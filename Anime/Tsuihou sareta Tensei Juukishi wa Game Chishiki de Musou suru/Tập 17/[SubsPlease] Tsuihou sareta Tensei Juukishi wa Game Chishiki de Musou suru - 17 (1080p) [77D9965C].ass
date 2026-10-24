@@ -1,0 +1,297 @@
+﻿[Script Info]
+Title: Vietnamese Fansub (VietSub by Amtia(NOFACE))
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: top,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: italics,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: italicstop,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: flashback,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashback italics,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashbacktop,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: flashbackitalicstop,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: overlap,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: overlaptop,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: overlap italics,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: main,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Narration,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: sign_generic,Segoe UI,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.75,0:00:05.32,italics,ELYMAS/ID,0,0,0,,Hai kỹ năng Nanh Cuồng Loạn Âm Ỉ,\Ntrang bị Hắc Thiết,
+Dialogue: 0,0:00:05.32,0:00:10.32,italics,ELYMAS/ID,0,0,0,,cộng thêm gia tăng chỉ số\Ntừ danh hiệu Kẻ Lật Kèo.
+Dialogue: 0,0:00:22.50,0:00:27.47,italics,ELYMAS/ID,0,0,0,,Sức mạnh bùng nổ mà nó mang lại\Nhoàn toàn xứng đáng để mạo hiểm,
+Dialogue: 0,0:00:27.47,0:00:30.84,italics,ELYMAS/ID,0,0,0,,và cực kỳ tương thích\Nvới chức nghiệp Trọng Kỵ Sĩ.
+Dialogue: 0,0:00:31.30,0:00:37.21,italics,ELYMAS/ID,0,0,0,,Xả Bỏ Phòng Ngự chính là nền tảng\Nhỏa lực của một Trọng Kỵ Sĩ.
+Dialogue: 0,0:00:39.91,0:00:41.94,italics,ELYMAS/ID,0,0,0,,Mình sẽ kết liễu nó chỉ bằng một đòn duy nhất.
+Dialogue: 0,0:00:50.03,0:00:51.83,Default,ELYMAS,0,0,0,,Xả Bỏ Phòng Ngự!
+Dialogue: 0,0:00:52.16,0:00:54.71,italics,ELYMAS/ID,0,0,0,,Kỹ năng này tiêu hao một lượng lớn ma lực.
+Dialogue: 0,0:00:55.37,0:00:58.50,italics,ELYMAS/ID,0,0,0,,Hiện tại, mình chỉ có thể duy trì nó\Ntrong vài giây ngắn ngủi.
+Dialogue: 0,0:00:58.97,0:01:03.54,italics,ELYMAS/ID,0,0,0,,Chúng mình đã phải khóa chặt kỹ năng cùng chân của nó
+Dialogue: 0,0:01:03.54,0:01:08.16,italics,ELYMAS/ID,0,0,0,,để mình kịp kích hoạt chiêu thức\Nvà tung đòn trực diện.
+Dialogue: 0,0:01:04.13,0:01:08.76,sign_generic,SIGN,0,0,0,,{\b1\fs25\bord1\c&HF3F960&\3c&H5E772C&\fade(200,0)\pos(132.222,202.667)}Trạng thái\N{\b1\alphaFF\t(350,640,\alpha00)\c&HB46742&\3c&H412F0A&} Choáng
+Dialogue: 0,0:01:08.76,0:01:13.89,italics,ELYMAS/ID,0,0,0,,Lượng máu khổng lồ, lớp giáp cứng cáp\Nlẫn khả năng tự hồi phục phiền phức của nó.
+Dialogue: 0,0:01:14.26,0:01:16.31,italics,ELYMAS/ID,0,0,0,,Tất cả giờ đây đều vô nghĩa.
+Dialogue: 0,0:01:35.41,0:01:37.58,sign_generic,SIGN,0,0,0,,{\b1\bord1.5\blur1\fnSegoe UI\pos(91.333,30)\3c&H404EB3&\c&H000008&\fade(200,1)}Tử Châm
+Dialogue: 0,0:01:51.88,0:01:53.88,Default,ELYMAS,0,0,0,,Nhận lấy này!
+Dialogue: 0,0:03:58.09,0:04:03.47,sign_generic,EPTITLE,0,0,0,,{\b1\fnSegoe UI\an7\bord1\shad1.25\fade(477,482)\alphaalphaH&0&\3c&H000000&\c&HF3F8F7&\4c&H000000&\fs18\pos(311.373,289.964)}Tập 17\h\h\h\h\hHội trưởng Hailenn
+Dialogue: 0,0:04:09.07,0:04:12.77,Default,RUCHE,0,0,0,,Ch-Chúng ta thực sự đánh bại được nó rồi, anh Elymas!
+Dialogue: 0,0:04:13.61,0:04:16.28,Default,RUCHE,0,0,0,,Cấp độ của nó cao hơn chúng ta nhiều đến thế cơ mà.
+Dialogue: 0,0:04:16.28,0:04:19.36,Default,RUCHE,0,0,0,,Nhận được cả một đống điểm kinh nghiệm luôn.
+Dialogue: 0,0:04:19.88,0:04:21.58,Default,ELYMAS,0,0,0,,Bằng cách nào đó thì chúng ta cũng vượt qua được rồi.
+Dialogue: 0,0:04:21.58,0:04:22.49,Default,RUCHE,0,0,0,,Vâng ạ!
+Dialogue: 0,0:04:24.32,0:04:26.41,Default,ELYMAS,0,0,0,,Dù vậy, anh thực sự xin lỗi em.
+Dialogue: 0,0:04:26.90,0:04:30.92,Default,ELYMAS,0,0,0,,Đáng lẽ nó không thể Tiến Hóa Hiện Sinh mới phải.
+Dialogue: 0,0:04:31.88,0:04:33.99,Default,RUCHE,0,0,0,,Xin anh đừng nói lời xin lỗi mà!
+Dialogue: 0,0:04:33.99,0:04:36.92,Default,RUCHE,0,0,0,,Em chẳng hề bất ngờ khi thấy anh\Ndù thế nào vẫn đánh bại được nó đâu.
+Dialogue: 0,0:04:38.23,0:04:40.23,Default,ELYMAS,0,0,0,,Lần này lại nhờ cả vào công của em đấy.
+Dialogue: 0,0:04:41.03,0:04:42.93,Default,RUCHE,0,0,0,,Th-Thật vậy ạ?
+Dialogue: 0,0:04:42.93,0:04:47.08,Default,RUCHE,0,0,0,,Mà công nhận đòn tấn công vừa rồi\Nuy lực kinh khủng thật đấy.
+Dialogue: 0,0:04:47.08,0:04:49.69,Default,RUCHE,0,0,0,,Anh hạ gục con Tử Thần Amude\Nkhổng lồ đó chỉ bằng một nhát chém.
+Dialogue: 0,0:04:50.63,0:04:54.69,Default,ELYMAS,0,0,0,,Xả Bỏ Phòng Ngự tuy rất mạnh,\Nnhưng lại khiến bản thân rơi vào thế sơ hở.
+Dialogue: 0,0:04:55.17,0:04:59.13,Default,ELYMAS,0,0,0,,Anh chỉ có thể tung đòn đó\Nvì con quái đã bị làm choáng mà thôi.
+Dialogue: 0,0:04:55.27,0:04:59.65,sign_generic,SIGN,0,0,0,,{\b1\fs25\bord1\c&HF3F960&\3c&H5E772C&\fade(200,0)\pos(132.222,202.667)}Trạng thái\N{\b1\alphaFF\t(350,640,\alpha00)\c&HB46742&\3c&H412F0A&} Choáng
+Dialogue: 0,0:05:01.08,0:05:06.62,Default,ELYMAS,0,0,0,,Và nếu không có lớp Khiên Sinh Mệnh đó,\Nchắc anh cũng bỏ mạng vào phút chót rồi.
+Dialogue: 0,0:05:10.26,0:05:11.75,Default,RUCHE,0,0,0,,Ực.
+Dialogue: 0,0:05:12.35,0:05:17.76,Default,ELYMAS,0,0,0,,Với chỉ số hiện tại của anh,\Nanh muốn hạn chế dùng kỹ năng đó hết mức có thể.
+Dialogue: 0,0:05:18.27,0:05:22.10,Default,ELYMAS,0,0,0,,Nhưng vì sát thương của nó quá bá đạo,\Nbiết đâu lại dùng để hù dọa đối thủ được.
+Dialogue: 0,0:05:27.07,0:05:29.81,italics,SYSTEM VOICE,0,0,0,,Đã nhận được danh hiệu\NKẻ Thanh Trừng Ác Mộng.
+Dialogue: 0,0:05:29.81,0:05:33.31,Default,RUCHE,0,0,0,,"Kẻ Thanh Trừng Ác Mộng" ư? Là gì thế ạ?
+Dialogue: 0,0:05:33.31,0:05:35.81,italics,SYSTEM VOICE,0,0,0,,Danh hiệu: Kẻ Thanh Trừng Ác Mộng.
+Dialogue: 0,0:05:35.81,0:05:46.12,sign_generic,SIGN,0,0,0,,{\b1\pos(325,44.545)\bord1\shad2\fs15\c&H18FCFB&\3c&H01192D&\4c&H00273F&\blur0.5}Danh hiệu: {\c&H1B79B1&\3c&HCFFDFE&}Kẻ Thanh Trừng Ác Mộng
+Dialogue: 0,0:05:35.81,0:05:46.12,sign_generic,SIGN,0,0,0,,{\bord0\an7\b1\fs12\pos(225.273,232.545)\c&HFCFAED&}Đạt được sau khi đánh bại Chúa Tể Mộng Cảnh\Nđã Tiến Hóa Hiện Sinh từ cấp 70 trở lên
+Dialogue: 0,0:05:35.81,0:05:46.12,sign_generic,SIGN,0,0,0,,{\an8\b1\fs12\blur1\c&HFCFAED&\pos(322.728,310.363)\3c&HED4A1E&}Tăng 7% Sức tấn công\Nkhi giao chiến với Chúa Tể Mộng Cảnh
+Dialogue: 1,0:05:35.81,0:05:41.19,italics,SYSTEM VOICE,0,0,0,,Đạt được sau khi đánh bại Chúa Tể Mộng Cảnh\Nđã Tiến Hóa Hiện Sinh từ cấp 70 trở lên.
+Dialogue: 1,0:05:41.19,0:05:46.12,italics,SYSTEM VOICE,0,0,0,,Tăng 7% Sức tấn công\Nkhi giao chiến với Chúa Tể Mộng Cảnh.
+Dialogue: 0,0:05:47.20,0:05:49.41,Default,ELYMAS,0,0,0,,Danh hiệu này cực kỳ hữu hiệu khi đánh trùm.
+Dialogue: 0,0:05:49.84,0:05:52.32,Default,ELYMAS,0,0,0,,Rất khó để chủ động cày được danh hiệu này,
+Dialogue: 0,0:05:52.32,0:05:54.75,Default,ELYMAS,0,0,0,,bởi điều kiện bắt buộc là phải hạ gục\Nmột Chúa Tể Mộng Cảnh đã Tiến Hóa Hiện Sinh.
+Dialogue: 1,0:05:54.75,0:06:00.55,sign_generic,SIGN,0,0,0,,{\c&H1B79B1&\b1\3c&HCFFDFE&\4c&H00273F&\bord0\frz3.106\frx0\fry8\move(418.182,162.364,698.909,162.364)\t(1063,1480,\blur3\alpha80)}Kẻ Thanh Trừng Ác Mộng {\b1\bord1\shad2\c&H18FCFB&\3c&H01192D&}- Đã nhận danh hiệu
+Dialogue: 0,0:05:54.75,0:06:00.55,sign_generic,SIGN,0,0,0,,{\c&H1B79B1&\b1\3c&HCFFDFE&\4c&H00273F&\blur0.5\frz3.106\frx0\fry8\move(418.182,162.364,698.909,162.364)\t(1063,1480,\blur3\alpha80)}Kẻ Thanh Trừng Ác Mộng {\b1\bord1\shad2\c&H18FCFB&\3c&H01192D&}- Đã nhận danh hiệu
+Dialogue: 0,0:05:55.23,0:05:58.64,Default,ELYMAS,0,0,0,,Trong cái rủi lại có cái may\Nkhi chúng ta lấy được nó ở trận này.
+Dialogue: 0,0:06:01.70,0:06:04.55,Default,ELYMAS,0,0,0,,Ăn mừng chiến thắng thì cũng tốt thôi...
+Dialogue: 0,0:06:05.83,0:06:08.14,Default,ELYMAS,0,0,0,,nhưng đừng quên thu hồi Ma Thạch của nó đã nhé.
+Dialogue: 0,0:06:08.14,0:06:09.62,Default,RUCHE,0,0,0,,V-Vâng ạ!
+Dialogue: 0,0:06:17.56,0:06:22.36,Default,RUCHE,0,0,0,,A-Anh Elymas ơi, em vừa tìm thấy\Nmột thứ kinh khủng lắm!
+Dialogue: 0,0:06:22.36,0:06:24.36,Default,RUCHE,0,0,0,,Anh nhìn cái này xem!
+Dialogue: 0,0:06:25.24,0:06:28.49,Default,ELYMAS,0,0,0,,Chuyện gì thế, Ruche?\NAnh vừa nhặt được Ma Thạch của nó rồi...
+Dialogue: 0,0:06:28.49,0:06:32.17,Default,RUCHE,0,0,0,,C-Con Tử Thần Amude làm rớt vật phẩm kìa!
+Dialogue: 0,0:06:33.75,0:06:46.01,sign_generic,SIGN,0,0,0,,{\an7\b1\pos(301.636,164.182)\fade(675,1)\fs16\bord1.5\blur0.5\3c&H87D7FE&\c&H153E7C&}Đoản Đao Độc Chilopoda {\fs10\b1\blur1\bord2\3c&HDDC361&\c&HFDFDE3&}[Cấp độ khuyến nghị: 70]\N {\fs13}Sức tấn công: +28\N Giá thị trường: 28.000.000G\N Đoản đao tẩm kịch độc của loài rết\N Có tỷ lệ thấp gây trúng độc cho kẻ địch\N
+Dialogue: 0,0:06:33.89,0:06:35.72,italics,SYSTEM VOICE,0,0,0,,Đoản Đao Độc Chilopoda.
+Dialogue: 0,0:06:35.72,0:06:38.25,italics,SYSTEM VOICE,0,0,0,,Sức tấn công: +28.
+Dialogue: 0,0:06:38.25,0:06:41.27,italics,SYSTEM VOICE,0,0,0,,Giá thị trường: 28.000.000 vàng.
+Dialogue: 0,0:06:41.27,0:06:43.55,italics,SYSTEM VOICE,0,0,0,,Một thanh đoản đao tẩm kịch độc của loài rết.
+Dialogue: 0,0:06:43.55,0:06:46.01,italics,SYSTEM VOICE,0,0,0,,Có tỷ lệ thấp gây trúng độc cho kẻ địch.
+Dialogue: 0,0:06:46.01,0:06:49.10,Default,ELYMAS,0,0,0,,Ch-Chúng ta lại nhặt được vật phẩm hiếm nữa sao?
+Dialogue: 0,0:06:49.10,0:06:55.04,italics,ELYMAS/ID,0,0,0,,Con bé đúng là có bàn tay vàng\Nchuyên săn vật phẩm có tỷ lệ rớt cực thấp.
+Dialogue: 0,0:06:57.10,0:07:02.61,Default,ELYMAS,0,0,0,,Món đồ này thậm chí còn phi thường hơn\Nnhững chiến lợi phẩm mà chúng ta từng nhặt được.
+Dialogue: 0,0:07:02.61,0:07:05.11,sign_generic,SIGN,0,0,0,,{\pos(319.273,147.818)\bord2.5\b1\c&HF0C948&\blur0.25\3c&HFEFFCF&}Có tỷ lệ thấp gây trúng độc cho kẻ địch
+Dialogue: 0,0:07:02.61,0:07:05.11,italics,ELYMAS/ID,0,0,0,,Có tỷ lệ thấp gây trúng độc cho kẻ địch.
+Dialogue: 0,0:07:07.19,0:07:11.81,italics,ELYMAS/ID,0,0,0,,Chỉ số May Mắn sẽ tác động trực tiếp\Nđến các hiệu ứng kích hoạt theo đòn đánh như thế này.
+Dialogue: 0,0:07:12.90,0:07:19.46,italics,ELYMAS/ID,0,0,0,,Kích hoạt độc tố bằng Liên Hoàn Nhào Lộn\Nsẽ mở ra cho chúng mình vô số chiến thuật.
+Dialogue: 0,0:07:14.62,0:07:16.91,flashbacktop,RUCHE,0,0,0,,Liên Hoàn Nhào Lộn!
+Dialogue: 0,0:07:19.87,0:07:22.63,italics,ELYMAS/ID,0,0,0,,Vũ khí này sinh ra là để dành cho Ruche.
+Dialogue: 0,0:07:26.98,0:07:31.69,Default,ELYMAS,0,0,0,,Có những món đồ giá trị cỡ này,\Nchúng ta chẳng cần đến số quặng vừa đào nữa rồi.
+Dialogue: 0,0:07:32.35,0:07:34.94,Default,RUCHE,0,0,0,,Ch-Chúng ta phải làm sao đây, anh Elymas?!
+Dialogue: 0,0:07:34.94,0:07:37.81,Default,RUCHE,0,0,0,,Món đồ này trị giá tới tận 28.000.000 vàng đấy!
+Dialogue: 0,0:07:35.89,0:07:37.81,sign_generic,SIGN,0,0,0,,{\b1\bord1\fs35\frz16.03\pos(330.909,280.182)\c&H98FFFF&\3c&H272956&\fade(600,1)}28.000.000G
+Dialogue: 0,0:07:37.81,0:07:42.42,Default,RUCHE,0,0,0,,Mang một thứ khủng khiếp thế này về,\Nchắc chắn chúng ta sẽ bị trừng phạt mất!
+Dialogue: 0,0:07:42.42,0:07:46.86,Default,RUCHE,0,0,0,,Ch-Chúng ta không thể cầm món đồ đắt giá thế này được đâu!
+Dialogue: 0,0:07:46.86,0:07:49.87,Default,RUCHE,0,0,0,,Hay là cứ vứt lại ở đây đi anh!
+Dialogue: 0,0:07:50.14,0:07:53.79,Default,ELYMAS,0,0,0,,Bình tĩnh lại đi, Ruche!\NĐừng có mất bình tĩnh! Em đang hoảng loạn đấy!
+Dialogue: 0,0:07:53.79,0:07:55.00,Default,RUCHE,0,0,0,,Nguy hiểm quá mức rồi!
+Dialogue: 0,0:07:55.00,0:07:57.50,Default,RUCHE,0,0,0,,Biết đâu tai họa gì sẽ ập xuống đầu chúng ta chứ!
+Dialogue: 0,0:07:57.50,0:07:59.46,Default,RUCHE,0,0,0,,Em định bụng sẽ bỏ nó lại đây thôi!
+Dialogue: 0,0:07:59.46,0:08:04.63,Default,ELYMAS,0,0,0,,Sẽ chẳng có chuyện gì xảy ra hết!\NBình tĩnh lại nào, Ruche! Làm ơn bình tĩnh đi em!
+Dialogue: 0,0:08:05.26,0:08:06.80,Default,ELYMAS,0,0,0,,Đừng có ném nó đi!
+Dialogue: 0,0:08:06.80,0:08:08.04,Default,RUCHE,0,0,0,,Em chỉ để nó lại chỗ cũ thôi mà!
+Dialogue: 0,0:08:08.04,0:08:12.30,Default,ELYMAS,0,0,0,,Ruche!
+Dialogue: 0,0:08:35.33,0:08:38.86,Default,WOMAN A,0,0,0,,Chiến thuật vừa rồi ổn đấy.\NLát nữa làm thêm chuyến nữa đi.
+Dialogue: 0,0:08:38.86,0:08:39.72,Default,MAN B,0,0,0,,Ừ.
+Dialogue: 0,0:08:40.39,0:08:42.08,Default,MAN D,0,0,0,,Hôm nay thu hoạch tuyệt cú mèo.
+Dialogue: 0,0:08:43.93,0:08:47.82,Default,MAN E,0,0,0,,May mà hoàn thành sớm hơn dự kiến.
+Dialogue: 0,0:08:47.82,0:08:50.99,Default,WOMAN B,0,0,0,,Bất ngờ thật đấy, con trùm yếu hơn tôi tưởng.
+Dialogue: 0,0:08:53.13,0:08:54.74,Default,MAN D,0,0,0,,Có nên qua bắt chuyện với hai người kia không?
+Dialogue: 0,0:08:54.74,0:08:55.43,Default,WOMAN A,0,0,0,,Thôi dẹp đi.
+Dialogue: 0,0:09:02.39,0:09:05.17,Default,ADVENTURER B,0,0,0,,Đừng có nhìn chằm chằm thế, đồ ngốc.
+Dialogue: 0,0:09:11.31,0:09:15.33,Default,ELYMAS,0,0,0,,Ruche này, em cố tỏ ra\Nbớt khả nghi hơn một chút được không?
+Dialogue: 0,0:09:15.33,0:09:18.54,Default,RUCHE,0,0,0,,Em không kìm được mà.
+Dialogue: 0,0:09:18.54,0:09:20.96,Default,RUCHE,0,0,0,,Chúng ta vừa kiếm được cả núi vàng\Nở Hành Lang Rết Độc đấy.
+Dialogue: 0,0:09:42.47,0:09:44.74,Default,ELYMAS,0,0,0,,Chúng tôi muốn bán một số Ma Thạch.
+Dialogue: 0,0:09:44.74,0:09:48.02,Default,ELYMAS,0,0,0,,Đồng thời cũng muốn xin gặp\Nmột nhân viên cấp cao của Hội.
+Dialogue: 0,0:09:48.02,0:09:50.93,Default,ELYMAS,0,0,0,,Tốt nhất là được diện kiến Hội trưởng.
+Dialogue: 0,0:09:54.35,0:09:57.06,Default,ELYMAS,0,0,0,,Có thể một sự việc cực kỳ nghiêm trọng đang diễn ra.
+Dialogue: 0,0:09:58.55,0:10:02.02,italics,ELYMAS/ID,0,0,0,,Mục đích chính đến đây không chỉ để bán chiến lợi phẩm.
+Dialogue: 0,0:10:02.71,0:10:05.25,sign_generic,SIGN,0,0,0,,{\b1\blur1.5\bord1\c&HF8FF3C&\3c&HC55E0E&\t(730,1105,\c&HFEFF9B&\3c&HF0A506&)\an7\pos(338.8,66)\fade(250,1)}Chúa Tể Mộng Cảnh: Tử Thần Amude
+Dialogue: 0,0:10:03.06,0:10:07.46,italics,ELYMAS/ID,0,0,0,,Việc một Chúa Tể Mộng Cảnh Tiến Hóa Hiện Sinh\Nkhông phải chuyện có thể làm ngơ.
+Dialogue: 0,0:10:07.99,0:10:12.97,italics,ELYMAS/ID,0,0,0,,Hiện tượng đó không thể nào xảy ra\Nnếu không có vô số mạo hiểm giả bỏ mạng.
+Dialogue: 0,0:10:13.40,0:10:18.72,italics,ELYMAS/ID,0,0,0,,Thật vô lý khi một thảm kịch lớn như vậy\Nlại không hề được thông báo tại Hội.
+Dialogue: 0,0:10:20.93,0:10:24.42,italics,ELYMAS/ID,0,0,0,,Mình buộc phải trình báo chuyện này\Ncho phía Hội nắm rõ.
+Dialogue: 0,0:10:27.97,0:10:32.49,Default,MATILDA,0,0,0,,Một Trọng Kỵ Sĩ và một Chú Hề cấp D sao?
+Dialogue: 0,0:10:34.95,0:10:37.90,Default,MATILDA,0,0,0,,Tôi sẽ chuyển lời lại cho cấp trên sau.
+Dialogue: 0,0:10:37.90,0:10:41.16,Default,MATILDA,0,0,0,,Tôi còn bao nhiêu việc phải làm, nói ngắn gọn thôi.
+Dialogue: 0,0:10:42.14,0:10:46.08,Default,RUCHE,0,0,0,,Cô đâu cần phải giữ thái độ trịch thượng như thế chứ!
+Dialogue: 0,0:10:46.38,0:10:48.79,sign_generic,SIGN FX,0,0,0,,{\fade(766,766)\frz31.62\c&HF4F4F2&\blur0.5\b1\3c&HFFDA63&\move(227.636,145.637,221.818,144.91)}HỪM
+Dialogue: 0,0:10:47.29,0:10:49.09,Default,MATILDA,0,0,0,,Này nhé, nghe cho rõ đây.
+Dialogue: 0,0:10:49.09,0:10:52.41,Default,MATILDA,0,0,0,,Đây là Lacoryna, Thành phố của các Mạo Hiểm Giả.
+Dialogue: 0,0:10:52.41,0:10:57.59,Default,MATILDA,0,0,0,,Đội ngũ chúng tôi tự hào vì đã bồi dưỡng nên\Nbiết bao mạo hiểm giả lừng danh.
+Dialogue: 0,0:11:00.05,0:11:01.57,Default,ELYMAS,0,0,0,,Cứ để anh nói chuyện.
+Dialogue: 0,0:11:02.28,0:11:04.56,Default,ELYMAS,0,0,0,,Nếu chúng ta bình tĩnh giải thích tình hình,\Ncô ấy sẽ hiểu thôi.
+Dialogue: 0,0:11:04.56,0:11:07.35,Default,RUCHE,0,0,0,,Nếu anh đã nói vậy...
+Dialogue: 0,0:11:10.47,0:11:16.64,italics,ELYMAS/ID,0,0,0,,Người dân Lacoryna rất đỗi tự hào về thành phố của họ\Nvà luôn tự coi mình ở đẳng cấp cao.
+Dialogue: 0,0:11:17.02,0:11:20.10,italics,ELYMAS/ID,0,0,0,,Bá tước Howlrodde, lãnh chúa cai quản thành phố này,
+Dialogue: 0,0:11:20.10,0:11:26.45,italics,ELYMAS/ID,0,0,0,,theo lời phụ thân Aizas của mình,\Nlà một kẻ vô cùng ngạo mạn và thâm độc.
+Dialogue: 0,0:11:27.96,0:11:30.14,Default,ELYMAS,0,0,0,,Tôi hiểu yêu cầu của chúng tôi có phần đường đột.
+Dialogue: 0,0:11:30.14,0:11:33.42,Default,ELYMAS,0,0,0,,Nếu có gì mạo phạm, cho chúng tôi xin lỗi.
+Dialogue: 0,0:11:34.07,0:11:37.93,Default,ELYMAS,0,0,0,,Nhưng trước hết, xin hãy dành chút thời gian\Nđể chúng tôi trình bày rõ ngọn ngành.
+Dialogue: 0,0:11:38.28,0:11:40.46,Default,ELYMAS,0,0,0,,Sự việc lần này hết sức phức tạp.
+Dialogue: 0,0:11:40.46,0:11:45.13,Default,ELYMAS,0,0,0,,Tôi e rằng nếu chỉ truyền đạt qua lời đồn đoán,\Nchuyện này sẽ không được xem trọng đúng mức.
+Dialogue: 0,0:11:45.13,0:11:47.02,Default,MATILDA,0,0,0,,Xét trên lập trường của chúng tôi,
+Dialogue: 0,0:11:47.30,0:11:52.86,Default,MATILDA,0,0,0,,chúng tôi chẳng mấy hoan nghênh mấy mạo hiểm giả tỉnh lẻ\Nđùng đùng đòi gặp Hội trưởng đâu.
+Dialogue: 0,0:11:53.81,0:11:55.32,Default,RUCHE,0,0,0,,T-Tỉnh lẻ á?
+Dialogue: 0,0:11:55.67,0:11:59.82,Default,MATILDA,0,0,0,,Quy mô ở đây lớn hơn cái Hội tỉnh lẻ\Nở vùng Rondalm của mấy người nhiều.
+Dialogue: 0,0:12:00.27,0:12:03.12,top,MATILDA,0,0,0,,Số lượng lẫn chất lượng thành viên tại đây,
+Dialogue: 0,0:12:00.91,0:12:06.56,italics,ELYMAS/ID,0,0,0,,M-Mình thừa nhận nơi này\Nđúng là phát triển hơn một chút,
+Dialogue: 0,0:12:03.12,0:12:09.08,top,MATILDA,0,0,0,,cùng dòng tiền vận hành nơi này\Nđều vượt xa sức tưởng tượng của hai người đấy.
+Dialogue: 0,0:12:07.14,0:12:12.81,italics,ELYMAS/ID,0,0,0,,nhưng lãnh địa của Bá tước Edvaughn\Nđâu thể gọi là chốn quê mùa hẻo lánh được.
+Dialogue: 0,0:12:09.64,0:12:15.38,top,MATILDA,0,0,0,,Chuyện các tổ đội giao dịch vật phẩm\Nlên tới hàng triệu vàng mỗi lần ở đây chẳng có gì lạ.
+Dialogue: 0,0:12:16.15,0:12:20.96,italics,ELYMAS/ID,0,0,0,,Mình không nói vậy vì thiên vị quê hương,\Nmà đó là sự thật khách quan.
+Dialogue: 0,0:12:20.96,0:12:24.01,Default,MATILDA,0,0,0,,Dù sao đi nữa, Hội trưởng đang rất bận.
+Dialogue: 0,0:12:24.01,0:12:27.18,Default,MATILDA,0,0,0,,Ngài ấy không thể tiếp hai người được.
+Dialogue: 0,0:12:30.75,0:12:33.40,Default,ELYMAS,0,0,0,,Lẽ ra tôi nên đưa thứ này cho cô xem trước.
+Dialogue: 0,0:12:33.40,0:12:34.94,Default,ELYMAS,0,0,0,,Tôi muốn quy đổi chỗ này thành tiền vàng.
+Dialogue: 0,0:12:36.03,0:12:37.94,italics,MATILDA/ID,0,0,0,,T-To quá!
+Dialogue: 0,0:12:37.94,0:12:41.20,italics,MATILDA/ID,0,0,0,,Tổng giá trị đống Ma Thạch này\Nphải lên đến gần 10.000.000 vàng chứ chẳng chơi!
+Dialogue: 0,0:12:42.23,0:12:45.22,Default,MATILDA,0,0,0,,E hèm! Xin quý khách vui lòng chờ một lát.
+Dialogue: 0,0:12:49.93,0:12:52.14,Default,MATILDA,0,0,0,,Xin lỗi, ở đây có mạo hiểm giả
+Dialogue: 0,0:12:52.14,0:12:56.36,Default,MATILDA,0,0,0,,muốn quy đổi một lúc số Ma Thạch\Ntrị giá 10.000.000 vàng!
+Dialogue: 0,0:12:56.36,0:12:58.07,Default,GUILD STAFF,0,0,0,,Mười triệu vàng trong một lần giao dịch ư?!
+Dialogue: 0,0:12:58.07,0:12:59.58,Default,MATILDA,0,0,0,,Mau chuẩn bị tiền vàng ngay lập tức!
+Dialogue: 0,0:12:59.58,0:13:00.95,Default,GUILD STAFF,0,0,0,,Họ thuộc cấp bậc nào?
+Dialogue: 0,0:13:00.95,0:13:02.01,Default,MATILDA,0,0,0,,Là mạo hiểm giả cấp D!
+Dialogue: 0,0:13:02.01,0:13:03.01,Default,GUILD STAFF,0,0,0,,Cấp D sao?!
+Dialogue: 0,0:13:03.93,0:13:08.43,top,MATILDA,0,0,0,,Khẩn trương lên.\NThể diện của cả Lacoryna đang đặt cược vào vụ này đấy.
+Dialogue: 0,0:13:04.05,0:13:08.06,Default,RUCHE,0,0,0,,Anh có chắc là anh không cố tình\Ntrả đũa cô ta đấy chứ?
+Dialogue: 0,0:13:08.06,0:13:10.02,Default,ELYMAS,0,0,0,,Anh đâu có ý đó đâu.
+Dialogue: 0,0:13:12.59,0:13:18.25,italics,ELYMAS/ID,0,0,0,,Dù sao thì ngay sau khi nhận đủ tiền vàng,\Nchúng mình đã được sắp xếp gặp Hội trưởng.
+Dialogue: 0,0:13:20.57,0:13:25.41,italics,ELYMAS/ID,0,0,0,,Nghe đâu việc mạo hiểm giả cấp D\Nđổi một lượng Ma Thạch
+Dialogue: 0,0:13:25.41,0:13:28.06,italics,ELYMAS/ID,0,0,0,,lấy số tiền lớn đến vậy cùng lúc là khá rắc rối.
+Dialogue: 0,0:13:28.06,0:13:33.41,italics,ELYMAS/ID,0,0,0,,Nhưng cô lễ tân đã đứng ra thu xếp ổn thỏa,\Nvà chúng mình đã nhận đủ tiền.
+Dialogue: 0,0:13:33.41,0:13:37.18,italics,ELYMAS/ID,0,0,0,,Cô ấy cũng đặt lịch hẹn\Nvới Hội trưởng giúp hai đứa.
+Dialogue: 0,0:13:37.55,0:13:41.55,italics,ELYMAS/ID,0,0,0,,May mắn là chúng mình được gặp bà ấy ngay\Ndù bà ấy đang rất bận rộn.
+Dialogue: 0,0:13:45.07,0:13:50.56,Default,MATILDA,0,0,0,,Thưa tiểu thư Hailenn, đây là hai mạo hiểm giả\Nmà ngài đã được bẩm báo ạ.
+Dialogue: 0,0:13:51.82,0:13:56.57,Default,HAILENN,0,0,0,,Cô đang nói chuyện gì thế?\NTa mới nghe chuyện này lần đầu đấy.
+Dialogue: 0,0:13:56.86,0:14:00.57,Default,MATILDA,0,0,0,,Dạ? Ch-Chẳng phải nhân viên khác\Nđã báo trước với ngài rồi sao ạ?
+Dialogue: 0,0:14:03.39,0:14:05.64,Default,HAILENN,0,0,0,,Thôi không sao. Cho họ vào đi.
+Dialogue: 0,0:14:06.29,0:14:07.74,Default,MATILDA,0,0,0,,V-Vâng, thưa ngài.
+Dialogue: 0,0:14:09.19,0:14:13.30,Default,MATILDA,0,0,0,,Thành thật xin lỗi hai vị.\NCó vẻ như đã có chút nhầm lẫn trong khâu truyền đạt.
+Dialogue: 0,0:14:13.30,0:14:16.08,Default,ELYMAS,0,0,0,,Chỉ cần chúng tôi được diện kiến ngài ấy là ổn rồi.
+Dialogue: 0,0:14:55.64,0:14:57.88,Default,HAILENN,0,0,0,,Một Chú Hề đi cùng một Trọng Kỵ Sĩ sao?
+Dialogue: 0,0:14:57.88,0:15:00.75,Default,HAILENN,0,0,0,,Một sự kết hợp khá kỳ lạ đấy.
+Dialogue: 0,0:15:01.16,0:15:03.17,Default,HAILENN,0,0,0,,Matilda, hai người này là ai?
+Dialogue: 0,0:15:03.60,0:15:07.89,Default,MATILDA,0,0,0,,D-Dạ, họ là mạo hiểm giả cấp D\Nvừa mới chuyển đến từ Rondalm ạ.
+Dialogue: 0,0:15:08.15,0:15:11.26,Default,HAILENN,0,0,0,,Mạo hiểm giả cấp D đến từ Rondalm ư?
+Dialogue: 0,0:15:12.27,0:15:17.48,Default,MATILDA,0,0,0,,N-Nghe nói họ vừa chinh phục thành công\NHành Lang Rết Độc, hầm ngục cấp 60.
+Dialogue: 0,0:15:17.48,0:15:22.73,Default,MATILDA,0,0,0,,Ít nhất thì thực lực của họ\Ncũng vượt xa so với cấp bậc hiện tại.
+Dialogue: 0,0:15:23.68,0:15:25.24,Default,HAILENN,0,0,0,,Ồ?
+Dialogue: 0,0:15:25.24,0:15:30.13,Default,HAILENN,0,0,0,,Một cặp đôi mạo hiểm giả cấp D\Nlại phá đảo được Hành Lang Rết Độc sao?
+Dialogue: 0,0:15:30.49,0:15:34.25,Default,HAILENN,0,0,0,,Lại còn là tổ hợp Chú Hề và Trọng Kỵ Sĩ nữa chứ.
+Dialogue: 0,0:15:34.56,0:15:39.75,Default,HAILENN,0,0,0,,Ta không nghĩ hai chức nghiệp này\Nlại thích hợp để đối phó với Chúa Tể Mộng Cảnh đâu.
+Dialogue: 0,0:15:42.05,0:15:45.01,Default,HAILENN,0,0,0,,Thú vị thật.
+Dialogue: 0,0:15:48.37,0:15:50.85,Default,HAILENN,0,0,0,,Các ngươi đã khơi dậy sự tò mò của ta rồi đấy.
+Dialogue: 0,0:15:50.85,0:15:57.36,italics,ELYMAS/ID,0,0,0,,Bầu không khí có phần đáng ngại, nhưng ít nhất\Ncó vẻ chúng mình sẽ không bị phớt lờ.
+Dialogue: 0,0:15:59.00,0:16:02.77,italics,ELYMAS/ID,0,0,0,,Tuy nhiên, khả năng quan sát của người phụ nữ này\Nthực sự phi thường.
+Dialogue: 0,0:16:03.50,0:16:06.52,italics,ELYMAS/ID,0,0,0,,Cảm giác như bà ta có thể đọc thấu tâm can mình,\Nkhiến mình thấy bất an.
+Dialogue: 0,0:16:07.45,0:16:11.95,Default,HAILENN,0,0,0,,Dù sao thì ta rất ấn tượng khi các ngươi\Ndám khiêu chiến Chúa Tể Mộng Cảnh ở cấp D.
+Dialogue: 0,0:16:11.95,0:16:16.00,Default,HAILENN,0,0,0,,Trông các ngươi có vẻ mạnh hơn cấp bậc của mình,
+Dialogue: 0,0:16:16.00,0:16:21.00,Default,HAILENN,0,0,0,,nhưng việc liên tục leo lên những tầng cao hơn\Nbất chấp kinh nghiệm non nớt thế này...
+Dialogue: 0,0:16:24.39,0:16:27.01,Default,HAILENN,0,0,0,,Hoặc là các ngươi đang nóng lòng muốn tìm đường chết,
+Dialogue: 0,0:16:27.35,0:16:33.13,Default,HAILENN,0,0,0,,hoặc là các ngươi cực kỳ tự tin vào hiểu biết\Ncủa mình về các chức nghiệp và hầm ngục.
+Dialogue: 0,0:16:33.92,0:16:40.02,italics,ELYMAS/ID,0,0,0,,Bà ta đã nhìn thấu bọn mình\Nchỉ sau khi nghe một chút thông tin ít ỏi.
+Dialogue: 0,0:16:40.51,0:16:45.03,italics,ELYMAS/ID,0,0,0,,Thì ra đây chính là Hội trưởng của vùng đất\Nsở hữu những hầm ngục cấp cao.
+Dialogue: 0,0:16:45.63,0:16:50.17,italics,ELYMAS/ID,0,0,0,,Không, chừng đó vẫn chưa đủ để lý giải tất cả.
+Dialogue: 0,0:16:50.53,0:16:56.41,Default,HAILENN,0,0,0,,Ngươi không hề tỏ ra sợ hãi, gương mặt lại toát lên vẻ quyền quý.
+Dialogue: 0,0:16:57.32,0:16:59.91,Default,HAILENN,0,0,0,,Hơn nữa còn am hiểu tường tận về hầm ngục.
+Dialogue: 0,0:17:00.54,0:17:03.67,Default,HAILENN,0,0,0,,Ngươi xuất thân là quý tộc phải không?
+Dialogue: 0,0:17:04.01,0:17:08.17,Default,HAILENN,0,0,0,,Ta nghe nói ngươi đến từ Rondalm.
+Dialogue: 0,0:17:08.77,0:17:14.56,Default,HAILENN,0,0,0,,Chẳng phải lãnh chúa vùng đó\Ncũng có một người con trai trạc tuổi ngươi sao?
+Dialogue: 0,0:17:14.56,0:17:16.68,italics,ELYMAS/ID,0,0,0,,B-Bà ta đoán ra cả chuyện đó luôn ư?
+Dialogue: 0,0:17:18.82,0:17:22.19,italics,ELYMAS/ID,0,0,0,,Ruche thật thà quá mức.\NMình buộc phải vào thẳng vấn đề thôi.
+Dialogue: 0,0:17:25.70,0:17:27.04,Default,ELYMAS,0,0,0,,Tôi là Elymas.
+Dialogue: 0,0:17:28.06,0:17:30.04,Default,ELYMAS,0,0,0,,Còn đây là Ruche.
+Dialogue: 0,0:17:30.04,0:17:34.07,Default,ELYMAS,0,0,0,,Đúng như ngài vừa nghe,\Nchúng tôi là mạo hiểm giả đến từ Rondalm.
+Dialogue: 0,0:17:34.44,0:17:39.37,Default,ELYMAS,0,0,0,,Có một hiện tượng bất thường đã xảy ra\Nbên trong Hành Lang Rết Độc.
+Dialogue: 0,0:17:39.70,0:17:44.41,Default,ELYMAS,0,0,0,,Chúng tôi xin được diện kiến\Nđể trực tiếp bẩm báo việc này lên ngài.
+Dialogue: 0,0:17:45.53,0:17:49.07,Default,ELYMAS,0,0,0,,Cảm ơn ngài đã dành thời gian quý báu cho chúng tôi.
+Dialogue: 0,0:17:55.36,0:17:58.01,Default,HAILENN,0,0,0,,Hừm... Ra là vậy.
+Dialogue: 0,0:17:58.01,0:18:02.52,Default,HAILENN,0,0,0,,Ta còn tò mò đôi điều,\Nnhưng ta sẽ không truy hỏi thêm.
+Dialogue: 0,0:18:03.98,0:18:06.63,Default,HAILENN,0,0,0,,Ta là Hailenn Howlrodde.
+Dialogue: 0,0:18:06.63,0:18:09.28,Default,HAILENN,0,0,0,,Hội trưởng Hội Mạo Hiểm Giả tại Lacoryna này.
+Dialogue: 0,0:18:09.55,0:18:15.66,Default,HAILENN,0,0,0,,Chắc ngươi cũng đã đoán ra, ta xuất thân\Ntừ một phân gia của gia tộc Howlrodde.
+Dialogue: 0,0:18:15.66,0:18:18.76,italics,ELYMAS/ID,0,0,0,,Hèn gì bà ta lại rành rẽ chuyện giới quý tộc đến thế.
+Dialogue: 0,0:18:19.47,0:18:22.04,italics,ELYMAS/ID,0,0,0,,Tại Lacoryna, Thành phố của các Mạo Hiểm Giả,
+Dialogue: 0,0:18:22.04,0:18:25.36,italicstop,ELYMAS/ID,0,0,0,,Hội Mạo Hiểm Giả có tầm ảnh hưởng\Nlớn hơn hẳn so với những thành phố khác.
+Dialogue: 0,0:18:22.04,0:18:33.05,sign_generic,SIGN,0,0,0,,{\b1\3c&H050F15&\c&H29FFFF&\move(329.455,126.727,184,102,3022,3731)\t(3022,3731,\fs15)}Bổn Gia
+Dialogue: 1,0:18:22.04,0:18:33.05,sign_generic,SIGN,0,0,0,,{\bord0.5\b1\shad0\4c&H38082E&\3c&HFFEDE8&\c&H0A080C&\t(3022,3731,\fs15)\move(320.727,324.545,180.363,250.363,3022,3731)}Gia tộc Howlrodde
+Dialogue: 0,0:18:22.04,0:18:33.05,sign_generic,SIGN,0,0,0,,{\bord0\b1\shad0\alpha40\4c&H38082E&\3c&HCECECE&\c&H000000&\t(3022,3731,\fs15)\move(322.727,327.545,182.363,253.363,3022,3731)}Gia tộc Howlrodde
+Dialogue: 0,0:18:25.75,0:18:28.58,italicstop,ELYMAS/ID,0,0,0,,Bằng việc bổ nhiệm một thành viên phân gia\Nngồi vào vị trí Hội trưởng,
+Dialogue: 0,0:18:26.58,0:18:33.05,sign_generic,SIGN,0,0,0,,{\fade(400,1)\b1\3c&H050F15&\c&H29FFFF&\fs15\pos(473.455,177.636)}Phân Gia
+Dialogue: 2,0:18:26.58,0:18:33.05,sign_generic,SIGN,0,0,0,,{\bord0.5\fade(400,1)\b1\fs15\shad0\4c&H38082E&\3c&HCECECE&\c&H0A080C&\pos(472.727,324.545)}Hội Mạo Hiểm Giả
+Dialogue: 1,0:18:26.58,0:18:33.05,sign_generic,SIGN,0,0,0,,{\bord0\fade(400,1)\b1\fs15\shad0\alpha40\4c&H38082E&\3c&HCECECE&\c&H000000&\pos(474.909,327.454)}Hội Mạo Hiểm Giả
+Dialogue: 0,0:18:28.58,0:18:32.60,italicstop,ELYMAS/ID,0,0,0,,phía Hội và giới quý tộc\Ncó thể phối hợp với nhau vô cùng trơn tru.
+Dialogue: 0,0:18:33.73,0:18:39.24,Default,HAILENN,0,0,0,,Ta thật sự khâm phục khi một Chú Hề và một Trọng Kỵ Sĩ\Nlại có thể chinh phục được Hành Lang Rết Độc.
+Dialogue: 0,0:18:39.24,0:18:43.54,Default,HAILENN,0,0,0,,Chúa Tể Mộng Cảnh ở đó, con Rết Đá Khổng Lồ,
+Dialogue: 0,0:18:43.54,0:18:49.30,Default,HAILENN,0,0,0,,vốn là nỗi khiếp sợ của biết bao mạo hiểm giả\Nbởi những đòn lao tới húc và tốc độ tự hồi phục cực nhanh.
+Dialogue: 0,0:18:50.26,0:18:55.41,Default,HAILENN,0,0,0,,Lẽ thường, cả Trọng Kỵ Sĩ lẫn Chú Hề\Nđều không có đủ khả năng để đánh bại nó.
+Dialogue: 0,0:18:55.71,0:18:58.83,Default,RUCHE,0,0,0,,Đ-Đúng vậy phải không ạ? Chuyện đó đâu có bình thường chút nào!
+Dialogue: 0,0:19:00.97,0:19:05.20,italics,ELYMAS/ID,0,0,0,,Mình bắt đầu cảm thấy việc tán gẫu dông dài\Nvới người phụ nữ này là cực kỳ nguy hiểm.
+Dialogue: 0,0:19:05.58,0:19:08.76,italics,ELYMAS/ID,0,0,0,,Hailenn nắm giữ quá nhiều thông tin về thế giới này.
+Dialogue: 0,0:19:08.76,0:19:10.09,italics,ELYMAS/ID,0,0,0,,Nếu mình để lộ bất kỳ sơ hở nào,
+Dialogue: 0,0:19:10.38,0:19:14.77,italics,ELYMAS/ID,0,0,0,,bà ta có thể sẽ nhận ra mình sở hữu\Nnhững tri thức vượt ra ngoài thế giới này.
+Dialogue: 0,0:19:15.93,0:19:18.17,italics,ELYMAS/ID,0,0,0,,Không còn nghi ngờ gì nữa, bà ta chính là người nhà Howlrodde,
+Dialogue: 0,0:19:18.17,0:19:20.46,italics,ELYMAS/ID,0,0,0,,gia tộc đã thống lĩnh Thành phố của các Mạo Hiểm Giả\Nqua nhiều thế hệ.
+Dialogue: 0,0:19:22.20,0:19:29.40,italics,ELYMAS/ID,0,0,0,,Lượng thông tin họ nắm giữ vượt xa\Nphụ thân Aizas của mình và cả gia tộc Edvaughn.
+Dialogue: 0,0:19:30.15,0:19:34.35,italics,ELYMAS/ID,0,0,0,,Mình đã lường trước sẽ có sự chênh lệch,\Nnhưng không ngờ khoảng cách lại lớn đến mức này.
+Dialogue: 0,0:19:35.81,0:19:39.24,italics,ELYMAS/ID,0,0,0,,Còn một điều nữa khiến mình phải bận tâm.
+Dialogue: 0,0:19:40.23,0:19:47.54,italics,ELYMAS/ID,0,0,0,,Gia tộc Howlrodde hoàn toàn có khả năng\Nđã tạo ra các điều kiện dẫn đến Tiến Hóa Hiện Sinh.
+Dialogue: 0,0:19:52.08,0:19:55.09,italics,ELYMAS/ID,0,0,0,,Nếu Hội trưởng là người của phân gia,
+Dialogue: 0,0:19:55.58,0:19:58.55,italics,ELYMAS/ID,0,0,0,,họ có thể dễ dàng thao túng các mạo hiểm giả\Nvà kiểm soát luồng thông tin.
+Dialogue: 0,0:19:58.88,0:20:00.91,italics,ELYMAS/ID,0,0,0,,Họ nắm trong tay quá nhiều tin tức tình báo.
+Dialogue: 0,0:20:02.78,0:20:07.58,italics,ELYMAS/ID,0,0,0,,Không loại trừ khả năng họ đang ngầm thử nghiệm\Nđể tìm hiểu quy luật vận hành của thế giới này
+Dialogue: 0,0:20:07.58,0:20:09.76,italics,ELYMAS/ID,0,0,0,,nhằm củng cố quyền cai trị lãnh địa.
+Dialogue: 0,0:20:10.86,0:20:16.82,italics,ELYMAS/ID,0,0,0,,Mình không nên vội vàng kết luận,\Nnhưng tuyệt đối phải đề cao cảnh giác.
+Dialogue: 0,0:20:17.72,0:20:23.04,italics,ELYMAS/ID,0,0,0,,Người phụ nữ trước mặt mình rất có thể\Nchính là kẻ đứng sau vụ Tiến Hóa Hiện Sinh này.
+Dialogue: 0,0:20:24.61,0:20:28.58,Default,HAILENN,0,0,0,,Trông ngươi có vẻ đang suy tư điều gì sâu sắc lắm. Chuyện gì thế?
+Dialogue: 0,0:20:28.96,0:20:32.71,Default,HAILENN,0,0,0,,Chẳng phải ngươi có chuyện quan trọng muốn bẩm báo với ta sao?
+Dialogue: 0,0:20:32.71,0:20:36.34,Default,HAILENN,0,0,0,,Hay là ngươi đã bịa đặt về những tình huống bất thường đó
+Dialogue: 0,0:20:37.12,0:20:42.60,Default,HAILENN,0,0,0,,để thu hút sự chú ý của ta, khoe khoang chiến tích\Nhòng lấy lòng ta?
+Dialogue: 0,0:20:42.60,0:20:47.31,Default,HAILENN,0,0,0,,Nếu quả thực là vậy thì ý tưởng đó cũng đáng yêu đấy.
+Dialogue: 0,0:20:47.65,0:20:53.23,Default,HAILENN,0,0,0,,Hơn một vạn mạo hiểm giả tụ hội\Ntại thành phố của những giấc mơ và sự thất bại này,
+Dialogue: 0,0:20:53.67,0:20:56.26,Default,HAILENN,0,0,0,,nơi chỉ những kẻ ưu tú xuất chúng nhất mới có thể trụ vững.
+Dialogue: 0,0:20:56.26,0:21:01.45,Default,HAILENN,0,0,0,,Ở đây không thiếu những mạo hiểm giả\Nsở hữu tài năng thiên bẩm vượt trội.
+Dialogue: 0,0:21:01.45,0:21:06.95,Default,HAILENN,0,0,0,,Ngươi đã khơi gợi đủ sự hứng thú\Nđể ta chịu khó hùa theo một lúc,
+Dialogue: 0,0:21:10.00,0:21:15.50,Default,HAILENN,0,0,0,,nhưng đừng mơ tưởng có thể\Ndắt mũi ta theo ý mình, cậu nhóc ạ.
+Dialogue: 0,0:21:18.42,0:21:22.51,italics,ELYMAS/ID,0,0,0,,Bà ta nói đúng theo nghĩa đen sao?
+Dialogue: 0,0:21:23.21,0:21:27.66,italics,ELYMAS/ID,0,0,0,,Hay đó là lời cảnh cáo bóng gió\Nvì bà ta đã nhìn thấu suy nghĩ của mình?
+Dialogue: 0,0:21:28.55,0:21:31.41,italics,ELYMAS/ID,0,0,0,,Người phụ nữ này thực sự là một ẩn số.
+Dialogue: 0,0:21:49.91,0:21:56.54,sign_generic,credits,0,0,0,,{\an9\fs15\b1\c&HEDEAEB&\3c&H0B1211&\blur1}Phụ đề Việt ngữ:\N{\fs17.5}Amtia(NOFACE)\N\N{\fs15}Dịch & Timer:\N{\fs17.5}Amtia(NOFACE)\N\N{\fs15}Biên tập:\N{\fs17.5}Amtia(NOFACE)\N\N{\fs15}Kiểm định chất lượng:\N{\fs17.5}Amtia(NOFACE)
+Dialogue: 0,0:23:11.67,0:23:13.91,italics,ELYMAS/NA,0,0,0,,Chúng mình đã xin gặp được Hội trưởng Hailenn,
+Dialogue: 0,0:23:13.91,0:23:17.38,italics,ELYMAS/NA,0,0,0,,nhưng thử thách thực sự bây giờ mới bắt đầu.
+Dialogue: 0,0:23:17.66,0:23:19.96,italics,ELYMAS/NA,0,0,0,,Vẫn chưa rõ bà ta là bạn hay thù.
+Dialogue: 0,0:23:20.38,0:23:25.24,italics,ELYMAS/NA,0,0,0,,Chúng mình phải cẩn trọng trong từng lời ăn tiếng nói\Nlẫn biểu cảm trên gương mặt.
+Dialogue: 0,0:23:25.99,0:23:27.86,italics,ELYMAS/NA,0,0,0,,Và đó cũng chưa phải là rắc rối duy nhất.
+Dialogue: 0,0:23:27.86,0:23:30.09,italics,ELYMAS/NA,0,0,0,,Chúng mình còn phải tìm một thợ rèn lành nghề
+Dialogue: 0,0:23:30.09,0:23:32.06,italics,ELYMAS/NA,0,0,0,,có đủ khả năng gia công số quặng Mythril\Nthu được từ Hành Lang Rết Độc.
+Dialogue: 0,0:23:33.37,0:23:35.56,italics,ELYMAS/NA,0,0,0,,Tập tiếp theo: "Thợ rèn Veruga".
+Dialogue: 0,0:23:35.56,0:23:39.35,italics,ELYMAS/NA,0,0,0,,Thợ rèn cấp cao đúng là vô giá mà.
+

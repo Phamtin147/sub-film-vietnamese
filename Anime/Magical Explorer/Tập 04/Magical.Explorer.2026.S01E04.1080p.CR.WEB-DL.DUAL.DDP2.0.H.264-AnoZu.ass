@@ -1,0 +1,416 @@
+﻿[Script Info]
+Title: Vietnamese Fansub (VietSub by Phamtin147)
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+YCbCr Matrix: TV.601
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Segoe UI,25,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.2,0.5,2,10,10,18,1
+Style: Flashback,Segoe UI,25,&H00FFFFFF,&H000000FF,&H00013E12,&HA0000000,-1,0,0,0,100,100,0,0,1,1.2,0.5,2,10,10,18,1
+Style: sign_TimesNewRoman,Segoe UI,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: sign_Arial,Segoe UI,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: sign_ComicSansMS,Segoe UI,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: sign_35245_386_Reborn_as_a_Side,Segoe UI,25,&H008400DA,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,0,14,290,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:06.33,0:00:08.82,Default,Kousuke(M),0,0,0,,{\i1}Một khi đã chuyển sinh thành nhân vật bạn thân\Ncủa nam chính trong một tựa game eroge,
+Dialogue: 0,0:00:08.82,0:00:12.04,Default,Kousuke(M),0,0,0,,{\i1}và đã hạ quyết tâm sẽ dẫn dắt tất cả mọi người\Nđến với một kết cục có hậu (Happy Ending),
+Dialogue: 0,0:00:12.04,0:00:13.88,Default,Kousuke(M),0,0,0,,{\i1}thì có một việc tối quan trọng mà mình bắt buộc phải làm.
+Dialogue: 0,0:00:14.20,0:00:17.57,Default,Kousuke(M),0,0,0,,{\i1}Đó chính là phải trở nên mạnh mẽ\Ncàng nhanh càng tốt.
+Dialogue: 0,0:00:18.14,0:00:20.85,Default,Kousuke(M),0,0,0,,{\i1}Trong MagiEx, có những sự kiện bị giới hạn thời gian.
+Dialogue: 0,0:00:21.25,0:00:28.49,Default,Kousuke(M),0,0,0,,{\i1}Mình tuyệt đối không được phép tiến bộ quá chậm chạp\Nđể rồi không kịp cứu giúp các nữ chính.
+Dialogue: 0,0:00:29.09,0:00:32.16,Default,Kousuke(M),0,0,0,,{\i1}Vậy thì, đâu là phương pháp tốt nhất\Nđể rèn luyện bản thân?
+Dialogue: 0,0:00:32.16,0:00:33.50,Default,Kousuke(M),0,0,0,,{\i1}Có rất nhiều giả thuyết được đưa ra,
+Dialogue: 0,0:00:33.50,0:00:38.08,Default,Kousuke(M),0,0,0,,{\i1}nhưng tất cả đều có chung một điểm:\Nđi solo một mình là hạ sách.
+Dialogue: 0,0:00:38.91,0:00:41.64,Default,Kousuke(M),0,0,0,,{\i1}Đó là lý do vì sao lúc này mình lại có mặt ở Hang Động Hoàng Hôn,
+Dialogue: 0,0:00:41.64,0:00:45.03,Default,Kousuke(M),0,0,0,,{\i1}một hầm ngục chỉ dành riêng cho việc đi solo\Nđược thêm vào trong bản cập nhật quà tặng
+Dialogue: 0,0:00:45.03,0:00:47.12,Default,Kousuke(M),0,0,0,,{\i1}dành cho đợt phát hành đầu tiên của game.
+Dialogue: 0,0:00:49.80,0:00:51.96,Default,Kousuke(M),0,0,0,,{\i1}Mình đã mang theo đầy đủ phù thạch ma pháp hệ thủy.
+Dialogue: 0,0:00:51.96,0:00:54.26,Default,Kousuke(M),0,0,0,,{\i1}Bình thuốc hồi phục cũng đã chuẩn bị xong,
+Dialogue: 0,0:00:54.26,0:00:56.67,Default,Kousuke(M),0,0,0,,{\i1}và chiếc khăn choàng cũng đã được yểm ma pháp thủy hoàn tất.
+Dialogue: 0,0:01:13.85,0:01:16.57,Default,Kousuke,0,0,0,,Bắt đầu thôi nào...
+Dialogue: 0,0:01:19.78,0:01:21.45,Default,Kousuke,0,0,0,,để trở thành kẻ mạnh nhất!
+Dialogue: 0,0:02:53.98,0:02:56.86,Flashback,Yukine,0,0,0,,Ngoài chiếc khăn choàng ra thì nên dùng thêm vũ khí gì ư?
+Dialogue: 0,0:02:56.86,0:03:00.49,Flashback,Kousuke,0,0,0,,Em từng tính đến việc mang theo khiên,
+Dialogue: 0,0:03:00.49,0:03:02.32,Flashback,Kousuke,0,0,0,,nhưng cảm giác nó không thực sự vừa tay cho lắm.
+Dialogue: 0,0:03:02.32,0:03:04.07,Flashback,Yukine,0,0,0,,Theo góc nhìn của chị,
+Dialogue: 0,0:03:04.07,0:03:08.12,Flashback,Yukine,0,0,0,,em nên chọn một loại vũ khí mà em đã dùng thử\Nvà cảm thấy dễ dàng thuần thục nhất.
+Dialogue: 0,0:03:08.12,0:03:12.37,Flashback,Kousuke,0,0,0,,Nghĩa là em nên thử qua tất cả các loại vũ khí ạ?
+Dialogue: 0,0:03:12.58,0:03:14.13,Flashback,Yukine,0,0,0,,Ừm, đúng hướng rồi đấy.
+Dialogue: 0,0:03:14.13,0:03:14.88,Flashback,Yukine,0,0,0,,Tuy nhiên...
+Dialogue: 0,0:03:15.13,0:03:18.05,Flashback,Yukine,0,0,0,,Katana và trường đao Naginata là những vũ khí tuyệt vời,
+Dialogue: 0,0:03:18.05,0:03:19.55,Flashback,Yukine,0,0,0,,chúng cực kỳ dễ dàng truyền dẫn ma lực vào bên trong.
+Dialogue: 0,0:03:19.55,0:03:20.84,Flashback,Yukine,0,0,0,,Nên đó là gợi ý hàng đầu của chị dành cho em!
+Dialogue: 0,0:03:21.59,0:03:23.09,Flashback,Yukine,0,0,0,,Hơn nữa em lại đã học được kỹ năng Tâm Nhãn (Mind's Eye),
+Dialogue: 0,0:03:23.09,0:03:25.60,Flashback,Yukine,0,0,0,,lại còn sở hữu cả Cánh Tay Thứ Ba và Cánh Tay Thứ Tư,
+Dialogue: 0,0:03:25.60,0:03:27.56,Flashback,Yukine,0,0,0,,chị tin chắc rằng em hoàn toàn có thể\Nphát huy tối đa 100% tiềm năng của thanh Katana
+Dialogue: 0,0:03:27.56,0:03:30.39,Flashback,Yukine,0,0,0,,mà không hề chịu bất kỳ một nhược điểm nào cả.
+Dialogue: 0,0:03:30.39,0:03:31.52,Flashback,Yukine,0,0,0,,Em thấy thế nào?!
+Dialogue: 0,0:03:33.35,0:03:36.36,Flashback,Kousuke,0,0,0,,D-Dạ vâng, thế thì em sẽ dùng thử Katana xem sao ạ.
+Dialogue: 0,0:03:41.99,0:03:43.53,Flashback,Yukine,0,0,0,,Chị biết thế nào ngày này cũng sẽ tới mà,
+Dialogue: 0,0:03:43.53,0:03:44.82,Flashback,Yukine,0,0,0,,nên chị đã chuẩn bị sẵn từ trước rồi đây.
+Dialogue: 0,0:03:45.87,0:03:50.04,Default,Kousuke(M),0,0,0,,{\i1}Chị ấy đã nói như thế khi trao cho mình thanh kiếm này.
+Dialogue: 0,0:03:50.04,0:03:52.96,Default,Kousuke(M),0,0,0,,{\i1}Sau đó, mình đã bị chị ấy 'bón hành' cho tơi bời hoa lá...
+Dialogue: 0,0:04:10.43,0:04:12.56,Default,Kousuke,0,0,0,,Đ-Đáng sợ quá đi mất...
+Dialogue: 0,0:04:37.46,0:04:41.67,Default,Kousuke,0,0,0,,Mình đã khổ luyện thể lực và vung kiếm\Ncho khoảnh khắc này suốt từng ngày từng giờ.
+Dialogue: 0,0:04:43.38,0:04:46.14,Default,Kousuke,0,0,0,,Dẫu cho mình không có chút thiên phú nào về kiếm thuật,
+Dialogue: 0,0:04:46.72,0:04:49.51,Default,Kousuke,0,0,0,,thì mình nhất định cũng phải thành thục tuyệt kỹ duy nhất này.
+Dialogue: 0,0:04:52.27,0:04:55.02,Default,Kousuke(M),0,0,0,,{\i1}Cư Hợp Kiếm Thuật {\fnSegoe UI Symbol}─{\fnGandhi Sans}Thiểm Quang (Flash){\fnSegoe UI Symbol}─{\fnGandhi Sans}!
+Dialogue: 0,0:05:20.04,0:05:21.34,Default,Kousuke,0,0,0,,Oa.
+Dialogue: 0,0:05:21.34,0:05:23.30,Default,Kousuke,0,0,0,,Đẹp thật đấy.
+Dialogue: 0,0:05:23.30,0:05:26.43,Default,Kousuke,0,0,0,,Giờ thì mình đã hiểu tại sao nơi này\Nlại được gọi là Nấc Thang Thiên Thần rồi.
+Dialogue: 0,0:05:29.85,0:05:31.68,Default,Kousuke,0,0,0,,Chỉ có duy nhất một chỗ kia là không mọc cỏ.
+Dialogue: 0,0:05:36.73,0:05:39.44,Default,Kousuke,0,0,0,,Trông có vẻ hơi khác so với trong game,
+Dialogue: 0,0:05:40.40,0:05:42.15,Default,Kousuke,0,0,0,,nhưng chắc chắn là chỗ này rồi đúng không?
+Dialogue: 0,0:05:42.73,0:05:46.53,Default,Kousuke(M),0,0,0,,{\i1}Trong MagiEx, nó là một viên ngọc phong ấn\Ntrông tựa như pha lê.
+Dialogue: 0,0:05:46.95,0:05:48.91,Default,Kousuke,0,0,0,,Oa, mềm mại bồng bềnh như kẹo bông vậy.
+Dialogue: 0,0:05:55.79,0:05:59.00,Default,Kousuke(M),0,0,0,,{\i1}Nhân vật chính đã truyền một lượng ma lực vào trong này.
+Dialogue: 0,0:06:01.46,0:06:03.34,Default,Kousuke(M),0,0,0,,{\i1}Nhờ vào việc khổ luyện hàng ngày,
+Dialogue: 0,0:06:03.34,0:06:05.84,Default,Kousuke(M),0,0,0,,{\i1}lượng ma lực của mình đã gia tăng một cách đáng kinh ngạc.
+Dialogue: 0,0:06:05.84,0:06:07.47,Default,Kousuke(M),0,0,0,,{\i1}Để mở rộng dung lượng ma lực tối đa,
+Dialogue: 0,0:06:07.47,0:06:09.84,Default,Kousuke(M),0,0,0,,{\i1}mình đã duy trì trạng thái yểm ma lực lên khăn choàng\Nsuốt 24/7, trừ những lúc đi ngủ.
+Dialogue: 0,0:06:09.84,0:06:11.26,Default,Kousuke(M),0,0,0,,{\i1}Và trong các buổi chạy bộ hay đấu tập,
+Dialogue: 0,0:06:11.26,0:06:13.39,Default,Kousuke(M),0,0,0,,{\i1}mình luôn vắt kiệt ma lực tới giới hạn tột cùng.
+Dialogue: 0,0:06:13.89,0:06:17.10,Default,Kousuke(M),0,0,0,,{\i1}Đáng lẽ lượng ma lực hiện tại của mình\Nphải ở mức khủng bố lắm rồi chứ...
+Dialogue: 0,0:06:18.39,0:06:20.65,Default,Kousuke(M),0,0,0,,{\i1}Vậy mà vẫn chưa đủ sao?
+Dialogue: 0,0:06:20.94,0:06:22.52,Default,Kousuke(M),0,0,0,,{\i1}Nguy rồi! Như vậy có nghĩa là...
+Dialogue: 0,0:06:30.95,0:06:33.70,Default,System,0,0,0,,{\i1}Đã ghi nhận ma lực thành công.
+Dialogue: 0,0:06:36.75,0:06:37.96,Default,Kousuke,0,0,0,,Mình chẳng đọc được chữ nào cả...
+Dialogue: 0,0:06:38.87,0:06:41.04,Default,System,0,0,0,,{\i1}Xin vui lòng lựa chọn hình thái.
+Dialogue: 0,0:06:37.96,0:06:42.42,sign_Arial,TEXT,0,0,0,,{\an8\c&HF8FFF0&\bord0\shad0\pos(318.67,228)\fs28}Xin vui lòng lựa chọn hình thái
+Dialogue: 0,0:06:40.87,0:06:42.42,sign_Arial,TEXT,0,0,0,,{\pos(318,25.33)\bord4\shad0\3c&HEEFFCF&}Thiên (Heaven)
+Dialogue: 0,0:06:40.87,0:06:42.42,sign_Arial,TEXT,0,0,0,,{\bord4\shad0\3c&HEEFFCF&\pos(482.67,126.66)}Xuân (Spring)
+Dialogue: 0,0:06:40.87,0:06:42.42,sign_Arial,TEXT,0,0,0,,{\bord4\shad0\3c&HEEFFCF&\pos(417.33,287.33)}Hạ (Summer)
+Dialogue: 0,0:06:40.87,0:06:42.42,sign_Arial,TEXT,0,0,0,,{\bord4\shad0\3c&HEEFFCF&\pos(218.67,288)}Thu (Fall)
+Dialogue: 0,0:06:40.87,0:06:42.42,sign_Arial,TEXT,0,0,0,,{\bord4\shad0\3c&HEEFFCF&\pos(154.67,128)}Đông (Winter)
+Dialogue: 0,0:06:42.42,0:06:46.38,Default,Kousuke,0,0,0,,Các lựa chọn ở đây đáng lẽ chỉ có\NXuân, Hạ, Thu, Đông thôi chứ.
+Dialogue: 0,0:06:46.38,0:06:48.26,Default,Kousuke,0,0,0,,Hình thái Thiên (Heaven) này là cái quái gì thế?
+Dialogue: 0,0:06:48.63,0:06:50.09,Default,Kousuke,0,0,0,,Nhưng vì một lý do nào đó,
+Dialogue: 0,0:06:50.09,0:06:53.47,Default,Kousuke,0,0,0,,trực giác mách bảo mình phải chọn hình thái Thiên.
+Dialogue: 0,0:06:53.47,0:06:55.60,Default,System,0,0,0,,Bạn có thực sự chắc chắn không?
+Dialogue: 0,0:06:51.09,0:06:52.51,sign_Arial,TEXT,0,0,0,,{\pos(318,25.33)\bord4\shad0\3c&HEEFFCF&}Thiên (Heaven)
+Dialogue: 0,0:06:51.09,0:06:52.51,sign_Arial,TEXT,0,0,0,,{\bord4\shad0\3c&HEEFFCF&\pos(482.67,126.66)}Xuân (Spring)
+Dialogue: 0,0:06:51.09,0:06:52.51,sign_Arial,TEXT,0,0,0,,{\bord4\shad0\3c&HEEFFCF&\pos(218.67,288)}Thu (Fall)
+Dialogue: 0,0:06:51.09,0:06:52.51,sign_Arial,TEXT,0,0,0,,{\bord4\shad0\3c&HEEFFCF&\pos(154.67,128)}Đông (Winter)
+Dialogue: 0,0:06:52.59,0:06:55.60,sign_Arial,TEXT,0,0,0,,{\an8\c&HF8FFF0&\bord0\shad0\fs28\pos(318.67,162.67)}Bạn có thực sự chắc chắn không?
+Dialogue: 0,0:06:52.59,0:06:55.60,sign_Arial,TEXT,0,0,0,,{\c&HF9FAF9&\3c&H669027&\an6\fs30\shad0\bord4\pos(151.33,260.66)}Có
+Dialogue: 0,0:06:52.59,0:06:55.60,sign_Arial,TEXT,0,0,0,,{\c&HF9FAF9&\3c&H669027&\an4\fs30\shad0\bord4\pos(506,260.66)}Không
+Dialogue: 0,0:07:37.39,0:07:40.73,Default,Nanami,0,0,0,,Kết nối đến Tập đoàn A&A thất bại.
+Dialogue: 0,0:07:40.73,0:07:43.85,Default,Nanami,0,0,0,,Thu thập dữ liệu qua mạng nội bộ thất bại.
+Dialogue: 0,0:07:43.85,0:07:46.40,Default,Nanami,0,0,0,,Mạng Lưới Hầm Ngục bị mất hoàn toàn.
+Dialogue: 0,0:07:46.40,0:07:49.53,Default,Nanami,0,0,0,,Không thể định cấu hình thời gian\Ncủa thiết bị đầu cuối AA.
+Dialogue: 0,0:07:49.53,0:07:51.20,Default,Nanami,0,0,0,,Các chức năng sẽ bị giới hạn.
+Dialogue: 0,0:07:54.95,0:07:57.66,Default,Nanami,0,0,0,,Xin kính chào chủ thể khế ước.
+Dialogue: 0,0:07:58.08,0:08:03.67,Default,Nanami,0,0,0,,Tôi là "Người Hầu Hầu Gái - Hiệp Sĩ, Đời thứ 73",\Nđược sản xuất bởi Tập đoàn A&A.
+Dialogue: 0,0:08:05.42,0:08:07.96,Default,Kousuke,0,0,0,,{\i1}"Người Hầu Hầu Gái - Hiệp Sĩ, Đời thứ 73"
+Dialogue: 0,0:08:07.96,0:08:12.84,Default,Kousuke,0,0,0,,{\i1}là một nhân vật hỗ trợ cực kỳ đắc lực\Nđược tặng kèm trong đợt phát hành đầu tiên.
+Dialogue: 0,0:08:13.26,0:08:15.55,Default,Kousuke,0,0,0,,{\i1}Xuân, Hạ, Thu, Đông.
+Dialogue: 0,0:08:15.55,0:08:18.22,Default,Kousuke,0,0,0,,{\i1}Tính cách và màu tóc của cô ấy sẽ thay đổi\Ntùy theo hình thái mà người chơi chọn,
+Dialogue: 0,0:08:18.22,0:08:20.39,Default,Kousuke,0,0,0,,{\i1}nhưng hình thái nào cũng đều sở hữu lượng fan vô cùng đông đảo.
+Dialogue: 0,0:08:21.02,0:08:23.69,Default,Kousuke(M),0,0,0,,{\i1}Vậy còn cô gái đang đứng trước mặt mình thì sao?
+Dialogue: 0,0:08:23.69,0:08:26.27,Default,Kousuke(M),0,0,0,,{\i1}Mái tóc của cô ấy óng ánh một sắc bạc tuyệt đẹp.
+Dialogue: 0,0:08:26.27,0:08:28.11,Default,Kousuke(M),0,0,0,,{\i1}Đôi mắt hai màu dị sắc (Heterochromia),
+Dialogue: 0,0:08:28.11,0:08:30.36,Default,Kousuke(M),0,0,0,,{\i1}một bên tím ánh đỏ và một bên tím ánh lam,\Ntoát lên vẻ xa cách lạnh lùng.
+Dialogue: 0,0:08:30.61,0:08:32.78,Default,Kousuke(M),0,0,0,,{\i1}Khuôn ngực dẫu không thể đồ sộ bằng chị gái,
+Dialogue: 0,0:08:32.78,0:08:34.57,Default,Kousuke(M),0,0,0,,{\i1}nhưng cũng thuộc hàng cực kỳ đẫy đà.
+Dialogue: 0,0:08:34.57,0:08:37.45,Default,Nanami,0,0,0,,Tôi có thể mạn phép hỏi quý danh của ngài được không?
+Dialogue: 0,0:08:37.45,0:08:39.79,Default,Kousuke,0,0,0,,Tôi là Takioto Kousuke.
+Dialogue: 0,0:08:47.54,0:08:49.00,Default,Nanami,0,0,0,,Đã đăng ký danh tính.
+Dialogue: 0,0:08:47.54,0:08:49.00,sign_Arial,TEXT,0,0,0,,{\an8\c&HFCFEFF&\bord0\shad0\fs36\pos(308,236.66)}Khế ước hoàn tất
+Dialogue: 0,0:08:50.80,0:08:54.01,Default,Nanami,0,0,0,,Cảm ơn ngài đã ký kết khế ước\Nvới Người Hầu Hầu Gái - Hiệp Sĩ.
+Dialogue: 0,0:08:54.80,0:08:56.39,Default,Nanami,0,0,0,,Thành thật xin lỗi ngài,
+Dialogue: 0,0:08:56.39,0:08:59.64,Default,Nanami,0,0,0,,nhưng vì kết nối tới Mạng Lưới Hầm Ngục đã bị cắt đứt,
+Dialogue: 0,0:08:59.64,0:09:02.14,Default,Nanami,0,0,0,,tôi cần phải đánh giá lại tình hình hiện tại.
+Dialogue: 0,0:09:02.14,0:09:05.23,Default,Kousuke,0,0,0,,À, Mạng Lưới Hầm Ngục là cái gì thế?
+Dialogue: 0,0:09:05.69,0:09:08.36,Default,Kousuke(M),0,0,0,,{\i1}Kỳ lạ thật, trong game làm gì có cảnh này bao giờ.
+Dialogue: 0,0:09:08.77,0:09:10.69,Default,Kousuke(M),0,0,0,,{\i1}Trong thế giới MagiEx mà mình biết...
+Dialogue: 0,0:09:11.98,0:09:16.45,Default,Kousuke(M),0,0,0,,{\i1}cô ấy là một hầu gái không mời mà đến,\Ntự tiện dọn vào căn phòng trọ chật chội của nhân vật chính,
+Dialogue: 0,0:09:16.45,0:09:19.41,Default,Kousuke(M),0,0,0,,{\i1}rồi buông mấy lời như: "Ngài vừa gặp được người định mệnh của đời mình rồi đấy",
+Dialogue: 0,0:09:19.41,0:09:22.16,Default,Kousuke(M),0,0,0,,{\i1}và tận tụy hầu hạ chăm sóc cậu ta hết lòng.
+Dialogue: 0,0:09:22.66,0:09:23.75,Default,Kousuke(M),0,0,0,,{\i1}Chưa dừng lại ở đó,
+Dialogue: 0,0:09:23.75,0:09:26.50,Default,Kousuke(M),0,0,0,,{\i1}cô ấy còn là một hầu gái bạo dạn không biết xấu hổ là gì,\Nđộ trung thành không chỉ đạt mức tối đa,
+Dialogue: 0,0:09:26.50,0:09:27.58,Default,Kousuke(M),0,0,0,,{\i1}mà thậm chí còn vượt qua mọi giới hạn.
+Dialogue: 0,0:09:28.08,0:09:31.04,Default,Kousuke(M),0,0,0,,{\i1}Khi bạn thắc mắc tại sao cô ấy lại biết ơn bạn đến nhường đó,
+Dialogue: 0,0:09:31.04,0:09:35.97,Default,Kousuke(M),0,0,0,,{\i1}cô ấy sẽ bảo là vì nếu không có bạn,\Ncô ấy sẽ mãi mãi bị bỏ mặc mục rữa trong hầm ngục,
+Dialogue: 0,0:09:35.97,0:09:38.09,Default,Kousuke(M),0,0,0,,{\i1}và không bao giờ được đánh thức dậy.
+Dialogue: 0,0:09:38.55,0:09:39.51,Default,Kousuke(M),0,0,0,,{\i1}Khi độ thân mật tăng cao,
+Dialogue: 0,0:09:39.51,0:09:41.10,Default,Kousuke(M),0,0,0,,{\i1}một sự kiện phụ đặc biệt sẽ được kích hoạt,
+Dialogue: 0,0:09:41.10,0:09:42.76,Default,Kousuke(M),0,0,0,,{\i1}ở đó cô ấy sẽ thú nhận rằng:
+Dialogue: 0,0:09:42.76,0:09:44.98,Default,Kousuke(M),0,0,0,,{\i1}"Những lời tôi nói hồi đó thực ra chỉ là diễn kịch thôi.
+Dialogue: 0,0:09:44.98,0:09:46.77,Default,Kousuke(M),0,0,0,,{\i1}Tôi bị ép phải giả vờ tuyên thệ trung thành với kẻ
+Dialogue: 0,0:09:46.77,0:09:48.56,Default,Kousuke(M),0,0,0,,{\i1}đã đăng ký ma lực của mình.
+Dialogue: 0,0:09:48.56,0:09:51.11,Default,Kousuke(M),0,0,0,,{\i1}Thế nhưng giờ đây, ngài thực sự là người..."
+Dialogue: 0,0:09:51.11,0:09:54.57,Default,Kousuke(M),0,0,0,,{\i1}Biết bao nhiêu con tim game thủ đã đổ gục trước cô nàng hầu gái gợi cảm này ngay tại khoảnh khắc đó!
+Dialogue: 0,0:09:54.57,0:09:55.78,Default,Kousuke(M),0,0,0,,{\i1}Và trong số đó có cả mình nữa!
+Dialogue: 0,0:09:56.07,0:09:59.24,Default,Nanami,0,0,0,,Xin thứ lỗi, nhưng tôi có thể mượn bàn tay của ngài một lát được không?
+Dialogue: 0,0:09:59.66,0:10:00.57,Default,Kousuke,0,0,0,,À-Ừ, được chứ.
+Dialogue: 0,0:10:00.57,0:10:01.74,Default,Nanami,0,0,0,,Xin phép ngài.
+Dialogue: 0,0:10:04.87,0:10:06.91,Default,Kousuke,0,0,0,,Cô có sao không đấy?
+Dialogue: 0,0:10:06.91,0:10:08.37,Default,Nanami,0,0,0,,Xin ngài lượng thứ.
+Dialogue: 0,0:10:08.37,0:10:11.29,Default,Nanami,0,0,0,,Cho phép tôi xin một chút thời gian\Nđể sắp xếp lại dòng suy nghĩ được chứ?
+Dialogue: 0,0:10:11.59,0:10:16.26,Default,Kousuke(M),0,0,0,,{\i1}Có vẻ như cô ấy cũng cần thời gian\Nđể bình tâm suy xét lại mọi chuyện.
+Dialogue: 0,0:10:18.22,0:10:21.05,Default,Kousuke,0,0,0,,Vậy là có điều gì đó sai lệch nghiêm trọng rồi sao?
+Dialogue: 0,0:10:21.05,0:10:21.93,Default,Nanami,0,0,0,,Chính xác là như vậy.
+Dialogue: 0,0:10:21.93,0:10:23.93,Default,Nanami,0,0,0,,Thông thường, Dòng Người Hầu Hầu Gái - Hiệp Sĩ
+Dialogue: 0,0:10:23.93,0:10:28.39,Default,Nanami,0,0,0,,được thiết kế để ký khế ước với\Nmột người có mối liên hệ mật thiết với Chủ Nhân Hầm Ngục (Dungeon Master).
+Dialogue: 0,0:10:28.39,0:10:31.90,Default,Kousuke,0,0,0,,Và chuyện một kẻ trông chẳng khác gì người bình thường như tôi
+Dialogue: 0,0:10:31.90,0:10:33.73,Default,Kousuke,0,0,0,,lại có thể ký kết khế ước là điều không thể giải thích nổi đúng không?
+Dialogue: 0,0:10:33.73,0:10:37.19,Default,Nanami,0,0,0,,Dẫu ngài thực sự sở hữu tiềm năng dung lượng ma lực cao bất thường,
+Dialogue: 0,0:10:37.19,0:10:38.45,Default,Nanami,0,0,0,,nhưng đúng là như vậy ạ.
+Dialogue: 0,0:10:38.45,0:10:41.16,Default,Kousuke,0,0,0,,Mà nhân tiện, Chủ Nhân Hầm Ngục rốt cuộc là cái gì thế?
+Dialogue: 0,0:10:41.70,0:10:43.28,Default,Nanami,0,0,0,,Chi tiết về vấn đề này bao gồm
+Dialogue: 0,0:10:43.28,0:10:47.33,Default,Nanami,0,0,0,,những thông tin cơ mật tuyệt đối không được tiết lộ cho con người bình thường.
+Dialogue: 0,0:10:47.79,0:10:52.63,Default,Nanami,0,0,0,,Dẫu vậy, ngài hiện tại đã được thiết lập là chủ nhân của tôi.
+Dialogue: 0,0:10:52.63,0:10:53.79,Default,Kousuke,0,0,0,,Nghĩa là...
+Dialogue: 0,0:10:53.79,0:10:56.30,Default,Nanami,0,0,0,,Tôi không thể làm trái lệnh ngài,
+Dialogue: 0,0:10:56.30,0:10:57.84,Default,Nanami,0,0,0,,nên nếu ngài ra lệnh cho tôi phải khai ra tất cả,
+Dialogue: 0,0:10:57.84,0:10:59.34,Default,Nanami,0,0,0,,tôi chắc chắn sẽ phải tuân theo.
+Dialogue: 0,0:10:59.88,0:11:03.10,Default,Kousuke,0,0,0,,Ra vậy, nếu tôi muốn moi thông tin về hầm ngục,
+Dialogue: 0,0:11:03.10,0:11:05.06,Default,Kousuke,0,0,0,,tôi hoàn toàn có thể dùng mệnh lệnh để ép cô nói.
+Dialogue: 0,0:11:05.85,0:11:07.02,Default,Kousuke,0,0,0,,Nhưng mà...
+Dialogue: 0,0:11:10.60,0:11:13.86,Default,Kousuke,0,0,0,,Tôi cũng không bức thiết cần mấy thông tin đó đến mức ấy đâu.
+Dialogue: 0,0:11:14.36,0:11:15.36,Default,Kousuke,0,0,0,,Quan trọng hơn là...
+Dialogue: 0,0:11:16.23,0:11:18.44,Default,Kousuke,0,0,0,,Cô có thể đi cạnh tôi được không?
+Dialogue: 0,0:11:28.37,0:11:29.66,Default,Nanami,0,0,0,,Ngài tốt bụng quá.
+Dialogue: 0,0:11:37.80,0:11:40.76,Default,Nanami,0,0,0,,Hiện tại các bước liên quan đến khế ước đã hoàn tất...
+Dialogue: 0,0:11:42.55,0:11:45.14,Default,Nanami,0,0,0,,Xin ngài hãy ban cho tôi một cái tên phù hợp với một
+Dialogue: 0,0:11:45.14,0:11:47.06,Default,Nanami,0,0,0,,nhân vật thuộc Dòng Người Hầu Hầu Gái - Hiệp Sĩ
+Dialogue: 0,0:11:47.06,0:11:50.02,Default,Nanami,0,0,0,,sở hữu độ nổi tiếng tăng vọt nhờ tính cách tinh nghịch quậy phá này đi ạ!
+Dialogue: 0,0:11:50.02,0:11:52.85,Default,Kousuke,0,0,0,,Hả?! Thứ trên tay cô là cái quái gì thế kia?!
+Dialogue: 0,0:11:52.85,0:11:54.44,Default,Nanami,0,0,0,,Đây là trang phục đi kèm của tôi ạ.
+Dialogue: 0,0:11:54.44,0:11:56.27,Default,Kousuke,0,0,0,,Ủa, sao lại là đồ bơi học sinh (sukumizu)?!
+Dialogue: 0,0:11:56.98,0:12:01.40,Default,Nanami,0,0,0,,Trước đây Tập đoàn A&A chỉ phân phối chúng tôi với trang phục hầu gái.
+Dialogue: 0,0:12:01.40,0:12:04.28,Default,Nanami,0,0,0,,Tuy nhiên, sau khi được bổ sung thêm đồ bơi học sinh,
+Dialogue: 0,0:12:04.28,0:12:06.24,Default,Nanami,0,0,0,,doanh số bán hàng đã tăng trưởng vượt bậc ngoài mong đợi,
+Dialogue: 0,0:12:06.24,0:12:08.24,Default,Nanami,0,0,0,,nên tôi tin rằng đó là lý do mẫu trang phục này được áp dụng cho đến nay.
+Dialogue: 0,0:12:08.66,0:12:10.75,Default,Nanami,0,0,0,,Tôi có thể thay ngay bây giờ nếu ngài muốn chiêm ngưỡng.
+Dialogue: 0,0:12:10.75,0:12:13.12,Default,Kousuke,0,0,0,,Không, không cần thiết phải làm thế đâu!
+Dialogue: 0,0:12:13.12,0:12:14.54,Default,Nanami,0,0,0,,Tôi hiểu rồi.
+Dialogue: 0,0:12:14.54,0:12:16.42,Default,Nanami,0,0,0,,Ngài muốn tự tưởng tượng và lưu giữ nó trong tâm trí chứ gì,
+Dialogue: 0,0:12:16.42,0:12:18.34,Default,Nanami,0,0,0,,đúng không hả Takioto Kousuke-sama?
+Dialogue: 0,0:12:19.09,0:12:22.30,Default,Nanami,0,0,0,,Vậy thì tôi sẽ ướm thử nó lên bên ngoài quần áo thế này nhé.
+Dialogue: 0,0:12:23.43,0:12:24.93,Default,Kousuke,0,0,0,,Cô có thể cúi thấp người xuống một chút để dễ nhìn hơn—
+Dialogue: 0,0:12:24.93,0:12:27.22,Default,Kousuke,0,0,0,,Ý tôi là, quay lại với công việc chính ngay đi!
+Dialogue: 0,0:12:27.85,0:12:29.31,Default,Nanami,0,0,0,,Tôi xin lỗi ạ.
+Dialogue: 0,0:12:29.31,0:12:33.06,Default,Nanami,0,0,0,,Vậy thì xin ngài hãy bắt đầu bằng việc đặt tên cho tôi.
+Dialogue: 0,0:12:33.06,0:12:35.60,Default,Kousuke,0,0,0,,À, vậy tôi hiểu cô giống như một dạng...
+Dialogue: 0,0:12:35.60,0:12:39.61,Default,Kousuke,0,0,0,,Homunculus mà tôi bắt buộc phải đặt tên cho đúng không?
+Dialogue: 0,0:12:39.61,0:12:42.03,Default,Nanami,0,0,0,,Không, tôi là một Thiên Thần.
+Dialogue: 0,0:12:42.03,0:12:43.40,Default,Kouske,0,0,0,,Thiên Thần á?!
+Dialogue: 0,0:12:43.90,0:12:45.28,Default,Kousuke(M),0,0,0,,{\i1}Trong MagiEx mà mình biết,
+Dialogue: 0,0:12:45.28,0:12:47.82,Default,Kousuke(M),0,0,0,,{\i1}làm gì có thiên thần nào xuất hiện trong dàn nữ chính ban đầu đâu chứ.
+Dialogue: 0,0:12:47.82,0:12:49.24,Default,Kousuke(M),0,0,0,,{\i1}Hình thái Thiên (Heaven Form) đỉnh vãi chưởng!
+Dialogue: 0,0:12:49.91,0:12:51.62,Default,Nanami,0,0,0,,Tôi chắc là ngài đang bận tâm về điều này,
+Dialogue: 0,0:12:51.62,0:12:56.21,Default,Nanami,0,0,0,,nhưng tôi xin cam đoan rằng tôi hoàn toàn có khả năng giao phối và sinh con đẻ cái bình thường.
+Dialogue: 0,0:12:56.21,0:12:58.92,Default,Kousuke,0,0,0,,Tôi không hề bận tâm hay nghĩ tới chuyện đó chút nào luôn đấy!
+Dialogue: 0,0:12:58.92,0:13:00.05,Default,Nanami,0,0,0,,Được rồi, thế này nhé.
+Dialogue: 0,0:13:00.59,0:13:03.30,Default,Kousuke,0,0,0,,Số 73 trong tiếng Nhật đọc là Nana và Mi,
+Dialogue: 0,0:13:03.30,0:13:04.97,Default,Kousuke,0,0,0,,vậy gọi cô là Nanami thì sao?
+Dialogue: 0,0:13:05.26,0:13:06.43,Default,Nanami,0,0,0,,Thật đấy à?
+Dialogue: 0,0:13:06.72,0:13:11.14,Default,Nanami,0,0,0,,Tôi không thể tin được là ngài lại lười biếng bê nguyên số hiệu định danh ra đặt tên đấy.
+Dialogue: 0,0:13:11.14,0:13:13.85,Default,Kousuke,0,0,0,,Tôi xin lỗi, để tôi nghĩ cái tên khác vậy.
+Dialogue: 0,0:13:13.85,0:13:17.52,Default,Nanami,0,0,0,,Đã ghi nhận, Takioto Kousuke-sama đúng là hết thuốc chữa.
+Dialogue: 0,0:13:21.44,0:13:23.61,Default,Nanami,0,0,0,,Cơ mà cái tên Nanami nghe cũng tạm được rồi.
+Dialogue: 0,0:13:25.72,0:13:31.66,sign_ComicSansMS,TEXT,0,0,0,,{\an8\c&H6D6B70&\3c&HF6F0F4&\shad0\bord4\fs30}Nanami
+Dialogue: 0,0:13:23.61,0:13:25.61,Default,Kousuke,0,0,0,,Thực ra trong bụng cô thích mê cái tên đó đúng không?
+Dialogue: 0,0:13:25.95,0:13:29.07,Default,Nanami,0,0,0,,Đối với ngài thì tên tôi là Nanami.
+Dialogue: 0,0:13:29.07,0:13:30.95,Default,Nanami,0,0,0,,Hoặc ngài cũng có thể gọi tôi là Nanamin.
+Dialogue: 0,0:13:30.95,0:13:31.66,Default,Kousuke,0,0,0,,Ừm...
+Dialogue: 0,0:13:32.16,0:13:36.37,Default,Nanami,0,0,0,,Bước tiếp theo là xác nhận danh xưng ngài muốn tôi gọi.
+Dialogue: 0,0:13:36.37,0:13:37.58,Default,Kousuke,0,0,0,,Danh xưng sao?
+Dialogue: 0,0:13:38.08,0:13:51.30,sign_TimesNewRoman,TEXT,0,0,0,,{\an7\c&H000000&\3c&HFFFFFF&\shad0\bord4\fs15}Xin chọn danh xưng ngài yêu thích\N{\fs20} -sama Lãnh Chúa\NChủ Nhân Sư Phụ\NĐại Ca Giám Đốc\NTrưởng Phòng Tà Thần\NQuân Sư Hoàng Gia Đại Tướng Quân Thống Nhất\NĐại Minh Tinh Chuyên Gia
+Dialogue: 0,0:13:37.58,0:13:39.71,Default,Nanami,0,0,0,,Các lựa chọn vô cùng phong phú đa dạng,
+Dialogue: 0,0:13:39.71,0:13:41.29,Default,Nanami,0,0,0,,bao gồm Takioto Kousuke-sama,
+Dialogue: 0,0:13:41.29,0:13:45.88,Default,Nanami,0,0,0,,Lãnh Chúa, Chủ Nhân, Sư Phụ, Đại Ca, Giám Đốc,
+Dialogue: 0,0:13:45.88,0:13:48.34,Default,Nanami,0,0,0,,Trưởng Phòng, Tà Thần, Quân Sư Hoàng Gia,
+Dialogue: 0,0:13:48.34,0:13:51.30,Default,Nanami,0,0,0,,Đại Tướng Quân Thống Nhất và nhiều danh xưng khác nữa.
+Dialogue: 0,0:13:51.56,0:13:53.18,Default,Kousuke,0,0,0,,Thế danh xưng mặc định là gì?
+Dialogue: 0,0:13:53.18,0:13:55.06,Default,Nanami,0,0,0,,Mặc định là Chủ Nhân (Master).
+Dialogue: 0,0:13:55.06,0:13:57.27,Default,Kousuke,0,0,0,,Nghe cũng hợp lý đấy.
+Dialogue: 0,0:13:57.27,0:13:59.27,Default,Nanami,0,0,0,,Vậy từ nay tôi sẽ gọi ngài là Chủ Nhân.
+Dialogue: 0,0:13:59.77,0:14:03.11,Default,Nanami,0,0,0,,Thế ngoài Chủ Nhân ra thì tôi nên gọi ngài là gì nữa?
+Dialogue: 0,0:14:03.57,0:14:06.32,Default,Nanami,0,0,0,,Mặc định là đồ sâu bọ đê tiện.
+Dialogue: 0,0:14:03.11,0:14:06.32,sign_TimesNewRoman,TEXT,0,0,0,,{\an8\c&H000000&\3c&HFFFFFF&\bord4\shad0\fs40}Đồ sâu bọ đê tiện
+Dialogue: 0,0:14:06.32,0:14:07.78,Default,Kousuke,0,0,0,,Cái danh xưng mặc định tệ hại kiểu quái gì thế không biết!
+Dialogue: 0,0:14:07.78,0:14:09.36,Default,Kousuke,0,0,0,,Phải đổi ngay lập tức!
+Dialogue: 0,0:14:09.36,0:14:12.20,Default,Kousuke,0,0,0,,Mà rốt cuộc trong hoàn cảnh nào cô mới dùng cái danh xưng đó chứ?
+Dialogue: 0,0:14:12.45,0:14:15.04,Default,Nanami,0,0,0,,"Chào buổi sáng, hôm nay trời đẹp nhỉ,\Nđồ sâu bọ đê tiện?"
+Dialogue: 0,0:14:15.04,0:14:16.83,Default,Kousuke,0,0,0,,Giọng điệu thì thân thiện dễ thương,
+Dialogue: 0,0:14:16.83,0:14:19.25,Default,Kousuke,0,0,0,,nhưng từ ngữ thốt ra làm tôi cảm thấy mình còn không bằng cả đống rác rưởi.
+Dialogue: 0,0:14:19.25,0:14:21.17,Default,Nanami,0,0,0,,Vậy thì tôi sẽ đổi sang gọi là "không bằng rác rưởi" nhé.
+Dialogue: 0,0:14:21.17,0:14:23.75,Default,Kousuke,0,0,0,,Giờ thì tôi thậm chí còn bị tước luôn quyền làm sinh vật sống kìa!
+Dialogue: 0,0:14:23.75,0:14:27.30,Default,Kousuke,0,0,0,,Làm ơn hãy dùng mấy từ ngữ nào giữ lại chút xíu tôn trọng tối thiểu giùm tôi đi!
+Dialogue: 0,0:14:27.55,0:14:29.18,Default,Nanami,0,0,0,,Chậc. Rõ rồi.
+Dialogue: 0,0:14:29.18,0:14:32.72,Default,Kouske,0,0,0,,Vừa "chậc" lưỡi đấy à?! Ai đó mau đổi lượt cứu tôi với!
+Dialogue: 0,0:14:39.69,0:14:41.10,Default,Kousuke,0,0,0,,Con về rồi đây.
+Dialogue: 0,0:14:41.10,0:14:42.19,Default,Ludie,0,0,0,,Mừng em đã về.
+Dialogue: 0,0:14:43.57,0:14:44.90,Default,Nanami,0,0,0,,Xin thứ lỗi vì sự đường đột của tôi.
+Dialogue: 0,0:14:49.95,0:14:51.70,Default,Ludie,0,0,0,,Kousuke-san, ra đây tôi bảo một chút.
+Dialogue: 0,0:14:53.99,0:14:55.62,Default,Ludie,0,0,0,,Cô hầu gái kia là sao thế hả?
+Dialogue: 0,0:14:55.62,0:14:57.75,Default,Ludie,0,0,0,,Cậu thuê cô ta về làm cái gì đấy?
+Dialogue: 0,0:14:57.75,0:14:59.37,Default,Kousuke,0,0,0,,Tôi đâu có thuê cô ấy đâu,
+Dialogue: 0,0:14:59.37,0:15:01.08,Default,Kousuke,0,0,0,,đúng hơn là tôi vừa đi đón cô ấy về thôi.
+Dialogue: 0,0:15:01.08,0:15:03.42,Default,Ludie,0,0,0,,Đi đón về á?! Thôi được rồi.
+Dialogue: 0,0:15:03.79,0:15:04.96,Default,Ludie,0,0,0,,Rất vui được gặp mặt.
+Dialogue: 0,0:15:04.96,0:15:06.96,Default,Ludie,0,0,0,,Thế, cô là ai vậy?
+Dialogue: 0,0:15:06.96,0:15:08.97,Default,Nanami,0,0,0,,Rất hân hạnh được diện kiến tiểu thư.
+Dialogue: 0,0:15:08.97,0:15:13.39,Default,Nanami,0,0,0,,Tôi vừa trở thành hầu gái của Takioto Kousuke-sama.
+Dialogue: 0,0:15:13.39,0:15:14.93,Default,Nanami,0,0,0,,Tên tôi là Nanami.
+Dialogue: 0,0:15:14.93,0:15:16.47,Default,Ludie,0,0,0,,Nanami-san đúng không?
+Dialogue: 0,0:15:16.47,0:15:18.77,Default,Ludie,0,0,0,,Tên tôi là Ludivine.
+Dialogue: 0,0:15:18.77,0:15:23.31,Default,Ludie,0,0,0,,Thế, cô có thể nói cho tôi biết điều gì đã đưa cô vào quỹ đạo của cái tên này không?
+Dialogue: 0,0:15:23.61,0:15:26.15,Default,Nanami,0,0,0,,Tôi hiểu sự lo lắng bồn chồn của tiểu thư với tư cách là chính thất (vợ cả) của ngài ấy,
+Dialogue: 0,0:15:26.15,0:15:27.94,Default,Nanami,0,0,0,,nhưng chuyện ngoại tình sẽ không bao giờ xảy ra đâu ạ.
+Dialogue: 0,0:15:27.94,0:15:29.61,Default,Ludie,0,0,0,,À, sẽ không xảy ra cơ đấy?
+Dialogue: 0,0:15:29.61,0:15:30.90,Default,Ludie,0,0,0,,C-Chính thất á?!
+Dialogue: 0,0:15:30.90,0:15:33.37,Default,Nanami,0,0,0,,Với tư cách là hầu gái của Chủ Nhân,
+Dialogue: 0,0:15:33.37,0:15:35.70,Default,Nanami,0,0,0,,tôi sẽ tận tâm tận lực phụng sự ngài ấy bằng cả trái tim,
+Dialogue: 0,0:15:35.70,0:15:39.25,Default,Nanami,0,0,0,,và tuyệt đối không bao giờ làm bất cứ điều gì gây ảnh hưởng xấu tới ngài ấy.
+Dialogue: 0,0:15:40.04,0:15:43.42,Default,Nanami,0,0,0,,Đương nhiên, đối với tiểu thư với tư cách là phu nhân thì cũng tương tự như vậy ạ.
+Dialogue: 0,0:15:43.42,0:15:46.17,Default,Ludie,0,0,0,,Khoan khoan chờ một chút đã,\Nai bảo cô tôi là vợ của cậu ta thế hả?!
+Dialogue: 0,0:15:46.42,0:15:50.80,Default,Nanami,0,0,0,,Chủ Nhân nói rằng ngài ấy tin tưởng tiểu thư nhất trên đời này,
+Dialogue: 0,0:15:50.80,0:15:53.18,Default,Nanami,0,0,0,,và trông hai người có vẻ vô cùng thân thiết gắn bó.
+Dialogue: 0,0:15:53.18,0:15:56.26,Default,Kousuke,0,0,0,,À thì, đúng là tôi tin tưởng cậu nhất thật mà.
+Dialogue: 0,0:15:56.26,0:15:57.26,Default,Ludie,0,0,0,,Th-Thật sao?!
+Dialogue: 0,0:15:57.26,0:15:59.81,Default,Kousuke(M),0,0,0,,{\i1}Thì, cũng ngang hàng với Senpai và Chị Hai thôi,
+Dialogue: 0,0:15:59.81,0:16:02.56,Default,Kousuke(M),0,0,0,,{\i1}nhưng cậu đúng là người mà mình hoàn toàn có thể trao trọn niềm tin.
+Dialogue: 0,0:16:11.82,0:16:13.11,Default,Hatsumi,0,0,0,,Thất vọng lắm đúng không?
+Dialogue: 0,0:16:13.11,0:16:15.74,Default,Kousuke,0,0,0,,Đó là câu đầu tiên chị thốt ra khi thấy em đấy à?
+Dialogue: 0,0:16:15.74,0:16:18.03,Default,Hatsumi,0,0,0,,Nếu em muốn trang phục hầu gái thì chị sẽ mặc cho em xem.
+Dialogue: 0,0:16:18.03,0:16:20.08,Default,Nanami,0,0,0,,Rất hân hạnh được diện kiến tiểu thư.
+Dialogue: 0,0:16:20.08,0:16:21.50,Default,Nanami,0,0,0,,Tên tôi là Nanami.
+Dialogue: 0,0:16:25.58,0:16:27.59,Default,Hatsumi,0,0,0,,Nếu em muốn chơi trò nhập vai hầu gái thì chị cũng chiều luôn.
+Dialogue: 0,0:16:27.88,0:16:29.09,Default,Kousuke,0,0,0,,Thế thì còn gì tuyệt vời bằng ạ!
+Dialogue: 0,0:16:29.09,0:16:31.13,Default,Kousuke,0,0,0,,À không, không phải thế đâu!
+Dialogue: 0,0:16:31.13,0:16:33.01,Default,Kousuke,0,0,0,,Em muốn thuê cô ấy làm một hầu gái bình thường mà!
+Dialogue: 0,0:16:33.01,0:16:33.76,Default,Hatsumi,0,0,0,,Chị phản đối.
+Dialogue: 0,0:16:33.76,0:16:35.47,Default,Kousuke,0,0,0,,Chị Hai, nghe em nói đã...
+Dialogue: 0,0:16:35.47,0:16:36.26,Default,Hatsumi,0,0,0,,Chị phản đối!
+Dialogue: 0,0:16:36.26,0:16:38.18,Default,Hatsumi,0,0,0,,Không cần thiết, có chị ở đây rồi.
+Dialogue: 0,0:16:38.18,0:16:39.51,Default,Kousuke,0,0,0,,Chị Hai à!
+Dialogue: 0,0:16:39.51,0:16:41.22,Default,Nanami,0,0,0,,Xin phu nhân đừng bận lòng lo lắng.
+Dialogue: 0,0:16:42.89,0:16:45.27,Default,Nanami,0,0,0,,Với tư cách là hầu gái của Chủ Nhân,
+Dialogue: 0,0:16:45.27,0:16:47.36,Default,Nanami,0,0,0,,tôi sẽ tận tâm tận lực phụng sự ngài ấy bằng cả trái tim,
+Dialogue: 0,0:16:48.06,0:16:51.53,Default,Nanami,0,0,0,,và tuyệt đối không bao giờ làm bất cứ điều gì gây ảnh hưởng xấu tới ngài ấy.
+Dialogue: 0,0:16:52.44,0:16:56.53,Default,Nanami,0,0,0,,Đương nhiên, đối với phu nhân với tư cách là vợ của ngài ấy thì cũng tương tự như vậy ạ.
+Dialogue: 0,0:16:56.99,0:16:57.95,Default,Hatsumi,0,0,0,,Kousuke.
+Dialogue: 0,0:16:58.74,0:17:00.45,Default,Hatsumi,0,0,0,,Quả là một cô hầu gái tuyệt vời.
+Dialogue: 0,0:17:00.45,0:17:01.54,Default,Hatsumi,0,0,0,,Em tìm khéo lắm.
+Dialogue: 0,0:17:01.54,0:17:02.70,Default,Hatsumi,0,0,0,,Chúng ta chắc chắn phải thuê cô ấy về nhà.
+Dialogue: 0,0:17:02.95,0:17:07.17,Default,Nanami,0,0,0,,Thưa phu nhân, người có thể vui lòng cho tôi biết quý danh được không ạ?
+Dialogue: 0,0:17:07.17,0:17:08.50,Default,Hatsumi,0,0,0,,Hanamura Hatsumi.
+Dialogue: 0,0:17:08.50,0:17:12.34,Default,Nanami,0,0,0,,Hatsumi-sama, tôi rất mong đợi được phục vụ người.
+Dialogue: 0,0:17:12.34,0:17:13.17,Default,Hatsumi,0,0,0,,Chị cũng vậy nhé.
+Dialogue: 0,0:17:15.76,0:17:19.14,Default,Nanami,0,0,0,,Thưa Chủ Nhân, sắp đến giờ cơm tối rồi.
+Dialogue: 0,0:17:19.14,0:17:20.85,Default,Nanami,0,0,0,,Nếu ngài cung cấp nguyên liệu nấu nướng,
+Dialogue: 0,0:17:20.85,0:17:23.02,Default,Nanami,0,0,0,,tôi có thể chế biến ra vô số món ăn sơn hào hải vị.
+Dialogue: 0,0:17:23.39,0:17:25.69,Default,Nanami,0,0,0,,Thưa phu nhân, người đã dùng bữa tối chưa ạ?
+Dialogue: 0,0:17:25.69,0:17:27.35,Default,Hatsumi,0,0,0,,Chưa ai ăn gì cả.
+Dialogue: 0,0:17:27.35,0:17:29.81,Default,Hatsumi,0,0,0,,Nhưng chuyện đó không cần thiết đâu vì tối nay nhà mình đã đặt sushi mang tới rồi.
+Dialogue: 0,0:17:29.81,0:17:31.23,Default,Nanami,0,0,0,,Tôi đã rõ.
+Dialogue: 0,0:17:31.78,0:17:35.15,Default,Nanami,0,0,0,,Vậy thì trong lúc chờ đợi, tôi muốn thu xếp chỗ ngủ cho mình.
+Dialogue: 0,0:17:35.15,0:17:36.82,Default,Hatsumi,0,0,0,,Nhà mình còn nhiều phòng trống lắm mà.
+Dialogue: 0,0:17:36.82,0:17:41.53,Default,Nanami,0,0,0,,Ôi không, tôi không dám đòi hỏi nơi ở xa hoa lộng lẫy như vậy đâu.
+Dialogue: 0,0:17:41.53,0:17:44.20,Default,Nanami,0,0,0,,Ngài chỉ cần nhét tôi vào trong tủ nệm futon của Chủ Nhân là được rồi ạ.
+Dialogue: 0,0:17:44.20,0:17:45.29,Default,Kousuke,0,0,0,,Vô lý vừa thôi chứ!
+Dialogue: 0,0:17:45.29,0:17:47.25,Default,Hatsumi,0,0,0,,Chị cực kỳ ủng hộ ý tưởng đó đấy.
+Dialogue: 0,0:17:47.25,0:17:49.92,Default,Nanami,0,0,0,,Vậy thì Hatsumi-sama sẽ nằm ở ngăn trên,
+Dialogue: 0,0:17:49.92,0:17:51.59,Default,Nanami,0,0,0,,còn tôi sẽ nằm ở ngăn bên dưới ạ.
+Dialogue: 0,0:17:51.59,0:17:53.51,Default,Kousuke,0,0,0,,Phòng của em làm quái gì có tủ nệm futon nào chứ!
+Dialogue: 0,0:17:53.51,0:17:54.59,Default,Kousuke,0,0,0,,Chỉ có tủ quần áo bình thường thôi!
+Dialogue: 0,0:17:54.92,0:17:58.47,Default,Nanami,0,0,0,,Thế thì Hatsumi-sama sẽ ngủ ở bên trái giường của Chủ Nhân,
+Dialogue: 0,0:17:58.47,0:18:00.55,Default,Nanami,0,0,0,,còn tôi sẽ nằm ở phía bên phải ạ.
+Dialogue: 0,0:18:00.55,0:18:02.35,Default,Hatsumi,0,0,0,,Ừm, nghe tuyệt cú mèo đấy.
+Dialogue: 0,0:18:02.35,0:18:03.77,Default,Kousuke,0,0,0,,Đây là sự đồng thuận đấy à?!
+Dialogue: 0,0:18:03.77,0:18:05.52,Default,Kousuke,0,0,0,,Không, đùa nhau đấy à, dừng lại mau!
+Dialogue: 0,0:18:05.52,0:18:08.48,Default,Nanami,0,0,0,,Thưa Chủ Nhân, xin ngài bình tĩnh, vừa rồi chỉ là một trò đùa thôi ạ.
+Dialogue: 0,0:18:08.48,0:18:10.40,Default,Nanami,0,0,0,,Làm sao mà có chuyện như thế xảy ra được chứ.
+Dialogue: 0,0:18:10.73,0:18:13.44,Default,Kousuke,0,0,0,,Trời đất ơi, thế sao nãy giờ cô lại buông ra mấy lời đó chứ?
+Dialogue: 0,0:18:13.44,0:18:14.11,Default,Hatsumi,0,0,0,,Sao cơ?
+Dialogue: 0,0:18:14.78,0:18:15.94,Default,Hatsumi,0,0,0,,Không phải thật à?
+Dialogue: 0,0:18:15.94,0:18:16.65,Default,Both,0,0,0,,Hả?
+Dialogue: 0,0:18:17.11,0:18:18.53,Default,Ludie,0,0,0,,Kousuke này...
+Dialogue: 0,0:18:18.95,0:18:21.32,Default,Ludie,0,0,0,,Về chuyện mà cô ấy vừa nói ban nãy...
+Dialogue: 0,0:18:21.32,0:18:22.87,Default,Marino,0,0,0,,Mọi người ơi chị về rồi đây!
+Dialogue: 0,0:18:22.87,0:18:25.12,Default,Marino,0,0,0,,Sushi sắp giao tới nơi rồi nhé!
+Dialogue: 0,0:18:25.12,0:18:25.87,Default,Marino,0,0,0,,Ủa?
+Dialogue: 0,0:18:28.29,0:18:29.29,Default,Marino,0,0,0,,Tuyệt quá.
+Dialogue: 0,0:18:30.42,0:18:32.42,Default,Marino,0,0,0,,Thế rốt cuộc chuyện này là thế nào vậy?
+Dialogue: 0,0:18:32.42,0:18:35.92,Default,Kousuke,0,0,0,,Dạ, em vừa chinh phục xong một hầm ngục và tìm thấy cô ấy.
+Dialogue: 0,0:18:36.26,0:18:37.38,Default,Kousuke,0,0,0,,Khế ước cũng đã ký kết hoàn tất rồi,
+Dialogue: 0,0:18:37.38,0:18:40.05,Default,Kousuke,0,0,0,,nên em muốn thuê cô ấy làm hầu gái cho nhà mình ạ.
+Dialogue: 0,0:18:40.34,0:18:41.76,Default,Marino,0,0,0,,Chị hiểu rồi.
+Dialogue: 0,0:18:42.60,0:18:45.27,Default,Marino,0,0,0,,Thế tại sao em lại tự tiện đi làm cái việc nguy hiểm nhường đó hả?
+Dialogue: 0,0:18:45.27,0:18:46.98,Default,Kousuke,0,0,0,,Em không có lời nào để bao biện ạ.
+Dialogue: 0,0:18:48.31,0:18:51.48,Default,Marino,0,0,0,,Còn về Nanami-san...
+Dialogue: 0,0:18:51.48,0:18:53.11,Default,Marino,0,0,0,,Ồ, em là một thiên thần sao?
+Dialogue: 0,0:18:54.86,0:18:56.07,Default,Claris,0,0,0,,Tôi kịch liệt phản đối.
+Dialogue: 0,0:18:57.28,0:18:58.99,Default,Claris,0,0,0,,Nói ra điều này có thể hơi bất lịch sự,
+Dialogue: 0,0:18:58.99,0:19:00.53,Default,Claris,0,0,0,,nhưng chúng ta chẳng biết một chút gốc gác gì về cô ta cả.
+Dialogue: 0,0:19:00.53,0:19:03.03,Default,Claris,0,0,0,,Nhiệm vụ thiêng liêng của em là phải bảo vệ Ludie-sama.
+Dialogue: 0,0:19:03.41,0:19:05.29,Default,Claris,0,0,0,,Nếu lỡ có chuyện gì bất trắc xảy ra thì sẽ không kịp nữa đâu.
+Dialogue: 0,0:19:05.29,0:19:08.00,Default,Marino,0,0,0,,Hừm, chị thấy chuyện này hoàn toàn ổn thỏa mà.
+Dialogue: 0,0:19:08.00,0:19:11.67,Default,Marino,0,0,0,,Chị có thể bảo chứng cho sự an toàn tuyệt đối của khế ước thiên thần.
+Dialogue: 0,0:19:11.67,0:19:13.13,Default,Marino,0,0,0,,Nếu có vấn đề gì phát sinh,
+Dialogue: 0,0:19:13.13,0:19:16.55,Default,Marino,0,0,0,,thì mấu chốt nằm ở chỗ mọi người có tin tưởng Kou-chan, người nắm giữ khế ước hay không thôi.
+Dialogue: 0,0:19:17.21,0:19:19.42,Default,Marino,0,0,0,,Cơ mà chị thấy Kou-chan nhà mình rất đáng tin cậy mà.
+Dialogue: 0,0:19:19.42,0:19:20.93,Default,Nanami,0,0,0,,Đúng như lời người nói,
+Dialogue: 0,0:19:20.93,0:19:23.05,Default,Nanami,0,0,0,,chúng tôi đã hoàn thành khế ước mà không hề xảy ra bất kỳ sự cố nào.
+Dialogue: 0,0:19:23.05,0:19:25.72,Default,Claris,0,0,0,,Nhưng mà... phải rồi.
+Dialogue: 0,0:19:25.72,0:19:27.77,Default,Claris,0,0,0,,Hatsumi-sama, em cảm thấy chuyện này thế nào?
+Dialogue: 0,0:19:27.77,0:19:29.14,Default,Claris,0,0,0,,Cô ta dẫu có ngoan ngoãn nghe lời đi chăng nữa,
+Dialogue: 0,0:19:29.14,0:19:31.56,Default,Claris,0,0,0,,thì rốt cuộc vẫn là một người hoàn toàn xa lạ bước vào căn nhà này.
+Dialogue: 0,0:19:31.56,0:19:33.15,Default,Hatsumi,0,0,0,,Tôi không bận tâm đâu.
+Dialogue: 0,0:19:33.15,0:19:33.90,Default,Claris,0,0,0,,Cái gì cơ?
+Dialogue: 0,0:19:33.90,0:19:35.57,Default,Claris,0,0,0,,L-Ludie-sama?
+Dialogue: 0,0:19:35.57,0:19:36.57,Default,Claris,0,0,0,,Chắc chắn không phải là tiểu thư—
+Dialogue: 0,0:19:36.57,0:19:41.07,Default,Ludie,0,0,0,,T-Tôi cũng tin tưởng Kousuke... ừm, nhất trên đời.
+Dialogue: 0,0:19:41.07,0:19:42.03,Default,Claris,0,0,0,,Hả trời đất ơi?!
+Dialogue: 0,0:19:42.03,0:19:44.07,Default,Marino,0,0,0,,Nào, mọi chuyện đã được giải quyết êm đẹp rồi,
+Dialogue: 0,0:19:44.07,0:19:44.91,Default,Marino,0,0,0,,chúng ta vào ăn cơm thôi nào.
+Dialogue: 0,0:19:45.24,0:19:46.20,Default,Hatsumi,0,0,0,,Vâng ạ.
+Dialogue: 0,0:19:46.95,0:19:48.58,Default,Hatsumi,0,0,0,,Chị có làm cả món tráng miệng nữa đấy.
+Dialogue: 0,0:19:48.91,0:19:50.66,Default,Hatsumi,0,0,0,,Để chúc mừng ngày tựu trường sắp tới.
+Dialogue: 0,0:19:57.25,0:19:59.30,Default,Kousuke,0,0,0,,Kinh khủng khiếp thật chứ...
+Dialogue: 0,0:20:14.94,0:20:16.52,Default,Kousuke(M),0,0,0,,{\i1}Ch-Chị Hai?!
+Dialogue: 0,0:20:24.70,0:20:26.41,Default,Kousuke(M),0,0,0,,{\i1}Ngày mai là lễ khai giảng tựu trường rồi,
+Dialogue: 0,0:20:26.41,0:20:27.62,Default,Kousuke(M),0,0,0,,{\i1}vậy mà mình lại chẳng thể nào chợp mắt nổi.
+Dialogue: 0,0:20:28.12,0:20:30.04,Default,Kousuke(M),0,0,0,,{\i1}Với sự rạo rực hưng phấn không biết xả vào đâu thế này,
+Dialogue: 0,0:20:30.04,0:20:31.96,Default,Kousuke(M),0,0,0,,{\i1}mình biết phải làm sao bây giờ trời?!
+Dialogue: 0,0:20:35.17,0:20:38.67,Default,Kousuke(M),0,0,0,,{\i1}Bạn sẽ hình dung ra điều gì khi nghe thấy cụm từ "Lễ Khai Giảng"?
+Dialogue: 0,0:20:39.13,0:20:41.01,Default,Kousuke(M),0,0,0,,{\i1}Đối với một người Nhật Bản bình thường,
+Dialogue: 0,0:20:41.01,0:20:43.55,Default,Kousuke(M),0,0,0,,{\i1}đó sẽ là hình ảnh những cô cậu học sinh trong bộ đồng phục mới tinh tươm,
+Dialogue: 0,0:20:43.55,0:20:47.26,Default,Kousuke(M),0,0,0,,{\i1}dưới những tán hoa anh đào bung nở rực rỡ như chào đón một chương mới trong cuộc đời.
+Dialogue: 0,0:20:48.26,0:20:50.85,Default,Kousuke(M),0,0,0,,{\i1}Hoa anh đào vốn được hầu hết mọi người yêu mến.
+Dialogue: 0,0:20:50.85,0:20:52.43,Default,Kousuke(M),0,0,0,,{\i1}Trong các tựa game eroge hay game bishojo,
+Dialogue: 0,0:20:52.43,0:20:54.23,Default,Kousuke(M),0,0,0,,{\i1}hoa anh đào cũng luôn là loài hoa biểu tượng được yêu thích nhất.
+Dialogue: 0,0:20:55.02,0:20:58.19,Default,Kousuke(M),0,0,0,,{\i1}Và trong Magical Explorer cũng có sự hiện diện của hoa anh đào.
+Dialogue: 0,0:20:58.19,0:21:00.90,Default,Kousuke(M),0,0,0,,{\i1}Nhân vật chính sẽ rảo bước trên con đường rợp bóng cây hoa anh đào
+Dialogue: 0,0:21:00.90,0:21:04.11,Default,Kousuke(M),0,0,0,,{\i1}để đi từ ký túc xá đến học viện.
+Dialogue: 0,0:21:05.07,0:21:08.07,Default,Kousuke(M),0,0,0,,{\i1}Thế nhưng mình tuyệt đối không phải là nhân vật chính.
+Dialogue: 0,0:21:13.50,0:21:17.33,Default,Kousuke(M),0,0,0,,{\i1}Mình đã lên kế hoạch sẽ đập tan mọi mạch cốt truyện quen thuộc này...
+Dialogue: 0,0:21:18.92,0:21:20.30,Default,Kousuke(M),0,0,0,,{\i1}Thế nhưng bạn biết đấy...
+Dialogue: 0,0:21:20.84,0:21:23.38,Default,Kousuke(M),0,0,0,,{\i1}Có lẽ trên đời này thực sự tồn tại một thứ gọi là số phận.
+Dialogue: 0,0:21:23.38,0:21:26.93,Default,Kousuke(M),0,0,0,,{\i1}Nhưng mà tại sao hai từ "số phận" gắn liền với một thằng đực rựa lại nghe mờ ám thế này nhỉ?
+Dialogue: 0,0:21:28.01,0:21:30.22,Default,Kousuke,0,0,0,,Ôi trời, đóng cửa mất rồi.
+Dialogue: 0,0:21:30.89,0:21:32.68,Default,Kousuke,0,0,0,,Chào đằng ấy, cậu cũng là học sinh mới đúng không?
+Dialogue: 0,0:21:32.68,0:21:34.89,Default,Iori,0,0,0,,Ừ-Ừm, đúng thế.
+Dialogue: 0,0:21:35.18,0:21:37.69,Default,Kousuke,0,0,0,,Như cậu thấy đấy, tôi cũng là lính mới đây.
+Dialogue: 0,0:21:46.32,0:21:50.62,Default,Kousuke(M),0,0,0,,{\i1}Tôi vốn chẳng hào hứng gì với việc nhai lại những câu thoại giống hệt Takioto Kousuke trong game đâu,
+Dialogue: 0,0:21:51.08,0:21:53.49,Default,Kousuke(M),0,0,0,,{\i1}nhưng mà câu thoại đó nghe ngầu lòi sến sẩm phết,
+Dialogue: 0,0:21:53.49,0:21:54.83,Default,Kousuke(M),0,0,0,,{\i1}nên thôi tôi đành châm chước bỏ qua vậy.
+Dialogue: 0,0:21:55.54,0:21:57.29,Default,Kousuke,0,0,0,,Tôi vẫn chưa kịp giới thiệu bản thân nhỉ.
+Dialogue: 0,0:21:57.75,0:21:59.67,Default,Kousuke,0,0,0,,Tên tôi là Takioto Kousuke.
+Dialogue: 0,0:22:00.42,0:22:04.42,Default,Kousuke,0,0,0,,Tôi chính là kẻ sẽ trở thành người mạnh nhất tại Học Viện Ma Pháp Tsukuyomi này!
+Dialogue: 0,0:22:05.09,0:22:09.97,sign_35245_386_Reborn_as_a_Side,TEXT,0,0,0,,{\c&H030200&\3c&HFFFFFF&\blur2}Tập 4: Quyết Tâm
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,{synch}
+Comment: 0,0:00:00.02,0:00:00.02,Default,,0,0,0,,{synch}
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,{synch}
+

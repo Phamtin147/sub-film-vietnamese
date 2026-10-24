@@ -1,0 +1,359 @@
+﻿[Script Info]
+Title: Vietnamese Fansub (VietSub by Amtia(NOFACE))
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+ScaledBorderAndShadow: yes
+Video Aspect Ratio: 0
+Video Zoom: 8
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Segoe UI,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: DefaultItalics,Segoe UI,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: DefaultTop,Segoe UI,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,10,10,18,1
+Style: DefaultItalicsTop,Segoe UI,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,10,10,18,1
+Style: Flashback,Segoe UI,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: FlashbackItalics,Segoe UI,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: FlashbackTop,Segoe UI,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,8,20,20,18,1
+Style: FlashbackItalicsTop,Segoe UI,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,8,10,10,18,1
+Style: Narration,Segoe UI,24,&H00FFFFFF,&H000000FF,&H00000050,&H00000050,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: Signs,Segoe UI,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,30,30,10,1
+Style: Credits,Segoe UI,18,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,30,30,18,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:10.34,0:00:11.73,Default,ELMA,0,0,0,,Cái quái gì thế này hả?!
+Dialogue: 0,0:00:12.17,0:00:15.10,Default,OFFICER,0,0,0,,Đó là khoản bồi thường thiệt hại thỏa đáng
+Dialogue: 0,0:00:15.10,0:00:18.70,Default,OFFICER,0,0,0,,mà cô đã gây ra cho lực lượng hạm đội hệ sao trong trận chiến vừa rồi.
+Dialogue: 0,0:00:18.96,0:00:23.03,Default,ELMA,0,0,0,,Tạm thời không bàn tới con số đó đi! Nhưng cái thời hạn thanh toán chết tiệt này là sao hả?!
+Dialogue: 0,0:00:23.39,0:00:29.26,Default,OFFICER,0,0,0,,Một lính đánh thuê hạng Bạc hàng đầu như cô thì kiếm số tiền đó đâu có gì khó khăn.
+Dialogue: 0,0:00:29.26,0:00:30.75,Default,ELMA,0,0,0,,Các người bị ngốc à?!
+Dialogue: 0,0:00:30.75,0:00:33.72,Default,ELMA,0,0,0,,Ngay cả lính đánh thuê hạng Bạch Kim còn chưa chắc kiếm nổi số tiền đó trong thời gian ngắn như vậy đâu!
+Dialogue: 0,0:00:33.72,0:00:37.25,Default,ELMA,0,0,0,,Phi thuyền của tôi thì đang hỏng hóc tơi bời, các người bắt tôi đi làm nhiệm vụ kiểu gì hả?!
+Dialogue: 0,0:00:37.25,0:00:39.48,Default,OFFICER,0,0,0,,Như cô đã biết rất rõ rồi đấy,
+Dialogue: 0,0:00:39.78,0:00:45.05,Default,OFFICER,0,0,0,,nếu không thanh toán đúng hạn, cô sẽ bị xử lý nghiêm khắc theo luật pháp của Đế Quốc.
+Dialogue: 0,0:00:45.05,0:00:48.45,Default,OFFICER,0,0,0,,Nhớ lấy, tuyệt đối đừng để quá hạn thanh toán đấy.
+Dialogue: 0,0:00:51.92,0:00:54.66,Default,ELMA,0,0,0,,Được thôi. Tôi sẽ trả đủ đúng cái thời hạn chết tiệt của các người.
+Dialogue: 0,0:00:54.66,0:00:56.79,Default,ELMA,0,0,0,,Đừng có mà coi thường lính đánh thuê bọn này.
+Dialogue: 0,0:01:04.94,0:01:07.73,Default,ELMA,0,0,0,,Mẹ kiếp, tức thật chứ.
+Dialogue: 1,0:02:37.76,0:02:39.76,Signs,TITLE,0,0,0,,{\an7\fad(1359,308)\bord2\fnArial Black\c&HFFFF91&\3c&HF8C034&\blur1\pos(200,262)\frz14.71\4c&HFFFC65&\shad2}Thức Tỉnh Với Trang Bị Tối Thượng Và Chiến Hạm Không Gian!
+Dialogue: 0,0:02:39.39,0:02:42.01,Signs,TITLE,0,0,0,,{\an7\fad(396,1)\bord2\fnArial Black\c&HF6FAFE&\3c&HA46B01&\frz14.71\pos(200,262)\4c&H00DFE2&\shad2}Thức Tỉnh Với {\c&H00ECF6&\3c&H0D0812&}Trang Bị Tối Thượng Và Chiến Hạm Không Gian:\N{\c&HFEFDFB&\3c&HAFA7A8&}Tôi Quyết Định Làm Lính Đánh Thuê Tự Do {\c&HFFFDFB&\3c&HC77F00&}Để Tậu Nhà Riêng!
+Dialogue: 0,0:02:47.85,0:02:51.81,Signs,EPTITLE,0,0,0,,{\fad(736,888)\fnVerdana\c&HE8EBEB&\shad2\b0\blur3\t(27,736,\blur0.3)\t(3072,3947,\blur3)\pos(552.214,262.143)}Elma
+Dialogue: 0,0:02:47.95,0:02:51.18,DefaultItalics,HIRO/ID,0,0,0,,Một ngày nọ, mình tỉnh dậy và nhận ra bản thân đang ở trong một thế giới y hệt tựa game {\i1}Stella Online{\i0}.
+Dialogue: 0,0:02:51.18,0:02:53.33,DefaultItalics,HIRO/ID,0,0,0,,Sau đó, mình đã ra tay giải cứu một cô gái xinh đẹp nhưng số phận đầy bất hạnh,
+Dialogue: 0,0:02:53.33,0:02:56.91,DefaultItalics,HIRO/ID,0,0,0,,rồi đích thân lái chiến hạm của mình quét sạch lũ hải tặc không gian trong trận chiến.
+Dialogue: 0,0:02:57.97,0:03:02.10,DefaultItalics,HIRO/ID,0,0,0,,Mỗi sáng thức giấc, mình vẫn thường tự hỏi liệu tất cả những chuyện này có phải chỉ là một giấc mơ hay không.
+Dialogue: 0,0:03:06.54,0:03:08.49,Default,MIMI,0,0,0,,Hiro-sama...
+Dialogue: 0,0:03:08.49,0:03:10.82,DefaultItalics,HIRO/ID,0,0,0,,Nhưng đây hoàn toàn không phải là mơ.
+Dialogue: 0,0:03:17.66,0:03:20.69,Default,MIMI,0,0,0,,Thịt ngon quá, ngon ơi là ngon...
+Dialogue: 0,0:03:21.14,0:03:24.31,DefaultItalics,HIRO/ID,0,0,0,,Tốt hơn hết là nên chuẩn bị tinh thần cho một ngày mới thôi.
+Dialogue: 0,0:03:25.76,0:03:27.36,Default,HIRO,0,0,0,,Này, Mimi.
+Dialogue: 0,0:03:29.50,0:03:30.77,Default,HIRO,0,0,0,,Chào buổi sáng nhé.
+Dialogue: 0,0:03:31.20,0:03:32.97,Default,HIRO,0,0,0,,Chúng ta đi ăn sáng chứ?
+Dialogue: 0,0:03:42.11,0:03:45.48,Default,MIMI,0,0,0,,X-Xấu hổ chết mất, anh lại nhìn thấy bộ dạng đó của em rồi.
+Dialogue: 0,0:03:45.71,0:03:48.81,Default,HIRO,0,0,0,,Dù sao thì, về kế hoạch hôm nay...
+Dialogue: 0,0:03:48.81,0:03:50.49,Default,HIRO,0,0,0,,Em đã tìm hiểu những thứ mà hai chúng ta thảo luận hôm trước chưa?
+Dialogue: 0,0:03:50.49,0:03:53.78,Default,MIMI,0,0,0,,D-Dạ rồi ạ. Anh xem qua danh sách này đi.
+Dialogue: 0,0:03:54.15,0:03:59.22,Default,MIMI,0,0,0,,Em đã chọn ra tất cả những món đồ có thể giúp cải thiện môi trường sinh hoạt trên tàu.
+Dialogue: 0,0:04:01.45,0:04:03.01,Default,HIRO,0,0,0,,Trông ổn áp đấy chứ.
+Dialogue: 0,0:04:03.01,0:04:08.65,Default,HIRO,0,0,0,,Đồ ăn ngon miệng, phòng ốc sạch sẽ và giường ngủ êm ái đều rất tốt cho sức khỏe tinh thần.
+Dialogue: 0,0:04:09.01,0:04:12.61,Default,HIRO,0,0,0,,Đã là lính đánh thuê thì điều kiện sinh hoạt lại càng phải được chăm chút ở mức tốt nhất.
+Dialogue: 0,0:04:12.84,0:04:14.15,Default,MIMI,0,0,0,,Dạ đúng rồi ạ.
+Dialogue: 0,0:04:14.15,0:04:19.08,Default,MIMI,0,0,0,,Nhắc mới nhớ, anh từng bảo mình bị mất trí nhớ
+Dialogue: 0,0:04:19.08,0:04:23.56,Default,MIMI,0,0,0,,do sự cố động cơ siêu thanh (hyperdrive) đúng không ạ?
+Dialogue: 0,0:04:24.28,0:04:25.15,Default,HIRO,0,0,0,,Hả?
+Dialogue: 0,0:04:25.15,0:04:25.87,Default,MIMI,0,0,0,,Sao thế anh?
+Dialogue: 0,0:04:26.17,0:04:28.14,Default,HIRO,0,0,0,,À, ừ, đúng rồi đấy.
+Dialogue: 0,0:04:28.14,0:04:31.57,Default,HIRO,0,0,0,,Chuyện đó chẳng ảnh hưởng gì mấy nên anh quên béng đi mất.
+Dialogue: 0,0:04:31.92,0:04:36.04,Default,MIMI,0,0,0,,Em vẫn nghĩ anh nên đi kiểm tra y tế tổng quát một phen cho yên tâm.
+Dialogue: 0,0:04:36.04,0:04:38.75,Default,HIRO,0,0,0,,Thực sự không nghiêm trọng đến mức đó đâu mà.
+Dialogue: 0,0:04:38.96,0:04:43.21,Default,MIMI,0,0,0,,Nhưng nếu lỡ có chuyện gì bất trắc xảy ra thì sẽ muộn mất đấy ạ.
+Dialogue: 0,0:04:43.60,0:04:48.07,DefaultItalics,HIRO/ID,0,0,0,,Phải rồi. Dù không phải vì bệnh tật, nhưng bố mẹ của Mimi...
+Dialogue: 0,0:04:48.07,0:04:53.19,DefaultItalics,HIRO/ID,0,0,0,,Nếu mình có mệnh hệ gì, Mimi sẽ lại phải bơ vơ đầu đường xó chợ một lần nữa.
+Dialogue: 0,0:04:55.01,0:05:00.37,Default,MIMI,0,0,0,,X-Xin lỗi anh. Anh không hỏi mà em lại tự tiện...
+Dialogue: 0,0:05:00.37,0:05:01.84,Default,MIMI,0,0,0,,Em xin lỗi anh nhiều lắm.
+Dialogue: 0,0:05:01.84,0:05:02.83,Default,HIRO,0,0,0,,Không sao đâu mà.
+Dialogue: 0,0:05:02.83,0:05:07.31,Default,HIRO,0,0,0,,Em là một thuyền viên rất đáng tin cậy khi biết lo chu toàn những việc mà thuyền trưởng bỏ sót đấy.
+Dialogue: 0,0:05:08.12,0:05:10.95,Default,HIRO,0,0,0,,Có khi em lại có tố chất trở thành một toán tử hàng đầu ấy chứ.
+Dialogue: 0,0:05:12.61,0:05:15.56,Default,MIMI,0,0,0,,Hiro-sama... Em cảm ơn anh nhiều lắm.
+Dialogue: 0,0:05:16.31,0:05:17.95,Default,THUG,0,0,0,,Khoan, khoan, khoan đã nào!
+Dialogue: 0,0:05:17.95,0:05:22.14,Default,THUG,0,0,0,,Mày dắt gái tới tận đây chỉ để chọc tức tao đấy à?!
+Dialogue: 0,0:05:25.88,0:05:27.01,Default,HIRO,0,0,0,,Đổi người khác phục vụ giùm tôi đi.
+Dialogue: 0,0:05:27.36,0:05:28.76,Default,THUG,0,0,0,,Đổi cái gì cơ—
+Dialogue: 0,0:05:34.48,0:05:36.19,Default,GUILD RECEPTIONIST,0,0,0,,Để tôi tiếp quản phục vụ cho anh ấy.
+Dialogue: 0,0:05:36.94,0:05:40.77,Default,GUILD RECEPTIONIST,0,0,0,,Anh tới đây để nhận tiền thù lao và tiền thưởng nhiệm vụ đúng không?
+Dialogue: 0,0:05:41.48,0:05:44.31,Default,GUILD RECEPTIONIST,0,0,0,,Tổng cộng, anh đã kiếm được 840.000 ener.
+Dialogue: 0,0:05:44.31,0:05:46.06,Default,GUILD RECEPTIONIST,0,0,0,,Anh đã hoàn thành công việc rất xuất sắc đấy.
+Dialogue: 0,0:05:46.93,0:05:50.37,Default,MIMI,0,0,0,,Tận 840.000 ener lận sao...
+Dialogue: 0,0:05:50.82,0:05:55.84,Default,HIRO,0,0,0,,Đáng lẽ chúng ta đã kiếm được nhiều hơn nếu đối thủ mạnh hơn một chút.
+Dialogue: 0,0:05:56.10,0:05:58.79,Default,GUILD RECEPTIONIST,0,0,0,,Đúng vậy, với bản lĩnh của anh,
+Dialogue: 0,0:05:58.79,0:06:03.56,Default,GUILD RECEPTIONIST,0,0,0,,anh chắc chắn sẽ kiếm được nhiều tiền hơn ở những hệ sao nguy hiểm hơn.
+Dialogue: 0,0:06:03.97,0:06:09.54,Default,GUILD RECEPTIONIST,0,0,0,,Dù vậy, chúng tôi rất hoan nghênh những lính đánh thuê tài ba như anh đóng quân tại đây.
+Dialogue: 0,0:06:11.52,0:06:16.01,Default,HIRO,0,0,0,,Nhân tiện thì, thông thường một thuyền viên sẽ được trả bao nhiêu tiền thù lao vậy?
+Dialogue: 0,0:06:16.01,0:06:22.06,Default,GUILD RECEPTIONIST,0,0,0,,À, thành viên mới chưa đầu tư gì vào phi thuyền
+Dialogue: 0,0:06:22.06,0:06:27.48,Default,GUILD RECEPTIONIST,0,0,0,,thường sẽ nhận từ 0,1% đến 0,5% tổng số tiền thù lao.
+Dialogue: 0,0:06:27.48,0:06:31.45,Default,HIRO,0,0,0,,0,5% thì mới chỉ có 4.200 ener thôi à.
+Dialogue: 0,0:06:31.45,0:06:33.45,Default,HIRO,0,0,0,,Có vẻ hơi bèo bọt so với việc phải mạo hiểm cả tính mạng nhỉ.
+Dialogue: 0,0:06:33.91,0:06:39.42,Default,GUILD RECEPTIONIST,0,0,0,,Cô ấy vẫn còn là người mới mà. Lương sẽ tự động tăng theo trình độ kỹ năng thôi.
+Dialogue: 0,0:06:39.42,0:06:41.81,Default,GUILD RECEPTIONIST,0,0,0,,Cơ mà, 4.200 ener...
+Dialogue: 0,0:06:42.28,0:06:44.79,Default,GUILD RECEPTIONIST,0,0,0,,Con số đó còn cao hơn cả mức lương tháng của tôi nữa đấy.
+Dialogue: 0,0:06:45.20,0:06:47.83,Default,GUILD RECEPTIONIST,0,0,0,,Liệu anh có đang muốn tuyển thêm thành viên nào nữa không?
+Dialogue: 0,0:06:48.12,0:06:49.79,Default,HIRO,0,0,0,,Tôi có đủ người rồi.
+Dialogue: 0,0:06:50.08,0:06:51.75,Default,GUILD RECEPTIONIST,0,0,0,,Tiếc thật đấy.
+Dialogue: 0,0:06:52.19,0:06:55.11,Default,MIMI,0,0,0,,Em không dám nhận nhiều tiền thế này đâu ạ.
+Dialogue: 0,0:06:55.11,0:06:56.05,Default,HIRO,0,0,0,,Em bắt buộc phải nhận đấy.
+Dialogue: 0,0:06:56.05,0:06:56.98,Default,MIMI,0,0,0,,Sao cơ ạ?
+Dialogue: 0,0:06:56.98,0:07:00.60,Default,HIRO,0,0,0,,Công sức bỏ ra thì phải được đền đáp xứng đáng. Em cứ việc cầm lấy đi.
+Dialogue: 0,0:07:01.03,0:07:03.85,Default,HIRO,0,0,0,,Tiền bạc thì chẳng bao giờ là thừa cả đâu,
+Dialogue: 0,0:07:03.85,0:07:06.56,Default,HIRO,0,0,0,,nhất là với lính đánh thuê, những người phải đổ mồ hôi xương máu cho từng đồng ener.
+Dialogue: 0,0:07:06.80,0:07:09.29,Default,MIMI,0,0,0,,Hiro-sama... Dạ vâng ạ.
+Dialogue: 0,0:07:09.29,0:07:09.77,Default,HIRO,0,0,0,,Ngoan lắm.
+Dialogue: 0,0:07:10.52,0:07:13.76,Default,HIRO,0,0,0,,Nhân tiện, đã có nữ lính đánh thuê nào tên Elma ghé qua đây chưa?
+Dialogue: 0,0:07:13.76,0:07:17.04,Default,HIRO,0,0,0,,Phi thuyền của cô ấy bị hư hại nặng nề trong chiến dịch vừa rồi.
+Dialogue: 0,0:07:17.43,0:07:19.91,Default,HIRO,0,0,0,,Mấy hôm nay tôi không tài nào liên lạc được với cô ấy cả.
+Dialogue: 0,0:07:19.91,0:07:23.26,Default,GUILD RECEPTIONIST,0,0,0,,À, thực ra thì...
+Dialogue: 0,0:07:25.96,0:07:27.46,Default,MIMI,0,0,0,,Chị Elma...
+Dialogue: 0,0:07:28.03,0:07:32.81,Default,GUILD RECEPTIONIST,0,0,0,,Cô ấy đang bận rộn xoay sở tiền đền bù thiệt hại cho lực lượng hạm đội hệ sao,
+Dialogue: 0,0:07:33.36,0:07:34.80,Default,GUILD RECEPTIONIST,0,0,0,,nhưng có vẻ như cô ấy đang gặp bế tắc lớn.
+Dialogue: 0,0:07:34.80,0:07:38.38,Default,MIMI,0,0,0,,Chuyện gì sẽ xảy ra với chị Elma nếu không trả được tiền ạ?
+Dialogue: 0,0:07:38.72,0:07:42.71,Default,GUILD RECEPTIONIST,0,0,0,,Cô ấy sẽ bị tống tới trạm nhà tù không gian để lao động khổ sai.
+Dialogue: 0,0:07:42.71,0:07:46.34,Default,GUILD RECEPTIONIST,0,0,0,,Tuy nhiên, số lượng phạm nhân ở đó phần lớn áp đảo là đàn ông,
+Dialogue: 0,0:07:46.34,0:07:48.12,Default,GUILD RECEPTIONIST,0,0,0,,nên nữ tù nhân thì, anh hiểu rồi đấy...
+Dialogue: 0,0:07:48.81,0:07:53.47,Default,HIRO,0,0,0,,Tính tình của cô ấy tuy hơi ba chấm, nhưng ngoại hình thì quả thực thuộc hàng tuyệt phẩm.
+Dialogue: 0,0:07:53.47,0:07:54.88,Default,MIMI,0,0,0,,Ôi trời ơi...
+Dialogue: 0,0:07:54.88,0:08:00.40,Default,HIRO,0,0,0,,Nếu Elma có ghé qua, cô làm ơn nhắn lại với cô ấy rằng chúng tôi rất sẵn lòng nói chuyện giúp đỡ nhé?
+Dialogue: 0,0:08:00.74,0:08:02.66,Default,GUILD RECEPTIONIST,0,0,0,,Tôi hiểu rồi.
+Dialogue: 0,0:08:02.91,0:08:04.48,Default,MIMI,0,0,0,,Hiro-sama...
+Dialogue: 0,0:08:04.48,0:08:06.81,Default,HIRO,0,0,0,,Thôi thì xem như là duyên phận vậy.
+Dialogue: 0,0:08:06.81,0:08:09.38,Default,HIRO,0,0,0,,Còn quyết định thế nào thì hoàn toàn phụ thuộc vào cô ấy.
+Dialogue: 0,0:08:09.73,0:08:12.82,Default,HIRO,0,0,0,,Trước mắt, dẫn anh đi tham quan một vòng đi nào, cô toán tử.
+Dialogue: 0,0:08:13.26,0:08:15.83,Default,HIRO,0,0,0,,Anh vẫn chưa quen thuộc lắm với trạm định cư này.
+Dialogue: 0,0:08:15.83,0:08:18.80,Default,MIMI,0,0,0,,Dạ vâng! Cứ để đó cho em lo ạ.
+Dialogue: 0,0:08:18.80,0:08:23.88,Default,DEALER,0,0,0,,Được trang bị trí tuệ nhân tạo AI ẩm thực tự tiến hóa dựa trên dòng sản phẩm tiền nhiệm,
+Dialogue: 0,0:08:23.88,0:08:26.89,Default,DEALER,0,0,0,,em máy này bảo đảm sẽ liên tục cung cấp những bữa ăn thượng hạng nhất.
+Dialogue: 0,0:08:26.89,0:08:32.36,Default,DEALER,0,0,0,,Chúng tôi vô cùng tự hào giới thiệu sản phẩm mới nhất: Đầu Bếp Thép V (Iron Chef V)!
+Dialogue: 0,0:08:32.89,0:08:38.27,Default,HIRO,0,0,0,,Tôi thích đồ ăn ngon thật, nhưng lính đánh thuê với những bữa tiệc xa hoa cầu kỳ nghe chừng chẳng hợp nhau lắm.
+Dialogue: 0,0:08:38.27,0:08:40.62,Default,DEALER,0,0,0,,Nếu ngài là lính đánh thuê thì lại {\i1}càng nhất định{\i0} phải tậu nó!
+Dialogue: 0,0:08:40.62,0:08:45.18,Default,DEALER,0,0,0,,Nhờ vào lớp vỏ bền bỉ như boongke thép, tỷ lệ hỏng hóc của nó chỉ vỏn vẹn 0,0004%
+Dialogue: 0,0:08:45.18,0:08:48.20,Default,DEALER,0,0,0,,ngay cả trong những hoàn cảnh khắc nghiệt tột cùng nhất.
+Dialogue: 0,0:08:48.52,0:08:55.15,Default,DEALER,0,0,0,,Thêm vào đó, hệ thống vi bọ nanomachines giúp nó gần như không cần phải bảo trì định kỳ.
+Dialogue: 0,0:08:55.15,0:08:57.80,Default,HIRO,0,0,0,,Hội tụ đầy đủ mọi thứ mà một lữ khách không gian hằng ao ước nhỉ?
+Dialogue: 0,0:08:57.80,0:09:01.26,Default,DEALER,0,0,0,,Để tôi làm mẫu thử cho ngài xem nhé.
+Dialogue: 0,0:09:01.26,0:09:07.23,Default,DEALER,0,0,0,,Đây là thanh nén dinh dưỡng tiêu chuẩn thông thường, nhưng khi ngài nạp nó vào Đầu Bếp Thép V...
+Dialogue: 0,0:09:10.60,0:09:12.82,Default,HIRO,0,0,0,,Ngon tuyệt cú mèo!
+Dialogue: 0,0:09:13.07,0:09:14.77,Default,DEALER,0,0,0,,Ngài thấy thế nào ạ?
+Dialogue: 0,0:09:17.82,0:09:18.94,Default,HIRO,0,0,0,,Chốt đơn luôn!
+Dialogue: 0,0:09:20.26,0:09:23.59,Default,HIRO,0,0,0,,Không biết có tìm được phi vụ nào ngon ăn không đây.
+Dialogue: 0,0:09:23.59,0:09:24.76,Default,MIMI,0,0,0,,Em đã chuẩn bị sẵn sàng để cố gắng hết sức rồi ạ.
+Dialogue: 0,0:09:24.76,0:09:27.95,Default,MIMI,0,0,0,,Suốt tuần qua em đã nạp đầy ắp năng lượng rồi.
+Dialogue: 0,0:09:28.24,0:09:30.10,Default,HIRO,0,0,0,,Nghe em nói vậy anh vui lắm.
+Dialogue: 0,0:09:46.01,0:09:48.19,DefaultItalics,HIRO/ID,0,0,0,,Trông cô ấy tàn tạ thê thảm thật đấy.
+Dialogue: 0,0:09:51.20,0:09:53.43,Default,ELMA,0,0,0,,Cậu tới đây để cười nhạo vào mặt tôi đấy à?
+Dialogue: 0,0:09:53.43,0:09:55.78,Default,HIRO,0,0,0,,Không, thật ra là không phải.
+Dialogue: 0,0:09:55.78,0:09:56.90,Default,MIMI,0,0,0,,Chị Elma...
+Dialogue: 0,0:09:58.03,0:10:01.99,Default,ELMA,0,0,0,,Tình thế đảo chiều nhanh thật đấy nhỉ?
+Dialogue: 0,0:10:06.83,0:10:07.79,Default,HIRO,0,0,0,,Tình hình của cô hiện giờ thế nào rồi?
+Dialogue: 0,0:10:08.19,0:10:11.44,Default,ELMA,0,0,0,,Ngay cả khi tôi vét cạn từng đồng tiết kiệm
+Dialogue: 0,0:10:11.44,0:10:15.77,Default,ELMA,0,0,0,,và bán sạch mọi thứ trên phi thuyền đi chăng nữa, tôi vẫn không đủ tiền trả nợ bồi thường.
+Dialogue: 0,0:10:16.06,0:10:17.08,Default,HIRO,0,0,0,,Cô còn thiếu bao nhiêu?
+Dialogue: 0,0:10:17.52,0:10:18.94,Default,ELMA,0,0,0,,Thiếu tận ba triệu ener nữa.
+Dialogue: 0,0:10:18.94,0:10:19.98,Default,MIMI,0,0,0,,Ba... ba triệu lận sao...
+Dialogue: 0,0:10:20.36,0:10:21.50,Default,HIRO,0,0,0,,Hạn chót là khi nào?
+Dialogue: 0,0:10:23.26,0:10:26.85,Default,ELMA,0,0,0,,Hôm nay, chỉ còn khoảng hai tiếng nữa thôi.
+Dialogue: 0,0:10:27.73,0:10:32.97,Default,ELMA,0,0,0,,Nếu không trả được, tôi sẽ bị cưỡng chế đi lao động khổ sai ở nhà tù trạm Tarmein III.
+Dialogue: 0,0:10:33.91,0:10:37.89,Default,ELMA,0,0,0,,Nơi đó nhung nhúc toàn lũ cướp biển không gian bị bắt giam.
+Dialogue: 0,0:10:37.89,0:10:40.95,Default,ELMA,0,0,0,,Nếu tôi bị tống vào đó với tư cách là một lính đánh thuê, lại còn là phụ nữ nữa thì...
+Dialogue: 0,0:10:42.42,0:10:47.58,Default,ELMA,0,0,0,,Đã dấn thân làm lính đánh thuê, tôi luôn sẵn sàng tinh thần bỏ mạng ngoài vũ trụ bao la, nhưng cái kết thế này...
+Dialogue: 0,0:10:47.92,0:10:49.41,Default,ELMA,0,0,0,,Thế này thì thực sự...
+Dialogue: 0,0:10:51.33,0:10:52.73,Default,MIMI,0,0,0,,Chị Elma...
+Dialogue: 0,0:10:59.69,0:11:03.14,DefaultItalics,HIRO/ID,0,0,0,,Tổng tài sản hiện tại của mình là 3,3 triệu ener.
+Dialogue: 0,0:11:03.14,0:11:05.76,DefaultItalics,HIRO/ID,0,0,0,,Đó là một số tiền khổng lồ, nhưng về lý thuyết thì mình hoàn toàn có thể gánh được.
+Dialogue: 0,0:11:05.76,0:11:09.22,DefaultItalics,HIRO/ID,0,0,0,,Kiếm lại thì cũng kiếm được thôi, cơ mà...
+Dialogue: 0,0:11:09.47,0:11:12.67,Flashback,ELMA,0,0,0,,Kẻ mạnh thì nuốt chửng kẻ yếu mà.
+Dialogue: 0,0:11:12.67,0:11:17.29,DefaultItalics,HIRO/ID,0,0,0,,Cái cô nàng elf thất bại này không phải kiểu người chịu nhận của bố thí không công.
+Dialogue: 0,0:11:17.29,0:11:19.35,DefaultItalics,HIRO/ID,0,0,0,,Nếu cô ấy có thứ gì đó để trao đổi lại thì...
+Dialogue: 0,0:11:19.65,0:11:20.36,DefaultItalics,HIRO/ID,0,0,0,,Nghĩ ra rồi.
+Dialogue: 0,0:11:21.27,0:11:22.44,Default,HIRO,0,0,0,,Elma này.
+Dialogue: 0,0:11:22.44,0:11:23.58,Default,ELMA,0,0,0,,Gì thế?
+Dialogue: 0,0:11:23.97,0:11:26.54,Default,HIRO,0,0,0,,Gia nhập phi hành đoàn của tôi đi.
+Dialogue: 0,0:11:27.73,0:11:30.18,Default,HIRO,0,0,0,,Tôi sẽ thanh toán toàn bộ khoản tiền bồi thường đó cho cô, đổi lại...
+Dialogue: 0,0:11:30.18,0:11:34.51,Default,HIRO,0,0,0,,cô phải dạy Mimi trở thành một lính đánh thuê thực thụ và làm trợ thủ đắc lực hỗ trợ cho tôi.
+Dialogue: 0,0:11:34.77,0:11:35.96,Default,MIMI,0,0,0,,Hiro-sama!
+Dialogue: 0,0:11:35.96,0:11:37.46,Default,ELMA,0,0,0,,K-Khoan đã nào.
+Dialogue: 0,0:11:37.91,0:11:39.07,Default,ELMA,0,0,0,,Cậu nói nghiêm túc đấy chứ?
+Dialogue: 0,0:11:39.07,0:11:40.69,Default,HIRO,0,0,0,,Tôi nghiêm túc một trăm phần trăm đấy.
+Dialogue: 0,0:11:40.69,0:11:44.69,Default,HIRO,0,0,0,,Quyết định ngay đi. Không còn nhiều thời gian đâu.
+Dialogue: 0,0:11:44.96,0:11:46.64,Default,ELMA,0,0,0,,T-Tại sao chứ?
+Dialogue: 0,0:11:47.14,0:11:49.76,Default,HIRO,0,0,0,,Vì trước đây cô từng cứu giúp tôi.
+Dialogue: 0,0:11:49.76,0:11:54.34,Default,HIRO,0,0,0,,Mimi sẽ rất đau lòng nếu có chuyện gì tồi tệ xảy ra với cô, và điều đó sẽ ám ảnh những giấc mơ của tôi mất.
+Dialogue: 0,0:11:54.76,0:11:58.11,Default,HIRO,0,0,0,,Và quan trọng nhất là, tôi muốn có {\i1}cô{\i0}.
+Dialogue: 0,0:11:58.63,0:12:00.32,Default,ELMA,0,0,0,,C-Cậu muốn có tôi á?!
+Dialogue: 0,0:12:03.22,0:12:07.79,Default,ELMA,0,0,0,,T-Thật sao? Tôi không ngờ là cậu lại nhìn tôi bằng con mắt đó đấy...
+Dialogue: 0,0:12:07.79,0:12:08.90,Default,HIRO,0,0,0,,Hả? Ờ, phải.
+Dialogue: 0,0:12:09.41,0:12:12.34,DefaultItalics,HIRO/ID,0,0,0,,Việc cô ấy có thể điều khiển được cái cỗ máy quái đản đó quả thực rất đáng nể,
+Dialogue: 0,0:12:12.34,0:12:14.08,DefaultItalics,HIRO/ID,0,0,0,,lại còn là một lính đánh thuê dạn dày kinh nghiệm nữa chứ.
+Dialogue: 0,0:12:14.08,0:12:18.24,DefaultItalics,HIRO/ID,0,0,0,,Lính mới tò te như hai đứa mình rất cần một người như cô ấy.
+Dialogue: 0,0:12:19.04,0:12:22.85,Default,ELMA,0,0,0,,T-Tôi hiểu rồi. Nhưng cậu đã có Mimi bên cạnh rồi mà.
+Dialogue: 0,0:12:23.14,0:12:25.86,Default,HIRO,0,0,0,,Hả? Đúng vậy, chính vì thế nên bọn tôi mới cần cô.
+Dialogue: 0,0:12:27.43,0:12:28.80,Default,ELMA,0,0,0,,Cả hai chúng tôi... cùng một lúc sao?!
+Dialogue: 0,0:12:29.39,0:12:30.67,Default,HIRO,0,0,0,,Thế tóm lại là thế nào?
+Dialogue: 0,0:12:31.39,0:12:33.51,Default,HIRO,0,0,0,,Cô đồng ý hay từ chối?
+Dialogue: 0,0:12:35.68,0:12:38.33,Default,ELMA,0,0,0,,Một người là không đủ thỏa mãn cậu hả...
+Dialogue: 0,0:12:43.77,0:12:45.41,Default,ELMA,0,0,0,,T-Tôi đồng ý.
+Dialogue: 0,0:12:45.69,0:12:48.18,Default,HIRO,0,0,0,,Tốt lắm. Chào mừng cô lên tàu.
+Dialogue: 0,0:12:45.65,0:12:49.03,Signs,TITLE,0,0,0,,{\fad(901,1)\fs12\fscx88\an7\bord1.5\fnArial Black\c&HF6FAFE&\3c&HA46B01&\frz14.71\4c&H1FEEFA&\shad1.5\pos(93,274)}Thức Tỉnh Với {\c&H00ECF6&\3c&H0D0812&}Trang Bị Tối Thượng Và Chiến Hạm Không Gian:\N{\c&HFEFDFB&\3c&HAFA7A8&}Tôi Quyết Định Làm Lính Đánh Thuê Tự Do {\c&HFFFDFB&\3c&HC77F00&}Để Tậu Nhà Riêng!
+Dialogue: 0,0:12:49.03,0:12:54.04,Signs,TITLE,0,0,0,,{\fs12\fscx88\an7\bord1.5\fnArial Black\c&HF6FAFE&\3c&HA46B01&\frz14.71\4c&H1FEEFA&\shad1.5\pos(452,270)}Thức Tỉnh Với {\c&H00ECF6&\3c&H0D0812&}Trang Bị Tối Thượng Và Chiến Hạm Không Gian:\N{\c&HFEFDFB&\3c&HAFA7A8&}Tôi Quyết Định Làm Lính Đánh Thuê Tự Do {\c&HFFFDFB&\3c&HC77F00&}Để Tậu Nhà Riêng!
+Dialogue: 0,0:12:54.27,0:12:58.54,Default,EMMA,0,0,0,,Anh ta đạt tới cấp Vàng sao? Hay thậm chí là Bạch Kim?
+Dialogue: 0,0:12:58.54,0:13:00.66,Default,EMMA,0,0,0,,Anh ta chưa bao giờ khiến tôi ngừng kinh ngạc cả.
+Dialogue: 0,0:13:01.62,0:13:03.55,Default,SERENA,0,0,0,,Thuyền trưởng Hiro...
+Dialogue: 0,0:13:03.55,0:13:06.44,Default,SERENA,0,0,0,,Không ngờ một lính đánh thuê xuất chúng như vậy lại hoàn toàn vô danh trước đây.
+Dialogue: 0,0:13:06.90,0:13:12.46,Default,SERENA,0,0,0,,Nhân tiện thì, chuyện gì đã xảy ra với nữ lính đánh thuê từng đâm sầm vào chiến hạm của tôi thế?
+Dialogue: 0,0:13:12.95,0:13:16.21,Default,EMMA,0,0,0,,Cô ấy đã thanh toán đầy đủ toàn bộ khoản tiền bồi thường thiệt hại rồi ạ.
+Dialogue: 0,0:13:16.21,0:13:19.72,Default,SERENA,0,0,0,,Cái gì? Chỉ trong vòng vỏn vẹn một tuần thôi sao?
+Dialogue: 0,0:13:19.72,0:13:22.37,Default,EMMA,0,0,0,,Hạn chót thanh toán của cô ấy được ấn định là ngày hôm nay.
+Dialogue: 0,0:13:22.37,0:13:23.20,Default,SERENA,0,0,0,,Khoan đã.
+Dialogue: 0,0:13:23.20,0:13:26.62,Default,SERENA,0,0,0,,Chẳng phải tôi đã nói là sẽ không truy cứu trách nhiệm hình sự sao?
+Dialogue: 0,0:13:26.99,0:13:32.15,Default,SERENA,0,0,0,,Tôi không thể miễn cho cô ấy khoản bồi thường thiệt hại, nhưng tôi đâu hề đặt ra kỳ hạn gấp rút như vậy.
+Dialogue: 0,0:13:32.15,0:13:36.26,Default,EMMA,0,0,0,,Có vẻ như Đại úy Bariton bên phòng tài chính kế toán đã tự ý hành động.
+Dialogue: 0,0:13:36.56,0:13:37.77,Default,SERENA,0,0,0,,Ra là thế.
+Dialogue: 0,0:13:37.77,0:13:42.14,Default,SERENA,0,0,0,,Hắn ta làm vậy chắc chắn là để giở trò quấy rối đám lính đánh thuê mà hắn vốn căm ghét—
+Dialogue: 0,0:13:42.14,0:13:43.96,Default,SERENA,0,0,0,,và đồng thời nhắm vào cả tôi, người đã thuê bọn họ.
+Dialogue: 0,0:13:44.63,0:13:46.67,Default,SERENA,0,0,0,,Tôi sẽ làm thịt con lợn béo đó.
+Dialogue: 0,0:13:46.67,0:13:47.72,Default,EMMA,0,0,0,,Tiểu thư Serena.
+Dialogue: 0,0:13:49.04,0:13:50.54,Default,SERENA,0,0,0,,Tôi nói đùa thôi.
+Dialogue: 0,0:13:51.02,0:13:54.41,Default,SERENA,0,0,0,,Dù vậy, đây là một vấn đề nghiêm trọng cần phải điều tra làm rõ.
+Dialogue: 0,0:13:54.41,0:13:57.52,Default,SERENA,0,0,0,,Quân đội cần phải thanh trừng triệt để những ung nhọt thối rữa này càng sớm càng tốt.
+Dialogue: 0,0:13:57.79,0:14:00.40,Default,EMMA,0,0,0,,Về phần Đại úy Bariton...
+Dialogue: 0,0:14:00.97,0:14:03.88,Default,EMMA,0,0,0,,Lúc người ta tới nộp tiền thanh toán thì hắn cũng có mặt ở đó,
+Dialogue: 0,0:14:03.88,0:14:06.99,Default,EMMA,0,0,0,,và hiện tại hắn đã phải nhập viện cấp cứu vì bị đè bẹp dí dưới đống tiền đó rồi ạ.
+Dialogue: 0,0:14:07.39,0:14:08.58,Default,SERENA,0,0,0,,Bị đè bẹp bởi những thỏi kim loại sao?
+Dialogue: 0,0:14:08.58,0:14:10.40,Default,EMMA,0,0,0,,Chính xác là bị đè bởi những thỏi kim loại ạ.
+Dialogue: 0,0:14:16.32,0:14:18.89,Default,THUG,0,0,0,,Ban đầu thì vớ được một em gái mồ côi xinh xắn như hoa,
+Dialogue: 0,0:14:18.89,0:14:23.54,Default,THUG,0,0,0,,giờ thì lại tậu thêm một cô nàng elf xinh đẹp(?) làm vật thế chấp trừ nợ nữa chứ?
+Dialogue: 0,0:14:23.54,0:14:25.79,Default,THUG,0,0,0,,Tao ghen tị phát điên lên được với dàn mỹ nhân trên tàu của mày—
+Dialogue: 0,0:14:27.32,0:14:29.24,Default,GUILD RECEPTIONIST,0,0,0,,Để tôi tiếp quản phục vụ cho anh ấy nhé.
+Dialogue: 0,0:14:31.67,0:14:35.00,Default,ELMA,0,0,0,,Này thằng ranh kia, tao nghe thấy mày thêm dấu chấm hỏi sau từ "xinh đẹp" đấy nhé.
+Dialogue: 0,0:14:35.35,0:14:38.73,Default,ELMA,0,0,0,,Cho mày biết là bà đây mới chỉ có năm mươi ba cái xuân xanh phơi phới thôi đấy!
+Dialogue: 0,0:14:39.21,0:14:41.69,Default,MIMI,0,0,0,,Chị Elma, bình tĩnh lại đi chị.
+Dialogue: 0,0:14:42.00,0:14:44.66,Default,GUILD RECEPTIONIST,0,0,0,,Hôm nay hai người tới đây để làm thủ tục đăng ký cho cô Elma đúng không ạ?
+Dialogue: 0,0:14:44.66,0:14:49.61,Default,HIRO,0,0,0,,Đúng vậy. Tôi muốn cô ấy làm phi công phụ kiêm người hướng dẫn cho Mimi.
+Dialogue: 0,0:14:49.87,0:14:53.50,Default,GUILD RECEPTIONIST,0,0,0,,Tôi hiểu rồi. Dù sao thì cô Elma cũng là một tay cựu binh lão luyện.
+Dialogue: 0,0:14:53.50,0:14:55.14,Default,GUILD RECEPTIONIST,0,0,0,,Cô ấy quả thực là người vô cùng thích hợp cho vị trí đó.
+Dialogue: 0,0:14:55.57,0:15:00.53,Default,GUILD RECEPTIONIST,0,0,0,,Tôi rất tiếc vì công hội đã không thể giúp gì được cho cô trong sự cố vừa qua.
+Dialogue: 0,0:15:00.97,0:15:05.48,Default,GUILD RECEPTIONIST,0,0,0,,Nhưng về mặt cá nhân, tôi rất mừng vì mọi chuyện cuối cùng đã được giải quyết êm đẹp.
+Dialogue: 0,0:15:06.86,0:15:08.20,Default,ELMA,0,0,0,,Cảm ơn cô nhé.
+Dialogue: 0,0:15:08.70,0:15:11.63,Default,HIRO,0,0,0,,Cô sẽ phải làm việc chăm chỉ để trả dần khoản nợ ba triệu đó đấy.
+Dialogue: 0,0:15:11.63,0:15:14.34,Default,HIRO,0,0,0,,Chuẩn bị tinh thần đi nhé, đàn chị Elma.
+Dialogue: 0,0:15:14.34,0:15:17.49,Default,ELMA,0,0,0,,Để xem cậu còn lớn giọng được như thế bao lâu nữa.
+Dialogue: 0,0:15:17.49,0:15:18.25,Default,ELMA,0,0,0,,Mimi.
+Dialogue: 0,0:15:18.25,0:15:19.18,Default,MIMI,0,0,0,,D-Dạ?
+Dialogue: 0,0:15:20.31,0:15:23.14,Default,ELMA,0,0,0,,Đến giờ học bài học đầu tiên rồi đấy.
+Dialogue: 0,0:15:23.14,0:15:27.87,Default,ELMA,0,0,0,,Để chị cho em thấy một lính đánh thuê kỳ cựu có thể làm được những gì khi rời khỏi phi thuyền.
+Dialogue: 0,0:15:29.33,0:15:32.07,Default,MIMI,0,0,0,,Ở đây lại có cả một trường bắn súng nữa kìa.
+Dialogue: 0,0:15:32.35,0:15:35.77,Default,ELMA,0,0,0,,Đôi khi chúng ta sẽ phải đụng độ giáp lá cà với lũ cướp biển không gian.
+Dialogue: 0,0:15:39.56,0:15:42.32,Default,MIMI,0,0,0,,Oa, tất cả đều găm trúng hồng tâm luôn!
+Dialogue: 0,0:15:44.72,0:15:47.55,Default,ELMA,0,0,0,,Khi ngắm bắn, em phải mở cả hai mắt.
+Dialogue: 0,0:15:47.55,0:15:51.36,Default,ELMA,0,0,0,,Nhắm một mắt sẽ làm thu hẹp tầm nhìn và giảm độ chính xác, nên em phải tập cho quen dần đi.
+Dialogue: 0,0:15:51.36,0:15:52.35,Default,MIMI,0,0,0,,Dạ vâng.
+Dialogue: 0,0:15:52.84,0:15:56.70,Default,ELMA,0,0,0,,Căn chỉnh hai điểm ngắm đó thẳng hàng với mục tiêu.
+Dialogue: 0,0:15:57.08,0:15:58.80,Default,ELMA,0,0,0,,Đúng rồi, chuẩn như thế đấy.
+Dialogue: 0,0:15:59.03,0:16:00.05,Default,ELMA,0,0,0,,Được rồi, bóp cò đi.
+Dialogue: 0,0:16:01.24,0:16:02.97,Default,MIMI,0,0,0,,Bắn trúng bia rồi kìa!
+Dialogue: 0,0:16:02.97,0:16:07.23,Default,ELMA,0,0,0,,Khá lắm đối với lần đầu tiên đấy. Cứ tiếp tục bắn thêm vài phát như thế nữa đi.
+Dialogue: 0,0:16:07.23,0:16:09.69,Default,ELMA,0,0,0,,Thả lỏng người ra rồi tiếp tục bắn nào.
+Dialogue: 0,0:16:10.15,0:16:11.14,Default,MIMI,0,0,0,,Dạ.
+Dialogue: 0,0:16:14.84,0:16:18.55,Default,ELMA,0,0,0,,Chị bảo thả lỏng nhưng đừng có để sai tư thế đấy nhé.
+Dialogue: 0,0:16:18.55,0:16:19.35,Default,MIMI,0,0,0,,Dạ vâng!
+Dialogue: 0,0:16:19.73,0:16:21.43,Default,HIRO,0,0,0,,Làm tốt lắm, đàn chị.
+Dialogue: 0,0:16:21.43,0:16:23.82,Default,HIRO,0,0,0,,Cô vừa bắn súng cừ khôi lại vừa là một người thầy dạy rất giỏi đấy.
+Dialogue: 0,0:16:24.85,0:16:27.95,Default,ELMA,0,0,0,,Kỹ năng lái phi thuyền của cậu có thể rất đáng kinh ngạc,
+Dialogue: 0,0:16:27.95,0:16:31.30,Default,ELMA,0,0,0,,nhưng giờ thì cậu đã nhận ra mình còn phải học hỏi rất nhiều điều khi cận chiến trên cạn chưa?
+Dialogue: 0,0:16:31.30,0:16:35.52,Default,HIRO,0,0,0,,Có lẽ vậy. Để tôi bắn thử vài phát xem sao nhé.
+Dialogue: 0,0:16:37.30,0:16:38.96,Default,HIRO,0,0,0,,Lên nào.
+Dialogue: 0,0:16:39.54,0:16:41.39,Default,HIRO,0,0,0,,Tay nghề vẫn chưa bị lục lọi chút nào.
+Dialogue: 0,0:16:42.77,0:16:46.68,Default,HIRO,0,0,0,,Thế nào hỡi đàn chị? Không tệ chút nào chứ?
+Dialogue: 0,0:16:50.57,0:16:51.79,Default,ELMA,0,0,0,,Tại sao chứ?
+Dialogue: 0,0:16:52.23,0:16:55.90,Default,ELMA,0,0,0,,Tại sao đồ ăn trên một chiếc tàu lính đánh thuê lại trông ngon lành đến thế này hả?!
+Dialogue: 0,0:16:55.90,0:16:59.06,Default,ELMA,0,0,0,,Sao lại xa hoa lộng lẫy đến mức này chứ?!
+Dialogue: 0,0:16:59.56,0:17:04.33,Default,ELMA,0,0,0,,Đây đâu phải là một con tàu lính đánh thuê tồi tàn nhếch nhác! Đây là một du thuyền không gian hạng sang thì có!
+Dialogue: 0,0:17:04.33,0:17:07.09,Default,HIRO,0,0,0,,Ở đây chúng tôi có phong cách sống và làm việc riêng của mình mà.
+Dialogue: 0,0:17:07.09,0:17:10.55,Default,MIMI,0,0,0,,Nhờ có thế mà ngày nào bọn em cũng được sống trong sự thoải mái tiện nghi đấy ạ.
+Dialogue: 0,0:17:10.78,0:17:14.25,Default,ELMA,0,0,0,,Cậu kỳ vọng đạt được điều gì từ cái nghề lính đánh thuê này thế hả?
+Dialogue: 0,0:17:14.54,0:17:17.51,Default,HIRO,0,0,0,,Nếu cô hỏi mục tiêu của tôi là gì, thì đó là được sống một cuộc đời tự do tự tại.
+Dialogue: 0,0:17:17.86,0:17:23.34,Default,HIRO,0,0,0,,Mục tiêu hiện tại của tôi là mua được một căn nhà riêng có sân vườn trên một hành tinh ôn đới.
+Dialogue: 0,0:17:23.34,0:17:27.55,Default,ELMA,0,0,0,,Cái gì cơ?! Cậu có biết nhà đất trên các hành tinh đắt đỏ đến mức nào không?!
+Dialogue: 0,0:17:27.99,0:17:32.70,Default,ELMA,0,0,0,,Chỉ riêng quyền sở hữu đất đai và quốc tịch Đế Quốc thôi cũng ngốn của cậu ít nhất hai đến ba trăm triệu ener rồi đấy!
+Dialogue: 0,0:17:32.70,0:17:35.36,Default,ELMA,0,0,0,,Thậm chí con số đó hoàn toàn có thể đội lên tới cả một tỷ ener tròn trĩnh lận đấy!
+Dialogue: 0,0:17:36.02,0:17:39.74,Default,ELMA,0,0,0,,Đó là số tiền mà một lính đánh thuê bình thường cả đời cũng không bao giờ kiếm nổi đâu!
+Dialogue: 0,0:17:39.74,0:17:41.75,Default,MIMI,0,0,0,,H-Hàng trăm triệu rồi cả hàng tỷ ener lận sao?!
+Dialogue: 0,0:17:42.16,0:17:45.65,Default,HIRO,0,0,0,,Ước mơ thì phải vươn tới tận những vì sao chứ.
+Dialogue: 0,0:17:45.65,0:17:47.90,DefaultItalics,HIRO/ID,0,0,0,,Tôi cần phải có nguồn cung cấp món nước ngọt cola khoái khẩu nữa.
+Dialogue: 0,0:17:48.57,0:17:51.55,Default,MIMI,0,0,0,,Anh Hiro chưa bao giờ làm người khác phải thất vọng cả.
+Dialogue: 0,0:17:53.73,0:17:57.66,Default,HIRO,0,0,0,,Dù sao đi nữa thì từ giờ trở đi cô cũng sẽ sống ở đây, nên cứ dần dần làm quen đi.
+Dialogue: 0,0:17:58.18,0:18:01.37,Default,HIRO,0,0,0,,Mimi có thể dẫn cô đi tham quan tìm hiểu thêm về con tàu.
+Dialogue: 0,0:18:01.37,0:18:02.55,Default,HIRO,0,0,0,,À, tôi nghĩ ra rồi.
+Dialogue: 0,0:18:02.55,0:18:06.41,Default,HIRO,0,0,0,,Sao hai người không cùng nhau đi tắm để thắt chặt tình chị em hơn nhỉ?
+Dialogue: 0,0:18:07.59,0:18:09.14,Default,ELMA,0,0,0,,Đ-Được thôi.
+Dialogue: 0,0:18:14.85,0:18:19.32,Default,MIMI,0,0,0,,Được thoải mái dùng bao nhiêu nước nóng tùy thích ngoài không gian quả thực là một điều vô cùng xa xỉ.
+Dialogue: 0,0:18:20.00,0:18:22.98,Default,MIMI,0,0,0,,Nghe nói là nhờ vào hệ thống lọc nước tối tân hiện đại nhất,
+Dialogue: 0,0:18:23.50,0:18:25.69,Default,MIMI,0,0,0,,dù em cũng chẳng hiểu rõ nguyên lý hoạt động của nó cho lắm.
+Dialogue: 0,0:18:25.69,0:18:27.26,Default,ELMA,0,0,0,,Này, Mimi.
+Dialogue: 0,0:18:27.88,0:18:30.86,Default,ELMA,0,0,0,,Em thực sự cảm thấy ổn với chuyện này sao?
+Dialogue: 0,0:18:31.15,0:18:35.82,Default,ELMA,0,0,0,,Ý chị là, cái chuyện chị gia nhập với tư cách là người t-tình... của cậu ấy...
+Dialogue: 0,0:18:37.71,0:18:40.61,Default,MIMI,0,0,0,,Nếu bảo là không lo lắng thì chắc chắn là em đang nói dối rồi ạ.
+Dialogue: 0,0:18:41.07,0:18:47.59,Default,MIMI,0,0,0,,Chị là một lính đánh thuê hàng đầu tài ba, trong khi em chẳng có gì nổi bật để cống hiến cả, nhưng mà...
+Dialogue: 0,0:18:47.59,0:18:49.26,Default,ELMA,0,0,0,,Chị cũng cùng chung cảnh ngộ với em thôi.
+Dialogue: 0,0:18:49.59,0:18:53.38,Default,ELMA,0,0,0,,Bản lĩnh và tư duy làm lính đánh thuê của cậu ấy quả thực phi thường xuất chúng.
+Dialogue: 0,0:18:54.66,0:18:59.23,Default,ELMA,0,0,0,,Còn về phương diện phụ nữ, chị chẳng có gì để so sánh được với nét đáng yêu của em cả.
+Dialogue: 0,0:19:01.29,0:19:03.49,Default,ELMA,0,0,0,,E-Em đâu cần phải phì cười như thế chứ!
+Dialogue: 0,0:19:03.73,0:19:08.45,Default,MIMI,0,0,0,,Em xin lỗi ạ. Khi nhận ra mình không phải là người duy nhất lo lắng, em không kìm được lòng.
+Dialogue: 0,0:19:09.08,0:19:11.97,Default,MIMI,0,0,0,,Em hoàn toàn tin tưởng vào anh Hiro.
+Dialogue: 0,0:19:11.97,0:19:17.30,Default,MIMI,0,0,0,,Anh ấy là người duy nhất đưa tay ra cứu giúp khi tất cả mọi người đều đã ruồng bỏ em.
+Dialogue: 0,0:19:17.68,0:19:19.82,Default,MIMI,0,0,0,,Đối với chị thì có khác gì không ạ?
+Dialogue: 0,0:19:19.82,0:19:21.76,Default,ELMA,0,0,0,,C-Chị...
+Dialogue: 0,0:19:23.28,0:19:26.51,Default,ELMA,0,0,0,,Không, em nói hoàn toàn chính xác.
+Dialogue: 0,0:19:28.98,0:19:30.86,Default,ELMA,0,0,0,,N-Này, nghe chị hỏi chút nhé.
+Dialogue: 0,0:19:31.19,0:19:32.12,Default,MIMI,0,0,0,,Dạ?
+Dialogue: 0,0:19:32.12,0:19:36.49,Default,ELMA,0,0,0,,Đó là lần đầu tiên của em đúng không?
+Dialogue: 0,0:19:36.49,0:19:38.18,Default,ELMA,0,0,0,,C-Cảm giác lúc đó thế nào hả em?
+Dialogue: 0,0:19:38.18,0:19:42.83,Default,MIMI,0,0,0,,Em vẫn còn giữ một ít thuốc mà trước đây chị từng cho em đấy. Chị có cần dùng không ạ?
+Dialogue: 0,0:19:43.64,0:19:50.54,Default,ELMA,0,0,0,,Đ-Đó là thuốc chị cho em vì lúc đó là lần đầu của em mà! Chị đâu có cần thứ đó chứ!
+Dialogue: 0,0:19:51.49,0:19:53.56,Default,ELMA,0,0,0,,Sao em lại nhìn chị bằng cái ánh mắt từ bi của người mẹ thế hả?!
+Dialogue: 0,0:19:53.56,0:19:56.71,Default,ELMA,0,0,0,,Chị đây năm mươi ba tuổi rồi đấy nhé! Là một người phụ nữ trưởng thành hẳn hoi rồi, hiểu chưa hả?!
+Dialogue: 0,0:19:58.28,0:20:04.96,Default,MIMI,0,0,0,,Em xin lỗi ạ, chỉ là thấy chị cổ vũ em nhiệt tình như thế...
+Dialogue: 0,0:20:05.23,0:20:08.93,Default,ELMA,0,0,0,,Nhưng mà, ừm... Mimi này...
+Dialogue: 0,0:20:12.79,0:20:15.89,Default,ELMA,0,0,0,,Ừm thì, cái thuốc đó ấy...
+Dialogue: 0,0:20:18.46,0:20:20.59,Default,ELMA,0,0,0,,Nếu em không phiền thì cho chị xin một ít nhé.
+Dialogue: 0,0:20:20.59,0:20:21.73,Default,MIMI,0,0,0,,Dạ đương nhiên rồi ạ.
+Dialogue: 0,0:20:26.28,0:20:28.36,Default,ELMA,0,0,0,,T-Tôi tới rồi đây.
+Dialogue: 0,0:20:28.90,0:20:31.33,Default,HIRO,0,0,0,,Cái quái gì thế này? Lại cảm giác déjà vu quen thuộc à?
+Dialogue: 0,0:20:35.83,0:20:37.35,Default,ELMA,0,0,0,,...với tôi.
+Dialogue: 0,0:20:37.35,0:20:38.30,Default,HIRO,0,0,0,,Hả?
+Dialogue: 0,0:20:38.30,0:20:41.22,Default,ELMA,0,0,0,,Tôi bảo là, cậu muốn làm gì tôi thì làm đi!
+Dialogue: 0,0:20:41.22,0:20:42.25,Default,HIRO,0,0,0,,Tại sao lại thế chứ?!
+Dialogue: 0,0:20:43.00,0:20:44.98,Default,ELMA,0,0,0,,Chẳng phải chính cậu đã nói là muốn có tôi sao!
+Dialogue: 0,0:20:44.98,0:20:46.88,Default,ELMA,0,0,0,,Cậu đã bỏ ra tận ba triệu ener để đưa tôi lên con tàu này!
+Dialogue: 0,0:20:46.88,0:20:48.84,Default,ELMA,0,0,0,,Ý cậu khi nói câu đó chính là thế này đúng không?!
+Dialogue: 0,0:20:48.84,0:20:54.20,Default,HIRO,0,0,0,,Gì cơ? Không hề, tôi thực sự chỉ muốn chiêu mộ cô với tư cách là một lính đánh thuê dạn dày kinh nghiệm thôi mà.
+Dialogue: 0,0:20:54.20,0:20:55.81,Default,HIRO,0,0,0,,Tôi hoàn toàn không hề có bất kỳ mưu đồ đen tối nào hết cả.
+Dialogue: 0,0:20:56.13,0:20:57.47,Default,ELMA,0,0,0,,Tôi biết tỏng rồi.
+Dialogue: 0,0:20:57.47,0:20:58.28,Default,HIRO,0,0,0,,Sao cơ?
+Dialogue: 0,0:20:59.16,0:21:02.24,Default,ELMA,0,0,0,,Tôi... không đủ hấp dẫn đối với cậu sao?
+Dialogue: 0,0:21:03.34,0:21:06.23,Default,HIRO,0,0,0,,Trời đất ơi là trời.
+Dialogue: 0,0:21:08.48,0:21:09.44,Default,HIRO,0,0,0,,Được rồi.
+Dialogue: 0,0:21:16.60,0:21:18.58,Default,ELMA,0,0,0,,Nhẹ nhàng thôi nhé.
+Dialogue: 0,0:21:24.82,0:21:26.04,Default,HIRO,0,0,0,,Tôi sẽ cố hết sức.
+Dialogue: 0,0:21:31.10,0:21:35.10,Credits,CREDITS,0,0,0,,Phụ đề Việt ngữ: Amtia(NOFACE)
+Dialogue: 0,0:21:35.10,0:21:39.11,Credits,CREDITS,0,0,0,,Biên dịch & Kỹ thuật: Amtia(NOFACE)
+Dialogue: 0,0:23:00.72,0:23:02.00,Default,ELMA,0,0,0,,Đồ cầm thú.
+Dialogue: 0,0:23:02.00,0:23:03.29,Default,HIRO,0,0,0,,Tôi xin lỗi rồi mà, được chưa?
+Dialogue: 0,0:23:03.29,0:23:05.71,Default,ELMA,0,0,0,,Đồ bạo lực. Tên lăng nhăng háo sắc.
+Dialogue: 0,0:23:05.71,0:23:07.14,Default,HIRO,0,0,0,,Tôi đã bảo là tôi xin lỗi rồi mà.
+Dialogue: 0,0:23:08.33,0:23:12.60,Default,ELMA,0,0,0,,Tôi là con gái chứ đâu phải phi thuyền sắt thép đâu. Lần sau phải nhẹ tay hơn với tôi đấy.
+Dialogue: 0,0:23:12.60,0:23:17.29,Default,HIRO,0,0,0,,Ừ, cô hoàn toàn chẳng giống một chút nào với cái phi thuyền quái đản mà cô từng đâm nát bét kia cả.
+Dialogue: 0,0:23:17.29,0:23:18.25,Default,ELMA,0,0,0,,Quái đản á?
+Dialogue: 0,0:23:18.47,0:23:23.00,Default,HIRO,0,0,0,,Phải, cái cỗ máy điên rồ mà chỉ cần lơ đãng một cái là mất lái ngay ấy.
+Dialogue: 0,0:23:24.96,0:23:27.93,Default,HIRO,0,0,0,,Khoan, dừng lại đi! Ái da đau quá!
+Dialogue: 0,0:23:35.01,0:23:40.09,Signs,NEXTEPTITLE,0,0,0,,{\fnSegoe UI\fs32\bord1.7\c&H2AFFFD&\3c&H171817&\pos(320,234)}Cuộc Sống Thường Nhật Mới

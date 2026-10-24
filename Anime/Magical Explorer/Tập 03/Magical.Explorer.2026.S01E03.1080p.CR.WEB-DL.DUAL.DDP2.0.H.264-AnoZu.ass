@@ -1,0 +1,440 @@
+﻿[Script Info]
+Title: Vietnamese Fansub (VietSub by Phamtin147)
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+YCbCr Matrix: TV.601
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Segoe UI,25,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,1.2,0.5,2,10,10,18,1
+Style: sign_504_2_Tsukuyomi_Magic_,Segoe UI,13,&H00FFFFFF,&H000000FF,&H00555555,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,116,350,68,1
+Style: sign_Verdana,Segoe UI,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: sign_TimesNewRoman,Segoe UI,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: sign_Georgia,Segoe UI,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:05.67,0:00:07.42,Default,Kousuke,0,0,0,,{\i1}Chị ấy thực sự tồn tại bằng xương bằng thịt...
+Dialogue: 0,0:00:08.21,0:00:10.15,Default,Kousuke,0,0,0,,{\i1}Một trong Tam Đại Cao Thủ (Big Three).
+Dialogue: 0,0:00:10.15,0:00:13.29,Default,Kousuke,0,0,0,,{\i1}Nhờ sở hữu ma pháp hệ Thủy tuyệt đỉnh, người ta còn gọi chị ấy là 'Thủy Long Công Chúa'.
+Dialogue: 0,0:00:13.29,0:00:15.51,Default,Kousuke,0,0,0,,{\i1}Mizumori Yukine.
+Dialogue: 0,0:00:22.76,0:00:24.44,Default,Yukine,0,0,0,,Chị có thể giúp gì cho em không?
+Dialogue: 0,0:00:27.36,0:00:29.82,Default,Yukine,0,0,0,,Em là học sinh mới nhập học vào học viện đúng không?
+Dialogue: 0,0:00:29.82,0:00:30.64,Default,Kousuke,0,0,0,,Dạ vâng ạ.
+Dialogue: 0,0:00:30.64,0:00:32.19,Default,Kousuke,0,0,0,,Em tên là Takioto Kousuke ạ.
+Dialogue: 0,0:00:32.70,0:00:35.96,Default,Yukine,0,0,0,,Chị là phó ban của\NUỷ ban Kỷ luật.
+Dialogue: 0,0:00:35.96,0:00:36.95,Default,Yukine,0,0,0,,Tên chị là Mizumori Yukine.
+Dialogue: 0,0:00:37.43,0:00:39.66,Default,Kousuke,0,0,0,,Phó ban Kỷ luật sao ạ?!
+Dialogue: 0,0:00:40.44,0:00:43.79,Default,Kousuke(M),0,0,0,,{\i1}Trở thành thành viên Ủy ban Kỷ luật của học viện\Nđồng nghĩa với việc...
+Dialogue: 0,0:00:43.79,0:00:45.89,Default,Kousuke(M),0,0,0,,{\i1}người đó sở hữu cả quyền lực lẫn thực lực áp đảo.
+Dialogue: 0,0:00:46.62,0:00:48.63,Default,Kousuke(M),0,0,0,,{\i1}Tỏ ra ngạc nhiên lúc này chắc chắn là nước đi chuẩn xác nhất.
+Dialogue: 0,0:00:44.72,0:00:48.63,sign_504_2_Tsukuyomi_Magic_,seal,0,0,0,,{\pos(316,111)\fad(1883,1)\c&H93C1D7&\bord0}Tsukiyomi
+Dialogue: 0,0:00:48.63,0:00:51.34,Default,Yukine,0,0,0,,Cũng chẳng phải chức vụ to tát gì đâu em.
+Dialogue: 0,0:00:51.34,0:00:53.51,Default,Yukine,0,0,0,,Núi cao luôn có núi cao hơn mà.
+Dialogue: 0,0:00:53.51,0:00:57.40,Default,Kousuke(M),0,0,0,,{\i1}Mizumori Yukine là nhân vật mà mình cực kỳ u mê,\Nkhông chỉ bởi nhan sắc tuyệt trần,
+Dialogue: 0,0:00:57.40,0:00:59.64,Default,Kousuke(M),0,0,0,,{\i1}mà còn cả tính cách lẫn mọi thứ ở chị ấy.
+Dialogue: 0,0:00:59.64,0:01:02.03,Default,Kousuke(M),0,0,0,,{\i1}Hồi chơi game, mình chưa bao giờ loại chị ấy khỏi đội hình chiến đấu cả,
+Dialogue: 0,0:01:02.03,0:01:05.22,Default,Kousuke(M),0,0,0,,{\i1}chị ấy cứ thế một mình càn quét hết con trùm sừng sỏ này đến con trùm khác.
+Dialogue: 0,0:01:05.22,0:01:06.48,Default,Kousuke(M),0,0,0,,{\i1}Nữ thần trong lòng mình!
+Dialogue: 0,0:01:06.48,0:01:09.26,Default,Yukine,0,0,0,,Em có biết khu vực này là đất tư nhân không?
+Dialogue: 0,0:01:09.26,0:01:12.30,Default,Yukine,0,0,0,,Chị cũng phải xin phép mới được vào đây sử dụng đấy.
+Dialogue: 0,0:01:12.30,0:01:13.77,Default,Yukine,0,0,0,,Cơ mà nhìn vào chủ sở hữu của nơi này...
+Dialogue: 0,0:01:13.77,0:01:16.07,Default,Yukine,0,0,0,,thì chắc cũng chẳng có vấn đề gì to tát đâu nhỉ.
+Dialogue: 0,0:01:16.45,0:01:17.59,Default,Kousuke,0,0,0,,Dạ không sao đâu ạ.
+Dialogue: 0,0:01:17.59,0:01:20.32,Default,Kousuke,0,0,0,,Chị Marino đang cho em ở nhờ nhà chị ấy ạ.
+Dialogue: 0,0:01:20.32,0:01:21.40,Default,Yukine,0,0,0,,Ra là vậy.
+Dialogue: 0,0:01:21.40,0:01:23.15,Default,Yukine,0,0,0,,Em là người đang sống chung với Viện trưởng sao?
+Dialogue: 0,0:01:23.62,0:01:24.92,Default,Yukine,0,0,0,,Thế thì chị xin lỗi nhé.
+Dialogue: 0,0:01:24.92,0:01:26.97,Default,Yukine,0,0,0,,Hoàn toàn không có vấn đề gì đâu em.
+Dialogue: 0,0:01:27.54,0:01:30.41,Default,Kousuke,0,0,0,,Em xin lỗi vì đã đường đột làm phiền chị,
+Dialogue: 0,0:01:30.41,0:01:32.26,Default,Kousuke,0,0,0,,nhưng em có một thỉnh cầu muốn nhờ Tiền bối giúp đỡ ạ!
+Dialogue: 0,0:01:32.26,0:01:32.75,Default,Yukine,0,0,0,,Chuyện gì thế em?
+Dialogue: 0,0:01:33.06,0:01:35.57,Default,Kousuke,0,0,0,,Chị có thể vui lòng huấn luyện cho em được không ạ?
+Dialogue: 0,0:01:35.57,0:01:37.63,Default,Kousuke,0,0,0,,Nếu có thể, hãy chỉ dạy cho đến khi em luyện thành kỹ năng Tâm Nhãn (Mind's Eye) ạ.
+Dialogue: 0,0:01:41.34,0:01:43.14,Default,Kousuke(M),0,0,0,,{\i1}Một khi mình học được kỹ năng Tâm Nhãn,
+Dialogue: 0,0:01:43.70,0:01:45.58,Default,Kousuke(M),0,0,0,,{\i1}mình sẽ có thể tự do chiến đấu theo ý muốn,
+Dialogue: 0,0:01:45.58,0:01:48.40,Default,Kousuke(M),0,0,0,,{\i1}ngay cả khi chiếc khăn choàng ma pháp có che khuất tầm nhìn đi chăng nữa.
+Dialogue: 0,0:01:48.40,0:01:49.99,Default,Kousuke,0,0,0,,T-T-Tiền bối ơi!
+Dialogue: 0,0:01:49.99,0:01:52.48,Default,Kousuke,0,0,0,,Thế này thực sự có tác dụng gì không vậy chị?!
+Dialogue: 0,0:01:54.43,0:01:56.24,Default,Yukine,0,0,0,,Takioto, chị thấy tâm trí em đang để đi đâu đấy!
+Dialogue: 0,0:01:56.94,0:01:59.19,Default,Yukine,0,0,0,,Hãy gạt bỏ hết mọi tạp niệm trần tục ra khỏi đầu đi,
+Dialogue: 0,0:01:59.19,0:02:01.20,Default,Yukine,0,0,0,,nhắm mắt lại, và cảm nhận luồng ma lực đang vận hành bên trong cơ thể em!
+Dialogue: 0,0:02:01.20,0:02:03.91,Default,Kousuke,0,0,0,,Em chẳng nhìn thấy gì hết trơn á!
+Dialogue: 0,0:02:03.91,0:02:06.37,Default,Yukine,0,0,0,,Kỹ năng này không phải cứ muốn là thành thục trong một sớm một chiều được đâu.
+Dialogue: 0,0:02:06.71,0:02:08.58,Default,Kousuke(M),0,0,0,,{\i1}Nhưng mình nhớ rõ ràng trong game,
+Dialogue: 0,0:02:08.58,0:02:12.08,Default,Kousuke(M),0,0,0,,{\i1}chỉ cần luyện 3 lượt với chị Yukine là mở khóa được kỹ năng này rồi mà.
+Dialogue: 0,0:02:12.08,0:02:13.77,Default,Yukine,0,0,0,,Không cần phải nóng vội đâu em.
+Dialogue: 0,0:02:13.77,0:02:16.81,Default,Yukine,0,0,0,,Tất cả những gì em cần làm là kiên trì tiến bước, từng chút một.
+Dialogue: 0,0:02:17.68,0:02:19.09,Default,Kousuke,0,0,0,,Tiền bối à!
+Dialogue: 0,0:02:21.16,0:02:24.01,Default,Kousuke(M),0,0,0,,{\i1}Làm sao mà gạt bỏ nổi tạp niệm trần tục khi đứng cạnh nữ thần thế này chứ!
+Dialogue: 0,0:04:01.42,0:04:03.97,Default,Claris,0,0,0,,Kỹ năng sao ạ?
+Dialogue: 0,0:04:03.97,0:04:05.93,Default,Kousuke,0,0,0,,Chị ấy đã giải thích tường tận những điều cơ bản cho tôi rồi,
+Dialogue: 0,0:04:05.93,0:04:07.60,Default,Kousuke,0,0,0,,nhưng tôi thấy mù tịt, chẳng có chút hy vọng nào để ngộ ra được cả.
+Dialogue: 0,0:04:08.60,0:04:10.35,Default,Claris,0,0,0,,Theo như một giả thuyết được ghi chép lại...
+Dialogue: 0,0:04:13.77,0:04:19.36,Default,Claris,0,0,0,,Kỹ năng và ma pháp sẽ dễ dàng lĩnh hội hơn\Nkhi một người thực sự khát khao sở hữu chúng một cách mãnh liệt.
+Dialogue: 0,0:04:19.98,0:04:21.90,Default,Claris,0,0,0,,Hay là cậu thử hướng mục tiêu vào thứ mà mình thực sự mong muốn,
+Dialogue: 0,0:04:21.90,0:04:24.49,Default,Claris,0,0,0,,rồi bắt đầu bằng việc học thứ gì đó dễ dàng hơn để lấy đà xem sao?
+Dialogue: 0,0:04:24.49,0:04:26.28,Default,Kousuke,0,0,0,,Thứ gì đó dễ dàng ư...
+Dialogue: 0,0:04:27.28,0:04:30.58,Default,Kousuke,0,0,0,,Ví dụ như truyền ma lực của tôi sang cho người khác thì sao?
+Dialogue: 0,0:04:30.91,0:04:32.79,Default,Claris,0,0,0,,Ý cậu là ma pháp hiến tặng ma lực (Donation Magic) sao?
+Dialogue: 0,0:04:32.79,0:04:35.04,Default,Claris,0,0,0,,Đối với một người sở hữu lượng ma lực dồi dào khủng khiếp như cậu,
+Dialogue: 0,0:04:35.04,0:04:36.46,Default,Claris,0,0,0,,thì nó chắc chắn sẽ mang lại hiệu quả cực kỳ to lớn đấy.
+Dialogue: 0,0:04:36.46,0:04:37.42,Default,Kousuke,0,0,0,,Chuẩn luôn.
+Dialogue: 0,0:04:37.42,0:04:40.42,Default,Kousuke,0,0,0,,Đặc biệt là Ludie, cậu ấy tiêu hao ma lực kinh người không ai bằng.
+Dialogue: 0,0:04:40.96,0:04:45.30,Default,Claris,0,0,0,,Tiểu thư Ludie hiện tại vẫn chưa học ma pháp nào tiêu tốn nhiều ma lực đến mức ấy đâu ạ.
+Dialogue: 0,0:04:45.30,0:04:47.47,Default,Kousuke,0,0,0,,Ý tôi là tính trước cho tương lai sau này cơ!
+Dialogue: 0,0:04:48.05,0:04:52.31,Default,Kousuke(M),0,0,0,,{\i1}À phải rồi, ở giai đoạn hiện tại thì em ấy mới chỉ dùng được những phép thuật cơ bản thôi.
+Dialogue: 0,0:04:53.39,0:04:55.69,Default,Ludie,0,0,0,,Kousuke, cậu đã chuẩn bị xong xuôi hết chưa?
+Dialogue: 0,0:04:55.69,0:04:57.02,Default,Kousuke,0,0,0,,Chuẩn bị cho cái gì cơ?
+Dialogue: 0,0:04:57.02,0:04:59.19,Default,Ludie,0,0,0,,Học viện sắp sửa khai giảng tới nơi rồi đấy!
+Dialogue: 0,0:04:59.61,0:05:00.82,Default,Kousuke,0,0,0,,Tôi vẫn chưa sờ mó gì đến cả.
+Dialogue: 0,0:05:01.15,0:05:02.57,Default,Ludie,0,0,0,,Số cậu sướng thật đấy.
+Dialogue: 0,0:05:02.57,0:05:04.78,Default,Ludie,0,0,0,,Ước gì tôi cũng được thảnh thơi vô lo vô nghĩ như cậu.
+Dialogue: 0,0:05:04.78,0:05:05.74,Default,Kousuke,0,0,0,,Của cậu đây.
+Dialogue: 0,0:05:05.74,0:05:07.41,Default,Kousuke,0,0,0,,Cậu thích vị dâu tây phủ sô-cô-la đúng không?
+Dialogue: 0,0:05:08.99,0:05:11.66,Default,Ludie,0,0,0,,Ủa, tôi có kể cho cậu nghe về sở thích của mình bao giờ đâu nhỉ?
+Dialogue: 0,0:05:12.12,0:05:13.33,Default,Kousuke,0,0,0,,À thì...
+Dialogue: 0,0:05:13.33,0:05:15.66,Default,Kousuke(M),0,0,0,,{\i1}Dĩ nhiên là mình biết tỏng rồi.
+Dialogue: 0,0:05:15.66,0:05:18.25,Default,Kousuke(M),0,0,0,,{\i1}Cái cảnh kết thúc game của cậu mình đã cày đi cày lại không biết bao nhiêu lần.
+Dialogue: 0,0:05:18.25,0:05:21.05,Default,Kousuke(M),0,0,0,,{\i1}Thậm chí đến cả gu 'mặn ngọt' trên giường của cậu mình còn rành rẽ nữa là.
+Dialogue: 0,0:05:21.05,0:05:21.96,Default,Kousuke,0,0,0,,À, phải rồi!
+Dialogue: 0,0:05:21.96,0:05:24.67,Default,Kousuke,0,0,0,,Cậu có thể làm bạn diễn giúp tôi làm một cuộc thử nghiệm nhỏ\Nvề ma pháp hiến tặng ma lực được không?
+Dialogue: 0,0:05:24.97,0:05:26.30,Default,Ludie,0,0,0,,Tại sao lại là tôi?
+Dialogue: 0,0:05:26.30,0:05:28.14,Default,Kousuke,0,0,0,,Tôi sẽ bao cậu một chầu ăn ngon!
+Dialogue: 0,0:05:28.14,0:05:29.60,Default,Ludie,0,0,0,,Tôi muốn ăn mì ra...
+Dialogue: 0,0:05:30.76,0:05:32.56,Default,Ludie,0,0,0,,Ý tôi là, được thôi.
+Dialogue: 0,0:05:35.27,0:05:36.52,Default,Kousuke,0,0,0,,Đừng căng thẳng quá nhé.
+Dialogue: 0,0:05:36.52,0:05:37.77,Default,Ludie,0,0,0,,Ai thèm căng thẳng chứ!
+Dialogue: 0,0:05:42.82,0:05:43.98,Default,Ludie,0,0,0,,Cảm giác như... luồng ma lực đang tới rồi.
+Dialogue: 0,0:05:44.40,0:05:46.74,Default,Kousuke,0,0,0,,Tôi đẩy mạnh thêm chút nữa được không?
+Dialogue: 0,0:05:46.74,0:05:50.45,Default,Ludie,0,0,0,,Được, ma lực đang truyền vào người tôi rồi đây.
+Dialogue: 0,0:05:50.45,0:05:51.08,Default,Ludie,0,0,0,,Cứ tự nhiên đi,
+Dialogue: 0,0:05:51.08,0:05:52.12,Default,Ludie,0,0,0,,đẩy vào sâu hơn nữa...
+Dialogue: 0,0:05:54.54,0:05:56.71,Default,Ludie,0,0,0,,N-Này!
+Dialogue: 0,0:05:57.21,0:05:58.62,Default,Ludie,0,0,0,,Thế này có an toàn thật không đấy?
+Dialogue: 0,0:05:58.62,0:06:01.34,Default,Ludie,0,0,0,,Cảm giác nó cứ nhột nhột kỳ lạ thế nào ấy?!
+Dialogue: 0,0:06:01.34,0:06:03.67,Default,Kousuke,0,0,0,,Tôi tin chắc là an toàn mà.
+Dialogue: 0,0:06:05.05,0:06:06.30,Default,Kousuke,0,0,0,,Này.
+Dialogue: 0,0:06:06.30,0:06:07.67,Default,Kousuke,0,0,0,,Cậu đừng có phát ra mấy tiếng rên kỳ cục thế chứ.
+Dialogue: 0,0:06:07.67,0:06:09.18,Default,Ludie,0,0,0,,Nguy hiểm quá.
+Dialogue: 0,0:06:09.55,0:06:10.39,Default,Ludie,0,0,0,,Dừng lại mau!
+Dialogue: 0,0:06:10.39,0:06:12.97,Default,Kousuke,0,0,0,,Đang truyền dở làm sao mà phanh gấp được!
+Dialogue: 0,0:06:12.97,0:06:14.47,Default,Ludie,0,0,0,,Đồ ngốc này!
+Dialogue: 0,0:06:26.78,0:06:30.16,Default,Ludie,0,0,0,,Cứu... tôi... với...
+Dialogue: 0,0:06:33.74,0:06:34.99,Default,Kousuke,0,0,0,,Ludie?!
+Dialogue: 0,0:06:37.50,0:06:42.00,Default,Kousuke(M),0,0,0,,{\i1}Mình không ngờ ma pháp hiến tặng ma lực lại có cái tác dụng phụ 'nóng bỏng' thế này.
+Dialogue: 0,0:06:42.00,0:06:43.38,Default,Kousuke(M),0,0,0,,{\i1}Sau này chắc phải cân nhắc kỹ thời điểm sử dụng mới được.
+Dialogue: 0,0:06:54.56,0:06:56.10,Default,Kousuke(M),0,0,0,,{\i1}Đằng nào cũng lỡ va chạm trực diện rồi,
+Dialogue: 0,0:06:56.10,0:06:58.14,Default,Kousuke(M),0,0,0,,{\i1}thì mình thà chịu trận trong khi được ngắm cơ thể khỏa thân của Ludie còn hơn!
+Dialogue: 0,0:06:58.14,0:06:58.85,Default,Kousuke(M),0,0,0,,{\i1}Liệu mình có làm được không?
+Dialogue: 0,0:06:58.85,0:06:59.69,Default,Kousuke(M),0,0,0,,{\i1}Có được không đây ta?
+Dialogue: 0,0:06:59.69,0:07:01.10,Default,Kousuke(M),0,0,0,,{\i1}Mình thực sự khao khát muốn nhìn thấy nó!
+Dialogue: 0,0:07:01.10,0:07:02.94,Default,Kousuke(M),0,0,0,,{\i1}Làm ơn cho con được thấy đi mà!
+Dialogue: 0,0:07:05.11,0:07:07.07,Default,Kousuke(M),0,0,0,,{\i1}Cậu ấy... quấn khăn tắm sao?!
+Dialogue: 0,0:07:07.07,0:07:09.24,Default,Kousuke(M),0,0,0,,{\i1}Cái khăn tắm chết tiệt đó từ đâu chui ra vậy?
+Dialogue: 0,0:07:09.86,0:07:11.57,Default,Kousuke(M),0,0,0,,{\i1}Tại sao cậu ấy lại quấn khăn tắm cơ chứ?!
+Dialogue: 0,0:07:11.57,0:07:14.53,Default,Kousuke(M),0,0,0,,{\i1}Tại sao trên đời lại tồn tại cái khăn tắm phá đám đó hả trời?!
+Dialogue: 0,0:07:14.53,0:07:16.33,Default,Kousuke(M),0,0,0,,{\i1}Trong thế giới ảo,
+Dialogue: 0,0:07:16.33,0:07:18.58,Default,Kousuke(M),0,0,0,,{\i1}mình đã ngắm cơ thể nguyên thủy không một mảnh vải che thân\Ncủa cậu ấy vô số lần rồi.
+Dialogue: 0,0:07:18.58,0:07:20.75,Default,Kousuke(M),0,0,0,,{\i1}Giờ mình muốn tận mắt chiêm ngưỡng nó ngoài đời thực!
+Dialogue: 0,0:07:20.75,0:07:22.25,Default,Kousuke(M),0,0,0,,{\i1}Tại sao lại không cho mình thấy chứ?
+Dialogue: 0,0:07:22.25,0:07:23.21,Default,Kousuke(M),0,0,0,,{\i1}Mình muốn thấy!
+Dialogue: 0,0:07:23.21,0:07:25.25,Default,Kousuke(M),0,0,0,,{\i1}Rất muốn thấy!
+Dialogue: 0,0:07:34.60,0:07:35.60,Default,Kousuke(M),0,0,0,,{\i1}Thấy rồi...
+Dialogue: 0,0:07:35.60,0:07:36.60,Default,Kousuke(M),0,0,0,,{\i1}Mình nhìn thấy rồi!
+Dialogue: 0,0:07:36.60,0:07:38.06,Default,Kousuke(M),0,0,0,,{\i1}Phía trên bầu ngực căng tràn kia, chính là...
+Dialogue: 0,0:07:38.06,0:07:40.81,Default,Ludie,0,0,0,,Cậu đang nhìn chằm chằm vào đâu đấy hả?!
+Dialogue: 0,0:07:42.52,0:07:44.65,Default,Kousuke,0,0,0,,Tôi xin lỗi!
+Dialogue: 0,0:07:50.28,0:07:52.11,Default,Ludie,0,0,0,,Thôi được rồi.
+Dialogue: 0,0:07:53.45,0:07:55.16,Default,Ludie,0,0,0,,Lần này tôi tha thứ cho cậu đấy.
+Dialogue: 0,0:07:55.41,0:07:56.95,Default,Ludie,0,0,0,,Dù sao thì tôi cũng đã quấn khăn tắm cẩn thận rồi.
+Dialogue: 0,0:07:56.95,0:07:59.70,Default,Kousuke,0,0,0,,Đa tạ tiểu thư Ludie đại lượng!
+Dialogue: 0,0:07:59.70,0:08:00.66,Default,Kousuke(M),0,0,0,,{\i1}Xin lỗi cậu nhé.
+Dialogue: 0,0:08:00.66,0:08:02.37,Default,Kousuke(M),0,0,0,,{\i1}Nhưng sự thật là mình đã nhìn thấu toàn bộ không sót hạt bụi nào rồi.
+Dialogue: 0,0:08:02.71,0:08:07.29,Default,Ludie,0,0,0,,Nhưng... nhưng cậu phải chịu trách nhiệm với tôi đấy!
+Dialogue: 0,0:08:07.59,0:08:08.21,Default,Kousuke,0,0,0,,Hả?
+Dialogue: 0,0:08:08.21,0:08:10.76,Default,Kousuke(M),0,0,0,,{\i1}Khoan đã, chịu trách nhiệm sao?
+Dialogue: 0,0:08:10.76,0:08:11.59,Default,Kousuke(M),0,0,0,,{\i1}Ý cậu ấy là...
+Dialogue: 0,0:08:11.88,0:08:15.01,Default,Ludie,0,0,0,,Dù sao thì tôi cũng là người có thân phận cao quý.
+Dialogue: 0,0:08:15.51,0:08:18.35,Default,Ludie,0,0,0,,Có những khía cạnh của tôi tuyệt đối không được để ai nhìn thấy...
+Dialogue: 0,0:08:18.64,0:08:21.56,Default,Ludie,0,0,0,,Ừm thì... tôi đã trót sa vào lưới tình mất rồi.
+Dialogue: 0,0:08:21.98,0:08:24.31,Default,Ludie,0,0,0,,Tôi thấy xấu hổ quá nên chẳng dám hé răng với ai cả.
+Dialogue: 0,0:08:24.31,0:08:26.86,Default,Ludie,0,0,0,,Nhưng cơ thể tôi cứ thèm khát nó không tài nào kìm lại được.
+Dialogue: 0,0:08:28.23,0:08:29.65,Default,Ludie,0,0,0,,Takioto Kousuke!
+Dialogue: 0,0:08:29.65,0:08:30.73,Default,Kousuke,0,0,0,,Dạ có tôi!
+Dialogue: 0,0:08:34.70,0:08:37.41,Default,Ludie,0,0,0,,Tôi muốn ăn mì ramen!
+Dialogue: 0,0:08:39.28,0:08:42.83,sign_Verdana,Sign,0,0,0,,{\an8\c&HFFF8E6&\3c&HBC9830&\shad0\bord4\fs15}Đang dọn dẹp
+Dialogue: 0,0:08:41.20,0:08:42.83,Default,Kousuke,0,0,0,,Cậu mặc cái bộ đồ cải trang quái dị gì thế này?
+Dialogue: 0,0:08:42.83,0:08:44.41,Default,Ludie,0,0,0,,Là người của gia tộc Trémoille,
+Dialogue: 0,0:08:44.41,0:08:48.13,Default,Ludie,0,0,0,,tôi làm sao có thể để thiên hạ bắt gặp cảnh mình đang húp mì xì xụp được!
+Dialogue: 0,0:08:48.13,0:08:50.75,Default,Kousuke,0,0,0,,Chị Claris mà biết là sẽ lo sốt vó lên cho xem.
+Dialogue: 0,0:08:54.72,0:09:01.68,sign_TimesNewRoman,Sign,0,0,0,,{\an8\c&HA0F1FB&\3c&H5F89B5&\shad0}Bánh Ngọt & Trà Xanh Matcha
+Dialogue: 0,0:08:53.38,0:08:54.72,Default,Kousuke,0,0,0,,Ủa, kia là tiền bối Yukine phải không?
+Dialogue: 0,0:08:58.80,0:09:01.68,Default,Yukine,0,0,0,,Tôi không ngờ lại bắt gặp tiểu thư Trémoille ở nơi này đấy.
+Dialogue: 0,0:09:03.56,0:09:05.44,Default,Ludie,0,0,0,,Chị là sư phụ của Kousuke đúng không?
+Dialogue: 0,0:09:05.44,0:09:06.65,Default,Ludie,0,0,0,,Chị cứ gọi em là Ludie được rồi ạ.
+Dialogue: 0,0:09:06.65,0:09:07.90,Default,Yukine,0,0,0,,Ra vậy.
+Dialogue: 0,0:09:07.90,0:09:10.90,Default,Yukine,0,0,0,,Thế thì chị cũng sẽ gọi em là Ludie nhé.
+Dialogue: 0,0:09:10.90,0:09:11.90,Default,Ludie,0,0,0,,Vâng, tuyệt quá!
+Dialogue: 0,0:09:12.23,0:09:16.11,Default,Kousuke,0,0,0,,Tiền bối ơi, lần tới chị có muốn đi ăn kem trà xanh parfait với em không ạ?
+Dialogue: 0,0:09:16.11,0:09:18.28,Default,Kousuke,0,0,0,,Chúng ta có thể gọi đủ loại món khác nhau rồi cùng chia sẻ.
+Dialogue: 0,0:09:18.28,0:09:19.32,Default,Yukine,0,0,0,,Em nói thật đấy chứ?
+Dialogue: 0,0:09:19.74,0:09:21.54,Default,Kousuke,0,0,0,,Chị lúc nào cũng tận tình chỉ dạy em mà.
+Dialogue: 0,0:09:21.54,0:09:23.00,Default,Kousuke,0,0,0,,Cứ để em bao chị một bữa nhé!
+Dialogue: 0,0:09:24.25,0:09:25.96,Default,Yukine,0,0,0,,Takioto!
+Dialogue: 0,0:09:25.96,0:09:28.50,Default,Ludie,0,0,0,,Kousuke, cậu cũng thích ăn kem parfait sao?
+Dialogue: 0,0:09:28.50,0:09:30.84,Default,Kousuke,0,0,0,,Tôi là tín đồ của tất cả các món đồ ngọt.
+Dialogue: 0,0:09:30.84,0:09:32.96,Default,Kousuke,0,0,0,,Đặc biệt là vị trà xanh matcha thì tôi không tài nào cưỡng lại nổi.
+Dialogue: 0,0:09:32.96,0:09:33.92,Default,Yukine,0,0,0,,Chị cũng thế đấy!
+Dialogue: 0,0:09:33.92,0:09:35.30,Default,Yukine,0,0,0,,Cứ hễ thấy matcha là chị mất hết tự chủ luôn.
+Dialogue: 0,0:09:36.43,0:09:37.55,Default,Kousuke(M),0,0,0,,{\i1}Em biết tỏng rồi mà!
+Dialogue: 0,0:09:37.93,0:09:40.85,Default,Kousuke(M),0,0,0,,{\i1}Tất tần tật mọi thứ về chị em đều nắm rõ như lòng bàn tay, Tiền bối à.
+Dialogue: 0,0:09:41.39,0:09:42.51,Default,Kousuke,0,0,0,,Cậu cũng đi chung với bọn tôi nhé?
+Dialogue: 0,0:09:43.47,0:09:44.85,Default,Ludie,0,0,0,,Được thôi, nhưng mà...
+Dialogue: 0,0:09:46.98,0:09:49.19,Default,Kousuke,0,0,0,,Tất nhiên rồi, hôm nay mục tiêu chính là mì ra—
+Dialogue: 0,0:09:47.98,0:09:51.02,Default,Ludie,0,0,0,,Suỵt!
+Dialogue: 0,0:09:51.36,0:09:52.44,Default,Aurelian,0,0,0,,Tìm thấy cô rồi nhé.
+Dialogue: 0,0:09:59.07,0:10:00.24,Default,Kousuke,0,0,0,,Ludie!
+Dialogue: 0,0:10:04.70,0:10:07.37,Default,Yukine,0,0,0,,Chuyện quái gì đang xảy ra thế này?
+Dialogue: 0,0:10:08.71,0:10:13.84,Default,Kousuke,0,0,0,,Tiền bối ơi, chị vào trong đó cùng em được không?
+Dialogue: 0,0:10:14.30,0:10:15.84,Default,Kousuke,0,0,0,,Em có linh cảm chẳng lành chút nào.
+Dialogue: 0,0:10:16.59,0:10:17.80,Default,Kousuke,0,0,0,,Xin chị đấy!
+Dialogue: 0,0:10:23.06,0:10:26.06,Default,Kousuke(M),0,0,0,,{\i1}Hầm ngục này, Cung Điện Vô Thường (Palace of Worldly Impermanence),
+Dialogue: 0,0:10:26.06,0:10:28.39,Default,Kousuke(M),0,0,0,,{\i1}thực chất là một tòa biệt thự kiểu phương Tây cổ kính đã hoang phế.
+Dialogue: 0,0:10:44.33,0:10:45.54,Default,Kousuke,0,0,0,,Cái này là gì thế ạ?
+Dialogue: 0,0:10:45.54,0:10:46.83,Default,Yukine,0,0,0,,Đó là các hạt tàn dư ma pháp.
+Dialogue: 0,0:10:46.83,0:10:48.41,Default,Yukine,0,0,0,,Em cũng có thể gọi nó là điểm kinh nghiệm (EXP).
+Dialogue: 0,0:10:48.96,0:10:50.62,Default,Yukine,0,0,0,,Còn đây là phù thạch ma pháp.
+Dialogue: 0,0:10:50.62,0:10:52.42,Default,Yukine,0,0,0,,Sau khi nhập học em sẽ được dạy chi tiết về nó.
+Dialogue: 0,0:10:58.63,0:11:00.76,Default,Yukine,0,0,0,,Đây là phù thạch khắc ma pháp hệ Hỏa.
+Dialogue: 0,0:11:00.76,0:11:02.43,Default,Kousuke(M),0,0,0,,{\i1}Y hệt như trong game vậy.
+Dialogue: 0,0:11:02.43,0:11:05.76,Default,Kousuke(M),0,0,0,,{\i1}Một vật phẩm sẽ tự động kích hoạt câu thần chú được khắc trên đá khi ta truyền ma lực vào.
+Dialogue: 0,0:11:06.56,0:11:08.48,Default,Kousuke,0,0,0,,Em giữ nó có được không chị?
+Dialogue: 0,0:11:08.48,0:11:09.27,Default,Yukine,0,0,0,,Được chứ.
+Dialogue: 0,0:11:09.27,0:11:10.44,Default,Yukine,0,0,0,,Nó sẽ có ích cho em đấy.
+Dialogue: 0,0:11:10.94,0:11:11.90,Default,Yukine,0,0,0,,Nhanh chân lên nào.
+Dialogue: 0,0:11:17.36,0:11:18.86,Default,Kousuke,0,0,0,,Có một ngã rẽ kìa.
+Dialogue: 0,0:11:19.49,0:11:20.65,Default,Kousuke,0,0,0,,Chúng ta rẽ phải đi chị.
+Dialogue: 0,0:11:23.16,0:11:25.12,Default,Kousuke(M),0,0,0,,{\i1}Đây là sự kiện cốt truyện liên quan đến Giáo hội Tà Thần (Church of the Malevolent Lord).
+Dialogue: 0,0:11:25.12,0:11:26.49,Default,Kousuke(M),0,0,0,,{\i1}Đáng lẽ ra nó chỉ xuất hiện khi
+Dialogue: 0,0:11:26.49,0:11:30.00,Default,Kousuke(M),0,0,0,,{\i1}ta phát triển tuyến tình cảm của Ludie sau khi đã vào học viện cơ mà.
+Dialogue: 0,0:11:30.00,0:11:32.17,Default,Kousuke(M),0,0,0,,{\i1}Sự kiện này hoàn toàn không nên bị kích hoạt vào thời điểm này mới phải!
+Dialogue: 0,0:11:32.17,0:11:33.38,Default,Kousuke,0,0,0,,Tiếp theo rẽ trái nhé chị.
+Dialogue: 0,0:11:33.79,0:11:38.13,Default,Kousuke(M),0,0,0,,{\i1}Sự xuất hiện của mình ở thế giới này chắc chắn là nguyên nhân khiến dòng thời gian bị xáo trộn.
+Dialogue: 0,0:11:41.55,0:11:45.93,Default,Kousuke(M),0,0,0,,{\i1}Với thực lực hiện tại của Ludie, cậu ấy khó lòng mà thắng nổi lũ quái vật.
+Dialogue: 0,0:11:50.73,0:11:52.14,Default,Kousuke(M),0,0,0,,{\i1}Phải nhanh chân lên mới kịp!
+Dialogue: 0,0:11:52.94,0:11:53.90,Default,Yukine,0,0,0,,Có chuyện gì thế em?
+Dialogue: 0,0:11:54.19,0:11:54.94,Default,Kousuke,0,0,0,,Dạ không có gì ạ.
+Dialogue: 0,0:11:54.94,0:11:56.65,Default,Kousuke,0,0,0,,Chúng ta đi theo lối bên trái này đi.
+Dialogue: 0,0:11:57.82,0:12:00.99,Default,Kousuke(M),0,0,0,,{\i1}Biết trước cốt truyện lẽ ra phải là lợi thế của mình,
+Dialogue: 0,0:12:01.99,0:12:04.36,Default,Kousuke(M),0,0,0,,{\i1}nhưng chính vì biết quá rõ nên mình lại càng không thể giữ được bình tĩnh.
+Dialogue: 0,0:12:05.45,0:12:06.66,Default,Yukine,0,0,0,,Takioto.
+Dialogue: 0,0:12:07.41,0:12:09.87,Default,Yukine,0,0,0,,Tại sao em lại biết đường đi nước bước ở đây?
+Dialogue: 0,0:12:09.87,0:12:12.41,Default,Yukine,0,0,0,,Có thật là Ludie đang ở phía trước không?
+Dialogue: 0,0:12:13.29,0:12:15.00,Default,Yukine,0,0,0,,Rốt cuộc em biết được những gì?
+Dialogue: 0,0:12:15.00,0:12:16.59,Default,Kousuke,0,0,0,,Em xin lỗi.
+Dialogue: 0,0:12:16.59,0:12:17.96,Default,Kousuke,0,0,0,,Hiện tại em chưa thể nói cho chị biết được ạ.
+Dialogue: 0,0:12:17.96,0:12:21.47,Default,Kousuke,0,0,0,,Bản thân em cũng chỉ mong Ludie không có mặt ở đây.
+Dialogue: 0,0:12:21.47,0:12:23.22,Default,Kousuke,0,0,0,,Nhưng nếu cậu ấy thực sự ở phía trước,
+Dialogue: 0,0:12:23.22,0:12:24.93,Default,Kousuke,0,0,0,,và đang bị lũ quái vật tấn công...
+Dialogue: 0,0:12:25.26,0:12:26.89,Default,Kousuke(M),0,0,0,,{\i1}Cách duy nhất là phải xông tới đó bằng mọi giá!
+Dialogue: 0,0:12:28.31,0:12:31.60,Default,Kousuke,0,0,0,,Em xin lỗi vì đã kéo chị đi theo rồi lại giấu giếm thế này...
+Dialogue: 0,0:12:34.06,0:12:35.15,Default,Kousuke,0,0,0,,Em...
+Dialogue: 0,0:12:38.02,0:12:38.90,Default,Yukine,0,0,0,,Không sao đâu.
+Dialogue: 0,0:12:38.90,0:12:40.28,Default,Yukine,0,0,0,,Chị mới là người phải xin lỗi.
+Dialogue: 0,0:12:40.73,0:12:41.94,Default,Kousuke,0,0,0,,Tiền bối?
+Dialogue: 0,0:12:41.94,0:12:43.90,Default,Yukine,0,0,0,,Chị đã làm gián đoạn bước chân của em.
+Dialogue: 0,0:12:43.90,0:12:44.70,Default,Yukine,0,0,0,,Đi tiếp thôi nào!
+Dialogue: 0,0:12:45.03,0:12:45.99,Default,Kousuke,0,0,0,,Lần tới chạm trán quái vật...
+Dialogue: 0,0:12:49.33,0:12:51.12,Default,Kousuke,0,0,0,,Chị hãy cho phép em được cùng chiến đấu nhé!
+Dialogue: 0,0:12:59.04,0:13:00.34,Default,Kousuke(M),0,0,0,,{\i1}Đúng như mình dự tính,
+Dialogue: 0,0:13:00.34,0:13:03.09,Default,Kousuke(M),0,0,0,,{\i1}kỹ năng Tâm Nhãn đã giúp việc cảm nhận đòn đánh và chiến đấu trở nên dễ dàng hơn bao giờ hết!
+Dialogue: 0,0:13:09.60,0:13:11.64,Default,Yukine,0,0,0,,Sức mạnh đó là sao vậy chứ?
+Dialogue: 0,0:13:11.64,0:13:14.60,Default,Yukine,0,0,0,,Thằng bé thế mà đã lĩnh hội thành công kỹ năng Tâm Nhãn rồi ư?!
+Dialogue: 0,0:13:17.48,0:13:18.44,Default,Kousuke,0,0,0,,Một con quỷ Ogre!
+Dialogue: 0,0:13:18.44,0:13:19.40,Default,Kousuke(M),0,0,0,,{\i1}Tệ thật rồi!
+Dialogue: 0,0:13:19.40,0:13:20.32,Default,Kousuke(M),0,0,0,,{\i1}Phải nhanh hơn nữa!
+Dialogue: 0,0:13:23.19,0:13:24.15,Default,Kousuke,0,0,0,,Em xin lỗi!
+Dialogue: 0,0:13:24.15,0:13:25.65,Default,Kousuke,0,0,0,,Chỗ quái này nhờ hết vào chị đấy, Tiền bối!
+Dialogue: 0,0:13:30.16,0:13:31.95,Default,Yukine,0,0,0,,Takioto, em đi một mình như thế là quá nguy hiểm đấy!
+Dialogue: 0,0:13:32.33,0:13:33.33,Default,Yukine,0,0,0,,Quay lại mau!
+Dialogue: 0,0:13:40.79,0:13:41.67,Default,Kousuke(M),0,0,0,,{\i1}Chết tiệt!
+Dialogue: 0,0:13:41.67,0:13:42.59,Default,Kousuke(M),0,0,0,,{\i1}Cầu mong là mình vẫn chưa tới quá muộn!
+Dialogue: 0,0:13:42.92,0:13:44.09,Default,Kousuke(M),0,0,0,,{\i1}Ludie!
+Dialogue: 0,0:13:49.64,0:13:51.97,Default,Kousuke,0,0,0,,Buông cậu ấy ra ngay!
+Dialogue: 0,0:14:04.99,0:14:06.28,Default,Kousuke,0,0,0,,Ta không cho phép ngươi động vào cậu ấy!
+Dialogue: 0,0:14:14.08,0:14:14.91,Default,Ludie,0,0,0,,Kousuke...
+Dialogue: 0,0:14:33.89,0:14:35.22,Default,Ludie,0,0,0,,Kousuke, tránh ra mau!
+Dialogue: 0,0:14:39.14,0:14:40.35,Default,Ludie,0,0,0,,Mình làm được rồi!
+Dialogue: 0,0:14:48.11,0:14:49.45,Default,Ludie,0,0,0,,Nhưng mà...
+Dialogue: 0,0:14:50.24,0:14:51.82,Default,Kousuke(M),0,0,0,,{\i1}Ogre Vô Tình (Heartless Ogre)...
+Dialogue: 0,0:14:52.16,0:14:55.04,Default,Kousuke(M),0,0,0,,{\i1}Theo lẽ thường, đây phải là con trùm hầm ngục xuất hiện ở giữa game cơ mà!
+Dialogue: 0,0:14:55.49,0:14:58.08,Default,Kousuke(M),0,0,0,,{\i1}Với thực lực sơ cấp giai đoạn đầu game của mình và Ludie hiện tại,
+Dialogue: 0,0:14:58.08,0:14:59.41,Default,Kousuke(M),0,0,0,,{\i1}bọn mình hoàn toàn không có cửa chiến thắng!
+Dialogue: 0,0:15:02.54,0:15:04.38,Default,Kousuke(M),0,0,0,,{\i1}Con quái vật chuyên tạo ra những Kết Cục Bi Thảm (Bad Ending)!
+Dialogue: 0,0:15:06.00,0:15:06.88,Default,Kousuke,0,0,0,,Ludie!
+Dialogue: 0,0:15:06.88,0:15:08.76,Default,Kousuke,0,0,0,,Dù có thế nào cũng tuyệt đối không được nhảy theo tôi đấy nhé!
+Dialogue: 0,0:15:08.76,0:15:09.47,Default,Ludie,0,0,0,,Hả?!
+Dialogue: 0,0:15:14.05,0:15:16.10,Default,Kousuke,0,0,0,,Mình không ngờ lại phải dùng đến con bài này trong hoàn cảnh trớ trêu thế này.
+Dialogue: 0,0:15:18.89,0:15:20.77,Default,Kousuke,0,0,0,,Nếu như mình mạnh hơn nữa,
+Dialogue: 0,0:15:20.77,0:15:23.36,Default,Kousuke,0,0,0,,thì đã chẳng phải dùng đến hạ sách này rồi!
+Dialogue: 0,0:15:29.86,0:15:32.28,Default,Ludie,0,0,0,,Kousuke!
+Dialogue: 0,0:15:40.16,0:15:44.46,Default,Kousuke,0,0,0,,Ủa, sao người rơi xuống đây lại là bọn mình thế này?!
+Dialogue: 0,0:15:45.63,0:15:46.80,Default,Kousuke(M),0,0,0,,{\i1}Trong game gốc,
+Dialogue: 0,0:15:46.80,0:15:50.76,Default,Kousuke(M),0,0,0,,{\i1}đây là một cái bẫy gợi cảm chuyên kích hoạt mấy phân cảnh ecchi 'bỏng mắt'.
+Dialogue: 0,0:15:50.76,0:15:53.51,Default,Kousuke(M),0,0,0,,{\i1}Chất nhầy trơn tuột của slime sẽ hút cạn kiệt ma lực,
+Dialogue: 0,0:15:53.51,0:15:56.68,Default,Kousuke(M),0,0,0,,{\i1}khiến các nữ chính ngày càng trở nên nhạy cảm và hưng phấn hơn.
+Dialogue: 0,0:15:57.68,0:15:59.39,Default,Kousuke,0,0,0,,Này, mày có biết không hả con quái kia?
+Dialogue: 0,0:15:59.89,0:16:06.82,Default,Kousuke,0,0,0,,Chín mươi chín phần trăm mấy tựa game eroge RPG\Nđều nhét vào mấy cái cạm bẫy xàm xí nhảm nhí này đấy!
+Dialogue: 0,0:16:09.19,0:16:12.53,Default,Kousuke,0,0,0,,Để xem đứa nào sẽ kiệt sức trước nhé!
+Dialogue: 0,0:16:12.53,0:16:14.53,Default,Kousuke,0,0,0,,Mạng sống của mày? Hay là bình ma lực khổng lồ của tao?!
+Dialogue: 0,0:16:15.37,0:16:17.45,Default,Kousuke,0,0,0,,Chơi khô máu một mất một còn luôn nào!
+Dialogue: 0,0:16:46.73,0:16:47.44,Default,Kousuke,0,0,0,,Này.
+Dialogue: 0,0:16:47.81,0:16:48.36,Default,Kousuke,0,0,0,,Xin lỗi vì đã để cậu phải chờ lâu nhé.
+Dialogue: 0,0:16:49.73,0:16:50.82,Default,Ludie,0,0,0,,Kousuke!
+Dialogue: 0,0:16:51.15,0:16:53.90,Default,Ludie,0,0,0,,Cậu có biết mình vừa làm cái trò điên rồ gì không hả?!
+Dialogue: 0,0:16:56.53,0:16:58.78,Default,Ludie,0,0,0,,Nhìn người cậu toàn chất nhờn nhầy nhụa ghê quá đi mất!
+Dialogue: 0,0:16:59.37,0:17:00.74,Default,Kousuke,0,0,0,,Thấy cậu bình an vô sự là tôi yên tâm rồi.
+Dialogue: 0,0:17:01.54,0:17:03.04,Default,Ludie,0,0,0,,Cảm ơn cậu nhé...
+Dialogue: 0,0:17:03.04,0:17:03.71,Default,Kousuke,0,0,0,,Không có chi.
+Dialogue: 0,0:17:07.58,0:17:09.63,Default,Yukine,0,0,0,,Tại sao hai đứa lại dám bỏ chị lại phía sau hả?
+Dialogue: 0,0:17:09.63,0:17:11.13,Default,Kousuke,0,0,0,,Em xin lỗi ạ.
+Dialogue: 0,0:17:11.13,0:17:13.09,Default,Kousuke,0,0,0,,Tình huống cấp bách quá nên em không kìm được lòng.
+Dialogue: 0,0:17:13.09,0:17:15.84,Default,Yukine,0,0,0,,Thấy hai đứa không sao là chị mừng lắm rồi.
+Dialogue: 0,0:17:15.84,0:17:18.47,Default,Ludie,0,0,0,,Cảm ơn chị rất nhiều, chị Yukine.
+Dialogue: 0,0:17:18.47,0:17:19.55,Default,Yukine,0,0,0,,Được rồi, giờ thì...
+Dialogue: 0,0:17:19.55,0:17:22.18,Default,Yukine,0,0,0,,Chị muốn chúng ta rời khỏi đây càng sớm càng tốt,
+Dialogue: 0,0:17:22.68,0:17:25.44,Default,Yukine,0,0,0,,nhưng có vẻ như chúng ta không có phù thạch dịch chuyển thoát hiểm nào cả.
+Dialogue: 0,0:17:25.73,0:17:29.56,Default,Kousuke,0,0,0,,Thực ra thì em biết một lối thoát hiểm đấy ạ.
+Dialogue: 0,0:17:33.23,0:17:35.53,Default,Yukine,0,0,0,,Sao mặt em lại méo xẹo như thế kia?
+Dialogue: 0,0:17:35.53,0:17:39.28,Default,Kousuke,0,0,0,,À thì... cách này rất dễ, nhưng đồng thời...
+Dialogue: 0,0:17:39.28,0:17:40.37,Default,Kousuke,0,0,0,,phải nói sao nhỉ, nó cũng vô cùng nan giải và khó xử ạ?
+Dialogue: 0,0:17:44.87,0:17:45.83,Default,Kousuke,0,0,0,,Nó ở đằng kia kìa chị.
+Dialogue: 0,0:17:47.00,0:17:48.75,Default,Yukine,0,0,0,,Chữ cổ đại sao.
+Dialogue: 0,0:17:50.75,0:17:53.71,Default,Kousuke,0,0,0,,Nếu cắm cây quyền trượng này vào cái lỗ đó,
+Dialogue: 0,0:17:53.71,0:17:56.97,Default,Kousuke,0,0,0,,nó sẽ chiếu ra một cái bóng hình người ở đằng kia.
+Dialogue: 0,0:17:56.97,0:17:58.34,Default,Yukine,0,0,0,,À, là cơ chế đó sao.
+Dialogue: 0,0:17:59.01,0:18:01.43,Default,Kousuke,0,0,0,,Nếu bắt chước tạo dáng y hệt như cái bóng hình người đó,
+Dialogue: 0,0:18:01.76,0:18:05.64,Default,Kousuke,0,0,0,,phù văn trên bệ thờ sẽ truyền một luồng ma lực đặc thù vào quyền trượng,
+Dialogue: 0,0:18:05.64,0:18:08.85,Default,Kousuke,0,0,0,,và vô hiệu hóa phong ấn nguồn năng lượng này.
+Dialogue: 0,0:18:08.85,0:18:10.56,Default,Ludie,0,0,0,,Chỉ đơn giản có thế thôi sao?
+Dialogue: 0,0:18:11.44,0:18:12.82,Default,Yukine,0,0,0,,Nghe chừng cũng dễ dàng đấy chứ.
+Dialogue: 0,0:18:12.82,0:18:14.82,Default,Kousuke(M),0,0,0,,{\i1}Đây là hầm ngục trong game eroge đấy hai người ơi!
+Dialogue: 0,0:18:15.32,0:18:17.86,Default,Kousuke(M),0,0,0,,{\i1}Đời nào tác giả lại chịu dừng lại ở mức đơn giản như thế chứ!
+Dialogue: 0,0:18:18.15,0:18:18.95,Default,Ludie,0,0,0,,Cái gì?
+Dialogue: 0,0:18:18.95,0:18:21.32,Default,Ludie,0,0,0,,Có gì thì cậu mau phun hết ra xem nào!
+Dialogue: 0,0:18:21.62,0:18:25.95,Default,Kousuke,0,0,0,,Hình như mấy cái bóng chiếu ra toàn là tư thế tạo dáng gợi cảm 'khiêu khích'...
+Dialogue: 0,0:18:27.79,0:18:31.04,Default,Kousuke,0,0,0,,Và cơ chế sẽ không kích hoạt trừ phi người tạo dáng mặc mấy bộ đồ bơi kia!
+Dialogue: 0,0:18:33.29,0:18:35.51,Default,Ludie,0,0,0,,Tại sao tôi lại phải làm cái trò quái đản như thế chứ?!
+Dialogue: 0,0:18:35.80,0:18:37.84,Default,Kousuke,0,0,0,,Đây là con đường duy nhất rồi mà!
+Dialogue: 0,0:18:37.84,0:18:39.76,Default,Ludie,0,0,0,,Cậu bớt giỡn mặt lại cho tôi nhờ!
+Dialogue: 0,0:18:39.76,0:18:41.18,Default,Kousuke,0,0,0,,Nếu chịu tạo dáng theo mấy tư thế gợi cảm đó,
+Dialogue: 0,0:18:41.18,0:18:42.97,Default,Kousuke,0,0,0,,thì ma lực sẽ được nạp đầy chỉ trong nháy mắt thôi!
+Dialogue: 0,0:18:42.97,0:18:44.68,Default,Kousuke,0,0,0,,Cái này đâu phải lỗi do tôi nghĩ ra đâu!
+Dialogue: 0,0:18:45.52,0:18:47.39,Default,Yukine,0,0,0,,Ý em là bộ đồ bơi này sao?
+Dialogue: 0,0:18:48.81,0:18:49.64,Default,Kousuke,0,0,0,,Tiện thể thì...
+Dialogue: 0,0:18:49.64,0:18:52.77,Default,Kousuke,0,0,0,,còn một điều nữa hai người cần phải hết sức lưu ý.
+Dialogue: 0,0:18:53.23,0:18:54.82,Default,Ludie,0,0,0,,Vẫn còn nữa á?!
+Dialogue: 0,0:18:54.82,0:18:55.69,Default,Kousuke(M),0,0,0,,{\i1}Đúng thế.
+Dialogue: 0,0:18:55.69,0:18:58.32,Default,Kousuke(M),0,0,0,,{\i1}Vẫn còn một điều kiện oái oăm quá mức quy định sắp sửa kích hoạt nữa.
+Dialogue: 0,0:18:58.86,0:19:00.95,Default,Kousuke(M),0,0,0,,{\i1}Đúng là phong cách đặc sản không lẫn vào đâu được của Magical Explorer.
+Dialogue: 0,0:19:00.95,0:19:02.95,Default,Kousuke,0,0,0,,Nếu tạo dáng sai tư thế dù chỉ một chút,
+Dialogue: 0,0:19:02.95,0:19:05.91,Default,Kousuke,0,0,0,,căn phòng sẽ phun ra một loại khí kích dục khiến người ta phát cuồng ham muốn.
+Dialogue: 0,0:19:07.58,0:19:10.17,Default,Kousuke,0,0,0,,Nhưng nghe đồn là sau khi xong xuôi,
+Dialogue: 0,0:19:10.17,0:19:11.71,Default,Kousuke,0,0,0,,cơ thể sẽ cảm thấy ấm áp sảng khoái,
+Dialogue: 0,0:19:11.71,0:19:12.58,Default,Kousuke,0,0,0,,tăng cường khả năng kháng lạnh,
+Dialogue: 0,0:19:12.58,0:19:13.50,Default,Kousuke,0,0,0,,thư giãn gân cốt vùng vai gáy,
+Dialogue: 0,0:19:13.50,0:19:14.79,Default,Kousuke,0,0,0,,và thúc đẩy tuần hoàn máu lưu thông cực tốt ạ.
+Dialogue: 0,0:19:10.46,0:19:14.79,sign_TimesNewRoman,txt,0,0,0,,{\an8\pos(504,89)\shad0\c&H30333B&\bord0\shad0}Kháng lạnh vượt trội
+Dialogue: 0,0:19:12.33,0:19:14.79,sign_TimesNewRoman,txt,0,0,0,,{\an8\shad0\c&H30333B&\bord0\shad0\pos(500,205)}Thư giãn vai gáy
+Dialogue: 0,0:19:13.08,0:19:14.79,sign_TimesNewRoman,txt,0,0,0,,{\an8\shad0\c&H30333B&\bord0\shad0\pos(500,312)}Lưu thông khí huyết
+Dialogue: 0,0:19:14.79,0:19:17.38,Default,Ludie,0,0,0,,Ai cần mấy cái công dụng tắm suối nước nóng ở cái chốn này hả trời!
+Dialogue: 0,0:19:17.38,0:19:21.26,Default,Ludie,0,0,0,,Hơn nữa, cái thứ khí kích thích bậy bạ đó nghe là thấy nguy hiểm chết đi được!
+Dialogue: 0,0:19:21.26,0:19:22.26,Default,Kousuke,0,0,0,,Cậu nói chuẩn không cần chỉnh!
+Dialogue: 0,0:19:22.26,0:19:24.39,Default,Kousuke,0,0,0,,Nhưng thực sự thì chúng ta chẳng còn cách nào khác cả.
+Dialogue: 0,0:19:24.72,0:19:26.72,Default,Ludie,0,0,0,,Thế sao cậu không tự mình ra mà làm đi?!
+Dialogue: 0,0:19:26.72,0:19:28.60,Default,Kousuke,0,0,0,,Cơ thể đực rựa của tôi thì làm sao ních vừa mấy bộ đồ bơi nữ đó chứ!
+Dialogue: 0,0:19:28.60,0:19:29.98,Default,Kousuke,0,0,0,,Mặc vào là lòng tự trọng của tôi bốc hơi sạch bách luôn đấy!
+Dialogue: 0,0:19:29.98,0:19:32.06,Default,Ludie,0,0,0,,Thế thì cậu cởi truồng ra mà làm!
+Dialogue: 0,0:19:32.06,0:19:33.44,Default,Kousuke,0,0,0,,Cậu điên rồi à, thế thì quá đáng lắm luôn đấy!
+Dialogue: 0,0:19:33.44,0:19:35.27,Default,Kousuke,0,0,0,,Hay là để tôi mặc nguyên quần áo rồi tạo dáng xem sao nhé?
+Dialogue: 0,0:19:35.27,0:19:36.86,Default,Ludie,0,0,0,,Cởi phăng nó ra mau!
+Dialogue: 0,0:19:36.86,0:19:37.73,Default,Kousuke,0,0,0,,Khoan đã!
+Dialogue: 0,0:19:37.73,0:19:38.74,Default,Kousuke,0,0,0,,Buông tay ra!
+Dialogue: 0,0:19:38.74,0:19:39.61,Default,Kousuke,0,0,0,,Bắt người ta khỏa thân là đi quá giới hạn rồi đấy!
+Dialogue: 0,0:19:39.61,0:19:42.28,Default,Kousuke,0,0,0,,Ít nhất cũng phải cho tôi chừa lại cái quần lót chứ!
+Dialogue: 0,0:19:42.28,0:19:44.37,Default,Yukine,0,0,0,,Chị sẵn sàng đặt trọn niềm tin vào Takioto.
+Dialogue: 0,0:19:44.37,0:19:45.03,Default,Kousuke,0,0,0,,Tiền bối!
+Dialogue: 0,0:19:45.03,0:19:49.41,Default,Yukine,0,0,0,,Ừ thì chị cũng thừa nhận đôi khi thằng bé nhìn chúng ta bằng ánh mắt...
+Dialogue: 0,0:19:49.41,0:19:51.29,Default,Yukine,0,0,0,,chị cũng chẳng biết phải diễn tả thế nào cho đúng nữa...
+Dialogue: 0,0:19:51.29,0:19:53.04,Default,Yukine,0,0,0,,Nói chung là thỉnh thoảng thằng bé hay nhìn lén dòm ngó tụi mình.
+Dialogue: 0,0:19:53.04,0:19:54.54,Default,Kousuke(M),0,0,0,,{\i1}Hóa ra mấy chị đã nhận ra hết rồi à...
+Dialogue: 0,0:19:55.29,0:19:57.55,Default,Yukine,0,0,0,,Nhưng chị đã tự vấn lại lòng mình.
+Dialogue: 0,0:19:57.55,0:20:00.88,Default,Yukine,0,0,0,,Liệu trong tình cảnh này Takioto có lý do gì để nói dối hay không?
+Dialogue: 0,0:20:00.88,0:20:04.05,Default,Yukine,0,0,0,,Không đâu, có lẽ chúng ta thực sự chẳng còn sự lựa chọn nào khác ngoài việc này.
+Dialogue: 0,0:20:09.18,0:20:10.89,Default,Ludie,0,0,0,,Thôi được rồi.
+Dialogue: 0,0:20:11.23,0:20:14.19,Default,Ludie,0,0,0,,Chỉ duy nhất một lần này thôi đấy nhé!
+Dialogue: 0,0:20:15.73,0:20:16.65,Default,Kousuke,0,0,0,,Cảm ơn hai người nhiều lắm.
+Dialogue: 0,0:20:16.98,0:20:19.61,Default,Kousuke,0,0,0,,Ở đây có ba bộ đồ bơi khác nhau này.
+Dialogue: 0,0:20:19.61,0:20:21.99,Default,Ludie,0,0,0,,Bộ nào mà chẳng như nhau chứ!
+Dialogue: 0,0:20:23.95,0:20:27.74,Default,Yukine,0,0,0,,Em mà cứ nhìn chằm chằm như thế thì...
+Dialogue: 0,0:20:27.74,0:20:31.33,Default,Ludie,0,0,0,,Chuẩn luôn, ngượng chết đi được ấy!
+Dialogue: 0,0:20:33.21,0:20:33.75,Default,Kousuke,0,0,0,,Tôi có lỗi, tôi có lỗi!
+Dialogue: 0,0:20:34.67,0:20:36.13,Default,Kousuke,0,0,0,,Chúng ta bắt đầu ngay thôi nào!
+Dialogue: 0,0:20:39.71,0:20:43.17,sign_Verdana,txt,0,0,0,,{\an7\fs13\pos(335,78)\c&HFFFFFA&\3c&H62ACA5&\shad0}Thời gian đến khi {\c&HE29FFD&}phun khí kích dục
+Dialogue: 0,0:20:39.71,0:20:43.17,sign_Verdana,txt,0,0,0,,{\an7\c&HFFFFFA&\3c&H62ACA5&\fs13\shad0\fsp3\pos(514,74)}giây
+Dialogue: 0,0:20:48.16,0:20:48.60,sign_Verdana,txt,0,0,0,,{\an7\fs13\pos(335,78)\c&HFFFFFA&\3c&H62ACA5&\shad0}Thời gian đến khi {\c&HE29FFD&}phun khí kích dục
+Dialogue: 0,0:20:48.16,0:20:48.60,sign_Verdana,txt,0,0,0,,{\an7\c&HFFFFFA&\3c&H62ACA5&\fs13\shad0\fsp3\pos(514,74)}giây
+Dialogue: 0,0:20:53.64,0:20:54.10,sign_Verdana,txt,0,0,0,,{\an7\fs13\pos(335,78)\c&HFFFFFA&\3c&H62ACA5&\shad0}Thời gian đến khi {\c&HE29FFD&}phun khí kích dục
+Dialogue: 0,0:20:53.64,0:20:54.10,sign_Verdana,txt,0,0,0,,{\an7\c&HFFFFFA&\3c&H62ACA5&\fs13\shad0\fsp3\pos(514,74)}giây
+Dialogue: 0,0:20:58.19,0:20:59.65,sign_Verdana,txt,0,0,0,,{\an7\fs13\pos(335,78)\c&HFFFFFA&\3c&H62ACA5&\shad0}Thời gian đến khi {\c&HE29FFD&}phun khí kích dục
+Dialogue: 0,0:20:58.19,0:20:59.65,sign_Verdana,txt,0,0,0,,{\an7\c&HFFFFFA&\3c&H62ACA5&\fs13\shad0\fsp3\pos(514,74)}giây
+Dialogue: 0,0:21:04.61,0:21:05.07,sign_Verdana,txt,0,0,0,,{\an7\fs13\pos(335,78)\c&HFFFFFA&\3c&H62ACA5&\shad0}Thời gian đến khi {\c&HE29FFD&}phun khí kích dục
+Dialogue: 0,0:21:04.61,0:21:05.07,sign_Verdana,txt,0,0,0,,{\an7\c&HFFFFFA&\3c&H62ACA5&\fs13\shad0\fsp3\pos(514,74)}giây
+Dialogue: 0,0:21:08.16,0:21:10.12,Default,Yukine,0,0,0,,Xong rồi, hoàn thành rồi!
+Dialogue: 0,0:21:10.12,0:21:11.33,Default,Yukine,0,0,0,,T-Tại sao chứ?
+Dialogue: 0,0:21:11.33,0:21:12.08,Default,Ludie,0,0,0,,Này!
+Dialogue: 0,0:21:12.08,0:21:13.50,Default,Ludie,0,0,0,,Vô lý hết sức!
+Dialogue: 0,0:21:16.04,0:21:16.50,sign_Verdana,txt,0,0,0,,{\an7\fs13\pos(335,78)\c&HFFFFFA&\3c&H62ACA5&\shad0}Thời gian đến khi {\c&HE29FFD&}phun khí kích dục
+Dialogue: 0,0:21:16.04,0:21:16.50,sign_Verdana,txt,0,0,0,,{\an7\c&HFFFFFA&\3c&H62ACA5&\fs13\shad0\fsp3\pos(514,74)}giây
+Dialogue: 0,0:21:16.50,0:21:17.96,Default,Yukine,0,0,0,,Nhanh lên nào Ludie!
+Dialogue: 0,0:21:17.96,0:21:19.25,Default,Yukine,0,0,0,,Đúng như lời Takioto nói đấy,
+Dialogue: 0,0:21:19.25,0:21:23.67,Default,Yukine,0,0,0,,thứ khí kích thích quái quỷ đó sắp sửa phun ra tới nơi rồi kìa!
+Dialogue: 0,0:21:23.67,0:21:26.05,Default,Ludie,0,0,0,,Làm sao mà tôi tạo được cái dáng xấu hổ đến nhường này chứ!
+Dialogue: 0,0:21:43.82,0:21:46.20,sign_Verdana,txt,0,0,0,,{\an7\fs13\c&H5A59FB&\3c&HEDF5F6&\shad0\fad(260,1)\pos(350,59)}Thời gian đến khi {\c&HE29FFD&}phun khí kích dục
+Dialogue: 0,0:21:43.82,0:21:46.20,sign_Verdana,txt,0,0,0,,{\an7\c&H4D4BFF&\3c&HD4E7EC&\fs13\shad0\fsp3\pos(552,61)\fad(260,1)}giây
+Dialogue: 0,0:21:49.07,0:21:50.24,Default,Yukine,0,0,0,,Tuyệt quá.
+Dialogue: 0,0:21:50.24,0:21:52.16,Default,Yukine,0,0,0,,Đã nạp đầy ma lực rồi!
+Dialogue: 0,0:21:52.16,0:21:57.17,sign_Georgia,Title,0,0,0,,{\an8\c&H8702ED&\3c&HFFF7FF&\shad0\fs40}Đặc Sản {\c&H111012&}Của Mọi {\c&H8702ED&}Game Eroge
+Dialogue: 0,0:21:57.17,0:21:58.67,Default,Marino,0,0,0,,Tàn dư của Giáo hội Tà Thần
+Dialogue: 0,0:21:58.67,0:22:00.13,Default,Marino,0,0,0,,đến giờ vẫn chưa bị tóm gọn hoàn toàn đâu đấy.
+Dialogue: 0,0:22:00.13,0:22:02.46,Default,Marino,0,0,0,,Em có nhận thức được việc bản thân đang là mục tiêu bị nhắm tới không hả?
+Dialogue: 0,0:22:02.46,0:22:04.34,Default,Marino,0,0,0,,Em không nhận ra đúng không?
+Dialogue: 0,0:22:05.51,0:22:08.47,Default,Kousuke(M),0,0,0,,{\i1}Mình bắt đầu quen với cái tư thế ngồi quỳ này rồi đấy...
+Dialogue: 0,0:22:08.84,0:22:11.18,Default,Marino,0,0,0,,Kou-chan, em có đang nghe chị nói gì không đấy?
+Dialogue: 0,0:22:14.64,0:22:17.35,Default,Kousuke(M),0,0,0,,{\i1}Sự cố vừa rồi đã khiến mình nhận ra một điều.
+Dialogue: 0,0:22:17.35,0:22:20.81,Default,Kousuke(M),0,0,0,,{\i1}Mình thực sự yêu thế giới {\i0}Magical Explorer{\i1} này biết bao.
+Dialogue: 0,0:22:20.81,0:22:24.86,Default,Kousuke(M),0,0,0,,{\i1}Ludie, Tiền bối, Nee-san, chị Marino, rồi cả chị Claris nữa...
+Dialogue: 0,0:22:24.86,0:22:27.74,Default,Kousuke(M),0,0,0,,{\i1}Mình yêu tất cả những con người mà mình đã được gặp gỡ nơi đây.
+Dialogue: 0,0:22:27.74,0:22:30.49,Default,Kousuke(M),0,0,0,,{\i1}Và mình cũng yêu cả những nữ chính mà mình còn chưa từng chạm mặt.
+Dialogue: 0,0:22:36.08,0:22:39.71,Default,Kousuke(M),0,0,0,,{\i1}Chính vì vậy, mình muốn tất cả các cô gái đều phải được hạnh phúc.
+Dialogue: 0,0:22:39.71,0:22:41.67,Default,Kousuke(M),0,0,0,,{\i1}Không, bắt buộc họ phải có được một cuộc đời hạnh phúc trọn vẹn!
+Dialogue: 0,0:22:43.09,0:22:48.59,Default,Kousuke(M),0,0,0,,{\i1}Liệu nam chính của thế giới này có cứu được tất cả bọn họ hay không?
+Dialogue: 0,0:22:48.59,0:22:51.09,Default,Kousuke(M),0,0,0,,{\i1}Nếu kịch bản tồi tệ nhất thực sự xảy ra...
+Dialogue: 0,0:22:51.09,0:22:53.05,Default,Kousuke(M),0,0,0,,{\i1}liệu cả đời này mình có bao giờ tha thứ được cho bản thân hay không?
+Dialogue: 0,0:22:53.81,0:22:55.72,Default,Kousuke(M),0,0,0,,{\i1}Mình không phải là nam chính.
+Dialogue: 0,0:22:55.72,0:22:56.93,Default,Kousuke(M),0,0,0,,{\i1}Và đó chính là lý do...
+Dialogue: 0,0:22:56.93,0:22:58.89,Default,Kousuke(M),0,0,0,,{\i1}mình bắt buộc phải trở nên mạnh mẽ hơn nữa!
+Dialogue: 0,0:22:59.23,0:23:00.48,Default,Kousuke(M),0,0,0,,{\i1}Để có thể dang tay bảo vệ tất cả mọi người.
+Dialogue: 0,0:23:01.60,0:23:04.40,Default,Kousuke(M),0,0,0,,{\i1}Để có thể đập tan mọi Kết Cục Bi Thảm (Bad Ending)!
+Dialogue: 0,0:23:09.40,0:23:12.45,Default,Kousuke(M),0,0,0,,{\i1}Nam chính thực sự của {\i0}Magical Explorer{\i1} là Hijiri Iori,
+Dialogue: 0,0:23:12.45,0:23:16.04,Default,Kousuke(M),0,0,0,,{\i1}một kẻ đủ sức một mình đánh bại cả Ma Vương.
+Dialogue: 0,0:23:17.29,0:23:20.83,Default,Kousuke(M),0,0,0,,{\i1}Mình nhất định sẽ vượt qua cả cậu ta để trở thành kẻ mạnh nhất!
+Dialogue: 0,0:23:23.04,0:23:28.67,Default,Kousuke(M),0,0,0,,{\i1}Và khi đã đứng trên đỉnh cao, mình sẽ dẫn lối cho tất cả đến với một Cái Kết Có Hậu (Happy Ending).
+Dialogue: 0,0:23:29.05,0:23:32.64,Default,Kousuke(M),0,0,0,,{\i1}Và để làm được điều đó, mình phải sớm đi đón cô ấy về mới được!
+

@@ -1,0 +1,48 @@
+# ==============================================================================
+# SUBTITLE REPOSITORY .GITIGNORE
+# Chặn 100% tất cả các định dạng video và file tạm để tránh nặng repository
+# ==============================================================================
+
+# Video Formats (Bỏ qua toàn bộ video)
+*.mkv
+*.mp4
+*.avi
+*.ts
+*.webm
+*.m4v
+*.mov
+*.wmv
+*.flv
+*.vob
+*.ogv
+*.m2ts
+*.mts
+*.iso
+
+# Audio Formats
+*.mp3
+*.aac
+*.wav
+*.flac
+*.m4a
+*.opus
+*.ogg
+
+# Cache & Technical temporary folders
+.cache/
+**/.cache/
+node_modules/
+temp/
+tmp/
+*.tmp
+*.log
+
+# OS & System files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Torrent & Tracker files
+*.torrent
+*.nfo
+RARBG.txt
