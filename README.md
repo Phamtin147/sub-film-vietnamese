@@ -20,6 +20,7 @@ Toàn bộ phụ đề được dịch trau chuốt theo [Cẩm nang Dịch thu�
 - **Phần 6 (2026 Premiere)**: Tập 01 (`Season 6 (2026)/`)
 
 ### ⚔️ 2. Anime theo mùa (`Anime/`)
+- **Hotaru no Yomeiri (Firefly Wedding / Hôn Nhân Đom Đóm)**: Tập 03
 - **Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru**: Tập 17
 - **The Laid Off Cheat Granting Mage Enjoys a Second Lease on Life**: Tập 03
 - **Dark Machine - The Animation**: Tập 02
