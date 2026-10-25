@@ -1,0 +1,320 @@
+﻿[Script Info]
+Title: Vietnamese Fansub (VietSub by Amtia(NOFACE))
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: italics,Segoe UI,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: main,Segoe UI,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: flashback,Segoe UI,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: flashback italics,Segoe UI,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: Ep Title,Segoe UI,24,&H0065A7CE,&H000000FF,&H64070805,&H000D1728,-1,-1,0,0,100,100,0,0,1,1,0,8,30,30,75,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.80,0:00:05.37,main,FINRAL,0,0,0,,Rốt cuộc thì cậu ta vẫn cứ lao đi\N một mình như thế.
+Dialogue: 0,0:00:05.86,0:00:07.61,main,FINRAL,0,0,0,,Thiệt tình chứ...
+Dialogue: 0,0:00:08.01,0:00:10.99,main,FINRAL,0,0,0,,Lúc nào cũng hấp tấp, vội vã như ma đuổi vậy.
+Dialogue: 0,0:00:12.82,0:00:16.37,italics,NACHT,0,0,0,,Mục tiêu tối thượng lúc này\N là phải tiêu diệt Bộ Ba Hắc Ám
+Dialogue: 0,0:00:16.62,0:00:20.81,italics,NACHT,0,0,0,,và phong ấn cánh cổng Minh Giới lại\N trước khi tình hình trở nên tồi tệ hơn.
+Dialogue: 0,0:00:21.58,0:00:26.27,italics,NACHT,0,0,0,,Để làm được điều đó, trước hết\N phải tách Dante ra khỏi hai tên ác ma thượng vị này.
+Dialogue: 0,0:00:27.11,0:00:28.38,main,NAAMAH,0,0,0,,Thật cẩn thận...
+Dialogue: 0,0:00:28.75,0:00:31.44,main,NAAMAH,0,0,0,,Nào, cùng thưởng thức... từ từ thôi nhé.
+Dialogue: 0,0:00:31.44,0:00:32.97,main,LILITH,0,0,0,,Phải rồi, từ từ...
+Dialogue: 0,0:00:32.97,0:00:34.49,main,NAAMAH,0,0,0,,Dày vò...
+Dialogue: 0,0:00:34.49,0:00:36.01,main,LILITH,0,0,0,,Đùa bỡn...
+Dialogue: 0,0:00:36.23,0:00:37.69,main,NAAMAH,0,0,0,,Giết chóc...
+Dialogue: 0,0:00:37.69,0:00:39.51,main,LILITH,0,0,0,,Nghiền nát...
+Dialogue: 0,0:00:39.51,0:00:41.03,main,NAAMAH,0,0,0,,Đúng vậy...
+Dialogue: 0,0:00:41.03,0:00:42.32,main,LILITH,0,0,0,,Đúng thế...
+Dialogue: 0,0:00:46.59,0:00:48.76,main,DANTE,0,0,0,,Phải rồi! Chính là nó!
+Dialogue: 0,0:00:48.76,0:00:53.57,main,DANTE,0,0,0,,Tuyệt vời làm sao! Đây mới chính là\N thế giới mà ta hằng khao khát!
+Dialogue: 0,0:00:54.04,0:00:55.03,main,JACK,0,0,0,,Này...
+Dialogue: 0,0:00:55.03,0:00:57.70,main,JACK,0,0,0,,Đối thủ của ngươi là {\i1}ta{\i0} cơ mà, nhớ không hả?
+Dialogue: 0,0:00:58.35,0:01:00.70,main,JACK,0,0,0,,Và ta sẽ xẻ xác ngươi ra làm trăm mảnh!
+Dialogue: 0,0:01:01.97,0:01:03.45,main,DANTE,0,0,0,,Thú vị đấy!
+Dialogue: 0,0:01:04.09,0:01:06.21,italics,NACHT,0,0,0,,Để Jack một mình cân tên đó thì hơi quá sức...
+Dialogue: 0,0:01:06.44,0:01:08.81,italics,NACHT,0,0,0,,Nhưng mình buộc phải đánh cược ván này thôi.
+Dialogue: 0,0:01:08.81,0:01:11.30,main,NACHT,0,0,0,,Walgner, ngươi đã hoàn thành nhiệm vụ chưa?
+Dialogue: 0,0:01:13.18,0:01:14.03,main,NACHT,0,0,0,,Được lắm.
+Dialogue: 0,0:01:15.93,0:01:16.83,italics,NACHT,0,0,0,,Hợp Thể Ác Ma...
+Dialogue: 0,0:01:21.20,0:01:22.66,italics,NACHT,0,0,0,,Trạng thái: Gallus.
+Dialogue: 0,0:01:24.17,0:01:27.04,italics,NACHT,0,0,0,,Đặc tính: Âm Vang!
+Dialogue: 0,0:01:48.22,0:01:50.87,main,NAAMAH,0,0,0,,Hắn làm chúng ta tê liệt trong thoáng chốc.
+Dialogue: 0,0:01:50.87,0:01:52.26,main,LILITH,0,0,0,,Hắn dịch chuyển chúng ta đi rồi.
+Dialogue: 0,0:01:52.26,0:01:53.55,main,NAAMAH,0,0,0,,Thú vị thật đấy.
+Dialogue: 0,0:01:53.90,0:01:56.38,main,NACHT,0,0,0,,Hỡi lũ ác ma, đối thủ của các ngươi là ta.
+Dialogue: 0,0:01:59.12,0:01:59.97,italics,NACHT,0,0,0,,Khu Vực Mana...
+Dialogue: 0,0:02:02.42,0:02:04.01,italics,NACHT,0,0,0,,Hắc Ngục Liệp Trường!
+Dialogue: 0,0:02:04.97,0:02:09.15,main,NACHT,0,0,0,,Nào, trò chơi rượt đuổi nơi địa ngục... xin phép được bắt đầu!
+Dialogue: 0,0:02:10.45,0:02:12.24,main,NAAMAH,0,0,0,,Ta chẳng nhìn thấy gì cả.
+Dialogue: 0,0:02:12.24,0:02:13.69,main,LILITH,0,0,0,,Ta cũng thế.
+Dialogue: 0,0:02:14.06,0:02:15.94,main,LILITH,0,0,0,,Cùng chơi đùa với nguồn sức mạnh này đi.
+Dialogue: 0,0:02:16.28,0:02:21.00,main,NAAMAH,0,0,0,,Phải đấy, cùng chơi nào. Đua xem\N ai là người kết liễu hắn trước nhé.
+Dialogue: 0,0:02:21.00,0:02:23.31,main,LILITH,0,0,0,,Nhưng chúng ta phải kiềm chế lại một chút.
+Dialogue: 0,0:02:23.31,0:02:25.99,main,NAAMAH,0,0,0,,Đúng rồi. Phải từ từ tận hưởng chứ.
+Dialogue: 0,0:02:25.99,0:02:27.45,main,LILITH,0,0,0,,Thật cẩn thận...
+Dialogue: 0,0:02:27.45,0:02:29.25,main,NAAMAH,0,0,0,,Thật chậm rãi...
+Dialogue: 0,0:02:29.25,0:02:30.42,main,LILITH,0,0,0,,Thật tỉ mỉ...
+Dialogue: 0,0:02:48.56,0:02:50.56,italics,NACHT,0,0,0,,Trạng thái: Equus.
+Dialogue: 0,0:02:54.93,0:02:55.78,italics,NACHT,0,0,0,,Biết ngay mà.
+Dialogue: 0,0:02:56.17,0:02:58.14,main,NAAMAH,0,0,0,,Tìm thấy ngươi rồi nhé...
+Dialogue: 0,0:02:58.14,0:03:00.82,italics,NACHT,0,0,0,,Các đòn tấn công của mình\N chẳng hề hấn gì tới bọn chúng!
+Dialogue: 0,0:03:00.82,0:03:02.66,italics,NACHT,0,0,0,,Đã vậy, lượng mana của chúng là vô tận!
+Dialogue: 0,0:03:03.53,0:03:05.24,italics,NACHT,0,0,0,,Ngay cả lớp giáp Equus cũng không thể chống đỡ nổi.
+Dialogue: 0,0:03:06.35,0:03:08.33,italics,NACHT,0,0,0,,Nghĩa là việc duy nhất mình có thể làm lúc này...
+Dialogue: 0,0:03:10.88,0:03:15.69,italics,NACHT,0,0,0,,chính là liên tục né tránh cho đến hơi thở cuối cùng,\N câu giờ giam chân chúng trong ngục tối này!
+Dialogue: 0,0:03:15.93,0:03:17.55,main,NAAMAH,0,0,0,,Nhanh thật đấy...
+Dialogue: 0,0:03:17.55,0:03:18.77,main,LILITH,0,0,0,,Nhưng mà này...
+Dialogue: 0,0:03:18.77,0:03:20.43,main,NAAMAH,0,0,0,,Ngươi biết không...
+Dialogue: 0,0:03:20.43,0:03:21.18,main,LILITH,0,0,0,,Tại sao chứ?
+Dialogue: 0,0:03:21.55,0:03:23.97,main,NAAMAH,0,0,0,,Tại sao hắn lại không bỏ chạy nhỉ?
+Dialogue: 0,0:03:27.31,0:03:31.44,main,NACHT,0,0,0,,Bởi lẽ ta sống là để không bao giờ\N tha thứ cho thứ tà ác bất công như các ngươi!
+Dialogue: 0,0:03:31.72,0:03:36.69,italics,NACHT,0,0,0,,Và ta chẳng màng sống chết ra sao cả.
+Dialogue: 0,0:03:41.49,0:03:45.29,italics,NACHT,0,0,0,,Ngày trước, trong gia tộc quý tộc Faust,\N có hai anh em sinh đôi.
+Dialogue: 0,0:03:46.11,0:03:50.64,italics,NACHT,0,0,0,,Cậu em trai là hình mẫu của một người lương thiện,\N luôn được mọi người hết mực yêu mến.
+Dialogue: 0,0:03:50.97,0:03:55.79,italics,NACHT,0,0,0,,Cậu gia nhập Hiệp sĩ Ma pháp,\N cứu giúp người đời như một lẽ đương nhiên.
+Dialogue: 0,0:03:56.38,0:03:58.97,italics,NACHT,0,0,0,,Còn người anh trai lại là\N một kẻ bất hảo, hư đốn,
+Dialogue: 0,0:03:58.97,0:04:01.30,italics,NACHT,0,0,0,,khiến ai ai nhìn vào cũng phải lắc đầu ngao ngán.
+Dialogue: 0,0:04:01.76,0:04:05.80,italics,NACHT,0,0,0,,Hắn sống tự do buông thả,\N chỉ sử dụng ma pháp cho riêng bản thân mình.
+Dialogue: 0,0:04:07.45,0:04:10.81,flashback,MORGEN,0,0,0,,Anh không định\N gia nhập Hiệp sĩ Ma pháp thật sao?
+Dialogue: 0,0:04:11.36,0:04:14.77,flashback,MORGEN,0,0,0,,Ma pháp của anh có thể cứu giúp\N được biết bao nhiêu người đấy.
+Dialogue: 0,0:04:14.77,0:04:15.81,flashback,NACHT,0,0,0,,Tha cho tao đi.
+Dialogue: 0,0:04:16.19,0:04:19.38,flashback,NACHT,0,0,0,,Cái trò đó thì có cái quái gì vui chứ?
+Dialogue: 0,0:04:19.38,0:04:20.90,flashback,Yami,0,0,0,,Morgen!
+Dialogue: 0,0:04:23.27,0:04:24.66,flashback,Yami,0,0,0,,Đến giờ làm nhiệm vụ rồi.
+Dialogue: 0,0:04:25.45,0:04:26.94,flashback,MORGEN,0,0,0,,Tôi hiểu rồi, Yami.
+Dialogue: 0,0:04:27.43,0:04:29.62,flashback,NACHT,0,0,0,,Lại thêm một tên quái gở nữa xuất hiện.
+Dialogue: 0,0:04:30.05,0:04:33.80,flashback,NACHT,0,0,0,,Làm thế quái nào mà cái ngữ như mày\N lại được vào Hiệp sĩ Ma pháp thế hả?
+Dialogue: 0,0:04:33.80,0:04:36.42,flashback,NACHT,0,0,0,,Cái áo choàng đoàn đó nhìn chẳng hợp với mày tí nào.
+Dialogue: 0,0:04:36.65,0:04:38.68,flashback,YAMI,0,0,0,,Ủa? Tao còn chẳng thèm để ý mày đứng đó đấy.
+Dialogue: 0,0:04:38.68,0:04:42.30,flashback,YAMI,0,0,0,,Vẫn cố tỏ ra ngầu lòi à?\N Trông xấu hổ vãi cả chưởng.
+Dialogue: 0,0:04:42.30,0:04:44.82,flashback,NACHT,0,0,0,,Xem ai đang nói kìa, thằng khốn.
+Dialogue: 0,0:04:45.69,0:04:47.68,flashback,MORGEN,0,0,0,,Hai người lúc nào cũng thân thiết với nhau như vậy nhỉ.
+Dialogue: 0,0:04:47.68,0:04:49.52,flashback,NACHT,0,0,0,,Mày nhìn ở chỗ quái nào mà ra thân thiết thế, Morgen?
+Dialogue: 0,0:04:49.52,0:04:55.73,flashback,YAMI,0,0,0,,Liệu mà tém tém lại, đừng quậy quá\N để bọn tao phải đích thân đi săn lùng mày đấy, Nacht.
+Dialogue: 0,0:04:56.53,0:04:59.23,flashback,NACHT,0,0,0,,Mày định lên mặt dạy đời ai đấy hả?\N Thằng ngốc.
+Dialogue: 0,0:05:01.56,0:05:05.09,italics,NACHT,0,0,0,,Ta chỉ làm những gì ta thấy vui.
+Dialogue: 0,0:05:06.16,0:05:09.21,italics,NACHT,0,0,0,,Từ lúc biết nhận thức,\N ta đã luôn làm những việc sai trái.
+Dialogue: 0,0:05:10.05,0:05:12.58,italics,NACHT,0,0,0,,Đứa em trai lại hoàn toàn\N trái ngược với ta.
+Dialogue: 0,0:05:13.12,0:05:16.62,italics,NACHT,0,0,0,,Cậu ấy yêu thương mọi người,\N và được tất cả mọi người yêu mến.
+Dialogue: 0,0:05:16.62,0:05:19.67,italics,NACHT,0,0,0,,Cậu ấy sẵn sàng hy sinh\N bản thân mình vì người khác.
+Dialogue: 0,0:05:19.67,0:05:23.33,italics,NACHT,0,0,0,,Đúng như thuộc tính ma pháp của cậu ấy,\N cậu ấy chính là hiện thân của ánh sáng.
+Dialogue: 0,0:05:25.48,0:05:27.46,italics,NACHT,0,0,0,,Vào khoảng thời gian nhận được sách ma pháp,
+Dialogue: 0,0:05:28.04,0:05:31.07,italics,NACHT,0,0,0,,ta có nghe lời đồn về một tên ngoại bang\N sử dụng thứ ma pháp kỳ dị.
+Dialogue: 0,0:05:31.07,0:05:33.23,italics,NACHT,0,0,0,,Thấy tò mò, ta đã tìm đến gặp hắn.
+Dialogue: 0,0:05:38.10,0:05:42.27,flashback,YOUNG YAMI,0,0,0,,Mày là thằng ranh nào thế?\N Muốn kiếm chuyện hả?
+Dialogue: 0,0:05:43.57,0:05:46.47,italics,NACHT,0,0,0,,Hắn hoang dã vô cùng.
+Dialogue: 0,0:05:46.47,0:05:50.41,italics,NACHT,0,0,0,,Và có lẽ vì thuộc tính ma pháp của đôi bên khá tương đồng,\N kỳ lạ thay, chúng ta lại rất hợp cạ.
+Dialogue: 0,0:05:51.42,0:05:53.05,italics,NACHT,0,0,0,,Chúng ta đã cùng nhau gây ra bao rắc rối,
+Dialogue: 0,0:05:53.05,0:05:57.62,italics,NACHT,0,0,0,,nhưng luôn dừng ở mức vừa đủ\N để Hiệp sĩ Ma pháp không bắt được.
+Dialogue: 0,0:05:58.04,0:06:02.21,italics,NACHT,0,0,0,,Nửa năm sau, nhờ một sự trùng hợp kỳ lạ,\N hắn và em trai ta
+Dialogue: 0,0:06:02.21,0:06:05.74,italics,NACHT,0,0,0,,đã cùng nhau gia nhập đoàn Hiệp sĩ Ma pháp Hôi Lộc.
+Dialogue: 0,0:06:07.24,0:06:12.05,italics,NACHT,0,0,0,,Ta từng nghĩ một kẻ như Yami\N đời nào trụ nổi ở Hiệp sĩ Ma pháp.
+Dialogue: 0,0:06:12.05,0:06:15.68,italics,NACHT,0,0,0,,Nhưng em trai ta lại hòa đồng với tất cả,\N cậu ấy và Yami ngày càng trở nên thân thiết hơn...
+Dialogue: 0,0:06:16.49,0:06:20.01,italics,NACHT,0,0,0,,Và có lẽ chính nhờ cậu ấy mà Yami\N mới có thể hòa nhập được với các thành viên trong đoàn.
+Dialogue: 0,0:06:22.88,0:06:25.85,flashback,MORGEN,0,0,0,,Anh là người có tài năng ma pháp\N tuyệt đỉnh nhất đấy, anh trai.
+Dialogue: 0,0:06:25.85,0:06:31.06,italics,NACHT,0,0,0,,Mỗi lần cậu ấy cố rủ rê ta gia nhập Hiệp sĩ Ma pháp\N đều phiền phức chết đi được.
+Dialogue: 0,0:06:33.40,0:06:36.54,italics,NACHT,0,0,0,,Vào năm chúng ta tròn mười tám tuổi,\N ta được cha mẹ gọi vào.
+Dialogue: 0,0:06:37.58,0:06:40.35,flashback,YOUNG NACHT,0,0,0,,Tới nước này rồi mà cha mẹ\N vẫn còn muốn dạy bảo con nữa sao?
+Dialogue: 0,0:06:40.35,0:06:44.09,flashback,YOUNG NACHT,0,0,0,,Cứ quên con là con trưởng đi\N và để Morgen thừa kế gia tộc là được chứ gì...
+Dialogue: 0,0:06:44.09,0:06:44.97,flashback,NACHT'S FATHER,0,0,0,,Không.
+Dialogue: 0,0:06:45.91,0:06:49.59,flashback,NACHT'S FATHER,0,0,0,,Con mới chính là người sẽ kế tục\N dòng dõi gia tộc Faust, Nacht.
+Dialogue: 0,0:06:49.92,0:06:50.76,flashback,YOUNG NACHT,0,0,0,,Sao cơ?
+Dialogue: 0,0:06:51.46,0:06:52.89,flashback,NACHT'S FATHER,0,0,0,,Hắc Ám Ma Pháp...
+Dialogue: 0,0:06:52.89,0:06:54.94,flashback,NACHT'S FATHER,0,0,0,,U Ngục Hoa Viên.
+Dialogue: 0,0:07:01.93,0:07:03.02,flashback,YOUNG NACHT,0,0,0,,Đây là đâu thế này?
+Dialogue: 0,0:07:03.42,0:07:08.64,flashback,NACHT'S FATHER,0,0,0,,Gia tộc chúng ta qua bao thế hệ\N đều tận hiến cho việc nghiên cứu ác ma.
+Dialogue: 0,0:07:08.64,0:07:12.82,flashback,NACHT'S FATHER,0,0,0,,Con chính là người đã thừa hưởng\N nguồn ma pháp và linh hồn đó.
+Dialogue: 0,0:07:13.37,0:07:15.61,italics,NACHT,0,0,0,,Đối mặt với sự cám dỗ kỳ bí,\N vừa gớm ghiếc lại vừa tráng lệ ấy,
+Dialogue: 0,0:07:15.61,0:07:17.83,italics,NACHT,0,0,0,,toàn thân ta run rẩy.
+Dialogue: 0,0:07:18.06,0:07:22.12,italics,NACHT,0,0,0,,Trái tim ta đập loạn xạ,\N trong lòng trào dâng một nỗi phấn khích tột cùng.
+Dialogue: 0,0:07:23.86,0:07:26.63,italics,NACHT,0,0,0,,Mầm mống tà ác trong ta như vỡ òa sung sướng.
+Dialogue: 0,0:07:27.21,0:07:32.91,flashback italics,YOUNG NACHT,0,0,0,,Hóa ra trong gia tộc Faust, ta mới là kẻ thuộc về nơi này,\N còn Morgen mới chính là con cừu đen lạc loài.
+Dialogue: 0,0:07:37.69,0:07:40.17,italics,NACHT,0,0,0,,Trong khi Morgen và Yami trở thành cặp đôi
+Dialogue: 0,0:07:40.17,0:07:43.40,italics,NACHT,0,0,0,,ánh sáng và bóng tối lừng danh của Hiệp sĩ Ma pháp,
+Dialogue: 0,0:07:43.40,0:07:47.70,italics,NACHT,0,0,0,,thì ta vùi đầu vào việc nghiên cứu ác ma,\N và tài năng của ta cuối cùng cũng được dịp bừng sáng.
+Dialogue: 0,0:07:48.79,0:07:52.41,flashback,NACHT'S FATHER,0,0,0,,Không ngờ con lại có thể lập khế ước\N với bốn ác ma cùng một lúc,
+Dialogue: 0,0:07:52.41,0:07:55.63,flashback,NACHT'S FATHER,0,0,0,,và làm chủ hoàn toàn sức mạnh của chúng\N trong khoảng thời gian ngắn đến vậy...
+Dialogue: 0,0:07:56.07,0:07:58.83,flashback,NACHT'S FATHER,0,0,0,,Con quả thực là một thiên tài, Nacht.
+Dialogue: 0,0:08:00.49,0:08:05.63,flashback,NACHT'S FATHER,0,0,0,,Biết đâu con thậm chí còn có thể\N lập khế ước với con ác ma này.
+Dialogue: 0,0:08:06.09,0:08:11.05,flashback,NACHT'S FATHER,0,0,0,,Minh Giới được cai trị bởi ba đại ác ma\N nắm giữ trọng lực, thời gian và không gian.
+Dialogue: 0,0:08:11.05,0:08:14.64,flashback,NACHT'S FATHER,0,0,0,,Và đây chính là một trong những ác ma\N cận kề phò tá cho bọn chúng...
+Dialogue: 0,0:08:14.64,0:08:18.06,flashback,NACHT'S FATHER,0,0,0,,Ác ma Tối cao Lucifugus!
+Dialogue: 0,0:08:18.41,0:08:20.81,flashback,YOUNG NACHT,0,0,0,,Ác ma Tối cao...
+Dialogue: 0,0:08:21.12,0:08:23.69,flashback,YOUNG NACHT,0,0,0,,Hừ... Thú vị đấy chứ.
+Dialogue: 0,0:08:23.97,0:08:25.44,flashback,MORGEN,0,0,0,,Đừng làm vậy, anh trai!
+Dialogue: 0,0:08:26.12,0:08:27.44,flashback,NACHT'S MOTHER,0,0,0,,Morgen!
+Dialogue: 0,0:08:27.44,0:08:30.67,flashback,MORGEN,0,0,0,,Thưa cha mẹ,\N ma pháp cấm thuật là một trọng tội.
+Dialogue: 0,0:08:30.67,0:08:32.69,flashback,MORGEN,0,0,0,,Là một Hiệp sĩ Ma pháp, con không thể làm ngơ chuyện này.
+Dialogue: 0,0:08:33.03,0:08:35.66,flashback,MORGEN,0,0,0,,Và trên hết, nó quá nguy hiểm! Tiến xa hơn nữa là...
+Dialogue: 0,0:08:36.50,0:08:38.83,flashback,YOUNG NACHT,0,0,0,,Nguy hiểm mới kích thích chứ.
+Dialogue: 0,0:08:39.29,0:08:42.41,flashback,YOUNG NACHT,0,0,0,,Ác ma Tối cao sao... Nghe tuyệt đấy.
+Dialogue: 0,0:08:42.91,0:08:45.83,flashback,YOUNG NACHT,0,0,0,,Cuộc đời này có thêm chút mạo hiểm\N thì mới đáng sống chứ, phải không?
+Dialogue: 0,0:08:46.18,0:08:47.11,flashback,MORGEN,0,0,0,,Anh trai...
+Dialogue: 0,0:08:47.86,0:08:51.61,flashback,YOUNG NACHT,0,0,0,,Morgen, tao và mày không giống nhau đâu.
+Dialogue: 0,0:08:53.33,0:08:56.83,flashback,YOUNG NACHT,0,0,0,,Ngay tại đây và ngay lúc này,\N ta sẽ vượt qua giới hạn của chính mình!
+Dialogue: 0,0:09:02.94,0:09:03.93,flashback,YOUNG NACHT,0,0,0,,Triệu hồi!
+Dialogue: 0,0:09:13.85,0:09:16.84,flashback italics,YOUNG NACHT,0,0,0,,Nghi thức đáng lẽ phải kìm hãm\N sức mạnh của hắn lại chứ...
+Dialogue: 0,0:09:17.45,0:09:19.57,flashback italics,YOUNG NACHT,0,0,0,,Lượng mana khủng khiếp này là cái quái gì thế kia?!
+Dialogue: 0,0:09:28.77,0:09:31.56,flashback italics,YOUNG NACHT,0,0,0,,Hắn đang tàn sát tất cả mọi người\N ngoại trừ kẻ đã triệu hồi hắn sao?!
+Dialogue: 0,0:09:32.93,0:09:34.46,flashback italics,YOUNG NACHT,0,0,0,,Mình không thể cử động được...
+Dialogue: 0,0:09:35.19,0:09:36.26,flashback italics,YOUNG NACHT,0,0,0,,Con ác ma này...
+Dialogue: 0,0:09:37.47,0:09:39.98,flashback italics,YOUNG NACHT,0,0,0,,là thứ tuyệt đối\Nkhông bao giờ được phép chạm vào!
+Dialogue: 0,0:09:45.43,0:09:46.56,flashback,YOUNG NACHT,0,0,0,,Morgen!
+Dialogue: 0,0:09:46.96,0:09:51.85,flashback italics,YOUNG NACHT,0,0,0,,Cậu ấy định phá hủy thánh vật kết nối\N với ác ma để hủy bỏ nghi thức sao?!
+Dialogue: 0,0:09:53.84,0:09:54.99,flashback,YOUNG NACHT,0,0,0,,Dừng lại đi...
+Dialogue: 0,0:09:55.95,0:09:59.16,flashback italics,YOUNG NACHT,0,0,0,,Người ngoài can thiệp vào nghi thức...\N Sẽ phải gánh chịu rủi ro khủng khiếp đến mức nào...
+Dialogue: 0,0:10:13.43,0:10:15.67,flashback,YOUNG NACHT,0,0,0,,Morgen... Morgen!
+Dialogue: 0,0:10:19.32,0:10:23.33,flashback,MORGEN,0,0,0,,Có lẽ đây là quả báo vì em đã không báo cáo\N với đoàn Hiệp sĩ Ma pháp
+Dialogue: 0,0:10:23.33,0:10:26.25,flashback,MORGEN,0,0,0,,rằng chính gia đình mình đang dính líu đến...
+Dialogue: 0,0:10:26.68,0:10:28.75,flashback,MORGEN,0,0,0,,ma pháp cấm thuật.
+Dialogue: 0,0:10:28.75,0:10:32.69,flashback,YOUNG NACHT,0,0,0,,Thằng ngốc này! Tại sao?! Tại sao em lại làm vậy...
+Dialogue: 0,0:10:33.25,0:10:35.65,flashback,MORGEN,0,0,0,,Ước mơ của em...
+Dialogue: 0,0:10:47.83,0:10:49.73,flashback,MORGEN,0,0,0,,là được kề vai sát cánh bên anh,
+Dialogue: 0,0:10:49.73,0:10:52.07,flashback,MORGEN,0,0,0,,cùng nhau bảo vệ nền hòa bình của vương quốc này
+Dialogue: 0,0:10:52.55,0:10:58.82,flashback,MORGEN,0,0,0,,với tư cách là những Hiệp sĩ Ma pháp\N của ánh sáng và bóng tối... vậy nên em...
+Dialogue: 0,0:11:01.69,0:11:03.34,flashback,YOUNG NACHT,0,0,0,,Morgen...
+Dialogue: 0,0:11:04.60,0:11:06.71,flashback,YOUNG NACHT,0,0,0,,Này, Morgen ơi...
+Dialogue: 0,0:11:08.11,0:11:10.04,flashback italics,YOUNG NACHT,0,0,0,,Hiện thân mẫu mực của một con người lương thiện.
+Dialogue: 0,0:11:10.70,0:11:13.59,flashback italics,YOUNG NACHT,0,0,0,,Em đã tỏa sáng rực rỡ đến mức\N anh gần như chẳng dám nhìn thẳng vào em.
+Dialogue: 0,0:11:13.59,0:11:15.48,flashback italics,YOUNG NACHT,0,0,0,,Và chính vì lẽ đó...
+Dialogue: 0,0:11:16.03,0:11:19.74,flashback italics,YOUNG NACHT,0,0,0,,Anh... thực sự rất yêu quý em.
+Dialogue: 0,0:11:23.00,0:11:25.68,flashback italics,YOUNG NACHT,0,0,0,,Anh muốn em mãi mãi tỏa sáng,\N dẫu cho anh không thể làm được điều đó.
+Dialogue: 0,0:11:25.68,0:11:30.03,flashback italics,YOUNG NACHT,0,0,0,,Anh luôn có cảm giác nếu ở cạnh em,\N anh sẽ làm vấy bẩn ánh hào quang rực rỡ của em...
+Dialogue: 0,0:11:30.94,0:11:33.53,flashback italics,YOUNG NACHT,0,0,0,,Kẻ phải chết là con mới đúng!
+Dialogue: 0,0:11:33.53,0:11:36.87,flashback,YOUNG NACHT,0,0,0,,Xin người! Hãy cứu lấy em trai con!
+Dialogue: 0,0:11:36.87,0:11:39.49,flashback,YOUNG NACHT,0,0,0,,Nó đâu có làm gì sai trái đâu!
+Dialogue: 0,0:11:39.49,0:11:42.13,flashback,YOUNG NACHT,0,0,0,,Thượng đế ơi, con cầu xin người!
+Dialogue: 0,0:11:42.51,0:11:45.14,italics,NACHT,0,0,0,,Mày mặt dày thật đấy, mày có biết không?
+Dialogue: 0,0:11:45.72,0:11:48.38,italics,NACHT,0,0,0,,Mày đã dành cả đời để làm bất cứ trò gì mày thích,
+Dialogue: 0,0:11:48.38,0:11:51.40,italics,NACHT,0,0,0,,đến khi gặp nạn thì lại mở mồm cầu xin Thượng đế sao?
+Dialogue: 0,0:11:51.86,0:11:53.82,italics,NACHT,0,0,0,,Tha cho tao đi, thằng khốn nạn.
+Dialogue: 0,0:11:54.89,0:11:56.97,italics,NACHT,0,0,0,,Đời nào có ai thèm cứu rỗi cái loại mày chứ?
+Dialogue: 0,0:11:56.97,0:11:58.58,italics,NACHT,0,0,0,,Ta sẽ không bao giờ tha thứ cho bản thân
+Dialogue: 0,0:11:59.61,0:12:01.22,italics,NACHT,0,0,0,,cho đến tận giây phút lìa đời.
+Dialogue: 0,0:12:17.75,0:12:20.89,flashback,YOUNG YAMI,0,0,0,,Một ngày nào đó tao sẽ lập ra đoàn của riêng mình.
+Dialogue: 0,0:12:21.81,0:12:25.77,flashback,YOUNG YAMI,0,0,0,,Mày có tưởng tượng nổi cảnh tao làm Đoàn trưởng\N Hiệp sĩ Ma pháp không? Buồn cười vãi đạn đúng không?
+Dialogue: 0,0:12:26.81,0:12:28.93,flashback,YOUNG YAMI,0,0,0,,Nếu ngày đó thành hiện thực...
+Dialogue: 0,0:12:31.85,0:12:35.53,flashback,YOUNG YAMI,0,0,0,,Mày sẽ làm Phó đoàn trưởng của tao\N và cùng tao làm trò cười cho thiên hạ nhé.
+Dialogue: 0,0:12:39.25,0:12:43.30,flashback italics,YOUNG NACHT,0,0,0,,Dù ta có cố chuộc lại tội lỗi đến nhường nào,\N ta cũng không thể nào tha thứ cho chính mình.
+Dialogue: 0,0:12:44.01,0:12:47.66,flashback italics,YOUNG NACHT,0,0,0,,Ta không cho phép bản thân được nhận lời khen ngợi\N hay bước ra ngoài ánh sáng.
+Dialogue: 0,0:12:48.68,0:12:52.66,flashback italics,YOUNG NACHT,0,0,0,,Ta không thể trở thành một người như Morgen,\N và cũng không xứng đáng làm điều đó.
+Dialogue: 0,0:12:53.33,0:12:58.73,flashback italics,YOUNG NACHT,0,0,0,,Cho đến khi chết đi, ta sẽ dùng bóng tối\N để tiêu diệt cái ác từ trong bóng tối.
+Dialogue: 0,0:13:07.52,0:13:10.85,main,NACHT,0,0,0,,Ta không đến đây để cải tạo cái ác của các ngươi.
+Dialogue: 0,0:13:11.68,0:13:16.23,main,NACHT,0,0,0,,Ta đến để tiêu diệt các ngươi\N trước khi các ngươi kịp chạm vào bất kỳ người lương thiện nào.
+Dialogue: 0,0:13:16.69,0:13:21.19,italics,NACHT,0,0,0,,Chết tiệt... Không ngờ có ngày\N mình lại thốt ra câu nói này thêm một lần nữa.
+Dialogue: 0,0:13:23.38,0:13:27.23,main,NACHT,0,0,0,,Ngay tại đây và ngay lúc này...\N Ta sẽ vượt qua giới hạn!
+Dialogue: 0,0:13:31.95,0:13:35.76,italics,NACHT,0,0,0,,Toàn bộ ác ma mà ta lập khế ước\N đều chỉ là bậc trung vị.
+Dialogue: 0,0:13:36.41,0:13:40.50,italics,NACHT,0,0,0,,Chúng thậm chí không thể chạm nổi vào\N những tên ác ma tối cao này.
+Dialogue: 0,0:13:41.06,0:13:45.02,italics,NACHT,0,0,0,,Ta hiểu rõ giới hạn của bản thân, chính vì thế...
+Dialogue: 0,0:13:45.85,0:13:50.26,main,NACHT,0,0,0,,Hãy giúp ta đánh cược ván này,\N Plumede, Walgner!
+Dialogue: 0,0:13:50.54,0:13:56.27,main,PLUMEDE,0,0,0,,Vâng. Ngài đã cho chúng tôi thấy những điều\N mà chúng tôi chưa từng được thấy ở Minh Giới.
+Dialogue: 0,0:13:56.53,0:13:58.70,main,WALGNER,0,0,0,,Tôi tin tưởng vào ngài, Nacht.
+Dialogue: 0,0:14:02.49,0:14:04.03,italics,NACHT,0,0,0,,Ngay tại đây và ngay lúc này...
+Dialogue: 0,0:14:06.12,0:14:09.09,italics,NACHT,0,0,0,,Ta sẽ vượt qua giới hạn!
+Dialogue: 0,0:14:11.14,0:14:12.21,main,NACHT,0,0,0,,Hợp Thể Ác Ma...
+Dialogue: 0,0:14:23.53,0:14:26.57,main,NACHT,0,0,0,,Trạng thái: Gallus x Felis!
+Dialogue: 0,0:14:26.84,0:14:27.84,main,NAAMAH,0,0,0,,Ồ?
+Dialogue: 0,0:14:27.84,0:14:30.09,main,LILITH,0,0,0,,Ma pháp của hắn tăng lên rồi sao?
+Dialogue: 0,0:14:30.81,0:14:33.12,italics,NACHT,0,0,0,,Chỉ trong một khoảnh khắc ngắn ngủi, và duy nhất một lần...
+Dialogue: 0,0:14:33.85,0:14:37.13,italics,NACHT,0,0,0,,Ta có thể khuếch đại ma pháp\N lên ngang tầm với cấp bậc của Ác ma Tối cao!
+Dialogue: 0,0:14:46.23,0:14:49.16,italics,NACHT,0,0,0,,Hắc Ám Ma Pháp: Tượng Đài Chuộc Tội!
+Dialogue: 0,0:14:50.53,0:14:52.12,main,NACHT,0,0,0,,Ta chấp nhận hy sinh bản thân mình
+Dialogue: 0,0:14:52.34,0:14:58.54,main,NACHT,0,0,0,,để giam hãm hai ngươi trong thế giới bóng tối,\N nơi không có ánh sáng, không có sự sống, cũng chẳng có cái chết!
+Dialogue: 0,0:14:59.29,0:15:03.79,main,NACHT,0,0,0,,Hai ngươi hãy ở lại đây chơi trò rượt đuổi địa ngục\N với ta cho đến muôn đời muôn kiếp đi!
+Dialogue: 0,0:15:39.69,0:15:41.08,italics,NACHT,0,0,0,,Không thể nào...
+Dialogue: 0,0:15:41.08,0:15:44.60,italics,NACHT,0,0,0,,Ma pháp của mình... không hề tồn tại dưới dạng vật lý...
+Dialogue: 0,0:15:45.02,0:15:46.45,italics,NACHT,0,0,0,,vậy mà chúng lại phá tan nó được sao?!
+Dialogue: 0,0:15:48.01,0:15:49.77,italics,NACHT,0,0,0,,Ma pháp của chúng là...
+Dialogue: 0,0:15:50.57,0:15:52.84,italics,NACHT,0,0,0,,thứ ma pháp thiêu rụi mọi thứ.
+Dialogue: 0,0:15:53.92,0:15:55.60,main,NAAMAH,0,0,0,,Ma Viêm Ma Pháp.
+Dialogue: 0,0:15:55.87,0:15:58.07,italics,NACHT,0,0,0,,Và ma pháp đóng băng tất cả...
+Dialogue: 0,0:15:58.07,0:16:00.10,main,LILITH,0,0,0,,Ma Băng Ma Pháp.
+Dialogue: 0,0:16:00.56,0:16:04.69,italics,NACHT,0,0,0,,Ngay cả bóng tối và ánh sáng...\N thậm chí cả những khái niệm vô hình...
+Dialogue: 0,0:16:30.35,0:16:32.57,main,LILITH,0,0,0,,T-T-Tốt... Tốt lắm...
+Dialogue: 0,0:16:32.57,0:16:34.08,main,LILITH,0,0,0,,Rất tuyệt...
+Dialogue: 0,0:16:35.71,0:16:37.55,main,NAAMAH,0,0,0,,Tuyệt vời lắm!
+Dialogue: 0,0:16:37.55,0:16:39.39,main,LILITH,0,0,0,,Cho đến tận giây phút cuối cùng...
+Dialogue: 0,0:16:39.72,0:16:41.06,main,NAAMAH,0,0,0,,Vắt kiệt hắn...
+Dialogue: 0,0:16:41.06,0:16:42.73,main,LILITH,0,0,0,,Đến từng giọt cuối cùng...
+Dialogue: 0,0:16:42.97,0:16:44.31,main,NAAMAH,0,0,0,,Cho đến khi hắn hoàn toàn trống rỗng...
+Dialogue: 0,0:16:44.31,0:16:45.98,main,LILITH,0,0,0,,Những tiếng thét gào...
+Dialogue: 0,0:16:46.22,0:16:47.40,main,NAAMAH,0,0,0,,...đớn đau...
+Dialogue: 0,0:16:47.40,0:16:49.07,main,LILITH,0,0,0,,...và tuyệt vọng...
+Dialogue: 0,0:16:49.07,0:16:50.77,main,LILITH/NAAMAH,0,0,0,,...của loài người!
+Dialogue: 0,0:16:51.37,0:16:53.50,italics,NACHT,0,0,0,,Hóa ra ngay từ đầu...
+Dialogue: 0,0:16:54.33,0:16:56.08,italics,NACHT,0,0,0,,chúng chỉ coi đây là một trò chơi đùa!
+Dialogue: 0,0:16:54.33,0:16:56.08,main,NAAMAH,0,0,0,,A... Ta không thể...
+Dialogue: 0,0:16:56.08,0:16:56.58,main,LILITH,0,0,0,,Đúng vậy.
+Dialogue: 0,0:16:56.58,0:16:57.80,main,NAAMAH,0,0,0,,...nhẫn nhịn thêm được nữa rồi.
+Dialogue: 0,0:16:57.80,0:16:59.69,main,LILITH,0,0,0,,Ta cũng thế.
+Dialogue: 0,0:16:59.69,0:17:00.96,main,NAAMAH,0,0,0,,Giết hắn thôi.
+Dialogue: 0,0:17:00.96,0:17:03.12,main,LILITH,0,0,0,,Phải rồi, giết hắn đi.
+Dialogue: 0,0:17:05.11,0:17:10.77,main,NAAMAH,0,0,0,,Hãy cất lên... tiếng thét gào cuối cùng của ngươi đi nào!
+Dialogue: 0,0:17:11.77,0:17:16.92,italics,NACHT,0,0,0,,Không một con người nào có thể đánh bại nổi...
+Dialogue: 0,0:17:18.27,0:17:19.43,italics,NACHT,0,0,0,,những ác ma tối cao này.
+Dialogue: 0,0:17:32.33,0:17:33.61,italics,NACHT,0,0,0,,Nếu có thứ gì có thể làm được...
+Dialogue: 0,0:17:39.79,0:17:41.53,main,NAAMAH,0,0,0,,Hả? Bị chém đứt rồi?
+Dialogue: 0,0:17:42.15,0:17:43.91,main,ASTA,0,0,0,,Này, lũ kia!
+Dialogue: 0,0:17:44.39,0:17:47.04,main,ASTA,0,0,0,,Lũ chúng mày nghĩ mình đang làm gì\N Phó đoàn trưởng của bọn tao đấy hả?!
+Dialogue: 0,0:17:47.77,0:17:49.63,italics,NACHT,0,0,0,,...thì đó chỉ có thể là Kháng Ma Pháp!
+Dialogue: 0,0:17:50.06,0:17:51.94,main,GIMODELO,0,0,0,,Ngài Nacht ơi!
+Dialogue: 0,0:17:51.94,0:17:53.29,main,GIMODELO,0,0,0,,Tôi xin ngài đấy!
+Dialogue: 0,0:17:53.29,0:17:57.06,main,GIMODELO,0,0,0,,Nếu ngài có mệnh hệ gì,\N bọn họ sẽ không để yên cho chúng tôi đâu!
+Dialogue: 0,0:17:57.06,0:17:58.33,main,NACHT,0,0,0,,Gimodelo...
+Dialogue: 0,0:18:00.22,0:18:03.93,main,NACHT,0,0,0,,Cậu đến muộn quá đấy...\N nhưng giờ thì mọi quân bài đã vào đúng vị trí.
+Dialogue: 0,0:18:04.49,0:18:09.40,main,NACHT,0,0,0,,Mặc kệ ta đi. Mau đi đánh bại Bộ Ba Hắc Ám đi.
+Dialogue: 0,0:18:11.89,0:18:14.03,main,ASTA,0,0,0,,Làm sao mặc kệ được cơ chứ!
+Dialogue: 0,0:18:14.59,0:18:17.78,main,ASTA,0,0,0,,Tôi có thể trở nên mạnh mẽ thế này là nhờ có ngài.
+Dialogue: 0,0:18:18.01,0:18:21.20,main,ASTA,0,0,0,,Ngài phải sống tiếp\N để tận mắt chứng kiến sức mạnh này chứ!
+Dialogue: 0,0:18:23.66,0:18:28.57,italics,NACHT,0,0,0,,Có phải... mình từng mong chờ một bình minh mới?
+Dialogue: 0,0:18:29.68,0:18:34.09,main,NACHT,0,0,0,,Hai người các cậu đều là người lương thiện,\N nhưng các cậu chẳng hề giống cậu ấy.
+Dialogue: 0,0:18:34.77,0:18:37.84,main,NAAMAH,0,0,0,,Bao nhiêu thế kỷ chúng ta sống ở Minh Giới...
+Dialogue: 0,0:18:37.84,0:18:41.59,main,LILITH,0,0,0,,Chưa từng có giây phút nào vui đến thế này!
+Dialogue: 0,0:18:43.06,0:18:46.02,main,LIEBE,0,0,0,,Không ngờ lại đụng mặt lũ chúng mày ở đây...
+Dialogue: 0,0:18:46.25,0:18:50.77,main,LIEBE,0,0,0,,Ác ma Tối cao Lilith và Naamah!
+Dialogue: 0,0:18:50.77,0:18:52.31,main,NAAMAH,0,0,0,,Nữa đi...
+Dialogue: 0,0:18:52.31,0:18:54.77,main,LILITH/NAAMAH,0,0,0,,Làm chúng ta phấn khích hơn nữa đi!
+Dialogue: 0,0:19:25.64,0:19:27.22,main,LILITH,0,0,0,,Ngươi có chém trúng được bọn ta không?
+Dialogue: 0,0:19:27.22,0:19:29.31,main,NAAMAH,0,0,0,,Cứ vung kiếm liên hồi mãi như thế đi.
+Dialogue: 0,0:19:29.31,0:19:31.33,main,LILITH,0,0,0,,Liệu có chém trúng không đây?
+Dialogue: 0,0:19:31.33,0:19:33.31,main,NAAMAH,0,0,0,,Ngươi thật sự chém trúng được bọn ta sao?
+Dialogue: 0,0:19:41.91,0:19:43.62,main,LILITH,0,0,0,,Ai sẽ...
+Dialogue: 0,0:19:43.62,0:19:45.70,main,NAAMAH,0,0,0,,...bị chém trúng trước đây?
+Dialogue: 0,0:19:45.70,0:19:48.83,main,LILITH,0,0,0,,Liệu chúng ta có giết được hắn không?
+Dialogue: 0,0:19:48.83,0:19:50.83,main,ASTA,0,0,0,,Thanh kiếm thứ ba...
+Dialogue: 0,0:19:51.37,0:19:52.83,main,ASTA,0,0,0,,Diệt Ma Kiếm!
+Dialogue: 0,0:19:54.67,0:19:55.61,main,NAAMAH,0,0,0,,Hả?!
+Dialogue: 0,0:20:20.33,0:20:21.48,main,LILITH,0,0,0,,Tiếc thật đấy.
+Dialogue: 0,0:20:21.48,0:20:24.57,main,LILITH,0,0,0,,Ngươi là kẻ bị hạ gục trước rồi, Naamah.
+Dialogue: 0,0:20:26.62,0:20:31.26,main,LILITH,0,0,0,,Nhưng giờ thì chúng ta có thể thực sự chơi đùa cùng nhau rồi...
+Dialogue: 0,0:20:39.21,0:20:40.94,main,NACHT,0,0,0,,Cái gì cơ?
+Dialogue: 0,0:20:48.44,0:20:50.73,main,LILITH/NAAMAH,0,0,0,,Ngươi chính là con mồi tuyệt hảo nhất.
+Dialogue: 0,0:20:50.73,0:20:54.19,main,LILITH/NAAMAH,0,0,0,,Bọn ta không thể đợi thêm để được nghe tiếng gào thét của ngươi.
+Dialogue: 0,0:20:54.41,0:20:57.56,main,NACHT,0,0,0,,Sức mạnh của chúng đâu phải chỉ là một cộng một, chết tiệt!
+Dialogue: 0,0:20:58.01,0:21:01.32,italics,NACHT,0,0,0,,Lượng mana khổng lồ này khiến mình sắp phát điên lên mất!
+Dialogue: 0,0:21:02.82,0:21:05.29,main,ASTA,0,0,0,,Chắc là ấn tượng ghê gớm lắm đây,
+Dialogue: 0,0:21:05.29,0:21:08.12,main,ASTA,0,0,0,,nhưng tôi đâu có cảm nhận được ma pháp,\N nên chẳng biết nó khủng tới mức nào đâu!
+Dialogue: 0,0:21:21.88,0:21:22.84,main,LILITH,0,0,0,,Vậy thì...
+Dialogue: 0,0:21:23.16,0:21:26.43,main,LILITH,0,0,0,,hãy để bọn ta cho ngươi thấy thật rõ ràng nhé.
+Dialogue: 0,0:21:29.85,0:21:31.63,main,NACHT,0,0,0,,Chết tiệt thật chứ!
+Dialogue: 0,0:21:34.77,0:21:38.98,main,LILITH,0,0,0,,Ngươi có thể sống sót,\N nhưng tất cả những kẻ khác sẽ phải chết.
+Dialogue: 0,0:21:39.43,0:21:43.40,main,LILITH,0,0,0,,Cảm giác đó đau đớn lắm, đúng không?
+Dialogue: 0,0:21:43.63,0:21:44.72,main,LILITH,0,0,0,,Nào...
+Dialogue: 0,0:21:48.30,0:21:49.54,main,LILITH,0,0,0,,hãy đau khổ đi.
+Dialogue: 0,0:21:51.99,0:21:54.00,main,ASTA,0,0,0,,Ngươi cũng chỉ là to xác hơn thôi mà!
+Dialogue: 0,0:21:54.36,0:21:57.25,main,ASTA,0,0,0,,Ta đây cũng biến to hơn được nhé!
+Dialogue: 0,0:22:00.42,0:22:03.34,main,ASTA,0,0,0,,Thanh kiếm thứ nhất...
+Dialogue: 0,0:22:03.34,0:22:06.75,main,ASTA,0,0,0,,Đoạn Ma Kiếm!
+Dialogue: 0,0:22:09.93,0:22:11.80,main,MAGNA,0,0,0,,Này này...
+Dialogue: 0,0:22:11.80,0:22:15.14,main,MAGNA,0,0,0,,Mày còn tính phình to đến cỡ nào nữa hả?
+Dialogue: 0,0:22:15.14,0:22:16.71,main,MAGNA,0,0,0,,Thằng quỷ này!
+Dialogue: 0,0:23:44.75,0:23:50.25,Ep Title,EPISODE TITLE,0,0,0,,{\c&HFEFCFD&\pos(323,98)\fsp6}Ngày Chuộc Tội
+
