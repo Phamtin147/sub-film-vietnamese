@@ -1,0 +1,300 @@
+﻿1
+00:00:01,420 --> 00:00:02,220
+<font face="Segoe UI" size="65">Bố ơi!</font>
+
+2
+00:00:02,320 --> 00:00:03,320
+<font face="Segoe UI" size="65">Bố ơi!</font>
+
+3
+00:00:03,560 --> 00:00:06,760
+<font face="Segoe UI" size="65">Tại sao lại cản con?! Con nhất định phải giết chết hắn!</font>
+
+4
+00:00:07,100 --> 00:00:08,500
+<font face="Segoe UI" size="65">Kia chính là tháp Geese Tower.</font>
+
+5
+00:00:10,520 --> 00:00:11,520
+<font face="Segoe UI" size="65">Cái tên đó...</font>
+
+6
+00:00:12,360 --> 00:00:16,960
+<font face="Segoe UI" size="65">Hãy về bảo với Geese: Đừng hòng ngăn cản môn phái Cực Hạn Lưu tham gia KOF!</font>
+
+7
+00:00:17,520 --> 00:00:19,700
+<font face="Segoe UI" size="65">Nếu hắn có bản lĩnh, hẹn gặp nhau phân tài cao thấp trên võ đài!</font>
+
+8
+00:00:19,940 --> 00:00:22,980
+<font face="Segoe UI" size="65">Cậu chính là thiên tài võ thuật danh bất hư truyền Kyo Kusanagi sao?</font>
+
+9
+00:00:23,960 --> 00:00:26,720
+<font face="Segoe UI" size="65">Từ nay về sau, không được động đến võ đường Sakazaki nữa.</font>
+
+10
+00:00:57,160 --> 00:01:05,160
+<font face="Segoe UI" size="65">Theo truyền thuyết, 1.800 năm trước, tà thần Orochi cùng Bát Đại Kiệt đã âm mưu tiêu diệt toàn thể nhân loại, biến tất cả về cõi hư vô.</font>
+
+11
+00:01:10,800 --> 00:01:18,800
+<font face="Segoe UI" size="65">Hắn đã bị ba đại gia tộc Kusanagi, Yasakani và Yata hợp lực phong ấn bằng Tam Chủng Thần Khí. Ba bảo vật thần thánh ấy được chia cho hậu duệ của tam tộc canh giữ và truyền thừa cho đến tận ngày hôm nay.</font>
+
+12
+00:02:26,610 --> 00:02:34,610
+<font face="Segoe UI" size="65">Ký ức mở ra trước mắt chính là Định mệnh đang bắt đầu chuyển dịch, tôi muốn bảo vệ tất cả điều này, vì ước mơ của bạn!</font>
+
+13
+00:03:01,090 --> 00:03:07,570
+<font face="Segoe UI" size="65">Vẫn chưa đã tay chút nào, lát nữa chúng ta phải đấu thêm một trận nữa đấy. Mà này, công phu của cậu giỏi thế, sao lại được mệnh danh là Vô Địch Chi Long?</font>
+
+14
+00:03:07,750 --> 00:03:09,190
+<font face="Segoe UI" size="65">Ồ, chuyện đó à...</font>
+
+15
+00:03:09,630 --> 00:03:10,630
+<font face="Segoe UI" size="65">Hả?</font>
+
+16
+00:03:11,570 --> 00:03:12,570
+<font face="Segoe UI" size="65">Này Robert!</font>
+
+17
+00:03:18,240 --> 00:03:19,240
+<font face="Segoe UI" size="65">Ryo!</font>
+
+18
+00:03:20,160 --> 00:03:21,160
+<font face="Segoe UI" size="65">Yuri-chan đâu rồi?!</font>
+
+19
+00:03:22,560 --> 00:03:23,560
+<font face="Segoe UI" size="65">Có chuyện gì thế? Mau nói nhanh đi!</font>
+
+20
+00:03:23,680 --> 00:03:25,360
+<font face="Segoe UI" size="65">Yuri-chan... con bé bỏ nhà đi rồi!</font>
+
+21
+00:03:25,360 --> 00:03:27,360
+<font face="Segoe UI" size="65">Cái gì cơ?!</font>
+
+22
+00:03:34,190 --> 00:03:42,190
+<font face="Segoe UI" size="65">Bố và anh nghe đây. Anh trai con không thể tham gia KOF, nếu đã vậy thì con sẽ tự mình ra tay! Người ta nói thế giới này rộng lớn lắm, con muốn đi xem thử. Con đi đây!</font>
+
+23
+00:03:44,130 --> 00:03:48,690
+<font face="Segoe UI" size="65">Cái con bé ngốc nghếch này, suốt ngày ham hố đánh nhau như đàn ông, sau này không lấy được chồng thì tính sao hả trời?!</font>
+
+24
+00:03:50,880 --> 00:03:51,880
+<font face="Segoe UI" size="65">Có chuyện gì thế?</font>
+
+25
+00:03:59,040 --> 00:04:01,710
+<font face="Segoe UI" size="65">Hình như tôi từng gặp cô bé này ở đâu rồi thì phải.</font>
+
+26
+00:04:01,950 --> 00:04:03,210
+<font face="Segoe UI" size="65">Ở đâu? Khi nào cơ?</font>
+
+27
+00:04:04,370 --> 00:04:07,730
+<font face="Segoe UI" size="65">À phải rồi! Đó chẳng phải là cô bé mà cậu vô tình va phải ở sân bay trưa nay sao?</font>
+
+28
+00:04:08,320 --> 00:04:11,150
+<font face="Segoe UI" size="65">Ừ đúng rồi! Nhưng giờ này chắc cô ấy đã lên máy bay rồi.</font>
+
+29
+00:04:11,350 --> 00:04:12,350
+<font face="Segoe UI" size="65">Cô ấy định đi đâu cơ chứ?</font>
+
+30
+00:04:12,590 --> 00:04:13,590
+<font face="Segoe UI" size="65">Ai mà biết được.</font>
+
+31
+00:04:15,790 --> 00:04:19,990
+<font face="Segoe UI" size="65">Benimaru, cậu là thiếu gia của một tập đoàn tài phiệt lớn, việc tìm kiếm một người dễ như trở bàn tay đúng không?</font>
+
+32
+00:04:20,710 --> 00:04:21,710
+<font face="Segoe UI" size="65">Tất nhiên rồi.</font>
+
+33
+00:04:27,750 --> 00:04:30,330
+<font face="Segoe UI" size="65">Cậu thậm chí còn chẳng chịu để mắt trông coi em gái gì cả...</font>
+
+34
+00:04:31,790 --> 00:04:35,250
+<font face="Segoe UI" size="65">À, xin chào Rachel. Tôi có chuyện này muốn nhờ cô giúp một chút.</font>
+
+35
+00:04:37,620 --> 00:04:43,630
+<font face="Segoe UI" size="65">Dù sao thì mọi người cũng vào trong đi đã. Để tôi chiêu đãi mọi người một bữa thịnh soạn. Xin mời.</font>
+
+36
+00:04:44,610 --> 00:04:45,610
+<font face="Segoe UI" size="65">Nhìn kìa!</font>
+
+37
+00:04:46,790 --> 00:04:51,870
+<font face="Segoe UI" size="65">Anh Sakazaki này, ở South Town có đấu sĩ nào hay đội mũ lưỡi trai đỏ và mặc áo khoác đỏ không?</font>
+
+38
+00:04:52,650 --> 00:04:55,250
+<font face="Segoe UI" size="65">Chuyện đó thì tôi chịu, sao cậu lại hỏi thế?</font>
+
+39
+00:04:56,400 --> 00:04:58,130
+<font face="Segoe UI" size="65">Không có gì đâu, tôi chỉ tiện miệng hỏi vậy thôi.</font>
+
+40
+00:05:39,660 --> 00:05:40,840
+<font face="Segoe UI" size="65">Chỗ bên cạnh... tôi ngồi được chứ?</font>
+
+41
+00:05:50,020 --> 00:05:51,020
+<font face="Segoe UI" size="65">Xin tự nhiên.</font>
+
+42
+00:05:59,910 --> 00:06:00,910
+<font face="Segoe UI" size="65">Vâng. Tôi là Angelina.</font>
+
+43
+00:06:02,140 --> 00:06:03,140
+<font face="Segoe UI" size="65">Tôi là Terry.</font>
+
+44
+00:06:05,220 --> 00:06:07,000
+<font face="Segoe UI" size="65">Anh có thể mời em một ly được không?</font>
+
+45
+00:06:07,710 --> 00:06:09,300
+<font face="Segoe UI" size="65">Ồ, rất sẵn lòng.</font>
+
+46
+00:06:10,290 --> 00:06:18,290
+<font face="Segoe UI" size="65">Mặt... mặt em dính cái gì sao anh?</font>
+
+47
+00:06:30,630 --> 00:06:33,310
+<font face="Segoe UI" size="65">Em có cảm thấy chúng ta từng gặp nhau ở đâu đó rồi không?</font>
+
+48
+00:06:34,740 --> 00:06:37,990
+<font face="Segoe UI" size="65">Chắc anh nhận nhầm người rồi. Em mới tới South Town hôm nay thôi.</font>
+
+49
+00:06:50,060 --> 00:06:54,320
+<font face="Segoe UI" size="65">Nhưng quán bar này không tồi chút nào. Không khí ở đây rất tuyệt.</font>
+
+50
+00:06:55,080 --> 00:06:58,380
+<font face="Segoe UI" size="65">Đúng không? Đây là quán của ngài Geese - bố nuôi của em đấy.</font>
+
+51
+00:06:58,780 --> 00:07:00,020
+<font face="Segoe UI" size="65">Ngài Geese ư? Thật sao?</font>
+
+52
+00:07:00,830 --> 00:07:04,840
+<font face="Segoe UI" size="65">Một nhân vật máu mặt đúng không? Ông ấy cũng hay ghé qua đây lắm đấy.</font>
+
+53
+00:07:06,730 --> 00:07:11,540
+<font face="Segoe UI" size="65">Không, ông ấy bận rộn lắm, dạo này ít khi tới đây.</font>
+
+54
+00:07:12,660 --> 00:07:14,560
+<font face="Segoe UI" size="65">Xem ra anh quan tâm đến bố em hơn là em đấy nhỉ.</font>
+
+55
+00:07:14,940 --> 00:07:18,340
+<font face="Segoe UI" size="65">Xin lỗi nhé, tôi không có ý gì sâu xa đâu. Xin tạ lỗi với em bằng ly rượu này.</font>
+
+56
+00:07:25,710 --> 00:07:32,920
+<font face="Segoe UI" size="65">Chỉ uống rượu thôi thì chưa đủ đâu nhé. Chiếc mũ anh đang đội trông dễ thương thật đấy. Tặng nó cho em đi!</font>
+
+57
+00:07:34,090 --> 00:07:39,480
+<font face="Segoe UI" size="65">Nếu em thích, anh sẽ mua tặng em một cái mới toanh nhé. Được rồi, ngoắc tay hứa nào.</font>
+
+58
+00:07:49,290 --> 00:07:50,290
+<font face="Segoe UI" size="65">Cô em không sao chứ?</font>
+
+59
+00:07:56,060 --> 00:07:57,060
+<font face="Segoe UI" size="65">Em không sao chứ?</font>
+
+60
+00:08:21,240 --> 00:08:24,280
+<font face="Segoe UI" size="65">Đừng có mà giở thói hung hăng! Mày có biết đây là địa bàn của ai không hả?</font>
+
+61
+00:08:24,920 --> 00:08:29,040
+<font face="Segoe UI" size="65">Đừng tưởng quậy phá xong là có thể lành lặn bước ra khỏi đây nhé! Này tụi bây, xông lên cho tao!</font>
+
+62
+00:08:29,880 --> 00:08:33,460
+<font face="Segoe UI" size="65">Chỉ vì cậy đông người mà các người không chịu nhận thua sao?</font>
+
+63
+00:08:34,030 --> 00:08:36,480
+<font face="Segoe UI" size="65">Ban nãy mày đã hứa nếu thua thì phải sủa tiếng chó cơ mà!</font>
+
+64
+00:08:46,000 --> 00:08:50,600
+<font face="Segoe UI" size="65">Chết tiệt, bọn đàn em bị hạ hết rồi! Xông vào xử nó luôn đi!</font>
+
+65
+00:08:52,000 --> 00:08:53,000
+<font face="Segoe UI" size="65">Tôi phải đi đây.</font>
+
+66
+00:08:53,320 --> 00:08:54,960
+<font face="Segoe UI" size="65">Đừng quên chiếc mũ nhé.</font>
+
+67
+00:09:02,060 --> 00:09:03,260
+<font face="Segoe UI" size="65">Đuổi theo bọn chúng mau!</font>
+
+68
+00:09:06,640 --> 00:09:07,040
+<font face="Segoe UI" size="65">Này!</font>
+
+69
+00:09:07,520 --> 00:09:08,520
+<font face="Segoe UI" size="65">Simon!</font>
+
+70
+00:09:09,770 --> 00:09:11,180
+<font face="Segoe UI" size="65">Angelina!</font>
+
+71
+00:09:16,910 --> 00:09:20,660
+<font face="Segoe UI" size="65">Nhờ anh chăm sóc cho Yuri nhé. Tôi rất mong chờ được gặp lại anh ở giải đấu.</font>
+
+72
+00:09:21,020 --> 00:09:28,200
+<font face="Segoe UI" size="65">Ryo Sakazaki cũng bảo là không biết người đàn ông mặc áo khoác đỏ đó. Việc báo thù này nhất định phải tiến hành hết sức thận trọng.</font>
+
+73
+00:09:28,840 --> 00:09:36,840
+<font face="Segoe UI" size="65">Nếu bảo phải kiên nhẫn... em đã nhẫn nhịn suốt 10 năm ròng rã rồi! Càng mạnh lên thì anh lại càng trở nên do dự nhút nhát! Chúng ta hãy đột kích vào Geese Tower ngay bây giờ đi!</font>
+
+74
+00:09:38,180 --> 00:09:43,020
+<font face="Segoe UI" size="65">Hắn là kẻ nắm trùm cả South Town này, xung quanh có vô số vệ sĩ cao thủ bảo vệ. Bắt lấy bọn chúng mau!</font>
+
+75
+00:09:44,500 --> 00:09:47,580
+<font face="Segoe UI" size="65">Đừng hòng chạy thoát, tao sẽ nhốt chúng mày lại!</font>
+

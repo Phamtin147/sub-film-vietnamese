@@ -1,0 +1,1597 @@
+﻿1
+00:00:06,830 --> 00:00:10,070
+<font face="Segoe UI" size="73" color="#04a1d1"><b><i>I'm a soldier,</i> znatchit ya...
+<font color="#00ff00">Tôi là người lính, và điều đó có nghĩa...</font></b></font>
+
+2
+00:00:10,070 --> 00:00:13,340
+<font face="Segoe UI" size="73" color="#04a1d1"><b>...i otvetchik i sud'ya
+<font color="#00ff00">...rằng tôi vừa là bị cáo, vừa là quan tòa.</font></b></font>
+
+3
+00:00:13,340 --> 00:00:18,740
+<font face="Segoe UI" size="73" color="#04a1d1"><b>Ya stoyu na dvuh kontsah ognya
+<font color="#00ff00">Tôi đứng giữa đôi bờ rực lửa.</font></b></font>
+
+4
+00:00:19,940 --> 00:00:23,140
+<font face="Segoe UI" size="73" color="#04a1d1"><b>Ogibaya virazhi,
+<font color="#00ff00">Nghiêng mình qua những khúc cua hiểm trở,</font></b></font>
+
+5
+00:00:23,140 --> 00:00:26,480
+<font face="Segoe UI" size="73" color="#04a1d1"><b>obgonyaya smert' i zhizn',
+<font color="#00ff00">bỏ lại sau lưng lằn ranh sinh tử,</font></b></font>
+
+6
+00:00:26,480 --> 00:00:32,010
+<font face="Segoe UI" size="73" color="#04a1d1"><b>ya begu srazit'sya s ten'yu lzhi
+<font color="#00ff00">tôi lao mình nghênh chiến với bóng tối gian manh.</font></b></font>
+
+7
+00:00:32,190 --> 00:00:38,620
+<font face="Segoe UI" size="73" color="#04a1d1"><b>Skol'ko b nitej ne plyol obman,
+<font color="#00ff00">Dẫu màn lưới dối lừa có giăng bủa muôn trùng,</font></b></font>
+
+8
+00:00:38,760 --> 00:00:46,130
+<font face="Segoe UI" size="73" color="#04a1d1"><b>pokazhet lik sveta istina...
+<font color="#00ff00">chân lý vẫn luôn soi tỏ nơi chân trời ánh sáng...</font></b></font>
+
+9
+00:00:47,000 --> 00:00:50,210
+<font face="Segoe UI" size="73" color="#04a1d1"><b><i><font size="85"><font color="#00ff00">Hãy gạt đi những giọt nước mắt cho ngày mai...</font></font></i></b></font>
+
+10
+00:00:50,210 --> 00:00:53,510
+<font face="Segoe UI" size="73" color="#04a1d1"><b><i><font size="85"><font color="#00ff00">...khi nỗi đau đã lùi sâu vào dĩ vãng.</font></font></i></b></font>
+
+11
+00:00:53,510 --> 00:00:56,700
+<font face="Segoe UI" size="73" color="#04a1d1"><b><i><font size="85"><font color="#00ff00">Hãy đứng lên, hãy bước cùng tôi.</font></font></i></b></font>
+
+12
+00:00:56,700 --> 00:01:00,150
+<font face="Segoe UI" size="73" color="#04a1d1"><b><i><font size="85"><font color="#00ff00">Chúng ta là những người lính, chiến đấu hay lụi tàn.</font></font></i></b></font>
+
+13
+00:01:00,150 --> 00:01:03,320
+<font face="Segoe UI" size="73" color="#04a1d1"><b><i><font size="85"><font color="#00ff00">Xua tan sợ hãi, đứng vào vị trí.</font></font></i></b></font>
+
+14
+00:01:03,320 --> 00:01:06,420
+<font face="Segoe UI" size="73" color="#04a1d1"><b><i><font size="85"><font color="#00ff00">Hãy để dành tất cả cho Ngày Phán Xét.</font></font></i></b></font>
+
+15
+00:01:06,590 --> 00:01:09,850
+<font face="Segoe UI" size="73" color="#04a1d1"><b><i><font size="85"><font color="#00ff00">Nhanh nhẹn và tự do, hãy theo bước chân tôi.</font></font></i></b></font>
+
+16
+00:01:09,850 --> 00:01:14,560
+<font face="Segoe UI" size="73" color="#04a1d1"><b><i><font size="85"><font color="#00ff00">Đã đến lúc cất lên lời hy sinh.</font></font></i></b></font>
+
+17
+00:01:14,560 --> 00:01:21,620
+<font face="Segoe UI" size="73" color="#04a1d1"><b><i><font size="85"><font color="#00ff00">Chúng ta trỗi dậy hay gục ngã...</font></font></i></b></font>
+
+18
+00:01:46,060 --> 00:01:48,550
+<font face="Segoe UI" size="55"><i>Trụ sở, tôi vừa trở về</i>
+<i>từ bán đảo.</i></font>
+
+19
+00:01:49,300 --> 00:01:52,490
+<font face="Segoe UI" size="55"><i>Tôi đã nắm được một vài</i>
+<i>tin tình báo thú vị về Kuze.</i></font>
+
+20
+00:01:53,030 --> 00:01:56,230
+<font face="Segoe UI" size="55"><i>Trưởng ban và Thiếu tá hiện đang đi vắng.</i>
+<i>Họ bị Thủ tướng triệu tập gấp.</i></font>
+
+21
+00:01:56,640 --> 00:01:58,600
+<font face="Segoe UI" size="55"><i>Họ bảo tôi ở đây nghe</i>
+<i>báo cáo của cậu.</i></font>
+
+22
+00:01:58,670 --> 00:02:00,900
+<font face="Segoe UI" size="55"><i>Còn chuyện gì quan trọng hơn</i>
+<i>việc này được nữa chứ?</i></font>
+
+23
+00:02:02,270 --> 00:02:05,440
+<font face="Segoe UI" size="55"><i>Thực tình mà nói, chúng ta đang đối mặt với</i>
+<i>nguy cơ bùng nổ một cuộc nổi dậy tị nạn toàn diện.</i></font>
+
+24
+00:02:06,080 --> 00:02:08,340
+<font face="Segoe UI" size="55"><i>Tin xấu đấy.</i></font>
+
+25
+00:02:16,290 --> 00:02:19,220
+<font face="Segoe UI" size="55">Kể từ sau vụ tự sát chấn động của nhóm Thập nhất Cá nhân,
+tôi liên tục nhận được báo cáo...</font>
+
+26
+00:02:19,220 --> 00:02:23,520
+<font face="Segoe UI" size="55">...về việc người tị nạn từ các khu định cư trên cả nước
+đang bắt đầu lũ lượt đổ về Dejima...</font>
+
+27
+00:02:23,600 --> 00:02:28,230
+<font face="Segoe UI" size="55">...thuộc Nagasaki, nhằm đối phó với làn sóng
+biểu tình chống tị nạn đang dâng cao.</font>
+
+28
+00:02:28,470 --> 00:02:31,490
+<font face="Segoe UI" size="55">Truyền thông đại chúng thì cứ hấp tấp
+thổi bùng ngọn lửa dư luận,</font>
+
+29
+00:02:31,570 --> 00:02:33,970
+<font face="Segoe UI" size="55">...rêu rao rằng đây là khúc dạo đầu
+cho một cuộc tổng khởi nghĩa.</font>
+
+30
+00:02:34,270 --> 00:02:36,210
+<font face="Segoe UI" size="55">Các vị có ý kiến gì
+về vấn đề này không?</font>
+
+31
+00:02:36,480 --> 00:02:42,510
+<font face="Segoe UI" size="55">Tôi thừa nhận là đã nhận được báo cáo cho thấy
+tỷ lệ bắt giữ người trốn trại đang tăng lên,</font>
+
+32
+00:02:42,820 --> 00:02:45,980
+<font face="Segoe UI" size="55">nhưng nếu quy kết việc đó với một cuộc nổi dậy
+thì e là còn quá sớm.</font>
+
+33
+00:02:46,190 --> 00:02:48,950
+<font face="Segoe UI" size="55">Mọi dòng người tị nạn tràn vào Nagasaki
+sẽ bị ngăn chặn bởi rào cản đường thủy.</font>
+
+34
+00:02:49,460 --> 00:02:51,980
+<font face="Segoe UI" size="55">Nói như vậy chứng tỏ các ông
+chưa nắm rõ thực tế tình hình rồi.</font>
+
+35
+00:02:52,620 --> 00:02:56,360
+<font face="Segoe UI" size="55">Chỉ tính riêng trong tháng này, lực lượng Cảnh sát Biển
+chúng tôi đã chặn đứng...</font>
+
+36
+00:02:56,560 --> 00:03:00,460
+<font face="Segoe UI" size="55">...hai tàu khả nghi, cùng 16 thuyền nhỏ
+đang tìm cách cập bến Dejima.</font>
+
+37
+00:03:00,730 --> 00:03:04,260
+<font face="Segoe UI" size="55">Rõ như ban ngày là một làn sóng tị nạn
+đang âm thầm đổ dồn về Nagasaki.</font>
+
+38
+00:03:04,400 --> 00:03:10,360
+<font face="Segoe UI" size="55">Tôi hiểu rồi. Tuy nhiên, phía cảnh sát còn nhiều
+việc hệ trọng khác cần phải giải quyết.</font>
+
+39
+00:03:10,640 --> 00:03:12,200
+<font face="Segoe UI" size="55">Ý ông là những kẻ theo
+chủ nghĩa cá nhân sao?</font>
+
+40
+00:03:12,540 --> 00:03:15,410
+<font face="Segoe UI" size="55">Nếu vậy, tôi rất muốn biết bấy lâu nay
+Cục An ninh Công cộng rốt cuộc đã làm được gì?</font>
+
+41
+00:03:15,810 --> 00:03:20,180
+<font face="Segoe UI" size="55">Việc để mặc cho những kẻ kích động nhởn nhơ ngoài vòng pháp luật
+chính là nguyên nhân lớn dẫn đến cục diện hôm nay.</font>
+
+42
+00:03:20,850 --> 00:03:24,290
+<font face="Segoe UI" size="55">Còn về những kẻ thuộc Thập nhất Cá nhân
+đã tự sát tập thể,</font>
+
+43
+00:03:24,360 --> 00:03:28,450
+<font face="Segoe UI" size="55">bắt Cục An ninh Công cộng phải nắm trước vị trí của chúng
+là một đòi hỏi hoàn toàn phi lý.</font>
+
+44
+00:03:28,930 --> 00:03:33,260
+<font face="Segoe UI" size="55">Mặc dù hầu hết những kẻ theo chủ nghĩa cá nhân
+đều hết lời tán dương hành động đó,</font>
+
+45
+00:03:33,470 --> 00:03:37,990
+<font face="Segoe UI" size="55">nhưng đa phần đều cho rằng nhóm Thập nhất Cá nhân
+là một đẳng cấp hoàn toàn khác biệt.</font>
+
+46
+00:03:38,500 --> 00:03:44,140
+<font face="Segoe UI" size="55">Dù sao đi nữa, theo quan điểm của tôi thì Cơ quan Phòng vệ
+phải chịu trách nhiệm về vấn đề tị nạn này.</font>
+
+47
+00:03:44,710 --> 00:03:48,270
+<font face="Segoe UI" size="55">Chính các ông quá nóng lòng tăng cường vũ trang
+đến mức tổ chức tập trận bắn đạn thật...</font>
+
+48
+00:03:48,350 --> 00:03:52,040
+<font face="Segoe UI" size="55">...ngay trước mũi người tị nạn,
+chẳng khác nào chọc thẳng vào tổ ong vò vẽ.</font>
+
+49
+00:03:52,120 --> 00:03:55,880
+<font face="Segoe UI" size="55">Nếu các ông muốn tranh cãi xem \"con gà hay quả trứng
+có trước\" thì tôi cũng sẵn lòng tiếp thôi.</font>
+
+50
+00:03:55,950 --> 00:03:58,580
+<font face="Segoe UI" size="55">Nhưng theo tôi thấy, chính các vị bên
+Bộ phận An ninh...</font>
+
+51
+00:03:58,660 --> 00:04:01,460
+<font face="Segoe UI" size="55">...mới là những kẻ vẫn đang tranh giành quyền hạn
+ngay cả vào lúc dầu sôi lửa bỏng này đấy.</font>
+
+52
+00:04:01,990 --> 00:04:05,590
+<font face="Segoe UI" size="55">Nếu đã lôi chuyện đó ra, tại sao Lực lượng Phòng vệ Biển
+lại làm ngơ nhắm mắt làm ngơ?</font>
+
+53
+00:04:05,960 --> 00:04:07,960
+<font face="Segoe UI" size="55">Trước khi các vị bàn tới vấn đề thẩm quyền này nọ,</font>
+
+54
+00:04:08,030 --> 00:04:11,370
+<font face="Segoe UI" size="55">chúng tôi sẽ rất biết ơn nếu nhận được thêm sự hợp tác,
+bởi chính chúng tôi mới là những người đang liều mạng ngoài kia!</font>
+
+55
+00:04:11,800 --> 00:04:14,360
+<font face="Segoe UI" size="55">Theo như tôi hiểu, một khi sự việc đã đi đến nước này,</font>
+
+56
+00:04:14,440 --> 00:04:17,710
+<font face="Segoe UI" size="55">thì quyền tài phán đối với vấn đề tị nạn
+đã được bàn giao cho người của tôi rồi.</font>
+
+57
+00:04:17,880 --> 00:04:19,070
+<font face="Segoe UI" size="55">Sao ông dám nói ra những lời như thế chứ?</font>
+
+58
+00:04:19,140 --> 00:04:22,110
+<font face="Segoe UI" size="55">Có cần tôi phải nhắc cho ông nhớ lại những cuộc tranh chấp
+xung quanh Hiệp ước An ninh vào thế kỷ trước không?</font>
+
+59
+00:04:22,550 --> 00:04:25,310
+<font face="Segoe UI" size="55">Không có ý bất kính với vị đồng nghiệp vận động hành lang quốc phòng
+vừa mới nhảy vào cuộc quá muộn màng này,</font>
+
+60
+00:04:25,520 --> 00:04:29,750
+<font face="Segoe UI" size="55">nhưng lực lượng cảnh sát vẫn sẽ là bên duy trì trật tự công cộng
+của quốc gia trong sự vụ lần này.</font>
+
+61
+00:04:30,760 --> 00:04:32,660
+<font face="Segoe UI" size="55">Tranh luận về những vấn đề này là cần thiết,</font>
+
+62
+00:04:32,720 --> 00:04:36,090
+<font face="Segoe UI" size="55">nhưng điều chúng ta cần lúc này là sự đồng thuận
+giữa các cơ quan bộ ngành chính phủ.</font>
+
+63
+00:04:36,660 --> 00:04:38,430
+<font face="Segoe UI" size="55">Tạm thời hãy hoãn lại cuộc họp
+và giải lao đôi chút.</font>
+
+64
+00:04:55,650 --> 00:04:58,670
+<font face="Segoe UI" size="55">Tôi thấy ngài thậm chí chẳng có lấy một phút
+để tĩnh tâm cho nhẹ đầu.</font>
+
+65
+00:04:58,780 --> 00:05:01,080
+<font face="Segoe UI" size="55">Một phần nguyên nhân là do tôi thiếu thực quyền,</font>
+
+66
+00:05:01,220 --> 00:05:04,920
+<font face="Segoe UI" size="55">nhưng ai nấy cũng chỉ chăm chăm vào quyền lợi cục bộ
+mà đánh mất tầm nhìn vào vấn đề cốt lõi trước mắt.</font>
+
+67
+00:05:05,520 --> 00:05:10,150
+<font face="Segoe UI" size="55">Vấn đề tị nạn đòi hỏi sự chung tay của tất cả bọn họ,
+ấy vậy mà...</font>
+
+68
+00:05:10,930 --> 00:05:14,190
+<font face="Segoe UI" size="55">Thưa Thủ tướng, ngài có biết lý do hàng đầu...</font>
+
+69
+00:05:14,270 --> 00:05:17,960
+<font face="Segoe UI" size="55">...khiến quân đội và các cơ quan phòng vệ của bất kỳ quốc gia nào
+bị suy yếu đi không?</font>
+
+70
+00:05:18,940 --> 00:05:22,100
+<font face="Segoe UI" size="55">Chính là vì điều mà ngài
+vừa nhắc tới đấy.</font>
+
+71
+00:05:22,240 --> 00:05:25,770
+<font face="Segoe UI" size="55">Khoảnh khắc những kẻ đứng đầu một tổ chức...</font>
+
+72
+00:05:25,840 --> 00:05:29,010
+<font face="Segoe UI" size="55">...bắt đầu biến nó thành công cụ để mưu cầu tư lợi,</font>
+
+73
+00:05:29,110 --> 00:05:31,080
+<font face="Segoe UI" size="55">thì tổ chức đó sẽ bắt đầu
+chết dần chết mòn.</font>
+
+74
+00:05:31,720 --> 00:05:37,420
+<font face="Segoe UI" size="55">Dù vậy, tôi <i>thực sự</i> áy náy khi đã đẩy
+lực lượng Cảnh sát Biển vào thế chịu nhiều thiệt thòi...</font>
+
+75
+00:05:37,920 --> 00:05:42,830
+<font face="Segoe UI" size="55">À, cũng chẳng có gì bảo đảm rằng Đội của tôi
+sẽ không gặp phải vận rủi tương tự.</font>
+
+76
+00:05:42,900 --> 00:05:44,160
+<font face="Segoe UI" size="55">Có lẽ là vậy...</font>
+
+77
+00:05:45,260 --> 00:05:48,560
+<font face="Segoe UI" size="55">Nhân tiện, bên các vị đã thu thập được...</font>
+
+78
+00:05:48,630 --> 00:05:51,330
+<font face="Segoe UI" size="55">...thông tin cụ thể nào liên quan đến
+hành tung của người tị nạn chưa?</font>
+
+79
+00:05:51,600 --> 00:05:55,660
+<font face="Segoe UI" size="55">Thưa Thủ tướng, có rồi. Ngài có biết
+não điện tử trung tâm là gì không?</font>
+
+80
+00:05:57,080 --> 00:05:58,060
+<font face="Segoe UI" size="55">E là tôi chưa nghe qua.</font>
+
+81
+00:05:58,410 --> 00:06:00,280
+<font face="Segoe UI" size="55">Thiếu tá,
+cô hãy giải thích đi.</font>
+
+82
+00:06:03,480 --> 00:06:06,010
+<font face="Segoe UI" size="55">Thưa Thủ tướng, ngài có phiền không
+nếu tôi kết nối trực tiếp với ngài?</font>
+
+83
+00:06:06,690 --> 00:06:07,670
+<font face="Segoe UI" size="55">Không sao, cô cứ làm đi.</font>
+
+84
+00:06:17,430 --> 00:06:22,330
+<font face="Segoe UI" size="55"><i>Ban đầu, khái niệm về một nút trung tâm hay lõi điều phối</i>
+<i>vốn không hề tồn tại trên mạng lưới.</i></font>
+
+85
+00:06:22,970 --> 00:06:26,300
+<font face="Segoe UI" size="55"><i>Nhưng dạo gần đây, chúng tôi nhận thấy</i>
+<i>xuất hiện một hiện tượng khi một máy chủ...</i></font>
+
+86
+00:06:26,370 --> 00:06:31,000
+<font face="Segoe UI" size="55"><i>...khiến các ý thức biệt lập trên không gian mạng</i>
+<i>đồng loạt chuyển động theo một hướng duy nhất,</i></font>
+
+87
+00:06:31,280 --> 00:06:34,910
+<font face="Segoe UI" size="55"><i>và tạo ra một dạng thực thể tập hợp</i>
+<i>bằng cách mời gọi họ thâm nhập vào chính não điện tử của hắn.</i></font>
+
+88
+00:06:35,680 --> 00:06:39,480
+<font face="Segoe UI" size="55"><i>Cho đến nay, quy mô của nó chỉ giới hạn ở mức các cộng đồng nhỏ...</i></font>
+
+89
+00:06:39,550 --> 00:06:43,350
+<font face="Segoe UI" size="55"><i>...tập trung xoay quanh các giáo phái hẹp</i>
+<i>hoặc những nghệ sĩ có sức hút quần chúng.</i></font>
+
+90
+00:06:43,420 --> 00:06:46,260
+<font face="Segoe UI" size="55"><i>Thế nhưng giờ đây, trong cộng đồng người tị nạn</i>
+<i>đã xuất hiện một kẻ...</i></font>
+
+91
+00:06:46,330 --> 00:06:49,690
+<font face="Segoe UI" size="55"><i>...sở hữu năng lực thuyết phục và thu phục họ,</i>
+<i>khiến họ cam tâm lưu lại trong não điện tử của mình.</i></font>
+
+92
+00:06:50,230 --> 00:06:53,030
+<font face="Segoe UI" size="55"><i>Tôi tin rằng đây chính là căn nguyên thúc đẩy</i>
+<i>làn sóng người tị nạn lũ lượt kéo về Nagasaki.</i></font>
+
+93
+00:06:53,330 --> 00:06:57,000
+<font face="Segoe UI" size="55"><i>Đó chỉ là một cá nhân đơn lẻ thôi sao?</i>
+<i>Một kẻ mà chúng ta có thể coi là thủ lĩnh của họ ư?</i></font>
+
+94
+00:06:57,400 --> 00:07:00,060
+<font face="Segoe UI" size="55"><i>Xét về mặt thực tế, rất khó để tin rằng</i>
+<i>đây chỉ là một cá nhân duy nhất.</i></font>
+
+95
+00:07:00,640 --> 00:07:04,580
+<font face="Segoe UI" size="55"><i>Dù chưa thể khẳng định tuyệt đối, nhưng tôi không nghĩ rằng</i>
+<i>não điện tử của một người lại có đủ dung lượng...</i></font>
+
+96
+00:07:04,780 --> 00:07:08,040
+<font face="Segoe UI" size="55"><i>...để thu phục ý thức của ba triệu con người</i>
+<i>cùng một lúc.</i></font>
+
+97
+00:07:08,750 --> 00:07:11,440
+<font face="Segoe UI" size="55"><i>Thế nhưng, nếu được hỏi liệu cái nút trung tâm này</i>
+<i>có đóng vai trò như thủ lĩnh của họ hay không,</i></font>
+
+98
+00:07:11,520 --> 00:07:13,510
+<font face="Segoe UI" size="55"><i>thì tôi buộc phải trả lời rằng</i>
+<i>đúng là như vậy.</i></font>
+
+99
+00:07:14,350 --> 00:07:15,580
+<font face="Segoe UI" size="55"><i>Tôi hiểu rồi.</i></font>
+
+100
+00:07:19,690 --> 00:07:24,060
+<font face="Segoe UI" size="55">Sự xuất hiện của một kẻ như vậy chính là
+mối đe dọa hàng đầu mà chính phủ đang phải đối mặt.</font>
+
+101
+00:07:24,860 --> 00:07:26,630
+<font face="Segoe UI" size="55">Các vị hãy tiếp tục
+đề cao cảnh giác.</font>
+
+102
+00:07:27,100 --> 00:07:28,190
+<font face="Segoe UI" size="55">Rõ thưa ngài.</font>
+
+103
+00:07:28,730 --> 00:07:32,230
+<font face="Segoe UI" size="55">Khi tôi bãi bỏ Chính sách Đặc biệt về Người tị nạn,</font>
+
+104
+00:07:32,540 --> 00:07:35,130
+<font face="Segoe UI" size="55">ý định ban đầu của tôi là hạn chế nạn trục lợi
+nhắm vào người tị nạn...</font>
+
+105
+00:07:35,210 --> 00:07:37,680
+<font face="Segoe UI" size="55">...và giải quyết vấn đề tận gốc rễ,
+bắt đầu từ chuyện thuế khóa.</font>
+
+106
+00:07:38,080 --> 00:07:41,640
+<font face="Segoe UI" size="55">Điều đó có nghĩa là đã có đối thủ chính trị
+lợi dụng nó để phục vụ mưu đồ riêng.</font>
+
+107
+00:07:41,850 --> 00:07:43,780
+<font face="Segoe UI" size="55">Xin ngài đừng quá bận lòng về chuyện đó.</font>
+
+108
+00:07:46,650 --> 00:07:50,610
+<font face="Segoe UI" size="55">Thực ra... Còn một việc khác
+mà tôi muốn nhờ các vị điều tra giúp.</font>
+
+109
+00:07:51,420 --> 00:07:52,580
+<font face="Segoe UI" size="55">Đó là việc gì vậy thưa ngài?</font>
+
+110
+00:07:53,260 --> 00:07:56,920
+<font face="Segoe UI" size="55">Dường như có một nghị sĩ vận động hành lang quốc phòng
+đang câu kết mờ ám với...</font>
+
+111
+00:07:57,000 --> 00:08:00,560
+<font face="Segoe UI" size="55">...Viện Nghiên cứu Kỹ thuật Đại Nhật Bản trước đây
+xung quanh vấn đề Hiệp ước An ninh Nhật - Mỹ.</font>
+
+112
+00:08:02,400 --> 00:08:07,740
+<font face="Segoe UI" size="55">Đất nước chúng ta nắm giữ công nghệ máy lọc phóng xạ
+duy nhất trên thế giới,</font>
+
+113
+00:08:08,070 --> 00:08:11,440
+<font face="Segoe UI" size="55">trong khi Đế chế Hoa Kỳ trước giờ luôn dựa dẫm
+vào sức răn đe hạt nhân.</font>
+
+114
+00:08:11,540 --> 00:08:13,570
+<font face="Segoe UI" size="55">Tôi tin rằng Hiệp ước An ninh mới này sẽ mang lại hiệu quả...</font>
+
+115
+00:08:13,650 --> 00:08:15,740
+<font face="Segoe UI" size="55">...đặt chúng ta vào vị thế ngang hàng,
+nếu không muốn nói là vượt trội hơn họ.</font>
+
+116
+00:08:16,050 --> 00:08:20,750
+<font face="Segoe UI" size="55">Nếu điều này chứng minh là bất khả thi, tôi sẵn sàng
+hoãn việc ký kết Hiệp ước An ninh mới lại.</font>
+
+117
+00:08:21,520 --> 00:08:24,420
+<font face="Segoe UI" size="55">Tuy nhiên, có một số nghị sĩ và tập đoàn công nghiệp...</font>
+
+118
+00:08:24,590 --> 00:08:26,720
+<font face="Segoe UI" size="55">...chẳng mảy may bận tâm đến lý tưởng đó.</font>
+
+119
+00:08:27,090 --> 00:08:31,190
+<font face="Segoe UI" size="55">Với những gì họ đang làm, đất nước này
+sẽ chẳng bao giờ có được nền độc lập thực sự.</font>
+
+120
+00:08:32,230 --> 00:08:33,960
+<font face="Segoe UI" size="55">Ngài lấy thông tin này
+từ đâu vậy thưa ngài?</font>
+
+121
+00:08:34,630 --> 00:08:36,570
+<font face="Segoe UI" size="55">Từ một nguồn tin nội bộ bên trong Bộ Ngoại giao.</font>
+
+122
+00:08:36,770 --> 00:08:40,200
+<font face="Segoe UI" size="55">Nếu vậy, chúng tôi sẽ lập tức bắt tay vào việc
+bằng cách lần theo dòng tiền.</font>
+
+123
+00:08:40,910 --> 00:08:45,740
+<font face="Segoe UI" size="55">Tuy nhiên, xin mạn phép hỏi thẳng một câu, liệu tôi nên coi
+những mệnh lệnh này được đưa ra...</font>
+
+124
+00:08:46,240 --> 00:08:49,650
+<font face="Segoe UI" size="55">...là xuất phát từ tư lợi cá nhân của ngài,
+hay từ lý tưởng chính trị?</font>
+
+125
+00:08:51,020 --> 00:08:52,850
+<font face="Segoe UI" size="55">Đáng lẽ ông không cần
+phải hỏi câu đó đâu.</font>
+
+126
+00:08:54,220 --> 00:08:55,650
+<font face="Segoe UI" size="55">Tuân lệnh, thưa Thủ tướng.</font>
+
+127
+00:09:11,840 --> 00:09:14,170
+<font face="Segoe UI" size="55">Lẽ ra tôi phải nhận ra
+điều này sớm hơn.</font>
+
+128
+00:09:15,370 --> 00:09:19,170
+<font face="Segoe UI" size="55">Thủ tướng Kayabuki đúng là mẫu phụ nữ
+đúng gu của ngài đấy, Trưởng ban.</font>
+
+129
+00:09:19,280 --> 00:09:21,800
+<font face="Segoe UI" size="55">Sao, đến tận bây giờ
+cô mới nhận ra điều đó à?</font>
+
+130
+00:09:23,650 --> 00:09:25,620
+<font face="Segoe UI" size="55">Tôi chịu thua ngài rồi đấy, Trưởng ban.</font>
+
+131
+00:09:28,590 --> 00:09:31,020
+<font face="Segoe UI" size="55">Ngài có nghĩ \"vị nghị sĩ vận động hành lang quốc phòng\"
+mà bà ấy nhắc tới...</font>
+
+132
+00:09:31,090 --> 00:09:33,060
+<font face="Segoe UI" size="55">...chính là Chánh văn phòng Nội các Takakura không?</font>
+
+133
+00:09:33,460 --> 00:09:34,720
+<font face="Segoe UI" size="55">Chắc chắn là hắn rồi.</font>
+
+134
+00:09:36,090 --> 00:09:40,220
+<font face="Segoe UI" size="55">Tôi không nghĩ mục tiêu của hắn trong vụ này
+chỉ đơn thuần là kiếm vài đồng hối lộ.</font>
+
+135
+00:09:40,930 --> 00:09:44,100
+<font face="Segoe UI" size="55">Takakura vốn là một kẻ tân bảo thủ thân Mỹ,
+phải vậy không?</font>
+
+136
+00:09:45,870 --> 00:09:48,170
+<font face="Segoe UI" size="55">Hắn là một thành viên kỳ cựu của tổ hợp quân sự - công nghiệp...</font>
+
+137
+00:09:48,240 --> 00:09:50,730
+<font face="Segoe UI" size="55">...kẻ cho đến tận bây giờ vẫn chưa dứt bỏ được niềm tin mù quáng
+vào Đế chế Hoa Kỳ.</font>
+
+138
+00:09:51,180 --> 00:09:57,950
+<font face="Segoe UI" size="55">Dưới góc nhìn của hắn, chúng ta có thể sử dụng công nghệ lọc phóng xạ
+vốn đã sụt giá thảm hại sau chiến tranh,</font>
+
+139
+00:09:58,020 --> 00:09:59,920
+<font face="Segoe UI" size="55">và bằng cách bắt tay với Đế chế Hoa Kỳ thêm một lần nữa,</font>
+
+140
+00:09:59,990 --> 00:10:04,220
+<font face="Segoe UI" size="55">chúng ta có thể dùng nó làm lá chắn răn đe mới chống lại các nước khác
+và đẩy giá trị của nó lên cao vút.</font>
+
+141
+00:10:04,320 --> 00:10:06,550
+<font face="Segoe UI" size="55">Bằng cách đó, hắn vừa dọn đường để bỏ túi tiền hoa hồng...</font>
+
+142
+00:10:06,630 --> 00:10:11,650
+<font face="Segoe UI" size="55">...vừa giữ thể diện cho phe bảo thủ
+mà chẳng cần phải chạy đua vũ trang tốn kém.</font>
+
+143
+00:10:11,800 --> 00:10:15,200
+<font face="Segoe UI" size="55">Nghe có vẻ chẳng giống chút nào với chính sách
+\"độc lập và tự chủ hợp tác\"...</font>
+
+144
+00:10:15,270 --> 00:10:17,530
+<font face="Segoe UI" size="55">...mà Thủ tướng Kayabuki
+đang dốc sức thúc đẩy nhỉ.</font>
+
+145
+00:10:18,240 --> 00:10:21,470
+<font face="Segoe UI" size="55">Hắn cũng chính là kẻ cầm đầu tối cao
+của Cục Tình báo Nội các, đúng chứ?</font>
+
+146
+00:10:21,540 --> 00:10:24,170
+<font face="Segoe UI" size="55">Hơn nữa, hồ sơ lý lịch của Gôda còn có vết tích giám sát sản xuất...</font>
+
+147
+00:10:24,240 --> 00:10:28,010
+<font face="Segoe UI" size="55">...dự án \"Kỳ tích Nhật Bản\" tại Viện Nghiên cứu Kỹ thuật Đại Nhật Bản trước đây.</font>
+
+148
+00:10:29,410 --> 00:10:32,110
+<font face="Segoe UI" size="55">Kích động khủng bố tị nạn, rồi lại đến Hiệp ước An ninh Nhật - Mỹ...</font>
+
+149
+00:10:32,180 --> 00:10:33,980
+<font face="Segoe UI" size="55">Và cả vũ khí hạt nhân nữa...</font>
+
+150
+00:10:35,720 --> 00:10:39,160
+<font face="Segoe UI" size="55">Có vẻ như việc giúp bà ấy rửa hận
+cũng rất bõ công đấy chứ?</font>
+
+151
+00:10:58,310 --> 00:11:01,340
+<font face="Segoe UI" size="55">Chúng tôi đợi ngài đến sốt cả ruột rồi đấy,
+Thủ tướng Kayabuki...</font>
+
+152
+00:11:04,820 --> 00:11:06,410
+<font face="Segoe UI" size="55">Tôi vào ngay đây.</font>
+
+153
+00:11:19,430 --> 00:11:20,420
+<font face="Segoe UI" size="55">Togusa này.</font>
+
+154
+00:11:21,300 --> 00:11:22,290
+<font face="Segoe UI" size="55">Gì thế, Azuma?</font>
+
+155
+00:11:22,900 --> 00:11:25,340
+<font face="Segoe UI" size="55">Tôi biết là bọn mình không được mời tham dự cuộc họp,</font>
+
+156
+00:11:25,740 --> 00:11:27,860
+<font face="Segoe UI" size="55">nhưng cậu có chắc là chúng ta
+không nên ngồi dự thính không?</font>
+
+157
+00:11:27,970 --> 00:11:30,340
+<font face="Segoe UI" size="55">Thế còn cuộc điều tra bí mật về Thập nhất Cá nhân
+của các cậu thì sao?</font>
+
+158
+00:11:30,880 --> 00:11:33,210
+<font face="Segoe UI" size="55">Bên phía bọn chúng ít động tĩnh hơn hẳn so với đám tị nạn,</font>
+
+159
+00:11:33,310 --> 00:11:35,940
+<font face="Segoe UI" size="55">thành thử, cậu biết đấy, bọn tôi
+cũng bắt đầu thấy hơi chán rồi.</font>
+
+160
+00:11:36,850 --> 00:11:38,110
+<font face="Segoe UI" size="55">Cái thằng ngu này!</font>
+
+161
+00:11:38,180 --> 00:11:40,910
+<font face="Segoe UI" size="55">Chán thì đã làm sao hả?!
+Đó là công việc chết tiệt của cậu đấy!</font>
+
+162
+00:11:40,990 --> 00:11:43,250
+<font face="Segoe UI" size="55">Tôi thề, hai đứa các cậu còn non và xanh đến phát bực!</font>
+
+163
+00:11:45,560 --> 00:11:49,020
+<font face="Segoe UI" size="55">Đó là vào khoảng thời gian mà cuộc chiến vô nghĩa...</font>
+
+164
+00:11:49,090 --> 00:11:51,490
+<font face="Segoe UI" size="55">...tranh giành quyền bá chủ lục địa Á-Âu
+cuối cùng cũng dần đi đến hồi kết.</font>
+
+165
+00:11:51,900 --> 00:11:54,660
+<font face="Segoe UI" size="55">Hồi đó tôi có lẻn vào bán đảo
+vài lần.</font>
+
+166
+00:11:54,730 --> 00:11:56,860
+<font face="Segoe UI" size="55">Vào thời điểm ấy, vùng đó
+đã khá là hiện đại hóa rồi.</font>
+
+167
+00:11:57,600 --> 00:11:58,800
+<font face="Segoe UI" size="55">Các cậu đã bắt đầu
+báo cáo rồi à?</font>
+
+168
+00:11:59,070 --> 00:12:02,630
+<font face="Segoe UI" size="55">Chưa đâu. Bọn tôi mới chỉ khởi động đôi chút
+trong lúc chờ Thiếu tá thôi.</font>
+
+169
+00:12:04,180 --> 00:12:05,770
+<font face="Segoe UI" size="55">Vậy thì, chúng ta
+bắt đầu chứ nhỉ?</font>
+
+170
+00:12:06,580 --> 00:12:10,170
+<font face="Segoe UI" size="55">Vô cùng xin lỗi vì đã bắt cậu lao ngay vào việc
+ngay khi vừa mới chân ướt chân ráo trở về.</font>
+
+171
+00:12:11,180 --> 00:12:12,740
+<font face="Segoe UI" size="55">À, cảm ơn.</font>
+
+172
+00:12:26,670 --> 00:12:31,690
+<font face="Segoe UI" size="55">Đó là vào năm 2024, các quốc gia trên khắp thế giới
+đều đã kiệt quệ sau Thế chiến thứ Tư.</font>
+
+173
+00:12:32,240 --> 00:12:35,670
+<font face="Segoe UI" size="55">Bán đảo Triều Tiên khi ấy vẫn đang chìm trong nội chiến, và khi cuộc thế chiến vừa chấm dứt,</font>
+
+174
+00:12:35,740 --> 00:12:38,110
+<font face="Segoe UI" size="55">Đế chế Hoa Kỳ đã kêu gọi Liên Hợp Quốc gửi quân vào can thiệp.</font>
+
+175
+00:12:38,180 --> 00:12:41,670
+<font face="Segoe UI" size="55">Đây chính là động lực trực tiếp dẫn đến việc
+Lục quân Phòng vệ được điều động tới đó.</font>
+
+176
+00:12:42,280 --> 00:12:44,610
+<font face="Segoe UI" size="55">Nhưng thực chất thì Đế chế Hoa Kỳ...</font>
+
+177
+00:12:44,680 --> 00:12:47,850
+<font face="Segoe UI" size="55">...đang tìm cách gượng dậy và thiết lập lại vị thế cường quốc thống trị toàn cầu.</font>
+
+178
+00:12:47,950 --> 00:12:50,720
+<font face="Segoe UI" size="55">Họ lợi dụng việc điều quân để ép chính phủ thống nhất phải nhượng lại quyền khai thác...</font>
+
+179
+00:12:51,020 --> 00:12:55,050
+<font face="Segoe UI" size="55">...các mỏ uranium chôn sâu ở phía bắc bán đảo, đúng không?</font>
+
+180
+00:12:55,260 --> 00:12:59,960
+<font face="Segoe UI" size="55">Phải, chuyện đó nữa. Nhưng dẫu cho dã tâm của họ
+rõ ràng mười mươi như ban ngày,</font>
+
+181
+00:13:00,230 --> 00:13:04,930
+<font face="Segoe UI" size="55">Nhật Bản vẫn không thể từ chối Liên Hợp Quốc, nhất là khi họ đang vớ bẫm từ các hợp đồng cung ứng chiến tranh.</font>
+
+182
+00:13:05,200 --> 00:13:09,070
+<font face="Segoe UI" size="55">Ngoại trừ trận chiến tái chiếm Nemuro, Lục quân Phòng vệ...</font>
+
+183
+00:13:09,140 --> 00:13:11,730
+<font face="Segoe UI" size="55">...đã xoay xở né tránh được mọi cuộc giao tranh qua suốt hai cuộc thế chiến,</font>
+
+184
+00:13:12,080 --> 00:13:14,340
+<font face="Segoe UI" size="55">...nên đây chính là phép thử đầu tiên dưới làn mưa bom bão đạn của họ.</font>
+
+185
+00:13:16,210 --> 00:13:18,770
+<font face="Segoe UI" size="55">Nhưng hồi đó sếp già và Thiếu tá
+đều hoạt động ở nước ngoài...</font>
+
+186
+00:13:18,880 --> 00:13:21,110
+<font face="Segoe UI" size="55">...dưới danh nghĩa phi chính thức suốt cuộc chiến, đúng không?</font>
+
+187
+00:13:21,550 --> 00:13:22,650
+<font face="Segoe UI" size="55">Đại loại là thế.</font>
+
+188
+00:13:23,120 --> 00:13:26,060
+<font face="Segoe UI" size="55">Phi chính thức, là bởi ngài Thủ tướng bị đánh bom khủng bố thiệt mạng năm đó...</font>
+
+189
+00:13:26,120 --> 00:13:29,820
+<font face="Segoe UI" size="55">...là một trong số ít chính khách có tầm nhìn quốc tế thực sự.</font>
+
+190
+00:13:30,100 --> 00:13:32,030
+<font face="Segoe UI" size="55">Dù sao thì, bởi vì tất cả những toan tính ngầm sau cánh gà ấy,</font>
+
+191
+00:13:32,100 --> 00:13:36,690
+<font face="Segoe UI" size="55">chính phủ đã áp đặt lệnh kiểm duyệt báo chí gắt gao nhằm định hướng dư luận trong nước.</font>
+
+192
+00:13:37,070 --> 00:13:40,330
+<font face="Segoe UI" size="55">Và địa điểm được lựa chọn để triển khai lực lượng gìn giữ hòa bình PKF chính là Sinuiju,</font>
+
+193
+00:13:40,410 --> 00:13:42,310
+<font face="Segoe UI" size="55">nơi được đánh giá là
+tương đối an toàn.</font>
+
+194
+00:13:42,610 --> 00:13:45,130
+<font face="Segoe UI" size="55">Tôi vẫn còn nhớ đợt dư luận dậy sóng
+về vụ điều quân đó.</font>
+
+195
+00:13:45,740 --> 00:13:50,340
+<font face="Segoe UI" size="55">Nhưng tôi đồ rằng mọi người cuối cùng cũng mất dần hứng thú
+khi toàn bộ những gì bản tin thời sự chiếu...</font>
+
+196
+00:13:50,820 --> 00:13:53,480
+<font face="Segoe UI" size="55">...chỉ là cảnh những người lính Phòng vệ trông có vẻ buồn chán
+đang giao lưu cùng người dân địa phương.</font>
+
+197
+00:13:53,720 --> 00:13:57,520
+<font face="Segoe UI" size="55">Chẳng có gì lạ. Tuy nhiên, sự thật diễn ra nơi chiến trường
+lại là một câu chuyện hoàn toàn khác.</font>
+
+198
+00:13:58,320 --> 00:14:02,230
+<font face="Segoe UI" size="55">Và những kẻ giật dây kiểm duyệt truyền thông
+từ trong bóng tối...</font>
+
+199
+00:14:02,330 --> 00:14:06,590
+<font face="Segoe UI" size="55">chính là tiền thân của Cục Tình báo CIS ngày nay,
+Cục Báo chí Nội các.</font>
+
+200
+00:14:06,830 --> 00:14:09,930
+<font face="Segoe UI" size="55">Vậy rốt cuộc, \"bộ mặt thật của tình hình\"
+bên phía PKF là gì?</font>
+
+201
+00:14:10,040 --> 00:14:14,340
+<font face="Segoe UI" size="55">Chuyện là... Xem ra thực tế ở đó
+bi thảm hơn nhiều so với những gì chúng ta từng nghe.</font>
+
+202
+00:14:16,070 --> 00:14:19,340
+<font face="Segoe UI" size="55">Đơn vị mà Kuze trực thuộc
+là một đơn vị cơ giới hóa...</font>
+
+203
+00:14:19,610 --> 00:14:22,310
+<font face="Segoe UI" size="55">...thuộc tốp lực lượng chủ lực cuối cùng được điều động tới mảnh đất này.</font>
+
+204
+00:14:22,710 --> 00:14:27,210
+<font face="Segoe UI" size="55">Vào thời điểm đó, Sinuiju vừa là đặc khu hành chính
+vừa là trung tâm giao thương,</font>
+
+205
+00:14:27,650 --> 00:14:30,090
+<font face="Segoe UI" size="55">nên nó nằm ngoài danh sách mục tiêu bắn phá
+của tất cả các bên.</font>
+
+206
+00:14:30,290 --> 00:14:33,120
+<font face="Segoe UI" size="55">Thế nhưng tàn quân tháo chạy của Quân đội Nhân dân...</font>
+
+207
+00:14:33,190 --> 00:14:35,960
+<font face="Segoe UI" size="55">...đã chọn nơi tử thủ cuối cùng sau khi chính phủ thống nhất được thành lập...</font>
+
+208
+00:14:36,060 --> 00:14:39,660
+<font face="Segoe UI" size="55">...chính là một vùng nông thôn cách thành phố khoảng 20 cây số về phía đông.</font>
+
+209
+00:14:40,030 --> 00:14:42,400
+<font face="Segoe UI" size="55">Một khi vượt qua biên giới ở đó,
+nơi ấy là vùng đồi núi, đúng không?</font>
+
+210
+00:14:42,770 --> 00:14:45,570
+<font face="Segoe UI" size="55">Đúng hơn thì là một con đèo hiểm trở.</font>
+
+211
+00:14:45,770 --> 00:14:47,640
+<font face="Segoe UI" size="55">Độ cao ở đó tối đa
+chỉ chừng 800 mét.</font>
+
+212
+00:14:47,970 --> 00:14:51,910
+<font face="Segoe UI" size="55">Thế nên đó là địa bàn hoàn hảo
+cho chiến tranh du kích.</font>
+
+213
+00:14:52,980 --> 00:14:57,710
+<font face="Segoe UI" size="55">Đại đội bộ binh cyborg được chia làm hai cánh quân
+với vai trò là đơn vị tiễu phỉ du kích,</font>
+
+214
+00:14:57,780 --> 00:15:02,310
+<font face="Segoe UI" size="55">và gần như ngay khi vừa đặt chân tới nơi, họ đã lập tức tiến sâu vào rặng núi giữa mùa đông giá rét cắt da cắt thịt.</font>
+
+215
+00:15:02,950 --> 00:15:06,220
+<font face="Segoe UI" size="55">Dẫu cho đây là lần đầu tiên họ được triển khai tác chiến quy mô lớn nơi tiền tuyến,</font>
+
+216
+00:15:06,420 --> 00:15:11,360
+<font face="Segoe UI" size="55">nhưng những cỗ cơ thể cơ khí hóa bán phần PKF
+có lẽ chẳng hề gặp mấy áp lực,</font>
+
+217
+00:15:11,560 --> 00:15:14,560
+<font face="Segoe UI" size="55">ngay cả khi hành quân qua lớp tuyết dày
+dưới nhiệt độ âm bốn độ C.</font>
+
+218
+00:15:16,130 --> 00:15:20,660
+<font face="Segoe UI" size="55">Vào lúc đó, lực lượng chủ lực đang trong trạng thái báo động cao độ sau khi nhận được tin tình báo...</font>
+
+219
+00:15:20,740 --> 00:15:25,230
+<font face="Segoe UI" size="55">...rằng lực lượng tinh nhuệ cuối cùng của Quân đội Nhân dân đang lên kế hoạch đột kích Sinuiju.</font>
+
+220
+00:15:25,910 --> 00:15:28,470
+<font face="Segoe UI" size="55">Kế hoạch đặt ra là đại đội của Kuze...</font>
+
+221
+00:15:28,550 --> 00:15:31,710
+<font face="Segoe UI" size="55">...sẽ vu hồi bọc hậu từ phía bắc và tung đòn tấn công phủ đầu.</font>
+
+222
+00:15:31,980 --> 00:15:34,880
+<font face="Segoe UI" size="55">Thế nhưng trung đội của Kuze, vốn đi tiên phong mở đường,</font>
+
+223
+00:15:35,290 --> 00:15:40,660
+<font face="Segoe UI" size="55">đã phát hiện ra một trại tị nạn không hề có trong bản đồ tình báo
+nằm sát bên bờ con sông chảy dọc biên giới.</font>
+
+224
+00:15:41,890 --> 00:15:47,130
+<font face="Segoe UI" size="55">Một cuộc đột kích tàn bạo đang diễn ra
+do chính những binh lính của Quân đội Nhân dân tiến hành.</font>
+
+225
+00:15:47,530 --> 00:15:51,530
+<font face="Segoe UI" size="55">Những kẻ mang danh người lính ấy
+giờ đây đã thoái hóa thành lũ thảo khấu vùng biên.</font>
+
+226
+00:15:55,840 --> 00:16:00,500
+<font face="Segoe UI" size="55">Chứng kiến cảnh tượng dã man ấy, Kuze cùng trung đội của anh ta
+đã sục sôi phẫn nộ và lập tức lao vào hành động.</font>
+
+227
+00:16:01,450 --> 00:16:04,180
+<font face="Segoe UI" size="55">Đó là một trận chiến tương quan
+giữa 120 người chọi lại 30 người,</font>
+
+228
+00:16:07,750 --> 00:16:10,120
+<font face="Segoe UI" size="55">...nhưng mọi thứ đã ngã ngũ
+chỉ trong chớp mắt.</font>
+
+229
+00:16:10,720 --> 00:16:14,180
+<font face="Segoe UI" size="55">Bởi lẽ trung đội của Kuze là một đơn vị cyborg tinh nhuệ,</font>
+
+230
+00:16:14,490 --> 00:16:18,120
+<font face="Segoe UI" size="55">còn những kẻ đang tấn công khu trại, dẫu từng là quân nhân,</font>
+
+231
+00:16:18,200 --> 00:16:22,860
+<font face="Segoe UI" size="55">nhưng đa phần đều là cơ thể bằng xương bằng thịt,
+và từng tên một đều đã bị bỏ đói đến dở sống dở chết.</font>
+
+232
+00:16:32,840 --> 00:16:36,910
+<font face="Segoe UI" size="55">Dù sau đó họ vẫn nhận được một vài báo cáo
+về tàn dư của Quân đội Nhân dân,</font>
+
+233
+00:16:37,150 --> 00:16:39,580
+<font face="Segoe UI" size="55">nhưng sự vụ lần đó là trận giao tranh duy nhất
+mà họ phải nổ súng.</font>
+
+234
+00:16:39,780 --> 00:16:42,720
+<font face="Segoe UI" size="55">Mặc dù phải chịu áp lực từ cái lạnh khắc nghiệt...</font>
+
+235
+00:16:42,790 --> 00:16:45,850
+<font face="Segoe UI" size="55">...và nỗi bất an không biết du kích sẽ đánh úp lúc nào,</font>
+
+236
+00:16:46,120 --> 00:16:51,080
+<font face="Segoe UI" size="55">nhưng các lực lượng chủ lực đóng quân trong nội đô
+thì chẳng phải nếm trải chút gian nan nào.</font>
+
+237
+00:16:51,500 --> 00:16:53,190
+<font face="Segoe UI" size="55">Tôi nhớ là mình
+từng thấy thước phim này.</font>
+
+238
+00:16:53,400 --> 00:16:59,390
+<font face="Segoe UI" size="55">Phải. Nhưng chẳng bao lâu sau, rắc rối đã nảy sinh
+ngay trong khu doanh trại đóng ngoài nông thôn.</font>
+
+239
+00:16:59,770 --> 00:17:01,030
+<font face="Segoe UI" size="55">Hội chứng PTSD à?</font>
+
+240
+00:17:01,110 --> 00:17:05,100
+<font face="Segoe UI" size="55">Chuẩn xác rồi đấy.
+Rối loạn căng thẳng sau sang chấn.</font>
+
+241
+00:17:05,480 --> 00:17:09,810
+<font face="Segoe UI" size="55">Trải nghiệm lần đầu tiên bước vào chiến trận, mà lại là một cuộc tàn sát một chiều đẫm máu,</font>
+
+242
+00:17:10,280 --> 00:17:13,740
+<font face="Segoe UI" size="55">đã dần dần gặm nhấm và hủy hoại tâm can
+của những người lính trẻ tuổi.</font>
+
+243
+00:17:14,450 --> 00:17:17,050
+<font face="Segoe UI" size="55">Những kẻ vẫn còn giữ lại lá phổi nguyên bản
+cùng các cơ quan nội tạng bằng xương thịt...</font>
+
+244
+00:17:17,160 --> 00:17:20,720
+<font face="Segoe UI" size="55">...đã điên cuồng tìm cách trốn chạy khỏi những hồi tưởng kinh hoàng và ác mộng về vụ thảm sát...</font>
+
+245
+00:17:21,160 --> 00:17:26,150
+<font face="Segoe UI" size="55">...bằng cách lao vào men rượu tổng hợp và cần sa
+do chính những người tị nạn mang tới cho họ.</font>
+
+246
+00:17:28,270 --> 00:17:33,670
+<font face="Segoe UI" size="55">Trước thời điểm đó, Lục quân Phòng vệ
+vốn nổi tiếng là một đội quân vô cùng kỷ luật.</font>
+
+247
+00:17:34,140 --> 00:17:37,400
+<font face="Segoe UI" size="55">Khi kỷ cương bắt đầu rạn nứt vỡ vụn, giới truyền thông tại Nhật Bản
+đã lập tức chĩa mũi dùi chỉ trích họ vô cùng gay gắt.</font>
+
+248
+00:17:40,380 --> 00:17:43,070
+<font face="Segoe UI" size="55">Mặc dù sự thật trần trụi về vụ thảm sát tại trại tị nạn...</font>
+
+249
+00:17:43,150 --> 00:17:47,140
+<font face="Segoe UI" size="55">...chưa từng lọt tới tai giới báo chí
+do có lệnh cấm vận thông tin nghiêm ngặt,</font>
+
+250
+00:17:47,590 --> 00:17:50,880
+<font face="Segoe UI" size="55">nhưng điều này lại càng khiến cho những lời chỉ trích về hành vi đồi trụy của binh lính
+trở nên cay nghiệt hơn bao giờ hết.</font>
+
+251
+00:17:51,760 --> 00:17:56,020
+<font face="Segoe UI" size="55">Hơn thế nữa, quyền tự do của những người lính đã bị tước đoạt bởi lệnh phong tỏa tin tức...</font>
+
+252
+00:17:56,330 --> 00:17:59,390
+<font face="Segoe UI" size="55">...được dựng lên cốt để che đậy những hành vi nhục nhã của binh sĩ không bị phơi bày trên mặt báo.</font>
+
+253
+00:17:59,460 --> 00:18:02,560
+<font face="Segoe UI" size="55">Mọi chuyện dần tệ hại đến mức họ thậm chí
+còn không được phép bước chân trở về Nhật Bản.</font>
+
+254
+00:18:03,200 --> 00:18:05,000
+<font face="Segoe UI" size="55">Nghe chẳng khác nào
+một khu cách ly bệnh nhân cả...</font>
+
+255
+00:18:05,300 --> 00:18:06,790
+<font face="Segoe UI" size="55">Ừ, và tệ hại hơn cả là,</font>
+
+256
+00:18:07,340 --> 00:18:11,330
+<font face="Segoe UI" size="55">tin tức về vụ thảm sát tại khu trại tị nạn gần biên giới
+đã bị rò rỉ cho một số cơ quan báo chí.</font>
+
+257
+00:18:11,740 --> 00:18:14,370
+<font face="Segoe UI" size="55">Và những tin đồn thậm chí bắt đầu lan truyền rằng
+đó có thể...</font>
+
+258
+00:18:14,450 --> 00:18:16,810
+<font face="Segoe UI" size="55">...là tác phẩm do chính bàn tay
+Lục quân Phòng vệ Nhật Bản gây ra.</font>
+
+259
+00:18:17,250 --> 00:18:21,840
+<font face="Segoe UI" size="55">Người dân tại vùng nông thôn đã ùa tới gây áp lực dữ dội,
+yêu cầu một lời giải thích thỏa đáng.</font>
+
+260
+00:18:22,190 --> 00:18:26,350
+<font face="Segoe UI" size="55">Thế nhưng dưới bức màn sắt cấm vận thông tin,
+những người lính trẻ,</font>
+
+261
+00:18:26,760 --> 00:18:30,720
+<font face="Segoe UI" size="55">và ngay cả các sĩ quan chỉ huy của họ, đều chẳng thể thốt lên nửa lời
+để tự biện hộ cho chính mình.</font>
+
+262
+00:18:30,960 --> 00:18:35,190
+<font face="Segoe UI" size="55">Họ chẳng thể làm gì khác ngoài việc câm nín
+và thu mình trốn chặt trong những túp lều bạt.</font>
+
+263
+00:18:36,700 --> 00:18:38,790
+<font face="Segoe UI" size="55">Một ngày nọ, sau khi tình trạng bế tắc này kéo dài được một thời gian,</font>
+
+264
+00:18:39,100 --> 00:18:42,770
+<font face="Segoe UI" size="55">một phóng viên địa phương dường như đã nói những lời sau đây
+với một trong số những người lính.</font>
+
+265
+00:18:43,310 --> 00:18:49,910
+<font face="Segoe UI" size="55">Gã phóng viên đó có lẽ cố tình mỉa mai một tên lính
+đã không còn lá phổi tự nhiên mà cha sinh mẹ đẻ ban cho.</font>
+
+266
+00:18:52,550 --> 00:18:53,710
+<font face="Segoe UI" size="55">Này.</font>
+
+267
+00:18:54,950 --> 00:18:58,750
+<font face="Segoe UI" size="55">Anh có biết nguồn gốc của từ
+\"sát thủ\" (assassin) bắt nguồn từ đâu không?</font>
+
+268
+00:18:59,790 --> 00:19:03,250
+<font face="Segoe UI" size="55">Trong tiếng Ả Rập, nó có nghĩa là
+\"kẻ nghiện cần sa hashish\".</font>
+
+269
+00:19:04,230 --> 00:19:09,220
+<font face="Segoe UI" size="55">Những sát thủ Hồi giáo tấn công quân Thập tự chinh sau khi tái chiếm Jerusalem vào thế kỷ 11...</font>
+
+270
+00:19:09,700 --> 00:19:13,190
+<font face="Segoe UI" size="55">...đã hút cần sa và lạnh lùng tiến hành những vụ ám sát đẫm máu
+như thể đang chìm trong một giấc mộng mị.</font>
+
+271
+00:19:15,470 --> 00:19:17,170
+<font face="Segoe UI" size="55">Người ta kể lại rằng khi quân Thập tự chinh
+chứng kiến điều đó,</font>
+
+272
+00:19:17,240 --> 00:19:19,900
+<font face="Segoe UI" size="55">họ đã gọi những kẻ đó là \"assassins\"
+và vô cùng khiếp đảm kinh hồn bạt vía.</font>
+
+273
+00:19:20,550 --> 00:19:23,950
+<font face="Segoe UI" size="55">Có phải các anh cũng bú mớm thứ cỏ rác đó rồi ảo tưởng
+rằng mảnh đất này chính là Thiên đường không hả?</font>
+
+274
+00:19:24,180 --> 00:19:28,120
+<font face="Segoe UI" size="55">Các anh xâm lược nơi này, rồi giờ đây lại cứ nhởn nhơ bám víu lấy
+như thể các anh là khách quý tới thăm vậy!</font>
+
+275
+00:19:28,450 --> 00:19:30,150
+<font face="Segoe UI" size="55">Lũ giết người man rợ...</font>
+
+276
+00:19:33,060 --> 00:19:34,520
+<font face="Segoe UI" size="55">A-Anh muốn cái gì hả?</font>
+
+277
+00:19:34,960 --> 00:19:36,290
+<font face="Segoe UI" size="55">Anh nói đúng đấy.</font>
+
+278
+00:19:37,460 --> 00:19:39,950
+<font face="Segoe UI" size="55">Có lẽ ban đầu chúng tôi quả thực
+đã tự coi mình là những người khách tới đây.</font>
+
+279
+00:19:48,610 --> 00:19:51,730
+<font face="Segoe UI" size="55">Đổi cho tôi đi. Khẩu này
+lấy một chiếc máy ảnh kia.</font>
+
+280
+00:19:55,080 --> 00:19:58,520
+<font face="Segoe UI" size="55">Nói đoạn, Kuze liền đem khẩu súng của mình
+đổi lấy một chiếc máy ảnh,</font>
+
+281
+00:19:58,580 --> 00:20:01,210
+<font face="Segoe UI" size="55">rồi cứ thế một mình dấn bước
+vào bên trong trại tị nạn.</font>
+
+282
+00:20:03,450 --> 00:20:05,720
+<font face="Segoe UI" size="55">Sau đó thì sao? Anh ta
+đã làm gì trong trại tị nạn?</font>
+
+283
+00:20:06,090 --> 00:20:09,490
+<font face="Segoe UI" size="55">Theo lời kể thì anh ta chẳng làm gì to tát cả.
+Tất cả những gì anh ta làm chỉ là đeo chiếc máy ảnh đi loanh quanh...</font>
+
+284
+00:20:09,560 --> 00:20:12,650
+<font face="Segoe UI" size="55">...thỉnh thoảng lại nhìn qua kính ngắm ngắm nhìn cuộc sống thường nhật của những người tị nạn...</font>
+
+285
+00:20:12,900 --> 00:20:15,560
+<font face="Segoe UI" size="55">...và cặm cụi gấp những hình
+origami giấy khác nhau.</font>
+
+286
+00:20:15,730 --> 00:20:16,890
+<font face="Segoe UI" size="55">Tôi chẳng hiểu gì cả.</font>
+
+287
+00:20:16,970 --> 00:20:20,560
+<font face="Segoe UI" size="55">Phải, tôi cũng chịu, chẳng thể nào đoán ra
+mục đích thực sự của anh ta là gì.</font>
+
+288
+00:20:20,970 --> 00:20:24,170
+<font face="Segoe UI" size="55">Thế nhưng một thời gian sau khi anh ta bước vào,
+một hiện tượng kỳ lạ bắt đầu xảy ra.</font>
+
+289
+00:20:25,080 --> 00:20:28,170
+<font face="Segoe UI" size="55">Đầu tiên, những người già trong trại dần dà bắt đầu
+dành sự quan tâm chú ý đến Kuze,</font>
+
+290
+00:20:28,250 --> 00:20:29,940
+<font face="Segoe UI" size="55">và cuối cùng họ còn chủ động
+mời anh ta uống nước.</font>
+
+291
+00:20:30,380 --> 00:20:33,410
+<font face="Segoe UI" size="55">Tiếp đó, lũ trẻ con xúm lại nài nỉ anh ta
+gấp máy bay giấy cho chúng,</font>
+
+292
+00:20:33,890 --> 00:20:37,180
+<font face="Segoe UI" size="55">rồi từng đứa một kết bạn với Kuze,
+người đàn ông chưa từng hé răng lấy một lời.</font>
+
+293
+00:20:38,160 --> 00:20:43,790
+<font face="Segoe UI" size="55">Và đến ngày hôm sau, ngay cả phụ nữ và những người đàn ông trưởng thành
+cũng thay nhau đến bắt chuyện với Kuze.</font>
+
+294
+00:20:44,200 --> 00:20:49,100
+<font face="Segoe UI" size="55">Kuze chỉ đơn giản mỉm cười nhìn họ với vẻ hạnh phúc,
+thỉnh thoảng lại đưa máy lên bấm tách một kiểu ảnh.</font>
+
+295
+00:20:51,200 --> 00:20:52,100
+<font face="Segoe UI" size="55">Rồi sau đó ra sao nữa?</font>
+
+296
+00:20:52,200 --> 00:20:53,830
+<font face="Segoe UI" size="55">Quân đội Nhân dân
+chính thức đầu hàng,</font>
+
+297
+00:20:53,910 --> 00:20:58,100
+<font face="Segoe UI" size="55">và Kuze cứ thế duy trì nếp sống ấy suốt ba tháng ròng,
+cho đến ngày Lục quân Phòng vệ được giải trừ nhiệm vụ.</font>
+
+298
+00:20:58,410 --> 00:21:02,610
+<font face="Segoe UI" size="55">Kể từ sau đó, không còn bất kỳ cơ quan truyền thông nào
+nhắc lại vụ thảm sát ấy nữa.</font>
+
+299
+00:21:03,410 --> 00:21:06,080
+<font face="Segoe UI" size="55">Và đúng một ngày trước khi Lục quân Phòng vệ
+lên đường trở về Nhật Bản,</font>
+
+300
+00:21:06,220 --> 00:21:09,050
+<font face="Segoe UI" size="55">Kuze bỗng nhiên biến mất không dấu vết
+khỏi khu trại tị nạn.</font>
+
+301
+00:21:09,950 --> 00:21:12,980
+<font face="Segoe UI" size="55">Bức ảnh duy nhất chụp lại từ khu trại tị nạn ấy
+vẫn còn lưu giữ đến tận ngày nay.</font>
+
+302
+00:21:15,260 --> 00:21:16,780
+<font face="Segoe UI" size="55">Vậy sau đó anh ta
+đã đi đâu?</font>
+
+303
+00:21:17,230 --> 00:21:21,430
+<font face="Segoe UI" size="55">Người ta đồn rằng anh ta đã vượt biên
+và đi về hướng tây, nhưng đó không phải tin tình báo đáng tin cậy.</font>
+
+304
+00:21:21,970 --> 00:21:25,530
+<font face="Segoe UI" size="55">Còn về việc anh ta trôi dạt về đâu và bằng cách nào,
+thì trong quá trình điều tra,</font>
+
+305
+00:21:25,640 --> 00:21:29,440
+<font face="Segoe UI" size="55">tôi có nói chuyện với một tay vừa mới trở về
+từ khu tị nạn ở Đài Loan.</font>
+
+306
+00:21:29,870 --> 00:21:33,440
+<font face="Segoe UI" size="55">Hắn ta kể rằng đã nhìn thấy một người đàn ông ở đó,
+người rất có thể chính là Kuze.</font>
+
+307
+00:21:34,210 --> 00:21:37,010
+<font face="Segoe UI" size="55">Mái tóc trên cỗ cơ thể cơ khí của anh ta
+đã bạc trắng hoàn toàn,</font>
+
+308
+00:21:37,420 --> 00:21:39,910
+<font face="Segoe UI" size="55">nhưng người đó quả quyết rằng
+chắc chắn đó chính là Kuze.</font>
+
+309
+00:21:40,450 --> 00:21:43,420
+<font face="Segoe UI" size="55">Anh ta bảo bằng chứng
+để nhận ra Kuze...</font>
+
+310
+00:21:43,620 --> 00:21:46,950
+<font face="Segoe UI" size="55">...chính là việc xung quanh anh ta lúc nào cũng có một đám đông
+những con người tràn ngập niềm vui và hạnh phúc.</font>
+
+311
+00:21:49,730 --> 00:21:51,320
+<font face="Segoe UI" size="55">Cháu là người Nhật à?</font>
+
+312
+00:21:51,700 --> 00:21:52,490
+<font face="Segoe UI" size="55">Vâng ạ.</font>
+
+313
+00:21:52,530 --> 00:21:55,120
+<font face="Segoe UI" size="55">Chà, lạ thật đấy.
+Cháu nói được sao?</font>
+
+314
+00:22:05,080 --> 00:22:07,540
+<font face="Segoe UI" size="55">Ồ, chào Thiếu tá.
+Cô cũng tới dự cuộc họp à?</font>
+
+315
+00:22:07,610 --> 00:22:09,380
+<font face="Segoe UI" size="55">Ừ. Tôi đã nghe toàn bộ mọi chuyện rồi.</font>
+
+316
+00:22:10,850 --> 00:22:13,540
+<font face="Segoe UI" size="55">Quả là một câu chuyện
+hết sức lôi cuốn đấy.</font>
+
+317
+00:22:18,890 --> 00:22:19,980
+<font face="Segoe UI" size="55">Thưa Đại diện.</font>
+
+318
+00:22:20,320 --> 00:22:23,020
+<font face="Segoe UI" size="55">Tôi gặp chút rắc rối với mảng lọc dữ liệu
+của não điện tử trung tâm,</font>
+
+319
+00:22:23,460 --> 00:22:26,490
+<font face="Segoe UI" size="55">nhưng cuối cùng tôi cũng đã lần ngược thành công dấu vết
+trên não điện tử của người tị nạn.</font>
+
+320
+00:22:27,030 --> 00:22:28,660
+<font face="Segoe UI" size="55">Đúng như ngài dự đoán, dường như hắn
+đang có mặt tại Dejima.</font>
+
+321
+00:22:29,470 --> 00:22:32,230
+<font face="Segoe UI" size="55">Tôi đã yêu cầu Cơ quan An ninh Quốc gia NSA
+xác thực thông tin,</font>
+
+322
+00:22:32,840 --> 00:22:35,600
+<font face="Segoe UI" size="55">nên tôi dự kiến sẽ có hình ảnh xác nhận trực tiếp
+ngay trong giây lát nữa thôi.</font>
+
+323
+00:22:35,600 --> 00:22:37,600
+<font face="Segoe UI" size="55"></font>
+
+324
+00:23:08,430 --> 00:23:10,930
+<font face="Segoe UI" size="80" color="#48d281"><i>Khám phá ra một dải ngân hà...</i></font>
+
+325
+00:23:10,930 --> 00:23:14,890
+<font face="Segoe UI" size="80" color="#48d281"><i>...của muôn tinh cầu và vì sao bên trong tôi...</i></font>
+
+326
+00:23:15,080 --> 00:23:17,550
+<font face="Segoe UI" size="80" color="#48d281"><i>Lắng nghe từng tinh tú...</i></font>
+
+327
+00:23:17,550 --> 00:23:21,540
+<font face="Segoe UI" size="80" color="#48d281"><i>...ngân vang cùng một giai điệu tĩnh lặng...</i></font>
+
+328
+00:23:21,540 --> 00:23:25,550
+<font face="Segoe UI" size="80" color="#48d281"><i>Chưa từng thấy vẻ đẹp nào đến thế...</i></font>
+
+329
+00:23:25,550 --> 00:23:28,840
+<font face="Segoe UI" size="80" color="#48d281"><i>Nơi muôn vàn khả năng...</i></font>
+
+330
+00:23:28,840 --> 00:23:33,350
+<font face="Segoe UI" size="80" color="#48d281"><i>Chẳng chút hoài nghi hay sợ hãi...</i></font>
+
+331
+00:23:33,350 --> 00:23:34,840
+<font face="Segoe UI" size="80" color="#48d281"><i>Tỉnh giấc đi!</i></font>
+
+332
+00:23:34,840 --> 00:23:37,540
+<font face="Segoe UI" size="80" color="#48d281"><i>Tôi lắng nghe một thanh âm,</i></font>
+
+333
+00:23:37,540 --> 00:23:41,480
+<font face="Segoe UI" size="80" color="#48d281"><i>tiếng gọi từ xa xăm đang vẫy gọi tôi...</i></font>
+
+334
+00:23:41,480 --> 00:23:43,990
+<font face="Segoe UI" size="80" color="#48d281"><i>Tôi nhìn sâu vào bản ngã bên trong,</i></font>
+
+335
+00:23:43,990 --> 00:23:47,520
+<font face="Segoe UI" size="80" color="#48d281"><i>nhìn thấy ánh sáng mãi ôm trọn lấy tôi...</i></font>
+
+336
+00:23:47,520 --> 00:23:50,860
+<font face="Segoe UI" size="80" color="#48d281"><i>Mọi chân lý, tất cả những gì tôi cần...</i></font>
+
+337
+00:23:50,860 --> 00:23:55,660
+<font face="Segoe UI" size="80" color="#48d281"><i>...để tạo nên thực tại này, đều nằm ở bên trong...</i></font>
+
+338
+00:23:55,660 --> 00:24:01,470
+<font face="Segoe UI" size="80" color="#48d281"><i>Vẻ đẹp ẩn sâu trong lớp vỏ bọc...</i></font>
+
+339
+00:24:01,470 --> 00:24:04,170
+<font face="Segoe UI" size="80" color="#48d281"><i>Tôi lắng nghe một thanh âm,</i></font>
+
+340
+00:24:04,170 --> 00:24:08,110
+<font face="Segoe UI" size="80" color="#48d281"><i>tiếng gọi từ xa xăm đang vẫy gọi tôi...</i></font>
+
+341
+00:24:08,110 --> 00:24:10,620
+<font face="Segoe UI" size="80" color="#48d281"><i>Tôi nhìn sâu vào bản ngã bên trong,</i></font>
+
+342
+00:24:10,620 --> 00:24:14,150
+<font face="Segoe UI" size="80" color="#48d281"><i>nhìn thấy ánh sáng mãi ôm trọn lấy tôi...</i></font>
+
+343
+00:24:14,150 --> 00:24:17,490
+<font face="Segoe UI" size="80" color="#48d281"><i>Mọi chân lý, tất cả những gì tôi cần...</i></font>
+
+344
+00:24:17,490 --> 00:24:22,290
+<font face="Segoe UI" size="80" color="#48d281"><i>...để tạo nên thực tại này, đều nằm ở bên trong...</i></font>
+
+345
+00:24:22,290 --> 00:24:26,950
+<font face="Segoe UI" size="80" color="#48d281"><i>Ngay tại đây, bên trong lớp vỏ bọc này...</i></font>
+
