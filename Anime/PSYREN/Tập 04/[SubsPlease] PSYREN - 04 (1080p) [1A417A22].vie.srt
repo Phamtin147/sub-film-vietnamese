@@ -1,0 +1,1524 @@
+﻿1
+00:00:01,560 --> 00:00:03,080
+<font face="Segoe UI" size="26"><i>Cậu có biết truyền thuyết đô thị đó không?</i></font>
+
+2
+00:00:03,080 --> 00:00:04,980
+<font face="Segoe UI" size="26"><i>Nghe nói có tin đồn cực sốc về mấy bốt điện thoại công cộng đấy.</i></font>
+
+3
+00:00:04,980 --> 00:00:07,580
+<font face="Segoe UI" size="26"><i>Nếu cậu nhấc máy trả lời cuộc gọi, 
+nó sẽ đưa cậu tới miền cực lạc.</i></font>
+
+4
+00:00:07,580 --> 00:00:08,710
+<font face="Segoe UI" size="26"><i>Thật thế á?</i></font>
+
+5
+00:00:09,490 --> 00:00:11,660
+<font face="Segoe UI" size="26"><i>Mấy bốt điện thoại công cộng đó nhìn hoài niệm phết nhỉ.</i></font>
+
+6
+00:00:12,080 --> 00:00:13,860
+<font face="Segoe UI" size="26"><i>Giờ vẫn còn mấy thứ đó cơ à?</i></font>
+
+7
+00:00:14,490 --> 00:00:16,990
+<font face="Segoe UI" size="26"><i>Hồi tiểu học tớ từng được học cách dùng rồi đấy.</i></font>
+
+8
+00:00:16,990 --> 00:00:19,500
+<font face="Segoe UI" size="26"><i>{\an8}Tớ thấy trên TV rồi. 
+Đã có những người thực sự biến mất không tì vết.</i></font>
+
+9
+00:01:58,710 --> 00:01:59,930
+<font face="Segoe UI" size="26">Giờ thì cùng điểm lại nhé.</font>
+
+10
+00:02:00,510 --> 00:02:04,410
+<font face="Segoe UI" size="26">{\an8}Trò chơi sẽ bắt đầu khi các Psyren Drifter—
+những người chơi đến từ thế giới thực—</font>
+
+11
+00:02:00,770 --> 00:02:05,770
+<font face="Segoe UI" size="25"><b>{\an8}<font size="18">Tập 4  <font size="24">Hồi Ức</font></font></b></font>
+
+12
+00:02:04,410 --> 00:02:07,680
+<font face="Segoe UI" size="26">{\an8}bị triệu hồi bởi tiếng chuông của Nemesis Q.</font>
+
+13
+00:02:08,750 --> 00:02:12,540
+<font face="Segoe UI" size="26">Khi nghe thấy tiếng chuông reo, 
+hãy nhấc ngay bất kỳ chiếc điện thoại nào gần đó.</font>
+
+14
+00:02:12,540 --> 00:02:14,600
+<font face="Segoe UI" size="26">Những Drifter trả lời cuộc gọi</font>
+
+15
+00:02:14,600 --> 00:02:18,150
+<font face="Segoe UI" size="26">sẽ được dịch chuyển tới một điểm xuất phát 
+nằm trong thế giới Psyren.</font>
+
+16
+00:02:18,780 --> 00:02:21,470
+<font face="Segoe UI" size="26">Các Drifter tập hợp tại điểm xuất phát,</font>
+
+17
+00:02:21,470 --> 00:02:24,870
+<font face="Segoe UI" size="26">nhận chỉ dẫn từ bốt điện thoại công cộng, 
+rồi tìm cách tiến về phía Cổng thoát hiểm.</font>
+
+18
+00:02:25,330 --> 00:02:30,050
+<font face="Segoe UI" size="26">Chỉ những người né tránh được các đợt tấn công của kẻ địch 
+và an toàn tới được Cổng</font>
+
+19
+00:02:30,050 --> 00:02:31,860
+<font face="Segoe UI" size="26">mới có thể sống sót quay về thời hiện đại.</font>
+
+20
+00:02:32,540 --> 00:02:35,430
+<font face="Segoe UI" size="26">Nếu bọn em phớt lờ tiếng chuông 
+mà không nhấc máy thì sao?</font>
+
+21
+00:02:35,430 --> 00:02:37,610
+<font face="Segoe UI" size="26">Tiếng chuông sẽ ngày càng dồn dập và đinh tai nhức óc.</font>
+
+22
+00:02:37,610 --> 00:02:40,100
+<font face="Segoe UI" size="26">Đến cuối cùng não cậu không chịu nổi áp lực 
+mà nổ tung đến chết.</font>
+
+23
+00:02:40,420 --> 00:02:42,620
+<font face="Segoe UI" size="26">Mỗi lượt chơi bắt đầu theo một cách khác nhau,</font>
+
+24
+00:02:42,620 --> 00:02:45,620
+<font face="Segoe UI" size="26">và số điểm bị trừ trong thẻ cũng thay đổi.</font>
+
+25
+00:02:45,620 --> 00:02:49,080
+<font face="Segoe UI" size="26">Một khi số dư của thẻ chạm mức 0, 
+trò chơi sẽ kết thúc vĩnh viễn.</font>
+
+26
+00:02:49,900 --> 00:02:53,220
+<font face="Segoe UI" size="26">Nemesis Q muốn xoay chuyển tương lai, đúng chứ?</font>
+
+27
+00:02:53,220 --> 00:02:55,910
+<font face="Segoe UI" size="26">Vậy cớ sao lại ép bọn em phải chơi cái trò này?</font>
+
+28
+00:02:55,910 --> 00:03:00,120
+<font face="Segoe UI" size="26">Ai mà biết được? Tôi từng hỏi rồi, 
+nhưng chẳng bao giờ nhận được câu trả lời.</font>
+
+29
+00:03:00,120 --> 00:03:02,030
+<font face="Segoe UI" size="26">Nhưng chúng ta vẫn có những manh mối.</font>
+
+30
+00:03:02,870 --> 00:03:07,400
+<font face="Segoe UI" size="26">Đúng vậy. Cổng ở lượt chơi trước 
+nằm tại khu đô thị thuộc thành phố Shizuoka.</font>
+
+31
+00:03:07,920 --> 00:03:12,130
+<font face="Segoe UI" size="26">Điểm xuất phát tiếp theo sẽ là một bốt điện thoại 
+cách đó chỉ vài cây số.</font>
+
+32
+00:03:13,420 --> 00:03:18,050
+<font face="Segoe UI" size="26">Lượt chơi đầu tiên mà tôi tham gia là ở Kyushu, 
+nơi tôi sinh sống vào thời điểm đó.</font>
+
+33
+00:03:18,050 --> 00:03:24,560
+<font face="Segoe UI" size="26">Cứ qua mỗi lượt, điểm xuất phát 
+lại dịch dần sang Hiroshima rồi đến Hyogo.</font>
+
+34
+00:03:24,560 --> 00:03:27,270
+<font face="Segoe UI" size="26">Điểm xuất phát đang dần dịch chuyển về phía Đông sao?</font>
+
+35
+00:03:27,270 --> 00:03:34,000
+<font face="Segoe UI" size="26">Phải. Các Psyren Drifter như mấy đứa 
+đang từng bước tiến về phía Đông của nước Nhật tương lai.</font>
+
+36
+00:03:35,760 --> 00:03:38,450
+<font face="Segoe UI" size="26">PSI là siêu năng lực tâm linh tiềm ẩn.</font>
+
+37
+00:03:38,720 --> 00:03:43,070
+<font face="Segoe UI" size="26">Bằng cách kích phát toàn bộ tế bào não bộ 
+lên đến giới hạn tối đa trong chớp mắt,</font>
+
+38
+00:03:43,070 --> 00:03:45,080
+<font face="Segoe UI" size="26">các em có thể giải phóng nguồn sức mạnh tâm linh này.</font>
+
+39
+00:03:45,080 --> 00:03:46,960
+<font face="Segoe UI" size="26">Sức mạnh tâm linh ư?</font>
+
+40
+00:03:46,960 --> 00:03:49,340
+<font face="Segoe UI" size="26">Khai mở PSI tạo gánh nặng cực lớn cho não bộ,</font>
+
+41
+00:03:49,340 --> 00:03:54,480
+<font face="Segoe UI" size="26">nên con người đã tự tiến hóa để kìm hãm não bộ 
+và phong ấn sức mạnh PSI đó lại.</font>
+
+42
+00:03:54,920 --> 00:03:58,800
+<font face="Segoe UI" size="26">Nhưng cơ thể chúng ta đã bị nhiễm 
+bầu không khí của Psyren,</font>
+
+43
+00:03:58,800 --> 00:04:01,550
+<font face="Segoe UI" size="26">khiến cho tầng giới hạn vốn có bị dỡ bỏ.</font>
+
+44
+00:04:01,550 --> 00:04:05,470
+<font face="Segoe UI" size="26">Nên siêu năng lực PSI của tớ và Hiryu 
+mới bắt đầu thức tỉnh.</font>
+
+45
+00:04:05,470 --> 00:04:07,510
+<font face="Segoe UI" size="26">Những người đã thức tỉnh năng lực PSI</font>
+
+46
+00:04:07,510 --> 00:04:11,690
+<font face="Segoe UI" size="26">có thể cường hóa vượt bậc các giác quan 
+và thể chất của bản thân.</font>
+
+47
+00:04:12,130 --> 00:04:17,700
+<font face="Segoe UI" size="26">Khi não bộ được giải phóng khỏi giới hạn, 
+chúng ta có thể bứt phá khỏi năng lực người thường.</font>
+
+48
+00:04:17,700 --> 00:04:19,660
+<font face="Segoe UI" size="26"><i>Vượt qua giới hạn sao?</i></font>
+
+49
+00:04:19,660 --> 00:04:23,410
+<font face="Segoe UI" size="26">Và khi não bộ của các em vượt qua giới hạn...</font>
+
+50
+00:04:23,870 --> 00:04:24,700
+<font face="Segoe UI" size="26">Sakurako.</font>
+
+51
+00:04:24,700 --> 00:04:25,450
+<font face="Segoe UI" size="26">Vâng.</font>
+
+52
+00:04:30,710 --> 00:04:31,670
+<font face="Segoe UI" size="26">Lớp kem sữa...</font>
+
+53
+00:04:32,000 --> 00:04:34,060
+<font face="Segoe UI" size="26">Bọn tôi gọi đây là năng lực điều khiển vật chất.</font>
+
+54
+00:04:34,060 --> 00:04:37,510
+<font face="Segoe UI" size="26">Tớ dùng sóng PSI để vẽ thành họa tiết 
+ngay trên mặt tách cà phê.</font>
+
+55
+00:04:37,780 --> 00:04:42,490
+<font face="Segoe UI" size="26">Thứ mà người đời gọi là siêu năng lực 
+thực chất chính là tác động của PSI.</font>
+
+56
+00:04:42,890 --> 00:04:46,710
+<font face="Segoe UI" size="26">PSI chịu ảnh hưởng bởi tố chất bẩm sinh 
+và sự khổ luyện của mỗi người.</font>
+
+57
+00:04:46,710 --> 00:04:50,640
+<font face="Segoe UI" size="26">Nó cũng chính là chìa khóa then chốt 
+để giải mã những bí ẩn của thế giới đằng kia.</font>
+
+58
+00:04:51,890 --> 00:04:55,080
+<font face="Segoe UI" size="26">Bầu không khí của Psyren 
+đã đánh thức siêu năng lực PSI trong chúng ta.</font>
+
+59
+00:04:55,080 --> 00:04:59,610
+<font face="Segoe UI" size="26">Nói cách khác, thế giới tương lai 
+chính là một thế giới ngập tràn PSI.</font>
+
+60
+00:05:00,200 --> 00:05:01,680
+<font face="Segoe UI" size="26">Và còn lũ quái vật Tavoo nữa.</font>
+
+61
+00:05:01,680 --> 00:05:05,790
+<font face="Segoe UI" size="26">Những sinh vật dị biến đó 
+cũng được sinh ra từ chính PSI.</font>
+
+62
+00:05:06,450 --> 00:05:10,410
+<font face="Segoe UI" size="26">Cách duy nhất để chống lại PSI 
+chính là phải dùng một thứ PSI mạnh hơn để áp đảo.</font>
+
+63
+00:05:10,410 --> 00:05:11,960
+<font face="Segoe UI" size="26"><i>Sức mạnh của PSI...</i></font>
+
+64
+00:05:17,750 --> 00:05:19,450
+<font face="Segoe UI" size="26">Em muốn trở nên mạnh hơn.</font>
+
+65
+00:05:19,450 --> 00:05:22,220
+<font face="Segoe UI" size="26">Hãy dạy em cách sử dụng PSI!</font>
+
+66
+00:05:22,500 --> 00:05:26,260
+<font face="Segoe UI" size="26">Trước tiên, hãy kiểm tra năng lực của các em đã.</font>
+
+67
+00:05:26,260 --> 00:05:30,270
+<font face="Segoe UI" size="26">Hãy thử điều khiển lớp kem sữa 
+tạo thành hình vẽ tương tự xem sao.</font>
+
+68
+00:05:30,570 --> 00:05:32,690
+<font face="Segoe UI" size="26">Nhắm mắt lại.</font>
+
+69
+00:05:32,690 --> 00:05:35,270
+<font face="Segoe UI" size="26">Tĩnh tâm và tập trung cao độ.</font>
+
+70
+00:05:35,610 --> 00:05:39,030
+<font face="Segoe UI" size="26">Hãy tưởng tượng tách cà phê thật rõ ràng trong tâm trí.</font>
+
+71
+00:05:39,030 --> 00:05:41,160
+<font face="Segoe UI" size="26">PSI là sức mạnh khởi sinh từ ý niệm—</font>
+
+72
+00:05:41,160 --> 00:05:43,530
+<font face="Segoe UI" size="26">năng lực biến trí tưởng tượng thành hiện thực.</font>
+
+73
+00:05:43,810 --> 00:05:45,370
+<font face="Segoe UI" size="26">Hãy tin vào chính mình.</font>
+
+74
+00:05:50,870 --> 00:05:53,790
+<font face="Segoe UI" size="26">Năng lực PSI bên trong các cậu đã thức tỉnh rồi.</font>
+
+75
+00:05:56,630 --> 00:05:58,240
+<font face="Segoe UI" size="26">Thấy chưa? Cậu làm được rồi đấy.</font>
+
+76
+00:05:59,230 --> 00:06:01,020
+<font face="Segoe UI" size="26">Đầu tớ thấy nóng bừng lên này.</font>
+
+77
+00:06:01,020 --> 00:06:02,550
+<font face="Segoe UI" size="26">Một cảm giác kỳ lạ thật đấy.</font>
+
+78
+00:06:02,810 --> 00:06:04,670
+<font face="Segoe UI" size="26"><i>Thằng nhóc làm tốt ngay từ lần thử đầu tiên ư?</i></font>
+
+79
+00:06:04,670 --> 00:06:07,170
+<font face="Segoe UI" size="26"><i>Thằng bé này có sự điềm tĩnh và khả năng tập trung đáng nể thật.</i></font>
+
+80
+00:06:10,930 --> 00:06:12,930
+<font face="Segoe UI" size="26">Vô dụng.</font>
+
+81
+00:06:14,480 --> 00:06:17,650
+<font face="Segoe UI" size="26">Tài năng thiên bẩm đúng là đáng sợ thật đấy.</font>
+
+82
+00:06:17,650 --> 00:06:20,500
+<font face="Segoe UI" size="26">Câm mồm đi, đồ Hiryu mít ướt!</font>
+
+83
+00:06:20,500 --> 00:06:23,990
+<font face="Segoe UI" size="26">Mà, chị cũng chẳng ngờ nhóc có thể 
+làm được ngay từ lần đầu đâu.</font>
+
+84
+00:06:24,270 --> 00:06:26,250
+<font face="Segoe UI" size="26">Dựa theo kinh nghiệm của chị,</font>
+
+85
+00:06:26,250 --> 00:06:29,790
+<font face="Segoe UI" size="26">cuộc gọi tiếp theo từ Nemesis Q 
+nhiều khả năng sẽ đến trong vòng hai tuần tới.</font>
+
+86
+00:06:30,240 --> 00:06:32,040
+<font face="Segoe UI" size="26">Mấy đứa có mười ngày để học cách làm chủ PSI.</font>
+
+87
+00:06:32,040 --> 00:06:33,410
+<font face="Segoe UI" size="26">Mười ngày thôi á?!</font>
+
+88
+00:06:41,000 --> 00:06:44,380
+<font face="Segoe UI" size="26">Hãy mài giũa sức mạnh PSI của mình và sống sót trở về.</font>
+
+89
+00:06:44,380 --> 00:06:46,010
+<font face="Segoe UI" size="26">Chị đặt rất nhiều kỳ vọng vào các em đấy.</font>
+
+90
+00:06:48,830 --> 00:06:54,340
+<font face="Segoe UI" size="26"><i>Luồng sóng PSI mà mình vừa cảm nhận được ban nãy... 
+chẳng lẽ chỉ là ảo giác thôi sao?</i></font>
+
+91
+00:06:55,060 --> 00:06:56,150
+<font face="Segoe UI" size="26">Khốn khiếp thật!</font>
+
+92
+00:06:56,880 --> 00:06:58,570
+<font face="Segoe UI" size="26">Có cần tao chỉ cho vài mẹo không hả?</font>
+
+93
+00:06:58,570 --> 00:07:00,980
+<font face="Segoe UI" size="26">Im mẹ mồm đi cho tao nhờ!</font>
+
+94
+00:07:01,290 --> 00:07:04,740
+<font face="Segoe UI" size="26">Tao đã quyết tâm sẽ đập cho tên đầu sỏ 
+tạo ra cái trò này một trận tơi bời rồi!</font>
+
+95
+00:07:05,450 --> 00:07:07,410
+<font face="Segoe UI" size="26">Tao không thể để bản thân chật vật ở đây được!</font>
+
+96
+00:07:07,410 --> 00:07:09,480
+<font face="Segoe UI" size="26">Được rồi, chúng ta đi thôi chứ?</font>
+
+97
+00:07:09,910 --> 00:07:10,830
+<font face="Segoe UI" size="26">Đi đâu cơ?</font>
+
+98
+00:07:10,830 --> 00:07:12,490
+<font face="Segoe UI" size="26">Về nhà tôi.</font>
+
+99
+00:07:12,490 --> 00:07:13,540
+<font face="Segoe UI" size="26">HẢ?!</font>
+
+100
+00:07:19,210 --> 00:07:20,650
+<font face="Segoe UI" size="26"><i>Cái gì thế này?</i></font>
+
+101
+00:07:21,930 --> 00:07:24,430
+<font face="Segoe UI" size="26">Bọn này đường đột ghé nhà cậu thế này 
+liệu có ổn không đấy, Amamiya?</font>
+
+102
+00:07:24,430 --> 00:07:26,930
+<font face="Segoe UI" size="26">Đừng bận tâm. Tôi sống một mình.</font>
+
+103
+00:07:26,930 --> 00:07:29,400
+<font face="Segoe UI" size="26">Một mình á? Còn gia đình cậu thì sao?</font>
+
+104
+00:07:29,760 --> 00:07:33,600
+<font face="Segoe UI" size="26">Bố tôi đang sống cùng người phụ nữ mới của ông ấy.</font>
+
+105
+00:07:33,600 --> 00:07:38,520
+<font face="Segoe UI" size="26">Mẹ tôi thì suốt ngày cãi vã với bố 
+rồi cũng bỏ đi từ lâu rồi.</font>
+
+106
+00:07:38,870 --> 00:07:41,340
+<font face="Segoe UI" size="26">Sau cùng, bà ấy cũng có nhân tình riêng.</font>
+
+107
+00:07:41,750 --> 00:07:45,770
+<font face="Segoe UI" size="26">Lần cuối tôi gặp mẹ, bà ấy chào tạm biệt 
+cứ như thể chỉ đang đi mua sắm bình thường vậy.</font>
+
+108
+00:07:46,240 --> 00:07:50,550
+<font face="Segoe UI" size="26">Tôi nghĩ chẳng ai trong số họ 
+thực sự đoái hoài gì đến tôi cả.</font>
+
+109
+00:07:53,410 --> 00:07:57,370
+<font face="Segoe UI" size="26">Được rồi, giờ hãy bắt đầu khóa huấn luyện thực chiến thôi.</font>
+
+110
+00:07:59,250 --> 00:08:03,390
+<font face="Segoe UI" size="26">Ta là Andrew, thỏ-sói vĩ đại! 
+Rất vui được làm quen!</font>
+
+111
+00:08:03,390 --> 00:08:07,970
+<font face="Segoe UI" size="26">Ta sẽ dạy cho các ngươi mọi điều cần biết về PSI, 
+nhớ mà tập trung lắng nghe đấy nhé!</font>
+
+112
+00:08:07,970 --> 00:08:09,530
+<font face="Segoe UI" size="26">Hú ú ú!</font>
+
+113
+00:08:10,840 --> 00:08:13,250
+<font face="Segoe UI" size="26">Đùa thế là đủ rồi.</font>
+
+114
+00:08:13,250 --> 00:08:15,480
+<font face="Segoe UI" size="26">Cậu không định nhập vai đó tiếp à?</font>
+
+115
+00:08:15,480 --> 00:08:16,640
+<font face="Segoe UI" size="26">Rốt cuộc là để làm cái trò gì vậy?</font>
+
+116
+00:08:16,640 --> 00:08:19,440
+<font face="Segoe UI" size="26">Mấy người thôi cằn nhằn đi!</font>
+
+117
+00:08:19,440 --> 00:08:21,680
+<font face="Segoe UI" size="26">Cứ để tôi dạy theo nhịp điệu của tôi!</font>
+
+118
+00:08:21,680 --> 00:08:23,480
+<font face="Segoe UI" size="26">Bọn này nghe đây, nghe đây mà.</font>
+
+119
+00:08:25,080 --> 00:08:30,150
+<font face="Segoe UI" size="26">PSI bao gồm ba phân nhánh sức mạnh cốt lõi.</font>
+
+120
+00:08:31,310 --> 00:08:33,660
+<font face="Segoe UI" size="26">Khả năng di chuyển đồ vật mà không cần chạm vào</font>
+
+121
+00:08:33,660 --> 00:08:37,160
+<font face="Segoe UI" size="26">và giải phóng nguồn PSI nội tại 
+thành lực sát thương vật lý được gọi là Burst.</font>
+
+122
+00:08:37,930 --> 00:08:42,670
+<font face="Segoe UI" size="26">Khả năng thần giao cách cảm và chi phối, 
+thao túng tâm trí đối phương được gọi là Trance.</font>
+
+123
+00:08:43,420 --> 00:08:48,010
+<font face="Segoe UI" size="26">Khả năng cường hóa giác quan, thể lực 
+và tốc độ hồi phục được gọi là Rise.</font>
+
+124
+00:08:49,260 --> 00:08:52,680
+<font face="Segoe UI" size="26">Bất kỳ người sử dụng PSI nào 
+cũng đều sở hữu cả ba nhánh này.</font>
+
+125
+00:08:53,180 --> 00:08:56,740
+<font face="Segoe UI" size="26">Hôm nay, chúng ta sẽ bắt đầu kiểm tra nhánh Burst.</font>
+
+126
+00:08:57,100 --> 00:08:59,700
+<font face="Segoe UI" size="26">Burst à? Tới luôn đi.</font>
+
+127
+00:08:59,700 --> 00:09:03,650
+<font face="Segoe UI" size="26">Lần này tao sẽ cho tên đáng ghét đó 
+thấy bản lĩnh <i>thực sự</i> của tao.</font>
+
+128
+00:09:03,650 --> 00:09:05,440
+<font face="Segoe UI" size="26">Chuyện này thì dễ như ăn kẹo thôi.</font>
+
+129
+00:09:06,560 --> 00:09:12,610
+<font face="Segoe UI" size="26">Nào, hãy đứng nguyên tại chỗ 
+và thử chạm vào bất kỳ điểm nào trên người tôi xem.</font>
+
+130
+00:09:12,900 --> 00:09:14,450
+<font face="Segoe UI" size="26">Chạm vào người cậu ư?</font>
+
+131
+00:09:15,750 --> 00:09:17,500
+<font face="Segoe UI" size="26">Burst!</font>
+
+132
+00:09:17,500 --> 00:09:18,500
+<font face="Segoe UI" size="26">Chạm vào Amamiya mau!</font>
+
+133
+00:09:18,500 --> 00:09:22,210
+<font face="Segoe UI" size="26">Thần linh ơi, xin hãy ban cho con sức mạnh 
+để chạm vào Amamiya đi mà!</font>
+
+134
+00:09:22,210 --> 00:09:25,040
+<font face="Segoe UI" size="26"><i>Đúng là thằng ngốc. Sao trên đời lại có kẻ 
+ngu ngốc lộ liễu đến mức này cơ chứ?</i></font>
+
+135
+00:09:25,040 --> 00:09:30,260
+<font face="Segoe UI" size="26">Cậu quên sạch sành sanh lời khuyên 
+tôi đã bảo lúc thử với tách cà phê rồi à?</font>
+
+136
+00:09:31,850 --> 00:09:34,260
+<font face="Segoe UI" size="26">Asaga-kun, chúc cậu may mắn.</font>
+
+137
+00:09:35,880 --> 00:09:36,820
+<font face="Segoe UI" size="26">Đây.</font>
+
+138
+00:09:45,870 --> 00:09:52,420
+<font face="Segoe UI" size="26"><i>Đầu tiên, mình phải hình dung cảm giác chạm vào Amamiya, 
+người đang đứng cách mình vài mét.</i></font>
+
+139
+00:09:52,420 --> 00:09:55,530
+<font face="Segoe UI" size="26"><i>Sau đó truyền dẫn ý niệm đó ra thực tại.</i></font>
+
+140
+00:09:56,860 --> 00:09:57,870
+<font face="Segoe UI" size="26">Chính xác.</font>
+
+141
+00:09:58,240 --> 00:09:59,280
+<font face="Segoe UI" size="26"><i>Lên nào!</i></font>
+
+142
+00:10:04,670 --> 00:10:09,050
+<font face="Segoe UI" size="26">Chỉ việc duy trì hình ảnh trong đầu thôi 
+mà đầu óc mình cứ như muốn bốc hỏa thế này.</font>
+
+143
+00:10:09,320 --> 00:10:11,560
+<font face="Segoe UI" size="26"><i>Chết tiệt. Mình cũng không thể chịu thua được.</i></font>
+
+144
+00:10:14,460 --> 00:10:16,760
+<font face="Segoe UI" size="26">Mẹ kiếp, sao mày dai như đỉa đói thế hả?!</font>
+
+145
+00:10:17,950 --> 00:10:23,020
+<font face="Segoe UI" size="26">Đừng có bám theo tao nữa! 
+Tao sẽ khai hết mọi chuyện cho bà Tenjuin Elmore!</font>
+
+146
+00:10:23,470 --> 00:10:24,650
+<font face="Segoe UI" size="26">Trả lại cho tao mau!</font>
+
+147
+00:10:24,650 --> 00:10:28,520
+<font face="Segoe UI" size="26">Bọn chúng sẽ giết tao mất nếu tao không trả 
+khoản nợ 12 triệu yên này!</font>
+
+148
+00:10:42,110 --> 00:10:43,260
+<font face="Segoe UI" size="26"><i>Làm được rồi.</i></font>
+
+149
+00:10:46,260 --> 00:10:47,710
+<font face="Segoe UI" size="26">Tuyệt vời lắm.</font>
+
+150
+00:10:48,880 --> 00:10:50,710
+<font face="Segoe UI" size="26">Đã bảo rồi mà, dễ như ăn kẹo thôi.</font>
+
+151
+00:11:00,040 --> 00:11:01,550
+<font face="Segoe UI" size="26">Hôm nay tới đây là tốt rồi.</font>
+
+152
+00:11:01,970 --> 00:11:04,190
+<font face="Segoe UI" size="26">Cậu ta như thế liệu có sao không?</font>
+
+153
+00:11:04,190 --> 00:11:05,730
+<font face="Segoe UI" size="26">Đừng lo cho cậu ấy.</font>
+
+154
+00:11:06,080 --> 00:11:08,520
+<font face="Segoe UI" size="26">Cậu thay đổi ngoạn mục thật đấy, Asaga-kun.</font>
+
+155
+00:11:09,280 --> 00:11:12,040
+<font face="Segoe UI" size="26">Chuẩn chứ? Nhưng cũng chẳng dễ dàng gì đâu.</font>
+
+156
+00:11:23,080 --> 00:11:26,920
+<font face="Segoe UI" size="26">Tớ không ngờ cậu lại chuyển tới 
+trường cấp hai của tụi tớ đấy, Asaga-san.</font>
+
+157
+00:11:27,250 --> 00:11:30,180
+<font face="Segoe UI" size="26">Nó làm tớ nhớ lại những ngày tháng 
+bọn mình cùng chơi đùa hồi nhỏ.</font>
+
+158
+00:11:30,630 --> 00:11:33,800
+<font face="Segoe UI" size="26">Chắc hẳn định mệnh đã gắn kết chúng ta lại rồi.</font>
+
+159
+00:11:34,390 --> 00:11:38,320
+<font face="Segoe UI" size="26">Cả hai đứa mình đều gặp gỡ Nemesis Q 
+và được trao cho những tấm thẻ này.</font>
+
+160
+00:11:38,890 --> 00:11:42,440
+<font face="Segoe UI" size="26">Nhờ vào sức mạnh của Psyren, căn bệnh của tớ sẽ được chữa khỏi.</font>
+
+161
+00:11:43,500 --> 00:11:45,880
+<font face="Segoe UI" size="26">Hãy cùng đi với nhau nhé, Asaga-san.</font>
+
+162
+00:11:47,130 --> 00:11:51,010
+<font face="Segoe UI" size="26">Xin lỗi nhé, nhưng tao đách tin 
+vào mấy cái trò nhảm nhí đó đâu, Tatsuo.</font>
+
+163
+00:11:53,270 --> 00:11:54,450
+<font face="Segoe UI" size="26">Tatsuo...</font>
+
+164
+00:11:56,360 --> 00:11:57,700
+<font face="Segoe UI" size="26">Chúng tôi đã sẵn sàng lên sóng!</font>
+
+165
+00:11:57,700 --> 00:12:01,370
+<font face="Segoe UI" size="24"><b>{\an8}<font face="Segoe UI"><font color="#de3167">Chương Trình Đặc Biệt: <font color="#ac8372">Giải Mã <font color="#ef9254">Bí Ẩn Psyren <font color="#272847">Trực Tiếp</font></font></font></font></font></b></font>
+
+166
+00:11:58,450 --> 00:12:00,710
+<font face="Segoe UI" size="26">Hả? Mochizuki Oboro-san biến đi đâu mất rồi?</font>
+
+167
+00:12:01,370 --> 00:12:03,070
+<font face="Segoe UI" size="24"><b>{\an8}<font color="#48474c">Phòng Tắm
+
+
+
+
+
+
+
+
+
+
+
+
+Tạm Ngưng Sử Dụng</font></b></font>
+
+168
+00:12:03,070 --> 00:12:05,700
+<font face="Segoe UI" size="26">Oboro, mọi người đang nháo nhào đi tìm em đấy!</font>
+
+169
+00:12:07,810 --> 00:12:08,920
+<font face="Segoe UI" size="26">Em thấy lạnh quá đi mất!</font>
+
+170
+00:12:09,410 --> 00:12:13,900
+<font face="Segoe UI" size="26">Em đã tắm nước nóng rồi mà, 
+sao người vẫn cứ lạnh toát thế này chứ?</font>
+
+171
+00:12:13,900 --> 00:12:15,970
+<font face="Segoe UI" size="26">Em phải làm sao bây giờ?</font>
+
+172
+00:12:15,970 --> 00:12:17,630
+<font face="Segoe UI" size="26">Mặc quần áo vào ngay đi!</font>
+
+173
+00:12:17,630 --> 00:12:20,470
+<font face="Segoe UI" size="24"><b>{\an8}<font size="23"><font color="#48474c">Phòng Tắm
+
+
+
+
+
+
+
+
+
+
+
+
+Tạm Ngưng Sử Dụng</font></font></b></font>
+
+174
+00:12:17,910 --> 00:12:20,470
+<font face="Segoe UI" size="26">Mau lên! Mọi người đang đợi em cả rồi kìa!</font>
+
+175
+00:12:20,470 --> 00:12:23,510
+<font face="Segoe UI" size="26">Em là người lớn rồi đấy nhé! 
+Mặc đồ lót vào trước đi đã!</font>
+
+176
+00:12:23,510 --> 00:12:25,310
+<font face="Segoe UI" size="26">Đừng có đối xử với em như con nít thế chứ!</font>
+
+177
+00:12:25,560 --> 00:12:29,350
+<font face="Segoe UI" size="26">Dạo gần đây em chểnh mảng công việc quá nhiều rồi đấy.</font>
+
+178
+00:12:29,670 --> 00:12:33,940
+<font face="Segoe UI" size="26">Kể từ ngày nhặt được thứ đó, 
+em chẳng thể nào gạt nó ra khỏi đầu được.</font>
+
+179
+00:12:33,940 --> 00:12:37,520
+<font face="Segoe UI" size="26">Tấm thẻ đó chắc chắn ẩn chứa nguy hiểm khôn lường.</font>
+
+180
+00:12:37,940 --> 00:12:43,330
+<font face="Segoe UI" size="26">Cũng <i>chính vì</i> em nhặt được tấm thẻ đó 
+mà em mới thành ngôi sao chính trong số đặc biệt hôm nay đấy.</font>
+
+181
+00:12:44,170 --> 00:12:47,300
+<font face="Segoe UI" size="26">Cuộc đời này tươi đẹp là nhờ có hiểm nguy rình rập.</font>
+
+182
+00:12:48,190 --> 00:12:52,150
+<font face="Segoe UI" size="26">Em cảm giác mình vừa dính líu 
+vào một trò vô cùng thú vị.</font>
+
+183
+00:12:55,380 --> 00:13:00,010
+<font face="Segoe UI" size="26"><i>Sau cùng, luồng PSI của mình 
+chẳng thể chạm tới được gần Amamiya.</i></font>
+
+184
+00:13:00,010 --> 00:13:01,140
+<font face="Segoe UI" size="26">Khốn thật chứ.</font>
+
+185
+00:13:03,180 --> 00:13:06,810
+<font face="Segoe UI" size="26">Mày đã biến đi đâu cả buổi thế hả cái thằng ranh này?!</font>
+
+186
+00:13:07,390 --> 00:13:09,640
+<font face="Segoe UI" size="26">Học thì trốn, giờ giới nghiêm thì vi phạm.</font>
+
+187
+00:13:09,640 --> 00:13:12,140
+<font face="Segoe UI" size="26">Mày cứ ngồi yên ở đó cả ngày 
+mà tự kiểm điểm lại bản thân đi!</font>
+
+188
+00:13:12,140 --> 00:13:16,480
+<font face="Segoe UI" size="26"><i>Đã đến giờ phát sóng chương trình đặc biệt: 
+Giải Mã Bí Ẩn Psyren Trực Tiếp!</i></font>
+
+189
+00:13:16,480 --> 00:13:18,190
+<font face="Segoe UI" size="24"><b>{\an8}<font size="17"><font face="Segoe UI"><font color="#ce4275">Chương Trình Đặc Biệt: <font color="#aa8e8e">Giải Mã <font color="#f0a17e">Bí Ẩn Psyren <font color="#7b768b">Trực Tiếp</font></font></font></font></font></font></b></font>
+
+190
+00:13:16,480 --> 00:13:20,900
+<font face="Segoe UI" size="26"><i>Khách mời đặc biệt hôm nay của chúng ta 
+chính là nam diễn viên đình đám, Mochizuki Oboro-san!</i></font>
+
+191
+00:13:20,900 --> 00:13:22,540
+<font face="Segoe UI" size="26">Oboro-kun kìa!</font>
+
+192
+00:13:22,540 --> 00:13:25,460
+<font face="Segoe UI" size="26">Không ngờ mới 20 tuổi mà cậu ấy trông 
+đã hoàn hảo không tì vết như vậy rồi.</font>
+
+193
+00:13:25,460 --> 00:13:26,790
+<font face="Segoe UI" size="26">Đáng yêu quá đi mất thôi!</font>
+
+194
+00:13:28,370 --> 00:13:29,960
+<font face="Segoe UI" size="26"><i>Thèm bánh mì dưa lưới ghê.</i></font>
+
+195
+00:13:30,460 --> 00:13:35,180
+<font face="Segoe UI" size="26">Chà, tôi thực sự ngán ngẩm 
+trước thực trạng đáng thương của xã hội ngày nay.</font>
+
+196
+00:13:35,180 --> 00:13:38,760
+<font face="Segoe UI" size="26">Mấy cái tổ chức bí mật này nọ 
+toàn là sản phẩm của trí tưởng tượng hoang đường.</font>
+
+197
+00:13:38,760 --> 00:13:42,970
+<font face="Segoe UI" size="24"><b>{\an8}<font size="20"><font face="Segoe UI"><font color="#ce4275">Chương Trình Đặc Biệt: <font color="#aa8e8e">Giải Mã <font color="#f0a17e">Bí Ẩn Psyren <font color="#7b768b">Trực Tiếp</font></font></font></font></font></font></b></font>
+
+198
+00:13:38,760 --> 00:13:42,970
+<font face="Segoe UI" size="26">Thế nhưng có rất nhiều người khẳng định 
+mình từng tận mắt chứng kiến Nemesis Q.</font>
+
+199
+00:13:42,970 --> 00:13:48,410
+<font face="Segoe UI" size="26">Thậm chí từng có vụ một người đàn ông 
+đột nhiên biến mất không dấu vết giữa chốn thanh thiên bạch nhật.</font>
+
+200
+00:13:48,410 --> 00:13:52,390
+<font face="Segoe UI" size="26">Các nhân chứng kể lại rằng trước khi biến mất, 
+ông ta đã thốt lên hai chữ "Psyren".</font>
+
+201
+00:13:52,390 --> 00:13:56,020
+<font face="Segoe UI" size="26">Toàn là chuyện nhảm nhí vớ vẩn.</font>
+
+202
+00:13:56,020 --> 00:14:00,700
+<font face="Segoe UI" size="26">Và có một người đã biến truyền thuyết đô thị Psyren 
+trở thành một hiện tượng xã hội bùng nổ:</font>
+
+203
+00:14:00,700 --> 00:14:04,070
+<font face="Segoe UI" size="26">vị bà đồng nổi tiếng đã treo thưởng 
+số tiền lên tới 500 triệu yên</font>
+
+204
+00:14:04,070 --> 00:14:07,530
+<font face="Segoe UI" size="26">cho bất kỳ ai giải mã được những bí ẩn của Psyren: 
+Bà Tenjuin Elmore.</font>
+
+205
+00:14:08,250 --> 00:14:10,720
+<font face="Segoe UI" size="26">Elmore và người chồng quá cố của bà, Koper,</font>
+
+206
+00:14:10,720 --> 00:14:13,300
+<font face="Segoe UI" size="26">từng là cặp đôi tiên tri lừng lẫy 
+khuynh đảo cả thế giới.</font>
+
+207
+00:14:13,300 --> 00:14:15,000
+<font face="Segoe UI" size="26">Nhờ vào năng lực nhìn thấu tương lai của mình,</font>
+
+208
+00:14:15,000 --> 00:14:19,480
+<font face="Segoe UI" size="26"><i>họ đã tạo dựng mối quan hệ sâu rộng trong giới chính trị 
+và thương trường, tích lũy khối tài sản kếch xù.</i></font>
+
+209
+00:14:15,590 --> 00:14:19,050
+<font face="Segoe UI" size="26">{\an8}Tao ghét cay ghét đắng mấy mụ già bịp bợm kiểu đó.</font>
+
+210
+00:14:19,480 --> 00:14:21,400
+<font face="Segoe UI" size="26"><i>Tenjuin Elmore ư...</i></font>
+
+211
+00:14:22,010 --> 00:14:24,370
+<font face="Segoe UI" size="26">Sau cái chết đầy bí ẩn của Koper,</font>
+
+212
+00:14:24,370 --> 00:14:28,670
+<font face="Segoe UI" size="26">Elmore đã chi khoản tiền thưởng khổng lồ 
+để săn lùng mọi thông tin về Psyren.</font>
+
+213
+00:14:29,430 --> 00:14:33,960
+<font face="Segoe UI" size="26">Và bây giờ, hãy cùng trò chuyện với vị khách mời đặc biệt, 
+Mochizuki Oboro-san.</font>
+
+214
+00:14:35,190 --> 00:14:39,810
+<font face="Segoe UI" size="26">Nghe nói Oboro-san đã từng chạm mặt 
+thực thể Nemesis Q đầy bí ẩn</font>
+
+215
+00:14:39,810 --> 00:14:42,860
+<font face="Segoe UI" size="26">và sở hữu một trong những chiếc thẻ điện thoại 
+đang gây xôn xao dư luận!</font>
+
+216
+00:14:42,860 --> 00:14:45,180
+<font face="Segoe UI" size="26">Có thật như vậy không hả Oboro-kun?</font>
+
+217
+00:14:45,180 --> 00:14:48,830
+<font face="Segoe UI" size="26">Chắc hẳn cậu sẽ kể tường tận cho mọi người 
+nghe những gì đã diễn ra chứ?</font>
+
+218
+00:14:48,830 --> 00:14:51,340
+<font face="Segoe UI" size="26">Tất nhiên rồi ạ. Em tình cờ có được tấm thẻ này</font>
+
+219
+00:14:51,340 --> 00:14:54,330
+<font face="Segoe UI" size="26">khi đến Shizuoka để ghi hình ngoại cảnh.</font>
+
+220
+00:14:54,710 --> 00:14:55,710
+<font face="Segoe UI" size="26">Cái gì cơ?!</font>
+
+221
+00:14:55,710 --> 00:14:57,080
+<font face="Segoe UI" size="26">Này, cẩn thận nước văng kìa!</font>
+
+222
+00:14:57,080 --> 00:15:01,420
+<font face="Segoe UI" size="26">Khi em đang đi bộ ngoài đường, 
+một bốt điện thoại công cộng bỗng đổ chuông liên hồi.</font>
+
+223
+00:15:01,720 --> 00:15:04,930
+<font face="Segoe UI" size="26">Tò mò nên em đã nhấc máy trả lời, và rồi...</font>
+
+224
+00:15:07,990 --> 00:15:08,850
+<font face="Segoe UI" size="26">Có chuyện gì thế?</font>
+
+225
+00:15:09,530 --> 00:15:11,680
+<font face="Segoe UI" size="26"><i>Mình... không thở được!</i></font>
+
+226
+00:15:20,680 --> 00:15:21,820
+<font face="Segoe UI" size="26">Oboro-kun?</font>
+
+227
+00:15:21,820 --> 00:15:23,780
+<font face="Segoe UI" size="24"><b>{\an8}<font size="20"><font face="Comic Sans MS"><font color="#455f6c">Thành Thật Cáo Lỗi Vì Sự Gián Đoạn Này</font></font></font></b></font>
+
+228
+00:15:21,820 --> 00:15:23,780
+<font face="Segoe UI" size="24"><b>{\an8}<font size="20"><font face="Comic Sans MS"><font color="#455f6c">Xin Quý Khán Giả Vui Lòng Chờ Trong Giây Lát</font></font></font></b></font>
+
+229
+00:15:23,780 --> 00:15:26,330
+<font face="Segoe UI" size="26">Oboro-kun!</font>
+
+230
+00:15:25,150 --> 00:15:26,780
+<font face="Segoe UI" size="26">Kìa chị, che hết cả màn hình rồi!</font>
+
+231
+00:15:36,350 --> 00:15:38,330
+<font face="Segoe UI" size="26">Bà là ai?</font>
+
+232
+00:15:38,880 --> 00:15:40,670
+<font face="Segoe UI" size="26">Vừa nãy chuyện gì xảy ra với tôi vậy?</font>
+
+233
+00:15:41,160 --> 00:15:42,630
+<font face="Segoe UI" size="26">Chị Matsumoto?</font>
+
+234
+00:15:42,970 --> 00:15:47,500
+<font face="Segoe UI" size="26">Đừng lo. Bọn ta chỉ để cô ta 
+chợp mắt nghỉ ngơi một chút thôi.</font>
+
+235
+00:15:47,500 --> 00:15:49,050
+<font face="Segoe UI" size="26">C-Các người rốt cuộc là ai?</font>
+
+236
+00:15:49,050 --> 00:15:51,340
+<font face="Segoe UI" size="26">Ta là Tenjuin Elmore.</font>
+
+237
+00:15:51,340 --> 00:15:53,310
+<font face="Segoe UI" size="26">Cháu là Tenjuin Van.</font>
+
+238
+00:15:53,310 --> 00:15:56,310
+<font face="Segoe UI" size="26">Bà <i>thực sự là</i> Tenjuin Elmore sao?!</font>
+
+239
+00:15:56,310 --> 00:15:59,030
+<font face="Segoe UI" size="26">Nhóc con sắp sửa gặp phải rắc rối lớn rồi đấy.</font>
+
+240
+00:15:59,030 --> 00:16:03,320
+<font face="Segoe UI" size="26">Vi phạm luật lệ của Nemesis Q 
+chỉ có con đường chết mà thôi.</font>
+
+241
+00:16:03,620 --> 00:16:09,160
+<font face="Segoe UI" size="26">Đừng có dại dột làm trò ngu ngốc như 
+ba hoa về Psyren trên sóng truyền hình nữa.</font>
+
+242
+00:16:09,160 --> 00:16:12,400
+<font face="Segoe UI" size="26">Nhân vật lừng lẫy như Tenjuin Elmore 
+đang đứng sờ sờ trước mặt mình...</font>
+
+243
+00:16:12,400 --> 00:16:15,670
+<font face="Segoe UI" size="26">mà lại là một bà già lùn tịt, nhăn nheo như quả mận khô thế này á?</font>
+
+244
+00:16:16,500 --> 00:16:20,130
+<font face="Segoe UI" size="26">Ngươi vừa nói toẹt ra ngoài mồm rồi đấy, thằng nhóc xấc xược!</font>
+
+245
+00:16:20,130 --> 00:16:27,090
+<font face="Segoe UI" size="24"><b>{\an8}<font size="15"><font color="#48474c">Phòng Tắm
+
+
+
+
+
+
+
+
+
+
+
+Tạm Ngưng Sử Dụng</font></font></b></font>
+
+246
+00:16:20,750 --> 00:16:24,350
+<font face="Segoe UI" size="26">Nếu có ngày nhóc giải mã được 
+những bí ẩn của Psyren, hãy đến tìm ta.</font>
+
+247
+00:16:24,350 --> 00:16:26,220
+<font face="Segoe UI" size="26">Khoản tiền 500 triệu yên sẽ thuộc về nhóc.</font>
+
+248
+00:16:27,480 --> 00:16:29,350
+<font face="Segoe UI" size="26">Bà nói thế chẳng hợp lý chút nào.</font>
+
+249
+00:16:29,350 --> 00:16:33,810
+<font face="Segoe UI" size="26">Bà vừa bảo Nemesis Q sẽ lấy mạng em 
+nếu em hé răng cho ai biết kia mà.</font>
+
+250
+00:16:35,510 --> 00:16:38,800
+<font face="Segoe UI" size="26">Đó cũng chính là một phần bí ẩn 
+mà ta muốn nhóc làm sáng tỏ.</font>
+
+251
+00:16:38,800 --> 00:16:42,180
+<font face="Segoe UI" size="26">Tại sao Nemesis Q lại phải che giấu bí mật của Psyren?</font>
+
+252
+00:16:42,180 --> 00:16:44,980
+<font face="Segoe UI" size="26">Nhóc không nghĩ bản thân điều đó 
+cũng là một manh mối đắt giá sao?</font>
+
+253
+00:16:45,740 --> 00:16:47,680
+<font face="Segoe UI" size="26">Em chịu chẳng hiểu nổi bà già này luôn.</font>
+
+254
+00:16:48,110 --> 00:16:53,120
+<font face="Segoe UI" size="26">Nhóc đã bước một chân vào đầm lầy 
+và sẽ không còn đường lui nữa đâu.</font>
+
+255
+00:16:53,620 --> 00:16:56,580
+<font face="Segoe UI" size="26">Liệu mà chuẩn bị tinh thần đi, nhóc con.</font>
+
+256
+00:16:56,580 --> 00:16:58,000
+<font face="Segoe UI" size="26">Chuẩn bị tinh thần sao?</font>
+
+257
+00:16:58,910 --> 00:17:02,870
+<font face="Segoe UI" size="26">Hóa ra mình sinh ra không phải 
+để sống một cuộc đời tẻ nhạt tầm thường.</font>
+
+258
+00:17:02,870 --> 00:17:05,090
+<font face="Segoe UI" size="26">Biết được điều đó em thấy nhẹ nhõm hẳn.</font>
+
+259
+00:17:06,350 --> 00:17:09,260
+<font face="Segoe UI" size="26">Thần tượng kiêm diễn viên cái nỗi gì chứ.</font>
+
+260
+00:17:09,260 --> 00:17:13,440
+<font face="Segoe UI" size="26">Bản chất ngươi là một con hổ dữ 
+mang lốt mèo con ngoan ngoãn.</font>
+
+261
+00:17:16,380 --> 00:17:19,430
+<font face="Segoe UI" size="26">Anh ta có tiềm năng PSI rất lớn.</font>
+
+262
+00:17:19,740 --> 00:17:22,270
+<font face="Segoe UI" size="26">Anh ta hoàn toàn có thể trở thành một cao thủ đấy ạ.</font>
+
+263
+00:17:22,970 --> 00:17:24,500
+<font face="Segoe UI" size="26">Thế à?</font>
+
+264
+00:17:26,650 --> 00:17:28,030
+<font face="Segoe UI" size="26">Kirisaki!</font>
+
+265
+00:17:28,030 --> 00:17:31,110
+<font face="Segoe UI" size="26">Thằng chó này! Mày dám tán tỉnh bạn gái tao à?!</font>
+
+266
+00:17:32,800 --> 00:17:36,460
+<font face="Segoe UI" size="26">Ta, Kirisaki Kabuto, 
+thiêu đốt trái tim các quý cô tựa ngọn lửa hồng</font>
+
+267
+00:17:36,460 --> 00:17:39,160
+<font face="Segoe UI" size="26">và thoăn thoắt chuồn khỏi bể tình êm đềm như cơn gió thoảng!</font>
+
+268
+00:17:41,740 --> 00:17:43,980
+<font face="Segoe UI" size="26">Em trót dại quá đà, xin các đại ca tha mạng!</font>
+
+269
+00:17:43,980 --> 00:17:44,580
+<font face="Segoe UI" size="26">Quỳ lạy nhanh như chớp vậy?!</font>
+
+270
+00:17:44,580 --> 00:17:46,380
+<font face="Segoe UI" size="26">Mới thế mà đã dập đầu van xin rồi à!</font>
+
+271
+00:17:46,380 --> 00:17:48,130
+<font face="Segoe UI" size="26">Đùa tí thôi mấy cưng!</font>
+
+272
+00:17:49,570 --> 00:17:51,380
+<font face="Segoe UI" size="26">Chào thân ái và quyết thắng nhé!</font>
+
+273
+00:17:51,380 --> 00:17:52,840
+<font face="Segoe UI" size="26">Thằng ranh con khốn nạn!</font>
+
+274
+00:17:53,790 --> 00:17:59,120
+<font face="Segoe UI" size="26">Thề luôn, cho mày bao nhiêu mạng 
+cũng chẳng đủ đốt đâu, Kabuto.</font>
+
+275
+00:17:59,850 --> 00:18:04,600
+<font face="Segoe UI" size="26">Có thằng cháu hề hước như mày 
+làm tao lúc nào cũng phải lo sốt vó.</font>
+
+276
+00:18:04,600 --> 00:18:07,480
+<font face="Segoe UI" size="26">Cháu cũng đâu có ham hố rắc rối gì đâu chú.</font>
+
+277
+00:18:07,990 --> 00:18:12,860
+<font face="Segoe UI" size="26">Đây chỉ là phản ứng tự nhiên 
+khi cháu nghe theo sự mách bảo của con tim thôi mà.</font>
+
+278
+00:18:12,860 --> 00:18:14,380
+<font face="Segoe UI" size="26">Thế cơ đấy à?</font>
+
+279
+00:18:14,380 --> 00:18:16,370
+<font face="Segoe UI" size="26"><i>Cơ mà hôm nay trời đẹp ghê ta.</i></font>
+
+280
+00:18:16,680 --> 00:18:20,620
+<font face="Segoe UI" size="26">Đứng từ đây cháu còn nhìn rõ cả khu vực 
+nơi có căn biệt thự của chú nữa này.</font>
+
+281
+00:18:20,930 --> 00:18:24,870
+<font face="Segoe UI" size="26">Chú lại đang giam mình bên đống sách báo 
+chất đống như núi nữa đấy à?</font>
+
+282
+00:18:24,870 --> 00:18:26,160
+<font face="Segoe UI" size="26">Im đi.</font>
+
+283
+00:18:26,750 --> 00:18:29,750
+<font face="Segoe UI" size="26">Dù cái chân tàn phế này buộc tao phải từ bỏ 
+công việc nhiếp ảnh gia chiến trường,</font>
+
+284
+00:18:29,750 --> 00:18:33,090
+<font face="Segoe UI" size="26">nhưng cho đến ngày nhắm mắt xuôi tay, 
+tao vẫn sẽ là một phóng viên.</font>
+
+285
+00:18:33,090 --> 00:18:38,560
+<font face="Segoe UI" size="26">Chất đấy chú. Sau này khi nào cháu nổi tiếng, 
+cháu sẽ dành riêng cho chú một bài phỏng vấn độc quyền nhé.</font>
+
+286
+00:18:38,560 --> 00:18:40,540
+<font face="Segoe UI" size="26">Nổi tiếng cơ đấy.</font>
+
+287
+00:18:40,540 --> 00:18:42,580
+<font face="Segoe UI" size="26">Chúc mày may mắn với ước mơ đó, Kabuto.</font>
+
+288
+00:18:42,580 --> 00:18:44,890
+<font face="Segoe UI" size="26">Bước đầu tiên là kiếm một công việc đàng hoàng mà làm đi đã.</font>
+
+289
+00:18:46,370 --> 00:18:49,570
+<font face="Segoe UI" size="26">Người có tố chất như cháu 
+thì giấc mơ phải vĩ đại hơn thế chứ.</font>
+
+290
+00:18:49,570 --> 00:18:51,820
+<font face="Segoe UI" size="26">Cháu sắp đổi đời giàu to rồi.</font>
+
+291
+00:18:51,820 --> 00:18:55,950
+<font face="Segoe UI" size="26">Nữ thần may mắn đang dõi theo 
+và phù hộ trên từng bước chân của cháu mà lị.</font>
+
+292
+00:18:59,990 --> 00:19:02,000
+<font face="Segoe UI" size="24"><b>{\an8}<font size="12"><font color="#777679">Tuần này tớ luyện Burst tiến bộ cực!
+Sớm dạy tớ về Rise được không?</font></font></b></font>
+
+293
+00:19:07,040 --> 00:19:09,590
+<font face="Segoe UI" size="26">Chết tiệt thật. Mình sắp làm được rồi mà.</font>
+
+294
+00:19:10,410 --> 00:19:12,550
+<font face="Segoe UI" size="26"><i>Cậu ấy đang ép não bộ làm việc quá tải rồi.</i></font>
+
+295
+00:19:13,140 --> 00:19:17,480
+<font face="Segoe UI" size="26">Tôi đã dặn là không được tự luyện ở nhà 
+mà cậu vẫn cố đấm ăn xôi đấy à?</font>
+
+296
+00:19:17,480 --> 00:19:19,660
+<font face="Segoe UI" size="26">Cậu đã chạm tới giới hạn rồi. Nghỉ ngơi đi.</font>
+
+297
+00:19:19,660 --> 00:19:20,930
+<font face="Segoe UI" size="26">Mặc kệ tớ.</font>
+
+298
+00:19:20,930 --> 00:19:21,760
+<font face="Segoe UI" size="26">Yoshina!</font>
+
+299
+00:19:22,090 --> 00:19:24,720
+<font face="Segoe UI" size="26">Tớ sắp làm được rồi. Chỉ một chút nữa thôi.</font>
+
+300
+00:19:25,100 --> 00:19:29,710
+<font face="Segoe UI" size="26">Hiryu làm được thì chẳng có lý nào tớ lại chịu thua cả!</font>
+
+301
+00:19:29,710 --> 00:19:33,280
+<font face="Segoe UI" size="26">Tao nhất định cũng phải làm được!</font>
+
+302
+00:19:37,570 --> 00:19:44,000
+<font face="Segoe UI" size="26"><i>Không được! Thi triển PSI theo cảm tính mù quáng 
+mà thiếu tập trung sẽ phá hủy não bộ của cậu ấy mất!</i></font>
+
+303
+00:19:44,000 --> 00:19:45,370
+<font face="Segoe UI" size="26">Dừng lại mau, Yoshina!</font>
+
+304
+00:19:53,600 --> 00:19:54,630
+<font face="Segoe UI" size="26">Không thể nào...</font>
+
+305
+00:19:59,100 --> 00:20:01,180
+<font face="Segoe UI" size="26">Cậu có sao không, Yoshina?!</font>
+
+306
+00:20:01,180 --> 00:20:04,470
+<font face="Segoe UI" size="26">Ừ. Nhưng mà... đau đầu vãi chưởng.</font>
+
+307
+00:20:04,470 --> 00:20:08,250
+<font face="Segoe UI" size="26"><i>Nguyên lý cơ bản của PSI là sự tập trung, 
+kiến tạo và truyền dẫn ý niệm,</i></font>
+
+308
+00:20:08,660 --> 00:20:11,860
+<font face="Segoe UI" size="26"><i>thế nhưng chiêu thức Burst ban nãy của Yoshina 
+lại là một thứ hoàn toàn khác biệt.</i></font>
+
+309
+00:20:12,230 --> 00:20:14,480
+<font face="Segoe UI" size="26"><i>Nó là một sự bùng nổ của cảm xúc thuần khiết.</i></font>
+
+310
+00:20:15,320 --> 00:20:19,860
+<font face="Segoe UI" size="26"><i>Một thứ sức mạnh PSI cực kỳ nguy hiểm 
+mà ngay cả bản thân Yoshina cũng không tài nào kiểm soát nổi.</i></font>
+
+311
+00:20:21,060 --> 00:20:22,040
+<font face="Segoe UI" size="26">Yoshina?</font>
+
+312
+00:20:22,580 --> 00:20:25,720
+<font face="Segoe UI" size="26">Tuyệt đỉnh! Sức mạnh của mình đỉnh vãi chưởng!</font>
+
+313
+00:20:25,720 --> 00:20:27,970
+<font face="Segoe UI" size="26">Cậu có thấy không hả, Amamiya?!</font>
+
+314
+00:20:27,970 --> 00:20:31,420
+<font face="Segoe UI" size="26">Tớ biết tớ làm được mà! Quả nhiên tớ là thiên tài!</font>
+
+315
+00:20:31,750 --> 00:20:35,100
+<font face="Segoe UI" size="26">À đúng rồi, phải gửi tin nhắn khoe 
+cho cái thằng ngốc Hiryu kia mới được.</font>
+
+316
+00:20:35,760 --> 00:20:37,360
+<font face="Segoe UI" size="26">Cậu không định mở mồm xin lỗi à?</font>
+
+317
+00:20:37,360 --> 00:20:41,700
+<font face="Segoe UI" size="26">Cậu đục toang một lỗ thủng tổ bố trong phòng con gái nhà người ta 
+mà không tính xin lỗi một câu hả?!</font>
+
+318
+00:20:41,700 --> 00:20:44,390
+<font face="Segoe UI" size="26">T-Tớ xin lỗi mà!</font>
+
+319
+00:20:48,870 --> 00:20:51,350
+<font face="Segoe UI" size="26"><i>Không xong rồi! Chưa gì mà đã...</i></font>
+
+320
+00:20:56,100 --> 00:20:59,490
+<font face="Segoe UI" size="26">Ai đó làm ơn tắt nó giùm với!</font>
+
+321
+00:21:01,140 --> 00:21:05,330
+<font face="Segoe UI" size="26">Thế cơ à? Muốn bọn tao tái đấu nữa chứ gì?</font>
+
+322
+00:21:06,830 --> 00:21:09,910
+<font face="Segoe UI" size="26">Chẳng phải cậu bảo lượt chơi tiếp theo 
+phải hai tuần nữa mới bắt đầu sao?</font>
+
+323
+00:21:09,910 --> 00:21:11,540
+<font face="Segoe UI" size="26">Mới có một tuần trôi qua thôi mà!</font>
+
+324
+00:21:11,540 --> 00:21:15,210
+<font face="Segoe UI" size="26">Đó chỉ là phỏng đoán thôi. Mau chuẩn bị đi.</font>
+
+325
+00:21:16,030 --> 00:21:20,130
+<font face="Segoe UI" size="26"><i>Cô Matsuri. 
+Cô Matsuri ơi, tiếng chuông lại vang lên rồi.</i></font>
+
+326
+00:21:20,570 --> 00:21:22,140
+<font face="Segoe UI" size="26"><i>Em phải tới Psyren đây.</i></font>
+
+327
+00:21:22,140 --> 00:21:23,740
+<font face="Segoe UI" size="26"><i>Sakurako.</i></font>
+
+328
+00:21:23,740 --> 00:21:27,050
+<font face="Segoe UI" size="26"><i>Sớm quá. Tụi nhóc vẫn chưa kịp 
+hoàn thiện khóa huấn luyện PSI.</i></font>
+
+329
+00:21:27,050 --> 00:21:28,770
+<font face="Segoe UI" size="26"><i>Đừng có làm điều gì liều lĩnh đấy.</i></font>
+
+330
+00:21:28,770 --> 00:21:30,370
+<font face="Segoe UI" size="26"><i>Nhất định phải bình an trở về đấy nhé.</i></font>
+
+331
+00:21:30,690 --> 00:21:32,610
+<font face="Segoe UI" size="26"><i>Vâng thưa cô.</i></font>
+
+332
+00:21:33,630 --> 00:21:37,570
+<font face="Segoe UI" size="26">Bực bội thật đấy. Ước gì mình có thể đi cùng tụi nhỏ.</font>
+
+333
+00:21:37,570 --> 00:21:43,240
+<font face="Segoe UI" size="26">Nghe này, Yoshina. Ngay khi tới nơi, 
+cậu phải tìm tôi và Asaga-kun trước tiên.</font>
+
+334
+00:21:43,640 --> 00:21:44,450
+<font face="Segoe UI" size="26">Đi thôi.</font>
+
+335
+00:21:44,920 --> 00:21:45,700
+<font face="Segoe UI" size="26">Ừ.</font>
+
+336
+00:21:51,960 --> 00:21:53,370
+<font face="Segoe UI" size="26">Nemesis Q!</font>
+
+337
+00:22:05,170 --> 00:22:08,680
+<font face="Segoe UI" size="18"><b>{\an8}Phụ đề Việt ngữ: Amtia(NOFACE)</b></font>
+
+338
+00:22:09,050 --> 00:22:12,560
+<font face="Segoe UI" size="18"><b>{\an8}Biên dịch & Kỹ thuật: Amtia(NOFACE)</b></font>
+
+339
+00:22:12,810 --> 00:22:16,310
+<font face="Segoe UI" size="18"><b>{\an8}Kiểm định chất lượng: Amtia(NOFACE)</b></font>
+
+340
+00:23:35,180 --> 00:23:40,060
+<font face="Segoe UI" size="25"><b>{\an8}Tập 5
+
+
+
+
+
+
+
+<font size="40">Những Kẻ Tụ Hội</font></b></font>
+

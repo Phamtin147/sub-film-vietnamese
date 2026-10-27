@@ -1,0 +1,370 @@
+﻿[Script Info]
+Title: Vietnamese Fansub (VietSub by Amtia(NOFACE))
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: DefaultItalics,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: DefaultTop,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: DefaultItalicsTop,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: DefaultOverlap,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: FlashbackItalics,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: FlashbackTop,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: FlashbackItalicsTop,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Narration,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Signs,Segoe UI,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,30,30,18,1
+Style: Credits,Segoe UI,18,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,30,30,18,1
+Style: Signs_EpTitle,Segoe UI,25,&H00FFFFFF,&H000000FF,&H28C45E4B,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,30,30,18,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.56,0:00:03.08,DefaultItalics,SIGN & VO,0,0,0,,Cậu có biết truyền thuyết đô thị đó không?
+Dialogue: 0,0:00:03.08,0:00:04.98,DefaultItalics,SIGN & VO,0,0,0,,Nghe nói có tin đồn cực sốc về mấy bốt điện thoại công cộng đấy.
+Dialogue: 0,0:00:04.98,0:00:07.58,DefaultItalics,SIGN & VO,0,0,0,,Nếu cậu nhấc máy trả lời cuộc gọi, \Nnó sẽ đưa cậu tới miền cực lạc.
+Dialogue: 0,0:00:07.58,0:00:08.71,DefaultItalics,SIGN & VO,0,0,0,,Thật thế á?
+Dialogue: 0,0:00:09.49,0:00:11.66,DefaultItalics,SIGN & VO,0,0,0,,Mấy bốt điện thoại công cộng đó nhìn hoài niệm phết nhỉ.
+Dialogue: 0,0:00:12.08,0:00:13.86,DefaultItalics,SIGN & VO,0,0,0,,Giờ vẫn còn mấy thứ đó cơ à?
+Dialogue: 0,0:00:14.49,0:00:16.99,DefaultItalics,SIGN & VO,0,0,0,,Hồi tiểu học tớ từng được học cách dùng rồi đấy.
+Dialogue: 0,0:00:16.99,0:00:19.50,DefaultItalicsTop,SIGN & VO,0,0,0,,Tớ thấy trên TV rồi. \NĐã có những người thực sự biến mất không tì vết.
+Dialogue: 0,0:01:58.71,0:01:59.93,Default,MATSURI,0,0,0,,Giờ thì cùng điểm lại nhé.
+Dialogue: 0,0:02:00.77,0:02:05.77,Signs_EpTitle,SIGN,0,0,0,,{\fad(525,523)\an9\blur2\fs18\pos(590,275)}Tập 4  {\fs24}Hồi Ức
+Dialogue: 0,0:02:00.51,0:02:04.41,DefaultTop,MATSURI,0,0,0,,Trò chơi sẽ bắt đầu khi các Psyren Drifter—\Nnhững người chơi đến từ thế giới thực—
+Dialogue: 0,0:02:04.41,0:02:07.68,DefaultTop,MATSURI,0,0,0,,bị triệu hồi bởi tiếng chuông của Nemesis Q.
+Dialogue: 0,0:02:08.75,0:02:12.54,Default,MATSURI,0,0,0,,Khi nghe thấy tiếng chuông reo, \Nhãy nhấc ngay bất kỳ chiếc điện thoại nào gần đó.
+Dialogue: 0,0:02:12.54,0:02:14.60,Default,MATSURI,0,0,0,,Những Drifter trả lời cuộc gọi
+Dialogue: 0,0:02:14.60,0:02:18.15,Default,MATSURI,0,0,0,,sẽ được dịch chuyển tới một điểm xuất phát \Nnằm trong thế giới Psyren.
+Dialogue: 0,0:02:18.78,0:02:21.47,Default,MATSURI,0,0,0,,Các Drifter tập hợp tại điểm xuất phát,
+Dialogue: 0,0:02:21.47,0:02:24.87,Default,MATSURI,0,0,0,,nhận chỉ dẫn từ bốt điện thoại công cộng, \Nrồi tìm cách tiến về phía Cổng thoát hiểm.
+Dialogue: 0,0:02:25.33,0:02:30.05,Default,MATSURI,0,0,0,,Chỉ những người né tránh được các đợt tấn công của kẻ địch \Nvà an toàn tới được Cổng
+Dialogue: 0,0:02:30.05,0:02:31.86,Default,MATSURI,0,0,0,,mới có thể sống sót quay về thời hiện đại.
+Dialogue: 0,0:02:32.54,0:02:35.43,Default,AGEHA,0,0,0,,Nếu bọn em phớt lờ tiếng chuông \Nmà không nhấc máy thì sao?
+Dialogue: 0,0:02:35.43,0:02:37.61,Default,AMAMIYA,0,0,0,,Tiếng chuông sẽ ngày càng dồn dập và đinh tai nhức óc.
+Dialogue: 0,0:02:37.61,0:02:40.10,Default,AMAMIYA,0,0,0,,Đến cuối cùng não cậu không chịu nổi áp lực \Nmà nổ tung đến chết.
+Dialogue: 0,0:02:40.42,0:02:42.62,Default,MATSURI,0,0,0,,Mỗi lượt chơi bắt đầu theo một cách khác nhau,
+Dialogue: 0,0:02:42.62,0:02:45.62,Default,MATSURI,0,0,0,,và số điểm bị trừ trong thẻ cũng thay đổi.
+Dialogue: 0,0:02:45.62,0:02:49.08,Default,MATSURI,0,0,0,,Một khi số dư của thẻ chạm mức 0, \Ntrò chơi sẽ kết thúc vĩnh viễn.
+Dialogue: 0,0:02:49.90,0:02:53.22,Default,AGEHA,0,0,0,,Nemesis Q muốn xoay chuyển tương lai, đúng chứ?
+Dialogue: 0,0:02:53.22,0:02:55.91,Default,AGEHA,0,0,0,,Vậy cớ sao lại ép bọn em phải chơi cái trò này?
+Dialogue: 0,0:02:55.91,0:03:00.12,Default,MATSURI,0,0,0,,Ai mà biết được? Tôi từng hỏi rồi, \Nnhưng chẳng bao giờ nhận được câu trả lời.
+Dialogue: 0,0:03:00.12,0:03:02.03,Default,AMAMIYA,0,0,0,,Nhưng chúng ta vẫn có những manh mối.
+Dialogue: 0,0:03:02.87,0:03:07.40,Default,MATSURI,0,0,0,,Đúng vậy. Cổng ở lượt chơi trước \Nnằm tại khu đô thị thuộc thành phố Shizuoka.
+Dialogue: 0,0:03:07.92,0:03:12.13,Default,MATSURI,0,0,0,,Điểm xuất phát tiếp theo sẽ là một bốt điện thoại \Ncách đó chỉ vài cây số.
+Dialogue: 0,0:03:13.42,0:03:18.05,Default,MATSURI,0,0,0,,Lượt chơi đầu tiên mà tôi tham gia là ở Kyushu, \Nnơi tôi sinh sống vào thời điểm đó.
+Dialogue: 0,0:03:18.05,0:03:24.56,Default,MATSURI,0,0,0,,Cứ qua mỗi lượt, điểm xuất phát \Nlại dịch dần sang Hiroshima rồi đến Hyogo.
+Dialogue: 0,0:03:24.56,0:03:27.27,Default,HIYRU,0,0,0,,Điểm xuất phát đang dần dịch chuyển về phía Đông sao?
+Dialogue: 0,0:03:27.27,0:03:34.00,Default,MATSURI,0,0,0,,Phải. Các Psyren Drifter như mấy đứa \Nđang từng bước tiến về phía Đông của nước Nhật tương lai.
+Dialogue: 0,0:03:35.76,0:03:38.45,Default,MATSURI,0,0,0,,PSI là siêu năng lực tâm linh tiềm ẩn.
+Dialogue: 0,0:03:38.72,0:03:43.07,Default,MATSURI,0,0,0,,Bằng cách kích phát toàn bộ tế bào não bộ \Nlên đến giới hạn tối đa trong chớp mắt,
+Dialogue: 0,0:03:43.07,0:03:45.08,Default,MATSURI,0,0,0,,các em có thể giải phóng nguồn sức mạnh tâm linh này.
+Dialogue: 0,0:03:45.08,0:03:46.96,Default,AGEHA,0,0,0,,Sức mạnh tâm linh ư?
+Dialogue: 0,0:03:46.96,0:03:49.34,Default,MATSURI,0,0,0,,Khai mở PSI tạo gánh nặng cực lớn cho não bộ,
+Dialogue: 0,0:03:49.34,0:03:54.48,Default,MATSURI,0,0,0,,nên con người đã tự tiến hóa để kìm hãm não bộ \Nvà phong ấn sức mạnh PSI đó lại.
+Dialogue: 0,0:03:54.92,0:03:58.80,Default,AMAMIYA,0,0,0,,Nhưng cơ thể chúng ta đã bị nhiễm \Nbầu không khí của Psyren,
+Dialogue: 0,0:03:58.80,0:04:01.55,Default,AMAMIYA,0,0,0,,khiến cho tầng giới hạn vốn có bị dỡ bỏ.
+Dialogue: 0,0:04:01.55,0:04:05.47,Default,AGEHA,0,0,0,,Nên siêu năng lực PSI của tớ và Hiryu \Nmới bắt đầu thức tỉnh.
+Dialogue: 0,0:04:05.47,0:04:07.51,Default,MATSURI,0,0,0,,Những người đã thức tỉnh năng lực PSI
+Dialogue: 0,0:04:07.51,0:04:11.69,Default,MATSURI,0,0,0,,có thể cường hóa vượt bậc các giác quan \Nvà thể chất của bản thân.
+Dialogue: 0,0:04:12.13,0:04:17.70,Default,MATSURI,0,0,0,,Khi não bộ được giải phóng khỏi giới hạn, \Nchúng ta có thể bứt phá khỏi năng lực người thường.
+Dialogue: 0,0:04:17.70,0:04:19.66,DefaultItalics,HIRYU/ID,0,0,0,,Vượt qua giới hạn sao?
+Dialogue: 0,0:04:19.66,0:04:23.41,Default,MATSURI,0,0,0,,Và khi não bộ của các em vượt qua giới hạn...
+Dialogue: 0,0:04:23.87,0:04:24.70,Default,MATSURI,0,0,0,,Sakurako.
+Dialogue: 0,0:04:24.70,0:04:25.45,Default,AMAMIYA,0,0,0,,Vâng.
+Dialogue: 0,0:04:30.71,0:04:31.67,Default,AGEHA,0,0,0,,Lớp kem sữa...
+Dialogue: 0,0:04:32.00,0:04:34.06,Default,AMAMIYA,0,0,0,,Bọn tôi gọi đây là năng lực điều khiển vật chất.
+Dialogue: 0,0:04:34.06,0:04:37.51,Default,AMAMIYA,0,0,0,,Tớ dùng sóng PSI để vẽ thành họa tiết \Nngay trên mặt tách cà phê.
+Dialogue: 0,0:04:37.78,0:04:42.49,Default,AMAMIYA,0,0,0,,Thứ mà người đời gọi là siêu năng lực \Nthực chất chính là tác động của PSI.
+Dialogue: 0,0:04:42.89,0:04:46.71,Default,MATSURI,0,0,0,,PSI chịu ảnh hưởng bởi tố chất bẩm sinh \Nvà sự khổ luyện của mỗi người.
+Dialogue: 0,0:04:46.71,0:04:50.64,Default,MATSURI,0,0,0,,Nó cũng chính là chìa khóa then chốt \Nđể giải mã những bí ẩn của thế giới đằng kia.
+Dialogue: 0,0:04:51.89,0:04:55.08,Default,MATSURI,0,0,0,,Bầu không khí của Psyren \Nđã đánh thức siêu năng lực PSI trong chúng ta.
+Dialogue: 0,0:04:55.08,0:04:59.61,Default,MATSURI,0,0,0,,Nói cách khác, thế giới tương lai \Nchính là một thế giới ngập tràn PSI.
+Dialogue: 0,0:05:00.20,0:05:01.68,Default,MATSURI,0,0,0,,Và còn lũ quái vật Tavoo nữa.
+Dialogue: 0,0:05:01.68,0:05:05.79,Default,MATSURI,0,0,0,,Những sinh vật dị biến đó \Ncũng được sinh ra từ chính PSI.
+Dialogue: 0,0:05:06.45,0:05:10.41,Default,MATSURI,0,0,0,,Cách duy nhất để chống lại PSI \Nchính là phải dùng một thứ PSI mạnh hơn để áp đảo.
+Dialogue: 0,0:05:10.41,0:05:11.96,DefaultItalics,AGEHA/ID,0,0,0,,Sức mạnh của PSI...
+Dialogue: 0,0:05:17.75,0:05:19.45,Default,AGEHA,0,0,0,,Em muốn trở nên mạnh hơn.
+Dialogue: 0,0:05:19.45,0:05:22.22,Default,AGEHA,0,0,0,,Hãy dạy em cách sử dụng PSI!
+Dialogue: 0,0:05:22.50,0:05:26.26,Default,MATSURI,0,0,0,,Trước tiên, hãy kiểm tra năng lực của các em đã.
+Dialogue: 0,0:05:26.26,0:05:30.27,Default,MATSURI,0,0,0,,Hãy thử điều khiển lớp kem sữa \Ntạo thành hình vẽ tương tự xem sao.
+Dialogue: 0,0:05:30.57,0:05:32.69,Default,AMAMIYA,0,0,0,,Nhắm mắt lại.
+Dialogue: 0,0:05:32.69,0:05:35.27,Default,AMAMIYA,0,0,0,,Tĩnh tâm và tập trung cao độ.
+Dialogue: 0,0:05:35.61,0:05:39.03,Default,AMAMIYA,0,0,0,,Hãy tưởng tượng tách cà phê thật rõ ràng trong tâm trí.
+Dialogue: 0,0:05:39.03,0:05:41.16,Default,AMAMIYA,0,0,0,,PSI là sức mạnh khởi sinh từ ý niệm—
+Dialogue: 0,0:05:41.16,0:05:43.53,Default,AMAMIYA,0,0,0,,năng lực biến trí tưởng tượng thành hiện thực.
+Dialogue: 0,0:05:43.81,0:05:45.37,Default,AMAMIYA,0,0,0,,Hãy tin vào chính mình.
+Dialogue: 0,0:05:50.87,0:05:53.79,Default,AMAMIYA,0,0,0,,Năng lực PSI bên trong các cậu đã thức tỉnh rồi.
+Dialogue: 0,0:05:56.63,0:05:58.24,Default,AMAMIYA,0,0,0,,Thấy chưa? Cậu làm được rồi đấy.
+Dialogue: 0,0:05:59.23,0:06:01.02,Default,HIRYU,0,0,0,,Đầu tớ thấy nóng bừng lên này.
+Dialogue: 0,0:06:01.02,0:06:02.55,Default,HIRYU,0,0,0,,Một cảm giác kỳ lạ thật đấy.
+Dialogue: 0,0:06:02.81,0:06:04.67,DefaultItalics,MATSURI/ID,0,0,0,,Thằng nhóc làm tốt ngay từ lần thử đầu tiên ư?
+Dialogue: 0,0:06:04.67,0:06:07.17,DefaultItalics,MATSURI/ID,0,0,0,,Thằng bé này có sự điềm tĩnh và khả năng tập trung đáng nể thật.
+Dialogue: 0,0:06:10.93,0:06:12.93,Default,AMAMIYA,0,0,0,,Vô dụng.
+Dialogue: 0,0:06:14.48,0:06:17.65,Default,HIRYU,0,0,0,,Tài năng thiên bẩm đúng là đáng sợ thật đấy.
+Dialogue: 0,0:06:17.65,0:06:20.50,Default,AGEHA,0,0,0,,Câm mồm đi, đồ Hiryu mít ướt!
+Dialogue: 0,0:06:20.50,0:06:23.99,Default,MATSURI,0,0,0,,Mà, chị cũng chẳng ngờ nhóc có thể \Nlàm được ngay từ lần đầu đâu.
+Dialogue: 0,0:06:24.27,0:06:26.25,Default,MATSURI,0,0,0,,Dựa theo kinh nghiệm của chị,
+Dialogue: 0,0:06:26.25,0:06:29.79,Default,MATSURI,0,0,0,,cuộc gọi tiếp theo từ Nemesis Q \Nnhiều khả năng sẽ đến trong vòng hai tuần tới.
+Dialogue: 0,0:06:30.24,0:06:32.04,Default,MATSURI,0,0,0,,Mấy đứa có mười ngày để học cách làm chủ PSI.
+Dialogue: 0,0:06:32.04,0:06:33.41,Default,AGEHA,0,0,0,,Mười ngày thôi á?!
+Dialogue: 0,0:06:41.00,0:06:44.38,Default,MATSURI,0,0,0,,Hãy mài giũa sức mạnh PSI của mình và sống sót trở về.
+Dialogue: 0,0:06:44.38,0:06:46.01,Default,MATSURI,0,0,0,,Chị đặt rất nhiều kỳ vọng vào các em đấy.
+Dialogue: 0,0:06:48.83,0:06:54.34,DefaultItalics,MATSURI/ID,0,0,0,,Luồng sóng PSI mà mình vừa cảm nhận được ban nãy... \Nchẳng lẽ chỉ là ảo giác thôi sao?
+Dialogue: 0,0:06:55.06,0:06:56.15,Default,AGEHA,0,0,0,,Khốn khiếp thật!
+Dialogue: 0,0:06:56.88,0:06:58.57,Default,HIRYU,0,0,0,,Có cần tao chỉ cho vài mẹo không hả?
+Dialogue: 0,0:06:58.57,0:07:00.98,Default,AGEHA,0,0,0,,Im mẹ mồm đi cho tao nhờ!
+Dialogue: 0,0:07:01.29,0:07:04.74,Default,AGEHA,0,0,0,,Tao đã quyết tâm sẽ đập cho tên đầu sỏ \Ntạo ra cái trò này một trận tơi bời rồi!
+Dialogue: 0,0:07:05.45,0:07:07.41,Default,AGEHA,0,0,0,,Tao không thể để bản thân chật vật ở đây được!
+Dialogue: 0,0:07:07.41,0:07:09.48,Default,AMAMIYA,0,0,0,,Được rồi, chúng ta đi thôi chứ?
+Dialogue: 0,0:07:09.91,0:07:10.83,Default,AGEHA,0,0,0,,Đi đâu cơ?
+Dialogue: 0,0:07:10.83,0:07:12.49,Default,AMAMIYA,0,0,0,,Về nhà tôi.
+Dialogue: 0,0:07:12.49,0:07:13.54,Default,AGEHA & HIRYU,0,0,0,,HẢ?!
+Dialogue: 0,0:07:19.21,0:07:20.65,DefaultItalics,EMPLOYEE/ID,0,0,0,,Cái gì thế này?
+Dialogue: 0,0:07:21.93,0:07:24.43,Default,HIRYU,0,0,0,,Bọn này đường đột ghé nhà cậu thế này \Nliệu có ổn không đấy, Amamiya?
+Dialogue: 0,0:07:24.43,0:07:26.93,Default,AMAMIYA,0,0,0,,Đừng bận tâm. Tôi sống một mình.
+Dialogue: 0,0:07:26.93,0:07:29.40,Default,AGEHA,0,0,0,,Một mình á? Còn gia đình cậu thì sao?
+Dialogue: 0,0:07:29.76,0:07:33.60,Default,AMAMIYA,0,0,0,,Bố tôi đang sống cùng người phụ nữ mới của ông ấy.
+Dialogue: 0,0:07:33.60,0:07:38.52,Default,AMAMIYA,0,0,0,,Mẹ tôi thì suốt ngày cãi vã với bố \Nrồi cũng bỏ đi từ lâu rồi.
+Dialogue: 0,0:07:38.87,0:07:41.34,Default,AMAMIYA,0,0,0,,Sau cùng, bà ấy cũng có nhân tình riêng.
+Dialogue: 0,0:07:41.75,0:07:45.77,Default,AMAMIYA,0,0,0,,Lần cuối tôi gặp mẹ, bà ấy chào tạm biệt \Ncứ như thể chỉ đang đi mua sắm bình thường vậy.
+Dialogue: 0,0:07:46.24,0:07:50.55,Default,AMAMIYA,0,0,0,,Tôi nghĩ chẳng ai trong số họ \Nthực sự đoái hoài gì đến tôi cả.
+Dialogue: 0,0:07:53.41,0:07:57.37,Default,AMAMIYA,0,0,0,,Được rồi, giờ hãy bắt đầu khóa huấn luyện thực chiến thôi.
+Dialogue: 0,0:07:59.25,0:08:03.39,Default,AMAMIYA,0,0,0,,Ta là Andrew, thỏ-sói vĩ đại! \NRất vui được làm quen!
+Dialogue: 0,0:08:03.39,0:08:07.97,Default,AMAMIYA,0,0,0,,Ta sẽ dạy cho các ngươi mọi điều cần biết về PSI, \Nnhớ mà tập trung lắng nghe đấy nhé!
+Dialogue: 0,0:08:07.97,0:08:09.53,Default,AMAMIYA,0,0,0,,Hú ú ú!
+Dialogue: 0,0:08:10.84,0:08:13.25,Default,AMAMIYA,0,0,0,,Đùa thế là đủ rồi.
+Dialogue: 0,0:08:13.25,0:08:15.48,Default,AGEHA,0,0,0,,Cậu không định nhập vai đó tiếp à?
+Dialogue: 0,0:08:15.48,0:08:16.64,Default,HIRYU,0,0,0,,Rốt cuộc là để làm cái trò gì vậy?
+Dialogue: 0,0:08:16.64,0:08:19.44,Default,AMAMIYA,0,0,0,,Mấy người thôi cằn nhằn đi!
+Dialogue: 0,0:08:19.44,0:08:21.68,Default,AMAMIYA,0,0,0,,Cứ để tôi dạy theo nhịp điệu của tôi!
+Dialogue: 0,0:08:21.68,0:08:23.48,Default,AGEHA,0,0,0,,Bọn này nghe đây, nghe đây mà.
+Dialogue: 0,0:08:25.08,0:08:30.15,Default,AMAMIYA,0,0,0,,PSI bao gồm ba phân nhánh sức mạnh cốt lõi.
+Dialogue: 0,0:08:31.31,0:08:33.66,Default,AMAMIYA,0,0,0,,Khả năng di chuyển đồ vật mà không cần chạm vào
+Dialogue: 0,0:08:33.66,0:08:37.16,Default,AMAMIYA,0,0,0,,và giải phóng nguồn PSI nội tại \Nthành lực sát thương vật lý được gọi là Burst.
+Dialogue: 0,0:08:37.93,0:08:42.67,Default,AMAMIYA,0,0,0,,Khả năng thần giao cách cảm và chi phối, \Nthao túng tâm trí đối phương được gọi là Trance.
+Dialogue: 0,0:08:43.42,0:08:48.01,Default,AMAMIYA,0,0,0,,Khả năng cường hóa giác quan, thể lực \Nvà tốc độ hồi phục được gọi là Rise.
+Dialogue: 0,0:08:49.26,0:08:52.68,Default,AMAMIYA,0,0,0,,Bất kỳ người sử dụng PSI nào \Ncũng đều sở hữu cả ba nhánh này.
+Dialogue: 0,0:08:53.18,0:08:56.74,Default,AMAMIYA,0,0,0,,Hôm nay, chúng ta sẽ bắt đầu kiểm tra nhánh Burst.
+Dialogue: 0,0:08:57.10,0:08:59.70,Default,AGEHA,0,0,0,,Burst à? Tới luôn đi.
+Dialogue: 0,0:08:59.70,0:09:03.65,Default,AGEHA,0,0,0,,Lần này tao sẽ cho tên đáng ghét đó \Nthấy bản lĩnh {\i1}thực sự{\i0} của tao.
+Dialogue: 0,0:09:03.65,0:09:05.44,Default,HIRYU,0,0,0,,Chuyện này thì dễ như ăn kẹo thôi.
+Dialogue: 0,0:09:06.56,0:09:12.61,Default,AMAMIYA,0,0,0,,Nào, hãy đứng nguyên tại chỗ \Nvà thử chạm vào bất kỳ điểm nào trên người tôi xem.
+Dialogue: 0,0:09:12.90,0:09:14.45,Default,HIRYU,0,0,0,,Chạm vào người cậu ư?
+Dialogue: 0,0:09:15.75,0:09:17.50,Default,AGEHA,0,0,0,,Burst!
+Dialogue: 0,0:09:17.50,0:09:18.50,Default,AGEHA,0,0,0,,Chạm vào Amamiya mau!
+Dialogue: 0,0:09:18.50,0:09:22.21,Default,AGEHA,0,0,0,,Thần linh ơi, xin hãy ban cho con sức mạnh \Nđể chạm vào Amamiya đi mà!
+Dialogue: 0,0:09:22.21,0:09:25.04,DefaultItalics,HIRYU/ID,0,0,0,,Đúng là thằng ngốc. Sao trên đời lại có kẻ \Nngu ngốc lộ liễu đến mức này cơ chứ?
+Dialogue: 0,0:09:25.04,0:09:30.26,Default,AMAMIYA,0,0,0,,Cậu quên sạch sành sanh lời khuyên \Ntôi đã bảo lúc thử với tách cà phê rồi à?
+Dialogue: 0,0:09:31.85,0:09:34.26,Default,AMAMIYA,0,0,0,,Asaga-kun, chúc cậu may mắn.
+Dialogue: 0,0:09:35.88,0:09:36.82,Flashback,AMAMIYA,0,0,0,,Đây.
+Dialogue: 0,0:09:45.87,0:09:52.42,DefaultItalics,HIRYU/ID,0,0,0,,Đầu tiên, mình phải hình dung cảm giác chạm vào Amamiya, \Nngười đang đứng cách mình vài mét.
+Dialogue: 0,0:09:52.42,0:09:55.53,DefaultItalics,HIRYU/ID,0,0,0,,Sau đó truyền dẫn ý niệm đó ra thực tại.
+Dialogue: 0,0:09:56.86,0:09:57.87,Default,AMAMIYA,0,0,0,,Chính xác.
+Dialogue: 0,0:09:58.24,0:09:59.28,DefaultItalics,HIRYU/ID,0,0,0,,Lên nào!
+Dialogue: 0,0:10:04.67,0:10:09.05,Default,HIRYU,0,0,0,,Chỉ việc duy trì hình ảnh trong đầu thôi \Nmà đầu óc mình cứ như muốn bốc hỏa thế này.
+Dialogue: 0,0:10:09.32,0:10:11.56,DefaultItalics,AGEHA/ID,0,0,0,,Chết tiệt. Mình cũng không thể chịu thua được.
+Dialogue: 0,0:10:14.46,0:10:16.76,Default,SEMITANI,0,0,0,,Mẹ kiếp, sao mày dai như đỉa đói thế hả?!
+Dialogue: 0,0:10:17.95,0:10:23.02,Default,SEMITANI,0,0,0,,Đừng có bám theo tao nữa! \NTao sẽ khai hết mọi chuyện cho bà Tenjuin Elmore!
+Dialogue: 0,0:10:23.47,0:10:24.65,Default,SEMITANI,0,0,0,,Trả lại cho tao mau!
+Dialogue: 0,0:10:24.65,0:10:28.52,Default,SEMITANI,0,0,0,,Bọn chúng sẽ giết tao mất nếu tao không trả \Nkhoản nợ 12 triệu yên này!
+Dialogue: 0,0:10:42.11,0:10:43.26,DefaultItalics,HIRYU/ID,0,0,0,,Làm được rồi.
+Dialogue: 0,0:10:46.26,0:10:47.71,Default,AMAMIYA,0,0,0,,Tuyệt vời lắm.
+Dialogue: 0,0:10:48.88,0:10:50.71,Default,HIRYU,0,0,0,,Đã bảo rồi mà, dễ như ăn kẹo thôi.
+Dialogue: 0,0:11:00.04,0:11:01.55,Default,AMAMIYA,0,0,0,,Hôm nay tới đây là tốt rồi.
+Dialogue: 0,0:11:01.97,0:11:04.19,Default,HIRYU,0,0,0,,Cậu ta như thế liệu có sao không?
+Dialogue: 0,0:11:04.19,0:11:05.73,Default,AMAMIYA,0,0,0,,Đừng lo cho cậu ấy.
+Dialogue: 0,0:11:06.08,0:11:08.52,Default,AMAMIYA,0,0,0,,Cậu thay đổi ngoạn mục thật đấy, Asaga-kun.
+Dialogue: 0,0:11:09.28,0:11:12.04,Default,HIRYU,0,0,0,,Chuẩn chứ? Nhưng cũng chẳng dễ dàng gì đâu.
+Dialogue: 0,0:11:23.08,0:11:26.92,Flashback,TATSUO,0,0,0,,Tớ không ngờ cậu lại chuyển tới \Ntrường cấp hai của tụi tớ đấy, Asaga-san.
+Dialogue: 0,0:11:27.25,0:11:30.18,Flashback,TATSUO,0,0,0,,Nó làm tớ nhớ lại những ngày tháng \Nbọn mình cùng chơi đùa hồi nhỏ.
+Dialogue: 0,0:11:30.63,0:11:33.80,Flashback,TATSUO,0,0,0,,Chắc hẳn định mệnh đã gắn kết chúng ta lại rồi.
+Dialogue: 0,0:11:34.39,0:11:38.32,Flashback,TATSUO,0,0,0,,Cả hai đứa mình đều gặp gỡ Nemesis Q \Nvà được trao cho những tấm thẻ này.
+Dialogue: 0,0:11:38.89,0:11:42.44,Flashback,TATSUO,0,0,0,,Nhờ vào sức mạnh của Psyren, căn bệnh của tớ sẽ được chữa khỏi.
+Dialogue: 0,0:11:43.50,0:11:45.88,Flashback,TATSUO,0,0,0,,Hãy cùng đi với nhau nhé, Asaga-san.
+Dialogue: 0,0:11:47.13,0:11:51.01,Flashback,HIRYU,0,0,0,,Xin lỗi nhé, nhưng tao đách tin \Nvào mấy cái trò nhảm nhí đó đâu, Tatsuo.
+Dialogue: 0,0:11:53.27,0:11:54.45,Default,HIRYU,0,0,0,,Tatsuo...
+Dialogue: 0,0:11:56.36,0:11:57.70,Default,AD,0,0,0,,Chúng tôi đã sẵn sàng lên sóng!
+Dialogue: 0,0:11:57.70,0:12:01.37,Signs,SIGNS,0,0,0,,{\bord2\fnSegoe UI\c&H6731DE&\3c&H2C0913&}Chương Trình Đặc Biệt: {\c&H7283AC&}Giải Mã {\c&H5492EF&}Bí Ẩn Psyren {\c&H472827&\3c&HF8F9F9&}Trực Tiếp
+Dialogue: 0,0:11:58.45,0:12:00.71,Default,MC MAN,0,0,0,,Hả? Mochizuki Oboro-san biến đi đâu mất rồi?
+Dialogue: 0,0:12:01.37,0:12:03.07,Signs,SIGN,0,0,0,,{\fad(1,390)\blur0.3\pos(291.5,68)\c&H4C4748&}Phòng Tắm\N\N\N\N\N\N\N\N\N\N\N\N\N{\fscx90}Tạm Ngưng Sử Dụng
+Dialogue: 0,0:12:03.07,0:12:05.70,Default,MANAGER,0,0,0,,Oboro, mọi người đang nháo nhào đi tìm em đấy!
+Dialogue: 0,0:12:07.81,0:12:08.92,Default,OBORO,0,0,0,,Em thấy lạnh quá đi mất!
+Dialogue: 0,0:12:09.41,0:12:13.90,Default,OBORO,0,0,0,,Em đã tắm nước nóng rồi mà, \Nsao người vẫn cứ lạnh toát thế này chứ?
+Dialogue: 0,0:12:13.90,0:12:15.97,Default,OBORO,0,0,0,,Em phải làm sao bây giờ?
+Dialogue: 0,0:12:15.97,0:12:17.63,Default,MANAGER,0,0,0,,Mặc quần áo vào ngay đi!
+Dialogue: 0,0:12:17.63,0:12:20.47,Signs,SIGN,0,0,0,,{\fs23\blur0.3\pos(291.5,72)\c&H4C4748&}Phòng Tắm\N\N\N\N\N\N\N\N\N\N\N\N\N{\fscx90}Tạm Ngưng Sử Dụng
+Dialogue: 0,0:12:17.91,0:12:20.47,Default,MANAGER,0,0,0,,Mau lên! Mọi người đang đợi em cả rồi kìa!
+Dialogue: 0,0:12:20.47,0:12:23.51,Default,MANAGER,0,0,0,,Em là người lớn rồi đấy nhé! \NMặc đồ lót vào trước đi đã!
+Dialogue: 0,0:12:23.51,0:12:25.31,Default,OBORO,0,0,0,,Đừng có đối xử với em như con nít thế chứ!
+Dialogue: 0,0:12:25.56,0:12:29.35,Default,MANAGER,0,0,0,,Dạo gần đây em chểnh mảng công việc quá nhiều rồi đấy.
+Dialogue: 0,0:12:29.67,0:12:33.94,Default,OBORO,0,0,0,,Kể từ ngày nhặt được thứ đó, \Nem chẳng thể nào gạt nó ra khỏi đầu được.
+Dialogue: 0,0:12:33.94,0:12:37.52,Default,OBORO,0,0,0,,Tấm thẻ đó chắc chắn ẩn chứa nguy hiểm khôn lường.
+Dialogue: 0,0:12:37.94,0:12:43.33,Default,MANAGER,0,0,0,,Cũng {\i1}chính vì{\i0} em nhặt được tấm thẻ đó \Nmà em mới thành ngôi sao chính trong số đặc biệt hôm nay đấy.
+Dialogue: 0,0:12:44.17,0:12:47.30,Default,OBORO,0,0,0,,Cuộc đời này tươi đẹp là nhờ có hiểm nguy rình rập.
+Dialogue: 0,0:12:48.19,0:12:52.15,Default,OBORO,0,0,0,,Em cảm giác mình vừa dính líu \Nvào một trò vô cùng thú vị.
+Dialogue: 0,0:12:55.38,0:13:00.01,DefaultItalics,AGEHA/ID,0,0,0,,Sau cùng, luồng PSI của mình \Nchẳng thể chạm tới được gần Amamiya.
+Dialogue: 0,0:13:00.01,0:13:01.14,Default,AGEHA,0,0,0,,Khốn thật chứ.
+Dialogue: 0,0:13:03.18,0:13:06.81,Default,FUBUKI,0,0,0,,Mày đã biến đi đâu cả buổi thế hả cái thằng ranh này?!
+Dialogue: 0,0:13:07.39,0:13:09.64,Default,FUBUKI,0,0,0,,Học thì trốn, giờ giới nghiêm thì vi phạm.
+Dialogue: 0,0:13:09.64,0:13:12.14,Default,FUBUKI,0,0,0,,Mày cứ ngồi yên ở đó cả ngày \Nmà tự kiểm điểm lại bản thân đi!
+Dialogue: 0,0:13:12.14,0:13:16.48,DefaultItalics,MC MAN,0,0,0,,Đã đến giờ phát sóng chương trình đặc biệt: \NGiải Mã Bí Ẩn Psyren Trực Tiếp!
+Dialogue: 0,0:13:16.48,0:13:18.19,Signs,SIGNS,0,0,0,,{\fs17\bord2\fnSegoe UI\c&H7542CE&\3c&H303030&\pos(320,38)\clip(119.5,34.5,523.5,60)\t(1483,1692,\clip(119.5,34.5,147.5,60)}Chương Trình Đặc Biệt: {\c&H8E8EAA&}Giải Mã {\c&H7EA1F0&}Bí Ẩn Psyren {\c&H8B767B&\3c&HEBE8E8&}Trực Tiếp
+Dialogue: 0,0:13:16.48,0:13:20.90,DefaultItalics,MC MAN,0,0,0,,Khách mời đặc biệt hôm nay của chúng ta \Nchính là nam diễn viên đình đám, Mochizuki Oboro-san!
+Dialogue: 0,0:13:20.90,0:13:22.54,Default,FUBUKI,0,0,0,,Oboro-kun kìa!
+Dialogue: 0,0:13:22.54,0:13:25.46,Default,FUBUKI,0,0,0,,Không ngờ mới 20 tuổi mà cậu ấy trông \Nđã hoàn hảo không tì vết như vậy rồi.
+Dialogue: 0,0:13:25.46,0:13:26.79,Default,FUBUKI,0,0,0,,Đáng yêu quá đi mất thôi!
+Dialogue: 0,0:13:28.37,0:13:29.96,DefaultItalics,OBORO/ID,0,0,0,,Thèm bánh mì dưa lưới ghê.
+Dialogue: 0,0:13:30.46,0:13:35.18,Default,CRITIC,0,0,0,,Chà, tôi thực sự ngán ngẩm \Ntrước thực trạng đáng thương của xã hội ngày nay.
+Dialogue: 0,0:13:35.18,0:13:38.76,Default,CRITIC,0,0,0,,Mấy cái tổ chức bí mật này nọ \Ntoàn là sản phẩm của trí tưởng tượng hoang đường.
+Dialogue: 0,0:13:38.76,0:13:42.97,Signs,SIGNS,0,0,0,,{\fs20\bord2\fnSegoe UI\c&H7542CE&\3c&H303030&\pos(320,3.5)}Chương Trình Đặc Biệt: {\c&H8E8EAA&}Giải Mã {\c&H7EA1F0&}Bí Ẩn Psyren {\c&H8B767B&\3c&HEBE8E8&}Trực Tiếp
+Dialogue: 0,0:13:38.76,0:13:42.97,Default,MC MAN,0,0,0,,Thế nhưng có rất nhiều người khẳng định \Nmình từng tận mắt chứng kiến Nemesis Q.
+Dialogue: 0,0:13:42.97,0:13:48.41,Default,CAST,0,0,0,,Thậm chí từng có vụ một người đàn ông \Nđột nhiên biến mất không dấu vết giữa chốn thanh thiên bạch nhật.
+Dialogue: 0,0:13:48.41,0:13:52.39,Default,CAST,0,0,0,,Các nhân chứng kể lại rằng trước khi biến mất, \Nông ta đã thốt lên hai chữ "Psyren".
+Dialogue: 0,0:13:52.39,0:13:56.02,Default,CRITIC,0,0,0,,Toàn là chuyện nhảm nhí vớ vẩn.
+Dialogue: 0,0:13:56.02,0:14:00.70,Default,MC WOMAN,0,0,0,,Và có một người đã biến truyền thuyết đô thị Psyren \Ntrở thành một hiện tượng xã hội bùng nổ:
+Dialogue: 0,0:14:00.70,0:14:04.07,Default,MC WOMAN,0,0,0,,vị bà đồng nổi tiếng đã treo thưởng \Nsố tiền lên tới 500 triệu yên
+Dialogue: 0,0:14:04.07,0:14:07.53,Default,MC WOMAN,0,0,0,,cho bất kỳ ai giải mã được những bí ẩn của Psyren: \NBà Tenjuin Elmore.
+Dialogue: 0,0:14:08.25,0:14:10.72,Default,MC WOMAN,0,0,0,,Elmore và người chồng quá cố của bà, Koper,
+Dialogue: 0,0:14:10.72,0:14:13.30,Default,MC WOMAN,0,0,0,,từng là cặp đôi tiên tri lừng lẫy \Nkhuynh đảo cả thế giới.
+Dialogue: 0,0:14:13.30,0:14:15.00,Default,MC WOMAN,0,0,0,,Nhờ vào năng lực nhìn thấu tương lai của mình,
+Dialogue: 0,0:14:15.00,0:14:19.48,DefaultItalics,MC WOMAN,0,0,0,,họ đã tạo dựng mối quan hệ sâu rộng trong giới chính trị \Nvà thương trường, tích lũy khối tài sản kếch xù.
+Dialogue: 0,0:14:15.59,0:14:19.05,DefaultTop,FUBUKI,0,0,0,,Tao ghét cay ghét đắng mấy mụ già bịp bợm kiểu đó.
+Dialogue: 0,0:14:19.48,0:14:21.40,DefaultItalics,AGEHA/ID,0,0,0,,Tenjuin Elmore ư...
+Dialogue: 0,0:14:22.01,0:14:24.37,Default,MC WOMAN,0,0,0,,Sau cái chết đầy bí ẩn của Koper,
+Dialogue: 0,0:14:24.37,0:14:28.67,Default,MC WOMAN,0,0,0,,Elmore đã chi khoản tiền thưởng khổng lồ \Nđể săn lùng mọi thông tin về Psyren.
+Dialogue: 0,0:14:29.43,0:14:33.96,Default,MC MAN,0,0,0,,Và bây giờ, hãy cùng trò chuyện với vị khách mời đặc biệt, \NMochizuki Oboro-san.
+Dialogue: 0,0:14:35.19,0:14:39.81,Default,MC WOMAN,0,0,0,,Nghe nói Oboro-san đã từng chạm mặt \Nthực thể Nemesis Q đầy bí ẩn
+Dialogue: 0,0:14:39.81,0:14:42.86,Default,MC WOMAN,0,0,0,,và sở hữu một trong những chiếc thẻ điện thoại \Nđang gây xôn xao dư luận!
+Dialogue: 0,0:14:42.86,0:14:45.18,Default,CRITIC,0,0,0,,Có thật như vậy không hả Oboro-kun?
+Dialogue: 0,0:14:45.18,0:14:48.83,Default,CRITIC,0,0,0,,Chắc hẳn cậu sẽ kể tường tận cho mọi người \Nnghe những gì đã diễn ra chứ?
+Dialogue: 0,0:14:48.83,0:14:51.34,Default,OBORO,0,0,0,,Tất nhiên rồi ạ. Em tình cờ có được tấm thẻ này
+Dialogue: 0,0:14:51.34,0:14:54.33,Default,OBORO,0,0,0,,khi đến Shizuoka để ghi hình ngoại cảnh.
+Dialogue: 0,0:14:54.71,0:14:55.71,Default,AGEHA,0,0,0,,Cái gì cơ?!
+Dialogue: 0,0:14:55.71,0:14:57.08,Default,FUBUKI,0,0,0,,Này, cẩn thận nước văng kìa!
+Dialogue: 0,0:14:57.08,0:15:01.42,Default,OBORO,0,0,0,,Khi em đang đi bộ ngoài đường, \Nmột bốt điện thoại công cộng bỗng đổ chuông liên hồi.
+Dialogue: 0,0:15:01.72,0:15:04.93,Default,OBORO,0,0,0,,Tò mò nên em đã nhấc máy trả lời, và rồi...
+Dialogue: 0,0:15:07.99,0:15:08.85,Default,MC MAN,0,0,0,,Có chuyện gì thế?
+Dialogue: 0,0:15:09.53,0:15:11.68,DefaultItalics,OBORO/ID,0,0,0,,Mình... không thở được!
+Dialogue: 0,0:15:20.68,0:15:21.82,Default,CRITIC,0,0,0,,Oboro-kun?
+Dialogue: 0,0:15:21.82,0:15:23.78,Signs,SIGN,0,0,0,,{\fs20\fax-0.1\fnComic Sans MS\c&H6C5F45&\pos(401,136.5)}Thành Thật Cáo Lỗi Vì Sự Gián Đoạn Này
+Dialogue: 0,0:15:21.82,0:15:23.78,Signs,SIGN,0,0,0,,{\fs20\fax-0.1\fnComic Sans MS\c&H6C5F45&\pos(401,218)}Xin Quý Khán Giả Vui Lòng Chờ Trong Giây Lát
+Dialogue: 0,0:15:23.78,0:15:26.33,Default,FUBUKI,0,0,0,,Oboro-kun!
+Dialogue: 0,0:15:25.15,0:15:26.78,DefaultOverlap,AGEHA,0,0,0,,Kìa chị, che hết cả màn hình rồi!
+Dialogue: 0,0:15:36.35,0:15:38.33,Default,OBORO,0,0,0,,Bà là ai?
+Dialogue: 0,0:15:38.88,0:15:40.67,Default,OBORO,0,0,0,,Vừa nãy chuyện gì xảy ra với tôi vậy?
+Dialogue: 0,0:15:41.16,0:15:42.63,Default,OBORO,0,0,0,,Chị Matsumoto?
+Dialogue: 0,0:15:42.97,0:15:47.50,Default,ELMORE,0,0,0,,Đừng lo. Bọn ta chỉ để cô ta \Nchợp mắt nghỉ ngơi một chút thôi.
+Dialogue: 0,0:15:47.50,0:15:49.05,Default,OBORO,0,0,0,,C-Các người rốt cuộc là ai?
+Dialogue: 0,0:15:49.05,0:15:51.34,Default,ELMORE,0,0,0,,Ta là Tenjuin Elmore.
+Dialogue: 0,0:15:51.34,0:15:53.31,Default,VAN,0,0,0,,Cháu là Tenjuin Van.
+Dialogue: 0,0:15:53.31,0:15:56.31,Default,OBORO,0,0,0,,Bà {\i1}thực sự là{\i0} Tenjuin Elmore sao?!
+Dialogue: 0,0:15:56.31,0:15:59.03,Default,ELMORE,0,0,0,,Nhóc con sắp sửa gặp phải rắc rối lớn rồi đấy.
+Dialogue: 0,0:15:59.03,0:16:03.32,Default,ELMORE,0,0,0,,Vi phạm luật lệ của Nemesis Q \Nchỉ có con đường chết mà thôi.
+Dialogue: 0,0:16:03.62,0:16:09.16,Default,ELMORE,0,0,0,,Đừng có dại dột làm trò ngu ngốc như \Nba hoa về Psyren trên sóng truyền hình nữa.
+Dialogue: 0,0:16:09.16,0:16:12.40,Default,OBORO,0,0,0,,Nhân vật lừng lẫy như Tenjuin Elmore \Nđang đứng sờ sờ trước mặt mình...
+Dialogue: 0,0:16:12.40,0:16:15.67,Default,OBORO,0,0,0,,mà lại là một bà già lùn tịt, nhăn nheo như quả mận khô thế này á?
+Dialogue: 0,0:16:16.50,0:16:20.13,Default,ELMORE,0,0,0,,Ngươi vừa nói toẹt ra ngoài mồm rồi đấy, thằng nhóc xấc xược!
+Dialogue: 0,0:16:20.13,0:16:27.09,Signs,SIGN,0,0,0,,{\fs15\blur0.3\c&H4C4748&\pos(446,74.5)}Phòng Tắm\N\N\N\N\N\N\N\N\N\N\N\N{\fscx90\t(2309,2560,\alpha&HFF&)}Tạm Ngưng Sử Dụng
+Dialogue: 0,0:16:20.75,0:16:24.35,Default,ELMORE,0,0,0,,Nếu có ngày nhóc giải mã được \Nnhững bí ẩn của Psyren, hãy đến tìm ta.
+Dialogue: 0,0:16:24.35,0:16:26.22,Default,ELMORE,0,0,0,,Khoản tiền 500 triệu yên sẽ thuộc về nhóc.
+Dialogue: 0,0:16:27.48,0:16:29.35,Default,OBORO,0,0,0,,Bà nói thế chẳng hợp lý chút nào.
+Dialogue: 0,0:16:29.35,0:16:33.81,Default,OBORO,0,0,0,,Bà vừa bảo Nemesis Q sẽ lấy mạng em \Nnếu em hé răng cho ai biết kia mà.
+Dialogue: 0,0:16:35.51,0:16:38.80,Default,ELMORE,0,0,0,,Đó cũng chính là một phần bí ẩn \Nmà ta muốn nhóc làm sáng tỏ.
+Dialogue: 0,0:16:38.80,0:16:42.18,Default,ELMORE,0,0,0,,Tại sao Nemesis Q lại phải che giấu bí mật của Psyren?
+Dialogue: 0,0:16:42.18,0:16:44.98,Default,ELMORE,0,0,0,,Nhóc không nghĩ bản thân điều đó \Ncũng là một manh mối đắt giá sao?
+Dialogue: 0,0:16:45.74,0:16:47.68,Default,OBORO,0,0,0,,Em chịu chẳng hiểu nổi bà già này luôn.
+Dialogue: 0,0:16:48.11,0:16:53.12,Default,ELMORE,0,0,0,,Nhóc đã bước một chân vào đầm lầy \Nvà sẽ không còn đường lui nữa đâu.
+Dialogue: 0,0:16:53.62,0:16:56.58,Default,ELMORE,0,0,0,,Liệu mà chuẩn bị tinh thần đi, nhóc con.
+Dialogue: 0,0:16:56.58,0:16:58.00,Default,OBORO,0,0,0,,Chuẩn bị tinh thần sao?
+Dialogue: 0,0:16:58.91,0:17:02.87,Default,OBORO,0,0,0,,Hóa ra mình sinh ra không phải \Nđể sống một cuộc đời tẻ nhạt tầm thường.
+Dialogue: 0,0:17:02.87,0:17:05.09,Default,OBORO,0,0,0,,Biết được điều đó em thấy nhẹ nhõm hẳn.
+Dialogue: 0,0:17:06.35,0:17:09.26,Default,ELMORE,0,0,0,,Thần tượng kiêm diễn viên cái nỗi gì chứ.
+Dialogue: 0,0:17:09.26,0:17:13.44,Default,ELMORE,0,0,0,,Bản chất ngươi là một con hổ dữ \Nmang lốt mèo con ngoan ngoãn.
+Dialogue: 0,0:17:16.38,0:17:19.43,Default,VAN,0,0,0,,Anh ta có tiềm năng PSI rất lớn.
+Dialogue: 0,0:17:19.74,0:17:22.27,Default,VAN,0,0,0,,Anh ta hoàn toàn có thể trở thành một cao thủ đấy ạ.
+Dialogue: 0,0:17:22.97,0:17:24.50,Default,ELMORE,0,0,0,,Thế à?
+Dialogue: 0,0:17:26.65,0:17:28.03,Default,THUG 1,0,0,0,,Kirisaki!
+Dialogue: 0,0:17:28.03,0:17:31.11,Default,THUG 1,0,0,0,,Thằng chó này! Mày dám tán tỉnh bạn gái tao à?!
+Dialogue: 0,0:17:32.80,0:17:36.46,Default,KABUTO,0,0,0,,Ta, Kirisaki Kabuto, \Nthiêu đốt trái tim các quý cô tựa ngọn lửa hồng
+Dialogue: 0,0:17:36.46,0:17:39.16,Default,KABUTO,0,0,0,,và thoăn thoắt chuồn khỏi bể tình êm đềm như cơn gió thoảng!
+Dialogue: 0,0:17:41.74,0:17:43.98,Default,KABUTO,0,0,0,,Em trót dại quá đà, xin các đại ca tha mạng!
+Dialogue: 0,0:17:43.98,0:17:44.58,Default,THUG 1,0,0,0,,Quỳ lạy nhanh như chớp vậy?!
+Dialogue: 0,0:17:44.58,0:17:46.38,Default,THUG 2,0,0,0,,Mới thế mà đã dập đầu van xin rồi à!
+Dialogue: 0,0:17:46.38,0:17:48.13,Default,KABUTO,0,0,0,,Đùa tí thôi mấy cưng!
+Dialogue: 0,0:17:49.57,0:17:51.38,Default,KABUTO,0,0,0,,Chào thân ái và quyết thắng nhé!
+Dialogue: 0,0:17:51.38,0:17:52.84,Default,THUGS,0,0,0,,Thằng ranh con khốn nạn!
+Dialogue: 0,0:17:53.79,0:17:59.12,Default,TOUJI,0,0,0,,Thề luôn, cho mày bao nhiêu mạng \Ncũng chẳng đủ đốt đâu, Kabuto.
+Dialogue: 0,0:17:59.85,0:18:04.60,Default,TOUJI,0,0,0,,Có thằng cháu hề hước như mày \Nlàm tao lúc nào cũng phải lo sốt vó.
+Dialogue: 0,0:18:04.60,0:18:07.48,Default,KABUTO,0,0,0,,Cháu cũng đâu có ham hố rắc rối gì đâu chú.
+Dialogue: 0,0:18:07.99,0:18:12.86,Default,KABUTO,0,0,0,,Đây chỉ là phản ứng tự nhiên \Nkhi cháu nghe theo sự mách bảo của con tim thôi mà.
+Dialogue: 0,0:18:12.86,0:18:14.38,Default,TOUJI,0,0,0,,Thế cơ đấy à?
+Dialogue: 0,0:18:14.38,0:18:16.37,DefaultItalics,KABUTO,0,0,0,,Cơ mà hôm nay trời đẹp ghê ta.
+Dialogue: 0,0:18:16.68,0:18:20.62,Default,KABUTO,0,0,0,,Đứng từ đây cháu còn nhìn rõ cả khu vực \Nnơi có căn biệt thự của chú nữa này.
+Dialogue: 0,0:18:20.93,0:18:24.87,Default,KABUTO,0,0,0,,Chú lại đang giam mình bên đống sách báo \Nchất đống như núi nữa đấy à?
+Dialogue: 0,0:18:24.87,0:18:26.16,Default,TOUJI,0,0,0,,Im đi.
+Dialogue: 0,0:18:26.75,0:18:29.75,Default,TOUJI,0,0,0,,Dù cái chân tàn phế này buộc tao phải từ bỏ \Ncông việc nhiếp ảnh gia chiến trường,
+Dialogue: 0,0:18:29.75,0:18:33.09,Default,TOUJI,0,0,0,,nhưng cho đến ngày nhắm mắt xuôi tay, \Ntao vẫn sẽ là một phóng viên.
+Dialogue: 0,0:18:33.09,0:18:38.56,Default,KABUTO,0,0,0,,Chất đấy chú. Sau này khi nào cháu nổi tiếng, \Ncháu sẽ dành riêng cho chú một bài phỏng vấn độc quyền nhé.
+Dialogue: 0,0:18:38.56,0:18:40.54,Default,TOUJI,0,0,0,,Nổi tiếng cơ đấy.
+Dialogue: 0,0:18:40.54,0:18:42.58,Default,TOUJI,0,0,0,,Chúc mày may mắn với ước mơ đó, Kabuto.
+Dialogue: 0,0:18:42.58,0:18:44.89,Default,TOUJI,0,0,0,,Bước đầu tiên là kiếm một công việc đàng hoàng mà làm đi đã.
+Dialogue: 0,0:18:46.37,0:18:49.57,Default,KABUTO,0,0,0,,Người có tố chất như cháu \Nthì giấc mơ phải vĩ đại hơn thế chứ.
+Dialogue: 0,0:18:49.57,0:18:51.82,Default,KABUTO,0,0,0,,Cháu sắp đổi đời giàu to rồi.
+Dialogue: 0,0:18:51.82,0:18:55.95,Default,KABUTO,0,0,0,,Nữ thần may mắn đang dõi theo \Nvà phù hộ trên từng bước chân của cháu mà lị.
+Dialogue: 0,0:18:59.99,0:19:02.00,Signs,SIGN,0,0,0,,{\bord2\fs12\an7\c&H797677&\3c&HF8F8F8&\pos(217.5,146.5)\frz5.705\fax0.03}Tuần này tớ luyện Burst tiến bộ cực!\NSớm dạy tớ về Rise được không?
+Dialogue: 0,0:19:07.04,0:19:09.59,Default,AGEHA,0,0,0,,Chết tiệt thật. Mình sắp làm được rồi mà.
+Dialogue: 0,0:19:10.41,0:19:12.55,DefaultItalics,AMAMIYA/ID,0,0,0,,Cậu ấy đang ép não bộ làm việc quá tải rồi.
+Dialogue: 0,0:19:13.14,0:19:17.48,Default,AMAMIYA,0,0,0,,Tôi đã dặn là không được tự luyện ở nhà \Nmà cậu vẫn cố đấm ăn xôi đấy à?
+Dialogue: 0,0:19:17.48,0:19:19.66,Default,AMAMIYA,0,0,0,,Cậu đã chạm tới giới hạn rồi. Nghỉ ngơi đi.
+Dialogue: 0,0:19:19.66,0:19:20.93,Default,AGEHA,0,0,0,,Mặc kệ tớ.
+Dialogue: 0,0:19:20.93,0:19:21.76,Default,AMAMIYA,0,0,0,,Yoshina!
+Dialogue: 0,0:19:22.09,0:19:24.72,Default,AGEHA,0,0,0,,Tớ sắp làm được rồi. Chỉ một chút nữa thôi.
+Dialogue: 0,0:19:25.10,0:19:29.71,Default,AGEHA,0,0,0,,Hiryu làm được thì chẳng có lý nào tớ lại chịu thua cả!
+Dialogue: 0,0:19:29.71,0:19:33.28,Default,AGEHA,0,0,0,,Tao nhất định cũng phải làm được!
+Dialogue: 0,0:19:37.57,0:19:44.00,DefaultItalics,AMAMIYA/ID,0,0,0,,Không được! Thi triển PSI theo cảm tính mù quáng \Nmà thiếu tập trung sẽ phá hủy não bộ của cậu ấy mất!
+Dialogue: 0,0:19:44.00,0:19:45.37,Default,AMAMIYA,0,0,0,,Dừng lại mau, Yoshina!
+Dialogue: 0,0:19:53.60,0:19:54.63,Default,AMAMIYA,0,0,0,,Không thể nào...
+Dialogue: 0,0:19:59.10,0:20:01.18,Default,AMAMIYA,0,0,0,,Cậu có sao không, Yoshina?!
+Dialogue: 0,0:20:01.18,0:20:04.47,Default,AGEHA,0,0,0,,Ừ. Nhưng mà... đau đầu vãi chưởng.
+Dialogue: 0,0:20:04.47,0:20:08.25,DefaultItalics,AMAMIYA/ID,0,0,0,,Nguyên lý cơ bản của PSI là sự tập trung, \Nkiến tạo và truyền dẫn ý niệm,
+Dialogue: 0,0:20:08.66,0:20:11.86,DefaultItalics,AMAMIYA/ID,0,0,0,,thế nhưng chiêu thức Burst ban nãy của Yoshina \Nlại là một thứ hoàn toàn khác biệt.
+Dialogue: 0,0:20:12.23,0:20:14.48,DefaultItalics,AMAMIYA/ID,0,0,0,,Nó là một sự bùng nổ của cảm xúc thuần khiết.
+Dialogue: 0,0:20:15.32,0:20:19.86,DefaultItalics,AMAMIYA/ID,0,0,0,,Một thứ sức mạnh PSI cực kỳ nguy hiểm \Nmà ngay cả bản thân Yoshina cũng không tài nào kiểm soát nổi.
+Dialogue: 0,0:20:21.06,0:20:22.04,Default,AMAMIYA,0,0,0,,Yoshina?
+Dialogue: 0,0:20:22.58,0:20:25.72,Default,AGEHA,0,0,0,,Tuyệt đỉnh! Sức mạnh của mình đỉnh vãi chưởng!
+Dialogue: 0,0:20:25.72,0:20:27.97,Default,AGEHA,0,0,0,,Cậu có thấy không hả, Amamiya?!
+Dialogue: 0,0:20:27.97,0:20:31.42,Default,AGEHA,0,0,0,,Tớ biết tớ làm được mà! Quả nhiên tớ là thiên tài!
+Dialogue: 0,0:20:31.75,0:20:35.10,Default,AGEHA,0,0,0,,À đúng rồi, phải gửi tin nhắn khoe \Ncho cái thằng ngốc Hiryu kia mới được.
+Dialogue: 0,0:20:35.76,0:20:37.36,Default,AMAMIYA,0,0,0,,Cậu không định mở mồm xin lỗi à?
+Dialogue: 0,0:20:37.36,0:20:41.70,Default,AMAMIYA,0,0,0,,Cậu đục toang một lỗ thủng tổ bố trong phòng con gái nhà người ta \Nmà không tính xin lỗi một câu hả?!
+Dialogue: 0,0:20:41.70,0:20:44.39,Default,AGEHA,0,0,0,,T-Tớ xin lỗi mà!
+Dialogue: 0,0:20:48.87,0:20:51.35,DefaultItalics,AMAMIYA/ID,0,0,0,,Không xong rồi! Chưa gì mà đã...
+Dialogue: 0,0:20:56.10,0:20:59.49,Default,KABUTO,0,0,0,,Ai đó làm ơn tắt nó giùm với!
+Dialogue: 0,0:21:01.14,0:21:05.33,Default,HIRYU,0,0,0,,Thế cơ à? Muốn bọn tao tái đấu nữa chứ gì?
+Dialogue: 0,0:21:06.83,0:21:09.91,Default,AGEHA,0,0,0,,Chẳng phải cậu bảo lượt chơi tiếp theo \Nphải hai tuần nữa mới bắt đầu sao?
+Dialogue: 0,0:21:09.91,0:21:11.54,Default,AGEHA,0,0,0,,Mới có một tuần trôi qua thôi mà!
+Dialogue: 0,0:21:11.54,0:21:15.21,Default,AMAMIYA,0,0,0,,Đó chỉ là phỏng đoán thôi. Mau chuẩn bị đi.
+Dialogue: 0,0:21:16.03,0:21:20.13,DefaultItalics,AMAMIYA/ID,0,0,0,,Cô Matsuri. \NCô Matsuri ơi, tiếng chuông lại vang lên rồi.
+Dialogue: 0,0:21:20.57,0:21:22.14,DefaultItalics,AMAMIYA/ID,0,0,0,,Em phải tới Psyren đây.
+Dialogue: 0,0:21:22.14,0:21:23.74,DefaultItalics,MATSURI/ID,0,0,0,,Sakurako.
+Dialogue: 0,0:21:23.74,0:21:27.05,DefaultItalics,MATSURI/ID,0,0,0,,Sớm quá. Tụi nhóc vẫn chưa kịp \Nhoàn thiện khóa huấn luyện PSI.
+Dialogue: 0,0:21:27.05,0:21:28.77,DefaultItalics,MATSURI/ID,0,0,0,,Đừng có làm điều gì liều lĩnh đấy.
+Dialogue: 0,0:21:28.77,0:21:30.37,DefaultItalics,MATSURI/ID,0,0,0,,Nhất định phải bình an trở về đấy nhé.
+Dialogue: 0,0:21:30.69,0:21:32.61,DefaultItalics,AMAMIYA/ID,0,0,0,,Vâng thưa cô.
+Dialogue: 0,0:21:33.63,0:21:37.57,Default,MATSURI,0,0,0,,Bực bội thật đấy. Ước gì mình có thể đi cùng tụi nhỏ.
+Dialogue: 0,0:21:37.57,0:21:43.24,Default,AMAMIYA,0,0,0,,Nghe này, Yoshina. Ngay khi tới nơi, \Ncậu phải tìm tôi và Asaga-kun trước tiên.
+Dialogue: 0,0:21:43.64,0:21:44.45,Default,AMAMIYA,0,0,0,,Đi thôi.
+Dialogue: 0,0:21:44.92,0:21:45.70,Default,AGEHA,0,0,0,,Ừ.
+Dialogue: 0,0:21:51.96,0:21:53.37,Default,AGEHA,0,0,0,,Nemesis Q!
+Dialogue: 0,0:22:05.17,0:22:08.68,Credits,CREDITS,0,0,0,,Phụ đề Việt ngữ: Amtia(NOFACE)
+Dialogue: 0,0:22:09.05,0:22:12.56,Credits,CREDITS,0,0,0,,Biên dịch & Kỹ thuật: Amtia(NOFACE)
+Dialogue: 0,0:22:12.81,0:22:16.31,Credits,CREDITS,0,0,0,,Kiểm định chất lượng: Amtia(NOFACE)
+Dialogue: 0,0:23:35.18,0:23:40.06,Signs_EpTitle,SIGN,0,0,0,,{\fad(524,1)\fsp1\blur2\pos(320,110)}Tập 5\N\N\N\N\N\N\N\N{\fs40}Những Kẻ Tụ Hội
+
