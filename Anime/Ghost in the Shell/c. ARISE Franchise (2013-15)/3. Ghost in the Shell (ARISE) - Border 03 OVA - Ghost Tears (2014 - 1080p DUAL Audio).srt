@@ -1,0 +1,2963 @@
+﻿1
+00:01:44,540 --> 00:01:45,600
+<font face="Segoe UI" size="52"><b>Thiếu tá.</b></font>
+
+2
+00:01:45,600 --> 00:01:46,830
+<font face="Segoe UI" size="52"><b>Này, Thiếu tá!</b></font>
+
+3
+00:01:49,620 --> 00:01:51,980
+<font face="Segoe UI" size="52"><b>Cái gì thế kia? Thực tế ảo à?</b></font>
+
+4
+00:01:51,980 --> 00:01:53,460
+<font face="Segoe UI" size="52"><b>Tôi đang trong kỳ nghỉ.</b></font>
+
+5
+00:01:53,460 --> 00:01:55,720
+<font face="Segoe UI" size="52"><b>Anh có phiền không nếu đừng tùy tiện bước vào sảnh không gian mạng của tôi như thế?</b></font>
+
+6
+00:01:55,720 --> 00:01:57,470
+<font face="Segoe UI" size="52"><b>Xin chia buồn nhé.</b></font>
+
+7
+00:01:57,860 --> 00:01:59,530
+<font face="Segoe UI" size="52"><b>Vừa xảy ra một vụ đánh bom khủng bố ở Nishinouchi.</b></font>
+
+8
+00:01:59,530 --> 00:02:02,120
+<font face="Segoe UI" size="52"><b>Các nạn nhân là một giám đốc điều hành của một công ty nước có vốn đầu tư nước ngoài,</b></font>
+
+9
+00:02:02,120 --> 00:02:05,430
+<font face="Segoe UI" size="52"><b>một quan chức Bộ Thương mại, và một nhà sản xuất vũ khí trong nước.</b></font>
+
+10
+00:02:06,220 --> 00:02:11,400
+<font face="Segoe UI" size="52"><b>Mục ưu tiên hàng đầu trong danh sách dự đoán khủng bố
+mà cô giao cho Cục An ninh Công cộng trúng phóc luôn.</b></font>
+
+11
+00:02:11,800 --> 00:02:15,000
+<font face="Segoe UI" size="52"><b>Tôi đoán họ đang có một cuộc họp kín
+để thỏa thuận giá nước.</b></font>
+
+12
+00:02:15,000 --> 00:02:17,360
+<font face="Segoe UI" size="52"><b>Mọi thứ đều tan tành thành từng mảnh vụn,
+kể cả vài nhân viên bảo vệ của Bộ Ngoại giao.</b></font>
+
+13
+00:02:18,650 --> 00:02:21,480
+<font face="Segoe UI" size="52"><b>Tiện thể, ở con đập Yamanote cũng vừa có một vụ nổ đấy.</b></font>
+
+14
+00:02:21,480 --> 00:02:22,330
+<font face="Segoe UI" size="52"><b>Con đập sao?</b></font>
+
+15
+00:02:25,930 --> 00:02:27,820
+<font face="Segoe UI" size="52"><b>Không rõ liệu có liên quan hay không.</b></font>
+
+16
+00:02:27,820 --> 00:02:32,990
+<font face="Segoe UI" size="52"><b>Nhưng trên thực tế nó thuộc về một công ty nước có vốn nước ngoài,
+và có một cựu quan chức Bộ Thương mại trong ban điều hành.</b></font>
+
+17
+00:02:36,820 --> 00:02:39,970
+<font face="Segoe UI" size="52"><b>Các cuộc chiến tranh giành lãnh địa của đám quan chức
+trong ngành đó khốc liệt lắm.</b></font>
+
+18
+00:02:41,430 --> 00:02:44,140
+<font face="Segoe UI" size="52"><b>Vậy, ai yêu cầu chúng ta?</b></font>
+
+19
+00:02:44,140 --> 00:02:46,100
+<font face="Segoe UI" size="52"><b>Đội 9, như thường lệ.</b></font>
+
+20
+00:02:46,830 --> 00:02:50,830
+<font face="Segoe UI" size="52"><b>Họ không tận dụng tốt danh sách của cô,
+nhưng họ đã lần theo dấu vết của thủ phạm.</b></font>
+
+21
+00:02:50,830 --> 00:02:53,940
+<font face="Segoe UI" size="52"><b>Tuy nhiên họ bảo không thể bắt giữ được chúng.
+Hỏa lực bên kia áp đảo quá.</b></font>
+
+22
+00:02:59,070 --> 00:03:01,640
+<font face="Segoe UI" size="52"><b>Tập hợp mọi người lại đi. Tôi cũng sẽ tới.</b></font>
+
+23
+00:03:02,820 --> 00:03:04,370
+<font face="Segoe UI" size="52"><b>Công việc gọi à?</b></font>
+
+24
+00:03:06,940 --> 00:03:08,010
+<font face="Segoe UI" size="52"><b>Em xin lỗi.</b></font>
+
+25
+00:03:08,800 --> 00:03:10,290
+<font face="Segoe UI" size="52"><b>Năm tiếng, bảy phút.</b></font>
+
+26
+00:03:11,050 --> 00:03:13,500
+<font face="Segoe UI" size="52"><b>Đó là kỳ nghỉ dài kỷ lục của em đấy.</b></font>
+
+27
+00:03:13,500 --> 00:03:15,610
+<font face="Segoe UI" size="52"><b>Hôm nay em lại làm cố vấn cho cảnh sát à?</b></font>
+
+28
+00:03:15,610 --> 00:03:17,670
+<font face="Segoe UI" size="52"><b>Hay là Cục Phát triển Não điện tử?</b></font>
+
+29
+00:03:18,900 --> 00:03:20,560
+<font face="Segoe UI" size="52"><b>Em sẽ đền cho anh sau.</b></font>
+
+30
+00:03:21,350 --> 00:03:23,430
+<font face="Segoe UI" size="52"><b>Đừng quên chuyện chúng ta đã nói đấy.</b></font>
+
+31
+00:03:24,370 --> 00:03:25,710
+<font face="Segoe UI" size="52"><b>Anh nghiêm túc đấy chứ?</b></font>
+
+32
+00:03:25,710 --> 00:03:26,560
+<font face="Segoe UI" size="52"><b>Tất nhiên rồi.</b></font>
+
+33
+00:03:26,560 --> 00:03:29,090
+<font face="Segoe UI" size="52"><b>Em nên đi đi.</b></font>
+
+34
+00:03:29,090 --> 00:03:31,340
+<font face="Segoe UI" size="52"><b>Khách hàng của em chưa bao giờ là những kẻ kiên nhẫn cả, phải không nào?</b></font>
+
+35
+00:03:33,290 --> 00:03:34,020
+<font face="Segoe UI" size="52"><b>Vâng.</b></font>
+
+36
+00:03:34,420 --> 00:03:37,710
+<font face="Segoe UI" size="52"><b>Chà, cô đã gắn bó với gã đó được ba tháng rồi đấy!</b></font>
+
+37
+00:03:37,710 --> 00:03:39,570
+<font face="Segoe UI" size="52"><b>Đó là một kỷ lục mới.</b></font>
+
+38
+00:03:43,530 --> 00:03:46,680
+<font face="Segoe UI" size="52"><b>Anh có phiền không nếu đừng tùy tiện dùng cái chìa khóa
+thâm nhập Hồn đó như thế?</b></font>
+
+39
+00:04:55,230 --> 00:04:59,070
+<font face="Segoe UI" size="52"><b>Đồn cảnh sát của anh đã xác nhận danh tính nạn nhân là Thanh tra Mizuki Naoharu.</b></font>
+
+40
+00:04:59,380 --> 00:05:00,530
+<font face="Segoe UI" size="52"><b>Có đúng vậy không?</b></font>
+
+41
+00:05:01,110 --> 00:05:03,450
+<font face="Segoe UI" size="52"><b>Đúng thế. Anh ấy là tiền bối của tôi.</b></font>
+
+42
+00:05:11,680 --> 00:05:13,370
+<font face="Segoe UI" size="52"><b>Đây là tất cả những gì anh ấy mang theo bên người sao?</b></font>
+
+43
+00:05:13,740 --> 00:05:15,330
+<font face="Segoe UI" size="52"><b>Bao súng của anh ấy trống rỗng.</b></font>
+
+44
+00:05:16,020 --> 00:05:18,790
+<font face="Segoe UI" size="52"><b>Khẩu súng của anh ấy chắc đã bị cuốn trôi hoặc bị đánh cắp rồi.</b></font>
+
+45
+00:05:19,170 --> 00:05:21,710
+<font face="Segoe UI" size="52"><b>Thật khó tin khi khẩu súng nằm bên trong áo khoác
+lại có thể bị nước cuốn trôi được.</b></font>
+
+46
+00:05:22,150 --> 00:05:25,100
+<font face="Segoe UI" size="52"><b>Và cũng thật kỳ lạ nếu ai đó lấy cắp súng
+mà lại để lại ví tiền.</b></font>
+
+47
+00:05:31,510 --> 00:05:32,960
+<font face="Segoe UI" size="52"><b>Một chuyên gia về thể máy...</b></font>
+
+48
+00:05:34,820 --> 00:05:37,230
+<font face="Segoe UI" size="52"><b>Trông anh ta chắc chắn không giống người đã cơ thể hóa.</b></font>
+
+49
+00:05:37,230 --> 00:05:40,820
+<font face="Segoe UI" size="52"><b>Trung úy, người của anh đã gom tất cả tài sản vô chủ trong khu vực rồi đúng không?</b></font>
+
+50
+00:05:40,820 --> 00:05:43,360
+<font face="Segoe UI" size="52"><b>Hãy tìm xem còn thứ gì khác có liên hệ với anh ấy không.</b></font>
+
+51
+00:05:43,360 --> 00:05:45,290
+<font face="Segoe UI" size="52"><b>Anh muốn tôi làm chân chạy việc cho anh à?</b></font>
+
+52
+00:05:45,290 --> 00:05:47,940
+<font face="Segoe UI" size="52"><b>Nếu sự cố ở con đập thực sự là một tai nạn, thì đúng vậy.</b></font>
+
+53
+00:05:47,940 --> 00:05:48,950
+<font face="Segoe UI" size="52"><b>Trung úy!</b></font>
+
+54
+00:05:49,980 --> 00:05:51,580
+<font face="Segoe UI" size="52"><b>Tôi tìm thấy một thứ kỳ lạ.</b></font>
+
+55
+00:05:55,090 --> 00:05:56,560
+<font face="Segoe UI" size="52"><b>Thứ gì đây?</b></font>
+
+56
+00:05:56,560 --> 00:05:58,000
+<font face="Segoe UI" size="52"><b>Trông giống như chân nhân tạo, nhưng mà...</b></font>
+
+57
+00:06:07,320 --> 00:06:09,030
+<font face="Segoe UI" size="52"><b>Đôi chân Người cá (Mermaid's Legs)...</b></font>
+
+58
+00:06:16,790 --> 00:06:17,770
+<font face="Segoe UI" size="52"><b>Báo cáo đi.</b></font>
+
+59
+00:06:19,320 --> 00:06:21,320
+<font face="Segoe UI" size="52"><b>Rất nhiều cảnh sát bị thương.</b></font>
+
+60
+00:06:21,320 --> 00:06:23,230
+<font face="Segoe UI" size="52"><b>Sáu tên thủ phạm vẫn đang tiến công dữ dội.</b></font>
+
+61
+00:06:23,520 --> 00:06:25,200
+<font face="Segoe UI" size="52"><b>Bọn chúng đang trên đường tới Khu 4.</b></font>
+
+62
+00:06:25,200 --> 00:06:27,700
+<font face="Segoe UI" size="52"><b>Chúng nhìn thấu toàn bộ chiến thuật của cảnh sát.</b></font>
+
+63
+00:06:27,700 --> 00:06:30,910
+<font face="Segoe UI" size="52"><b>Chúng đã bảo đảm sẵn một lộ trình tẩu thoát từ trước.</b></font>
+
+64
+00:06:31,200 --> 00:06:33,370
+<font face="Segoe UI" size="52"><b>Nhóm này được huấn luyện rất bài bản.</b></font>
+
+65
+00:06:33,680 --> 00:06:35,740
+<font face="Segoe UI" size="52"><b>Chỉ huy của chúng chắc chắn đang ở ngoài kia.</b></font>
+
+66
+00:06:35,740 --> 00:06:36,330
+<font face="Segoe UI" size="52"><b>Ishikawa!</b></font>
+
+67
+00:06:39,070 --> 00:06:40,830
+<font face="Segoe UI" size="52"><b>Tôi đã bắt được đường truyền của chúng rồi!</b></font>
+
+68
+00:06:44,520 --> 00:06:47,130
+<font face="Segoe UI" size="52"><b>Tên thứ bảy. Đây chính là kẻ cầm đầu.</b></font>
+
+69
+00:07:19,510 --> 00:07:21,190
+<font face="Segoe UI" size="52"><b>Đây là khóa hồn (ghost lock) tối tân đấy.</b></font>
+
+70
+00:07:21,190 --> 00:07:22,630
+<font face="Segoe UI" size="52"><b>Đừng lãng phí thời gian kháng cự vô ích.</b></font>
+
+71
+00:07:24,600 --> 00:07:26,670
+<font face="Segoe UI" size="52"><b>Tôi sẽ bắt hắn ra lệnh cho đồng bọn đầu hàng.</b></font>
+
+72
+00:07:26,670 --> 00:07:29,630
+<font face="Segoe UI" size="52"><b>Ishikawa, chạy chương trình cưỡng chế nhận diện.</b></font>
+
+73
+00:07:29,630 --> 00:07:30,550
+<font face="Segoe UI" size="52"><b>Rõ.</b></font>
+
+74
+00:07:31,780 --> 00:07:32,970
+<font face="Segoe UI" size="52"><b>Hủy bỏ chiến dịch.</b></font>
+
+75
+00:07:33,340 --> 00:07:35,060
+<font face="Segoe UI" size="52"><b>Vứt súng xuống và đầu hàng.</b></font>
+
+76
+00:07:36,070 --> 00:07:40,360
+<font face="Segoe UI" size="52"><b>Nhắc lại: hủy bỏ chiến dịch và đầu hàng mau.</b></font>
+
+77
+00:07:43,980 --> 00:07:44,480
+<font face="Segoe UI" size="52"><b>Hả?</b></font>
+
+78
+00:07:48,110 --> 00:07:50,150
+<font face="Segoe UI" size="52"><b>Ủa, không có đọ súng à?</b></font>
+
+79
+00:07:51,640 --> 00:07:54,120
+<font face="Segoe UI" size="52"><b>Tôi tóm được một tên rồi này!</b></font>
+
+80
+00:07:55,940 --> 00:07:58,090
+<font face="Segoe UI" size="52"><b>Này, cậu cũng hữu dụng phết đấy chứ!</b></font>
+
+81
+00:07:59,830 --> 00:08:01,960
+<font face="Segoe UI" size="52"><b>Chúng ta tóm được tên cuối cùng rồi.</b></font>
+
+82
+00:08:01,960 --> 00:08:04,470
+<font face="Segoe UI" size="52"><b>Tốt. Bàn giao tất cả bọn chúng cho An ninh Công cộng.</b></font>
+
+83
+00:08:07,080 --> 00:08:08,550
+<font face="Segoe UI" size="52"><b>Cảnh báo virus sao?</b></font>
+
+84
+00:08:11,420 --> 00:08:12,800
+<font face="Segoe UI" size="52"><b>Là từ tên mà cô vừa bắt giữ đấy!</b></font>
+
+85
+00:08:28,170 --> 00:08:29,320
+<font face="Segoe UI" size="52"><b><i>Cơn đau này...</i></b></font>
+
+86
+00:08:36,010 --> 00:08:37,950
+<font face="Segoe UI" size="52"><b><i>Khóa hồn bị giải trừ rồi sao?</i></b></font>
+
+87
+00:08:39,150 --> 00:08:40,080
+<font face="Segoe UI" size="52"><b>Thiếu tá?</b></font>
+
+88
+00:08:40,080 --> 00:08:41,870
+<font face="Segoe UI" size="52"><b>Chết tiệt. Saito!</b></font>
+
+89
+00:08:45,880 --> 00:08:46,810
+<font face="Segoe UI" size="52"><b>Đừng giết hắn!</b></font>
+
+90
+00:09:15,820 --> 00:09:17,030
+<font face="Segoe UI" size="52"><b>Xong đời rồi, anh bạn!</b></font>
+
+91
+00:09:20,940 --> 00:09:26,040
+<font face="Segoe UI" size="52"><b>Khốn khiếp, cảm giác bị ai đó thâm nhập vào Hồn kinh tởm thật. Dù là Thiếu tá đi nữa.</b></font>
+
+92
+00:09:26,040 --> 00:09:27,370
+<font face="Segoe UI" size="52"><b>Chuẩn không cần chỉnh...</b></font>
+
+93
+00:09:27,370 --> 00:09:29,210
+<font face="Segoe UI" size="52"><b>Lỗi của anh vì dám ngắm vào đầu đấy.</b></font>
+
+94
+00:09:29,970 --> 00:09:31,570
+<font face="Segoe UI" size="52"><b>Đừng vội bàn giao bọn chúng.</b></font>
+
+95
+00:09:31,570 --> 00:09:34,780
+<font face="Segoe UI" size="52"><b>Chúng ta sẽ đưa chúng đến trại giam có trang bị hệ thống mạng.</b></font>
+
+96
+00:09:34,780 --> 00:09:36,760
+<font face="Segoe UI" size="52"><b>Cô đang bảo tôi đóng vai bạn tâm giao thẩm vấn đấy à?</b></font>
+
+97
+00:09:36,760 --> 00:09:38,930
+<font face="Segoe UI" size="52"><b>Tôi không hứng thú với những ký ức giả tạo.</b></font>
+
+98
+00:09:39,350 --> 00:09:40,930
+<font face="Segoe UI" size="52"><b>Ký ức sao?</b></font>
+
+99
+00:09:41,190 --> 00:09:44,150
+<font face="Segoe UI" size="52"><b>Tôi hứng thú với những linh Hồn đã bị vấy bẩn của bọn chúng.</b></font>
+
+100
+00:09:53,150 --> 00:09:55,950
+<font face="Segoe UI" size="52"><b>Xin lỗi vì đã phải gọi bà đến đây.</b></font>
+
+101
+00:09:56,430 --> 00:09:59,170
+<font face="Segoe UI" size="52"><b>Đó là nghĩa vụ công dân của tôi mà.</b></font>
+
+102
+00:09:59,170 --> 00:10:01,410
+<font face="Segoe UI" size="52"><b>Tôi hiểu bà là người chịu trách nhiệm quản lý con đập.</b></font>
+
+103
+00:10:01,860 --> 00:10:02,900
+<font face="Segoe UI" size="52"><b>Để xem nào...</b></font>
+
+104
+00:10:04,130 --> 00:10:07,120
+<font face="Segoe UI" size="52"><b>Tiến sĩ Zhinzhee Bekka Arr Thied.</b></font>
+
+105
+00:10:07,120 --> 00:10:08,910
+<font face="Segoe UI" size="52"><b>Xin hãy cứ gọi tôi là Thied.</b></font>
+
+106
+00:10:09,940 --> 00:10:11,910
+<font face="Segoe UI" size="52"><b>Bà có một người thư ký trông khá bặm trợn đấy.</b></font>
+
+107
+00:10:12,740 --> 00:10:14,340
+<font face="Segoe UI" size="52"><b>Anh ấy rất đáng tin cậy.</b></font>
+
+108
+00:10:14,680 --> 00:10:19,340
+<font face="Segoe UI" size="52"><b>Các cuộc xung đột vẫn đang tiếp diễn tại Cộng hòa Kuzan, quê hương của bà.</b></font>
+
+109
+00:10:19,340 --> 00:10:25,060
+<font face="Segoe UI" size="52"><b>Tôi nghe nói người thiểu số Qhardi nói riêng vẫn đang tiến hành cuộc chiến giành độc lập.</b></font>
+
+110
+00:10:25,830 --> 00:10:28,020
+<font face="Segoe UI" size="52"><b>Đó là một cuộc chiến đau lòng.</b></font>
+
+111
+00:10:28,020 --> 00:10:30,480
+<font face="Segoe UI" size="52"><b>Bà là người Qhardi, đúng không?</b></font>
+
+112
+00:10:30,480 --> 00:10:36,080
+<font face="Segoe UI" size="52"><b>Vâng. Giống như đại đa số đồng bào của mình, tôi mong muốn một giải pháp hòa bình.</b></font>
+
+113
+00:10:38,220 --> 00:10:39,920
+<font face="Segoe UI" size="52"><b>Vậy vụ nổ ở con đập...</b></font>
+
+114
+00:10:39,920 --> 00:10:42,410
+<font face="Segoe UI" size="52"><b>Tôi được thông báo đó là do van bị trục trặc kỹ thuật.</b></font>
+
+115
+00:10:42,410 --> 00:10:45,880
+<font face="Segoe UI" size="52"><b>Công ty của bà bán nước, phải không?</b></font>
+
+116
+00:10:45,880 --> 00:10:47,580
+<font face="Segoe UI" size="52"><b>Cho mục đích sử dụng nào thế?</b></font>
+
+117
+00:10:47,580 --> 00:10:49,750
+<font face="Segoe UI" size="52"><b>Cho các doanh nghiệp sản xuất máy móc chính xác.</b></font>
+
+118
+00:10:49,750 --> 00:10:53,620
+<font face="Segoe UI" size="52"><b>Ngành công nghiệp đó phụ thuộc vào nước tinh khiết 100%.</b></font>
+
+119
+00:10:53,620 --> 00:10:55,380
+<font face="Segoe UI" size="52"><b>Máy móc chính xác...</b></font>
+
+120
+00:10:55,740 --> 00:10:57,530
+<font face="Segoe UI" size="52"><b>Sản xuất thể máy nhân tạo, chẳng hạn?</b></font>
+
+121
+00:10:57,530 --> 00:10:58,270
+<font face="Segoe UI" size="52"><b>Đúng vậy.</b></font>
+
+122
+00:11:00,980 --> 00:11:01,790
+<font face="Segoe UI" size="52"><b>Thưa Cục trưởng.</b></font>
+
+123
+00:11:03,910 --> 00:11:04,760
+<font face="Segoe UI" size="52"><b>Đồ ngu!</b></font>
+
+124
+00:11:05,380 --> 00:11:08,560
+<font face="Segoe UI" size="52"><b>Bộ Thương mại đã mời họ đến đây để xây dựng nhà máy đấy!</b></font>
+
+125
+00:11:08,560 --> 00:11:11,190
+<font face="Segoe UI" size="52"><b>Cậu muốn biến đồn cảnh sát địa phương thành kẻ thù nữa sao?</b></font>
+
+126
+00:11:11,190 --> 00:11:12,470
+<font face="Segoe UI" size="52"><b>Nhưng mà...</b></font>
+
+127
+00:11:17,260 --> 00:11:19,310
+<font face="Segoe UI" size="52"><b>Dừng lại, đó là vật chứng!</b></font>
+
+128
+00:11:20,370 --> 00:11:25,830
+<font face="Segoe UI" size="52"><b>Tôi rất biết ơn các anh vì đã tìm lại
+số hàng hóa bị đánh cắp từ kho của chúng tôi.</b></font>
+
+129
+00:11:26,410 --> 00:11:27,760
+<font face="Segoe UI" size="52"><b>Xin mời các anh cứ giữ lấy mang đi.</b></font>
+
+130
+00:11:28,860 --> 00:11:29,770
+<font face="Segoe UI" size="52"><b>Cục trưởng!</b></font>
+
+131
+00:11:29,770 --> 00:11:30,730
+<font face="Segoe UI" size="52"><b>Lùi lại mau!</b></font>
+
+132
+00:11:32,300 --> 00:11:34,180
+<font face="Segoe UI" size="52"><b>Một thanh tra cảnh sát đã thiệt mạng đấy, thưa sếp.</b></font>
+
+133
+00:11:34,180 --> 00:11:35,790
+<font face="Segoe UI" size="52"><b>Cậu nghĩ tôi không biết chuyện đó sao?</b></font>
+
+134
+00:11:36,210 --> 00:11:38,760
+<font face="Segoe UI" size="52"><b>Cậu hãy đến Nishinouchi và thu thập thông tin cho tôi.</b></font>
+
+135
+00:11:39,340 --> 00:11:41,250
+<font face="Segoe UI" size="52"><b>Nishinouchi? Ở đó có gì?</b></font>
+
+136
+00:11:41,250 --> 00:11:45,280
+<font face="Segoe UI" size="52"><b>Một vụ đánh bom, rõ ràng là do khủng bố Qhardi thực hiện.</b></font>
+
+137
+00:11:45,280 --> 00:11:48,360
+<font face="Segoe UI" size="52"><b>Nghe đây. Cậu phải thỉnh thị cấp trên trước bất kỳ động thái nào trong vụ án này.</b></font>
+
+138
+00:11:48,360 --> 00:11:49,090
+<font face="Segoe UI" size="52"><b>Khủng bố sao?</b></font>
+
+139
+00:11:50,740 --> 00:11:54,730
+<font face="Segoe UI" size="52"><b>Nếu vụ nổ là cố ý, và anh ấy không phải nạn nhân...</b></font>
+
+140
+00:11:55,850 --> 00:11:56,880
+<font face="Segoe UI" size="52"><b>Cái gì?</b></font>
+
+141
+00:11:56,880 --> 00:11:59,100
+<font face="Segoe UI" size="52"><b>Rõ, thưa sếp! Tôi đi ngay!</b></font>
+
+142
+00:12:01,980 --> 00:12:04,110
+<font face="Segoe UI" size="52"><b>Đừng có gây thêm rắc rối đấy!</b></font>
+
+143
+00:12:08,120 --> 00:12:10,580
+<font face="Segoe UI" size="52"><b>Bọn chúng là một băng đảng buôn lậu vũ khí người Qhardi.</b></font>
+
+144
+00:12:10,580 --> 00:12:12,790
+<font face="Segoe UI" size="52"><b>Tôi từng chạm trán chúng trong một chiến dịch nằm vùng.</b></font>
+
+145
+00:12:13,130 --> 00:12:16,660
+<font face="Segoe UI" size="52"><b>Mục tiêu của chúng là tuồn vũ khí về cho đồng bào ở quê nhà.</b></font>
+
+146
+00:12:16,660 --> 00:12:18,950
+<font face="Segoe UI" size="52"><b>Bọn chúng chẳng có lý do gì để tấn công đất nước này cả.</b></font>
+
+147
+00:12:18,950 --> 00:12:21,020
+<font face="Segoe UI" size="52"><b>Lời khai của bọn chúng rành rọt như ban ngày.</b></font>
+
+148
+00:12:21,020 --> 00:12:24,800
+<font face="Segoe UI" size="52"><b>Chúng phản đối thỏa thuận định giá nước, nên đã đánh bom địa điểm họp.</b></font>
+
+149
+00:12:24,800 --> 00:12:27,880
+<font face="Segoe UI" size="52"><b>Cô đang bảo tôi đó là những ký ức bị cấy vào sao?</b></font>
+
+150
+00:12:27,880 --> 00:12:30,270
+<font face="Segoe UI" size="52"><b>Tôi cá là tất cả bọn chúng đều đã bị nhiễm virus,</b></font>
+
+151
+00:12:30,670 --> 00:12:33,270
+<font face="Segoe UI" size="52"><b>và con virus đó đã can thiệp vào khóa hồn của tôi.</b></font>
+
+152
+00:12:39,780 --> 00:12:42,280
+<font face="Segoe UI" size="52"><b>Làm tốt lắm. Các cậu đã trấn áp chúng một cách xuất sắc.</b></font>
+
+153
+00:12:42,280 --> 00:12:47,240
+<font face="Segoe UI" size="52"><b>Chúng tôi còn làm dễ dàng hơn thế nữa nếu ông
+chịu điều chỉnh chuẩn liên lạc của các ông theo của chúng tôi.</b></font>
+
+154
+00:12:47,800 --> 00:12:49,410
+<font face="Segoe UI" size="52"><b>Tôi đã đọc báo cáo của cô.</b></font>
+
+155
+00:12:49,410 --> 00:12:54,750
+<font face="Segoe UI" size="52"><b>Một loại virus ký ức giả tạo có thể vừa thâm nhập, vừa hack, vừa tẩy não cùng lúc sao?</b></font>
+
+156
+00:12:55,090 --> 00:12:57,710
+<font face="Segoe UI" size="52"><b>Nó là loại virus tự hủy tương tự Stuxnet.</b></font>
+
+157
+00:12:57,710 --> 00:13:00,710
+<font face="Segoe UI" size="52"><b>Ngoài những triệu chứng khởi phát ban đầu, nó không để lại bất kỳ dấu vết nào.</b></font>
+
+158
+00:13:01,030 --> 00:13:04,920
+<font face="Segoe UI" size="52"><b>Thao túng điện tử lên ký ức là điều vô cùng khó khăn.</b></font>
+
+159
+00:13:04,920 --> 00:13:07,280
+<font face="Segoe UI" size="52"><b>Chưa có ai trên thế giới này được xác nhận là đã thành công cả.</b></font>
+
+160
+00:13:07,280 --> 00:13:11,600
+<font face="Segoe UI" size="52"><b>Vậy mà các vụ việc vừa qua cho thấy rõ ràng kẻ chế tạo và kẻ môi giới đều có thật.</b></font>
+
+161
+00:13:12,040 --> 00:13:16,730
+<font face="Segoe UI" size="52"><b>Phải. Ở đâu đó ngoài kia có một lập trình viên cấp siêu phù thủy</b></font>
+
+162
+00:13:16,730 --> 00:13:19,520
+<font face="Segoe UI" size="52"><b>được biết đến với cái tên "Fire-Starter" (Kẻ Châm Lửa),
+kẻ đã tạo ra loại virus mạng cấp cao này.</b></font>
+
+163
+00:13:19,950 --> 00:13:23,440
+<font face="Segoe UI" size="52"><b>Cho đến tận bây giờ, chưa có tổ chức nào trên thế giới lần ra được danh tính của hắn.</b></font>
+
+164
+00:13:23,440 --> 00:13:24,490
+<font face="Segoe UI" size="52"><b>Nhưng cô thì đã làm được?</b></font>
+
+165
+00:13:25,040 --> 00:13:26,450
+<font face="Segoe UI" size="52"><b>Dù sao thì cũng có một manh mối.</b></font>
+
+166
+00:13:32,610 --> 00:13:33,370
+<font face="Segoe UI" size="52"><b>Cái gì đây?</b></font>
+
+167
+00:13:33,930 --> 00:13:36,660
+<font face="Segoe UI" size="52"><b>Tất cả những tên khủng bố đều có cùng một hình xăm.</b></font>
+
+168
+00:13:36,660 --> 00:13:42,050
+<font face="Segoe UI" size="52"><b>Đó là biểu tượng từng được Scylla sử dụng,
+người anh hùng từng lãnh đạo Quân đội Ly khai Qhardi.</b></font>
+
+169
+00:13:42,050 --> 00:13:43,750
+<font face="Segoe UI" size="52"><b>Tôi từng nghe nói về hắn.</b></font>
+
+170
+00:13:43,750 --> 00:13:46,170
+<font face="Segoe UI" size="52"><b>Nghe đồn hắn là bậc thầy về tác chiến không gian mạng.</b></font>
+
+171
+00:13:46,170 --> 00:13:47,970
+<font face="Segoe UI" size="52"><b>Hắn chính là Fire-Starter sao?</b></font>
+
+172
+00:13:47,970 --> 00:13:50,550
+<font face="Segoe UI" size="52"><b>Không đời nào. Hắn đã chết trong chiến tranh rồi.</b></font>
+
+173
+00:13:50,550 --> 00:13:53,110
+<font face="Segoe UI" size="52"><b>Cô sẽ đi tìm hiểu xem điều đó có thật hay không.</b></font>
+
+174
+00:13:53,110 --> 00:13:56,350
+<font face="Segoe UI" size="52"><b>Tôi sẽ cấp quyền truy cập giới hạn vào cơ sở dữ liệu của Đội 9.</b></font>
+
+175
+00:13:56,350 --> 00:13:58,070
+<font face="Segoe UI" size="52"><b>Hãy đọc chi tiết ở trong đó.</b></font>
+
+176
+00:13:58,070 --> 00:13:59,020
+<font face="Segoe UI" size="52"><b>Chỉ có vậy thôi sao?</b></font>
+
+177
+00:13:59,330 --> 00:14:00,580
+<font face="Segoe UI" size="52"><b>Cô còn phàn nàn gì nữa?</b></font>
+
+178
+00:14:00,580 --> 00:14:05,490
+<font face="Segoe UI" size="52"><b>Tôi đã giao cho cô tất cả số Logicoma tôi có,
+cộng thêm vũ khí và quyền sử dụng chúng rồi.</b></font>
+
+179
+00:14:05,490 --> 00:14:09,950
+<font face="Segoe UI" size="52"><b>Mọi danh sách tôi lập ra đều vô nghĩa nếu tổ chức không thể hành động.</b></font>
+
+180
+00:14:10,330 --> 00:14:11,640
+<font face="Segoe UI" size="52"><b>Và?</b></font>
+
+181
+00:14:11,640 --> 00:14:13,900
+<font face="Segoe UI" size="52"><b>Tôi muốn có thẩm quyền đặc biệt và một ngân sách được phê duyệt.</b></font>
+
+182
+00:14:13,900 --> 00:14:19,220
+<font face="Segoe UI" size="52"><b>Và tiện thể hãy làm cho các đường truyền mỏng manh của các ông tương thích ngược với chúng tôi đi.</b></font>
+
+183
+00:14:19,970 --> 00:14:21,380
+<font face="Segoe UI" size="52"><b>Đủ rồi đấy!</b></font>
+
+184
+00:14:21,860 --> 00:14:25,010
+<font face="Segoe UI" size="52"><b>Đội ngũ của cô không đủ quân số theo quy định,
+và tôi đã độ lượng nhắm mắt làm ngơ rồi đấy nhé!</b></font>
+
+185
+00:14:25,430 --> 00:14:28,200
+<font face="Segoe UI" size="52"><b>Đơn vị này được chuẩn hóa theo thông số hoàn hảo.</b></font>
+
+186
+00:14:28,200 --> 00:14:30,000
+<font face="Segoe UI" size="52"><b>Chúng tôi không cần thêm người.</b></font>
+
+187
+00:14:30,000 --> 00:14:32,930
+<font face="Segoe UI" size="52"><b>Thế thì cả đơn vị sẽ sụp đổ ngay giây phút cô bị hack.</b></font>
+
+188
+00:14:32,930 --> 00:14:34,800
+<font face="Segoe UI" size="52"><b>Y hệt như đám khủng bố kia vậy.</b></font>
+
+189
+00:14:35,960 --> 00:14:38,690
+<font face="Segoe UI" size="52"><b>"Thông số hoàn hảo" của cô không đáng để tôi đặt trọn niềm tin.</b></font>
+
+190
+00:14:39,340 --> 00:14:41,060
+<font face="Segoe UI" size="52"><b>Nếu muốn có thẩm quyền và ngân sách,</b></font>
+
+191
+00:14:41,060 --> 00:14:45,540
+<font face="Segoe UI" size="52"><b>hãy tìm thêm ít nhất một thành viên nữa và chấp nhận
+sự hợp tác từ một người có thông số kỹ thuật khác biệt.</b></font>
+
+192
+00:14:47,420 --> 00:14:52,410
+<font face="Segoe UI" size="52"><b>Nếu họ không chịu cấp tiền, chúng ta sẽ phải
+mắc kẹt ở cái bãi rác này thêm một thời gian nữa rồi.</b></font>
+
+193
+00:14:53,870 --> 00:14:56,450
+<font face="Segoe UI" size="52"><b>Tôi chỉ mừng là chúng ta còn có một phòng thí nghiệm để dùng.</b></font>
+
+194
+00:14:57,960 --> 00:15:02,630
+<font face="Segoe UI" size="52"><b>Ừ, hiệu năng thể máy cao đòi hỏi phải bảo trì thượng hạng...</b></font>
+
+195
+00:15:04,570 --> 00:15:07,490
+<font face="Segoe UI" size="52"><b>Chúng ta sẽ phải tự bỏ tiền túi ra để nâng cấp thôi.</b></font>
+
+196
+00:15:07,490 --> 00:15:08,800
+<font face="Segoe UI" size="52"><b>Tốn kém lắm đấy.</b></font>
+
+197
+00:15:10,910 --> 00:15:13,470
+<font face="Segoe UI" size="52"><b>Giảng viên bãi huấn luyện kiếm được bộn tiền đấy chứ.</b></font>
+
+198
+00:15:15,310 --> 00:15:19,510
+<font face="Segoe UI" size="52"><b>Cơ sở bảo trì chất lượng đỉnh cao, thẩm quyền tối thượng—chúng ta sẽ có tất cả.</b></font>
+
+199
+00:15:19,510 --> 00:15:21,480
+<font face="Segoe UI" size="52"><b>Bớt cằn nhằn lãng phí thời gian đi và mau giải quyết vụ án này!</b></font>
+
+200
+00:15:22,470 --> 00:15:23,940
+<font face="Segoe UI" size="52"><b>Quốc tịch của hắn chưa rõ.</b></font>
+
+201
+00:15:23,940 --> 00:15:28,920
+<font face="Segoe UI" size="52"><b>Hắn sử dụng nhiều cơ thể khác nhau để che giấu danh tính,
+nên mới có cái tên Skulla,</b></font>
+
+202
+00:15:28,920 --> 00:15:30,830
+<font face="Segoe UI" size="52"><b>hay còn gọi là Scylla.</b></font>
+
+203
+00:15:30,830 --> 00:15:33,410
+<font face="Segoe UI" size="52"><b>Đó là tên của một con thủy quái trong thần thoại Hy Lạp.</b></font>
+
+204
+00:15:33,820 --> 00:15:37,800
+<font face="Segoe UI" size="52"><b>Một chuyên gia chiến tranh từng chỉ huy quân ly khai, kiêm một phù thủy hacker...</b></font>
+
+205
+00:15:37,800 --> 00:15:40,460
+<font face="Segoe UI" size="52"><b>Hừm, sở trường của hắn là chiến dịch đường hầm (tunnel ops).</b></font>
+
+206
+00:15:40,460 --> 00:15:41,620
+<font face="Segoe UI" size="52"><b>"Chiến dịch đường hầm" sao?</b></font>
+
+207
+00:15:41,920 --> 00:15:47,090
+<font face="Segoe UI" size="52"><b>Đó là khi cậu đánh bom các huyết mạch sinh hoạt của một nơi nào đó,
+rồi thâm nhập điện tử vào chúng trong quá trình khôi phục sửa chữa.</b></font>
+
+208
+00:15:47,490 --> 00:15:51,660
+<font face="Segoe UI" size="52"><b>Cuối cùng cậu tung ra một đòn tấn công mạng hủy diệt
+từ ngay bên trong phòng tuyến phòng thủ của chúng.</b></font>
+
+209
+00:15:51,660 --> 00:15:56,220
+<font face="Segoe UI" size="52"><b>Các lực lượng cố ngăn chặn độc lập
+ngược lại đã phải chịu tổn thất nặng nề.</b></font>
+
+210
+00:15:56,220 --> 00:16:02,560
+<font face="Segoe UI" size="52"><b>Nhưng Kuzan đã liên kết với các cường quốc tiên tiến để thao túng người Qhardi
+nhằm kiềm chế các nước láng giềng.</b></font>
+
+211
+00:16:02,900 --> 00:16:07,190
+<font face="Segoe UI" size="52"><b>Đó là một cuộc chiến tranh giành độc lập bị biến thành tốt thí,
+và đất nước này dính líu đặc biệt sâu đậm.</b></font>
+
+212
+00:16:07,190 --> 00:16:12,360
+<font face="Segoe UI" size="52"><b>Sau chiến tranh chẳng ai công nhận nền độc lập của người Qhardi,
+và quân du kích đã bị giải tán rồi tàn sát.</b></font>
+
+213
+00:16:12,360 --> 00:16:18,680
+<font face="Segoe UI" size="52"><b>Nhưng thủ lĩnh đã chết của họ thực chất vẫn còn sống,
+và hắn đã phát triển một loại virus đặc biệt đi trước tất cả các viện nghiên cứu trên thế giới,</b></font>
+
+214
+00:16:18,680 --> 00:16:22,350
+<font face="Segoe UI" size="52"><b>rồi đổi tên thành Fire-Starter và bắt đầu công cuộc trả thù...</b></font>
+
+215
+00:16:22,350 --> 00:16:24,500
+<font face="Segoe UI" size="52"><b>Tôi hiểu logic đó, nhưng chuyện đó thực sự khả thi sao?</b></font>
+
+216
+00:16:24,500 --> 00:16:29,080
+<font face="Segoe UI" size="52"><b>Ở một vùng chiến sự, cậu có thể làm mọi thí nghiệm trên người tùy thích.</b></font>
+
+217
+00:16:29,080 --> 00:16:30,770
+<font face="Segoe UI" size="52"><b>Chẳng có gì đáng ngạc nhiên cả, thực sự đấy.</b></font>
+
+218
+00:16:30,770 --> 00:16:32,970
+<font face="Segoe UI" size="52"><b>Scylla đã chết rồi.</b></font>
+
+219
+00:16:33,420 --> 00:16:35,300
+<font face="Segoe UI" size="52"><b>Vậy là một kẻ kế vị của hắn sao?</b></font>
+
+220
+00:16:35,300 --> 00:16:38,990
+<font face="Segoe UI" size="52"><b>Dù sao đi nữa, kẻ môi giới không thể nào rao bán nó mà không biết công dụng của nó.</b></font>
+
+221
+00:16:39,820 --> 00:16:44,690
+<font face="Segoe UI" size="52"><b>Vậy hắn muốn dùng đám du kích đó để lặp lại chiến dịch đường hầm cũ ở đây sao?</b></font>
+
+222
+00:16:44,980 --> 00:16:48,470
+<font face="Segoe UI" size="52"><b>Tôi thấy cấn ở chỗ không ai trong số chúng mang theo kíp nổ cả.</b></font>
+
+223
+00:16:49,900 --> 00:16:51,750
+<font face="Segoe UI" size="52"><b>Borma, hãy kiểm tra hiện trường vụ án.</b></font>
+
+224
+00:16:51,750 --> 00:16:52,680
+<font face="Segoe UI" size="52"><b>Rõ.</b></font>
+
+225
+00:16:52,680 --> 00:16:57,160
+<font face="Segoe UI" size="52"><b>Paz, cậu và Saito hãy đến thăm dò băng đảng đó. Tôi muốn biết ai đã huấn luyện chúng.</b></font>
+
+226
+00:16:57,570 --> 00:17:00,330
+<font face="Segoe UI" size="52"><b>Batou và Ishikawa, hai người hãy xem xét khả năng xảy ra chiến dịch đường hầm.</b></font>
+
+227
+00:17:00,830 --> 00:17:04,830
+<font face="Segoe UI" size="52"><b>Cô có định lặn vào não điện tử của đám du kích để tìm con virus đó không?</b></font>
+
+228
+00:17:07,320 --> 00:17:09,560
+<font face="Segoe UI" size="52"><b>Tôi sẽ đi tinh chỉnh lại cơ thể mình trước đã.</b></font>
+
+229
+00:17:13,510 --> 00:17:14,720
+<font face="Segoe UI" size="52"><b>Tinh chỉnh sao?</b></font>
+
+230
+00:17:14,720 --> 00:17:18,260
+<font face="Segoe UI" size="52"><b>Bạn trai cô ấy đấy. Gã là một kỹ thuật viên thể máy cựu quân đội.</b></font>
+
+231
+00:17:18,260 --> 00:17:20,000
+<font face="Segoe UI" size="52"><b>Chẳng phải gã đó là lính thủy quân lục chiến sao?</b></font>
+
+232
+00:17:20,000 --> 00:17:21,560
+<font face="Segoe UI" size="52"><b>Đó là người trước rồi.</b></font>
+
+233
+00:17:21,560 --> 00:17:25,270
+<font face="Segoe UI" size="52"><b>Họ cãi nhau trong buổi hẹn hò,
+và cô ấy sút vào mông hắn mạnh đến mức hắn phải nhập viện.</b></font>
+
+234
+00:17:26,630 --> 00:17:28,680
+<font face="Segoe UI" size="52"><b>Thế còn gã nhà giàu bên Cục Não điện tử thì sao?</b></font>
+
+235
+00:17:28,680 --> 00:17:30,860
+<font face="Segoe UI" size="52"><b>Hắn ta trụ không nổi hai tuần.</b></font>
+
+236
+00:17:30,860 --> 00:17:33,820
+<font face="Segoe UI" size="52"><b>Vậy đây là người thứ sáu trong sáu tháng rồi à? Cô ấy bị bệnh nặng rồi.</b></font>
+
+237
+00:17:33,820 --> 00:17:37,360
+<font face="Segoe UI" size="52"><b>Không, đó là bản năng. Tôi cũng chẳng bao giờ ngủ với một người phụ nữ hai lần.</b></font>
+
+238
+00:17:37,760 --> 00:17:40,280
+<font face="Segoe UI" size="52"><b>Bởi vì anh luôn kết thúc bằng việc trở thành con tin hoặc mục tiêu trả thù chứ gì?</b></font>
+
+239
+00:17:40,280 --> 00:17:41,910
+<font face="Segoe UI" size="52"><b>Không, bởi vì đó là nguyên tắc của tôi.</b></font>
+
+240
+00:17:42,220 --> 00:17:46,020
+<font face="Segoe UI" size="52"><b>Ít nhất cũng phải điều tra lý lịch nhanh chứ! Lỡ một trong số họ là cái bẫy thì sao?</b></font>
+
+241
+00:17:46,020 --> 00:17:48,590
+<font face="Segoe UI" size="52"><b>Dù sao cũng đỡ hơn việc phải nghe câu: "Em muốn có một gia đình".</b></font>
+
+242
+00:17:48,590 --> 00:17:50,930
+<font face="Segoe UI" size="52"><b>Ừ, dù sao thì anh có thể chết bất cứ lúc nào mà.</b></font>
+
+243
+00:17:50,930 --> 00:17:53,590
+<font face="Segoe UI" size="52"><b>Đây không phải là công việc dành cho người đàn ông của gia đình.</b></font>
+
+244
+00:17:59,340 --> 00:18:02,960
+<font face="Segoe UI" size="52"><b>Vậy là khẩu súng của cố thanh tra vẫn chưa được tìm thấy sao?</b></font>
+
+245
+00:18:02,960 --> 00:18:05,530
+<font face="Segoe UI" size="52"><b>Nếu Thanh tra Mizuki đã nổ súng,</b></font>
+
+246
+00:18:05,530 --> 00:18:08,310
+<font face="Segoe UI" size="52"><b>điều đó sẽ chứng minh đây là một vụ án mạng, chứ không phải tai nạn.</b></font>
+
+247
+00:18:08,620 --> 00:18:11,020
+<font face="Segoe UI" size="52"><b>Cậu nghĩ có kẻ muốn ngụy tạo nó thành một vụ tai nạn sao?</b></font>
+
+248
+00:18:11,400 --> 00:18:15,280
+<font face="Segoe UI" size="52"><b>Nguyên nhân tử vong là do ngạt nước,
+nhưng anh ấy đã mất rất nhiều máu trước khi chết,</b></font>
+
+249
+00:18:15,280 --> 00:18:17,990
+<font face="Segoe UI" size="52"><b>và vài mảnh xương của anh ấy bị biến mất.</b></font>
+
+250
+00:18:18,470 --> 00:18:24,200
+<font face="Segoe UI" size="52"><b>Thi thể bị hủy hoại quá nặng để kết luận, nhưng có thể anh ấy đã bị bắn.</b></font>
+
+251
+00:18:24,200 --> 00:18:27,600
+<font face="Segoe UI" size="52"><b>Thanh tra Mizuki từng điều tra đường dây buôn lậu vũ khí.</b></font>
+
+252
+00:18:27,600 --> 00:18:30,570
+<font face="Segoe UI" size="52"><b>Cuộc gặp gần đây nhất của anh ấy là với một tổ chức người Qhardi.</b></font>
+
+253
+00:18:30,570 --> 00:18:33,960
+<font face="Segoe UI" size="52"><b>Tôi nghi ngờ anh ấy bị sát hại vì đã tìm ra chứng cứ.</b></font>
+
+254
+00:18:34,600 --> 00:18:39,930
+<font face="Segoe UI" size="52"><b>Cậu cảm thấy vụ nổ con đập là cố ý, được dàn dựng để chôn vùi bằng chứng sao?</b></font>
+
+255
+00:18:40,540 --> 00:18:42,810
+<font face="Segoe UI" size="52"><b>Trí tưởng tượng của cậu phong phú đấy.</b></font>
+
+256
+00:18:42,810 --> 00:18:45,110
+<font face="Segoe UI" size="52"><b>Sếp từ chối tôi sao?</b></font>
+
+257
+00:18:45,110 --> 00:18:47,770
+<font face="Segoe UI" size="52"><b>Không, tôi thích điều đó. Tôi cho phép cậu điều tra.</b></font>
+
+258
+00:18:48,090 --> 00:18:50,480
+<font face="Segoe UI" size="52"><b>Hãy cố tìm ra mối liên hệ giữa các vụ việc đi.</b></font>
+
+259
+00:18:51,540 --> 00:18:52,470
+<font face="Segoe UI" size="52"><b>Một mình tôi sao?</b></font>
+
+260
+00:18:53,220 --> 00:18:54,230
+<font face="Segoe UI" size="52"><b>Cậu phàn nàn đấy à?</b></font>
+
+261
+00:18:55,140 --> 00:18:56,200
+<font face="Segoe UI" size="52"><b>Tôi cảm ơn sếp nhiều lắm!</b></font>
+
+262
+00:19:00,400 --> 00:19:03,920
+<font face="Segoe UI" size="52"><b>Con người không bao giờ có thể tái tạo hoàn hảo các chuyển động.</b></font>
+
+263
+00:19:03,920 --> 00:19:09,050
+<font face="Segoe UI" size="52"><b>Một độ dốc nhỏ, khoảng cách tới mục tiêu, chênh lệch vài miligram trọng lượng...</b></font>
+
+264
+00:19:09,050 --> 00:19:13,690
+<font face="Segoe UI" size="52"><b>Bộ não tính toán tất cả những điều đó để tạo ra những chuyển động chưa từng biết đến.</b></font>
+
+265
+00:19:13,690 --> 00:19:18,520
+<font face="Segoe UI" size="52"><b>Em sở hữu bộ não nguyên bản độc đáo nhất mà anh từng biết,
+và em thấu hiểu vẻ đẹp của các tiêu chuẩn đồng nhất.</b></font>
+
+266
+00:19:20,940 --> 00:19:22,140
+<font face="Segoe UI" size="52"><b>Anh đang tâng bốc quá lời rồi đấy.</b></font>
+
+267
+00:19:22,440 --> 00:19:23,790
+<font face="Segoe UI" size="52"><b>Không có vấn đề gì với em cả.</b></font>
+
+268
+00:19:25,140 --> 00:19:26,100
+<font face="Segoe UI" size="52"><b>Nó vẫn còn đau sao?</b></font>
+
+269
+00:19:29,580 --> 00:19:31,100
+<font face="Segoe UI" size="52"><b>Thử cử động chân phải của em xem.</b></font>
+
+270
+00:19:33,710 --> 00:19:34,670
+<font face="Segoe UI" size="52"><b>Đáng yêu thật.</b></font>
+
+271
+00:19:36,700 --> 00:19:38,080
+<font face="Segoe UI" size="52"><b>Cái gì "đáng yêu" cơ?</b></font>
+
+272
+00:19:38,080 --> 00:19:39,180
+<font face="Segoe UI" size="52"><b>Đôi chân của em.</b></font>
+
+273
+00:19:42,940 --> 00:19:44,450
+<font face="Segoe UI" size="52"><b>Cơn đau biến mất rồi.</b></font>
+
+274
+00:19:45,460 --> 00:19:47,130
+<font face="Segoe UI" size="52"><b>Gửi hóa đơn cho em đi.</b></font>
+
+275
+00:19:47,130 --> 00:19:50,490
+<font face="Segoe UI" size="52"><b>Anh sẽ giảm giá cho em. Đổi lại, đừng quên lời hứa của chúng ta đấy.</b></font>
+
+276
+00:19:50,490 --> 00:19:52,280
+<font face="Segoe UI" size="52"><b>Anh đúng là một người đàn ông kỳ lạ.</b></font>
+
+277
+00:19:52,280 --> 00:19:53,630
+<font face="Segoe UI" size="52"><b>Chẳng kỳ lạ bằng em đâu.</b></font>
+
+278
+00:20:08,290 --> 00:20:10,690
+<font face="Segoe UI" size="52"><b>Này, anh bạn. Anh đang chắn tầm quét của tôi đấy.</b></font>
+
+279
+00:20:10,690 --> 00:20:12,270
+<font face="Segoe UI" size="52"><b>Ồ, xin lỗi.</b></font>
+
+280
+00:20:13,050 --> 00:20:16,100
+<font face="Segoe UI" size="52"><b>Mắt thịt tự nhiên thì có tích sự gì trong thời đại mạng này chứ?</b></font>
+
+281
+00:20:16,100 --> 00:20:19,140
+<font face="Segoe UI" size="52"><b>Bình thường đâu có khó tìm tâm chấn vụ nổ đến mức này.</b></font>
+
+282
+00:20:19,140 --> 00:20:22,040
+<font face="Segoe UI" size="52"><b>Anh hiểu biết nhiều về quá trình cháy nổ nhỉ?</b></font>
+
+283
+00:20:22,040 --> 00:20:24,640
+<font face="Segoe UI" size="52"><b>Tôi học được những điều cơ bản ở nước ngoài trong thời chiến.</b></font>
+
+284
+00:20:24,640 --> 00:20:25,990
+<font face="Segoe UI" size="52"><b>Tôi hiểu rồi.</b></font>
+
+285
+00:20:27,050 --> 00:20:28,490
+<font face="Segoe UI" size="52"><b>Anh là thể nhân tạo toàn phần à?</b></font>
+
+286
+00:20:28,490 --> 00:20:30,140
+<font face="Segoe UI" size="52"><b>Ừ, gần như vậy.</b></font>
+
+287
+00:20:31,260 --> 00:20:37,300
+<font face="Segoe UI" size="52"><b>Tôi không phải chuyên gia, nhưng trừ khi lắp bộ khung xương chuyên dụng,
+chẳng phải cấu tạo cơ bản cũng giống cơ thể người sao?</b></font>
+
+288
+00:20:37,300 --> 00:20:40,200
+<font face="Segoe UI" size="52"><b>Nhưng hai bàn tay anh ta vẫn mở rộng sau khi bị thiêu cháy...</b></font>
+
+289
+00:20:40,200 --> 00:20:40,960
+<font face="Segoe UI" size="52"><b>Cái gì cơ?</b></font>
+
+290
+00:20:41,430 --> 00:20:47,220
+<font face="Segoe UI" size="52"><b>Khi một người bình thường bị thiêu chết, các cơ sẽ co rút lại,
+khiến bàn tay nắm chặt và cơ thể gập về phía trước.</b></font>
+
+291
+00:20:47,220 --> 00:20:50,080
+<font face="Segoe UI" size="52"><b>Tư thế thai nhi, hoặc, anh biết đấy, tư thế võ sĩ quyền anh.</b></font>
+
+292
+00:20:50,080 --> 00:20:51,870
+<font face="Segoe UI" size="52"><b>Co cứng do nhiệt à?</b></font>
+
+293
+00:20:51,870 --> 00:20:52,930
+<font face="Segoe UI" size="52"><b>Thế thì sao nào?</b></font>
+
+294
+00:20:53,340 --> 00:20:55,410
+<font face="Segoe UI" size="52"><b>Thi thể người bảo vệ này</b></font>
+
+295
+00:20:56,530 --> 00:20:59,360
+<font face="Segoe UI" size="52"><b>lại đứng thẳng tắp, hai bàn tay mở rộng.</b></font>
+
+296
+00:20:59,360 --> 00:21:02,870
+<font face="Segoe UI" size="52"><b>Ắt hẳn là do đặc tính của thể máy của anh ta, hoặc là do loại bom.</b></font>
+
+297
+00:21:02,870 --> 00:21:03,720
+<font face="Segoe UI" size="52"><b>Thể máy sao?</b></font>
+
+298
+00:21:10,650 --> 00:21:11,410
+<font face="Segoe UI" size="52"><b>Alo?</b></font>
+
+299
+00:21:13,400 --> 00:21:14,750
+<font face="Segoe UI" size="52"><b>Ồ, khám thai à?</b></font>
+
+300
+00:21:15,520 --> 00:21:16,720
+<font face="Segoe UI" size="52"><b>Hai tuần nữa sao?</b></font>
+
+301
+00:21:17,700 --> 00:21:18,480
+<font face="Segoe UI" size="52"><b>Anh nhớ rồi.</b></font>
+
+302
+00:21:19,260 --> 00:21:21,340
+<font face="Segoe UI" size="52"><b>Không, anh đang làm việc, xin lỗi nhé.</b></font>
+
+303
+00:21:21,830 --> 00:21:22,760
+<font face="Segoe UI" size="52"><b>"Khám thai"?</b></font>
+
+304
+00:21:25,040 --> 00:21:26,510
+<font face="Segoe UI" size="52"><b>Xin lỗi vì đã làm phiền anh.</b></font>
+
+305
+00:21:35,310 --> 00:21:38,900
+<font face="Segoe UI" size="52"><b>C-4 và thuốc nổ dynamite, glycerin, và phân bón hóa học...</b></font>
+
+306
+00:21:39,220 --> 00:21:41,160
+<font face="Segoe UI" size="52"><b>Một nơi ẩn náu y hệt bước ra từ sách giáo khoa.</b></font>
+
+307
+00:21:42,300 --> 00:21:44,710
+<font face="Segoe UI" size="52"><b>Đậm đặc phong cách của một kẻ cuồng bom.</b></font>
+
+308
+00:21:45,630 --> 00:21:48,820
+<font face="Segoe UI" size="52"><b>Nhưng tôi chẳng có manh mối nào về thứ chúng thực sự đã dùng.</b></font>
+
+309
+00:21:49,140 --> 00:21:50,780
+<font face="Segoe UI" size="52"><b>Mệnh lệnh đang được truyền xuống đường dây của chúng!</b></font>
+
+310
+00:21:51,440 --> 00:21:54,500
+<font face="Segoe UI" size="52"><b>Một kẻ tự xưng là Scylla vừa ra lệnh cho "Đạo quân Thứ hai" xuất kích.</b></font>
+
+311
+00:21:54,500 --> 00:21:57,710
+<font face="Segoe UI" size="52"><b>Đồ khốn kiếp! Động thái của An ninh Công cộng đang bị rò rỉ!</b></font>
+
+312
+00:22:03,630 --> 00:22:06,870
+<font face="Segoe UI" size="52"><b>Máy chủ của Cục Cấp nước vừa phát nổ, thổi bay toàn bộ tầng lầu.</b></font>
+
+313
+00:22:06,870 --> 00:22:08,240
+<font face="Segoe UI" size="52"><b>Chúng đã sử dụng thứ gì thế?</b></font>
+
+314
+00:22:08,240 --> 00:22:13,280
+<font face="Segoe UI" size="52"><b>Chất gia tốc cháy tại hiện trường Nishinouchi lan tỏa khắp trần nhà, thậm chí cả các đường ống dẫn.</b></font>
+
+315
+00:22:13,280 --> 00:22:17,790
+<font face="Segoe UI" size="52"><b>Chúng ta đang nói về vụ nổ đa hướng. Chính không khí đã phát nổ.</b></font>
+
+316
+00:22:17,790 --> 00:22:18,980
+<font face="Segoe UI" size="52"><b>Bom nhiệt áp (nổ thể khí / FAE) sao?</b></font>
+
+317
+00:22:18,980 --> 00:22:20,840
+<font face="Segoe UI" size="52"><b>Vậy thì đây chỉ là một nơi ẩn náu bù nhìn thôi.</b></font>
+
+318
+00:22:20,840 --> 00:22:23,940
+<font face="Segoe UI" size="52"><b>Bọn chúng có một phòng chế tạo bom tối tân hơn ở đâu đó.</b></font>
+
+319
+00:22:28,820 --> 00:22:31,870
+<font face="Segoe UI" size="52"><b>Tên anh hùng du kích chết tiệt đang gửi lời thách thức đấy.</b></font>
+
+320
+00:22:38,700 --> 00:22:40,790
+<font face="Segoe UI" size="52"><b>Cục Cấp nước đang bắt đầu công tác sửa chữa.</b></font>
+
+321
+00:22:40,790 --> 00:22:43,800
+<font face="Segoe UI" size="52"><b>Rất có thể tên hacker đã đột nhập vào trong rồi!</b></font>
+
+322
+00:22:43,800 --> 00:22:45,620
+<font face="Segoe UI" size="52"><b>Hãy tìm ra mục tiêu tiếp theo của chúng.</b></font>
+
+323
+00:22:45,620 --> 00:22:47,520
+<font face="Segoe UI" size="52"><b>Đừng để chúng đào thêm bất kỳ đường hầm nào nữa.</b></font>
+
+324
+00:23:07,890 --> 00:23:09,320
+<font face="Segoe UI" size="52"><b>Tôi rất cảm kích sự hợp tác của anh.</b></font>
+
+325
+00:23:10,060 --> 00:23:12,320
+<font face="Segoe UI" size="52"><b>Tôi quen với việc bị cảnh sát thẩm vấn rồi.</b></font>
+
+326
+00:23:12,320 --> 00:23:14,780
+<font face="Segoe UI" size="52"><b>Gần đây có rất nhiều vụ trộm cắp thể máy.</b></font>
+
+327
+00:23:15,420 --> 00:23:18,290
+<font face="Segoe UI" size="52"><b>"Đôi chân Người cá", hả?</b></font>
+
+328
+00:23:18,750 --> 00:23:21,500
+<font face="Segoe UI" size="52"><b>Không phải cái tên nghệ thuật cho lắm, nhưng rất dễ hiểu.</b></font>
+
+329
+00:23:21,860 --> 00:23:24,020
+<font face="Segoe UI" size="52"><b>Khách hàng nữ của tôi khá thích nó.</b></font>
+
+330
+00:23:24,020 --> 00:23:26,210
+<font face="Segoe UI" size="52"><b>Anh có nhận ra đôi chân này không?</b></font>
+
+331
+00:23:28,810 --> 00:23:30,380
+<font face="Segoe UI" size="52"><b>Trông nó có vẻ là mẫu sản xuất hàng loạt.</b></font>
+
+332
+00:23:30,780 --> 00:23:32,250
+<font face="Segoe UI" size="52"><b>Hãy nhìn vào nhãn hiệu đi.</b></font>
+
+333
+00:23:34,340 --> 00:23:35,310
+<font face="Segoe UI" size="52"><b>"Ariel".</b></font>
+
+334
+00:23:35,900 --> 00:23:39,600
+<font face="Segoe UI" size="52"><b>Tôi đã dò hỏi khắp nơi, không có mẫu nào như vậy trên thị trường cả.</b></font>
+
+335
+00:23:39,600 --> 00:23:41,220
+<font face="Segoe UI" size="52"><b>Tôi cũng không bán loại đó.</b></font>
+
+336
+00:23:41,220 --> 00:23:43,270
+<font face="Segoe UI" size="52"><b>Nó hẳn là tên thương hiệu của một nhà thiết kế được cấp phép.</b></font>
+
+337
+00:23:43,900 --> 00:23:48,430
+<font face="Segoe UI" size="52"><b>Các nhà thiết kế lấy mẫu sản xuất hàng loạt làm nền tảng rồi cải tiến để đáp ứng yêu cầu của khách hàng.</b></font>
+
+338
+00:23:48,430 --> 00:23:49,610
+<font face="Segoe UI" size="52"><b>Có gợi ý nào không?</b></font>
+
+339
+00:23:50,560 --> 00:23:52,320
+<font face="Segoe UI" size="52"><b>Tôi sẽ đưa cho anh danh sách của tôi.</b></font>
+
+340
+00:23:52,780 --> 00:23:54,150
+<font face="Segoe UI" size="52"><b>Xin chờ một chút.</b></font>
+
+341
+00:23:55,180 --> 00:23:56,240
+<font face="Segoe UI" size="52"><b>Cảm ơn anh.</b></font>
+
+342
+00:24:05,440 --> 00:24:06,960
+<font face="Segoe UI" size="52"><b>Cảnh sát khoái danh sách lắm.</b></font>
+
+343
+00:24:07,460 --> 00:24:09,280
+<font face="Segoe UI" size="52"><b>Hắn ta sẽ tiện thể bị cuốn vào đó một thời gian.</b></font>
+
+344
+00:24:09,280 --> 00:24:11,840
+<font face="Segoe UI" size="52"><b>An ninh Công cộng đã chiếm được nơi ẩn náu nghi binh của chúng ta.</b></font>
+
+345
+00:24:11,840 --> 00:24:15,140
+<font face="Segoe UI" size="52"><b>Đường truyền liên lạc ở đây có an toàn không, Đại tá Hozumi?</b></font>
+
+346
+00:24:15,500 --> 00:24:18,640
+<font face="Segoe UI" size="52"><b>Đừng lo. Đó là một trong những đường truyền độc lập của Cục Tình báo.</b></font>
+
+347
+00:24:18,640 --> 00:24:21,100
+<font face="Segoe UI" size="52"><b>Tại sao bà vẫn chưa trừ khử tên thanh tra đó?</b></font>
+
+348
+00:24:21,100 --> 00:24:24,060
+<font face="Segoe UI" size="52"><b>Hắn là một gã lập dị, nhưng chẳng có kẻ chống lưng quyền lực nào cả.</b></font>
+
+349
+00:24:24,620 --> 00:24:26,790
+<font face="Segoe UI" size="52"><b>Vấn đề thực sự là Ariel đã bị rò rỉ.</b></font>
+
+350
+00:24:26,790 --> 00:24:30,960
+<font face="Segoe UI" size="52"><b>Chúng tôi đã thu hồi mẫu thử trước khi nó bị phân tích, và nhà máy đã được dọn dẹp sạch sẽ.</b></font>
+
+351
+00:24:30,960 --> 00:24:33,310
+<font face="Segoe UI" size="52"><b>Tôi không ngờ bà lại hoảng loạn và cho nổ tung nó.</b></font>
+
+352
+00:24:33,310 --> 00:24:36,370
+<font face="Segoe UI" size="52"><b>Chúng ta may mắn là Ariel đã được lắp đặt kịp thời.</b></font>
+
+353
+00:24:36,370 --> 00:24:39,290
+<font face="Segoe UI" size="52"><b>Bà suýt nữa đã cản trở nghiêm trọng kế hoạch của chúng ta rồi đấy.</b></font>
+
+354
+00:24:39,660 --> 00:24:43,250
+<font face="Segoe UI" size="52"><b>Ariel là phương thức để tuồn chất nổ cho người Qhardi!</b></font>
+
+355
+00:24:43,700 --> 00:24:44,830
+<font face="Segoe UI" size="52"><b>Nó không phải dành cho những kẻ đánh bom tự sát!</b></font>
+
+356
+00:24:45,650 --> 00:24:47,450
+<font face="Segoe UI" size="52"><b>Tình thế đã thay đổi rồi.</b></font>
+
+357
+00:24:47,450 --> 00:24:53,050
+<font face="Segoe UI" size="52"><b>Nếu các dự án phát triển vũ khí ở nước ngoài chuyển thành nội địa, các kênh phân phối sẽ biến mất.</b></font>
+
+358
+00:24:53,550 --> 00:24:55,510
+<font face="Segoe UI" size="52"><b>Những người lính Qhardi chỉ là những con tốt thí thôi sao?</b></font>
+
+359
+00:24:55,850 --> 00:24:57,320
+<font face="Segoe UI" size="52"><b>Chúng ta đang nâng cấp.</b></font>
+
+360
+00:24:57,320 --> 00:25:00,880
+<font face="Segoe UI" size="52"><b>Fire-Starter có thể tạo ra bao nhiêu binh lính tùy thích.</b></font>
+
+361
+00:25:00,880 --> 00:25:03,230
+<font face="Segoe UI" size="52"><b>Hãy giải cứu đơn vị vừa bị bắt giữ đi.</b></font>
+
+362
+00:25:03,850 --> 00:25:05,760
+<font face="Segoe UI" size="52"><b>Tôi sẽ không giao dữ liệu cho bà cho đến khi việc đó được thực hiện.</b></font>
+
+363
+00:25:06,750 --> 00:25:08,690
+<font face="Segoe UI" size="52"><b>Bọn chúng thậm chí còn không phải đồng bào của anh.</b></font>
+
+364
+00:25:09,340 --> 00:25:11,860
+<font face="Segoe UI" size="52"><b>Scylla sẽ không bao giờ bỏ rơi họ.</b></font>
+
+365
+00:25:13,720 --> 00:25:17,620
+<font face="Segoe UI" size="52"><b>Được thôi. Vẫn còn ba bộ Ariel có thể sử dụng được.</b></font>
+
+366
+00:25:17,970 --> 00:25:20,580
+<font face="Segoe UI" size="52"><b>Một trong số đó nằm trong sân nhà của anh.</b></font>
+
+367
+00:25:21,490 --> 00:25:23,040
+<font face="Segoe UI" size="52"><b>Nhất thiết phải là cô ấy sao?</b></font>
+
+368
+00:25:23,530 --> 00:25:25,240
+<font face="Segoe UI" size="52"><b>Đã nảy sinh tình cảm với cô ta rồi à?</b></font>
+
+369
+00:25:25,240 --> 00:25:27,250
+<font face="Segoe UI" size="52"><b>Kích hoạt bộ Ariel của ả đàn bà đó đi.</b></font>
+
+370
+00:25:27,700 --> 00:25:30,500
+<font face="Segoe UI" size="52"><b>Thả đồng minh của chúng ta ra trước. Hiểu chưa?</b></font>
+
+371
+00:25:56,130 --> 00:25:57,030
+<font face="Segoe UI" size="52"><b>Lên xe đi cùng tôi.</b></font>
+
+372
+00:26:03,510 --> 00:26:07,470
+<font face="Segoe UI" size="52"><b>Cô không nói với ai chuyện tôi và cô đã giết Scylla đấy chứ?</b></font>
+
+373
+00:26:07,470 --> 00:26:08,490
+<font face="Segoe UI" size="52"><b>Không.</b></font>
+
+374
+00:26:08,490 --> 00:26:11,240
+<font face="Segoe UI" size="52"><b>Chiến dịch đó là một vết nhơ trong hồ sơ của cả hai chúng ta.</b></font>
+
+375
+00:26:11,240 --> 00:26:13,890
+<font face="Segoe UI" size="52"><b>Sẽ vô cùng bất tiện nếu chuyện đó bị khơi lại vào lúc này.</b></font>
+
+376
+00:26:13,890 --> 00:26:17,930
+<font face="Segoe UI" size="52"><b>Tôi thấy cô vui vẻ lao vào trò chơi quyền lực ngay khi vừa lên Trung tá nhỉ.</b></font>
+
+377
+00:26:18,530 --> 00:26:22,580
+<font face="Segoe UI" size="52"><b>Bọn họ đã dùng tổ hợp công nghiệp quân sự để trục lợi từ cái chết.</b></font>
+
+378
+00:26:22,580 --> 00:26:28,780
+<font face="Segoe UI" size="52"><b>Tôi sẽ xóa sổ chúng, phát triển mạnh ngành kỹ thuật vũ khí nội địa, và chặt đứt các tuyến đường thương mại tới các tập đoàn ngoại quốc.</b></font>
+
+379
+00:26:28,780 --> 00:26:31,150
+<font face="Segoe UI" size="52"><b>Trung tá Mamuro từng mong muốn điều đó.</b></font>
+
+380
+00:26:31,590 --> 00:26:33,820
+<font face="Segoe UI" size="52"><b>Tôi sẽ không chơi trò chơi của cô đâu.</b></font>
+
+381
+00:26:34,220 --> 00:26:36,890
+<font face="Segoe UI" size="52"><b>Scylla là một trò chơi mà cô không thể bỏ cuộc giữa chừng.</b></font>
+
+382
+00:26:36,890 --> 00:26:38,990
+<font face="Segoe UI" size="52"><b>Hắn buộc phải tiếp tục chết.</b></font>
+
+383
+00:26:39,960 --> 00:26:41,530
+<font face="Segoe UI" size="52"><b>Cô từng dùng thứ này trước đây rồi.</b></font>
+
+384
+00:26:42,740 --> 00:26:46,190
+<font face="Segoe UI" size="52"><b>Hãy chôn vùi nó cùng bất kỳ kẻ nào đang mượn danh Scylla—lần này là vĩnh viễn.</b></font>
+
+385
+00:26:46,190 --> 00:26:49,720
+<font face="Segoe UI" size="52"><b>Nếu không thì cấp trên sẽ chôn vùi chính cô, cùng với chiến dịch đó đấy.</b></font>
+
+386
+00:26:58,200 --> 00:27:01,640
+<font face="Segoe UI" size="52"><b>Độc lập khỏi hệ thống không có nghĩa là cô được tự do.</b></font>
+
+387
+00:27:01,640 --> 00:27:06,060
+<font face="Segoe UI" size="52"><b>Cô chẳng khác nào đám lập trình viên của thế kỷ trước,
+những kẻ đã kỳ vọng quá nhiều vào sự ra đời của Mạng lưới.</b></font>
+
+388
+00:27:06,790 --> 00:27:10,440
+<font face="Segoe UI" size="52"><b>Ngay cả Đội 9 cũng chỉ đang để cô làm theo ý mình nhằm thử thách cô thôi.</b></font>
+
+389
+00:27:10,440 --> 00:27:14,620
+<font face="Segoe UI" size="52"><b>Khi cần thiết, họ sẽ khống chế cô bằng một chiếc chìa khóa thâm nhập Hồn rồi thủ tiêu cô.</b></font>
+
+390
+00:27:14,620 --> 00:27:17,930
+<font face="Segoe UI" size="52"><b>Tôi không có ý định để bất kỳ ai thâm nhập vào Hồn của mình một lần nữa đâu.</b></font>
+
+391
+00:27:17,930 --> 00:27:19,780
+<font face="Segoe UI" size="52"><b>Bất kể người đó là ai đi nữa.</b></font>
+
+392
+00:27:26,470 --> 00:27:28,560
+<font face="Segoe UI" size="52"><b>Người phụ nữ đó là Kusanagi Motoko sao?</b></font>
+
+393
+00:27:29,260 --> 00:27:31,180
+<font face="Segoe UI" size="52"><b>Phải, tiền bối của cô đấy.</b></font>
+
+394
+00:27:31,180 --> 00:27:32,210
+<font face="Segoe UI" size="52"><b>Cô có thể thắng không?</b></font>
+
+395
+00:27:35,780 --> 00:27:37,530
+<font face="Segoe UI" size="52"><b>Nếu bà muốn.</b></font>
+
+396
+00:28:03,860 --> 00:28:05,620
+<font face="Segoe UI" size="52"><b>Em thực sự đã đến sao?</b></font>
+
+397
+00:28:06,280 --> 00:28:07,700
+<font face="Segoe UI" size="52"><b>Em đã hứa rồi mà.</b></font>
+
+398
+00:28:08,630 --> 00:28:10,470
+<font face="Segoe UI" size="52"><b>Anh chưa chuẩn bị được gì cả.</b></font>
+
+399
+00:28:10,470 --> 00:28:11,660
+<font face="Segoe UI" size="52"><b>Em đoán được rồi.</b></font>
+
+400
+00:28:18,300 --> 00:28:20,550
+<font face="Segoe UI" size="52"><b>Nhưng trước tiên, chúng ta sẽ giải quyết việc này đã.</b></font>
+
+401
+00:28:32,340 --> 00:28:37,240
+<font face="Segoe UI" size="52"><b>Tôi đã kiểm tra băng đảng Qhardi, nhưng không có dấu vết nào về chỉ huy chiến thuật của chúng.</b></font>
+
+402
+00:28:37,240 --> 00:28:40,570
+<font face="Segoe UI" size="52"><b>À, nhưng tôi đã có được máy chủ cho thuê mà chúng đã dùng.</b></font>
+
+403
+00:28:41,230 --> 00:28:43,410
+<font face="Segoe UI" size="52"><b>Nhiều kẻ xâm nhập vào một cơ sở công cộng...</b></font>
+
+404
+00:28:43,410 --> 00:28:45,600
+<font face="Segoe UI" size="52"><b>Lũ khốn đó đã tiến triển rất tốt trên các đường hầm của chúng.</b></font>
+
+405
+00:28:45,600 --> 00:28:47,530
+<font face="Segoe UI" size="52"><b>Đã biết chúng đang hướng tới đâu chưa?</b></font>
+
+406
+00:28:47,840 --> 00:28:50,430
+<font face="Segoe UI" size="52"><b>Nơi nào đó liên quan đến nước và máy móc chính xác.</b></font>
+
+407
+00:28:50,430 --> 00:28:53,400
+<font face="Segoe UI" size="52"><b>Có 78 địa điểm trong thành phố phù hợp với mô tả đó.</b></font>
+
+408
+00:28:53,400 --> 00:28:55,040
+<font face="Segoe UI" size="52"><b>Kiểm tra tất cả bọn chúng đi.</b></font>
+
+409
+00:28:55,780 --> 00:29:00,000
+<font face="Segoe UI" size="52"><b>Chết tiệt... Thà làm nhà thầu phụ cho Cục Tình báo kiếm tiền còn dễ hơn.</b></font>
+
+410
+00:29:00,500 --> 00:29:03,090
+<font face="Segoe UI" size="52"><b>Vậy là, cô vẫn đang trong đợt "tinh chỉnh" đấy à?</b></font>
+
+411
+00:29:03,090 --> 00:29:05,470
+<font face="Segoe UI" size="52"><b>Phải. Tôi sẽ ngắt kết nối này một lát.</b></font>
+
+412
+00:29:06,490 --> 00:29:08,360
+<font face="Segoe UI" size="52"><b>Anh có thể nghe thấy tiếng ồn.</b></font>
+
+413
+00:29:08,360 --> 00:29:11,800
+<font face="Segoe UI" size="52"><b>Đồng nghiệp của em ra vào sảnh của em liên tục nhỉ?</b></font>
+
+414
+00:29:11,800 --> 00:29:13,310
+<font face="Segoe UI" size="52"><b>Em đuổi bọn họ đi hết rồi.</b></font>
+
+415
+00:29:13,730 --> 00:29:16,270
+<font face="Segoe UI" size="52"><b>Em có nghĩ anh sẽ có ngày được bước vào sảnh của em không?</b></font>
+
+416
+00:29:17,490 --> 00:29:19,970
+<font face="Segoe UI" size="52"><b>Nếu anh làm việc cùng em.</b></font>
+
+417
+00:29:19,970 --> 00:29:22,940
+<font face="Segoe UI" size="52"><b>Nếu em nói em cần thêm một người nữa, anh sẽ đến chứ?</b></font>
+
+418
+00:29:25,110 --> 00:29:27,700
+<font face="Segoe UI" size="52"><b>Được tinh chỉnh cho em bất cứ khi nào anh muốn là một lời đề nghị rất hấp dẫn,</b></font>
+
+419
+00:29:28,610 --> 00:29:31,030
+<font face="Segoe UI" size="52"><b>nhưng anh không muốn dính líu đến quân đội hay cảnh sát.</b></font>
+
+420
+00:29:32,100 --> 00:29:32,910
+<font face="Segoe UI" size="52"><b>Ồ.</b></font>
+
+421
+00:29:36,260 --> 00:29:38,360
+<font face="Segoe UI" size="52"><b>Anh vừa sơ cứu một chút cho các bộ phận cảm giác của em.</b></font>
+
+422
+00:29:38,360 --> 00:29:40,000
+<font face="Segoe UI" size="52"><b>Chúng ta hãy làm công việc chi tiết trong phòng thí nghiệm nhé.</b></font>
+
+423
+00:29:41,020 --> 00:29:42,800
+<font face="Segoe UI" size="52"><b>Cơn đau đã tan biến rồi.</b></font>
+
+424
+00:29:42,800 --> 00:29:44,380
+<font face="Segoe UI" size="52"><b>Phần còn lại em sẽ tự làm.</b></font>
+
+425
+00:29:48,890 --> 00:29:50,220
+<font face="Segoe UI" size="52"><b>Vậy thì chúng ta bắt đầu thôi.</b></font>
+
+426
+00:29:57,240 --> 00:29:59,560
+<font face="Segoe UI" size="52"><b>Anh vẫn nhớ lần đầu tiên gặp em đấy.</b></font>
+
+427
+00:30:00,620 --> 00:30:05,280
+<font face="Segoe UI" size="52"><b>Tất cả các kỹ sư khác đều bảo em là nữ hoàng khiếu nại khách hàng.</b></font>
+
+428
+00:30:05,550 --> 00:30:07,990
+<font face="Segoe UI" size="52"><b>Đó là lý do tại sao họ đẩy em cho một kẻ làm việc tự do như anh sao?</b></font>
+
+429
+00:30:08,680 --> 00:30:10,950
+<font face="Segoe UI" size="52"><b>Không phải đâu. Sự thật là, chính anh đã xin họ đấy.</b></font>
+
+430
+00:30:11,780 --> 00:30:12,460
+<font face="Segoe UI" size="52"><b>Cái gì cơ?</b></font>
+
+431
+00:30:13,820 --> 00:30:19,880
+<font face="Segoe UI" size="52"><b>Em không thể quyết định xem mình nên đối xử với cơ thể mình như một đồ vật hay một con người.</b></font>
+
+432
+00:30:21,220 --> 00:30:23,070
+<font face="Segoe UI" size="52"><b>Điều đó khiến anh thấy hứng thú với em.</b></font>
+
+433
+00:30:29,520 --> 00:30:34,720
+<font face="Segoe UI" size="52"><b>Ở cơ sở trước đây em từng ở, họ coi em là kẻ dị biệt
+vì em muốn ngủ trên giường và tắm dưới vòi sen.</b></font>
+
+434
+00:30:35,270 --> 00:30:38,210
+<font face="Segoe UI" size="52"><b>Khi em được lắp thể máy trên chiến trường, họ bảo em:</b></font>
+
+435
+00:30:38,210 --> 00:30:41,730
+<font face="Segoe UI" size="52"><b>"Một cyborg không cần cuộc sống thường ngày; hắn chỉ cần trang bị vũ khí thôi."</b></font>
+
+436
+00:30:42,980 --> 00:30:44,900
+<font face="Segoe UI" size="52"><b>Đó là lý do tại sao anh chuyển sang ngành kỹ thuật thể máy.</b></font>
+
+437
+00:30:46,170 --> 00:30:49,360
+<font face="Segoe UI" size="52"><b>Anh muốn trở thành một kỹ thuật viên đối xử với các cyborg như những con người.</b></font>
+
+438
+00:30:51,110 --> 00:30:55,870
+<font face="Segoe UI" size="52"><b>Hồi còn nhỏ, họ đã huấn luyện kỹ năng sống thường nhật cho em bên ngoài cơ sở.</b></font>
+
+439
+00:30:55,870 --> 00:30:58,330
+<font face="Segoe UI" size="52"><b>Để em học cách làm một con người hơn.</b></font>
+
+440
+00:30:59,260 --> 00:31:00,830
+<font face="Segoe UI" size="52"><b>Em không thực sự nhớ rõ về nó.</b></font>
+
+441
+00:31:01,710 --> 00:31:03,580
+<font face="Segoe UI" size="52"><b>Mọi thứ đều quá đỗi chói lòa...</b></font>
+
+442
+00:31:04,460 --> 00:31:07,160
+<font face="Segoe UI" size="52"><b>Em nhớ mình đã trở về trước thời hạn.</b></font>
+
+443
+00:31:09,150 --> 00:31:13,390
+<font face="Segoe UI" size="52"><b>Nhưng... ngày hôm đó em đã quyết định giữ cơ thể mình theo chuẩn mực truyền thống.</b></font>
+
+444
+00:31:13,820 --> 00:31:15,920
+<font face="Segoe UI" size="52"><b>Em muốn trông giống một con người.</b></font>
+
+445
+00:31:15,920 --> 00:31:18,130
+<font face="Segoe UI" size="52"><b>Cơ thể nhân tạo của em không phải là một món đồ vật.</b></font>
+
+446
+00:31:18,130 --> 00:31:19,910
+<font face="Segoe UI" size="52"><b>Nó chính là cơ thể thực sự của em.</b></font>
+
+447
+00:31:19,910 --> 00:31:23,150
+<font face="Segoe UI" size="52"><b>Nó không được phép bị đối xử như một đồ vật... Không bởi bất kỳ ai.</b></font>
+
+448
+00:31:24,900 --> 00:31:26,100
+<font face="Segoe UI" size="52"><b>Kể cả bởi chính em.</b></font>
+
+449
+00:31:27,960 --> 00:31:29,980
+<font face="Segoe UI" size="52"><b>Em cũng ước được như vậy.</b></font>
+
+450
+00:31:29,980 --> 00:31:31,680
+<font face="Segoe UI" size="52"><b>Anh sẽ cho em thấy bằng chứng.</b></font>
+
+451
+00:31:31,680 --> 00:31:32,780
+<font face="Segoe UI" size="52"><b>Bằng chứng sao?</b></font>
+
+452
+00:31:35,840 --> 00:31:37,370
+<font face="Segoe UI" size="52"><b>Đó là một bất ngờ.</b></font>
+
+453
+00:31:40,930 --> 00:31:42,830
+<font face="Segoe UI" size="52"><b>Chúng ta đang thiếu mất mảnh ghép quan trọng: quả bom.</b></font>
+
+454
+00:31:43,130 --> 00:31:47,040
+<font face="Segoe UI" size="52"><b>Làm sao chúng đưa được nó vào một địa điểm họp được canh phòng cẩn mật như thế?</b></font>
+
+455
+00:31:47,040 --> 00:31:48,050
+<font face="Segoe UI" size="52"><b>Thế còn đám thủ phạm thì sao?</b></font>
+
+456
+00:31:48,050 --> 00:31:50,510
+<font face="Segoe UI" size="52"><b>Bọn chúng bảo chính chúng là kẻ đã cho nổ tung nơi đó.</b></font>
+
+457
+00:31:51,020 --> 00:31:53,970
+<font face="Segoe UI" size="52"><b>Mặc dù thực tế là chúng chẳng có chút ký ức nào về quả bom cả.</b></font>
+
+458
+00:31:53,970 --> 00:31:57,710
+<font face="Segoe UI" size="52"><b>Bọn chúng chỉ là những kẻ chịu tội thay thôi.
+Có lẽ chúng chẳng liên quan gì đến quả bom cả.</b></font>
+
+459
+00:31:57,710 --> 00:32:01,840
+<font face="Segoe UI" size="52"><b>Chúng ta sẽ giám sát toàn bộ 78 địa điểm cho đến khi thu hẹp được mục tiêu của chúng.</b></font>
+
+460
+00:32:01,840 --> 00:32:03,580
+<font face="Segoe UI" size="52"><b>Cô nghiêm túc đấy chứ?!</b></font>
+
+461
+00:32:03,580 --> 00:32:05,330
+<font face="Segoe UI" size="52"><b>Liên lạc với tôi nếu có chuyện gì xảy ra.</b></font>
+
+462
+00:32:09,070 --> 00:32:10,640
+<font face="Segoe UI" size="52"><b>Cô đang đi giày cao gót kìa.</b></font>
+
+463
+00:32:10,640 --> 00:32:14,260
+<font face="Segoe UI" size="52"><b>Chúng ta có nên cho rằng anh chàng kỹ thuật viên cựu quân đội sẽ gia nhập đội không?</b></font>
+
+464
+00:32:18,140 --> 00:32:19,880
+<font face="Segoe UI" size="52"><b>Có khi chuyện đó là thật đấy.</b></font>
+
+465
+00:32:31,550 --> 00:32:33,470
+<font face="Segoe UI" size="52"><b>Đây là thứ anh muốn cho em xem sao?</b></font>
+
+466
+00:32:34,240 --> 00:32:35,890
+<font face="Segoe UI" size="52"><b>Họ là những khách hàng thường xuyên của anh.</b></font>
+
+467
+00:32:36,260 --> 00:32:38,350
+<font face="Segoe UI" size="52"><b>Độ tuổi trung bình của họ là 70.</b></font>
+
+468
+00:32:39,550 --> 00:32:41,310
+<font face="Segoe UI" size="52"><b>Tất cả họ đều là thể nhân tạo toàn phần...</b></font>
+
+469
+00:32:41,660 --> 00:32:45,240
+<font face="Segoe UI" size="52"><b>Những người cao tuổi giàu có đang là cốt lõi của ngành phát triển cyborg ngày nay.</b></font>
+
+470
+00:32:45,240 --> 00:32:46,520
+<font face="Segoe UI" size="52"><b>Chứ không phải binh lính.</b></font>
+
+471
+00:32:46,840 --> 00:32:51,240
+<font face="Segoe UI" size="52"><b>Họ muốn cơ thể nhân tạo mang lại cho họ cuộc đời thứ hai, và một phong cách sống trọn vẹn.</b></font>
+
+472
+00:32:52,220 --> 00:32:56,120
+<font face="Segoe UI" size="52"><b>Ngày càng nhiều loại thực phẩm cho cyborg được phát triển để đáp ứng nhu cầu của họ nữa.</b></font>
+
+473
+00:33:03,940 --> 00:33:04,950
+<font face="Segoe UI" size="52"><b>Nếm thử đi.</b></font>
+
+474
+00:33:17,820 --> 00:33:18,850
+<font face="Segoe UI" size="52"><b>Ngon lắm.</b></font>
+
+475
+00:33:19,560 --> 00:33:21,950
+<font face="Segoe UI" size="52"><b>Đây là lần đầu tiên em phân bổ bộ nhớ cho vị giác của mình à?</b></font>
+
+476
+00:33:23,910 --> 00:33:26,270
+<font face="Segoe UI" size="52"><b>Tiện thể, cô dâu mới đang mang thai đấy.</b></font>
+
+477
+00:33:27,960 --> 00:33:29,560
+<font face="Segoe UI" size="52"><b>Thú vị đúng không?</b></font>
+
+478
+00:33:29,560 --> 00:33:33,280
+<font face="Segoe UI" size="52"><b>Một thế giới mới của những con người không còn phân biệt
+giữa thể máy và da thịt.</b></font>
+
+479
+00:33:34,780 --> 00:33:37,100
+<font face="Segoe UI" size="52"><b>Anh thực sự rất kỳ lạ.</b></font>
+
+480
+00:33:44,620 --> 00:33:47,860
+<font face="Segoe UI" size="52"><b>Có những người cự tuyệt tương lai.</b></font>
+
+481
+00:33:47,860 --> 00:33:51,460
+<font face="Segoe UI" size="52"><b>Và cũng có những người bị nó bỏ lại phía sau.</b></font>
+
+482
+00:33:55,420 --> 00:33:58,630
+<font face="Segoe UI" size="52"><b>Anh muốn mang tương lai của cyborg đến với thế giới thứ ba.</b></font>
+
+483
+00:34:00,890 --> 00:34:02,290
+<font face="Segoe UI" size="52"><b>Em sẽ đi cùng anh chứ?</b></font>
+
+484
+00:34:04,140 --> 00:34:06,900
+<font face="Segoe UI" size="52"><b>Em nên sử dụng sức mạnh của mình một cách tự do,</b></font>
+
+485
+00:34:07,740 --> 00:34:10,690
+<font face="Segoe UI" size="52"><b>chứ không phải làm việc dưới trướng một đám giật dây con rối.</b></font>
+
+486
+00:34:13,190 --> 00:34:15,330
+<font face="Segoe UI" size="52"><b>Chiến tranh đã kết thúc rồi mà.</b></font>
+
+487
+00:34:15,330 --> 00:34:17,010
+<font face="Segoe UI" size="52"><b>Không, nó vẫn đang tiếp diễn.</b></font>
+
+488
+00:34:17,010 --> 00:34:20,440
+<font face="Segoe UI" size="52"><b>Chỉ là các quốc gia cảm thấy bất tiện nên rút lui thôi, chỉ có vậy.</b></font>
+
+489
+00:34:23,620 --> 00:34:26,590
+<font face="Segoe UI" size="52"><b>Em còn những việc phải làm ở đất nước này.</b></font>
+
+490
+00:34:28,000 --> 00:34:28,950
+<font face="Segoe UI" size="52"><b>Anh hiểu rồi.</b></font>
+
+491
+00:34:29,820 --> 00:34:31,420
+<font face="Segoe UI" size="52"><b>Lát nữa em có rảnh không?</b></font>
+
+492
+00:34:31,420 --> 00:34:35,260
+<font face="Segoe UI" size="52"><b>Nếu chúng ta chia sẻ sảnh không gian mạng, chúng ta có thể gặp nhau bất cứ lúc nào muốn.</b></font>
+
+493
+00:34:35,260 --> 00:34:37,380
+<font face="Segoe UI" size="52"><b>Anh có thể sẽ chạm vào Hồn của em đấy.</b></font>
+
+494
+00:34:37,380 --> 00:34:39,410
+<font face="Segoe UI" size="52"><b>Em sẽ hạ màng chắn xuống.</b></font>
+
+495
+00:34:39,410 --> 00:34:40,360
+<font face="Segoe UI" size="52"><b>Em chắc chắn chứ?</b></font>
+
+496
+00:34:40,360 --> 00:34:43,000
+<font face="Segoe UI" size="52"><b>Nếu anh thâm nhập vào em, em có thể nướng chín não anh đấy.</b></font>
+
+497
+00:34:43,000 --> 00:34:44,690
+<font face="Segoe UI" size="52"><b>Có khi thế lại đáng giá.</b></font>
+
+498
+00:35:07,920 --> 00:35:09,500
+<font face="Segoe UI" size="52"><b>Đây là cơ thể của em.</b></font>
+
+499
+00:35:11,710 --> 00:35:13,540
+<font face="Segoe UI" size="52"><b>Đây là đôi bàn tay của em.</b></font>
+
+500
+00:35:39,360 --> 00:35:40,870
+<font face="Segoe UI" size="52"><b>Motoko, chạy mau!</b></font>
+
+501
+00:36:16,160 --> 00:36:16,860
+<font face="Segoe UI" size="52"><b>Akira!</b></font>
+
+502
+00:36:19,030 --> 00:36:19,840
+<font face="Segoe UI" size="52"><b>Em có sao không?</b></font>
+
+503
+00:36:21,110 --> 00:36:22,450
+<font face="Segoe UI" size="52"><b>Ừ...</b></font>
+
+504
+00:36:30,790 --> 00:36:32,040
+<font face="Segoe UI" size="52"><b>Anh xin lỗi.</b></font>
+
+505
+00:36:32,040 --> 00:36:33,370
+<font face="Segoe UI" size="52"><b>Đây là lỗi của anh.</b></font>
+
+506
+00:37:12,320 --> 00:37:13,620
+<font face="Segoe UI" size="52"><b>Rất tiếc khi nghe về những gì vừa xảy ra.</b></font>
+
+507
+00:37:14,910 --> 00:37:16,830
+<font face="Segoe UI" size="52"><b>Paz đang cùng Đội 9 kiểm tra hiện trường.</b></font>
+
+508
+00:37:17,540 --> 00:37:20,050
+<font face="Segoe UI" size="52"><b>Kẻ tấn công cô là một tay chuyên nghiệp, dù hắn đã bắn trượt.</b></font>
+
+509
+00:37:20,580 --> 00:37:22,770
+<font face="Segoe UI" size="52"><b>Chưa rõ liệu việc này có liên hệ với vụ đánh bom hay không,</b></font>
+
+510
+00:37:22,770 --> 00:37:25,600
+<font face="Segoe UI" size="52"><b>nhưng bình thường thì chúng tôi sẽ cử cảnh sát bảo vệ cô vào lúc này.</b></font>
+
+511
+00:37:25,600 --> 00:37:26,850
+<font face="Segoe UI" size="52"><b>Tôi không cần.</b></font>
+
+512
+00:37:26,850 --> 00:37:28,000
+<font face="Segoe UI" size="52"><b>Anh ấy thế nào rồi?</b></font>
+
+513
+00:37:28,000 --> 00:37:30,480
+<font face="Segoe UI" size="52"><b>Chúng tôi sẽ cho anh ta về nhà ngay sau khi thẩm vấn xong.</b></font>
+
+514
+00:37:30,480 --> 00:37:32,520
+<font face="Segoe UI" size="52"><b>Tôi sẽ cắt cử người đi cùng anh ta, nên đừng lo.</b></font>
+
+515
+00:37:32,520 --> 00:37:33,770
+<font face="Segoe UI" size="52"><b>Tôi hiểu rồi.</b></font>
+
+516
+00:37:33,770 --> 00:37:37,100
+<font face="Segoe UI" size="52"><b>Giới chức quân đội không chịu cung cấp cho tôi bất kỳ thông tin nào về Scylla cả.</b></font>
+
+517
+00:37:37,100 --> 00:37:38,890
+<font face="Segoe UI" size="52"><b>Mối liên hệ giữa cô và hắn là gì?</b></font>
+
+518
+00:37:41,460 --> 00:37:43,490
+<font face="Segoe UI" size="52"><b>Hãy gọi cho tôi bất cứ khi nào cô cần giúp đỡ.</b></font>
+
+519
+00:37:47,350 --> 00:37:49,400
+<font face="Segoe UI" size="52"><b>Scylla trả thù à?</b></font>
+
+520
+00:37:49,400 --> 00:37:51,450
+<font face="Segoe UI" size="52"><b>Cũng may bạn trai cô là dân thường.</b></font>
+
+521
+00:37:51,790 --> 00:37:53,630
+<font face="Segoe UI" size="52"><b>Chúng ta không phải nghi ngờ có tin rò rỉ.</b></font>
+
+522
+00:37:55,820 --> 00:37:56,790
+<font face="Segoe UI" size="52"><b>Bọn chúng lại ra tay rồi.</b></font>
+
+523
+00:37:57,420 --> 00:38:00,800
+<font face="Segoe UI" size="52"><b>Mục tiêu số ba: một trung tâm điều phối nguyên vật liệu ở bờ biển.</b></font>
+
+524
+00:38:01,260 --> 00:38:05,490
+<font face="Segoe UI" size="52"><b>Tôi bắt được một lệnh xuất kích dưới danh nghĩa của Scylla 30 giây trước vụ nổ.</b></font>
+
+525
+00:38:05,490 --> 00:38:07,050
+<font face="Segoe UI" size="52"><b>Sau đó toàn bộ đường truyền biến mất.</b></font>
+
+526
+00:38:07,050 --> 00:38:09,130
+<font face="Segoe UI" size="52"><b>Việc giám sát này có còn tích sự gì nữa không vậy?!</b></font>
+
+527
+00:38:09,130 --> 00:38:13,020
+<font face="Segoe UI" size="52"><b>Hãy tìm một kỹ sư vũ khí trong danh sách khách hàng của họ
+có liên quan đến vụ này.</b></font>
+
+528
+00:38:13,020 --> 00:38:14,390
+<font face="Segoe UI" size="52"><b>Kỹ sư vũ khí sao?</b></font>
+
+529
+00:38:14,390 --> 00:38:16,520
+<font face="Segoe UI" size="52"><b>Cũng lấy thông tin từ những nạn nhân đầu tiên nữa đi. Mau lên.</b></font>
+
+530
+00:38:17,020 --> 00:38:19,490
+<font face="Segoe UI" size="52"><b>Tìm bất cứ thứ gì. Con virus, những quả bom, tên chỉ huy chiến thuật,</b></font>
+
+531
+00:38:19,490 --> 00:38:23,690
+<font face="Segoe UI" size="52"><b>nơi các tin nhắn từ "Scylla" phát ra—tôi không quan tâm là thứ gì.</b></font>
+
+532
+00:38:24,290 --> 00:38:29,410
+<font face="Segoe UI" size="52"><b>Sao cô không chịu nói cho chúng tôi biết tại sao cô lại chắc chắn Scylla đã chết đi?</b></font>
+
+533
+00:38:30,180 --> 00:38:30,830
+<font face="Segoe UI" size="52"><b>Xin thứ lỗi.</b></font>
+
+534
+00:38:32,880 --> 00:38:34,000
+<font face="Segoe UI" size="52"><b>Là anh!</b></font>
+
+535
+00:38:34,000 --> 00:38:36,990
+<font face="Segoe UI" size="52"><b>Tôi được báo là có thể tìm thấy Thiếu tá Kusanagi ở đây.</b></font>
+
+536
+00:38:36,990 --> 00:38:37,840
+<font face="Segoe UI" size="52"><b>Có chuyện gì thế?</b></font>
+
+537
+00:38:44,290 --> 00:38:45,710
+<font face="Segoe UI" size="52"><b>Khai báo mục đích của anh đi.</b></font>
+
+538
+00:38:45,710 --> 00:38:49,060
+<font face="Segoe UI" size="52"><b>Cái danh sách tôi nhận được từ hắn là đồ giả.</b></font>
+
+539
+00:38:49,720 --> 00:38:54,680
+<font face="Segoe UI" size="52"><b>Và một thanh tra điều tra vụ buôn lậu vũ khí đã bị sát hại
+ngay sau khi nhận thông tin từ hắn.</b></font>
+
+540
+00:38:55,070 --> 00:39:01,150
+<font face="Segoe UI" size="52"><b>Các kỹ thuật viên luôn bị đổ lỗi cho các vụ việc liên quan đến thể máy mà.</b></font>
+
+541
+00:39:02,030 --> 00:39:05,020
+<font face="Segoe UI" size="52"><b>Và người quản lý con đập phát nổ hôm nọ...</b></font>
+
+542
+00:39:06,510 --> 00:39:08,470
+<font face="Segoe UI" size="52"><b>Hose cũng chính là người trang bị thể máy cho tên vệ sĩ của bà ta.</b></font>
+
+543
+00:39:08,470 --> 00:39:09,860
+<font face="Segoe UI" size="52"><b>Thế thì sao chứ?!</b></font>
+
+544
+00:39:10,740 --> 00:39:13,830
+<font face="Segoe UI" size="52"><b>Cô cảm thấy thế nào khi tận mắt chứng kiến người yêu mình bị tấn công ngay trước mặt?</b></font>
+
+545
+00:39:15,690 --> 00:39:19,400
+<font face="Segoe UI" size="52"><b>Cô tức giận với thủ phạm, và cô cảm thấy tội lỗi.</b></font>
+
+546
+00:39:19,400 --> 00:39:21,790
+<font face="Segoe UI" size="52"><b>Cô nghĩ đó là lỗi của mình khi anh ta bị tấn công.</b></font>
+
+547
+00:39:25,110 --> 00:39:27,080
+<font face="Segoe UI" size="52"><b>Hắn ta cũng y hệt như vậy.</b></font>
+
+548
+00:39:27,080 --> 00:39:28,800
+<font face="Segoe UI" size="52"><b>Tức giận và tội lỗi.</b></font>
+
+549
+00:39:29,370 --> 00:39:31,430
+<font face="Segoe UI" size="52"><b>Hắn đang che giấu điều gì đó.</b></font>
+
+550
+00:39:31,430 --> 00:39:35,760
+<font face="Segoe UI" size="52"><b>Con đập, viên thanh tra đã chết, những bộ thể máy, và thậm chí cả cô nữa, Thiếu tá...</b></font>
+
+551
+00:39:36,490 --> 00:39:38,590
+<font face="Segoe UI" size="52"><b>Mọi thứ đều dẫn ngược về Hose Akira.</b></font>
+
+552
+00:39:42,460 --> 00:39:45,000
+<font face="Segoe UI" size="52"><b>Anh chỉ là một tên cớm quèn tọc mạch bằng đôi mắt thịt thôi!</b></font>
+
+553
+00:39:45,000 --> 00:39:46,610
+<font face="Segoe UI" size="52"><b>Đừng bao giờ vác mặt đến đây nữa!</b></font>
+
+554
+00:39:51,010 --> 00:39:53,070
+<font face="Segoe UI" size="52"><b>Đau đấy...</b></font>
+
+555
+00:40:14,580 --> 00:40:16,260
+<font face="Segoe UI" size="52"><b>Bà là một kẻ ngu ngốc, Đại tá!</b></font>
+
+556
+00:40:18,650 --> 00:40:20,090
+<font face="Segoe UI" size="52"><b>Màng chắn tấn công!</b></font>
+
+557
+00:40:20,090 --> 00:40:21,230
+<font face="Segoe UI" size="52"><b>Hãy bình tĩnh đi.</b></font>
+
+558
+00:40:21,860 --> 00:40:26,990
+<font face="Segoe UI" size="52"><b>Nếu phe nội địa tước đi quyền lợi ngành vũ khí của bà,
+bà sẽ bị các tập đoàn sát hại thôi.</b></font>
+
+559
+00:40:26,990 --> 00:40:30,390
+<font face="Segoe UI" size="52"><b>Vậy mà bà lại vội vàng trừ khử tôi và cướp dữ liệu của tôi sao?</b></font>
+
+560
+00:40:30,390 --> 00:40:34,200
+<font face="Segoe UI" size="52"><b>Thế mà bà làm như mình là kẻ tai to mặt lớn, nhưng lại chẳng thả nổi người của tôi ra?</b></font>
+
+561
+00:40:34,540 --> 00:40:36,370
+<font face="Segoe UI" size="52"><b>Dữ liệu ở đâu?</b></font>
+
+562
+00:40:36,790 --> 00:40:38,470
+<font face="Segoe UI" size="52"><b>Thỏa thuận của chúng ta chấm dứt rồi.</b></font>
+
+563
+00:40:38,470 --> 00:40:44,480
+<font face="Segoe UI" size="52"><b>Tôi biết ơn vì thông tin về cô ấy và vì sự hồi sinh của Scylla,
+nhưng tôi sẽ rời khỏi đất nước này.</b></font>
+
+564
+00:40:44,480 --> 00:40:45,960
+<font face="Segoe UI" size="52"><b>Bà cũng nên làm vậy đi.</b></font>
+
+565
+00:40:45,960 --> 00:40:47,670
+<font face="Segoe UI" size="52"><b>Không cần thiết.</b></font>
+
+566
+00:40:53,590 --> 00:40:57,600
+<font face="Segoe UI" size="52"><b>Chúng tôi đã đóng gói thành công con virus vào các bộ não điện tử rồi.</b></font>
+
+567
+00:40:59,970 --> 00:41:03,440
+<font face="Segoe UI" size="52"><b>Chúng tôi sẽ dùng não điện tử của anh cho bản nâng cấp cuối cùng.</b></font>
+
+568
+00:41:03,740 --> 00:41:05,900
+<font face="Segoe UI" size="52"><b>Hãy trở thành Scylla, đúng như anh hằng mong muốn đi.</b></font>
+
+569
+00:41:15,070 --> 00:41:18,590
+<font face="Segoe UI" size="52"><b>"Hai bàn tay anh ta vẫn mở rộng sau khi bị thiêu cháy", hả?</b></font>
+
+570
+00:41:39,660 --> 00:41:41,110
+<font face="Segoe UI" size="52"><b>Đúng y như cuộc gọi đã thông báo.</b></font>
+
+571
+00:41:41,110 --> 00:41:44,180
+<font face="Segoe UI" size="52"><b>Hai sĩ quan An ninh Công cộng bị sát hại,
+và tung tích của Hose Akira hiện chưa rõ.</b></font>
+
+572
+00:41:44,480 --> 00:41:46,280
+<font face="Segoe UI" size="52"><b>Thiếu tá không phải là mục tiêu sao?</b></font>
+
+573
+00:41:46,280 --> 00:41:48,270
+<font face="Segoe UI" size="52"><b>Này, nhìn vào danh sách này đi.</b></font>
+
+574
+00:41:48,270 --> 00:41:53,880
+<font face="Segoe UI" size="52"><b>Chỉ là phỏng đoán thôi, nhưng tôi nghĩ những quả bom nhiệt áp
+chính là những chi nhân tạo đó.</b></font>
+
+575
+00:41:53,880 --> 00:41:57,300
+<font face="Segoe UI" size="52"><b>Có một vệ sĩ thể máy toàn phần khác trong khu vực đó của tòa nhà.</b></font>
+
+576
+00:41:57,300 --> 00:42:00,240
+<font face="Segoe UI" size="52"><b>Hồ sơ quản lý các chi đó có cùng một chữ ký...</b></font>
+
+577
+00:42:03,590 --> 00:42:05,080
+<font face="Segoe UI" size="52"><b>Cô đang làm cái gì thế?</b></font>
+
+578
+00:42:07,960 --> 00:42:09,420
+<font face="Segoe UI" size="52"><b>Người đàn ông này là ai?!</b></font>
+
+579
+00:42:14,210 --> 00:42:17,040
+<font face="Segoe UI" size="52"><b>Màng chắn tấn công của tôi mở rộng theo từng giây.</b></font>
+
+580
+00:42:17,040 --> 00:42:18,800
+<font face="Segoe UI" size="52"><b>Nếu không muốn não bị nướng chín, thì mau khai ra!</b></font>
+
+581
+00:42:18,800 --> 00:42:20,550
+<font face="Segoe UI" size="52"><b>Anh ấy sẽ chết mất!</b></font>
+
+582
+00:42:21,180 --> 00:42:23,560
+<font face="Segoe UI" size="52"><b>Anh ấy đã trao cho chúng tôi sức mạnh...</b></font>
+
+583
+00:42:23,560 --> 00:42:25,560
+<font face="Segoe UI" size="52"><b>Anh ấy chính là Scylla tái sinh!</b></font>
+
+584
+00:42:26,020 --> 00:42:28,000
+<font face="Segoe UI" size="52"><b>Nó giống như phép thuật vậy.</b></font>
+
+585
+00:42:28,000 --> 00:42:31,890
+<font face="Segoe UI" size="52"><b>Một chương trình học chiến đấu được Scylla quá cố để lại cho chúng tôi...</b></font>
+
+586
+00:42:31,890 --> 00:42:35,560
+<font face="Segoe UI" size="52"><b>Anh ấy đã nạp nó vào não điện tử của tôi, cùng với con virus.</b></font>
+
+587
+00:42:35,560 --> 00:42:39,910
+<font face="Segoe UI" size="52"><b>Tôi chưa từng được huấn luyện, nhưng giờ tôi có thể chiến đấu ngay cả với người của các người!</b></font>
+
+588
+00:42:39,910 --> 00:42:41,370
+<font face="Segoe UI" size="52"><b>Cho tôi một cái tên!</b></font>
+
+589
+00:42:41,980 --> 00:42:43,630
+<font face="Segoe UI" size="52"><b>Hose Akira!</b></font>
+
+590
+00:42:43,630 --> 00:42:45,830
+<font face="Segoe UI" size="52"><b>Anh ấy là người Nhật Bản, giống như cô vậy!</b></font>
+
+591
+00:42:54,290 --> 00:42:55,420
+<font face="Segoe UI" size="52"><b>Hose đã trốn thoát rồi.</b></font>
+
+592
+00:42:56,020 --> 00:42:57,050
+<font face="Segoe UI" size="52"><b>Có manh mối nào về nơi hắn tới không?</b></font>
+
+593
+00:42:57,050 --> 00:42:58,590
+<font face="Segoe UI" size="52"><b>Sao lại hỏi tôi?</b></font>
+
+594
+00:42:58,590 --> 00:43:01,350
+<font face="Segoe UI" size="52"><b>Đôi mắt của anh hiện đang nhìn vào thứ gì thế?</b></font>
+
+595
+00:43:03,270 --> 00:43:05,310
+<font face="Segoe UI" size="52"><b>Zhinzhee Bekka Arr Thied.</b></font>
+
+596
+00:43:06,110 --> 00:43:12,230
+<font face="Segoe UI" size="52"><b>Bà ta là trùm một công ty nước Kuzan,
+và rất có thể là kẻ tài trợ cho đường dây vũ khí.</b></font>
+
+597
+00:43:12,230 --> 00:43:14,480
+<font face="Segoe UI" size="52"><b>Vậy đây chính là lối ra của đường hầm!</b></font>
+
+598
+00:43:15,110 --> 00:43:18,150
+<font face="Segoe UI" size="52"><b>Một công ty vũ khí trong nước. Tập đoàn Công nghiệp Nặng Harimadara!</b></font>
+
+599
+00:43:18,940 --> 00:43:22,370
+<font face="Segoe UI" size="52"><b>Các lãnh đạo đang đi thị sát Nhà máy Một cùng với Thứ trưởng Cao cấp Bộ Quốc phòng!</b></font>
+
+600
+00:43:22,910 --> 00:43:26,040
+<font face="Segoe UI" size="52"><b>Đề xuất lập màng chắn, và chuyển dữ liệu cho Đội 9.</b></font>
+
+601
+00:43:26,040 --> 00:43:28,290
+<font face="Segoe UI" size="52"><b>Paz, Borma, Saito, tới đó ngay.</b></font>
+
+602
+00:43:31,090 --> 00:43:34,160
+<font face="Segoe UI" size="52"><b>Gọi đội phá bom và một kỹ thuật viên thể máy.</b></font>
+
+603
+00:43:34,160 --> 00:43:36,760
+<font face="Segoe UI" size="52"><b>Rất có thể sẽ xảy ra một cuộc tấn công mạng hủy diệt.</b></font>
+
+604
+00:43:41,340 --> 00:43:43,900
+<font face="Segoe UI" size="52"><b>Ý này là sao đây, Trưởng ban Aramaki?</b></font>
+
+605
+00:43:43,900 --> 00:43:45,310
+<font face="Segoe UI" size="52"><b>Sơ tán ngay lập tức.</b></font>
+
+606
+00:43:45,820 --> 00:43:48,270
+<font face="Segoe UI" size="52"><b>Ngài và cơ sở này chính là mục tiêu.</b></font>
+
+607
+00:43:48,860 --> 00:43:50,730
+<font face="Segoe UI" size="52"><b>C-Có chuyện gì đang xảy ra thế?!</b></font>
+
+608
+00:43:54,510 --> 00:43:56,190
+<font face="Segoe UI" size="52"><b>Có bom! Chạy mau!</b></font>
+
+609
+00:44:02,200 --> 00:44:03,190
+<font face="Segoe UI" size="52"><b>Chết tiệt.</b></font>
+
+610
+00:44:03,190 --> 00:44:04,210
+<font face="Segoe UI" size="52"><b>Khốn nạn!</b></font>
+
+611
+00:44:04,210 --> 00:44:05,200
+<font face="Segoe UI" size="52"><b>Paz, Borma!</b></font>
+
+612
+00:44:05,840 --> 00:44:06,660
+<font face="Segoe UI" size="52"><b>Lối này!</b></font>
+
+613
+00:44:09,550 --> 00:44:11,330
+<font face="Segoe UI" size="52"><b>Cứu tôi với! Cứu tôi với!</b></font>
+
+614
+00:44:20,190 --> 00:44:22,710
+<font face="Segoe UI" size="52"><b>Chết tiệt, khói lửa đang bóp nghẹt cổ họng tôi rồi.</b></font>
+
+615
+00:44:22,710 --> 00:44:25,180
+<font face="Segoe UI" size="52"><b>Tôi cũng thế. Suýt chết.</b></font>
+
+616
+00:44:26,060 --> 00:44:27,830
+<font face="Segoe UI" size="52"><b>Thứ trưởng, ngài có sao không?</b></font>
+
+617
+00:44:27,830 --> 00:44:29,460
+<font face="Segoe UI" size="52"><b>Tôi không sao.</b></font>
+
+618
+00:44:35,410 --> 00:44:36,180
+<font face="Segoe UI" size="52"><b>Logicoma.</b></font>
+
+619
+00:44:36,820 --> 00:44:37,570
+<font face="Segoe UI" size="52"><b>Rõ, thưa sếp!</b></font>
+
+620
+00:44:40,140 --> 00:44:42,030
+<font face="Segoe UI" size="52"><b>Đó là một trong những sản phẩm của chúng tôi mà!</b></font>
+
+621
+00:44:45,450 --> 00:44:46,530
+<font face="Segoe UI" size="52"><b>Tránh xa các cửa sổ ra!</b></font>
+
+622
+00:44:51,780 --> 00:44:54,040
+<font face="Segoe UI" size="52"><b>Đó là toàn bộ thông tin về Đại tá Hozumi.</b></font>
+
+623
+00:44:54,040 --> 00:44:55,480
+<font face="Segoe UI" size="52"><b>Thế là được rồi.</b></font>
+
+624
+00:44:55,480 --> 00:44:58,750
+<font face="Segoe UI" size="52"><b>Chúng tôi có một quân bài, và bà có một thời gian ân hạn.</b></font>
+
+625
+00:44:59,140 --> 00:45:02,470
+<font face="Segoe UI" size="52"><b>Làm ơn hãy nói cho tôi biết bà ta có liên quan gì đến Scylla!</b></font>
+
+626
+00:45:02,880 --> 00:45:04,500
+<font face="Segoe UI" size="52"><b>Hãy tự đi tìm hiểu từ bà ta đi.</b></font>
+
+627
+00:45:04,500 --> 00:45:09,810
+<font face="Segoe UI" size="52"><b>Bộ não bị vấy bẩn của cô rất thú vị,
+nhưng tôi sẽ cắt kết nối trước khi sự lây nhiễm lan rộng.</b></font>
+
+628
+00:45:15,060 --> 00:45:16,150
+<font face="Segoe UI" size="52"><b>Tạm biệt.</b></font>
+
+629
+00:45:26,060 --> 00:45:27,620
+<font face="Segoe UI" size="52"><b>Bị vấy bẩn à?</b></font>
+
+630
+00:45:28,020 --> 00:45:31,120
+<font face="Segoe UI" size="52"><b>Tôi đang bị phá sản bởi mức thuế đặc biệt đánh vào các công ty nước ngoài sao?!</b></font>
+
+631
+00:45:31,740 --> 00:45:34,150
+<font face="Segoe UI" size="52"><b>Làm sao chuyện này có thể được phép xảy ra chứ?!</b></font>
+
+632
+00:45:34,150 --> 00:45:36,830
+<font face="Segoe UI" size="52"><b>Đó là kiểu hành động mà phe nội địa sẽ làm mà.</b></font>
+
+633
+00:45:37,930 --> 00:45:39,040
+<font face="Segoe UI" size="52"><b>Bà định làm gì?</b></font>
+
+634
+00:45:39,980 --> 00:45:41,450
+<font face="Segoe UI" size="52"><b>Giết Đại tá sao?</b></font>
+
+635
+00:45:42,010 --> 00:45:45,030
+<font face="Segoe UI" size="52"><b>Bà ta xong đời rồi. Và cả bà lẫn tôi cũng vậy.</b></font>
+
+636
+00:45:52,460 --> 00:45:54,350
+<font face="Segoe UI" size="52"><b>Hãy trốn đi, và tuân lệnh phe nội địa.</b></font>
+
+637
+00:45:55,190 --> 00:45:59,060
+<font face="Segoe UI" size="52"><b>Công ty của bà sẽ bị nghiền nát dưới cái cớ thuế khóa của quốc gia này.</b></font>
+
+638
+00:45:59,650 --> 00:46:01,600
+<font face="Segoe UI" size="52"><b>Bà sẽ bị các tập đoàn giết chết nếu không làm gì đó.</b></font>
+
+639
+00:46:04,750 --> 00:46:06,440
+<font face="Segoe UI" size="52"><b>Cô ổn chứ, Thiếu tá?</b></font>
+
+640
+00:46:06,440 --> 00:46:07,770
+<font face="Segoe UI" size="52"><b>Không vấn đề gì.</b></font>
+
+641
+00:46:07,770 --> 00:46:10,740
+<font face="Segoe UI" size="52"><b>Cậu hãy đi cùng viên thanh tra đó và trấn áp đám bảo vệ.</b></font>
+
+642
+00:46:11,680 --> 00:46:14,960
+<font face="Segoe UI" size="52"><b>Tôi sẽ lo liệu Scylla.</b></font>
+
+643
+00:46:20,300 --> 00:46:22,420
+<font face="Segoe UI" size="52"><b>Trời đất, cứng đầu thật đấy. Người phụ nữ đáng sợ.</b></font>
+
+644
+00:46:28,160 --> 00:46:28,800
+<font face="Segoe UI" size="52"><b>Cái gì thế?</b></font>
+
+645
+00:46:29,520 --> 00:46:31,180
+<font face="Segoe UI" size="52"><b>Khẩu Mateba, vào cái thời buổi này sao?</b></font>
+
+646
+00:46:31,180 --> 00:46:32,510
+<font face="Segoe UI" size="52"><b>Có vấn đề gì với nó à?!</b></font>
+
+647
+00:46:32,510 --> 00:46:34,370
+<font face="Segoe UI" size="52"><b>Tôi tin khẩu súng này hơn bất kỳ thứ nào khác.</b></font>
+
+648
+00:46:45,250 --> 00:46:46,320
+<font face="Segoe UI" size="52"><b>Dấu vết máu.</b></font>
+
+649
+00:46:46,770 --> 00:46:48,240
+<font face="Segoe UI" size="52"><b>Có ai đó đã bị bắn.</b></font>
+
+650
+00:46:54,630 --> 00:46:55,500
+<font face="Segoe UI" size="52"><b>Một viên đạn...</b></font>
+
+651
+00:47:14,290 --> 00:47:17,210
+<font face="Segoe UI" size="52"><b>Ariel. Hóa ra đây chính là những quả bom thể máy.</b></font>
+
+652
+00:47:35,950 --> 00:47:37,910
+<font face="Segoe UI" size="52"><b>Vừa rồi không phải là em.</b></font>
+
+653
+00:47:37,910 --> 00:47:40,500
+<font face="Segoe UI" size="52"><b>Kẻ quái nào đã thâm nhập vào thị giác của tôi?!</b></font>
+
+654
+00:47:40,840 --> 00:47:41,630
+<font face="Segoe UI" size="52"><b>Đứng im!</b></font>
+
+655
+00:47:44,460 --> 00:47:49,930
+<font face="Segoe UI" size="52"><b>Trong vũng lầy của cuộc chiến đó,
+Scylla là người lính duy nhất mà tôi có thể đồng cảm.</b></font>
+
+656
+00:47:50,430 --> 00:47:53,640
+<font face="Segoe UI" size="52"><b>Tôi luôn muốn hỏi cô tại sao hắn lại bị giết.</b></font>
+
+657
+00:47:55,310 --> 00:47:57,680
+<font face="Segoe UI" size="52"><b>Em đã không giết Scylla.</b></font>
+
+658
+00:47:57,680 --> 00:47:59,100
+<font face="Segoe UI" size="52"><b>Cuối cùng tôi cũng nhận ra điều đó.</b></font>
+
+659
+00:48:01,840 --> 00:48:02,950
+<font face="Segoe UI" size="52"><b>Về nhà đi.</b></font>
+
+660
+00:48:02,950 --> 00:48:05,480
+<font face="Segoe UI" size="52"><b>Nếu không bộ Ariel của em sẽ kích hoạt đấy.</b></font>
+
+661
+00:48:06,750 --> 00:48:08,110
+<font face="Segoe UI" size="52"><b>Ngay cả anh cũng không thể ngăn nó lại được đâu.</b></font>
+
+662
+00:48:33,840 --> 00:48:34,920
+<font face="Segoe UI" size="52"><b>Chuyện quái gì đang diễn ra ở đây thế này?</b></font>
+
+663
+00:48:34,920 --> 00:48:39,120
+<font face="Segoe UI" size="52"><b>Tên khốn đó đã thâm nhập vào thị giác của tôi y hệt như cách cô làm!</b></font>
+
+664
+00:48:39,120 --> 00:48:40,480
+<font face="Segoe UI" size="52"><b>Trả lời tôi đi, Thiếu tá!</b></font>
+
+665
+00:48:58,660 --> 00:49:00,440
+<font face="Segoe UI" size="52"><b>Sao Lục quân lại chậm chạp thế này?!</b></font>
+
+666
+00:49:00,440 --> 00:49:02,120
+<font face="Segoe UI" size="52"><b>Tất cả chúng ta sẽ chết mất!</b></font>
+
+667
+00:49:02,450 --> 00:49:04,240
+<font face="Segoe UI" size="52"><b>Nó đã bị chiếm quyền rồi.</b></font>
+
+668
+00:49:04,240 --> 00:49:07,380
+<font face="Segoe UI" size="52"><b>Nó sẽ không dừng lại cho đến khi chúng ta tắt thứ được đóng gói cùng với nó.</b></font>
+
+669
+00:49:07,380 --> 00:49:09,120
+<font face="Segoe UI" size="52"><b>Ký ức được cấy ghép.</b></font>
+
+670
+00:49:09,120 --> 00:49:09,960
+<font face="Segoe UI" size="52"><b>Cái gì?</b></font>
+
+671
+00:49:10,280 --> 00:49:13,180
+<font face="Segoe UI" size="52"><b>Những bộ não điện tử được đóng gói chính là vật chủ của con virus.</b></font>
+
+672
+00:49:13,820 --> 00:49:17,680
+<font face="Segoe UI" size="52"><b>Họ đã chuyển đổi chương trình chiến thuật mà tôi từng thả ra ở Qhardistan thành ký ức.</b></font>
+
+673
+00:49:18,110 --> 00:49:19,600
+<font face="Segoe UI" size="52"><b>Bản sao chép của tôi.</b></font>
+
+674
+00:49:24,020 --> 00:49:25,810
+<font face="Segoe UI" size="52"><b>Cô đang nói cái quái gì thế?!</b></font>
+
+675
+00:49:34,240 --> 00:49:35,100
+<font face="Segoe UI" size="52"><b><i>Motoko.</i></b></font>
+
+676
+00:50:03,520 --> 00:50:07,310
+<font face="Segoe UI" size="52"><b>Anh đã đuổi theo em, nhưng rốt cuộc, em lại bắt được anh.</b></font>
+
+677
+00:50:09,210 --> 00:50:11,880
+<font face="Segoe UI" size="52"><b>Chính bộ não điện tử của anh đã bị đóng gói.</b></font>
+
+678
+00:50:11,880 --> 00:50:14,960
+<font face="Segoe UI" size="52"><b>Nếu em bóp cò, em và các đồng đội của em sẽ được cứu sống.</b></font>
+
+679
+00:50:18,890 --> 00:50:21,070
+<font face="Segoe UI" size="52"><b>Thứ mà em đã đem lòng yêu chính là thế giới này.</b></font>
+
+680
+00:50:25,340 --> 00:50:28,540
+<font face="Segoe UI" size="52"><b>Cứ tiếp tục bước đi đi, cho tới ngày em bị phản bội.</b></font>
+
+681
+00:50:33,260 --> 00:50:34,230
+<font face="Segoe UI" size="52"><b>Scylla...</b></font>
+
+682
+00:50:35,660 --> 00:50:37,130
+<font face="Segoe UI" size="52"><b>Em rất vui vì đã được gặp anh.</b></font>
+
+683
+00:51:05,440 --> 00:51:06,280
+<font face="Segoe UI" size="52"><b>Cái gì?</b></font>
+
+684
+00:51:07,100 --> 00:51:08,490
+<font face="Segoe UI" size="52"><b>Nó dừng lại rồi...</b></font>
+
+685
+00:51:17,910 --> 00:51:19,300
+<font face="Segoe UI" size="52"><b>Thật mỉa mai.</b></font>
+
+686
+00:51:19,300 --> 00:51:21,610
+<font face="Segoe UI" size="52"><b>Họ sống sót qua một cuộc thế chiến,</b></font>
+
+687
+00:51:21,610 --> 00:51:26,080
+<font face="Segoe UI" size="52"><b>rồi lại mắc kẹt trong một cuộc chiến vô tận, và cuối cùng tự kết liễu đời mình.</b></font>
+
+688
+00:51:26,080 --> 00:51:28,610
+<font face="Segoe UI" size="52"><b>Có vẻ như chẳng còn cách nào khác để họ có thể dừng lại.</b></font>
+
+689
+00:51:29,420 --> 00:51:31,270
+<font face="Segoe UI" size="52"><b>Chẳng phải cô cũng từng như vậy sao?</b></font>
+
+690
+00:51:32,730 --> 00:51:35,250
+<font face="Segoe UI" size="52"><b>Scylla chính là cô.</b></font>
+
+691
+00:51:35,250 --> 00:51:38,750
+<font face="Segoe UI" size="52"><b>Cô đã giúp đỡ quân đội ly khai, rồi ngụy tạo cái chết của mình.</b></font>
+
+692
+00:51:38,750 --> 00:51:41,740
+<font face="Segoe UI" size="52"><b>Về sau, đám lính du kích mà cô từng chỉ huy đều bị giết sạch.</b></font>
+
+693
+00:51:42,560 --> 00:51:44,810
+<font face="Segoe UI" size="52"><b>Tôi hiểu tại sao cô lại không muốn nhớ lại chiến dịch đó.</b></font>
+
+694
+00:51:46,590 --> 00:51:49,770
+<font face="Segoe UI" size="52"><b>Kể từ đó, tôi không còn thường xuyên đổi cơ thể nữa.</b></font>
+
+695
+00:51:50,680 --> 00:51:52,710
+<font face="Segoe UI" size="52"><b>Nó khiến tôi bị khủng hoảng căn tính.</b></font>
+
+696
+00:51:53,140 --> 00:51:55,670
+<font face="Segoe UI" size="52"><b>Tôi đánh mất dấu vết của việc mình là ai,</b></font>
+
+697
+00:51:55,670 --> 00:51:59,650
+<font face="Segoe UI" size="52"><b>và rồi tôi lại muốn ai đó nói với tôi rằng tôi không phải là một cỗ người máy.</b></font>
+
+698
+00:52:03,100 --> 00:52:06,680
+<font face="Segoe UI" size="52"><b>Đó là lý do tại sao cô khăng khăng tự tạo ra những nét tinh chỉnh nguyên bản
+trên các mẫu sản xuất hàng loạt sao?</b></font>
+
+699
+00:52:07,450 --> 00:52:11,100
+<font face="Segoe UI" size="52"><b>Thật đáng kinh ngạc khi cô có thể điều khiển nhiều cơ thể như thế
+trong một thời gian ngắn.</b></font>
+
+700
+00:52:11,520 --> 00:52:12,950
+<font face="Segoe UI" size="52"><b>Tôi sẽ chợp mắt một lát.</b></font>
+
+701
+00:52:12,950 --> 00:52:14,110
+<font face="Segoe UI" size="52"><b>Anh có thể đi rồi đấy.</b></font>
+
+702
+00:52:14,650 --> 00:52:16,570
+<font face="Segoe UI" size="52"><b>Cứ coi đây là tình đoàn kết giữa các cyborg đi.</b></font>
+
+703
+00:52:16,570 --> 00:52:19,610
+<font face="Segoe UI" size="52"><b>Tôi sẽ canh chừng để bảo đảm họ không gắn
+bất kỳ bộ phận mờ ám nào vào người cô.</b></font>
+
+704
+00:52:20,300 --> 00:52:22,540
+<font face="Segoe UI" size="52"><b>Được thôi, tùy anh.</b></font>
+
+705
+00:52:23,940 --> 00:52:26,030
+<font face="Segoe UI" size="52"><b>Ít nhất cô cũng có thể nói một câu "cảm ơn" chứ!</b></font>
+
+706
+00:52:29,810 --> 00:52:33,170
+<font face="Segoe UI" size="52"><b>Viên đạn tại hiện trường được bắn ra từ khẩu súng của Trung úy.</b></font>
+
+707
+00:52:33,820 --> 00:52:36,680
+<font face="Segoe UI" size="52"><b>Tôi cũng tìm thấy vũ khí của Mizuki tại nhà của Trung úy.</b></font>
+
+708
+00:52:36,680 --> 00:52:39,130
+<font face="Segoe UI" size="52"><b>Ngoài ra còn có một khoản tiền gửi khổng lồ vào tài khoản của hắn nữa.</b></font>
+
+709
+00:52:43,160 --> 00:52:44,050
+<font face="Segoe UI" size="52"><b>Làm tốt lắm.</b></font>
+
+710
+00:52:44,540 --> 00:52:45,630
+<font face="Segoe UI" size="52"><b>Cậu có thể đi rồi.</b></font>
+
+711
+00:52:57,660 --> 00:53:00,240
+<font face="Segoe UI" size="52"><b>Bắt giữ một đồng nghiệp cảnh sát sẽ khiến cậu chuốc lấy nhiều kẻ thù đấy.</b></font>
+
+712
+00:53:03,180 --> 00:53:06,200
+<font face="Segoe UI" size="52"><b>Cậu sẽ bị đám người ở đồn của hắn bắn lén từ sau lưng đấy.</b></font>
+
+713
+00:53:06,540 --> 00:53:09,360
+<font face="Segoe UI" size="52"><b>Tôi nhất định sẽ cẩn thận để mắt phía sau lưng.</b></font>
+
+714
+00:53:09,360 --> 00:53:10,910
+<font face="Segoe UI" size="52"><b>Cậu đến đây chỉ để nói điều đó thôi sao?</b></font>
+
+715
+00:53:11,980 --> 00:53:13,870
+<font face="Segoe UI" size="52"><b>Cậu có muốn gia nhập đội của tôi không?</b></font>
+
+716
+00:53:16,040 --> 00:53:18,910
+<font face="Segoe UI" size="52"><b>Đó là một đơn vị tấn công độc lập với quyền ưu tiên cao nhất.</b></font>
+
+717
+00:53:20,570 --> 00:53:21,300
+<font face="Segoe UI" size="52"><b>Ồ, xin thứ lỗi.</b></font>
+
+718
+00:53:22,610 --> 00:53:23,490
+<font face="Segoe UI" size="52"><b>Alo?</b></font>
+
+719
+00:53:24,370 --> 00:53:25,680
+<font face="Segoe UI" size="52"><b>Cái gì?!</b></font>
+
+720
+00:53:25,680 --> 00:53:27,210
+<font face="Segoe UI" size="52"><b>Anh tưởng phải hai tuần nữa cơ mà!</b></font>
+
+721
+00:53:27,210 --> 00:53:28,370
+<font face="Segoe UI" size="52"><b>Không, anh xin lỗi.</b></font>
+
+722
+00:53:29,200 --> 00:53:30,850
+<font face="Segoe UI" size="52"><b>Anh biết rồi. Anh tới ngay đây.</b></font>
+
+723
+00:53:31,270 --> 00:53:33,440
+<font face="Segoe UI" size="52"><b>Lớn chuyện rồi! Vợ tôi vỡ ối rồi!</b></font>
+
+724
+00:53:34,520 --> 00:53:35,400
+<font face="Segoe UI" size="52"><b>Hả?</b></font>
+
+725
+00:53:35,400 --> 00:53:37,680
+<font face="Segoe UI" size="52"><b>Chúng tôi sắp có con rồi!</b></font>
+
+726
+00:53:37,680 --> 00:53:39,810
+<font face="Segoe UI" size="52"><b>Chờ anh nhé, anh tới ngay đây!</b></font>
+
+727
+00:53:39,810 --> 00:53:41,360
+<font face="Segoe UI" size="52"><b>Chúng ta sẽ nói chuyện vào dịp khác nhé.</b></font>
+
+728
+00:53:41,790 --> 00:53:43,030
+<font face="Segoe UI" size="52"><b>Anh tới đây!</b></font>
+
+729
+00:53:46,340 --> 00:53:49,560
+<font face="Segoe UI" size="52"><b>Cơ thể tự nhiên, đã kết hôn, và sắp làm bố sao?</b></font>
+
