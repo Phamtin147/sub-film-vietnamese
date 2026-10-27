@@ -1,0 +1,388 @@
+﻿[Script Info]
+Title: Vietnamese Fansub (VietSub by Amtia(NOFACE))
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+ScaledBorderAndShadow: yes
+Video Aspect Ratio: 0
+Video Zoom: 8
+YCbCr Matrix: TV.601
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Segoe UI,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Main,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Italics,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback_Italics,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Narration,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Main - Top,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Italics - Top,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback - Top,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback_Italics - Top,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Sign_Basic,Segoe UI,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,10,10,18,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.93,0:00:02.73,Main,Eunomia,0,0,0,,Được rồi mà.
+Dialogue: 0,0:00:02.73,0:00:04.61,Main,Eirene,0,0,0,,Chúng ta phải tiếp tục sống thôi, đúng chứ?
+Dialogue: 0,0:00:07.14,0:00:10.32,Main,Diké,0,0,0,,Em mừng cho hai người quá!
+Dialogue: 0,0:00:11.07,0:00:12.70,Main,Masamune IV,0,0,0,,Thưa Trưởng thôn!
+Dialogue: 0,0:00:12.70,0:00:14.79,Main,Chloe,0,0,0,,Thức ăn tẩm bổ cho người bệnh đã nấu xong rồi đây nhé!
+Dialogue: 0,0:00:14.79,0:00:15.77,Main,Eirene,0,0,0,,Chlo!
+Dialogue: 0,0:00:17.53,0:00:18.85,Main,Chloe,0,0,0,,Mấy đứa này thật là...
+Dialogue: 0,0:00:21.01,0:00:26.55,Main,Diké,0,0,0,,Ngài Akira, em biết lấy gì để cảm tạ ơn cứu mạng\Ncao cả của ngài dành cho hai người họ đây ạ?
+Dialogue: 0,0:00:26.95,0:00:28.38,Main,Akira,0,0,0,,Không cần phải cảm ơn đâu mà.
+Dialogue: 0,0:00:28.69,0:00:32.03,Main,Diké,0,0,0,,Kể từ nay, em xin nguyện hết lòng cống hiến\Ncho ngài, thưa ngài Akira.
+Dialogue: 0,0:00:32.03,0:00:34.17,Main,Diké,0,0,0,,Ngài có thể sai bảo em bất cứ điều gì.
+Dialogue: 0,0:00:35.31,0:00:37.08,Main,Akira,0,0,0,,Cô nói quá lời rồi đấy.
+Dialogue: 0,0:00:41.87,0:00:44.47,Main,Akira,0,0,0,,Echigoya, lại đây nào!
+Dialogue: 0,0:00:44.70,0:00:46.64,Main,Echigoya VI,0,0,0,,Tuân lệnh ngài!
+Dialogue: 0,0:00:47.04,0:00:51.29,Main,Akira,0,0,0,,Đây là Eirene, Diké và Eunomia.
+Dialogue: 0,0:00:51.83,0:00:53.85,Main,Akira,0,0,0,,Quần áo của họ đều sờn rách hết cả rồi.
+Dialogue: 0,0:00:53.85,0:00:56.14,Main,Akira,0,0,0,,Ngươi may cho họ vài bộ đồ mới được không?
+Dialogue: 0,0:00:56.54,0:00:58.98,Main,Echigoya VI,0,0,0,,Dạ được chứ, chuyện nhỏ như con thỏ!
+Dialogue: 0,0:00:58.98,0:01:03.28,Main,Diké,0,0,0,,Không được đâu! Ngài Akira, ngài không cần\Nphải bận lòng vì chúng em đến thế đâu ạ!
+Dialogue: 0,0:01:03.28,0:01:07.07,Main,Akira,0,0,0,,Với lại, ai đang rảnh rỗi thì giúp họ\Ntắm rửa một chút được không?
+Dialogue: 0,0:01:11.76,0:01:14.38,Main,Chloe,0,0,0,,Ta cũng đang muốn đi tắm đây.
+Dialogue: 0,0:01:16.68,0:01:17.56,Main,Chloe,0,0,0,,Đi thôi nào.
+Dialogue: 0,0:01:32.70,0:01:36.06,Main,Akira,0,0,0,,Karen, tôi muốn nhờ cô\Nliên lạc với Simon một chuyến.
+Dialogue: 0,0:01:36.06,0:01:36.92,Main,Karen,0,0,0,,Được thôi.
+Dialogue: 0,0:01:36.92,0:01:40.04,Main,Akira,0,0,0,,Coi như là một thỉnh cầu...\Nhoặc một bản thông báo đi.
+Dialogue: 0,0:01:43.10,0:01:47.13,Main,Akira,0,0,0,,Tôi đã quyết định thu nhận ba chị em Elf,\Nnhững người từng phục vụ dưới trướng Đại Ma Vương.
+Dialogue: 0,0:01:47.13,0:01:51.59,Main,Akira,0,0,0,,Hãy bảo ông ấy cứ yên tâm, vì tôi có thể\Nkiểm soát họ bằng kỹ năng Kẻ Mạnh Sinh Tồn.
+Dialogue: 0,0:01:52.07,0:01:53.37,Main,Karen,0,0,0,,Tôi hiểu rồi.
+Dialogue: 0,0:01:53.37,0:01:54.74,Main,Akira,0,0,0,,Cảm ơn cô nhé.
+Dialogue: 0,0:01:54.74,0:01:57.63,Main,Akira,0,0,0,,Nếu tôi không công khai danh chính ngôn thuận\Nviệc mình đã tiếp nhận họ,
+Dialogue: 0,0:01:57.63,0:02:02.23,Main,Akira,0,0,0,,thì về mặt luật pháp, tôi sẽ chẳng thể bảo vệ họ\Nnếu có ai đó lại nhắm vào họ một lần nữa.
+Dialogue: 0,0:02:03.47,0:02:05.26,Main,Karen,0,0,0,,Tôi sẽ đi báo cáo ngay.
+Dialogue: 0,0:02:06.09,0:02:08.02,Main,Karen,0,0,0,,Cậu lúc nào cũng chu đáo thật đấy.
+Dialogue: 0,0:02:08.82,0:02:10.06,Main,Akira,0,0,0,,Nhờ cả vào cô đấy.
+Dialogue: 0,0:02:10.98,0:02:21.07,Sign_Basic,title,0,0,0,,CHUYỂN SINH THÀNH GOBLIN\NTHÌ CÓ GÌ SAI SAO?
+Dialogue: 0,0:03:42.88,0:03:44.53,Main,Echigoya VI,0,0,0,,Thưa Trưởng thôn!
+Dialogue: 0,0:03:44.53,0:03:45.82,Main,goblin 44,0,0,0,,Nhìn này!
+Dialogue: 0,0:03:45.82,0:03:50.00,Sign_Basic,text,0,0,0,,{\an3\pos(608,305)}TẬP 5: BỊ ELF MỚI LỚN GHÉT BỎ\NTHÌ ĐÃ LÀM SAO?
+Dialogue: 0,0:03:47.66,0:03:50.00,Main - Top,Akira,0,0,0,,Ồ, trang phục đẹp xuất sắc đấy chứ!
+Dialogue: 0,0:03:50.00,0:03:51.93,Main,Akira,0,0,0,,Tôi biết ngay là ngươi làm được mà, Echigoya.
+Dialogue: 0,0:03:53.27,0:03:55.44,Main,Chloe,0,0,0,,Mấy bộ đồ đó trông hợp với các cô lắm!
+Dialogue: 0,0:03:55.44,0:03:57.29,Main,Chloe,0,0,0,,Nhưng đồ của ta thì trông vẫn hợp với ta hơn nhiều.
+Dialogue: 0,0:03:57.29,0:03:59.41,Main,Eirene,0,0,0,,Cậu muốn chúng tôi mặc thứ này sao?
+Dialogue: 0,0:03:59.41,0:04:01.72,Main,Eunomia,0,0,0,,Em thích kiểu đồ này nè!
+Dialogue: 0,0:04:01.72,0:04:05.80,Italics,Akira,0,0,0,,Định kỳ, bọn mình vẫn đem bán sỉ quần áo do Echigoya may\Ntại thành phố của con người.
+Dialogue: 0,0:04:05.80,0:04:09.09,Italics,Akira,0,0,0,,Chúng được đón nhận rất nồng nhiệt,\Nvà chuyện làm ăn đang diễn ra vô cùng thuận lợi.
+Dialogue: 0,0:04:09.09,0:04:12.12,Main,Chloe,0,0,0,,Các cô vẫn chưa bình phục hẳn đâu,\Nnên mau nghỉ ngơi cho lại sức đi.
+Dialogue: 0,0:04:12.12,0:04:13.18,Main,Diké,0,0,0,,Ngài Akira.
+Dialogue: 0,0:04:14.47,0:04:17.59,Main,Diké,0,0,0,,Ngài đã tặng cho em một bộ trang phục\Nchất lượng tuyệt hảo đến thế này.
+Dialogue: 0,0:04:18.12,0:04:20.00,Main,Diké,0,0,0,,Ngài có thực sự chắc chắn về quyết định đó không ạ?
+Dialogue: 0,0:04:21.73,0:04:25.33,Main,Diké,0,0,0,,Ơ kìa, trông em... có kỳ quặc lắm không ạ?
+Dialogue: 0,0:04:25.33,0:04:27.77,Main,Akira,0,0,0,,Không, chẳng kỳ chút nào đâu.
+Dialogue: 0,0:04:28.15,0:04:29.20,Main,Diké,0,0,0,,Vậy thì may quá rồi!
+Dialogue: 0,0:04:36.91,0:04:38.77,Main,Diké,0,0,0,,Ngài Akira...
+Dialogue: 0,0:04:40.75,0:04:43.55,Sign_Basic,text,0,0,0,,GẦM GỪ
+Dialogue: 0,0:04:43.54,0:04:45.92,Main,Akira,0,0,0,,Đừng có hiểu lầm nhé!
+Dialogue: 0,0:04:46.17,0:04:48.06,Main,Diké,0,0,0,,E-Em xin lỗi ạ!
+Dialogue: 0,0:04:48.68,0:04:49.93,Main,Diké,0,0,0,,Lại nữa sao?!
+Dialogue: 0,0:04:50.25,0:04:51.47,Main,Akira,0,0,0,,Đạn Khí (Air Blow)!
+Dialogue: 0,0:04:50.97,0:04:53.39,Sign_Basic,text,0,0,0,,ĐẠN KHÍ (AIR BLOW)
+Dialogue: 0,0:04:54.70,0:04:55.94,Main,Akira,0,0,0,,Cô có sao không?
+Dialogue: 0,0:04:55.94,0:04:57.30,Main,Diké,0,0,0,,D-Dạ không sao ạ.
+Dialogue: 0,0:04:57.57,0:05:01.48,Main,Akira,0,0,0,,Nếu bộ đó khó vận động thì để tôi\Nbảo may cho cô một bộ khác nhé.
+Dialogue: 0,0:05:01.48,0:05:03.51,Main,Diké,0,0,0,,D-Dạ em không sao đâu ạ!
+Dialogue: 0,0:05:03.51,0:05:04.54,Main,Akira,0,0,0,,Nhưng mà...
+Dialogue: 0,0:05:04.54,0:05:08.39,Main,Diké,0,0,0,,Bộ này... dường như khiến ngài thấy vừa mắt mà.
+Dialogue: 0,0:05:09.36,0:05:10.77,Main,Akira,0,0,0,,Cô vừa nói gì cơ?
+Dialogue: 0,0:05:11.74,0:05:14.46,Main,Diké,0,0,0,,K-Không có gì đâu ạ, thưa ngài!
+Dialogue: 0,0:05:15.19,0:05:16.96,Main,Akira,0,0,0,,Cố gắng đừng ngã nữa đấy!
+Dialogue: 0,0:05:18.46,0:05:21.00,Italics,Akira,0,0,0,,Tay nghề của Echigoya đỉnh thật sự.
+Dialogue: 0,0:05:21.00,0:05:24.26,Italics,Akira,0,0,0,,Cậu ta tự tay may ra cả áo len diệt trinh (virgin-killer),\Nmà chẳng cần bất kỳ tư liệu tham khảo nào luôn.
+Dialogue: 0,0:05:24.62,0:05:25.79,Main,Karen,0,0,0,,Akira.
+Dialogue: 0,0:05:26.78,0:05:29.36,Main,Karen,0,0,0,,Tôi chuẩn bị đến diện kiến ngài Hầu tước đây.
+Dialogue: 0,0:05:29.36,0:05:32.05,Main,Akira,0,0,0,,À ừ. Đi cẩn thận nhé.
+Dialogue: 0,0:05:32.05,0:05:33.05,Main,Karen,0,0,0,,Akira này.
+Dialogue: 0,0:05:33.51,0:05:34.98,Main,Karen,0,0,0,,Cậu có...
+Dialogue: 0,0:05:38.97,0:05:40.89,Main,Karen,0,0,0,,Không có gì đâu!
+Dialogue: 0,0:05:40.89,0:05:42.44,Main,Karen,0,0,0,,Cứ quên đi nhé!
+Dialogue: 0,0:05:43.86,0:05:45.40,Main,Akira,0,0,0,,Cái gì thế không biết?
+Dialogue: 0,0:05:59.96,0:06:03.64,Main,Akira,0,0,0,,Rời khỏi đây ngay.\NPhía trước là làng của Goblin.
+Dialogue: 0,0:06:03.64,0:06:04.94,Main,adventurer 1,0,0,0,,Tập trung cảnh giác!
+Dialogue: 0,0:06:04.94,0:06:07.06,Main,adventurer 3,0,0,0,,Có khi đây chính là con Goblin Lord\Nmà chúng ta nghe đồn đấy.
+Dialogue: 0,0:06:07.06,0:06:11.34,Main,adventurer 4,0,0,0,,Hỡi mẹ đất vĩ đại, xin ban cho chúng con\Nsự bảo hộ của đất mẹ quang minh.
+Dialogue: 0,0:06:11.34,0:06:13.13,Italics,Akira,0,0,0,,Phép tăng lực (buff) à?
+Dialogue: 0,0:06:17.81,0:06:19.57,Italics,Akira,0,0,0,,Phối hợp ăn ý đấy chứ.
+Dialogue: 0,0:06:19.87,0:06:23.48,Italics,Akira,0,0,0,,Một người thiên về phòng thủ,\Nngười kia thiên về tấn công.
+Dialogue: 0,0:06:23.48,0:06:25.18,Main,adventurer 2,0,0,0,,Đứng yên đó!
+Dialogue: 0,0:06:25.18,0:06:27.14,Main,adventurer 1,0,0,0,,Đừng có nóng vội!\NCứ từ từ bào mòn sinh lực của nó!
+Dialogue: 0,0:06:27.38,0:06:28.37,Main,Akira,0,0,0,,Hắc Diễm (Darkblaze)!
+Dialogue: 0,0:06:31.98,0:06:33.44,Main,adventurer 3,0,0,0,,Hỡi chủ nhân của thiên bảo thạch.
+Dialogue: 0,0:06:33.72,0:06:36.27,Main,adventurer 3,0,0,0,,Hãy đáp lại lời thỉnh cầu của ta\Nbằng sấm rền chớp giật!
+Dialogue: 0,0:06:38.95,0:06:40.09,Italics,Akira,0,0,0,,Hiểu rồi nhé.
+Dialogue: 0,0:06:40.09,0:06:41.75,Main,adventurer 2,0,0,0,,Nhìn vào tao đây này, thằng ranh!
+Dialogue: 0,0:06:41.75,0:06:43.08,Main,Akira,0,0,0,,Hắc Ty (Darkthread)!
+Dialogue: 0,0:06:45.91,0:06:49.00,Main,adventurer 2,0,0,0,,Không thể nào! Ý mày là nó\Nđã thấu cáy chiến thuật của tụi tao rồi sao?!
+Dialogue: 0,0:06:49.00,0:06:51.78,Italics,Akira,0,0,0,,Chiến thuật của bọn họ không tệ, nhưng mà...
+Dialogue: 0,0:06:55.05,0:06:57.98,Main,adventurer 4,0,0,0,,Tiếp tục chiến đấu đi!\NSự bảo hộ của thần lửa đây!
+Dialogue: 0,0:06:57.98,0:06:59.94,Italics,Akira,0,0,0,,Hả? Nếu đã thế thì...
+Dialogue: 0,0:06:59.93,0:07:01.27,Sign_Basic,text,0,0,0,,THÁP BĂNG (FROST TOWER)
+Dialogue: 0,0:06:59.94,0:07:01.15,Main,Akira,0,0,0,,Tháp Băng (Frost Tower)!
+Dialogue: 0,0:07:04.39,0:07:05.69,Main,adventurer 2,0,0,0,,Mày nhắm vào cái quái—
+Dialogue: 0,0:07:05.69,0:07:06.69,Main,Akira,0,0,0,,Hắc Diễm (Darkblaze)!
+Dialogue: 0,0:07:19.60,0:07:21.08,Main,Karen,0,0,0,,Đã được phê chuẩn rồi.
+Dialogue: 0,0:07:21.73,0:07:23.49,Main,Akira,0,0,0,,Nhanh thật đấy.
+Dialogue: 0,0:07:24.86,0:07:27.88,Main,Karen,0,0,0,,Cả ngài Hầu tước lẫn Điện hạ Hoàng tử\Nđều cùng nhau đồng ký tên,
+Dialogue: 0,0:07:27.88,0:07:31.50,Main,Karen,0,0,0,,nên có vẻ họ sẽ không coi đó là vấn đề\Nnếu cậu thu nhận thêm bất kỳ Ma tộc nào nữa.
+Dialogue: 0,0:07:31.82,0:07:34.20,Main,Karen,0,0,0,,Sau này, cậu cũng không cần phải thông báo nữa.
+Dialogue: 0,0:07:34.20,0:07:36.42,Main,Akira,0,0,0,,Được thế thì tốt quá.
+Dialogue: 0,0:07:36.73,0:07:38.64,Main,Akira,0,0,0,,Bộ đồ đó trông rất hợp với cô đấy.
+Dialogue: 0,0:07:38.64,0:07:41.65,Main,Karen,0,0,0,,Tôi đã bảo Echigoya may cho một bộ\Ndễ vận động đi lại một chút.
+Dialogue: 0,0:07:42.35,0:07:43.36,Main,Akira,0,0,0,,Karen này.
+Dialogue: 0,0:07:44.57,0:07:46.35,Main,Akira,0,0,0,,Cô trông xinh đẹp kinh ngạc luôn đấy.
+Dialogue: 0,0:07:46.90,0:07:48.29,Main,Karen,0,0,0,,Cảm ơn cậu.
+Dialogue: 0,0:07:49.35,0:07:51.48,Main,Karen,0,0,0,,À thì, về bản phê chuẩn đó.
+Dialogue: 0,0:07:51.99,0:07:56.19,Main,Karen,0,0,0,,Căn cứ theo thời gian, tôi chắc chắn\Nhọ đã chuẩn bị nó từ trước rồi.
+Dialogue: 0,0:07:56.19,0:07:59.88,Main,Akira,0,0,0,,Tôi cũng đoán thế. Vị hoàng tử đó là người thế nào?
+Dialogue: 0,0:07:59.88,0:08:02.31,Main,Karen,0,0,0,,Ngài ấy là một người hoàn hảo không tì vết.
+Dialogue: 0,0:08:02.31,0:08:04.91,Main,Karen,0,0,0,,Tôi chưa từng nghe thấy bất kỳ lời đồn nào\Nvề việc ngài ấy phạm phải sai lầm.
+Dialogue: 0,0:08:04.91,0:08:07.27,Main,Akira,0,0,0,,Bao gồm cả những việc khác ngoài cuộc thảo phạt Đại Ma Vương à?
+Dialogue: 0,0:08:07.27,0:08:08.33,Main,Karen,0,0,0,,Đúng vậy.
+Dialogue: 0,0:08:09.31,0:08:15.01,Italics,Akira,0,0,0,,Nghĩa là, kỹ năng của Hoàng tử Albert\Nchắc hẳn phải cho phép anh ta sửa chữa sai lầm.
+Dialogue: 0,0:08:15.45,0:08:19.52,Italics,Akira,0,0,0,,Điều duy nhất mình có thể nghĩ tới\Nlà quay ngược thời gian, hoặc làm lại từ đầu.
+Dialogue: 0,0:08:20.23,0:08:24.35,Italics,Akira,0,0,0,,Rất có thể lúc đó, anh ta đã dùng kỹ năng đó lên mình.
+Dialogue: 0,0:08:25.76,0:08:28.99,Italics,Akira,0,0,0,,Biểu cảm của anh ta lộ rõ vẻ hối hận vì lỡ làm hỏng việc.
+Dialogue: 0,0:08:28.99,0:08:31.41,Italics,Akira,0,0,0,,Nếu mình vẫn có thể nhận ra được điều đó,
+Dialogue: 0,0:08:31.41,0:08:33.67,Italics,Akira,0,0,0,,thì liệu có phải kỹ năng đó\Ncó giới hạn thời gian hay gì đó không?
+Dialogue: 0,0:08:34.70,0:08:36.97,Main,Karen,0,0,0,,Những tên này là kẻ đột nhập à?
+Dialogue: 0,0:08:36.97,0:08:41.63,Main,Akira,0,0,0,,Ừ, mấy tên con người rảnh rỗi thích xía mũi vào chuyện người khác\Nthì chẳng bao giờ thiếu.
+Dialogue: 0,0:08:41.63,0:08:47.43,Main,Karen,0,0,0,,Dù ngài Hầu tước đã cố gắng hết sức,\Nnhưng các cậu rốt cuộc vẫn là goblin mà.
+Dialogue: 0,0:08:47.43,0:08:50.29,Main,Akira,0,0,0,,Ý cô là sao cơ?
+Dialogue: 0,0:08:50.58,0:08:54.75,Main,Karen,0,0,0,,Chẳng phải từ trước tới nay, cậu chỉ xua đuổi những kẻ đột nhập\Nmà không làm họ bị thương nặng sao?
+Dialogue: 0,0:08:54.75,0:08:56.64,Main,Akira,0,0,0,,Ừ thì, đúng là vậy.
+Dialogue: 0,0:08:57.15,0:09:00.92,Main,Akira,0,0,0,,Chỉ cần mang tính cảnh cáo là đủ rồi,\Ntôi đâu có ý định gây thương tích nghiêm trọng làm gì.
+Dialogue: 0,0:09:01.47,0:09:06.96,Main,Karen,0,0,0,,Thế nên ấn tượng duy nhất còn sót lại\Nlà bị đuổi đi nhưng chẳng hề hấn gì nhiều.
+Dialogue: 0,0:09:06.96,0:09:08.76,Main,Akira,0,0,0,,Ừ, tôi hiểu rồi.
+Dialogue: 0,0:09:08.76,0:09:12.73,Main,Akira,0,0,0,,Đó là lý do lũ người khác lại cứ ngỡ\N{\i1}bọn chúng{\i0} có thể làm tốt hơn.
+Dialogue: 0,0:09:12.73,0:09:14.16,Main,Karen,0,0,0,,Chính xác là như thế đấy.
+Dialogue: 0,0:09:16.33,0:09:20.62,Main,Akira,0,0,0,,Nếu không cho thấy chúng ta đáng sợ nhường nào\Nthì chẳng thể nào răn đe được bọn chúng.
+Dialogue: 0,0:09:22.32,0:09:24.20,Main,Karen,0,0,0,,Tôi cũng nghĩ vậy.
+Dialogue: 0,0:09:24.20,0:09:28.08,Italics,Akira,0,0,0,,Tóm lại, cách xử lý từ trước tới nay của mình\Nđúng là một sai lầm.
+Dialogue: 0,0:09:28.08,0:09:30.70,Italics,Akira,0,0,0,,Đành phải thay đổi phương pháp thôi.
+Dialogue: 0,0:09:30.97,0:09:34.89,Main,Akira,0,0,0,,Đã là đột nhập trái phép thì phải có\Nmức hình phạt thích đáng tương xứng.
+Dialogue: 0,0:09:34.89,0:09:36.37,Main,Karen,0,0,0,,Cậu tính làm gì thế?
+Dialogue: 0,0:09:36.76,0:09:38.63,Sign_Basic,text,0,0,0,,THỢ XĂM (TATTOOIST)
+Dialogue: 0,0:09:36.89,0:09:38.07,Main,Akira,0,0,0,,Thuật Xăm (Tattooist).
+Dialogue: 0,0:09:38.63,0:09:40.09,Sign_Basic,text,0,0,0,,TÔI ĐÃ THUA GOBLIN
+Dialogue: 0,0:09:42.26,0:09:44.68,Sign_Basic,text,0,0,0,,TÔI ĐÃ THUA GOBLIN
+Dialogue: 0,0:09:43.05,0:09:46.78,Main,Karen,0,0,0,,Cái này... tàn nhẫn ra phết đấy.
+Dialogue: 0,0:09:46.78,0:09:49.60,Main,Akira,0,0,0,,Với vài người, có khi nó còn tồi tệ hơn cả cái chết.
+Dialogue: 0,0:09:49.60,0:09:53.78,Sign_Basic,text,0,0,0,,CHÓ
+Dialogue: 0,0:09:49.90,0:09:53.19,Main,Akira,0,0,0,,Hồi xưa ở quê tôi,\Nngười ta thường xăm hình để trừng phạt tội phạm.
+Dialogue: 0,0:09:53.96,0:09:57.90,Main,Akira,0,0,0,,Mảnh đất này không có khái niệm\Nxăm hình như một hình phạt hình sự sao?
+Dialogue: 0,0:09:57.90,0:09:59.89,Main,Karen,0,0,0,,Tôi chưa từng nghe thấy bao giờ.
+Dialogue: 0,0:09:59.89,0:10:03.33,Main,Karen,0,0,0,,Nhưng tôi cá là nó sẽ hiệu quả vô cùng đấy.
+Dialogue: 0,0:10:03.33,0:10:07.51,Main,Akira,0,0,0,,Tôi sẽ tặng món quà này\Ncho đám đột nhập trong một thời gian xem sao.
+Dialogue: 0,0:10:07.51,0:10:10.82,Main,Karen,0,0,0,,Cậu toàn nghĩ ra mấy trò quái đản thật đấy.
+Dialogue: 0,0:10:14.01,0:10:15.92,Main,Diké,0,0,0,,Ngài Akira!
+Dialogue: 0,0:10:19.11,0:10:20.17,Main,Akira,0,0,0,,Úi chà.
+Dialogue: 0,0:10:20.49,0:10:22.39,Main,Diké,0,0,0,,Cảm ơn ngài nhiều lắm ạ.
+Dialogue: 0,0:10:22.39,0:10:24.65,Main,Akira,0,0,0,,Sao cô lại vội vã thế?
+Dialogue: 0,0:10:25.44,0:10:26.72,Main,Diké,0,0,0,,Dạ... thì...
+Dialogue: 0,0:10:27.85,0:10:30.19,Main,Diké,0,0,0,,Ngài có đói bụng không ạ?
+Dialogue: 0,0:10:30.19,0:10:31.23,Main,Akira,0,0,0,,Đói bụng sao?
+Dialogue: 0,0:10:31.60,0:10:32.85,Main,Diké,0,0,0,,Dạ vâng.
+Dialogue: 0,0:10:32.85,0:10:35.83,Main,Diké,0,0,0,,Em vừa học nấu ăn từ Masamune.
+Dialogue: 0,0:10:35.83,0:10:40.51,Main,Diké,0,0,0,,Nên là, ừm...\NNếu ngài không phiền thì...
+Dialogue: 0,0:10:41.09,0:10:44.77,Main,Akira,0,0,0,,Ồ, ra là thế! Tôi muốn ăn thử lắm chứ!
+Dialogue: 0,0:10:45.78,0:10:47.58,Main,Diké,0,0,0,,Em sẽ chuẩn bị ngay—
+Dialogue: 0,0:10:50.25,0:10:51.63,Italics,Akira,0,0,0,,Cô ấy bỗng đứng sững lại.
+Dialogue: 0,0:10:54.87,0:10:56.11,Italics,Akira,0,0,0,,Eunomia sao?
+Dialogue: 0,0:10:56.11,0:10:58.20,Italics,Akira,0,0,0,,Cảm giác như cô nhóc đang lườm tóe khói vào mình.
+Dialogue: 0,0:10:58.20,0:11:00.84,Main,Akira,0,0,0,,Chào Eunomia. Nhóc thấy khỏe hơ—
+Dialogue: 0,0:11:00.84,0:11:02.34,Main,Eunomia,0,0,0,,Ta sẽ không để ngươi...
+Dialogue: 0,0:11:02.34,0:11:03.10,Main,Akira,0,0,0,,Hả?
+Dialogue: 0,0:11:03.10,0:11:07.01,Main,Eunomia,0,0,0,,Ta tuyệt đối không để {\i1}ngươi{\i0} cướp mất chị Diké đâu!
+Dialogue: 0,0:11:11.68,0:11:12.78,Main,Akira,0,0,0,,Gì cơ?
+Dialogue: 0,0:11:16.28,0:11:17.82,Main,Diké,0,0,0,,Ngài Akira!
+Dialogue: 0,0:11:17.82,0:11:19.49,Main,Akira,0,0,0,,Cô làm món gì thế?
+Dialogue: 0,0:11:19.69,0:11:22.08,Main,Diké,0,0,0,,Em chỉ mong ngài sẽ thấy ngon miệng ạ.
+Dialogue: 0,0:11:24.90,0:11:27.16,Main,Akira,0,0,0,,Đây là món thịt hầm khoai tây (nikujaga) à?
+Dialogue: 0,0:11:27.16,0:11:28.81,Main,Masamune V,0,0,0,,Nikujaga là cái gì?
+Dialogue: 0,0:11:29.25,0:11:32.78,Main,Masamune V,0,0,0,,Đó là Món Hầm Masamune! Tôi tự nghĩ ra đấy!
+Dialogue: 0,0:11:32.78,0:11:37.21,Italics,Akira,0,0,0,,Đỉnh thật! Họ đã tự sáng chế ra cả\Nnikujaga ở thế giới này luôn!
+Dialogue: 0,0:11:37.21,0:11:39.06,Main,Akira,0,0,0,,Làm tốt lắm, Masamune!
+Dialogue: 0,0:11:42.04,0:11:44.21,Main,Akira,0,0,0,,Cô cùng làm với cậu ấy à, Diké?
+Dialogue: 0,0:11:44.21,0:11:45.71,Main,Diké,0,0,0,,D-Dạ vâng!
+Dialogue: 0,0:11:45.71,0:11:49.46,Main,Chloe,0,0,0,,Ta nữa! Lần tới ta cũng sẽ nấu cùng cô ấy!
+Dialogue: 0,0:11:49.46,0:11:51.43,Main,Akira,0,0,0,,Được rồi, tôi nghe rồi.
+Dialogue: 0,0:11:52.05,0:11:53.46,Main,Akira,0,0,0,,Tôi ăn thử nhé.
+Dialogue: 0,0:11:58.12,0:11:59.44,Main,Akira,0,0,0,,Ngon tuyệt cú mèo!
+Dialogue: 0,0:12:01.29,0:12:03.69,Main,Akira,0,0,0,,Cô mà làm vợ thì đảm đang tuyệt vời lắm đấy, Diké.
+Dialogue: 0,0:12:05.78,0:12:08.90,Main,Chloe,0,0,0,,Ta cũng có thể nấu canh hầm thế này mỗi ngày mà!
+Dialogue: 0,0:12:06.83,0:12:09.33,Main - Top,Diké,0,0,0,,"Làm vợ..." "Làm vợ..."
+Dialogue: 0,0:12:08.90,0:12:11.21,Main,Masamune V,0,0,0,,Không phải canh, là Món Hầm Masamune!
+Dialogue: 0,0:12:11.21,0:12:12.63,Main,Eunomia,0,0,0,,Chị Diké!
+Dialogue: 0,0:12:12.92,0:12:14.26,Main,Eunomia,0,0,0,,Đi với em mau.
+Dialogue: 0,0:12:14.26,0:12:15.71,Main,Diké,0,0,0,,Kìa, Mia!
+Dialogue: 0,0:12:16.33,0:12:17.30,Main,Eunomia,0,0,0,,Lêu lêu.
+Dialogue: 0,0:12:18.30,0:12:20.17,Main,Akira,0,0,0,,Nhóc ấy ghét cay ghét đắng mình rồi.
+Dialogue: 0,0:12:20.17,0:12:23.54,Main,Karen,0,0,0,,Mà thật tình, ai mà ngờ cô nhóc\Nlại có cá tính như thế chứ?
+Dialogue: 0,0:12:23.54,0:12:25.99,Main,Akira,0,0,0,,Căn bệnh của tộc Elf nguy hiểm thật đấy,
+Dialogue: 0,0:12:25.99,0:12:28.26,Main,Akira,0,0,0,,khiến một cô bé năng động thế này\Ncũng trở nên vô cảm lãnh đạm.
+Dialogue: 0,0:12:28.88,0:12:31.68,Main,Akira,0,0,0,,Nhưng chút Món Hầm Masamune\Nbiết đâu lại làm ai đó đổi ý.
+Dialogue: 0,0:12:37.84,0:12:40.11,Main,Karen,0,0,0,,Món này ngon thật {\i1}đấy{\i0}!
+Dialogue: 0,0:12:40.11,0:12:42.40,Main,Karen,0,0,0,,Cậu kiếm đâu ra chỗ thịt\Nvà gia vị này thế?
+Dialogue: 0,0:12:42.40,0:12:47.23,Main,Akira,0,0,0,,Gần đây bọn tôi đổi được nhờ bán quần áo\Ndo Echigoya may ở thành phố đấy.
+Dialogue: 0,0:12:47.23,0:12:48.95,Main,Akira,0,0,0,,Chúng được ưa chuộng lắm.
+Dialogue: 0,0:12:48.95,0:12:50.37,Main,Karen,0,0,0,,Cũng không lạ gì.
+Dialogue: 0,0:12:53.35,0:12:55.70,Main,Karen,0,0,0,,Việc buôn bán có gặp trở ngại gì không?
+Dialogue: 0,0:12:56.60,0:13:01.14,Main,Karen,0,0,0,,Nếu cần thiết, tôi sẵn sàng nói đỡ một tiếng\Nvới ngài Hầu tước.
+Dialogue: 0,0:13:01.60,0:13:04.11,Main,Akira,0,0,0,,Cảm ơn cô, nhưng không sao đâu.
+Dialogue: 0,0:13:04.11,0:13:05.89,Main,Akira,0,0,0,,Nếu mọi chuyện không suôn sẻ thì từ bỏ thôi.
+Dialogue: 0,0:13:07.13,0:13:08.81,Main,Karen,0,0,0,,Cậu chấp nhận dễ dàng thế sao?
+Dialogue: 0,0:13:08.81,0:13:10.26,Main,Akira,0,0,0,,Trong kinh doanh,
+Dialogue: 0,0:13:10.26,0:13:14.88,Main,Akira,0,0,0,,bên nào ít chịu thiệt hại hơn khi từ bỏ\Nsẽ nắm giữ vị thế đàm phán mạnh hơn.
+Dialogue: 0,0:13:14.88,0:13:18.36,Main,Akira,0,0,0,,Dù có phải dừng giao thương\Nthì bọn tôi cũng chẳng gặp mấy khó khăn.
+Dialogue: 0,0:13:18.76,0:13:22.65,Main,Akira,0,0,0,,Bản thân làng Goblin vẫn đang tự cung tự cấp\Nvà sống rất tốt.
+Dialogue: 0,0:13:23.55,0:13:26.68,Main,Karen,0,0,0,,Cậu đúng là một kẻ khôn ngoan giảo hoạt.
+Dialogue: 0,0:13:28.08,0:13:29.78,Main,Eunomia,0,0,0,,Chị Diké, nhìn kìa.
+Dialogue: 0,0:13:33.76,0:13:35.29,Main,Diké,0,0,0,,Ôi chao!
+Dialogue: 0,0:13:35.29,0:13:37.76,Main,Eunomia,0,0,0,,Chị thích hoa lắm đúng không?
+Dialogue: 0,0:13:38.09,0:13:40.88,Main,Eunomia,0,0,0,,Thế nên em mới muốn dẫn chị đến đây đấy.
+Dialogue: 0,0:13:44.76,0:13:47.07,Main,Diké,0,0,0,,Cảm ơn em nhé, Mia.
+Dialogue: 0,0:13:51.46,0:13:56.11,Main,Eunomia,0,0,0,,Chúng ta sẽ hái thật nhiều,\Nrồi trang trí phòng của chị như ngày xưa nhé.
+Dialogue: 0,0:13:56.11,0:13:57.23,Main,Eunomia,0,0,0,,Và rồi thì...!
+Dialogue: 0,0:13:57.23,0:13:58.58,Main,Diké,0,0,0,,Không biết là...
+Dialogue: 0,0:13:59.20,0:14:01.43,Main,Diké,0,0,0,,liệu ngài Akira có thích hoa không nhỉ?
+Dialogue: 0,0:14:07.83,0:14:10.94,Main,Eunomia,0,0,0,,Chị xấu tính quá đi!
+Dialogue: 0,0:14:10.94,0:14:12.37,Main,Diké,0,0,0,,Eunomia?
+Dialogue: 0,0:14:12.37,0:14:13.59,Main,Eunomia,0,0,0,,Đồ ngốc, đồ ngốc, đồ ngốc nghếch!
+Dialogue: 0,0:14:13.59,0:14:15.99,Main,Eunomia,0,0,0,,Chị đúng là đồ đại ngốc mà!
+Dialogue: 0,0:14:17.38,0:14:20.71,Main,Akira,0,0,0,,Eunomia. Đi quá xa khỏi làng\Nlà nguy hiểm lắ—
+Dialogue: 0,0:14:20.71,0:14:23.38,Main,Eunomia,0,0,0,,Đừng tưởng thế này là ngươi đã thắng nhé!
+Dialogue: 0,0:14:27.01,0:14:28.56,Main,Akira,0,0,0,,Chuyện gì vừa xảy ra thế nhỉ?
+Dialogue: 0,0:14:28.92,0:14:31.24,Italics,Karen,0,0,0,,Tôi xin rút lại lời vừa nói.
+Dialogue: 0,0:14:41.27,0:14:44.18,Main,Eunomia,0,0,0,,Chị có thấy ngứa ngáy chỗ nào không, chị Diké?
+Dialogue: 0,0:14:44.52,0:14:47.33,Main,Diké,0,0,0,,Dễ chịu lắm, cảm ơn em.
+Dialogue: 0,0:14:48.10,0:14:49.53,Main,Eunomia,0,0,0,,Vậy để em dội nước cho chị nhé.
+Dialogue: 0,0:14:49.53,0:14:51.25,Main,Eunomia,0,0,0,,Tiếp theo là tới lượt em đấy.
+Dialogue: 0,0:14:53.80,0:14:56.83,Main,Diké,0,0,0,,Chị mừng là em đã khỏe lại rồi, Mia.
+Dialogue: 0,0:14:57.40,0:15:00.03,Main,Eunomia,0,0,0,,Em xin lỗi vì đã làm chị phải lo lắng.
+Dialogue: 0,0:15:00.60,0:15:06.67,Main,Diké,0,0,0,,Không sao đâu. Chúng ta là Elf,\Nnên thỉnh thoảng cũng sẽ bị như vậy.
+Dialogue: 0,0:15:06.67,0:15:10.79,Main,Diké,0,0,0,,Nhưng chị vẫn thấy em rạng rỡ nhất\Nlà khi tràn đầy năng lượng thế này.
+Dialogue: 0,0:15:12.98,0:15:14.00,Main,Eunomia,0,0,0,,Vâng ạ.
+Dialogue: 0,0:15:14.27,0:15:16.36,Main,Eunomia,0,0,0,,Từ giờ em sẽ còn hăng hái hơn nữa.
+Dialogue: 0,0:15:22.09,0:15:25.02,Main,Eunomia,0,0,0,,Cơ mà, em có điều này thắc mắc.
+Dialogue: 0,0:15:26.07,0:15:28.22,Main,Eunomia,0,0,0,,Dù là con người hay Ma tộc đi chăng nữa,
+Dialogue: 0,0:15:28.22,0:15:32.52,Main,Eunomia,0,0,0,,chẳng phải chỉ có giới nhà giàu mới có bồn tắm xịn thế này sao?
+Dialogue: 0,0:15:32.52,0:15:34.95,Main,Eunomia,0,0,0,,Sao nó lại xuất hiện ở một cái làng goblin hẻo lánh thế này chứ?
+Dialogue: 0,0:15:35.26,0:15:38.05,Main,Diké,0,0,0,,Đây không đơn thuần chỉ là một làng goblin đâu.
+Dialogue: 0,0:15:38.05,0:15:41.24,Main,Diké,0,0,0,,Đây là ngôi làng được ngài Akira cai quản.
+Dialogue: 0,0:15:43.49,0:15:47.39,Main,Diké,0,0,0,,Chị cũng từng tò mò và hỏi ngài Akira,
+Dialogue: 0,0:15:47.39,0:15:50.76,Main,Diké,0,0,0,,ngài ấy bảo rằng việc tắm rửa là vô cùng quý giá,
+Dialogue: 0,0:15:50.76,0:15:54.21,Main,Diké,0,0,0,,bởi nó giúp gột rửa và xoa dịu\Ncả thể xác lẫn tâm hồn.
+Dialogue: 0,0:15:54.99,0:15:58.90,Main,Diké,0,0,0,,Nghe nói đó là lý do một goblin tên là Ooyuya\Nđược giao việc trông coi nơi này đấy.
+Dialogue: 0,0:15:59.22,0:16:02.88,Main,Diké,0,0,0,,Ngài ấy thật sự rất chu đáo và tuyệt vời.
+Dialogue: 0,0:16:03.58,0:16:05.94,Main,Eunomia,0,0,0,,Tên đó chẳng qua cũng chỉ là một con goblin thôi mà!
+Dialogue: 0,0:16:12.07,0:16:14.36,Main,Eunomia,0,0,0,,Ngươi làm cái quái gì ở tít ngoài này thế?
+Dialogue: 0,0:16:14.90,0:16:18.01,Main,Akira,0,0,0,,Eunomia, đi lang thang một mình\Nkhông an toàn đâ—
+Dialogue: 0,0:16:18.01,0:16:21.21,Main,Eunomia,0,0,0,,Ngươi đang đi tuần rừng à?\NCanh chừng con người sao?
+Dialogue: 0,0:16:21.21,0:16:22.79,Italics,Akira,0,0,0,,Lại bơ mình luôn rồi.
+Dialogue: 0,0:16:23.11,0:16:24.67,Main,Akira,0,0,0,,Đúng thế đấy.
+Dialogue: 0,0:16:24.67,0:16:26.28,Main,Eunomia,0,0,0,,Chẳng phải ngươi là Đại Ma Vương sao?!
+Dialogue: 0,0:16:26.28,0:16:28.33,Main,Eunomia,0,0,0,,Ngươi cứ việc sai cấp dưới\Nđi làm chuyện này là được mà!
+Dialogue: 0,0:16:28.33,0:16:30.79,Main,Akira,0,0,0,,Tôi là Trưởng thôn, chứ không phải Đại Ma Vương.
+Dialogue: 0,0:16:30.79,0:16:33.31,Main,Akira,0,0,0,,Tôi vẫn đang trong giai đoạn xây dựng quy trình.
+Dialogue: 0,0:16:33.31,0:16:34.50,Main,Eunomia,0,0,0,,Quy trình gì cơ?
+Dialogue: 0,0:16:34.50,0:16:38.75,Main,Akira,0,0,0,,Công việc quan trọng nhất của người lãnh đạo\Nlà thiết lập quy trình sắp xếp
+Dialogue: 0,0:16:38.75,0:16:41.55,Main,Akira,0,0,0,,để người khác có thể xử lý những việc\Nnằm ngoài phạm vi của chính mình.
+Dialogue: 0,0:16:41.85,0:16:46.35,Main,Akira,0,0,0,,Quy trình đó vẫn chưa hoàn thiện,\Nnên tôi mới phải đích thân đi quán xuyến.
+Dialogue: 0,0:16:46.35,0:16:48.08,Main,Eunomia,0,0,0,,Đúng là đồ ngốc nghếch!
+Dialogue: 0,0:16:48.08,0:16:49.24,Main,Eunomia,0,0,0,,Ngươi là Đại Ma Vương cơ mà,
+Dialogue: 0,0:16:49.24,0:16:52.28,Main,Eunomia,0,0,0,,cứ dùng sức mạnh Đại Ma Vương\Nmà giải quyết cái roẹt là xong ngay chứ gì!
+Dialogue: 0,0:16:52.28,0:16:55.22,Italics,Akira,0,0,0,,Con bé này chẳng chịu nghe lời tí nào cả.
+Dialogue: 0,0:16:55.66,0:16:57.36,Main,adventurer 2,0,0,0,,Tìm thấy mày rồi.
+Dialogue: 0,0:16:59.12,0:17:01.03,Sign_Basic,text,0,0,0,,TÔI ĐÃ THUA GOBLIN
+Dialogue: 0,0:16:59.11,0:17:00.53,Main,adventurer 2,0,0,0,,Mày tiêu đời rồi...
+Dialogue: 0,0:17:03.08,0:17:04.87,Main,adventurer 2,0,0,0,,Tao sẽ giết mày!
+Dialogue: 0,0:17:04.87,0:17:06.60,Main,Akira,0,0,0,,Eunomia, trốn mau!
+Dialogue: 0,0:17:06.60,0:17:08.29,Main,Eunomia,0,0,0,,Hả? Được rồi!
+Dialogue: 0,0:17:08.29,0:17:12.21,Main,adventurer 2,0,0,0,,Mày biến tao thành trò hề cho thiên hạ cười chê!
+Dialogue: 0,0:17:14.56,0:17:16.73,Italics,Akira,0,0,0,,Là mạo hiểm giả lần trước mình đuổi đi.
+Dialogue: 0,0:17:16.73,0:17:19.17,Italics,Akira,0,0,0,,Thấy cũng tội, mà thôi cũng kệ.
+Dialogue: 0,0:17:22.43,0:17:26.14,Sign_Basic,text,0,0,0,,TÔI ĐÃ THUA GOBLIN
+Dialogue: 0,0:17:19.82,0:17:23.19,Italics,Akira,0,0,0,,Rõ ràng là hình xăm đang phát huy\Nhiệu quả răn đe rất tốt,
+Dialogue: 0,0:17:23.19,0:17:26.14,Italics,Akira,0,0,0,,dạo gần đây số kẻ đột nhập đã giảm hẳn.
+Dialogue: 0,0:17:26.14,0:17:28.66,Italics,Akira,0,0,0,,Thay vào đó, số lượng kẻ tái phạm lại tăng lên.
+Dialogue: 0,0:17:28.66,0:17:29.81,Italics,Akira,0,0,0,,Cơ mà...
+Dialogue: 0,0:17:29.81,0:17:32.79,Main,adventurer 2,0,0,0,,Chết đi!
+Dialogue: 0,0:17:30.98,0:17:31.98,Sign_Basic,text,0,0,0,,KẺ MẠNH SINH TỒN
+Dialogue: 0,0:17:30.97,0:17:32.82,Italics,Akira,0,0,0,,Chuyện nhỏ thôi.
+Dialogue: 0,0:17:38.62,0:17:40.98,Main,Akira,0,0,0,,Không bao giờ được bước chân vào khu rừng này nữa.
+Dialogue: 0,0:17:40.98,0:17:44.17,Main,adventurer 2,0,0,0,,Vâng. Tôi sẽ không bao giờ bước chân\Nvào khu rừng này nữa.
+Dialogue: 0,0:17:44.49,0:17:46.23,Main,Akira,0,0,0,,Nhóc ra ngoài được rồi đấy!
+Dialogue: 0,0:17:50.75,0:17:52.19,Main,Akira,0,0,0,,Sao thế?
+Dialogue: 0,0:17:52.19,0:17:53.37,Main,Akira,0,0,0,,Nhóc sợ à?
+Dialogue: 0,0:17:53.37,0:17:55.15,Main,Eunomia,0,0,0,,K-Không có gì hết!
+Dialogue: 0,0:17:55.15,0:17:57.18,Main,Akira,0,0,0,,Trông mặt nhóc tái mét thế kia cơ mà.
+Dialogue: 0,0:17:57.17,0:17:59.84,Sign_Basic,text,0,0,0,,KẺ MẠNH SINH TỒN
+Dialogue: 0,0:17:57.18,0:17:59.42,Main,Akira,0,0,0,,Nếu bị thương thì tôi sẽ dùng Đại Trị Liệu (Great Heal).
+Dialogue: 0,0:18:00.09,0:18:02.50,Main,Eunomia,0,0,0,,Đã bảo là không có gì rồi mà!
+Dialogue: 0,0:18:11.10,0:18:12.85,Main,Akira,0,0,0,,Vậy thì tốt.
+Dialogue: 0,0:18:15.60,0:18:17.25,Main,Akira,0,0,0,,Tôi đưa nhóc về làng nhé.
+Dialogue: 0,0:18:19.40,0:18:20.50,Main,Eunomia,0,0,0,,Tại sao?
+Dialogue: 0,0:18:20.94,0:18:21.86,Main,Akira,0,0,0,,Hả?
+Dialogue: 0,0:18:21.86,0:18:25.03,Main,Eunomia,0,0,0,,Tại sao ngươi không dùng\Nsức mạnh của Đại Ma Vương lên ta?!
+Dialogue: 0,0:18:26.10,0:18:28.00,Main,Akira,0,0,0,,Kẻ Mạnh Sinh Tồn ấy à?
+Dialogue: 0,0:18:28.45,0:18:31.38,Main,Eunomia,0,0,0,,Đúng thế! Ta vẫn luôn chống đối ngươi cơ mà!
+Dialogue: 0,0:18:33.73,0:18:38.46,Main,Akira,0,0,0,,Nhóc có gây hại gì đâu, với lại\Ncần gì phải dùng biện pháp trấn áp chứ.
+Dialogue: 0,0:18:39.97,0:18:45.43,Main,Akira,0,0,0,,Nhóc ngủ đẫy giấc, chạy nhảy tung tăng,\Nlại còn ăn uống ngon lành.
+Dialogue: 0,0:18:46.01,0:18:49.55,Main,Akira,0,0,0,,Hơn nữa chị Diké thích nhóc hoạt bát,\Nnghịch ngợm bướng bỉnh thế này hơn.
+Dialogue: 0,0:18:50.25,0:18:51.19,Main,Akira,0,0,0,,Với lại...
+Dialogue: 0,0:18:51.19,0:18:52.53,Main,Eunomia,0,0,0,,Gì cơ?
+Dialogue: 0,0:18:52.86,0:18:55.97,Main,Akira,0,0,0,,Hoạt bát, tràn đầy năng lượng mới hợp với nhóc nhất.
+Dialogue: 0,0:18:59.63,0:19:00.62,Main,Eunomia,0,0,0,,Ta...
+Dialogue: 0,0:19:01.05,0:19:01.91,Main,Akira,0,0,0,,"Ta" sao?
+Dialogue: 0,0:19:02.37,0:19:03.79,Main,Eunomia,0,0,0,,Ta không công nhận đâu!
+Dialogue: 0,0:19:04.50,0:19:08.04,Main,Eunomia,0,0,0,,Ta sẽ không đời nào thừa nhận chuyện này đâu đấy!
+Dialogue: 0,0:19:11.20,0:19:13.36,Main,Akira,0,0,0,,Đang trong độ tuổi nổi loạn hay gì trời?
+Dialogue: 0,0:19:27.13,0:19:28.16,Main,Akira,0,0,0,,Mời vào.
+Dialogue: 0,0:19:32.11,0:19:33.81,Main,Akira,0,0,0,,Cô thấy khỏe hơn chưa?
+Dialogue: 0,0:19:35.25,0:19:36.59,Main,Akira,0,0,0,,Eirene.
+Dialogue: 0,0:19:37.16,0:19:38.98,Main,Eirene,0,0,0,,Vâng, tôi đã khỏe hơn nhiều rồi.
+Dialogue: 0,0:19:39.67,0:19:45.40,Main,Eirene,0,0,0,,Tôi nghe Diké kể rằng cậu đã dùng\Nsức mạnh của người đàn ông đó để cứu chúng tôi.
+Dialogue: 0,0:19:45.69,0:19:46.98,Italics,Akira,0,0,0,,"Người đàn ông đó" sao...
+Dialogue: 0,0:19:47.75,0:19:52.62,Main,Akira,0,0,0,,Đúng vậy, nhưng chẳng phải đó là lý do\Ncô đã tìm kiếm tôi trong khu rừng này sao?
+Dialogue: 0,0:19:53.60,0:19:54.90,Main,Eirene,0,0,0,,Đúng thế.
+Dialogue: 0,0:19:55.37,0:19:59.23,Main,Eirene,0,0,0,,Nhưng chỉ vì tôi đến tìm kiếm\Nkỹ năng của người đàn ông đó,
+Dialogue: 0,0:19:59.23,0:20:02.67,Main,Eirene,0,0,0,,không có nghĩa tôi biết được\Nchủ nhân mới của nó sẽ là người như thế nào.
+Dialogue: 0,0:20:02.67,0:20:04.98,Italics,Akira,0,0,0,,Đúng là canh bạc thật.
+Dialogue: 0,0:20:04.98,0:20:07.74,Italics,Akira,0,0,0,,Mình hoàn toàn hiểu được vì sao Diké lại lo lắng đến vậy.
+Dialogue: 0,0:20:10.68,0:20:12.43,Main,Eirene,0,0,0,,Có chuyện gì sao?
+Dialogue: 0,0:20:12.43,0:20:15.64,Main,Akira,0,0,0,,Cô sẽ không nổi đóa đùng đùng với tôi\Nnhư Eunomia đấy chứ?
+Dialogue: 0,0:20:16.74,0:20:18.81,Main,Eirene,0,0,0,,Đúng là tính cách của con bé thật.
+Dialogue: 0,0:20:20.53,0:20:23.86,Main,Eirene,0,0,0,,Nhưng tôi sẽ không làm thế đâu.
+Dialogue: 0,0:20:27.28,0:20:29.94,Main,Eirene,0,0,0,,Tôi cảm thấy mang ơn cậu rất nhiều.
+Dialogue: 0,0:20:42.80,0:20:44.34,Main,Akira,0,0,0,,C-Cái gì cơ?!
+Dialogue: 0,0:20:44.85,0:20:48.47,Main,Eirene,0,0,0,,Một chút "tâm (ngực)" ý cảm tạ của tôi.
+Dialogue: 0,0:20:49.76,0:20:51.36,Italics,Akira,0,0,0,,Thôi xong! Tiêu rồi! Quả này toang thật rồi!
+Dialogue: 0,0:20:51.36,0:20:56.27,Main,Eirene,0,0,0,,Tôi biết là goblin có dục vọng siêu mãnh liệt mà.
+Dialogue: 0,0:21:00.43,0:21:02.89,Main,Eunomia,0,0,0,,Chị bảo em tới đây để xin lỗi—
+Dialogue: 0,0:21:07.36,0:21:08.86,Main,Eirene,0,0,0,,Ối chà chà.
+Dialogue: 0,0:21:10.08,0:21:13.67,Main,Eunomia,0,0,0,,Biết ngay mà! Goblin đúng là lũ cầm thú!
+Dialogue: 0,0:21:14.36,0:21:18.17,Main,Eirene,0,0,0,,Thế là cậu lọt vào tầm ngắm của con bé rồi.\NTính nó bướng bỉnh lắm đấy.
+Dialogue: 0,0:21:18.17,0:21:19.92,Main,Akira,0,0,0,,Hiểu lầm thôi mà!
+Dialogue: 0,0:21:20.26,0:21:22.00,Main,Eirene,0,0,0,,Tôi đâu có trêu chọc cậu đâu.
+Dialogue: 0,0:21:22.55,0:21:27.00,Main,Eirene,0,0,0,,Tôi thật lòng muốn bày tỏ lòng biết ơn mà.
+Dialogue: 0,0:21:28.21,0:21:30.53,Main,Eirene,0,0,0,,Vậy nên là, ừm...
+Dialogue: 0,0:21:31.14,0:21:34.19,Main,Diké,0,0,0,,Ngài Akira, em đang tìm Mia ạ.
+Dialogue: 0,0:21:34.19,0:21:36.40,Main,Diké,0,0,0,,Ôi, chị Eirene.
+Dialogue: 0,0:21:37.27,0:21:39.64,Main,Akira,0,0,0,,Đừng có trêu tôi quá trớn thế chứ...
+Dialogue: 0,0:21:40.89,0:21:43.27,Main,Akira,0,0,0,,Em ấy vừa mới chạy vụt qua đây xong.
+Dialogue: 0,0:21:43.27,0:21:45.00,Main,Akira,0,0,0,,Để tôi đi tìm cùng cô nhé.
+Dialogue: 0,0:21:45.00,0:21:47.52,Main,Diké,0,0,0,,Ôi, cảm ơn ngài nhiều lắm ạ!
+Dialogue: 0,0:22:04.74,0:22:08.48,Main,Eirene,0,0,0,,Thực sự... cảm ơn cậu rất nhiều.
+Dialogue: 0,0:22:10.68,0:22:14.97,Sign_Basic,Credit,0,0,0,,Phụ đề Việt ngữ: Amtia(NOFACE)
+Dialogue: 0,0:22:15.14,0:22:19.43,Sign_Basic,Credit,0,0,0,,Biên dịch & Kỹ thuật: Amtia(NOFACE)
+Dialogue: 0,0:22:19.65,0:22:23.90,Sign_Basic,Credit,0,0,0,,Kiểm định chất lượng: Amtia(NOFACE)
+
