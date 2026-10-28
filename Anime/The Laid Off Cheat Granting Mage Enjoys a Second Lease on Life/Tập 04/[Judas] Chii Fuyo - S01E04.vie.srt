@@ -1,694 +1,686 @@
 ﻿1
 00:00:05,890 --> 00:00:08,710
-<font face="Segoe UI" size="24"><i>He's trying to live earnestly...</i></font>
+<font face="Segoe UI" size="24"><i>Tôi biết là anh ấy đang cố sống một cách nghiêm túc...</i></font>
 
 2
 00:00:08,710 --> 00:00:10,570
-<font face="Segoe UI" size="24"><i>But he's just so stupid.</i></font>
+<font face="Segoe UI" size="24"><i>Nhưng anh ấy ngốc nghếch hết phần thiên hạ thật.</i></font>
 
 3
 00:00:10,880 --> 00:00:15,570
-<font face="Segoe UI" size="24">Did you not think it was weird that 
-nobody actually uses that armor?</font>
+<font face="Segoe UI" size="24">Bộ anh không thấy kỳ lạ khi 
+chẳng ai thèm dùng bộ giáp đó sao?</font>
 
 4
 00:00:15,570 --> 00:00:19,470
-<font face="Segoe UI" size="24">None of the Beast's Fangs 
-members used it, right?</font>
+<font face="Segoe UI" size="24">Đến cả thành viên của Nanh Vuốt Dã Thú 
+cũng chẳng ai đụng vào nó, đúng chứ?</font>
 
 5
 00:00:19,470 --> 00:00:27,140
-<font face="Segoe UI" size="24">I just thought nobody else could 
-get their hands on this armor.</font>
+<font face="Segoe UI" size="24">Tôi chỉ nghĩ đơn giản là chẳng ai khác 
+chạm tay vào được bộ giáp này thôi mà.</font>
 
 6
 00:00:27,140 --> 00:00:32,560
-<font face="Segoe UI" size="24">I thought if I wore this, you'd 
-stamp your feet in frustration...</font>
+<font face="Segoe UI" size="24">Tôi cứ tưởng nếu mình mặc nó vào, cô sẽ 
+tức tối giậm chân giậm cẳng...</font>
 
 7
 00:00:32,560 --> 00:00:33,840
-<font face="Segoe UI" size="24">I'm so frustrated!</font>
+<font face="Segoe UI" size="24">Tức chết đi được ấy chứ!</font>
 
 8
 00:00:33,840 --> 00:00:36,050
-<font face="Segoe UI" size="24">...and I could look down on you.</font>
+<font face="Segoe UI" size="24">...và rồi tôi có thể nhìn cô bằng nửa con mắt.</font>
 
 9
 00:00:36,050 --> 00:00:37,520
-<font face="Segoe UI" size="24">His personality's rotten, too!</font>
+<font face="Segoe UI" size="24">Tính nết anh cũng thối tha không kém!</font>
 
 10
 00:00:51,950 --> 00:00:54,580
-<font face="Segoe UI" size="24">{\an8}THE LAID-OFF CHEAT-GRANTING MAGE
-ENJOYS A SECOND LEASE ON LIFE</font>
+<font face="Segoe UI" size="24">{\an8}MA PHÁP SƯ BAN PHƯỚC CHEAT BỊ ĐUỔI VIỆC
+TẬN HƯỞNG CUỘC SỐNG MỚI</font>
 
 11
 00:02:09,100 --> 00:02:14,720
-<font face="Segoe UI" size="24">I didn't choose to become an 
-enchanter instead of an adventurer</font>
+<font face="Segoe UI" size="24">Việc tôi chọn trở thành ma pháp sư ban phước 
+thay vì một mạo hiểm giả</font>
 
 12
 00:02:14,720 --> 00:02:16,200
-<font face="Segoe UI" size="24">for any particular reason.</font>
+<font face="Segoe UI" size="24">chẳng vì lý do đặc biệt nào cả.</font>
 
 13
 00:02:16,200 --> 00:02:17,240
-<font face="Segoe UI" size="24">Where's your motivation?!</font>
+<font face="Segoe UI" size="24">Động lực của anh vứt cho chó ăn rồi à?!</font>
 
 14
 00:02:17,460 --> 00:02:23,950
-<font face="Segoe UI" size="24">But I think I subconsciously chose 
-the role with less responsibility.</font>
+<font face="Segoe UI" size="24">Nhưng trong tiềm thức, chắc tôi đã chọn 
+vị trí ít phải gánh vác trách nhiệm hơn.</font>
 
 15
 00:02:24,260 --> 00:02:29,700
-<font face="Segoe UI" size="24">When you're an adventurer, your actions 
-could hurt the people around you.</font>
+<font face="Segoe UI" size="24">Bởi khi làm mạo hiểm giả, hành động của cậu 
+có thể làm tổn thương những người xung quanh.</font>
 
 16
 00:02:31,440 --> 00:02:34,150
-<font face="Segoe UI" size="24">I guess he's not all bad.</font>
+<font face="Segoe UI" size="24">Coi bộ anh ta cũng không hẳn là người xấu.</font>
 
 17
 00:02:34,150 --> 00:02:35,830
-<font face="Segoe UI" size="24">I guess not.</font>
+<font face="Segoe UI" size="24">Em cũng nghĩ thế.</font>
 
 18
 00:02:35,830 --> 00:02:39,730
-<font face="Segoe UI" size="24">Now I'm scared of losing you two.</font>
+<font face="Segoe UI" size="24">Giờ thì tôi sợ mất đi hai người lắm.</font>
 
 19
 00:02:40,130 --> 00:02:46,310
-<font face="Segoe UI" size="24">The Radiant Dragon Ruins in Gadressa, 
-the eastern capital, are dangerous, right?</font>
+<font face="Segoe UI" size="24">Di tích Quang Long ở Gadressa, 
+vương đô phía đông, rất nguy hiểm đúng không?</font>
 
 20
 00:02:47,960 --> 00:02:54,220
-<font face="Segoe UI" size="24">If we're discussing risks,
-I shouldn't be adventuring anymore.</font>
+<font face="Segoe UI" size="24">Nếu cứ bàn về rủi ro,
+thì em chẳng nên đi mạo hiểm nữa làm gì.</font>
 
 21
 00:02:54,220 --> 00:03:00,440
-<font face="Segoe UI" size="24">But still, I have to go to 
-the Radiant Dragon Ruins.</font>
+<font face="Segoe UI" size="24">Dù vậy, em nhất định phải đến 
+Di tích Quang Long.</font>
 
 22
 00:03:02,540 --> 00:03:05,230
-<font face="Segoe UI" size="24">If Lily's going, I'm going.</font>
+<font face="Segoe UI" size="24">Nếu Lily đi, tôi cũng sẽ đi.</font>
 
 23
 00:03:05,230 --> 00:03:07,950
-<font face="Segoe UI" size="24">I need to confirm why my sister died.</font>
+<font face="Segoe UI" size="24">Tôi cần phải xác minh lý do chị gái tôi qua đời.</font>
 
 24
 00:03:06,980 --> 00:03:07,950
-<font face="Segoe UI" size="24">But...</font>
+<font face="Segoe UI" size="24">Nhưng mà...</font>
 
 25
 00:03:08,770 --> 00:03:12,540
-<font face="Segoe UI" size="24">if you die before you achieve your goals, 
-you won't be able to fulfill them.</font>
+<font face="Segoe UI" size="24">nếu chết trước khi đạt được mục tiêu, 
+thì mọi chuyện cũng coi như chấm hết.</font>
 
 26
 00:03:13,080 --> 00:03:14,300
-<font face="Segoe UI" size="24">Well...</font>
+<font face="Segoe UI" size="24">Chuyện đó...</font>
 
 27
 00:03:14,300 --> 00:03:20,490
-<font face="Segoe UI" size="24">I'm worried you'll get tunnel vision 
-and won't retreat if things get dicey.</font>
+<font face="Segoe UI" size="24">Tôi sợ hai người sẽ mù quáng đâm đầu 
+mà không chịu rút lui khi tình thế nguy cấp.</font>
 
 28
 00:03:20,920 --> 00:03:24,050
-<font face="Segoe UI" size="24">So I have a request.</font>
+<font face="Segoe UI" size="24">Nên tôi có một thỉnh cầu.</font>
 
 29
 00:03:25,480 --> 00:03:28,310
-<font face="Segoe UI" size="24">Let me lead this adventure.</font>
+<font face="Segoe UI" size="24">Hãy để tôi chỉ huy chuyến mạo hiểm này.</font>
 
 30
 00:03:29,640 --> 00:03:32,900
-<font face="Segoe UI" size="24">You, the least experienced of us three?</font>
+<font face="Segoe UI" size="24">Anh á? Kẻ ít kinh nghiệm nhất trong ba người chúng ta?</font>
 
 31
 00:03:32,900 --> 00:03:35,650
-<font face="Segoe UI" size="24">I guess you're not over your 
-habit of joking around.</font>
+<font face="Segoe UI" size="24">Xem ra cái thói đùa cợt của anh 
+vẫn chưa bỏ được nhỉ.</font>
 
 32
 00:03:35,650 --> 00:03:39,050
-<font face="Segoe UI" size="24">Naturally, I'll need your 
-experience and advice,</font>
+<font face="Segoe UI" size="24">Đương nhiên tôi vẫn cần kinh nghiệm 
+và lời khuyên từ hai người,</font>
 
 33
 00:03:39,050 --> 00:03:42,510
-<font face="Segoe UI" size="24">but I think I can stay 
-calmer than you two,</font>
+<font face="Segoe UI" size="24">nhưng tôi nghĩ mình có thể giữ được bình tĩnh 
+hơn cả hai,</font>
 
 34
 00:03:42,510 --> 00:03:45,410
-<font face="Segoe UI" size="24">so I want you to let me have 
-the final say in any decisions.</font>
+<font face="Segoe UI" size="24">vì thế hãy để tôi đưa ra quyết định cuối cùng.</font>
 
 35
 00:03:46,230 --> 00:03:49,910
-<font face="Segoe UI" size="24">You mean we have to retreat if you say so?</font>
+<font face="Segoe UI" size="24">Ý anh là bọn em phải rút lui nếu anh yêu cầu sao?</font>
 
 36
 00:03:49,910 --> 00:03:53,450
-<font face="Segoe UI" size="24">Yeah. Naturally, we'd 
-try again in that case.</font>
+<font face="Segoe UI" size="24">Ừ. Đương nhiên khi đó 
+chúng ta sẽ quay lại thử sức lần nữa.</font>
 
 37
 00:03:53,770 --> 00:03:55,000
-<font face="Segoe UI" size="24">You're okay with that, right?</font>
+<font face="Segoe UI" size="24">Hai người thấy thế được chứ?</font>
 
 38
 00:03:58,620 --> 00:04:02,020
-<font face="Segoe UI" size="24">I suppose. I'll leave it up to you two.</font>
+<font face="Segoe UI" size="24">Tôi sao cũng được. Tùy hai người quyết định.</font>
 
 39
 00:04:02,540 --> 00:04:04,010
-<font face="Segoe UI" size="24">Okay, Rein.</font>
+<font face="Segoe UI" size="24">Được rồi, anh Rein.</font>
 
 40
 00:04:04,290 --> 00:04:05,780
-<font face="Segoe UI" size="24">You're our leader.</font>
+<font face="Segoe UI" size="24">Anh sẽ là đội trưởng của bọn em.</font>
 
 41
 00:04:05,780 --> 00:04:06,780
-<font face="Segoe UI" size="24">Great!</font>
+<font face="Segoe UI" size="24">Tuyệt vời!</font>
 
 42
 00:04:07,590 --> 00:04:11,480
-<font face="Segoe UI" size="24">Then put your equipment on 
-the table. I'll enchant it.</font>
+<font face="Segoe UI" size="24">Vậy thì đặt trang bị lên bàn đi. 
+Tôi sẽ ban phước cường hóa cho.</font>
 
 43
 00:04:11,480 --> 00:04:11,990
-<font face="Segoe UI" size="24">Huh?</font>
+<font face="Segoe UI" size="24">Hả?</font>
 
 44
 00:04:11,990 --> 00:04:13,480
-<font face="Segoe UI" size="24">That's not necessary.</font>
+<font face="Segoe UI" size="24">Không cần thiết đâu.</font>
 
 45
 00:04:13,480 --> 00:04:16,190
-<font face="Segoe UI" size="24">How many times have 
-I told you I don't need it?</font>
+<font face="Segoe UI" size="24">Em đã nói bao nhiêu lần 
+là em không cần rồi mà?</font>
 
 46
 00:04:16,190 --> 00:04:18,970
-<font face="Segoe UI" size="24">You have to. Maybe it's not necessary 
-to enchant your weapons,</font>
+<font face="Segoe UI" size="24">Bắt buộc đấy. Có thể không cần 
+cường hóa vũ khí của hai người,</font>
 
 47
 00:04:18,970 --> 00:04:21,490
-<font face="Segoe UI" size="24">but I'm enchanting your 
-armor no matter what</font>
+<font face="Segoe UI" size="24">nhưng tôi nhất định sẽ cường hóa 
+giáp bảo hộ bằng mọi giá,</font>
 
 48
 00:04:21,490 --> 00:04:23,840
-<font face="Segoe UI" size="24">so we can all make it back alive.</font>
+<font face="Segoe UI" size="24">để tất cả chúng ta đều có thể sống sót trở về.</font>
 
 49
 00:04:23,840 --> 00:04:25,610
-<font face="Segoe UI" size="24">That's my decision as party leader.</font>
+<font face="Segoe UI" size="24">Đó là mệnh lệnh của đội trưởng.</font>
 
 50
 00:04:27,030 --> 00:04:29,980
-<font face="Segoe UI" size="24">Is this why you wanted to be the leader?</font>
+<font face="Segoe UI" size="24">Hóa ra đây là lý do anh muốn làm đội trưởng đấy à?</font>
 
 51
 00:04:29,980 --> 00:04:30,870
-<font face="Segoe UI" size="24">Yeah.</font>
+<font face="Segoe UI" size="24">Phải đấy.</font>
 
 52
 00:04:33,840 --> 00:04:36,930
-<font face="Segoe UI" size="24">Then please enchant my gear, leader.</font>
+<font face="Segoe UI" size="24">Vậy thì trăm sự nhờ đội trưởng cường hóa giúp em nhé.</font>
 
 53
 00:04:38,130 --> 00:04:43,140
-<font face="Segoe UI" size="24">{\an8}THERE'S SOMETHING I'VE LEARNED FROM ENDING UP NAKED
-TWICE... WHEN YOU'RE NAKED, YOU GET BITTEN TWICE.</font>
+<font face="Segoe UI" size="24">{\an8}TẬP 4: BÀI HỌC RÚT RA SAU HAI LẦN KHỎA THÂN...
+CỨ LỘT ĐỒ LÀ SẼ BỊ CẮN HAI PHÁT.</font>
 
 54
 00:04:47,990 --> 00:04:51,930
-<font face="Segoe UI" size="24">Lily, I applied 300 bonus 
-points to your armor.</font>
+<font face="Segoe UI" size="24">Lily, tôi đã buff thêm 300 điểm 
+vào giáp của cậu rồi đấy.</font>
 
 55
 00:04:51,930 --> 00:04:55,520
-<font face="Segoe UI" size="24">That's the current max I can 
-apply to another person's armor.</font>
+<font face="Segoe UI" size="24">Đó là giới hạn tối đa hiện tại 
+tôi có thể buff vào giáp của người khác.</font>
 
 56
 00:04:55,520 --> 00:04:57,560
-<font face="Segoe UI" size="24"><i>Th-Three hundred?!</i></font>
+<font face="Segoe UI" size="24"><i>B-Ba trăm điểm cơ á?!</i></font>
 
 57
 00:04:57,560 --> 00:05:02,670
-<font face="Segoe UI" size="24"><i>Even high-level enchanters can only 
-grant between three and five points.</i></font>
+<font face="Segoe UI" size="24"><i>Ngay cả ma pháp sư ban phước cấp cao 
+cũng chỉ buff được từ 3 đến 5 điểm thôi mà.</i></font>
 
 58
 00:05:03,010 --> 00:05:05,770
-<font face="Segoe UI" size="24"><i>That's an impossible value.</i></font>
+<font face="Segoe UI" size="24"><i>Con số này quá sức phi lý rồi.</i></font>
 
 59
 00:05:05,770 --> 00:05:09,210
-<font face="Segoe UI" size="24">Margaret, let me see your armor, too.</font>
+<font face="Segoe UI" size="24">Margaret, đưa giáp của cô cho tôi xem nào.</font>
 
 60
 00:05:10,030 --> 00:05:14,490
-<font face="Segoe UI" size="24">I've adventured without owing 
-any debts or favors until now.</font>
+<font face="Segoe UI" size="24">Từ trước tới giờ tôi đi thám hiểm 
+chẳng bao giờ nợ nần hay mang ơn ai cả.</font>
 
 61
 00:05:14,490 --> 00:05:16,890
-<font face="Segoe UI" size="24">I don't want to owe you anything.</font>
+<font face="Segoe UI" size="24">Tôi không muốn phải nợ anh bất cứ điều gì.</font>
 
 62
 00:05:16,890 --> 00:05:19,250
-<font face="Segoe UI" size="24">You won't owe me anything.</font>
+<font face="Segoe UI" size="24">Cô sẽ chẳng nợ nần gì tôi đâu.</font>
 
 63
 00:05:19,250 --> 00:05:23,260
-<font face="Segoe UI" size="24">I'm just doing what I can 
-because we're going together.</font>
+<font face="Segoe UI" size="24">Tôi chỉ làm những gì mình có thể 
+vì chúng ta đi cùng nhau thôi.</font>
 
 64
 00:05:23,510 --> 00:05:24,810
-<font face="Segoe UI" size="24">Because we're allies.</font>
+<font face="Segoe UI" size="24">Vì chúng ta là đồng đội mà.</font>
 
 65
 00:05:25,800 --> 00:05:26,980
-<font face="Segoe UI" size="24">Allies?</font>
+<font face="Segoe UI" size="24">Đồng đội ư?</font>
 
 66
 00:05:30,530 --> 00:05:31,260
-<font face="Segoe UI" size="24">My sister...</font>
+<font face="Segoe UI" size="24">Chị gái tôi...</font>
 
 67
 00:05:32,640 --> 00:05:38,300
-<font face="Segoe UI" size="24">My sister trusted her allies, 
-but she died while adventuring.</font>
+<font face="Segoe UI" size="24">Chị tôi từng tin tưởng đồng đội, 
+để rồi bỏ mạng trong chuyến thám hiểm.</font>
 
 68
 00:05:38,610 --> 00:05:42,900
-<font face="Segoe UI" size="24">The allies you trust to watch 
-your back sometimes run away.</font>
+<font face="Segoe UI" size="24">Những kẻ mà chị tin tưởng giao phó sau lưng 
+lại chính là những kẻ bỏ chạy trước nhất.</font>
 
 69
 00:05:44,050 --> 00:05:47,570
-<font face="Segoe UI" size="24">So I don't need allies.</font>
+<font face="Segoe UI" size="24">Thế nên tôi không cần đồng đội.</font>
 
 70
 00:05:49,160 --> 00:05:49,580
-<font face="Segoe UI" size="24">But—</font>
+<font face="Segoe UI" size="24">Nhưng mà—</font>
 
 71
 00:05:49,580 --> 00:05:51,370
-<font face="Segoe UI" size="24">This conversation is over.</font>
+<font face="Segoe UI" size="24">Cuộc nói chuyện kết thúc ở đây.</font>
 
 72
 00:05:51,740 --> 00:05:55,130
-<font face="Segoe UI" size="24">Please leave. We'll meet again 
-when it's time to depart.</font>
+<font face="Segoe UI" size="24">Xin mời hai người về cho. Chúng ta sẽ gặp lại 
+vào lúc khởi hành.</font>
 
 73
 00:05:59,330 --> 00:06:00,390
-<font face="Segoe UI" size="24">Leave!</font>
+<font face="Segoe UI" size="24">Về đi!</font>
 
 74
 00:06:11,690 --> 00:06:15,770
-<font face="Segoe UI" size="24">Margaret, come eat with us over there.</font>
+<font face="Segoe UI" size="24">Margaret, qua bên này ăn cùng bọn chị đi.</font>
 
 75
 00:06:17,350 --> 00:06:21,450
-<font face="Segoe UI" size="24"><i>Half of those adventurers 
-are already dead.</i></font>
+<font face="Segoe UI" size="24"><i>Một nửa số mạo hiểm giả trong nhóm đó 
+đã bỏ mạng rồi.</i></font>
 
 76
 00:06:22,430 --> 00:06:25,200
-<font face="Segoe UI" size="24"><i>That woman made a stupid mistake,</i></font>
+<font face="Segoe UI" size="24"><i>Người phụ nữ đó đã phạm phải một sai lầm ngớ ngẩn,</i></font>
 
 77
 00:06:25,200 --> 00:06:28,130
-<font face="Segoe UI" size="24"><i>and her allies paid 
-for it with their lives.</i></font>
+<font face="Segoe UI" size="24"><i>và những người đồng đội của cô ta 
+đã phải trả giá bằng cả mạng sống.</i></font>
 
 78
 00:06:32,070 --> 00:06:36,550
-<font face="Segoe UI" size="24"><i>Maybe adventuring with allies is more fun.</i></font>
+<font face="Segoe UI" size="24"><i>Có lẽ đi mạo hiểm cùng đồng đội sẽ vui hơn.</i></font>
 
 79
 00:06:36,550 --> 00:06:39,300
-<font face="Segoe UI" size="24"><i>We could even help each other.</i></font>
+<font face="Segoe UI" size="24"><i>Lại còn có thể tương trợ lẫn nhau nữa.</i></font>
 
 80
 00:06:39,740 --> 00:06:43,910
-<font face="Segoe UI" size="24"><i>But allies are a sweet 
-nectar tainted with poison.</i></font>
+<font face="Segoe UI" size="24"><i>Nhưng đồng đội chỉ là thứ mật ngọt tẩm độc dược.</i></font>
 
 81
 00:06:44,810 --> 00:06:48,920
-<font face="Segoe UI" size="24"><i>I've always survived on my strength alone.</i></font>
+<font face="Segoe UI" size="24"><i>Mình luôn phải tự lực cánh sinh để sinh tồn.</i></font>
 
 82
 00:06:50,090 --> 00:06:51,300
-<font face="Segoe UI" size="24">Let's go for a—</font>
+<font face="Segoe UI" size="24">Đi dạo một—</font>
 
 83
 00:06:56,060 --> 00:06:59,000
-<font face="Segoe UI" size="24">Wh-Wh-Wh-Wh-What are you doing, Rein?!</font>
+<font face="Segoe UI" size="24">A-A-A-Anh đang làm cái trò gì thế hả Rein?!</font>
 
 84
 00:06:59,000 --> 00:07:00,920
-<font face="Segoe UI" size="24">I was waiting for you.</font>
+<font face="Segoe UI" size="24">Tôi đang đợi cô nè.</font>
 
 85
 00:07:00,920 --> 00:07:02,940
-<font face="Segoe UI" size="24">Naked while being bitten by a dog?!</font>
+<font face="Segoe UI" size="24">Khỏa thân trong khi bị chó cắn á?!</font>
 
 86
 00:07:02,940 --> 00:07:05,500
-<font face="Segoe UI" size="24">My clothes are enchanted.</font>
+<font face="Segoe UI" size="24">Quần áo của tôi được ếm phép cường hóa rồi.</font>
 
 87
 00:07:05,500 --> 00:07:08,450
-<font face="Segoe UI" size="24">They're tough enough to screw up 
-someone's hand if they hit me.</font>
+<font face="Segoe UI" size="24">Nó cứng đến mức ai đấm vào tôi 
+là gãy tay như chơi đấy.</font>
 
 88
 00:07:08,450 --> 00:07:11,200
-<font face="Segoe UI" size="24">I did this to save the 
-dog's teeth when it bit me.</font>
+<font face="Segoe UI" size="24">Tôi làm thế này là để bảo vệ răng của chú chó 
+khi nó lỡ ngoạm vào tôi thôi.</font>
 
 89
 00:07:11,200 --> 00:07:12,820
-<font face="Segoe UI" size="24">I stripped for the dog!</font>
+<font face="Segoe UI" size="24">Tôi lột đồ là vì chú chó này đấy!</font>
 
 90
 00:07:11,200 --> 00:07:14,830
-<font face="Segoe UI" size="24">{\an8}MY FIRST SEXY EXPERIENCE</font>
+<font face="Segoe UI" size="24">{\an8}TRẢI NGHIỆM NÓNG BỎNG ĐẦU ĐỜI</font>
 
 91
 00:07:12,820 --> 00:07:14,830
-<font face="Segoe UI" size="24">You stripped for the dog?!</font>
+<font face="Segoe UI" size="24">Anh lột đồ vì con chó á?!</font>
 
 92
 00:07:14,830 --> 00:07:16,160
-<font face="Segoe UI" size="24">Are you okay?</font>
+<font face="Segoe UI" size="24">Mày có sao không thế?</font>
 
 93
 00:07:16,160 --> 00:07:18,440
-<font face="Segoe UI" size="24">Yeah, I'm totally fine.</font>
+<font face="Segoe UI" size="24">Ừ, tôi hoàn toàn ổn mà.</font>
 
 94
 00:07:18,440 --> 00:07:22,630
-<font face="Segoe UI" size="24">{\an8}I'm always telling you 
-not to eat weird stuff.</font>
+<font face="Segoe UI" size="24">{\an8}Tao đã bảo bao nhiêu lần 
+là không được ăn mấy thứ bậy bạ rồi cơ mà.</font>
 
 95
 00:07:22,100 --> 00:07:26,810
-<font face="Segoe UI" size="24"><i>She was talking to the dog, 
-not me. So politely, too.</i></font>
+<font face="Segoe UI" size="24"><i>Hóa ra cô ấy nói chuyện với con chó, 
+chứ không phải mình. Lại còn lễ phép thế nữa chứ.</i></font>
 
 96
 00:07:22,980 --> 00:07:24,220
-<font face="Segoe UI" size="24">{\an8}Please be more careful.</font>
+<font face="Segoe UI" size="24">{\an8}Lần sau phải cẩn thận hơn đấy nhé.</font>
 
 97
 00:07:24,220 --> 00:07:27,210
-<font face="Segoe UI" size="24">{\an8}There's bacteria everywhere. 
-Parasites, too.</font>
+<font face="Segoe UI" size="24">{\an8}Khắp nơi đều là vi khuẩn đấy. 
+Lại còn có cả ký sinh trùng nữa.</font>
 
 98
 00:07:27,210 --> 00:07:30,230
-<font face="Segoe UI" size="24">{\an8}It's raw. You have to cook it first.</font>
+<font face="Segoe UI" size="24">{\an8}Đồ sống thế này phải nấu chín lên đã.</font>
 
 99
 00:07:27,720 --> 00:07:33,320
-<font face="Segoe UI" size="24"><i>She must not open up to anyone 
-if she speaks formally to dogs.</i></font>
+<font face="Segoe UI" size="24"><i>Chắc cô ấy chẳng mở lòng với ai bao giờ 
+nên mới dùng kính ngữ với cả loài chó.</i></font>
 
 100
 00:07:30,640 --> 00:07:33,970
-<font face="Segoe UI" size="24">{\an8}It's best to cook it until 
-it's a little burnt.</font>
+<font face="Segoe UI" size="24">{\an8}Tốt nhất là nên nướng cho cháy xém một tí.</font>
 
 101
 00:07:35,760 --> 00:07:40,310
-<font face="Segoe UI" size="24">I can't bring your master with 
-me unless I enchant her armor.</font>
+<font face="Segoe UI" size="24">Tôi không thể dẫn chủ nhân của mày đi cùng 
+nếu không cường hóa giáp cho cô ấy được.</font>
 
 102
 00:07:40,310 --> 00:07:43,440
-<font face="Segoe UI" size="24">Could you help me keep her 
-here until she lets me—</font>
+<font face="Segoe UI" size="24">Mày có thể giúp tôi giữ chân cô ấy ở đây 
+cho đến khi cô ấy chịu để tôi—</font>
 
 103
 00:07:49,600 --> 00:07:50,540
-<font face="Segoe UI" size="24">All done.</font>
+<font face="Segoe UI" size="24">Xong xuôi rồi nhé.</font>
 
 104
 00:07:50,870 --> 00:07:52,820
-<font face="Segoe UI" size="24">Now this is +300, too.</font>
+<font face="Segoe UI" size="24">Giờ thì bộ này cũng được +300 rồi.</font>
 
 105
 00:07:55,280 --> 00:07:57,240
-<font face="Segoe UI" size="24"><i>I can't put a single scratch on it.</i></font>
+<font face="Segoe UI" size="24"><i>Không thể để lại một vết xước nào luôn.</i></font>
 
 106
 00:07:57,240 --> 00:07:59,620
-<font face="Segoe UI" size="24">Well, Margaret? Nice, right?</font>
+<font face="Segoe UI" size="24">Sao nào Margaret? Tuyệt cú mèo đúng không?</font>
 
 107
 00:07:59,840 --> 00:08:03,230
-<font face="Segoe UI" size="24"><i>Shit. It really is +300.</i></font>
+<font face="Segoe UI" size="24"><i>Khốn kiếp. Đúng là +300 thật.</i></font>
 
 108
 00:08:03,230 --> 00:08:06,190
-<font face="Segoe UI" size="24"><i>If Lily's armor has the same enchantment,</i></font>
+<font face="Segoe UI" size="24"><i>Nếu giáp của Lily cũng được cường hóa tương tự,</i></font>
 
 109
 00:08:06,630 --> 00:08:09,300
-<font face="Segoe UI" size="24"><i>I can't kill her with this sword.</i></font>
+<font face="Segoe UI" size="24"><i>thì thanh kiếm này của mình sẽ không thể giết chết ả.</i></font>
 
 110
 00:08:10,130 --> 00:08:13,970
-<font face="Segoe UI" size="24">Rein, could you enchant 
-this sword, as well?</font>
+<font face="Segoe UI" size="24">Rein, anh có thể cường hóa 
+thanh kiếm này giúp tôi luôn được không?</font>
 
 111
 00:08:15,940 --> 00:08:17,450
-<font face="Segoe UI" size="24">Here, Rein.</font>
+<font face="Segoe UI" size="24">Của anh này, Rein.</font>
 
 112
 00:08:18,480 --> 00:08:22,100
-<font face="Segoe UI" size="24">It's my spare armor.
-Take it with my gratitude.</font>
+<font face="Segoe UI" size="24">Đây là bộ giáp dự phòng của tôi. 
+Hãy nhận nó coi như lời cảm ơn nhé.</font>
 
 113
 00:08:22,500 --> 00:08:27,180
-<font face="Segoe UI" size="24">I'm nobody's ally, so neither 
-of us owe each other anything.</font>
+<font face="Segoe UI" size="24">Tôi không phải đồng đội của ai cả, 
+nên đôi bên chẳng ai nợ nần ai hết.</font>
 
 114
 00:08:30,010 --> 00:08:31,770
-<font face="Segoe UI" size="24">See you later, Margaret.</font>
+<font face="Segoe UI" size="24">Hẹn gặp lại sau nhé, Margaret.</font>
 
 115
 00:08:34,900 --> 00:08:38,800
-<font face="Segoe UI" size="24"><i>Now I can kill her once she's exhausted.</i></font>
+<font face="Segoe UI" size="24"><i>Giờ thì mình có thể khử ả một khi ả kiệt sức rồi.</i></font>
 
 116
 00:08:41,040 --> 00:08:44,050
-<font face="Segoe UI" size="24">What is it, Rein? Did you forget...</font>
+<font face="Segoe UI" size="24">Có chuyện gì thế Rein? Anh quên đồ...</font>
 
 117
 00:08:45,810 --> 00:08:49,290
-<font face="Segoe UI" size="24">Cornelius of the Beast's Fangs and...</font>
+<font face="Segoe UI" size="24">Cornelius của Nanh Vuốt Dã Thú và...</font>
 
 118
 00:08:49,290 --> 00:08:51,140
-<font face="Segoe UI" size="24">Who are you?</font>
+<font face="Segoe UI" size="24">Cô là ai?</font>
 
 119
 00:08:51,140 --> 00:08:54,470
-<font face="Segoe UI" size="24">We're kidnapping Rein. Join us.</font>
+<font face="Segoe UI" size="24">Bọn tao chuẩn bị bắt cóc thằng Rein. Khôn hồn thì nhập hội đi.</font>
 
 120
 00:08:54,470 --> 00:08:58,180
-<font face="Segoe UI" size="24">Did you already forget 
-that he beat you once?</font>
+<font face="Segoe UI" size="24">Mày quên mất là anh ấy từng cho mày 
+ăn một trận no đòn rồi à?</font>
 
 121
 00:08:58,180 --> 00:08:59,830
-<font face="Segoe UI" size="24">And I don't work with weak—</font>
+<font face="Segoe UI" size="24">Và tao không rảnh hợp tác với lũ yếu—</font>
 
 122
 00:08:59,830 --> 00:09:00,730
-<font face="Segoe UI" size="24">We're coming in.</font>
+<font face="Segoe UI" size="24">Bọn tao vào đây.</font>
 
 123
 00:09:00,730 --> 00:09:02,260
-<font face="Segoe UI" size="24">Hey, wait!</font>
+<font face="Segoe UI" size="24">Này, đứng lại!</font>
 
 124
 00:09:02,720 --> 00:09:04,820
-<font face="Segoe UI" size="24">You can't invite yourselves into—</font>
+<font face="Segoe UI" size="24">Ai cho phép các người tự tiện xông vào—</font>
 
 125
 00:09:06,520 --> 00:09:11,480
-<font face="Segoe UI" size="24">I see. You seem like you'd 
-be able to kidnap Rein,</font>
+<font face="Segoe UI" size="24">Ra là vậy. Trông bà có vẻ là người đủ sức 
+bắt cóc Rein đấy,</font>
 
 126
 00:09:12,060 --> 00:09:16,410
-<font face="Segoe UI" size="24">Vice Guildmaster of the 
-Beast's Fangs, Glenda.</font>
+<font face="Segoe UI" size="24">Phó bang chủ của Nanh Vuốt Dã Thú, Glenda.</font>
 
 127
 00:09:18,120 --> 00:09:21,310
-<font face="Segoe UI" size="24">The Beast's Fangs are 
-pursuing a new direction.</font>
+<font face="Segoe UI" size="24">Nanh Vuốt Dã Thú đang chuyển mình 
+theo một hướng đi mới.</font>
 
 128
 00:09:21,310 --> 00:09:25,570
-<font face="Segoe UI" size="24">We'll kidnap and imprison Rein and 
-force him to enchant our gear.</font>
+<font face="Segoe UI" size="24">Bọn ta sẽ bắt cóc, giam cầm Rein 
+và ép hắn phải ban phước cho toàn bộ trang bị.</font>
 
 129
 00:09:25,570 --> 00:09:29,850
-<font face="Segoe UI" size="24">With his enchantment abilities, our 
-former members will come back to us.</font>
+<font face="Segoe UI" size="24">Nhờ vào năng lực ban phước của hắn, 
+các thành viên cũ sẽ quay trở lại với bọn ta.</font>
 
 130
 00:09:30,540 --> 00:09:33,130
-<font face="Segoe UI" size="24">And you're going after Rein with...</font>
+<font face="Segoe UI" size="24">Và bà định đi bắt Rein cùng với...</font>
 
 131
 00:09:33,530 --> 00:09:37,610
-<font face="Segoe UI" size="24">Cornelius, I told you to find an assassin.</font>
+<font face="Segoe UI" size="24">Cornelius, ta đã bảo ngươi đi tìm một sát thủ cơ mà.</font>
 
 132
 00:09:38,740 --> 00:09:41,180
-<font face="Segoe UI" size="24">Is that child her?</font>
+<font face="Segoe UI" size="24">Con nhóc kia là sát thủ đấy à?</font>
 
 133
 00:09:42,020 --> 00:09:43,180
-<font face="Segoe UI" size="24">An assassin?</font>
+<font face="Segoe UI" size="24">Sát thủ ư?</font>
 
 134
 00:09:43,530 --> 00:09:47,220
-<font face="Segoe UI" size="24">I doubt that child could kill Lily.</font>
+<font face="Segoe UI" size="24">Ta nghi là con nhóc đó chẳng thể nào giết nổi Lily đâu.</font>
 
 135
 00:09:47,220 --> 00:09:49,230
-<font face="Segoe UI" size="24">You're so useless.</font>
+<font face="Segoe UI" size="24">Đúng là đồ vô dụng.</font>
 
 136
 00:09:51,130 --> 00:09:54,400
-<font face="Segoe UI" size="24">Shut up, hag. I-I'll kill you.</font>
+<font face="Segoe UI" size="24">Câm mồm đi, bà già. T-Tao giết bà luôn bây giờ!</font>
 
 137
 00:10:09,130 --> 00:10:12,960
-<font face="Segoe UI" size="24">C-Cornelius, what—</font>
+<font face="Segoe UI" size="24">C-Cornelius, ngươi làm cái—</font>
 
 138
 00:10:13,250 --> 00:10:17,040
-<font face="Segoe UI" size="24">I don't give a shit 
-about the Beast's Fangs.</font>
+<font face="Segoe UI" size="24">Tao cóc thèm quan tâm đến Nanh Vuốt Dã Thú nữa.</font>
 
 139
 00:10:17,040 --> 00:10:20,160
-<font face="Segoe UI" size="24">Killing Rein and Lily is 
-more important to me.</font>
+<font face="Segoe UI" size="24">Giết chết Rein và Lily đối với tao 
+quan trọng hơn nhiều.</font>
 
 140
 00:10:20,160 --> 00:10:24,820
-<font face="Segoe UI" size="24">Otherwise, I'll remain a laughingstock 
-in this business forever!</font>
+<font face="Segoe UI" size="24">Nếu không, tao sẽ mãi là trò cười 
+trong cái nghề này suốt đời!</font>
 
 141
 00:10:32,490 --> 00:10:36,730
-<font face="Segoe UI" size="24">Mirabel, you've proven your strength.</font>
+<font face="Segoe UI" size="24">Mirabel, cô đã chứng minh được thực lực của mình rồi.</font>
 
 142
 00:10:36,730 --> 00:10:41,910
-<font face="Segoe UI" size="24">I'm formally hiring you to 
-kill Lily. Here's your pay.</font>
+<font face="Segoe UI" size="24">Ta chính thức thuê cô để lấy mạng Lily. 
+Tiền thù lao của cô đây.</font>
 
 143
 00:10:43,660 --> 00:10:45,610
-<font face="Segoe UI" size="24">Sorry about that, Margaret.</font>
+<font face="Segoe UI" size="24">Xin lỗi vì chuyện vừa rồi nhé, Margaret.</font>
 
 144
 00:10:46,550 --> 00:10:48,640
-<font face="Segoe UI" size="24">We'll clean up the body.</font>
+<font face="Segoe UI" size="24">Bọn tao sẽ dọn dẹp cái xác này.</font>
 
 145
 00:10:48,640 --> 00:10:52,550
-<font face="Segoe UI" size="24">Of course you will. And I will kill Lily.</font>
+<font face="Segoe UI" size="24">Đương nhiên là thế rồi. Và Lily sẽ do chính tay tôi giết.</font>
 
 146
 00:10:52,550 --> 00:10:55,340
-<font face="Segoe UI" size="24">If you'll agree not to 
-interfere with my plans,</font>
+<font face="Segoe UI" size="24">Nếu các người đồng ý không can thiệp 
+vào kế hoạch của tôi,</font>
 
 147
 00:10:55,570 --> 00:10:58,260
-<font face="Segoe UI" size="24">I'll tell you when Rein 
-and Lily are leaving,</font>
+<font face="Segoe UI" size="24">tôi sẽ cho các người biết thời điểm 
+Rein và Lily khởi hành,</font>
 
 148
 00:10:58,260 --> 00:11:01,700
-<font face="Segoe UI" size="24">where they're going, about their 
-equipment, and anything else.</font>
+<font face="Segoe UI" size="24">nơi họ đến, tình trạng trang bị 
+và bất cứ thông tin nào khác.</font>
 
 149
 00:11:02,260 --> 00:11:06,590
-<font face="Segoe UI" size="24">I've heard about your feud with 
-Lily. I won't get in your way.</font>
+<font face="Segoe UI" size="24">Tao có nghe về mối ân oán giữa mày với Lily rồi. 
+Tao sẽ không ngáng đường mày đâu.</font>
 
 150
 00:11:06,980 --> 00:11:12,860
-<font face="Segoe UI" size="24">I'm just going to kill Rein 
-whether you like it or not.</font>
+<font face="Segoe UI" size="24">Tao chỉ việc khử thằng Rein, 
+dù mày có thích hay không.</font>
 
 151
 00:11:54,470 --> 00:11:56,620
-<font face="Segoe UI" size="24"><i>Gadressa, the royal capital.</i></font>
+<font face="Segoe UI" size="24"><i>Vương đô Gadressa.</i></font>
 
 152
 00:12:07,310 --> 00:12:11,370
-<font face="Segoe UI" size="24"><i>Located a two-hour carriage 
-ride from the capital are...</i></font>
+<font face="Segoe UI" size="24"><i>Cách vương đô hai giờ đi xe ngựa chính là...</i></font>
 
 153
 00:12:21,800 --> 00:12:24,050
-<font face="Segoe UI" size="24">We're finally here.</font>
+<font face="Segoe UI" size="24">Cuối cùng cũng tới nơi rồi.</font>
 
 154
 00:12:24,630 --> 00:12:27,420
-<font face="Segoe UI" size="24">So that's the notoriously 
-difficult dungeon,</font>
+<font face="Segoe UI" size="24">Ra đó là hầm ngục với độ khó khét tiếng,</font>
 
 155
 00:12:27,910 --> 00:12:29,670
-<font face="Segoe UI" size="24">the Radiant Dragon Ruins.</font>
+<font face="Segoe UI" size="24">Di tích Quang Long.</font>
 
 156
 00:12:30,570 --> 00:12:32,460
-<font face="Segoe UI" size="24"><i>The Radiant Dragon Ruins.</i></font>
+<font face="Segoe UI" size="24"><i>Di tích Quang Long.</i></font>
 
 157
 00:12:33,380 --> 00:12:42,730
-<font face="Segoe UI" size="24"><i>In their depths is the radiant blade said 
-to possess the power of dragons, Lefaid.</i></font>
+<font face="Segoe UI" size="24"><i>Nơi sâu thẳm nhất chính là nơi ngự trị của thanh quang kiếm mang sức mạnh của loài rồng, Lefaid.</i></font>
 
 158
 00:12:41,200 --> 00:12:49,710
@@ -696,126 +688,125 @@ to possess the power of dragons, Lefaid.</i></font>
 
 159
 00:12:42,730 --> 00:12:46,230
-<font face="Segoe UI" size="24"><i>It is defended by a high-level dragon in 
-the ruins on the outskirts of Gadressa,</i></font>
+<font face="Segoe UI" size="24"><i>Nó được canh giữ bởi một con rồng cấp cao trong di tích ở ngoại ô Gadressa,</i></font>
 
 160
 00:12:46,230 --> 00:12:48,810
-<font face="Segoe UI" size="24"><i>the Kingdom of Dragons.</i></font>
+<font face="Segoe UI" size="24"><i>Vương quốc của loài Rồng.</i></font>
 
 161
 00:12:59,730 --> 00:13:02,460
-<font face="Segoe UI" size="24">What a big temple.</font>
+<font face="Segoe UI" size="24">Ngôi đền đồ sộ thật đấy.</font>
 
 162
 00:13:04,450 --> 00:13:09,670
-<font face="Segoe UI" size="24">Lily, is there anything we should watch 
-out for? What's it like in there?</font>
+<font face="Segoe UI" size="24">Chị Lily, bên trong có điều gì cần lưu ý không? 
+Tình hình trong đó thế nào?</font>
 
 163
 00:13:10,370 --> 00:13:14,980
-<font face="Segoe UI" size="24">I'm sorry, Margaret. I don't 
-remember anything about the ruins.</font>
+<font face="Segoe UI" size="24">Chị xin lỗi, Margaret. Chị chẳng nhớ được 
+gì về khu di tích này cả.</font>
 
 164
 00:13:15,860 --> 00:13:20,810
-<font face="Segoe UI" size="24">All I remember is feeling powerlessness 
-and despair. That's all.</font>
+<font face="Segoe UI" size="24">Những gì chị nhớ chỉ là cảm giác 
+bất lực và tuyệt vọng cùng cực mà thôi.</font>
 
 165
 00:13:21,650 --> 00:13:24,600
-<font face="Segoe UI" size="24">I see. Then let's get moving.</font>
+<font face="Segoe UI" size="24">Tôi hiểu rồi. Vậy thì chúng ta xuất phát thôi.</font>
 
 166
 00:13:27,720 --> 00:13:29,380
-<font face="Segoe UI" size="24"><i>This is stupid.</i></font>
+<font face="Segoe UI" size="24"><i>Đúng là nhảm nhí.</i></font>
 
 167
 00:13:30,840 --> 00:13:35,690
-<font face="Segoe UI" size="24"><i>She doesn't remember 
-anything? There's no way.</i></font>
+<font face="Segoe UI" size="24"><i>Chẳng nhớ được gì á? 
+Làm quái gì có chuyện đó.</i></font>
 
 168
 00:13:37,630 --> 00:13:41,380
-<font face="Segoe UI" size="24">Wow, so this is a dungeon.</font>
+<font face="Segoe UI" size="24">Chà, hóa ra đây là hầm ngục sao.</font>
 
 169
 00:13:41,380 --> 00:13:43,480
-<font face="Segoe UI" size="24">Don't get distracted. It's not safe.</font>
+<font face="Segoe UI" size="24">Đừng có lơ đãng thế. Nguy hiểm lắm đấy.</font>
 
 170
 00:13:44,460 --> 00:13:49,390
-<font face="Segoe UI" size="24">I still believe Lily abandoned 
-everyone and fled.</font>
+<font face="Segoe UI" size="24">Tôi vẫn tin chắc Lily đã bỏ rơi mọi người 
+mà tháo chạy một mình.</font>
 
 171
 00:13:49,760 --> 00:13:51,540
-<font face="Segoe UI" size="24">What do you think, Rein?</font>
+<font face="Segoe UI" size="24">Anh nghĩ sao hả Rein?</font>
 
 172
 00:13:51,980 --> 00:13:54,170
-<font face="Segoe UI" size="24">I don't think she did.</font>
+<font face="Segoe UI" size="24">Tôi không nghĩ cô ấy làm vậy đâu.</font>
 
 173
 00:13:54,640 --> 00:14:00,160
-<font face="Segoe UI" size="24">I'm hoping we can confirm that 
-here so you two can make up.</font>
+<font face="Segoe UI" size="24">Tôi hy vọng chuyến đi này có thể làm sáng tỏ điều đó 
+để hai người làm lành với nhau.</font>
 
 174
 00:14:00,160 --> 00:14:01,230
-<font face="Segoe UI" size="24">What?</font>
+<font face="Segoe UI" size="24">Cái gì cơ?</font>
 
 175
 00:14:01,230 --> 00:14:04,730
-<font face="Segoe UI" size="24">Your sister and Lily were allies, right?</font>
+<font face="Segoe UI" size="24">Chị gái cô và Lily từng là đồng đội, đúng chứ?</font>
 
 176
 00:14:04,730 --> 00:14:08,700
-<font face="Segoe UI" size="24">I bet your sister would 
-want you to get along.</font>
+<font face="Segoe UI" size="24">Tôi tin chắc chị gái cô cũng muốn 
+hai người hòa thuận với nhau thôi.</font>
 
 177
 00:14:10,280 --> 00:14:13,340
-<font face="Segoe UI" size="24">I've been tracking Lily's movements.</font>
+<font face="Segoe UI" size="24">Tôi đã theo dõi sát sao từng cử động của Lily.</font>
 
 178
 00:14:14,170 --> 00:14:16,520
-<font face="Segoe UI" size="24">I heard she can't fight anymore.</font>
+<font face="Segoe UI" size="24">Nghe đồn ả không thể chiến đấu được nữa.</font>
 
 179
 00:14:16,970 --> 00:14:20,580
-<font face="Segoe UI" size="24">But if she's here, 
-that must be a lie, too.</font>
+<font face="Segoe UI" size="24">Nhưng nếu ả đã vác xác tới đây, 
+thì chắc chắn đó cũng là lời dối trá.</font>
 
 180
 00:14:21,710 --> 00:14:23,420
-<font face="Segoe UI" size="24">You can fight, can't you?</font>
+<font face="Segoe UI" size="24">Chị vẫn chiến đấu được đúng không?</font>
 
 181
 00:14:24,340 --> 00:14:28,490
-<font face="Segoe UI" size="24">Fighting still makes Lily shake 
-too badly to hold a sword.</font>
+<font face="Segoe UI" size="24">Cứ bước vào trận là Lily lại run rẩy 
+đến mức không cầm nổi thanh kiếm.</font>
 
 182
 00:14:28,490 --> 00:14:30,080
-<font face="Segoe UI" size="24">She can't do anything.</font>
+<font face="Segoe UI" size="24">Cô ấy chẳng thể làm được gì cả.</font>
 
 183
 00:14:30,080 --> 00:14:32,030
-<font face="Segoe UI" size="24">But she still teaches me, 
-a novice adventurer,</font>
+<font face="Segoe UI" size="24">Nhưng cô ấy vẫn tận tình chỉ dẫn 
+cho một tân binh mạo hiểm giả như tôi,</font>
 
 184
 00:14:32,030 --> 00:14:34,520
-<font face="Segoe UI" size="24">using her knowledge and experience.</font>
+<font face="Segoe UI" size="24">bằng tất cả kiến thức và kinh nghiệm của mình.</font>
 
 185
 00:14:34,520 --> 00:14:37,650
-<font face="Segoe UI" size="24">That's why I'm with Lily right now.</font>
+<font face="Segoe UI" size="24">Đó là lý do hiện tại tôi đồng hành cùng Lily.</font>
 
 186
 00:14:37,650 --> 00:14:38,990
-<font face="Segoe UI" size="24">This is stupid.</font>
+<font face="Segoe UI" size="24">Nực cười thật.</font>
 
 187
 00:14:40,120 --> 00:14:41,690
@@ -823,69 +814,69 @@ a novice adventurer,</font>
 
 188
 00:14:41,960 --> 00:14:44,940
-<font face="Segoe UI" size="24"><i>So she came even though she can't fight?</i></font>
+<font face="Segoe UI" size="24"><i>Vậy ra ả vẫn dám tới dù không thể chiến đấu sao?</i></font>
 
 189
 00:14:45,800 --> 00:14:47,690
-<font face="Segoe UI" size="24"><i>I don't believe it.</i></font>
+<font face="Segoe UI" size="24"><i>Mình không tin.</i></font>
 
 190
 00:14:48,170 --> 00:14:50,280
-<font face="Segoe UI" size="24"><i>They must both be stupid.</i></font>
+<font face="Segoe UI" size="24"><i>Cả hai đứa bọn họ chắc chắn đều bị ngốc.</i></font>
 
 191
 00:14:51,200 --> 00:14:56,200
-<font face="Segoe UI" size="24"><i>I'm always the only one 
-taking shit seriously.</i></font>
+<font face="Segoe UI" size="24"><i>Lúc nào cũng chỉ có mỗi mình 
+là nghiêm túc với mọi chuyện thôi à.</i></font>
 
 192
 00:15:11,230 --> 00:15:13,050
-<font face="Segoe UI" size="24">Oh?</font>
+<font face="Segoe UI" size="24">Ồ?</font>
 
 193
 00:15:13,290 --> 00:15:15,290
-<font face="Segoe UI" size="24">They call this place impregnable,</font>
+<font face="Segoe UI" size="24">Người ta đồn nơi này là bất khả xâm phạm,</font>
 
 194
 00:15:15,290 --> 00:15:18,660
-<font face="Segoe UI" size="24">but it's got the same 
-goblins you'd see anywhere.</font>
+<font face="Segoe UI" size="24">nhưng hóa ra cũng chỉ toàn lũ goblin 
+nhan nhản ở khắp mọi nơi.</font>
 
 195
 00:15:19,530 --> 00:15:21,810
-<font face="Segoe UI" size="24">Come at me, weaklings.</font>
+<font face="Segoe UI" size="24">Nhào vô hết đây, lũ tép riu.</font>
 
 196
 00:15:32,230 --> 00:15:38,450
-<font face="Segoe UI" size="24"><i>I'm here now because you might try 
-to hide evidence of the past, Lily.</i></font>
+<font face="Segoe UI" size="24"><i>Mình có mặt ở đây là vì chị có thể sẽ tìm cách 
+phi tang bằng chứng năm xưa đấy, Lily.</i></font>
 
 197
 00:15:39,450 --> 00:15:42,330
-<font face="Segoe UI" size="24"><i>Right now, you're just a useless coward.</i></font>
+<font face="Segoe UI" size="24"><i>Bây giờ chị chỉ là một kẻ hèn nhát vô dụng.</i></font>
 
 198
 00:15:42,330 --> 00:15:47,000
-<font face="Segoe UI" size="24"><i>Now that I'm here, I have to progress, 
-even if I have to do it alone.</i></font>
+<font face="Segoe UI" size="24"><i>Một khi đã tới đây, mình phải tiến lên phía trước, 
+dù cho có phải đơn độc một mình.</i></font>
 
 199
 00:15:50,780 --> 00:15:56,120
-<font face="Segoe UI" size="24"><i>Crap. If they all attack me at once, 
-they'll stab each other, but...</i></font>
+<font face="Segoe UI" size="24"><i>Chết tiệt. Nếu chúng đồng loạt lao vào, 
+chúng sẽ tự đâm lẫn nhau, nhưng mà...</i></font>
 
 200
 00:15:56,510 --> 00:15:59,600
-<font face="Segoe UI" size="24"><i>This is why they call 
-this place impregnable.</i></font>
+<font face="Segoe UI" size="24"><i>Ra đây là lý do họ gọi nơi này 
+là bất khả xâm phạm.</i></font>
 
 201
 00:16:03,670 --> 00:16:04,260
-<font face="Segoe UI" size="24">Lily?!</font>
+<font face="Segoe UI" size="24">Chị Lily?!</font>
 
 202
 00:16:04,260 --> 00:16:05,270
-<font face="Segoe UI" size="24">Don't move! Stay down!</font>
+<font face="Segoe UI" size="24">Đừng cử động! Nằm rạp xuống!</font>
 
 203
 00:16:17,210 --> 00:16:18,320
@@ -893,95 +884,95 @@ this place impregnable.</i></font>
 
 204
 00:16:20,290 --> 00:16:25,500
-<font face="Segoe UI" size="24">I was worried your armor couldn't 
-block all their attacks and panicked.</font>
+<font face="Segoe UI" size="24">Chị lo bộ giáp không chặn nổi hết đòn đánh của chúng 
+nên mới hoảng loạn xông ra.</font>
 
 205
 00:16:29,000 --> 00:16:31,130
-<font face="Segoe UI" size="24">You managed to move.</font>
+<font face="Segoe UI" size="24">Chị vừa cử động được kìa.</font>
 
 206
 00:16:31,130 --> 00:16:31,970
-<font face="Segoe UI" size="24">Huh?</font>
+<font face="Segoe UI" size="24">Hở?</font>
 
 207
 00:16:32,410 --> 00:16:36,610
-<font face="Segoe UI" size="24">I thought you shook too much 
-to do anything in battle.</font>
+<font face="Segoe UI" size="24">Tôi cứ tưởng chị run đến mức 
+chẳng thể làm được gì trong trận chiến cơ đấy.</font>
 
 208
 00:16:41,330 --> 00:16:45,190
-<font face="Segoe UI" size="24">I hope you'll gain the ability 
-to wield a sword next.</font>
+<font face="Segoe UI" size="24">Hy vọng tiếp theo chị có thể 
+cầm lại thanh kiếm trên tay.</font>
 
 209
 00:16:45,720 --> 00:16:48,420
-<font face="Segoe UI" size="24">So do I.</font>
+<font face="Segoe UI" size="24">Chị cũng mong là thế.</font>
 
 210
 00:16:57,440 --> 00:17:01,400
-<font face="Segoe UI" size="24">From now on, I'll stick with you two.</font>
+<font face="Segoe UI" size="24">Từ giờ tôi sẽ bám sát hai người.</font>
 
 211
 00:17:01,400 --> 00:17:02,160
-<font face="Segoe UI" size="24">Great.</font>
+<font face="Segoe UI" size="24">Tốt quá rồi.</font>
 
 212
 00:17:07,810 --> 00:17:08,710
-<font face="Segoe UI" size="24">Rein?</font>
+<font face="Segoe UI" size="24">Anh Rein?</font>
 
 213
 00:17:09,530 --> 00:17:10,920
-<font face="Segoe UI" size="24">I heard something.</font>
+<font face="Segoe UI" size="24">Tôi nghe thấy tiếng gì đó.</font>
 
 214
 00:17:11,140 --> 00:17:15,260
-<font face="Segoe UI" size="24">More importantly, Rein, why is your 
-sword so extraordinarily power—</font>
+<font face="Segoe UI" size="24">Quan trọng hơn là Rein à, sao thanh kiếm 
+của anh lại mạnh một cách phi lý—</font>
 
 215
 00:17:24,310 --> 00:17:26,280
-<font face="Segoe UI" size="24">It's collapsing! Run!</font>
+<font face="Segoe UI" size="24">Chỗ này sập mất! Chạy mau!</font>
 
 216
 00:17:26,280 --> 00:17:29,770
-<font face="Segoe UI" size="24">Your attacks are so excessive!</font>
+<font face="Segoe UI" size="24">Anh ra tay quá đà rồi đấy!</font>
 
 217
 00:17:29,770 --> 00:17:32,150
-<font face="Segoe UI" size="24">Just how much did you enchant that thing?!</font>
+<font face="Segoe UI" size="24">Rốt cuộc anh đã ban phước cái quái gì vào thanh kiếm đó thế hả?!</font>
 
 218
 00:17:32,150 --> 00:17:33,880
-<font face="Segoe UI" size="24">Huh? Well, actually...</font>
+<font face="Segoe UI" size="24">Hả? À thì, thật ra...</font>
 
 219
 00:17:34,480 --> 00:17:35,680
-<font face="Segoe UI" size="24">Seriously, what the hell?!</font>
+<font face="Segoe UI" size="24">Nghiêm túc đấy, cái quái gì thế này?!</font>
 
 220
 00:17:35,680 --> 00:17:36,950
-<font face="Segoe UI" size="24">Rein, behind you!</font>
+<font face="Segoe UI" size="24">Anh Rein, đằng sau anh kìa!</font>
 
 221
 00:17:43,790 --> 00:17:44,510
-<font face="Segoe UI" size="24">Stay back!</font>
+<font face="Segoe UI" size="24">Lùi lại mau!</font>
 
 222
 00:18:01,050 --> 00:18:02,880
-<font face="Segoe UI" size="24">Who even cares about him?!</font>
+<font face="Segoe UI" size="24">Ai thèm bận tâm đến con quái đó chứ?!</font>
 
 223
 00:18:02,880 --> 00:18:04,970
-<font face="Segoe UI" size="24">Did we need to focus on him?!</font>
+<font face="Segoe UI" size="24">Bộ chúng ta cần phải để ý tới hắn à?!</font>
 
 224
 00:18:08,360 --> 00:18:10,370
-<font face="Segoe UI" size="24">W-We survived.</font>
+<font face="Segoe UI" size="24">T-Thoát chết rồi.</font>
 
 225
 00:18:10,370 --> 00:18:12,930
-<font face="Segoe UI" size="24">We're completely lost now, though.</font>
+<font face="Segoe UI" size="24">Nhưng mà chúng ta lạc đường hoàn toàn rồi.</font>
 
 226
 00:18:13,260 --> 00:18:14,010
@@ -989,173 +980,173 @@ sword so extraordinarily power—</font>
 
 227
 00:18:14,690 --> 00:18:19,240
-<font face="Segoe UI" size="24">Your sword broke again. 
-How many did you bring?</font>
+<font face="Segoe UI" size="24">Kiếm của anh lại gãy nữa rồi kìa. 
+Anh mang theo bao nhiêu thanh thế?</font>
 
 228
 00:18:20,660 --> 00:18:22,890
-<font face="Segoe UI" size="24">I still have more than 20 left.</font>
+<font face="Segoe UI" size="24">Tôi vẫn còn hơn 20 thanh nữa lận.</font>
 
 229
 00:18:23,220 --> 00:18:25,290
-<font face="Segoe UI" size="24">When my cheap enchanted swords break,</font>
+<font face="Segoe UI" size="24">Mỗi khi mấy thanh kiếm rẻ tiền được ban phước bị gãy,</font>
 
 230
 00:18:25,290 --> 00:18:29,500
-<font face="Segoe UI" size="24">I retrieve their bonus points and 
-transfer them to a new sword.</font>
+<font face="Segoe UI" size="24">tôi sẽ thu hồi lại chỉ số buff rồi 
+chuyển chúng sang một thanh kiếm mới.</font>
 
 231
 00:18:29,500 --> 00:18:32,380
-<font face="Segoe UI" size="24">I always keep two enchanted.</font>
+<font face="Segoe UI" size="24">Tôi luôn duy trì hai thanh được cường hóa.</font>
 
 232
 00:18:32,970 --> 00:18:35,480
-<font face="Segoe UI" size="24">That's my best option right now.</font>
+<font face="Segoe UI" size="24">Đó là phương án tối ưu nhất của tôi hiện tại.</font>
 
 233
 00:18:35,480 --> 00:18:38,380
-<font face="Segoe UI" size="24"><i>So he's not acting completely 
-without thinking.</i></font>
+<font face="Segoe UI" size="24"><i>Hóa ra anh ta không hề hành động bừa bãi 
+mà không suy tính.</i></font>
 
 234
 00:18:38,380 --> 00:18:42,010
-<font face="Segoe UI" size="24">I'll transfer the points now. 
-Give me a minute.</font>
+<font face="Segoe UI" size="24">Giờ tôi sẽ chuyển chỉ số qua. 
+Chờ tôi một chút nhé.</font>
 
 235
 00:18:43,770 --> 00:18:46,300
-<font face="Segoe UI" size="24">Feel free to chat while you're waiting.</font>
+<font face="Segoe UI" size="24">Trong lúc chờ thì hai người cứ tự nhiên trò chuyện đi.</font>
 
 236
 00:18:52,060 --> 00:18:53,500
-<font face="Segoe UI" size="24">N-Nice weather we're having.</font>
+<font face="Segoe UI" size="24">H-Hôm nay thời tiết đẹp thật nhỉ.</font>
 
 237
 00:18:53,500 --> 00:18:55,680
-<font face="Segoe UI" size="24">Uh, yeah.</font>
+<font face="Segoe UI" size="24">À, ừ.</font>
 
 238
 00:18:58,330 --> 00:19:02,100
-<font face="Segoe UI" size="24">Have you remembered anything 
-since entering the ruins?</font>
+<font face="Segoe UI" size="24">Kể từ lúc bước vào di tích, 
+chị đã nhớ ra điều gì chưa?</font>
 
 239
 00:19:03,850 --> 00:19:06,160
-<font face="Segoe UI" size="24">No, nothing.</font>
+<font face="Segoe UI" size="24">Chưa, chẳng có gì cả.</font>
 
 240
 00:19:15,370 --> 00:19:16,630
-<font face="Segoe UI" size="24">I...</font>
+<font face="Segoe UI" size="24">Chị...</font>
 
 241
 00:19:18,490 --> 00:19:21,780
-<font face="Segoe UI" size="24">think I passed through here before.</font>
+<font face="Segoe UI" size="24">nghĩ là mình từng đi qua đây rồi.</font>
 
 242
 00:19:23,860 --> 00:19:26,790
-<font face="Segoe UI" size="24">With the others.</font>
+<font face="Segoe UI" size="24">Cùng với mọi người năm đó.</font>
 
 243
 00:19:29,120 --> 00:19:32,750
-<font face="Segoe UI" size="24">I should remember more if we keep going.</font>
+<font face="Segoe UI" size="24">Cứ đi tiếp chắc chị sẽ nhớ ra nhiều hơn.</font>
 
 244
 00:19:38,290 --> 00:19:40,140
-<font face="Segoe UI" size="24"><i>That last goblin...</i></font>
+<font face="Segoe UI" size="24"><i>Con goblin vừa rồi...</i></font>
 
 245
 00:19:41,050 --> 00:19:44,520
-<font face="Segoe UI" size="24"><i>I happened to hit him, 
-but if he had survived...</i></font>
+<font face="Segoe UI" size="24"><i>Mình tình cờ chém trúng nó, 
+nhưng nếu nó còn sống sót...</i></font>
 
 246
 00:19:45,690 --> 00:19:49,830
-<font face="Segoe UI" size="24"><i>These swords aren't good enough. 
-I can't protect the two of them.</i></font>
+<font face="Segoe UI" size="24"><i>Mấy thanh kiếm này không đủ tốt. 
+Mình sẽ chẳng thể bảo vệ được hai người họ.</i></font>
 
 247
 00:19:50,830 --> 00:19:54,170
-<font face="Segoe UI" size="24"><i>Lefaid will be mine.</i></font>
+<font face="Segoe UI" size="24"><i>Mình nhất định phải đoạt được Lefaid.</i></font>
 
 248
 00:19:59,840 --> 00:20:02,010
-<font face="Segoe UI" size="24">It's an old gold coin!</font>
+<font face="Segoe UI" size="24">Là một đồng tiền vàng cổ này!</font>
 
 249
 00:20:02,950 --> 00:20:06,320
-<font face="Segoe UI" size="24"><i>This is the first treasure 
-I acquired on an adventure.</i></font>
+<font face="Segoe UI" size="24"><i>Đây là món kho báu đầu tiên 
+mình nhặt được trong chuyến mạo hiểm.</i></font>
 
 250
 00:20:06,710 --> 00:20:08,790
-<font face="Segoe UI" size="24"><i>I'm a real adventurer now.</i></font>
+<font face="Segoe UI" size="24"><i>Giờ thì mình đã là mạo hiểm giả thực thụ rồi.</i></font>
 
 251
 00:20:08,790 --> 00:20:09,930
-<font face="Segoe UI" size="24">Rein.</font>
+<font face="Segoe UI" size="24">Anh Rein.</font>
 
 252
 00:20:10,150 --> 00:20:11,700
-<font face="Segoe UI" size="24">What did you just pick up?</font>
+<font face="Segoe UI" size="24">Anh vừa nhặt được cái gì đấy?</font>
 
 253
 00:20:11,700 --> 00:20:14,460
-<font face="Segoe UI" size="24">Was it treasure? Show us.</font>
+<font face="Segoe UI" size="24">Là kho báu à? Cho bọn tôi xem với.</font>
 
 254
 00:20:14,460 --> 00:20:17,670
-<font face="Segoe UI" size="24">It's customary to split 
-any treasure you find.</font>
+<font face="Segoe UI" size="24">Theo luật bất thành văn, 
+kho báu tìm được phải chia đều đấy nhé.</font>
 
 255
 00:20:17,670 --> 00:20:21,320
-<font face="Segoe UI" size="24">If you don't, it usually 
-turns into a fight.</font>
+<font face="Segoe UI" size="24">Nếu không chia chác sòng phẳng, 
+thế nào cũng xảy ra đánh nhau cho xem.</font>
 
 256
 00:20:21,320 --> 00:20:22,410
-<font face="Segoe UI" size="24">No way!</font>
+<font face="Segoe UI" size="24">Không đời nào!</font>
 
 257
 00:20:23,110 --> 00:20:24,720
-<font face="Segoe UI" size="24">Please don't fight!</font>
+<font face="Segoe UI" size="24">Xin hai người đừng đánh nhau mà!</font>
 
 258
 00:20:24,720 --> 00:20:25,400
-<font face="Segoe UI" size="24">Just show us.</font>
+<font face="Segoe UI" size="24">Đưa bọn em xem mau lên.</font>
 
 259
 00:20:25,400 --> 00:20:27,240
-<font face="Segoe UI" size="24">Why are you so infuriating?</font>
+<font face="Segoe UI" size="24">Sao anh cứ thích chọc điên người khác thế hả?</font>
 
 260
 00:20:28,740 --> 00:20:30,040
-<font face="Segoe UI" size="24">This coin is nice.</font>
+<font face="Segoe UI" size="24">Đồng xu này đẹp thật đấy.</font>
 
 261
 00:20:30,040 --> 00:20:31,650
-<font face="Segoe UI" size="24">Yeah.</font>
+<font face="Segoe UI" size="24">Ừ.</font>
 
 262
 00:20:34,940 --> 00:20:36,970
-<font face="Segoe UI" size="24">Can I keep this, Margaret?</font>
+<font face="Segoe UI" size="24">Chị giữ đồng này được không Margaret?</font>
 
 263
 00:20:36,970 --> 00:20:40,330
-<font face="Segoe UI" size="24">Yes. I owe you for saving me earlier.</font>
+<font face="Segoe UI" size="24">Được chứ. Dù sao em cũng nợ chị ơn cứu mạng ban nãy.</font>
 
 264
 00:20:40,330 --> 00:20:41,080
-<font face="Segoe UI" size="24">Rein.</font>
+<font face="Segoe UI" size="24">Anh Rein.</font>
 
 265
 00:20:42,550 --> 00:20:45,190
-<font face="Segoe UI" size="24">You can have this coin as a souvenir.</font>
+<font face="Segoe UI" size="24">Em tặng lại anh đồng xu này làm kỷ niệm nhé.</font>
 
 266
 00:20:45,190 --> 00:20:46,960
-<font face="Segoe UI" size="24">We'll make an exception this time.</font>
+<font face="Segoe UI" size="24">Lần này bọn tôi phá lệ cho anh đấy.</font>
 
 267
 00:20:49,960 --> 00:20:52,330
@@ -1163,106 +1154,105 @@ turns into a fight.</font>
 
 268
 00:20:52,650 --> 00:20:53,850
-<font face="Segoe UI" size="24">Thank you!</font>
+<font face="Segoe UI" size="24">Cảm ơn hai người nhiều lắm!</font>
 
 269
 00:20:54,690 --> 00:20:56,650
-<font face="Segoe UI" size="24">You're done enchanting your gear, right?</font>
+<font face="Segoe UI" size="24">Anh cường hóa trang bị xong rồi đúng không?</font>
 
 270
 00:20:56,650 --> 00:20:58,250
-<font face="Segoe UI" size="24">Let's keep going.</font>
+<font face="Segoe UI" size="24">Chúng ta đi tiếp thôi nào.</font>
 
 271
 00:20:58,250 --> 00:20:59,690
-<font face="Segoe UI" size="24">Yeah, let's go.</font>
+<font face="Segoe UI" size="24">Ừ, đi thôi.</font>
 
 272
 00:21:07,210 --> 00:21:08,760
-<font face="Segoe UI" size="24">There's something on the ground again.</font>
+<font face="Segoe UI" size="24">Lại có cái gì đó rơi dưới đất nữa kìa.</font>
 
 273
 00:21:09,290 --> 00:21:10,310
-<font face="Segoe UI" size="24">What is it this time?</font>
+<font face="Segoe UI" size="24">Lần này lại là cái gì nữa thế anh?</font>
 
 274
 00:21:10,310 --> 00:21:12,200
-<font face="Segoe UI" size="24">Don't forget, we split 
-the treasure evenly.</font>
+<font face="Segoe UI" size="24">Đừng quên là kho báu phải chia đều đấy nhé.</font>
 
 275
 00:21:12,420 --> 00:21:15,830
-<font face="Segoe UI" size="24">What? This can't be mine, either?</font>
+<font face="Segoe UI" size="24">Hả? Cái này tôi cũng không được giữ luôn sao?</font>
 
 276
 00:21:15,830 --> 00:21:18,250
-<font face="Segoe UI" size="24">A piece of paper? What does it say?</font>
+<font face="Segoe UI" size="24">Một mẩu giấy à? Viết gì thế anh?</font>
 
 277
 00:21:18,250 --> 00:21:20,860
-<font face="Segoe UI" size="24">Don't keep us waiting. 
-Tell us what it says.</font>
+<font face="Segoe UI" size="24">Đừng có lề mề nữa. 
+Mau nói xem nó viết gì đi.</font>
 
 278
 00:21:23,820 --> 00:21:28,440
-<font face="Segoe UI" size="24"><i>"Lily Flambert killed us"?</i></font>
+<font face="Segoe UI" size="24"><i>"Lily Flambert đã giết chết chúng tôi"?</i></font>
 
 279
 00:21:29,790 --> 00:21:31,940
-<font face="Segoe UI" size="24">What does it say?</font>
+<font face="Segoe UI" size="24">Nó viết cái gì thế?</font>
 
 280
 00:21:31,940 --> 00:21:32,920
-<font face="Segoe UI" size="24">Show us, Rein.</font>
+<font face="Segoe UI" size="24">Cho bọn em xem đi mà, anh Rein.</font>
 
 281
 00:21:32,920 --> 00:21:35,350
-<font face="Segoe UI" size="24">It's, uh...</font>
+<font face="Segoe UI" size="24">Nó là, ờ thì...</font>
 
 282
 00:21:35,770 --> 00:21:37,420
-<font face="Segoe UI" size="24">Show us.</font>
+<font face="Segoe UI" size="24">Đưa đây xem mau.</font>
 
 283
 00:21:37,420 --> 00:21:39,680
-<font face="Segoe UI" size="24">Why are you hiding it, Rein?</font>
+<font face="Segoe UI" size="24">Sao anh lại giấu nó đi thế hả anh Rein?</font>
 
 284
 00:21:42,400 --> 00:21:44,250
-<font face="Segoe UI" size="24">Come on, guys! Cut it out!</font>
+<font face="Segoe UI" size="24">Thôi mà hai người! Bỏ tay ra đi!</font>
 
 285
 00:21:44,250 --> 00:21:47,610
-<font face="Segoe UI" size="24">I'll just stick this in my clothes!</font>
+<font face="Segoe UI" size="24">Tôi sẽ nhét nó vào trong áo!</font>
 
 286
 00:21:48,120 --> 00:21:50,660
-<font face="Segoe UI" size="24">This armor is massively enchanted!</font>
+<font face="Segoe UI" size="24">Bộ giáp này đã được cường hóa cực mạnh rồi!</font>
 
 287
 00:21:50,660 --> 00:21:52,620
-<font face="Segoe UI" size="24">No matter how much you 
-pull on it, it's pointless!</font>
+<font face="Segoe UI" size="24">Dù hai người có kéo cỡ nào 
+cũng vô ích thôi!</font>
 
 288
 00:21:53,660 --> 00:21:54,640
-<font face="Segoe UI" size="24">Give that back!</font>
+<font face="Segoe UI" size="24">Trả lại đây mau!</font>
 
 289
 00:21:54,640 --> 00:21:57,120
-<font face="Segoe UI" size="24">I didn't enchant my clothes!</font>
+<font face="Segoe UI" size="24">Tôi đâu có cường hóa quần áo đâu á á!</font>
 
 290
 00:21:57,120 --> 00:21:58,380
-<font face="Segoe UI" size="24">Show us the paper!</font>
+<font face="Segoe UI" size="24">Đưa mẩu giấy đó ra đây!</font>
 
 291
 00:21:58,380 --> 00:21:59,380
-<font face="Segoe UI" size="24">Show us!</font>
+<font face="Segoe UI" size="24">Đưa xem mau lên!</font>
 
 292
 00:21:59,380 --> 00:22:02,710
-<font face="Segoe UI" size="24">S-Stop! If you don't stop pulling...</font>
+<font face="Segoe UI" size="24">D-Dừng lại đi! Nếu hai người cứ kéo nữa là rách...</font>
 
 293
 00:22:47,670 --> 00:22:49,180
@@ -1270,123 +1260,121 @@ pull on it, it's pointless!</font>
 
 294
 00:22:53,350 --> 00:22:54,510
-<font face="Segoe UI" size="24">{\an8}SHE SAID REIN!!</font>
+<font face="Segoe UI" size="24">{\an8}CÔ ẤY VỪA GỌI REIN KÌA!!</font>
 
 295
 00:22:53,350 --> 00:22:54,510
-<font face="Segoe UI" size="24">{\an8}IS SHE...</font>
+<font face="Segoe UI" size="24">{\an8}CÓ PHẢI CÔ ẤY...</font>
 
 296
 00:22:53,350 --> 00:22:54,510
-<font face="Segoe UI" size="24">{\an8}TALKING ABOUT MEEE?!</font>
+<font face="Segoe UI" size="24">{\an8}ĐANG NÓI VỀ MÌNH ĐẤY ÀAAA?!</font>
 
 297
 00:22:54,510 --> 00:22:59,520
-<font face="Segoe UI" size="24">{\an8}TRANSLATION: SHO STIFLER
-TIMING: ANDY ELLIS</font>
+<font face="Segoe UI" size="24">{\an8}Phụ đề Việt ngữ: Amtia(NOFACE)</font>
 
 298
 00:22:54,510 --> 00:23:04,980
-<font face="Segoe UI" size="24">{\an8}ROLEPLAYING LIFE</font>
+<font face="Segoe UI" size="24">{\an8}CUỘC ĐỜI NHẬP VAI</font>
 
 299
 00:23:00,140 --> 00:23:04,940
-<font face="Segoe UI" size="24">{\an8}EDITING: ALICIA ASHBY
-QUALITY CONTROL: WILLIAM HAGGARD</font>
+<font face="Segoe UI" size="24">{\an8}Biên dịch & Kỹ thuật: Amtia(NOFACE)</font>
 
 300
 00:23:04,980 --> 00:23:09,740
-<font face="Segoe UI" size="24">{\an8}FINAL QUALITY CONTROL: BECKY COTTRILL</font>
+<font face="Segoe UI" size="24">{\an8}Kiểm định chất lượng: Amtia(NOFACE)</font>
 
 301
 00:23:15,080 --> 00:23:15,740
-<font face="Segoe UI" size="24">{\an8}HEY!</font>
+<font face="Segoe UI" size="24">{\an8}NÀY!</font>
 
 302
 00:23:15,740 --> 00:23:26,130
-<font face="Segoe UI" size="24">{\an8}REIN CRASHES THE STAGE</font>
+<font face="Segoe UI" size="24">{\an8}REIN ĐẬP TAN SÂN KHẤU</font>
 
 303
 00:23:15,740 --> 00:23:18,750
-<font face="Segoe UI" size="24">{\an8}YOU WERE TALKING ABOUT ME, RIGHT?!</font>
+<font face="Segoe UI" size="24">{\an8}CÔ VỪA NÓI VỀ TÔI ĐẤY ĐÚNG KHÔNG?!</font>
 
 304
 00:23:15,740 --> 00:23:18,750
-<font face="Segoe UI" size="24">{\an8}LILY!!</font>
+<font face="Segoe UI" size="24">{\an8}LILY ƠI!!</font>
 
 305
 00:23:18,750 --> 00:23:19,500
-<font face="Segoe UI" size="24">{\an8}RIGHT?!</font>
+<font face="Segoe UI" size="24">{\an8}ĐÚNG KHÔNG HẢ?!</font>
 
 306
 00:23:19,500 --> 00:23:20,250
-<font face="Segoe UI" size="24">{\an8}HEY!</font>
+<font face="Segoe UI" size="24">{\an8}NÀY!</font>
 
 307
 00:23:20,250 --> 00:23:21,000
-<font face="Segoe UI" size="24">{\an8}LILY!!</font>
+<font face="Segoe UI" size="24">{\an8}LILY ƠI!!</font>
 
 308
 00:23:21,000 --> 00:23:21,750
-<font face="Segoe UI" size="24">{\an8}HEY!</font>
+<font face="Segoe UI" size="24">{\an8}NÀY!</font>
 
 309
 00:23:21,750 --> 00:23:22,500
-<font face="Segoe UI" size="24">{\an8}HEY!!</font>
+<font face="Segoe UI" size="24">{\an8}NÀY ƠI LÀ NÀY!!</font>
 
 310
 00:23:22,500 --> 00:23:23,250
-<font face="Segoe UI" size="24">{\an8}LILY!!</font>
+<font face="Segoe UI" size="24">{\an8}LILY ƠI!!</font>
 
 311
 00:23:23,250 --> 00:23:24,000
-<font face="Segoe UI" size="24">{\an8}HEY!!</font>
+<font face="Segoe UI" size="24">{\an8}NÀY ƠI LÀ NÀY!!</font>
 
 312
 00:23:24,000 --> 00:23:24,750
-<font face="Segoe UI" size="24">{\an8}YOU WERE, RIGHT?!</font>
+<font face="Segoe UI" size="24">{\an8}ĐÚNG THẾ MÀ, PHẢI KHÔNG?!</font>
 
 313
 00:23:24,750 --> 00:23:25,500
-<font face="Segoe UI" size="24">{\an8}HEY!!</font>
+<font face="Segoe UI" size="24">{\an8}NÀY ƠI LÀ NÀY!!</font>
 
 314
 00:23:25,500 --> 00:23:26,130
-<font face="Segoe UI" size="24">{\an8}LILY!!</font>
+<font face="Segoe UI" size="24">{\an8}LILY ƠI!!</font>
 
 315
 00:23:28,050 --> 00:23:30,630
-<font face="Segoe UI" size="24">{\an8}ROLEPLAYING LIFE</font>
+<font face="Segoe UI" size="24">{\an8}CUỘC ĐỜI NHẬP VAI</font>
 
 316
 00:23:28,050 --> 00:23:28,800
-<font face="Segoe UI" size="24">{\an8}HEY!</font>
+<font face="Segoe UI" size="24">{\an8}NÀY!</font>
 
 317
 00:23:28,800 --> 00:23:29,550
-<font face="Segoe UI" size="24">{\an8}LILY!!</font>
+<font face="Segoe UI" size="24">{\an8}LILY ƠI!!</font>
 
 318
 00:23:29,550 --> 00:23:30,300
-<font face="Segoe UI" size="24">{\an8}HEY!</font>
+<font face="Segoe UI" size="24">{\an8}NÀY!</font>
 
 319
 00:23:30,300 --> 00:23:30,630
-<font face="Segoe UI" size="24">{\an8}LILY!!</font>
+<font face="Segoe UI" size="24">{\an8}LILY ƠI!!</font>
 
 320
 00:23:35,390 --> 00:23:40,180
-<font face="Segoe UI" size="24">{\an8}RUSH</font>
+<font face="Segoe UI" size="24">{\an8}XÔNG LÊN</font>
 
 321
 00:23:35,390 --> 00:23:40,180
-<font face="Segoe UI" size="24">{\an8}LILY!!</font>
+<font face="Segoe UI" size="24">{\an8}LILY ƠI!!</font>
 
 322
 00:23:35,390 --> 00:23:40,180
-<font face="Segoe UI" size="24">{\an8}LILY!!</font>
+<font face="Segoe UI" size="24">{\an8}LILY ƠI!!</font>
 
 323
 00:23:35,390 --> 00:23:40,180
-<font face="Segoe UI" size="24">{\an8}THE BLUE CRYSTALS CRASH THE STAGE!</font>
+<font face="Segoe UI" size="24">{\an8}TINH THỂ XANH ĐẬP TAN SÂN KHẤU!</font>
 
