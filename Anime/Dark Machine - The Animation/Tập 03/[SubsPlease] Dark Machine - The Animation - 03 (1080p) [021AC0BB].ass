@@ -1,0 +1,350 @@
+﻿[Script Info]
+Title: Vietnamese Fansub (VietSub by Amtia(NOFACE))
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+YCbCr Matrix: TV.601
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Italics,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.41,0:00:07.36,Default,Bran,0,0,0,,Bianca. Weiß. Lâu rồi không gặp.
+Dialogue: 0,0:00:07.36,0:00:09.28,Default,Weiß,0,0,0,,Ô, ơ kìa, cậu là...
+Dialogue: 0,0:00:09.76,0:00:11.99,Default,Bianca,0,0,0,,Cậu chẳng thay đổi chút nào cả, Bran.
+Dialogue: 0,0:00:12.26,0:00:14.67,Default,Bran,0,0,0,,Sao hai người tìm được tôi ra đây?
+Dialogue: 0,0:00:14.67,0:00:16.33,Default,Weiß,0,0,0,,À, thì là...
+Dialogue: 0,0:00:16.33,0:00:20.12,Default,Bianca,0,0,0,,Bọn tớ đã xem trận cậu đấu với Arudabiru.\NCái cách cậu hạ gục Ryo ngầu dã man luôn.
+Dialogue: 0,0:00:20.60,0:00:23.62,Default,Weiß,0,0,0,,Phải đấy, bọn tớ đã tìm cậu suốt thời gian qua.
+Dialogue: 0,0:00:27.05,0:00:31.01,Default,Bianca,0,0,0,,Nào, nâng ly mừng ngày tái ngộ\Nđội Esmeralda sau bao lâu xa cách!
+Dialogue: 0,0:00:31.32,0:00:32.60,Default,Bianca,0,0,0,,Cạn ly!
+Dialogue: 0,0:00:32.93,0:00:33.77,Default,Weiß,0,0,0,,Cạn ly nào!
+Dialogue: 0,0:00:38.74,0:00:40.41,Default,Bianca,0,0,0,,Tụi mình lại cùng nhau thi đấu nhé.
+Dialogue: 0,0:00:41.95,0:00:44.26,Default,Bianca,0,0,0,,Sau khi cậu rời đi, bọn tớ mới nhận ra một điều.
+Dialogue: 0,0:00:44.26,0:00:47.81,Default,Bianca,0,0,0,,Esmeralda thực sự rất cần có cậu.
+Dialogue: 0,0:00:48.16,0:00:50.25,Default,Weiß,0,0,0,,Bọn tớ giờ đã tiến bộ hơn trước rất nhiều rồi.
+Dialogue: 0,0:00:50.79,0:00:52.98,Default,Weiß,0,0,0,,Bọn tớ sẽ không làm gánh nặng kìm hãm cậu nữa đâu.
+Dialogue: 0,0:00:54.05,0:00:57.02,Default,Bianca,0,0,0,,Cứ thong thả vừa ăn vừa suy nghĩ đi nhé, được chứ?
+Dialogue: 0,0:02:40.43,0:02:42.39,Default,Bran,0,0,0,,Gạch tên tôi khỏi đội đi.
+Dialogue: 0,0:02:44.46,0:02:46.02,Default,Shinn,0,0,0,,Này, khoan đã, Bran!
+Dialogue: 0,0:02:44.46,0:02:46.02,Default,Isaka,0,0,0,,{\an8}Kìa! Chị định đi đâu thế hả?
+Dialogue: 0,0:02:44.46,0:02:46.02,Default,Kairi,0,0,0,,{\an8\3c&H363639&}Đợi đã, chị Bran!
+Dialogue: 0,0:02:47.15,0:02:48.59,Default,Bran,0,0,0,,Đừng có bám theo tôi!
+Dialogue: 0,0:02:52.95,0:02:57.28,Default,Rudra,0,0,0,,Bỏ đội ngang xương như thế\Nphải nộp phí vi phạm hợp đồng đấy nhé.
+Dialogue: 0,0:02:57.53,0:03:00.09,Default,Rudra,0,0,0,,Kairi, nhóc muốn trả thay cho cô ta không?
+Dialogue: 0,0:03:00.09,0:03:02.10,Default,Kairi,0,0,0,,Hả? Tại sao em phải trả chứ?
+Dialogue: 0,0:03:02.58,0:03:06.29,Default,Rudra,0,0,0,,Nhóc đã ký cam kết chịu toàn bộ\Ntrách nhiệm cho Carbuncle rồi, nhớ không?
+Dialogue: 0,0:03:06.61,0:03:11.40,Default,Rudra,0,0,0,,Nếu gom đủ tiền chuộc cô ta ra,\Nthì Bran sẽ được tự do.
+Dialogue: 0,0:03:12.30,0:03:13.26,Default,Kairi,0,0,0,,Ừm thì...
+Dialogue: 0,0:03:14.65,0:03:16.38,Default,Kairi,0,0,0,,Số này đổi ra tiền yên là bao nhiêu ạ?
+Dialogue: 0,0:03:13.67,0:03:16.38,Default,sign,0,0,0,,{\an8}CHI PHÍ
+Dialogue: 0,0:03:16.74,0:03:18.38,Default,Kairi,0,0,0,,Em... em không trả nổi ngần này đâu!
+Dialogue: 0,0:03:18.38,0:03:20.33,Default,Rudra,0,0,0,,Hợp đồng là hợp đồng.
+Dialogue: 0,0:03:20.33,0:03:21.80,Default,Rudra,0,0,0,,Sao nào? Tính bước tiếp theo thế nào đây?
+Dialogue: 0,0:03:22.07,0:03:23.58,Default,Kairi,0,0,0,,Em sẽ đi đưa chị Bran quay về!
+Dialogue: 0,0:03:27.09,0:03:28.31,Default,Shinn,0,0,0,,Tôi đi cùng cậu.
+Dialogue: 0,0:03:33.73,0:03:35.08,Default,Kairi,0,0,0,,Cô ấy không có ở đây.
+Dialogue: 0,0:03:35.08,0:03:37.19,Default,Shinn,0,0,0,,Trước hết cứ thử đi hỏi thăm quanh đây xem sao.
+Dialogue: 0,0:03:39.94,0:03:42.34,Default,Shinn,0,0,0,,Anh bạn, có thấy cô nàng Bran đâu không?
+Dialogue: 0,0:03:44.57,0:03:47.70,Default,Shop,0,0,0,,Mua ủng hộ món gì đi,\Nbiết đâu tôi lại nhớ ra đấy.
+Dialogue: 0,0:03:47.70,0:03:49.77,Default,Shinn,0,0,0,,Nếu anh đã bảo thế.
+Dialogue: 0,0:03:50.15,0:03:50.99,Default,Kairi,0,0,0,,Em muốn ăn món này!
+Dialogue: 0,0:03:51.93,0:03:53.83,Default,Shinn,0,0,0,,Nếu cậu đã thích thế.
+Dialogue: 0,0:03:53.83,0:03:55.21,Default,Shop,0,0,0,,Cảm ơn người anh em nhé.
+Dialogue: 0,0:03:55.45,0:03:57.01,Default,Shop,0,0,0,,Cô ta vừa đi hướng đằng kia kìa.
+Dialogue: 0,0:03:57.01,0:03:57.99,Default,Shinn,0,0,0,,Cảm ơn nhé.
+Dialogue: 0,0:04:17.19,0:04:19.86,Default,Old Lady,0,0,0,,Ở đây không phải chỗ đứng ngắm hàng\Nhay đi tìm người đâu nghe chưa!
+Dialogue: 0,0:04:31.42,0:04:33.37,Default,Bran,0,0,0,,Lâu lắm mới quay lại chỗ này.
+Dialogue: 0,0:04:33.37,0:04:35.13,Default,Bianca,0,0,0,,Bọn tớ vẫn luôn gìn giữ nó suốt bấy lâu nay.
+Dialogue: 0,0:04:35.13,0:04:37.38,Default,Bianca,0,0,0,,Quá hoàn hảo cho ngày đội chúng ta tái hợp, đúng không?
+Dialogue: 0,0:04:39.17,0:04:40.83,Default,Bran,0,0,0,,Đây là chuyện cậu đã kể với tôi lúc nãy sao?
+Dialogue: 0,0:04:40.83,0:04:45.09,Default,Bianca,0,0,0,,Ừ. Muốn chữa khỏi cái chân này,\Ntớ cần phải trị liệu bằng máy nano.
+Dialogue: 0,0:04:45.09,0:04:47.39,Default,Weiß,0,0,0,,Nhưng bọn tớ thì đào đâu ra số tiền lớn như thế.
+Dialogue: 0,0:04:47.71,0:04:49.51,Default,Bran,0,0,0,,Nên hai người mới muốn tham gia Cúp Senki?
+Dialogue: 0,0:04:49.74,0:04:51.90,Default,Bianca,0,0,0,,Nếu có thể đánh bại được Senki hạng 7,
+Dialogue: 0,0:04:51.90,0:04:56.15,Default,Bianca,0,0,0,,tiền thưởng nhận được sẽ thừa sức\Nchi trả cho ca phẫu thuật nano đó.
+Dialogue: 0,0:04:58.04,0:05:00.15,Flashback,Bran,0,0,0,,Tôi muốn nhắm tới mục tiêu cao hơn thế này!
+Dialogue: 0,0:05:00.53,0:05:02.28,Flashback,Bran,0,0,0,,Tôi muốn được bước lên đấu trường Cúp Senki!
+Dialogue: 0,0:05:02.28,0:05:05.59,Flashback,Bianca,0,0,0,,Không đời nào! Cứ duy trì kiếm tiền đều đặn\Nnhư hiện tại không phải tốt hơn sao!
+Dialogue: 0,0:05:05.59,0:05:07.67,Flashback,Bran,0,0,0,,Nếu đã thi đấu, tôi muốn chạm tới đỉnh cao!
+Dialogue: 0,0:05:07.67,0:05:09.66,Flashback,Bianca,0,0,0,,Vậy thì cậu tự đi mà chơi một mình!
+Dialogue: 0,0:05:09.66,0:05:11.79,Flashback,Bran,0,0,0,,Được thôi! Mặc xác các cậu!
+Dialogue: 0,0:05:15.90,0:05:18.66,Default,Weiß,0,0,0,,Xin cậu đấy. Vì cái chân của Bianca.
+Dialogue: 0,0:05:19.04,0:05:21.03,Default,Weiß,0,0,0,,Hãy cùng bọn tớ tham dự Cúp Senki đi.
+Dialogue: 0,0:05:21.95,0:05:23.80,Default,Weiß,0,0,0,,Bọn tớ không còn là những kẻ yếu đuối của ngày xưa nữa rồi.
+Dialogue: 0,0:05:25.08,0:05:29.05,Default,Bran,0,0,0,,Hiện tại tôi đang ở trong một đội tên là Carbuncle.
+Dialogue: 0,0:05:29.05,0:05:31.08,Default,Bran,0,0,0,,Tôi cần phải dứt điểm với bên đó trước đã.
+Dialogue: 0,0:05:33.06,0:05:34.06,Default,sign,0,0,0,,{\an8}TIÊU ĐỀ: [QUAN TRỌNG]\NTÀI KHOẢN CỦA BẠN ĐÃ BỊ PHONG TỎA
+Dialogue: 0,0:05:35.31,0:05:37.56,Default,Bran,0,0,0,,Bà ta dám đóng băng cả tài khoản của mình ư?!
+Dialogue: 0,0:05:38.32,0:05:40.57,Default,Kairi,0,0,0,,Tìm khắp nơi thế rồi mà vẫn chẳng thấy bóng dáng đâu.
+Dialogue: 0,0:05:40.57,0:05:42.82,Default,Shinn,0,0,0,,Suốt từ nãy tới giờ cậu chỉ lo cắm đầu ăn.
+Dialogue: 0,0:05:43.20,0:05:44.30,Default,Kairi,0,0,0,,Thì đồ ăn ngon thật mà anh.
+Dialogue: 0,0:05:47.11,0:05:48.80,Default,Shinn,0,0,0,,Chỗ này chúng ta vẫn chưa kiểm tra.
+Dialogue: 0,0:05:53.79,0:05:54.83,Default,Bartender,0,0,0,,Kính chào quý khách.
+Dialogue: 0,0:05:55.10,0:05:56.70,Default,Bartender,0,0,0,,Ủa, Shinn đấy à?
+Dialogue: 0,0:05:56.70,0:05:59.81,Default,Bartender,0,0,0,,Nếu tìm đội Arudabiru thì hôm nay bọn họ không ghé đâu.
+Dialogue: 0,0:05:59.81,0:06:01.82,Default,Shinn,0,0,0,,Anh có thấy con nhỏ Bran bên tôi đâu không?
+Dialogue: 0,0:06:01.82,0:06:03.73,Default,Bartender,0,0,0,,Hôm nay thì chưa thấy.
+Dialogue: 0,0:06:03.73,0:06:04.59,Default,Shinn,0,0,0,,Vậy à.
+Dialogue: 0,0:06:06.59,0:06:08.49,Default,Kairi,0,0,0,,Đó là máy {\i1}Doka Arms: Maximum{\i0} kìa!
+Dialogue: 0,0:06:08.49,0:06:09.16,Default,Shinn,0,0,0,,Cái gì?
+Dialogue: 0,0:06:09.67,0:06:12.35,Default,Bartender,0,0,0,,Nhóc cũng biết cái máy thùng đồ cổ này cơ à?
+Dialogue: 0,0:06:12.86,0:06:14.35,Default,Kairi,0,0,0,,Ơ... ủa?
+Dialogue: 0,0:06:14.68,0:06:16.52,Default,Kairi,0,0,0,,Khe nhét xu nằm ở đâu vậy anh?
+Dialogue: 0,0:06:17.05,0:06:18.85,Default,Shinn,0,0,0,,Tránh ra. Phải làm thế này.
+Dialogue: 0,0:06:24.01,0:06:25.98,Default,Shinn,0,0,0,,Này, đừng có huých vào người tôi.
+Dialogue: 0,0:06:25.98,0:06:26.99,Default,Kairi,0,0,0,,Anh cũng đang huých em đấy thôi.
+Dialogue: 0,0:06:34.33,0:06:36.17,Default,Shinn,0,0,0,,Cơn mưa đạn tới rồi kìa.
+Dialogue: 0,0:06:36.17,0:06:38.65,Default,Kairi,0,0,0,,Mấy trò né đạn này là sở trường của em đấy nhé.
+Dialogue: 0,0:06:38.65,0:06:39.92,Default,Shinn,0,0,0,,Chứng minh thử xem.
+Dialogue: 0,0:06:50.76,0:06:52.14,Default,Shinn,0,0,0,,Nhóc né cũng khá phết đấy chứ.
+Dialogue: 0,0:06:52.94,0:06:54.14,Default,Kairi,0,0,0,,Anh Shinn chơi cũng đỉnh lắm.
+Dialogue: 0,0:06:55.93,0:06:57.52,Default,Shinn,0,0,0,,Giờ không phải lúc đứng đây chơi game.
+Dialogue: 0,0:06:58.20,0:06:59.12,Default,Shinn,0,0,0,,Phải đi tìm cô ta mau.
+Dialogue: 0,0:07:00.21,0:07:02.52,Default,Bran,0,0,0,,Bà dám đóng băng tài khoản của tôi thật đấy à?
+Dialogue: 0,0:07:02.85,0:07:05.81,Italics,Rudra,0,0,0,,Cô vi phạm hợp đồng mà, quên rồi sao?
+Dialogue: 0,0:07:05.81,0:07:07.53,Default,Bran,0,0,0,,Đó là số tiền alma {\i1}của tôi{\i0}!
+Dialogue: 0,0:07:07.88,0:07:12.03,Italics,Rudra,0,0,0,,Đừng lo. Nhận lời khiêu chiến của tôi,\Ntôi sẽ mở khóa tài khoản cho cô ngay.
+Dialogue: 0,0:07:12.43,0:07:13.91,Default,Bran,0,0,0,,Khiêu chiến cái gì cơ?
+Dialogue: 0,0:07:14.37,0:07:15.91,Italics,Rudra,0,0,0,,Rồi cô sẽ biết sớm thôi.
+Dialogue: 0,0:07:23.08,0:07:26.12,Default,Rudra,0,0,0,,Này hai đứa, tôi tìm thấy Bran rồi nhé.
+Dialogue: 0,0:07:26.57,0:07:27.67,Default,Shinn,0,0,0,,Thật hả chị?
+Dialogue: 0,0:07:28.14,0:07:30.17,Default,Rudra,0,0,0,,Nhận ra hai người này không?
+Dialogue: 0,0:07:30.52,0:07:33.38,Default,Shinn,0,0,0,,Chẳng phải là đồng đội cũ của Bran sao?
+Dialogue: 0,0:07:33.38,0:07:34.72,Default,Kairi,0,0,0,,Đồng đội cũ ạ?
+Dialogue: 0,0:07:34.72,0:07:39.31,Default,Rudra,0,0,0,,Tôi đoán là Bran muốn cùng đội cũ\Ntham dự Cúp Senki.
+Dialogue: 0,0:07:39.76,0:07:41.06,Default,Kairi,0,0,0,,Thế thì không được đâu ạ!
+Dialogue: 0,0:07:41.60,0:07:44.46,Default,Rudra,0,0,0,,Mục tiêu của Bran xưa nay vẫn là được đấu với Senki.
+Dialogue: 0,0:07:44.81,0:07:48.84,Default,Rudra,0,0,0,,Nhưng nhóc lại thi đấu như gà mắc tóc,\Nkhiến cô ta mất hết niềm tin.
+Dialogue: 0,0:07:49.32,0:07:50.69,Default,Rudra,0,0,0,,Phải nhóc thì nhóc chọn bên nào?
+Dialogue: 0,0:07:52.45,0:07:58.08,Default,Isaka,0,0,0,,Nếu chị ấy từng ở đội khác,\Nsao lại đồng ý gia nhập Carbuncle chứ?
+Dialogue: 0,0:07:58.53,0:08:01.21,Default,Rudra,0,0,0,,Vì bọn tôi có giao kèo với nhau, rõ ràng thế còn gì.
+Dialogue: 0,0:08:01.60,0:08:03.21,Default,sign,0,0,0,,{\an8}HỢP ĐỒNG LAO ĐỘNG CARBUNCLE
+Dialogue: 0,0:08:04.02,0:08:06.21,Flashback,Rudra,0,0,0,,Ký vào bản hợp đồng này đi.
+Dialogue: 0,0:08:06.21,0:08:09.94,Flashback,Rudra,0,0,0,,Tôi sẽ đưa cô tới trước mặt Senki trong chớp mắt.
+Dialogue: 0,0:08:11.00,0:08:12.82,Default,Rudra,0,0,0,,Sao nào? Quyết định thế nào đây?
+Dialogue: 0,0:08:12.82,0:08:15.03,Default,Kairi,0,0,0,,Ý chị là sao ạ?
+Dialogue: 0,0:08:15.03,0:08:18.47,Default,Rudra,0,0,0,,Nhóc có còn muốn cùng Bran chiến đấu nữa hay không?
+Dialogue: 0,0:08:19.32,0:08:21.73,Default,Kairi,0,0,0,,Em vẫn muốn được kề vai sát cánh cùng chị ấy.
+Dialogue: 0,0:08:24.09,0:08:26.98,Flashback,Bran,0,0,0,,Sao cậu lại dùng Gigant Shift ở cái chỗ {\i1}đó{\i0} hả?!
+Dialogue: 0,0:08:27.22,0:08:30.23,Flashback,Bran,0,0,0,,Đồ vô tích sự! Rác rưởi!\NCái thằng não ngắn nhà cậu!
+Dialogue: 0,0:08:30.50,0:08:32.73,Default,Kairi,0,0,0,,Dù em không đồng tình với mấy lời mắng mỏ đó...
+Dialogue: 0,0:08:33.85,0:08:34.99,Default,Kairi,0,0,0,,Nhưng mà...
+Dialogue: 0,0:08:34.99,0:08:36.49,Default,Rudra,0,0,0,,Nhưng mà làm sao?
+Dialogue: 0,0:08:38.24,0:08:40.33,Default,Kairi,0,0,0,,Được thi đấu cùng chị ấy vui lắm ạ.
+Dialogue: 0,0:08:42.94,0:08:45.36,Default,Rudra,0,0,0,,Hừm, chị đây cũng không phải là hết cách.
+Dialogue: 0,0:08:45.36,0:08:47.37,Default,Kairi,0,0,0,,Cách gì cơ ạ? Việc gì em cũng làm!
+Dialogue: 0,0:08:47.88,0:08:50.88,Default,Rudra,0,0,0,,Được rồi, ký vào đây.
+Dialogue: 0,0:08:48.65,0:08:50.88,Default,sign,0,0,0,,{\an8}ĐỀ NGHỊ TRẬN ĐẤU KHIÊU CHIẾN RIÊNG
+Dialogue: 0,0:08:52.25,0:08:53.13,Default,Shinn,0,0,0,,Này, khoan đã nào.
+Dialogue: 0,0:08:56.09,0:08:58.70,Default,Rudra,0,0,0,,Vậy là lời thách đấu đã được gửi đi.
+Dialogue: 0,0:08:58.70,0:09:01.43,Default,Rudra,0,0,0,,Do Kairi bảo trợ tài chính,\Nvới phần thưởng đặt cược là Bran.
+Dialogue: 0,0:09:01.43,0:09:02.64,Default,Kairi,0,0,0,,Em... em bảo trợ tài chính á?!
+Dialogue: 0,0:09:02.64,0:09:05.55,Default,Rudra,0,0,0,,Nếu thắng, Bran sẽ trở về đội.
+Dialogue: 0,0:09:05.55,0:09:08.15,Default,Rudra,0,0,0,,Còn nếu thua, nhóc sẽ phải trả\Ntoàn bộ phí phá vỡ hợp đồng cho cô ta.
+Dialogue: 0,0:09:08.15,0:09:09.40,Default,Shinn,0,0,0,,Trời ạ, đùa nhau đấy à.
+Dialogue: 0,0:09:09.40,0:09:10.59,Default,Kairi,0,0,0,,Em nhận kèo này!
+Dialogue: 0,0:09:10.59,0:09:12.36,Default,Shinn,0,0,0,,Nợ nần của cậu sẽ ngập đầu ngập cổ đấy.
+Dialogue: 0,0:09:12.36,0:09:14.90,Default,Kairi,0,0,0,,Đưa được chị Bran trở về mới là việc quan trọng nhất!
+Dialogue: 0,0:09:16.91,0:09:19.41,Default,Bran,0,0,0,,Weiß, lao lên trước làm mồi nhử đi.
+Dialogue: 0,0:09:19.41,0:09:22.19,Default,Bran,0,0,0,,Bianca, bọc qua sau lưng Weiß rồi ép sát từ phía sau.
+Dialogue: 0,0:09:22.19,0:09:22.91,Default,Weiß,0,0,0,,Rõ rồi.
+Dialogue: 0,0:09:38.80,0:09:40.30,Default,Weiß,0,0,0,,Bắn đẹp lắm!
+Dialogue: 0,0:09:40.90,0:09:42.43,Italics,Bianca,0,0,0,,Bran quả nhiên quá lợi hại.
+Dialogue: 0,0:09:42.93,0:09:45.06,Default,Bran,0,0,0,,Cậu nhử mồi tốt lắm.
+Dialogue: 0,0:09:45.33,0:09:48.84,Default,Weiß,0,0,0,,Chắc chắn tụi mình sẽ nghiền nát Carbuncle\Nđể đưa cậu trở lại đội.
+Dialogue: 0,0:09:48.84,0:09:51.73,Default,Bran,0,0,0,,Dù sao thì đội bọn họ cũng có một tên lính mới tò te.
+Dialogue: 0,0:09:51.73,0:09:53.41,Default,Bran,0,0,0,,Cơ mà Shinn thì chơi khá gắt đấy.
+Dialogue: 0,0:09:53.41,0:09:54.82,Default,Bianca,0,0,0,,Lính mới tò te cơ à?
+Dialogue: 0,0:09:55.45,0:09:56.69,Default,Weiß/Bianca,0,0,0,,Thế thì trúng mánh rồi!
+Dialogue: 0,0:09:57.20,0:10:03.00,Default,Isana,0,0,0,,Mà nhắc mới nhớ, chẳng phải bên mình\Ncần thêm người thứ ba mới đủ đội hình sao?
+Dialogue: 0,0:10:04.54,0:10:06.20,Default,Isana,0,0,0,,Hay là để em vào chơi nhé?
+Dialogue: 0,0:10:06.20,0:10:08.11,Default,Shinn,0,0,0,,Em còn nhỏ tuổi quá.
+Dialogue: 0,0:10:08.11,0:10:10.67,Default,Isana,0,0,0,,Thì mình khai gian tuổi xíu là được chứ gì.
+Dialogue: 0,0:10:10.67,0:10:12.46,Default,Shinn,0,0,0,,Không có chuyện đó đâu.
+Dialogue: 0,0:10:14.18,0:10:15.69,Default,Kairi,0,0,0,,Còn chị Rudra thì sao ạ?
+Dialogue: 0,0:10:16.47,0:10:19.95,Default,Rudra,0,0,0,,Nếu mà chơi được thì chị đây đã chẳng\Nphải thuê mấy tên ất ơ như các người.
+Dialogue: 0,0:10:20.41,0:10:22.81,Default,Rudra,0,0,0,,Thể lực của tôi có giới hạn y tế.
+Dialogue: 0,0:10:23.15,0:10:24.49,Default,Kairi,0,0,0,,Anh Shinn có quen ai trám vào được không?
+Dialogue: 0,0:10:25.30,0:10:28.61,Default,Shinn,0,0,0,,Tôi bị giới tuyển thủ ruồng bỏ rồi, đào đâu ra ai.
+Dialogue: 0,0:10:28.98,0:10:33.56,Default,Kairi,0,0,0,,Người duy nhất em nghĩ ra lúc này\Nchỉ có anh Myojin của đội Great Cluster,
+Dialogue: 0,0:10:33.56,0:10:35.13,Default,Kairi,0,0,0,,hoặc là anh Ryo của đội Armadillo thôi.
+Dialogue: 0,0:10:35.13,0:10:36.31,Default,Shinn,0,0,0,,Đội người ta tên là Arudabiru.
+Dialogue: 0,0:10:36.86,0:10:39.80,Default,Rudra,0,0,0,,Để tôi gọi hỏi xem Myojin nói sao.
+Dialogue: 0,0:10:44.61,0:10:46.13,Default,Myojin,0,0,0,,Vâng, Myojin xin nghe.
+Dialogue: 0,0:10:49.19,0:10:50.26,Default,Shinn/Kairi,0,0,0,,Myojin đấy ư?
+Dialogue: 0,0:10:52.13,0:10:54.02,Default,Kairi,0,0,0,,Bọn em đang tìm anh khắp nơi đấy ạ!
+Dialogue: 0,0:10:54.38,0:10:57.38,Default,Kairi,0,0,0,,Hãy vào chơi Dark Machine cùng tụi em đi!
+Dialogue: 0,0:11:01.64,0:11:02.97,Default,Myojin,0,0,0,,Tôi hiểu rồi.
+Dialogue: 0,0:11:03.20,0:11:05.22,Default,Myojin,0,0,0,,Hóa ra đó là lý do hai cậu tìm tôi à?
+Dialogue: 0,0:11:05.22,0:11:08.51,Default,Kairi,0,0,0,,Xin anh giúp bọn em với. Chỉ một trận đấu này thôi!
+Dialogue: 0,0:11:10.11,0:11:11.53,Default,Myojin,0,0,0,,Nếu hai cậu đồng ý điều kiện của tôi, thì được thôi.
+Dialogue: 0,0:11:11.53,0:11:12.73,Default,Kairi,0,0,0,,Thật sao anh?!
+Dialogue: 0,0:11:13.74,0:11:15.76,Default,Myojin,0,0,0,,Tôi muốn thu thập dữ liệu về hai cậu.
+Dialogue: 0,0:11:15.76,0:11:19.49,Default,Myojin,0,0,0,,Chỉ cần hai cậu ngoan ngoãn nghe theo chỉ đạo của tôi,\Ntôi sẽ giúp.
+Dialogue: 0,0:11:19.49,0:11:22.04,Default,Shinn,0,0,0,,Cậu muốn bọn tôi phơi hết bài ra cho cậu xem à?
+Dialogue: 0,0:11:22.04,0:11:24.62,Default,Kairi,0,0,0,,Nếu cách đó đưa được chị Bran về, em sẵn sàng làm!
+Dialogue: 0,0:11:26.80,0:11:29.00,Default,Shinn,0,0,0,,Được thôi. Bọn tôi chấp nhận.
+Dialogue: 0,0:11:29.48,0:11:33.25,Default,Myojin,0,0,0,,Vậy từ giờ cho tới lúc trận đấu bắt đầu,\Ntôi sẽ mở khóa huấn luyện đặc biệt cho hai cậu.
+Dialogue: 0,0:11:33.64,0:11:34.63,Default,Shinn,0,0,0,,Tại sao—
+Dialogue: 0,0:11:36.03,0:11:38.50,Default,Myojin,0,0,0,,Chẳng phải hai người vừa bảo sẽ nghe theo lệnh tôi sao?
+Dialogue: 0,0:11:39.73,0:11:41.93,Default,Myojin,0,0,0,,Cả hai cậu đều thuộc mẫu Mech tốc độ.
+Dialogue: 0,0:11:41.93,0:11:44.46,Default,Myojin,0,0,0,,Để xem hai cậu có thể trụ được đến đâu.
+Dialogue: 0,0:11:44.46,0:11:45.89,Default,Myojin,0,0,0,,Tuyệt đối không được dừng chân vì bất cứ điều gì.
+Dialogue: 0,0:11:46.22,0:11:47.89,Default,Myojin,0,0,0,,Tiếp tục di chuyển và né tránh đi!
+Dialogue: 0,0:11:50.65,0:11:53.48,Italics,Shinn,0,0,0,,Đạn bắn chuẩn xác thật đấy. Chết tiệt.
+Dialogue: 0,0:11:58.67,0:12:00.49,Default,Myojin,0,0,0,,Mắt quan sát của cậu quả thực rất nhạy bén.
+Dialogue: 0,0:12:00.86,0:12:03.00,Default,Myojin,0,0,0,,Tôi rất mong chờ xem giới hạn của cậu nằm ở đâu đấy.
+Dialogue: 0,0:12:08.37,0:12:10.87,Default,Myojin,0,0,0,,Nào nào. Chúng ta chỉ mới bắt đầu thôi mà.
+Dialogue: 0,0:12:10.87,0:12:15.01,Default,Rudra,0,0,0,,Đúng là đồ ngốc mới đi huấn luyện\Ncho đối thủ của chính mình.
+Dialogue: 0,0:12:15.01,0:12:18.75,Default,Myojin,0,0,0,,Tôi không hề ngốc. Đây là trinh sát thực chiến.
+Dialogue: 0,0:12:19.43,0:12:21.76,Default,Shinn,0,0,0,,Rốt cuộc bài tập này giúp ích gì cho bọn tôi chứ?
+Dialogue: 0,0:12:21.76,0:12:24.92,Default,Myojin,0,0,0,,Tôi muốn đo lường tiềm năng thể chất tiềm ẩn của các cậu.
+Dialogue: 0,0:12:24.92,0:12:27.05,Default,Myojin,0,0,0,,Giới hạn cơ thể sẽ quyết định năng lực thực chiến.
+Dialogue: 0,0:12:27.05,0:12:30.45,Default,Myojin,0,0,0,,Nếu không kiểm soát tốt thể lực,\Ncác cậu vĩnh viễn không thể chiến thắng.
+Dialogue: 0,0:12:33.38,0:12:35.29,Default,Shinn,0,0,0,,Vẫn còn trụ được chứ?
+Dialogue: 0,0:12:36.43,0:12:37.32,Default,Kairi,0,0,0,,Vâng!
+Dialogue: 0,0:12:40.28,0:12:43.03,Default,Myojin,0,0,0,,Sao thế? Định bỏ cuộc sớm thế à?
+Dialogue: 0,0:12:44.03,0:12:46.03,Default,Kairi,0,0,0,,Ông nội em từng dạy rằng...
+Dialogue: 0,0:12:47.87,0:12:48.91,Default,Kairi,0,0,0,,Nê-ba...
+Dialogue: 0,0:12:49.50,0:12:50.66,Default,Rudra/Isana,0,0,0,,"Nê-ba" á?
+Dialogue: 0,0:12:51.32,0:12:52.54,Default,Kairi,0,0,0,,Ghi-ba!
+Dialogue: 0,0:12:53.17,0:12:54.06,Default,Shinn,0,0,0,,"Ghi-ba"?
+Dialogue: 0,0:12:54.39,0:12:56.16,Default,Myojin,0,0,0,,Ý cậu là "Never give up" (Tuyệt đối không bỏ cuộc) à?
+Dialogue: 0,0:12:56.16,0:12:57.73,Default,Myojin,0,0,0,,Tinh thần đó rất quan trọng đấy.
+Dialogue: 0,0:12:58.43,0:12:59.69,Default,Myojin,0,0,0,,Tốt lắm. Trông ổn rồi đấy.
+Dialogue: 0,0:13:01.12,0:13:02.30,Default,Kairi,0,0,0,,Em kiệt sức rồi...
+Dialogue: 0,0:13:04.76,0:13:07.18,Default,Shinn,0,0,0,,Đúng là thằng nhóc ngốc nghếch.
+Dialogue: 0,0:13:07.67,0:13:09.84,Default,Kairi,0,0,0,,Em được dạy là không bao giờ được bỏ cuộc mà.
+Dialogue: 0,0:13:12.11,0:13:13.53,Default,Rudra,0,0,0,,Vẻ đẹp của tuổi trẻ đấy.
+Dialogue: 0,0:13:13.89,0:13:15.45,Default,Isana,0,0,0,,Tuổi trẻ cơ đấy.
+Dialogue: 0,0:13:16.62,0:13:17.66,Default,Isana,0,0,0,,Đúng là giọng điệu của mấy bà già.
+Dialogue: 0,0:13:19.16,0:13:23.35,Default,Myojin,0,0,0,,Dù còn vài điểm chưa thật ưng ý,\Nnhưng đội hình thế này là vào guồng rồi.
+Dialogue: 0,0:13:27.76,0:13:32.20,Italics,Bianca,0,0,0,,Nếu bọn tớ thắng, các người phải giao nộp tiền thưởng\Nvà trả tự do cho Bran vô điều kiện.
+Dialogue: 0,0:13:32.62,0:13:36.46,Default,Rudra,0,0,0,,Còn nếu {\i1}chúng tôi{\i0} thắng, mấy cô phải nộp {\i1}cho tôi{\i0}\Ntoàn bộ tiền thưởng cùng với Bran.
+Dialogue: 0,0:13:36.46,0:13:41.51,Default,Myojin,0,0,0,,Tôi, Myojin của đội Great Cluster,\Nxin đứng ra làm chứng không còn điều kiện nào khác.
+Dialogue: 0,0:13:41.51,0:13:47.22,Default,Myojin,0,0,0,,Giờ đây, với tư cách là một thành viên Carbuncle,\Ntrận đấu do Kairi tài trợ xin phép được bắt đầu!
+Dialogue: 0,0:13:47.22,0:13:50.60,Default,Bianca,0,0,0,,Này! Myojin của Great Cluster\Nlàm cái quái gì ở đây thế hả?!
+Dialogue: 0,0:13:50.60,0:13:52.85,Default,Bran,0,0,0,,Chắc là vì trận đấu gần đây của bọn mình chăng?
+Dialogue: 0,0:13:52.85,0:13:56.60,Default,Bianca,0,0,0,,Còn cái anh Shinn kia trông ngon zai thật đấy.\NAnh ta là gì của cậu thế?
+Dialogue: 0,0:13:56.60,0:13:58.60,Default,Bran,0,0,0,,Đồng đội cũ, chấm hết.
+Dialogue: 0,0:13:59.75,0:14:01.61,Default,Bianca,0,0,0,,Nếu thắng, tớ sẽ bắt anh ta về!
+Dialogue: 0,0:14:01.75,0:14:07.86,Default,sign,0,0,0,,{\an8}CAFÉ TÀU BAY CARBUNCLE\NTÀI TRỢ BỞI: KAIRI MITAKE
+Dialogue: 0,0:14:02.07,0:14:06.97,Italics,Isaka,0,0,0,,Quán cà phê thân thiện của mọi nhà, Carbuncle kính chào quý khách!
+Dialogue: 0,0:14:14.64,0:14:16.75,Italics,Announcer,0,0,0,,Hiệp một. Bắt đầu!
+Dialogue: 0,0:14:20.07,0:14:21.85,Default,Kairi,0,0,0,,Bản đồ này em chưa chơi bao giờ cả.
+Dialogue: 0,0:14:21.85,0:14:22.75,Default,Myojin,0,0,0,,Rắc rối rồi đây.
+Dialogue: 0,0:14:22.75,0:14:25.82,Default,Shinn,0,0,0,,Ở đây dùng Dung dịch Palma thay vì Tinh thể Palma.
+Dialogue: 0,0:14:25.82,0:14:27.27,Default,Shinn,0,0,0,,Còn lại cơ chế vẫn y như cũ.
+Dialogue: 0,0:14:27.27,0:14:30.19,Default,Shinn,0,0,0,,Về cơ bản là đi thu thập đống magma đó để ghi điểm.
+Dialogue: 0,0:14:37.11,0:14:38.27,Default,Shinn,0,0,0,,Phát hiện kẻ địch.
+Dialogue: 0,0:14:40.03,0:14:41.02,Default,Kairi,0,0,0,,Bên em cũng thấy rồi!
+Dialogue: 0,0:14:41.33,0:14:43.02,Default,Myojin,0,0,0,,Nghĩa là vị trí của Bran sẽ là...
+Dialogue: 0,0:14:44.52,0:14:45.40,Default,Bran,0,0,0,,Bắt được rồi nhé.
+Dialogue: 0,0:14:46.58,0:14:47.66,Default,Kairi,0,0,0,,Em bị Bran bắn trúng rồi!
+Dialogue: 0,0:14:53.03,0:14:55.29,Default,Myojin,0,0,0,,Kairi, dụ bọn chúng về phía tôi.
+Dialogue: 0,0:14:55.29,0:14:57.29,Default,Myojin,0,0,0,,Shinn, bọc ra sau khóa chặt đường lui của chúng.
+Dialogue: 0,0:15:01.37,0:15:02.29,Default,Kairi,0,0,0,,Cái gì thế này...
+Dialogue: 0,0:15:04.32,0:15:05.79,Default,Shinn,0,0,0,,Bran đổi vị trí rồi sao?
+Dialogue: 0,0:15:05.79,0:15:07.30,Default,Bianca,0,0,0,,Lùi lại mau!
+Dialogue: 0,0:15:10.71,0:15:11.40,Default,Myojin,0,0,0,,Ấy chết.
+Dialogue: 0,0:15:13.88,0:15:15.89,Italics,Shinn,0,0,0,,Những phát bắn chuẩn xác đến kinh ngạc.
+Dialogue: 0,0:15:15.89,0:15:18.39,Italics,Shinn,0,0,0,,Đứng trước họng súng của Bran\Nđúng là một cảm giác đáng sợ.
+Dialogue: 0,0:15:20.83,0:15:23.01,Default,Rudra,0,0,0,,Đúng là mấy tên ngốc nghếch.
+Dialogue: 0,0:15:23.01,0:15:25.52,Default,Rudra,0,0,0,,Đừng có đâm đầu vào bẫy của người ta như thế chứ!
+Dialogue: 0,0:15:30.28,0:15:31.53,Default,Kairi,0,0,0,,Vòng qua bên hông đi!
+Dialogue: 0,0:15:33.16,0:15:34.41,Default,Bianca,0,0,0,,Số mình may thật.
+Dialogue: 0,0:15:34.41,0:15:35.53,Default,Bianca,0,0,0,,Ăn đòn này đi!
+Dialogue: 0,0:15:38.54,0:15:42.54,Default,Shinn,0,0,0,,Hai tên tiên phong bên kia chỉ mải mê\Nnhắm vào Kairi để bắt nạt lính mới.
+Dialogue: 0,0:15:43.13,0:15:45.46,Default,Kairi,0,0,0,,Em thấy bọn họ thi đấu như ngựa bất kham thì đúng hơn.
+Dialogue: 0,0:15:48.48,0:15:49.55,Italics,Announcer,0,0,0,,Hết hiệp một.
+Dialogue: 0,0:15:52.25,0:15:53.93,Default,Rudra,0,0,0,,Hai tên đần các cậu làm cái trò gì thế hả?
+Dialogue: 0,0:15:54.17,0:15:55.43,Default,Rudra,0,0,0,,Có muốn thắng hay không đây?
+Dialogue: 0,0:15:55.79,0:15:57.30,Default,Kairi,0,0,0,,Tất nhiên là có rồi ạ!
+Dialogue: 0,0:15:57.30,0:16:00.81,Default,Shinn,0,0,0,,Bọn tôi hiểu rồi. Tôi không ngờ Bran\Nlại giỏi giăng bẫy đánh lạc hướng đến thế.
+Dialogue: 0,0:16:00.81,0:16:05.48,Default,Rudra,0,0,0,,Cậu bị ngốc à? Cậu đã chơi Dark Machine\Nđược bao nhiêu năm trời rồi hả?
+Dialogue: 0,0:16:06.44,0:16:10.29,Default,Myojin,0,0,0,,Shinn, cậu nghĩ rằng Bran đang giăng bẫy nghi binh,
+Dialogue: 0,0:16:10.29,0:16:11.95,Default,Myojin,0,0,0,,nhưng liệu thực tế có phải như vậy không?
+Dialogue: 0,0:16:11.95,0:16:12.73,Default,Shinn,0,0,0,,Hả?
+Dialogue: 0,0:16:13.21,0:16:17.20,Default,Myojin,0,0,0,,Tôi dám cá là Bran lúc này đang ngán ngẩm\Nvới chính đồng đội của mình đến tận cổ rồi.
+Dialogue: 0,0:16:20.89,0:16:23.70,Default,Shinn,0,0,0,,Tôi cũng thấy lạ là tại sao Bran lại di chuyển nhiều đến thế.
+Dialogue: 0,0:16:24.33,0:16:27.53,Default,Shinn,0,0,0,,Kairi, có khi nhận định của nhóc lại đúng đấy.
+Dialogue: 0,0:16:27.53,0:16:29.71,Default,Kairi,0,0,0,,Hai người tiên phong bên đó\Nđang tự ý lao lên một cách thiếu suy nghĩ sao?
+Dialogue: 0,0:16:29.71,0:16:32.40,Default,Shinn,0,0,0,,Và Bran đang phải chật vật di chuyển để bọc lót cho họ.
+Dialogue: 0,0:16:33.20,0:16:35.47,Default,Weiß,0,0,0,,Thắng chắc rồi! Tụi mình đang áp đảo hoàn toàn!
+Dialogue: 0,0:16:35.47,0:16:38.47,Default,Bianca,0,0,0,,Hạ gục được Myojin là bọn mình nắm chắc\Nvé tham dự Cúp Senki trong tay rồi!
+Dialogue: 0,0:16:38.47,0:16:41.96,Default,Bran,0,0,0,,Sao hai người không làm theo chiến thuật tôi đã dặn hả?
+Dialogue: 0,0:16:42.41,0:16:45.11,Default,Bianca,0,0,0,,Đang trên đà thắng thì phải dồn ép đối thủ chứ!
+Dialogue: 0,0:16:45.11,0:16:47.54,Default,Bianca,0,0,0,,Tớ không đời nào chịu làm mồi nhử mờ nhạt đâu nhé.
+Dialogue: 0,0:16:47.54,0:16:48.77,Default,Weiß,0,0,0,,Bianca à.
+Dialogue: 0,0:16:48.77,0:16:51.52,Default,Bianca,0,0,0,,Tớ muốn cô ấy thấy được tụi mình\Nđã nỗ lực tập luyện chăm chỉ đến nhường nào!
+Dialogue: 0,0:16:55.28,0:16:57.43,Italics,Announcer,0,0,0,,Hiệp hai. Bắt đầu!
+Dialogue: 0,0:16:57.74,0:17:01.43,Default,Bran,0,0,0,,Tôi sẽ tiến về điểm bắn tỉa ở tọa độ E7.\NHãy dụ địch từ bên sườn vào.
+Dialogue: 0,0:17:01.43,0:17:02.17,Default,Weiß,0,0,0,,Rõ rồi.
+Dialogue: 0,0:17:04.81,0:17:07.25,Default,Weiß,0,0,0,,Dừng lại đã, Bianca! Đừng lao lên quá xa!
+Dialogue: 0,0:17:07.25,0:17:11.00,Default,Bianca,0,0,0,,Làm gì mà căng thẳng thế?\NỞ tít đằng sau thì làm sao tỏa sáng được!
+Dialogue: 0,0:17:12.29,0:17:13.63,Default,Weiß,0,0,0,,Phát hiện kẻ địch!
+Dialogue: 0,0:17:17.53,0:17:20.42,Default,Bianca,0,0,0,,Weiß, mau hỗ trợ tớ xử đẹp Myojin!
+Dialogue: 0,0:17:21.40,0:17:23.14,Default,Myojin,0,0,0,,Cắn câu rồi nhé.
+Dialogue: 0,0:17:23.51,0:17:24.96,Default,Weiß,0,0,0,,Đợi đã, Bianca!
+Dialogue: 0,0:17:26.24,0:17:27.52,Default,Bran,0,0,0,,Hắn ta biến đâu mất rồi...
+Dialogue: 0,0:17:32.82,0:17:33.65,Default,Bran,0,0,0,,Sao có thể chứ?!
+Dialogue: 0,0:17:35.95,0:17:37.07,Default,Bran,0,0,0,,Mình bị bao vây rồi ư?!
+Dialogue: 0,0:17:37.93,0:17:40.08,Default,Bran,0,0,0,,Này! Có ai chịu hỗ trợ tôi không đấy hả?!
+Dialogue: 0,0:17:40.08,0:17:42.08,Default,Bran,0,0,0,,Weiß! Bianca!
+Dialogue: 0,0:17:43.67,0:17:46.70,Default,Bran,0,0,0,,Tránh xa tôi ra, cái thằng lính mới chết tiệt này!
+Dialogue: 0,0:17:48.54,0:17:51.04,Default,Shinn,0,0,0,,Nhóc né đạn giỏi lắm đúng không, lính mới?
+Dialogue: 0,0:17:51.04,0:17:51.92,Default,Kairi,0,0,0,,Cứ để đó cho em!
+Dialogue: 0,0:18:01.56,0:18:04.06,Default,Bianca,0,0,0,,Chỉ cần hạ gục được ngươi, ta sẽ chứng minh được thực lực!
+Dialogue: 0,0:18:07.06,0:18:08.81,Default,Weiß,0,0,0,,Bianca, dừng lại mau!
+Dialogue: 0,0:18:09.17,0:18:12.07,Default,Myojin,0,0,0,,Kairi, đây mới là cách dùng Gigant Shift chuẩn xác này!
+Dialogue: 0,0:18:26.97,0:18:28.25,Default,Weiß,0,0,0,,Đó là mục đích thực sự của hắn ta sao?!
+Dialogue: 0,0:18:28.56,0:18:30.46,Default,Bran,0,0,0,,Hai người nãy giờ chạy biến đi đâu thế hả?!
+Dialogue: 0,0:18:30.46,0:18:32.50,Default,Bianca,0,0,0,,Im miệng lại rồi lo mà bắn hắn đi!
+Dialogue: 0,0:18:34.90,0:18:36.26,Default,Bran,0,0,0,,Myojin!
+Dialogue: 0,0:18:38.13,0:18:39.63,Default,Myojin,0,0,0,,Shinn! Kairi!
+Dialogue: 0,0:18:55.78,0:18:57.78,Default,Bran,0,0,0,,Hồi sinh lúc này cũng chẳng còn tác dụng gì nữa đâu!
+Dialogue: 0,0:18:57.78,0:18:59.03,Default,Weiß,0,0,0,,Mau bọc lót cho tôi đi!
+Dialogue: 0,0:18:59.30,0:19:01.16,Default,Shinn,0,0,0,,Lính mới, kết liễu hắn!
+Dialogue: 0,0:19:01.16,0:19:02.18,Default,Kairi,0,0,0,,Rõ rồi ạ!
+Dialogue: 0,0:19:19.55,0:19:21.43,Default,Bran,0,0,0,,Chẳng phải tôi đã dặn các người rồi sao?!
+Dialogue: 0,0:19:22.57,0:19:25.45,Italics,Announcer,0,0,0,,Trận đấu kết thúc! Đội chiến thắng: Carbuncle!
+Dialogue: 0,0:19:30.58,0:19:32.56,Default,Bianca,0,0,0,,Chính vì cậu mà bọn tớ mới thua đấy!
+Dialogue: 0,0:19:32.92,0:19:35.89,Default,Bianca,0,0,0,,Nhảm nhí thật! Kế hoạch hoàn hảo của mình coi như đổ sông đổ biển!
+Dialogue: 0,0:19:35.89,0:19:37.42,Default,Weiß,0,0,0,,Khoan đã nào, Bianca!
+Dialogue: 0,0:19:43.85,0:19:45.70,Default,Bran,0,0,0,,Chỉ là đồ chơi thôi à.
+Dialogue: 0,0:19:49.22,0:19:51.13,Default,Bran,0,0,0,,Không khí ngượng ngùng dã man.
+Dialogue: 0,0:19:57.57,0:20:00.59,Default,Bran,0,0,0,,Hóa ra từ đầu tới cuối tôi bị bọn họ lừa gạt trắng trợn.
+Dialogue: 0,0:20:00.91,0:20:02.72,Default,Shinn,0,0,0,,Cô đúng là dễ mủi lòng trước mấy chuyện sướt mướt thật đấy nhỉ?
+Dialogue: 0,0:20:02.72,0:20:04.15,Default,Bran,0,0,0,,Câm miệng lại đi!
+Dialogue: 0,0:20:04.49,0:20:06.32,Default,Kairi,0,0,0,,Chị Bran, tụi mình lại cùng nhau thi đấu nhé.
+Dialogue: 0,0:20:06.32,0:20:08.62,Default,Kairi,0,0,0,,Carbuncle thực sự rất cần có chị.
+Dialogue: 0,0:20:08.62,0:20:10.89,Default,Bran,0,0,0,,Cà ri dính tèm lem trên mặt cậu kìa.
+Dialogue: 0,0:20:15.85,0:20:19.30,Default,Kairi,0,0,0,,Em đã đọc kỹ lại toàn bộ luật chơi như chị dặn rồi.\NEm cũng đã luyện tập chăm chỉ nữa.
+Dialogue: 0,0:20:19.61,0:20:21.96,Default,Kairi,0,0,0,,Giờ em nghĩ mình đã vượt qua trình độ của một lính mới rồi ạ!
+Dialogue: 0,0:20:21.96,0:20:25.11,Default,Bran,0,0,0,,Xem ra nhóc cũng đỡ vô dụng hơn một chút rồi đấy.
+Dialogue: 0,0:20:25.11,0:20:30.28,Default,Rudra,0,0,0,,Bọn tôi đã thắng, vậy nên đúng như giao kèo,\Ncô sẽ quay trở lại đội Carbuncle.
+Dialogue: 0,0:20:30.28,0:20:31.62,Default,Rudra,0,0,0,,Hiểu rõ chưa?
+Dialogue: 0,0:20:31.85,0:20:35.13,Default,Bran,0,0,0,,Thì hợp đồng là hợp đồng, đành vậy thôi.
+Dialogue: 0,0:20:35.13,0:20:37.35,Default,Kairi,0,0,0,,Xem ra Carbuncle đã trở lại đường đua rồi!
+Dialogue: 0,0:20:37.35,0:20:38.94,Default,Myojin,0,0,0,,Kết thúc có hậu thế là tốt rồi.
+Dialogue: 0,0:20:38.94,0:20:40.13,Default,Isana,0,0,0,,Chuẩn luôn.
+Dialogue: 0,0:20:40.92,0:20:44.13,Default,Kairi,0,0,0,,Em rất cảm ơn anh đã giúp đỡ,\Nnhưng lần tới bọn em nhất định sẽ đánh bại anh!
+Dialogue: 0,0:20:44.64,0:20:46.99,Default,Myojin,0,0,0,,Các cậu còn phải luyện tập nhiều lắm mới tới ngày đó.
+Dialogue: 0,0:20:46.99,0:20:49.14,Default,Myojin,0,0,0,,Tôi không nghĩ các cậu có thể hạ gục được tôi sớm thế đâu.
+Dialogue: 0,0:20:49.65,0:20:50.69,Default,Myojin,0,0,0,,Hẹn gặp lại sau nhé.
+Dialogue: 0,0:20:56.97,0:20:58.89,Default,Kairi,0,0,0,,Được thi đấu bên cạnh anh ấy mới nhận ra...
+Dialogue: 0,0:20:59.40,0:21:00.92,Default,Kairi,0,0,0,,Anh Myojin chơi thực sự quá xuất sắc.
+Dialogue: 0,0:21:01.51,0:21:06.16,Default,Kairi,0,0,0,,Bọn mình sẽ còn tiến bộ hơn nữa trước thềm Cúp Senki,\Nđể rồi sẽ đánh bại anh ấy tại đó!
+Dialogue: 0,0:21:06.66,0:21:08.17,Default,Bran,0,0,0,,Cúp Senki á?
+Dialogue: 0,0:21:08.17,0:21:10.10,Default,Shinn,0,0,0,,Năm nay đội mình đâu được quyền tham dự.
+Dialogue: 0,0:21:11.71,0:21:12.29,Default,Kairi,0,0,0,,Dạ?
+Dialogue: 0,0:21:14.17,0:21:14.90,Default,Shinn/Bran/Isana,0,0,0,,Hả?!
+Dialogue: 0,0:21:15.96,0:21:18.25,Default,Kairi,0,0,0,,T-Tại sao lại thế ạ?!
+
