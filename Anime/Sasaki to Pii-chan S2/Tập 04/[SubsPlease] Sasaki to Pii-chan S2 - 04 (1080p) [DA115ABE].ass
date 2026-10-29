@@ -1,0 +1,296 @@
+﻿[Script Info]
+Title: Vietnamese Fansub (VietSub by Amtia(NOFACE))
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+
+[Aegisub Project Garbage]
+Last Style Storage: Default
+Audio File: CR_SasakiAndPeeps_S2E4_SPESIM0016_328098_video_ja-jp_J11069623.mp4
+Video File: CR_SasakiAndPeeps_S2E4_SPESIM0016_328098_video_ja-jp_J11069623.mp4
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 2.500000
+Scroll Position: 201
+Active Line: 225
+Video Position: 26786
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Italics,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback_Italics,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Main - Top,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Italics - Top,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback - Top,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback_Italics - Top,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:06.15,0:00:08.99,Default,Abaddon,0,0,0,,Hình như có tiếng nhạc vẳng lại thì phải?
+Dialogue: 0,0:00:08.99,0:00:11.09,Default,Abaddon,0,0,0,,Chắc là câu lạc bộ nào đó đang tập luyện chăng?
+Dialogue: 0,0:00:11.78,0:00:14.10,Default,Abaddon,0,0,0,,Ngươi có tham gia câu lạc bộ nào không?
+Dialogue: 0,0:00:16.45,0:00:18.71,Italics,Neighbor,0,0,0,,Hiện đang có một cuộc chiến ủy nhiệm\Ndiễn ra giữa thiên sứ và ác ma.
+Dialogue: 0,0:00:19.23,0:00:21.92,Italics,Neighbor,0,0,0,,Một ác ma có tên Abaddon đã nhắm trúng tôi,
+Dialogue: 0,0:00:21.92,0:00:25.71,Italics,Neighbor,0,0,0,,và tôi đã bước vào trò chơi sinh tử này\Nvới tư cách là tông đồ của hắn.
+Dialogue: 0,0:00:26.34,0:00:30.61,Italics,Neighbor,0,0,0,,Kể từ đó, hai chúng tôi như hình với bóng.
+Dialogue: 0,0:00:30.61,0:00:35.06,Italics,Neighbor,0,0,0,,Phải làm vậy nếu tôi muốn sống sót\Nvà vươn lên dẫn đầu cuộc chiến ủy nhiệm này.
+Dialogue: 0,0:00:35.68,0:00:41.45,Italics,Neighbor,0,0,0,,Tác dụng phụ từ năng lực hút cạn sinh lực kẻ khác\Nmà hắn ban cho tôi...
+Dialogue: 0,0:00:41.45,0:00:44.01,Italics,Neighbor,0,0,0,,chính là giúp cơ thể tôi luôn duy trì trạng thái cực kỳ khỏe mạnh.
+Dialogue: 0,0:00:44.01,0:00:48.69,Italics,Neighbor,0,0,0,,Ngoài ra, hắn còn bảo rằng các tông đồ\Nđánh bại được tông đồ phe đối địch...
+Dialogue: 0,0:00:48.69,0:00:51.72,Italics,Neighbor,0,0,0,,sẽ được ban thưởng một điều ước.
+Dialogue: 0,0:00:52.55,0:00:57.16,Italics,Neighbor,0,0,0,,Lần trước kết quả không được như ý lắm,\Nnhưng đây là cơ hội ngàn năm có một...
+Dialogue: 0,0:00:57.16,0:00:59.17,Italics,Neighbor,0,0,0,,để tôi có thể đến gần hơn với chú hàng xóm.
+Dialogue: 0,0:01:01.39,0:01:02.71,Default,Girl,0,0,0,,Gì, thật á?!
+Dialogue: 0,0:01:02.71,0:01:03.87,Default,Girl,0,0,0,,Ừ, chuyện hoàn toàn là—
+Dialogue: 0,0:01:07.72,0:01:08.79,Default,Neighbor,0,0,0,,Abaddon.
+Dialogue: 0,0:01:08.79,0:01:12.16,Default,Abaddon,0,0,0,,Có vẻ như xuất hiện một tông đồ\Ncủa phe thiên sứ trà trộn quanh đây rồi đấy.
+Dialogue: 0,0:01:12.16,0:01:15.51,Default,Abaddon,0,0,0,,Đánh nhau trong này thì phiền phức lắm,\Nhay là ra ngoài sân trường xử lý đi?
+Dialogue: 0,0:01:15.99,0:01:17.23,Default,Neighbor,0,0,0,,Được thôi.
+Dialogue: 0,0:01:21.61,0:01:23.69,Default,Abaddon,0,0,0,,Hoàng hôn đẹp thật đấy!
+Dialogue: 0,0:01:23.69,0:01:26.88,Default,Abaddon,0,0,0,,Ước gì ta có thể ngắm nó\Ncho tới khi lặn hẳn xuống đường chân trời.
+Dialogue: 0,0:01:26.88,0:01:29.40,Default,Neighbor,0,0,0,,Ác ma mà cũng có tâm hồn lãng mạn thế cơ à?
+Dialogue: 0,0:01:29.40,0:01:31.57,Default,Abaddon,0,0,0,,Trước kia ta cũng từng là thiên sứ đấy, biết chưa hả?
+Dialogue: 0,0:01:31.57,0:01:34.87,Default,Abaddon,0,0,0,,Ta cũng từng ngắm hoa\Nvà cất tiếng hát vang tận trời xanh!
+Dialogue: 0,0:01:36.61,0:01:40.24,Default,Neighbor,0,0,0,,Tôi thì thấy dễ hình dung cảnh ông\Nđổ nước sôi sục vào tổ kiến hơn đấy.
+Dialogue: 0,0:01:40.24,0:01:42.17,Default,Abaddon,0,0,0,,Đó là sở thích của {\i1}ngươi{\i0} thì có!
+Dialogue: 0,0:01:42.17,0:01:44.88,Default,Abaddon,0,0,0,,Đừng có gán ghép cái gu kỳ quặc của ngươi lên người ta.
+Dialogue: 0,0:01:44.88,0:01:46.09,Default,Neighbor,0,0,0,,Tôi không có.
+Dialogue: 0,0:01:46.09,0:01:48.80,Default,Abaddon,0,0,0,,Nhân tiện, nếu ta không nhầm thì...
+Dialogue: 0,0:01:49.52,0:01:52.29,Default,Abaddon,0,0,0,,Hình như bọn chúng phát hiện ra chúng ta rồi.
+Dialogue: 0,0:01:54.59,0:01:56.58,Default,Neighbor,0,0,0,,Số lượng đông đảo thật đấy.
+Dialogue: 0,0:01:56.58,0:01:58.54,Default,Neighbor,0,0,0,,Ông giải quyết nổi không?
+Dialogue: 0,0:01:58.54,0:02:02.31,Default,Abaddon,0,0,0,,Ta cá là trận trước chúng ta đã bỏ sót tên nào đó.
+Dialogue: 0,0:02:02.31,0:02:06.00,Default,Neighbor,0,0,0,,Ý ông là đang trách móc tôi đấy à?
+Dialogue: 0,0:02:06.00,0:02:08.84,Default,Abaddon,0,0,0,,Không, ta chỉ nói sự thật thôi.
+Dialogue: 0,0:02:08.84,0:02:10.96,Default,Abaddon,0,0,0,,Rõ ràng là có vài tên đã chạy thoát mà, đúng không?
+Dialogue: 0,0:02:10.96,0:02:12.28,Default,Neighbor,0,0,0,,Tôi hiểu rồi.
+Dialogue: 0,0:02:12.28,0:02:16.24,Default,Abaddon,0,0,0,,Cơ mà số lượng thế này có hơi vượt dự tính...
+Dialogue: 0,0:02:16.24,0:02:18.51,Default,Neighbor,0,0,0,,Hay là tụi mình chuồn đi?
+Dialogue: 0,0:02:18.51,0:02:21.28,Default,Abaddon,0,0,0,,Chạy trốn cũng là một cách, phải.
+Dialogue: 0,0:02:21.28,0:02:24.91,Default,Abaddon,0,0,0,,Nhưng ta nghĩ trước hết cứ nên thử quét sạch bọn chúng xem sao.
+Dialogue: 0,0:02:24.91,0:02:30.86,Default,Abaddon,0,0,0,,Phủ đầu đối phương ngay từ đầu luôn là thượng sách,\Ntránh để mất quyền chủ động.
+Dialogue: 0,0:02:30.86,0:02:32.84,Default,Neighbor,0,0,0,,Ông làm nổi trò đó không đấy?
+Dialogue: 0,0:02:32.84,0:02:35.46,Default,Abaddon,0,0,0,,Đặt chút niềm tin vào ta coi nào!
+Dialogue: 0,0:02:35.82,0:02:37.20,Default,Neighbor,0,0,0,,Được thôi.
+Dialogue: 0,0:02:38.42,0:02:41.42,Default,Neighbor,0,0,0,,Abaddon, hiện hình ngay!
+Dialogue: 0,0:04:12.36,0:04:16.44,Default,sign,0,0,0,,{\an3\fad(830,440)\fnSegoe UI\fs14\an1\i0\bord1\b1\shad1\blur2\c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\pos(605,317)}TẬP 4{\3c&H93CC2E&\4c&H93CC2E&\c&HFFFFFF&}\h\h\h\h\h\h\h\h\h\h\h\h\hThiên Sứ Và Thiếu Niên
+Dialogue: 0,0:04:21.55,0:04:25.51,Italics,Sasaki,0,0,0,,Việc tiếp theo tôi cần làm\Nlà kiểm tra tình hình của tiểu thư Shizuka.
+Dialogue: 0,0:04:26.00,0:04:29.92,Italics,Sasaki,0,0,0,,Thế nhưng do cô ấy đứng bên ngoài kết giới ma pháp của tôi,\Nnên giờ chẳng thấy bóng dáng đâu cả.
+Dialogue: 0,0:04:29.92,0:04:31.77,Italics,Sasaki,0,0,0,,Đúng khoảnh khắc thiết bị liên lạc bị cắt đứt,
+Dialogue: 0,0:04:31.77,0:04:34.94,Italics,Sasaki,0,0,0,,tôi đã xác nhận một tia chớp lóe lên\Nngay tại rìa ranh giới ma pháp của mình.
+Dialogue: 0,0:04:35.43,0:04:38.39,Italics,Sasaki,0,0,0,,Nó hoàn toàn trùng khớp với những gì\Ntiểu thư Futari Shizuka đã miêu tả trước đây.
+Dialogue: 0,0:04:39.10,0:04:42.88,Italics,Sasaki,0,0,0,,Điều đó đã củng cố thêm cho giả thuyết\Nmà tôi từng đặt ra trước đó:
+Dialogue: 0,0:04:43.41,0:04:46.90,Italics,Sasaki,0,0,0,,Thứ năng lực siêu nhiên bí ẩn này\Ncó tương tác qua lại với kết giới ma pháp của tôi.
+Dialogue: 0,0:04:50.92,0:04:53.45,Default,Sasaki,0,0,0,,Ước gì lúc này ít ra có thể liên lạc được với ngài Peeps...
+Dialogue: 0,0:04:52.59,0:04:54.28,Main - Top,Boy,0,0,0,,Eriel, hiện hình mau!
+Dialogue: 0,0:04:58.69,0:05:02.16,Default,Boy,0,0,0,,Không thấy ác ma của hắn quanh đây. Cẩn thận đấy.
+Dialogue: 0,0:05:02.16,0:05:03.16,Default,Eriel,0,0,0,,Rõ rồi.
+Dialogue: 0,0:05:04.62,0:05:08.42,Default,Himegami,0,0,0,,Eriel, tại sao một tông đồ lại đi lang thang một mình thế kia?
+Dialogue: 0,0:05:08.42,0:05:10.69,Default,Eriel,0,0,0,,Có lẽ hắn đã bị lạc mất ác ma của mình.
+Dialogue: 0,0:05:10.69,0:05:12.62,Default,Eriel,0,0,0,,Chuyện đó xảy ra như cơm bữa ấy mà.
+Dialogue: 0,0:05:12.62,0:05:16.09,Default,Himegami,0,0,0,,Vậy em nghĩ chúng ta hạ gục hắn được chứ?
+Dialogue: 0,0:05:16.46,0:05:18.42,Default,Eriel,0,0,0,,Vâng, em nghĩ là được ạ.
+Dialogue: 0,0:05:18.42,0:05:21.13,Italics,Sasaki,0,0,0,,Tình hình này có vẻ không ổn chút nào rồi!
+Dialogue: 0,0:05:21.13,0:05:23.64,Default,Himegami,0,0,0,,Anh rất muốn có được một trận thắng cho ra hồn.
+Dialogue: 0,0:05:23.64,0:05:27.26,Default,Himegami,0,0,0,,Nếu báo cáo việc này cho lực lượng chủ lực,\Nbọn họ sẽ cướp mất con mồi này mất.
+Dialogue: 0,0:05:27.26,0:05:30.48,Default,Himegami,0,0,0,,Như thế thì làm sao anh đạt được điều ước chứ.
+Dialogue: 0,0:05:30.79,0:05:32.19,Italics,Sasaki,0,0,0,,Điều ước ư?
+Dialogue: 0,0:05:33.46,0:05:34.73,Default,Eriel,0,0,0,,Được thôi ạ.
+Dialogue: 0,0:05:34.73,0:05:37.11,Default,Eriel,0,0,0,,Em sẽ tiêu diệt tên tông đồ mục tiêu kia.
+Dialogue: 0,0:05:37.11,0:05:39.33,Default,Sasaki,0,0,0,,K-Khoan đã nào hai bạn trẻ ơi!
+Dialogue: 0,0:05:39.33,0:05:42.07,Default,Sasaki,0,0,0,,Tôi nghĩ là các bạn đang nhận nhầm người rồi đấy!
+Dialogue: 0,0:05:42.07,0:05:46.91,Default,Eriel,0,0,0,,Ta là thiên sứ. Ta tuyệt đối không lắng nghe\Nlời van nài từ kẻ câu kết với ác ma!
+Dialogue: 0,0:06:04.01,0:06:05.33,Default,Himegami,0,0,0,,Eriel?!
+Dialogue: 0,0:06:12.13,0:06:15.65,Default,Sasaki,0,0,0,,Tôi xin lỗi. Hai bạn có nghĩ\Nchúng ta có thể ngồi xuống nói chuyện được không?
+Dialogue: 0,0:06:15.65,0:06:17.02,Default,Himegami,0,0,0,,Đ-Đừng có lại gần đây!
+Dialogue: 0,0:06:17.30,0:06:19.19,Default,Himegami,0,0,0,,Làm gì có tông đồ nào đánh bại được thiên sứ chứ!
+Dialogue: 0,0:06:19.62,0:06:20.98,Default,Himegami,0,0,0,,Rốt cuộc ông chú là cái quái gì thế hả?!
+Dialogue: 0,0:06:20.98,0:06:25.20,Default,Sasaki,0,0,0,,Em có thể giải thích rõ hơn về chuyện "tông đồ" này được không?
+Dialogue: 0,0:06:25.20,0:06:28.13,Default,Himegami,0,0,0,,Hả? Chẳng phải ông chú là tông đồ ác ma sao?
+Dialogue: 0,0:06:28.13,0:06:29.41,Default,Himegami,0,0,0,,Ông đang lảm nhảm cái gì thế?
+Dialogue: 0,0:06:29.70,0:06:31.98,Italics,Sasaki,0,0,0,,Thiên sứ, ác ma, tông đồ,
+Dialogue: 0,0:06:31.98,0:06:34.65,Italics,Sasaki,0,0,0,,rồi cả "không gian cách ly" này nữa đúng không nhỉ?
+Dialogue: 0,0:06:34.65,0:06:38.00,Italics,Sasaki,0,0,0,,Những từ khóa liên quan đến không gian trống rỗng này...
+Dialogue: 0,0:06:38.45,0:06:42.38,Italics,Sasaki,0,0,0,,Ban đầu tôi cứ ngỡ tất cả là do năng lực của cậu bé kia,
+Dialogue: 0,0:06:42.76,0:06:45.84,Italics,Sasaki,0,0,0,,nhưng mọi người ai nấy đều nói những điều tương tự...
+Dialogue: 0,0:06:46.22,0:06:48.90,Default,Sasaki,0,0,0,,Hai người thuộc tổ chức dị năng giả nào vậy?
+Dialogue: 0,0:06:48.90,0:06:50.85,Default,Sasaki,0,0,0,,Tôi chắc chắn các bạn không thuộc Cục Quản lý.
+Dialogue: 0,0:06:50.85,0:06:52.40,Default,Himegami,0,0,0,,Dị năng giả á?
+Dialogue: 0,0:06:52.40,0:06:54.01,Default,Himegami,0,0,0,,Ông chú bị bệnh tâm thần hay gì thế?
+Dialogue: 0,0:06:54.01,0:06:56.19,Default,Sasaki,0,0,0,,À, không, hoàn toàn không phải.
+Dialogue: 0,0:06:56.50,0:07:01.15,Italics,Sasaki,0,0,0,,Tôi cứ nghĩ "dị năng giả"\Nlà thuật ngữ chung ở đây chứ...
+Dialogue: 0,0:07:01.15,0:07:04.05,Italics,Sasaki,0,0,0,,Tuy nhiên, tôi không cảm nhận được chút dối trá nào.
+Dialogue: 0,0:07:04.65,0:07:09.35,Italics,Sasaki,0,0,0,,Có lẽ không gian trống rỗng này cũng tương tự\Nnhư trường hợp của các ma pháp thiếu nữ và ngài Peeps.
+Dialogue: 0,0:07:09.99,0:07:12.94,Italics,Sasaki,0,0,0,,Một bên tới từ thế giới tiên giới, bên kia tới từ dị giới.
+Dialogue: 0,0:07:13.38,0:07:16.66,Italics,Sasaki,0,0,0,,Mỗi bên đều vận hành theo quy luật riêng,\Nhoàn toàn khác biệt với thế giới của chúng ta.
+Dialogue: 0,0:07:16.66,0:07:18.26,Italics,Sasaki,0,0,0,,Những thế giới ma thuật kỳ bí này...
+Dialogue: 0,0:07:19.08,0:07:21.04,Default,Himegami,0,0,0,,Ông đang cố tình câu giờ đấy à?
+Dialogue: 0,0:07:21.04,0:07:23.45,Default,Himegami,0,0,0,,Chiêu vừa rồi là lá bài duy nhất ông có thể tung ra sao?
+Dialogue: 0,0:07:23.45,0:07:27.80,Default,Sasaki,0,0,0,,Tôi muốn hỏi vài điều về thiên sứ, ác ma và các tông đồ.
+Dialogue: 0,0:07:27.80,0:07:30.01,Default,Himegami,0,0,0,,Ông chú có thèm nghe tôi nói không đấy hả?!
+Dialogue: 0,0:07:30.28,0:07:34.85,Default,Sasaki,0,0,0,,Nếu em trả lời các câu hỏi của tôi,\Ntôi sẽ chữa trị cho người bạn đằng kia của em.
+Dialogue: 0,0:07:36.62,0:07:39.52,Default,Himegami,0,0,0,,Khoan đã. Lẽ nào ông chú là tông đồ của Abaddon à?
+Dialogue: 0,0:07:39.81,0:07:40.80,Default,Sasaki,0,0,0,,Abaddon ư?
+Dialogue: 0,0:07:40.80,0:07:44.23,Default,Sasaki,0,0,0,,Tôi e là mình chưa từng nghe thấy\Nngười hay tổ chức nào mang tên đó cả.
+Dialogue: 0,0:07:44.61,0:07:45.69,Default,Himegami,0,0,0,,Ông chú nói thật đấy chứ?
+Dialogue: 0,0:07:45.69,0:07:47.65,Default,Sasaki,0,0,0,,Vâng, tôi nói thật lòng đấy.
+Dialogue: 0,0:07:52.17,0:07:53.74,Italics,Sasaki,0,0,0,,Cô ta tự hồi phục được sao?!
+Dialogue: 0,0:07:54.09,0:07:58.05,Default,Eriel,0,0,0,,Sức mạnh của một tông đồ\Ntỷ lệ thuận với ác ma của kẻ đó.
+Dialogue: 0,0:07:58.05,0:08:03.03,Default,Eriel,0,0,0,,Khả năng ác ma liên kết với hắn bị đánh bại\Nlà cực kỳ khó xảy ra.
+Dialogue: 0,0:08:03.03,0:08:05.26,Default,Eriel,0,0,0,,Chúng ta nên rời khỏi đây ngay lập tức,
+Dialogue: 0,0:08:05.26,0:08:09.13,Default,Eriel,0,0,0,,rồi báo cáo với lực lượng chủ lực về sự xuất hiện\Ncủa một ác ma hoàn toàn khác biệt với Abaddon.
+Dialogue: 0,0:08:09.13,0:08:11.66,Default,Himegami,0,0,0,,Vậy rốt cuộc chúng ta vẫn phải chạy trốn sao?
+Dialogue: 0,0:08:11.66,0:08:15.64,Default,Eriel,0,0,0,,Em rất lấy làm tiếc,\Nnhưng một mình em không thể đánh bại người đàn ông này.
+Dialogue: 0,0:08:16.13,0:08:18.80,Italics,Sasaki,0,0,0,,Cô ấy đã không ngần ngại lao mình vào hiểm nguy.
+Dialogue: 0,0:08:18.80,0:08:22.11,Italics,Sasaki,0,0,0,,Đúng là tác phong xứng danh thiên sứ.
+Dialogue: 0,0:08:22.40,0:08:24.43,Default,Himegami,0,0,0,,Đến một tên tông đồ mà em cũng không đánh bại nổi sao?
+Dialogue: 0,0:08:24.43,0:08:27.03,Default,Himegami,0,0,0,,Eriel, em đúng là thiên sứ yếu nhất thật đấy nhỉ?
+Dialogue: 0,0:08:27.03,0:08:28.96,Default,Eriel,0,0,0,,Em... em xin lỗi anh nhiều lắm.
+Dialogue: 0,0:08:28.96,0:08:32.57,Default,Himegami,0,0,0,,Nhưng mà anh thích em của chính con người thật này.
+Dialogue: 0,0:08:32.57,0:08:35.58,Italics,Sasaki,0,0,0,,Giờ thì lại biến thành cảnh phim tình cảm sến súa rồi.
+Dialogue: 0,0:08:35.95,0:08:39.65,Default,Himegami,0,0,0,,Dù sao thì, để bọn tôi đi cũng chẳng hại gì tới ông chú, đúng chứ?
+Dialogue: 0,0:08:39.65,0:08:44.13,Default,Sasaki,0,0,0,,Tôi rất sẵn lòng để hai bạn đi,\Nnhưng em có thể giải đáp cho tôi một thắc mắc được không?
+Dialogue: 0,0:08:44.49,0:08:46.30,Default,Himegami,0,0,0,,Ông nói nghiêm túc đấy à? Thật luôn?
+Dialogue: 0,0:08:46.30,0:08:50.43,Default,Sasaki,0,0,0,,Rõ ràng chuyện này xoay quanh "thiên sứ" và "ác ma",
+Dialogue: 0,0:08:50.43,0:08:53.26,Default,Sasaki,0,0,0,,lôi kéo những con người được gọi là "tông đồ"\Ncuốn vào cuộc chiến của họ.
+Dialogue: 0,0:08:53.58,0:08:59.75,Default,Sasaki,0,0,0,,Vậy không gian trống rỗng này\Nchính là chiến trường của các bạn sao?
+Dialogue: 0,0:09:00.25,0:09:05.57,Default,Sasaki,0,0,0,,Nếu đúng như vậy, em có thể cho tôi biết\Nđiều gì đã khiến thế giới này xuất hiện không?
+Dialogue: 0,0:09:07.32,0:09:11.91,Default,Himegami,0,0,0,,Nó sẽ xuất hiện khi có ít nhất 10 thiên sứ hoặc ác ma\Nbước vào cùng một khu vực nhất định.
+Dialogue: 0,0:09:11.91,0:09:15.04,Default,Sasaki,0,0,0,,Ra là vậy. Cơ chế vận hành là như thế...
+Dialogue: 0,0:09:15.76,0:09:19.61,Italics,Sasaki,0,0,0,,Một cuộc chiến giữa thiên sứ và ác ma\Nmà người bình thường không bao giờ hay biết...
+Dialogue: 0,0:09:19.61,0:09:26.88,Italics,Sasaki,0,0,0,,Cảm giác như chúng ta vừa vô tình xâm phạm\Nvào nỗ lực che đậy bí mật của bọn họ vậy.
+Dialogue: 0,0:09:27.43,0:09:30.49,Default,Himegami,0,0,0,,Được rồi, thế giờ bọn tôi đi được chưa?
+Dialogue: 0,0:09:58.24,0:09:59.33,Default,Neighbor,0,0,0,,Abaddon!
+Dialogue: 0,0:10:08.67,0:10:10.01,Default,Abaddon,0,0,0,,Trời đất quỷ thần ơi.
+Dialogue: 0,0:10:20.97,0:10:22.36,Default,Neighbor,0,0,0,,Đó là...
+Dialogue: 0,0:10:22.36,0:10:25.19,Default,Abaddon,0,0,0,,Cứ ngoan ngoãn đứng yên một lát đi nhé!
+Dialogue: 0,0:10:33.82,0:10:36.53,Default,Sasaki,0,0,0,,C-Cái gì thế kia?!
+Dialogue: 0,0:10:54.50,0:10:58.47,Default,Abaddon,0,0,0,,Bọn chúng có cả một Đại Thiên Thần Seraph cơ à?\NPhiền toái to chuyện rồi đây...
+Dialogue: 0,0:10:58.84,0:11:02.68,Default,Neighbor,0,0,0,,Ông có thể thắng mà không gặp nguy hiểm quá lớn không?
+Dialogue: 0,0:11:02.68,0:11:06.94,Default,Abaddon,0,0,0,,Ta sẽ dọn dẹp bớt vài tên thiên sứ cấp thấp,\Nrồi chúng ta lập tức tẩu thoát.
+Dialogue: 0,0:11:07.46,0:11:08.90,Default,Neighbor,0,0,0,,Được rồi.
+Dialogue: 0,0:11:09.27,0:11:12.10,Default,Abaddon,0,0,0,,Thế thì tới lúc hành động rồi!
+Dialogue: 0,0:11:20.77,0:11:22.08,Default,Sasaki,0,0,0,,Ở gần quá.
+Dialogue: 0,0:11:22.43,0:11:24.37,Italics,Sasaki,0,0,0,,Tôi thực sự không muốn dính líu vào đâu.
+Dialogue: 0,0:11:24.37,0:11:28.71,Italics,Sasaki,0,0,0,,Nhưng rủi ro trong tương lai mình lại bị cuốn vào đây...
+Dialogue: 0,0:11:37.88,0:11:40.87,Italics,Sasaki,0,0,0,,Mặc kệ đi! Giờ tôi chỉ muốn về nhà ngay lập tức!
+Dialogue: 0,0:11:59.05,0:12:04.08,Italics,Sasaki,0,0,0,,Khoan đã nào. Chẳng lẽ bé hàng xóm nhà mình\Ngiờ đã trở thành tông đồ của ác ma rồi sao?!
+Dialogue: 0,0:12:04.08,0:12:06.29,Default,Disciple D,0,0,0,,Tụi mình chẳng có việc gì làm mấy nhỉ?
+Dialogue: 0,0:12:06.88,0:12:10.38,Default,Disciple A,0,0,0,,Cứ chờ xem sao đã. Lúc nãy đã đồng ý thế rồi mà.
+Dialogue: 0,0:12:11.53,0:12:15.21,Default,Disciple B,0,0,0,,Nhưng nếu vậy thì tụi mình có mặt ở đây làm gì chứ?
+Dialogue: 0,0:12:15.21,0:12:19.53,Default,Disciple C,0,0,0,,Thật tình luôn. Không có phần thưởng thì sao mà hào hứng nổi...
+Dialogue: 0,0:12:19.53,0:12:21.69,Italics,Sasaki,0,0,0,,Điều ước và phần thưởng...
+Dialogue: 0,0:12:21.69,0:12:26.43,Italics,Sasaki,0,0,0,,Xem ra bọn họ nhận được thù lao\Nkhi đánh bại kẻ địch thì phải?
+Dialogue: 0,0:12:26.78,0:12:29.94,Default,Disciple D,0,0,0,,Hay là bảo bọn họ nhường cho tụi mình một mạng đi.
+Dialogue: 0,0:12:29.94,0:12:33.52,Default,Disciple E,0,0,0,,Chuẩn đấy, thiên sứ phải nghe theo lệnh của chúng ta mà.
+Dialogue: 0,0:12:33.52,0:12:36.25,Default,Disciple B,0,0,0,,Tôi chỉ muốn nhanh nhanh cho xong rồi về nhà thôi.
+Dialogue: 0,0:12:46.66,0:12:50.96,Default,Neighbor,0,0,0,,Abaddon! Nếu tôi biết bay thì mọi chuyện\Nchẳng phải dễ dàng hơn nhiều sao hả?!
+Dialogue: 0,0:12:50.96,0:12:54.36,Default,Abaddon,0,0,0,,Thế ngươi muốn ta phải làm thế nào đây?
+Dialogue: 0,0:12:54.36,0:12:58.38,Default,Neighbor,0,0,0,,Nếu thoát khỏi vụ này, phần thưởng của tôi\Nphải là năng lực bay lượn đấy nhé!
+Dialogue: 0,0:12:58.38,0:12:59.89,Default,Abaddon,0,0,0,,À, ra là vậy.
+Dialogue: 0,0:12:59.89,0:13:01.71,Default,Abaddon,0,0,0,,Được rồi, ta sẽ xem xét.
+Dialogue: 0,0:13:01.71,0:13:03.01,Default,Abaddon,0,0,0,,Đỡ này!
+Dialogue: 0,0:13:12.52,0:13:15.54,Default,Neighbor,0,0,0,,Abaddon, cái thứ này dính nhớp nháp quá.
+Dialogue: 0,0:13:15.54,0:13:17.19,Default,Neighbor,0,0,0,,Cảm giác ghê tởm chết đi được.
+Dialogue: 0,0:13:17.19,0:13:20.97,Default,Abaddon,0,0,0,,Trong hoàn cảnh này mà ngươi vẫn còn tâm trạng\Nđể cằn nhằn thì ta cũng mừng đấy.
+Dialogue: 0,0:13:20.97,0:13:23.49,Default,Neighbor,0,0,0,,Dù sao cũng cảm ơn vì đã cứu tôi.
+Dialogue: 0,0:13:23.98,0:13:25.12,Default,Neighbor,0,0,0,,Thứ vừa rồi là cái gì thế?
+Dialogue: 0,0:13:25.41,0:13:26.82,Default,Abaddon,0,0,0,,Một Đại Thiên Thần Seraph.
+Dialogue: 0,0:13:26.82,0:13:30.35,Default,Abaddon,0,0,0,,Nói theo thuật ngữ của loài người các ngươi,\Nthì nó giống như một con trùm cuối siêu mạnh vậy đó?
+Dialogue: 0,0:13:30.35,0:13:33.38,Default,Neighbor,0,0,0,,Sao ông lại biết thuật ngữ trong trò chơi điện tử chứ?
+Dialogue: 0,0:13:33.63,0:13:36.25,Default,Abaddon,0,0,0,,Nó tới kìa! Bám cho chặt vào!
+Dialogue: 0,0:14:15.63,0:14:18.84,Default,Abaddon,0,0,0,,Eo ơi, đối thủ này hơi quá tầm với ta rồi.
+Dialogue: 0,0:14:27.38,0:14:29.61,Italics,Neighbor,0,0,0,,Một cái kết lãng xẹt làm sao.
+Dialogue: 0,0:14:30.46,0:14:31.76,Italics,Neighbor,0,0,0,,Biết trước thế này...
+Dialogue: 0,0:14:31.76,0:14:34.32,Italics,Neighbor,0,0,0,,thì mình đã sớm tỏ tình và lao vào lòng chú hàng xóm rồi...
+Dialogue: 0,0:14:36.10,0:14:39.91,Italics,Neighbor,0,0,0,,Trong những giây phút cuối đời này,\Nmình sẽ chỉ nghĩ về chú ấy mà thôi.
+Dialogue: 0,0:14:40.30,0:14:44.75,Italics,Neighbor,0,0,0,,Dù sao đây cũng là lần cuối cùng\Nmình còn có thể nghĩ về chú...
+Dialogue: 0,0:14:45.42,0:14:47.53,Italics,Neighbor,0,0,0,,Dù chỉ nghĩ tới điều đó thôi cũng đau lòng lắm...
+Dialogue: 0,0:14:51.04,0:14:52.31,Italics,Neighbor,0,0,0,,Chú ơi...
+Dialogue: 0,0:15:03.09,0:15:04.51,Default,Sasaki,0,0,0,,Bám lấy tôi mau!
+Dialogue: 0,0:15:05.72,0:15:07.23,Default,Neighbor,0,0,0,,Ch... Chú ơi?!
+Dialogue: 0,0:15:17.91,0:15:18.86,Default,Sasaki,0,0,0,,Cháu không sao chứ?
+Dialogue: 0,0:15:20.48,0:15:22.41,Default,Neighbor,0,0,0,,V... Vâng ạ...
+Dialogue: 0,0:15:22.99,0:15:26.66,Default,Abaddon,0,0,0,,Khoan đã, ngươi cũng là ác ma sao?
+Dialogue: 0,0:15:28.14,0:15:30.74,Default,Neighbor,0,0,0,,Abaddon... Ông không sao chứ?
+Dialogue: 0,0:15:30.74,0:15:32.72,Default,Abaddon,0,0,0,,Ta chỉ mừng là {\i1}ngươi{\i0} vẫn bình an vô sự thôi!
+Dialogue: 0,0:15:32.72,0:15:34.83,Default,Sasaki,0,0,0,,Xin lỗi, nhưng ông là...
+Dialogue: 0,0:15:34.83,0:15:37.22,Default,Abaddon,0,0,0,,Ta là ác ma đang ký sinh trên người cô bé này!
+Dialogue: 0,0:15:37.22,0:15:40.05,Default,Abaddon,0,0,0,,Ta có rất nhiều điều muốn hỏi và muốn nói với ngươi,
+Dialogue: 0,0:15:40.05,0:15:43.17,Default,Abaddon,0,0,0,,nhưng trước hết, cho ta gửi lời cảm ơn\Nvì đã cứu lấy tông đồ của ta.
+Dialogue: 0,0:15:43.52,0:15:46.85,Default,Neighbor,0,0,0,,Abaddon, ông có thể hoàn toàn tin tưởng người đàn ông này.
+Dialogue: 0,0:15:46.85,0:15:50.18,Default,Abaddon,0,0,0,,Nếu đó là mệnh lệnh của ngươi, ta nhất định sẽ tuân theo!
+Dialogue: 0,0:15:50.18,0:15:52.10,Default,Neighbor,0,0,0,,Biết điều thế là tốt.
+Dialogue: 0,0:15:52.10,0:15:58.31,Default,Abaddon,0,0,0,,Ta rất tò mò muốn biết quyết định này\Nsẽ ảnh hưởng thế nào đến cuộc chiến ủy nhiệm đấy!
+Dialogue: 0,0:15:58.62,0:16:02.48,Main - Top,Neighbor,0,0,0,,Ông sẽ phải mang ơn tôi suốt đời vì điều đó cho mà xem.
+Dialogue: 0,0:15:59.14,0:16:04.07,Italics,Sasaki,0,0,0,,Mình lao vào cứu người mà chẳng kịp suy nghĩ gì cả,\Nnhưng cái hố này sâu hơn mình tưởng nhiều.
+Dialogue: 0,0:16:04.40,0:16:10.00,Italics,Sasaki,0,0,0,,Và giọng nói đó nghe hệt như cậu thiếu niên\Ntừng sát hại hai người kia...
+Dialogue: 0,0:16:10.00,0:16:12.54,Italics,Sasaki,0,0,0,,Lẽ nào chính là "Abaddon"\Nmà Eriel từng nhắc tới sao?
+Dialogue: 0,0:16:20.54,0:16:23.63,Default,Michael,0,0,0,,Kỳ lạ thật. Uy lực cú chém không giống như mình dự tính...
+Dialogue: 0,0:16:47.29,0:16:49.70,Default,Abaddon,0,0,0,,Ngươi có một người bạn lợi hại ra phết đấy!
+Dialogue: 0,0:16:49.70,0:16:52.37,Default,Neighbor,0,0,0,,Tôi cũng bất ngờ chẳng kém gì ông đâu.
+Dialogue: 0,0:17:01.95,0:17:03.29,Italics,Sasaki,0,0,0,,Hắn chém rách được cả kết giới ma pháp sao?!
+Dialogue: 0,0:17:19.60,0:17:20.79,Default,Neighbor,0,0,0,,Chú ơi...
+Dialogue: 0,0:17:21.10,0:17:23.52,Default,Sasaki,0,0,0,,Chú xin lỗi. Cháu có bị thương ở đâu không?
+Dialogue: 0,0:17:27.69,0:17:29.38,Italics,Sasaki,0,0,0,,Tội nghiệp con bé.
+Dialogue: 0,0:17:29.38,0:17:31.92,Italics,Sasaki,0,0,0,,Ở cái tuổi nhỏ nhắn thế này\Nmà đã bị cuốn vào vòng xoáy chết chóc...
+Dialogue: 0,0:17:31.92,0:17:33.41,Italics,Sasaki,0,0,0,,Chắc chắn cháu nó đã sợ hãi lắm.
+Dialogue: 0,0:17:35.12,0:17:40.29,Default,Sasaki,0,0,0,,Ngài Abaddon, tôi xin phép bỏ qua màn chào hỏi\Nmà đi thẳng vào vấn đề chính được chứ?
+Dialogue: 0,0:17:40.29,0:17:42.58,Default,Abaddon,0,0,0,,Được thôi, cứ tự nhiên!
+Dialogue: 0,0:17:42.58,0:17:47.73,Default,Sasaki,0,0,0,,Có cách nào để thoát khỏi cuộc xung đột này ngay lập tức không?
+Dialogue: 0,0:17:47.73,0:17:49.72,Default,Abaddon,0,0,0,,Được thế thì còn gì bằng?
+Dialogue: 0,0:17:49.72,0:17:52.51,Default,Abaddon,0,0,0,,Bọn ta cũng đang đau đầu nghĩ cách đây.
+Dialogue: 0,0:17:52.80,0:17:55.29,Italics,Sasaki,0,0,0,,Tôi thực sự cảm thấy hoài nghi về cục thịt kỳ dị này,
+Dialogue: 0,0:17:55.29,0:17:59.03,Italics,Sasaki,0,0,0,,cũng như mối quan hệ mờ ám giữa nó và bé hàng xóm...
+Dialogue: 0,0:17:59.03,0:18:02.73,Italics,Sasaki,0,0,0,,Nhưng chuyện đó cứ để thoát khỏi đây rồi tính sau.
+Dialogue: 0,0:18:02.73,0:18:06.19,Default,Abaddon,0,0,0,,Dù vậy, tình hình hiện tại e là không dễ dàng chút nào.
+Dialogue: 0,0:18:14.17,0:18:18.33,Italics,Sasaki,0,0,0,,Nhìn tư thế đó là biết bọn chúng\Nchuẩn bị tung đòn kết liễu rồi...
+Dialogue: 0,0:18:18.33,0:18:20.58,Default,Neighbor,0,0,0,,Abaddon, thái độ đó chẳng giống ông chút nào cả.
+Dialogue: 0,0:18:20.58,0:18:23.57,Default,Neighbor,0,0,0,,Tên thiên sứ đó mạnh hơn ông nhiều lắm sao?
+Dialogue: 0,0:18:23.57,0:18:25.34,Default,Abaddon,0,0,0,,Hừm, ta cũng không rõ nữa.
+Dialogue: 0,0:18:25.34,0:18:28.33,Default,Abaddon,0,0,0,,Nhưng rõ ràng là đụng phải khắc tinh rồi.
+Dialogue: 0,0:18:28.33,0:18:33.20,Default,Neighbor,0,0,0,,Tôi chắc là những thiên sứ bị ông tiêu diệt trước đây\Ncũng có cảm giác y hệt như vậy thôi.
+Dialogue: 0,0:18:33.20,0:18:37.18,Default,Abaddon,0,0,0,,Hiểu rồi. Nghe ngươi nói thế làm ta lại máu chiến rồi đấy!
+Dialogue: 0,0:18:37.18,0:18:40.17,Default,Abaddon,0,0,0,,Giờ tới lượt ta hỏi thẳng ngươi một câu.
+Dialogue: 0,0:18:40.17,0:18:42.81,Default,Abaddon,0,0,0,,Ngươi có cao kiến gì để giải quyết chuyện này không?
+Dialogue: 0,0:18:42.81,0:18:44.64,Default,Sasaki,0,0,0,,Nói thì dễ hơn làm nhiều...
+Dialogue: 0,0:18:45.03,0:18:47.93,Italics,Sasaki,0,0,0,,Đối thủ của chúng ta là kẻ có thể chém rách kết giới của tôi\Nchỉ bằng một nhát kiếm.
+Dialogue: 0,0:18:47.93,0:18:49.05,Italics,Sasaki,0,0,0,,Đòn tấn công mạnh nhất của tôi lúc này là ma pháp lôi hệ,
+Dialogue: 0,0:18:49.40,0:18:52.44,Italics,Sasaki,0,0,0,,nhưng tác dụng lớn nhất cũng chỉ là\Nlàm chệch hướng đòn đánh của tên sáu cánh kia.
+Dialogue: 0,0:18:52.44,0:18:56.07,Italics,Sasaki,0,0,0,,Hoàn toàn bế tắc rồi.
+Dialogue: 0,0:18:56.55,0:18:58.09,Italics,Sasaki,0,0,0,,Tôi không dám hứa trước điều gì,\Nnhưng có lẽ tôi có thể thử tung ra một chiêu.
+Dialogue: 0,0:18:59.02,0:19:03.79,Default,Sasaki,0,0,0,,Thật sao?!
+Dialogue: 0,0:19:03.79,0:19:05.50,Default,Abaddon,0,0,0,,Nếu ngài có phương án nào chắc chắn hơn,\Ntôi rất sẵn lòng nhường quyền cho ngài.
+Dialogue: 0,0:19:05.50,0:19:09.82,Default,Sasaki,0,0,0,,Không, nếu ngươi đã có bài,\Nta rất mong chờ được mở rộng tầm mắt đấy!
+Dialogue: 0,0:19:09.82,0:19:14.13,Default,Abaddon,0,0,0,,Tôi hiểu rồi.
+Dialogue: 0,0:19:14.62,0:19:16.09,Default,Sasaki,0,0,0,,{\shad0\an7\fnSegoe UI\fs12\shad0\3c&HC6D3CC&\c&HA06256&\b1}MA PHÁP CHÙM TIA HUỶ DIỆT\N{\c&H27282D&}• Ma Đạo Chú Lệnh\N{\fs10}Ta triệu thỉnh sự phán xét không khoan nhượng giáng xuống những kẻ cản bước và gây hại cho ta.\N Nay ta lập điều ước. Hãy lắng nghe nguyện vọng, để mục tiêu của cơn thịnh nộ này tan biến trong chớp mắt.\N Nguyện cho tia sáng không thể bị ngăn cản. Nguyện cho tia sáng không chút xót thương. Nguyện cho tia sáng xóa nhòa mọi bóng tối.\N Ta kêu gọi nguồn mana đang say ngủ nơi đây thức tỉnh và hưởng ứng theo lời chú linh thiêng này.\N Ta truyền ý chí của mình vào thần chú này. Khi sự trừng phạt được thực thi, chớ để một ai còn đứng vững.\N Hãy hủy diệt tất cả thành hư vô.
+Dialogue: 0,0:19:25.64,0:19:27.10,Default,sign,0,0,0,,Bắn!
+Dialogue: 0,0:19:44.88,0:19:45.75,Default,Michael,0,0,0,,T-Tới luôn này!
+Dialogue: 0,0:19:46.59,0:19:47.71,Default,Sasaki,0,0,0,,Mình có thể cảm nhận rõ ràng\Nmột thứ gì đó đang dần cạn kiệt khỏi cơ thể.
+Dialogue: 0,0:19:59.64,0:20:04.10,Italics,Sasaki,0,0,0,,Cảm giác khi cạn sạch lượng mana\Nlà như thế này sao?
+Dialogue: 0,0:20:04.44,0:20:08.35,Italics,Sasaki,0,0,0,,Người mình... yếu dần đi... đầu óc choáng váng quá...
+Dialogue: 0,0:20:09.24,0:20:13.57,Italics,Sasaki,0,0,0,,Vô ích rồi. Mình không thể...
+Dialogue: 0,0:20:16.66,0:20:18.49,Italics,Sasaki,0,0,0,,Chú ơi!
+Dialogue: 0,0:20:19.62,0:20:20.70,Default,Neighbor,0,0,0,,Chú ơi!
+Dialogue: 0,0:21:10.22,0:21:11.29,Default,Neighbor,0,0,0,,Chú ơi!
+Dialogue: 0,0:21:17.25,0:21:18.35,Default,Neighbor,0,0,0,,Chết tiệt thật.
+Dialogue: 0,0:21:25.06,0:21:26.18,Italics,Sasaki,0,0,0,,Đôi chân mình... mất hết cảm giác rồi...
+Dialogue: 0,0:21:26.18,0:21:28.10,Italics,Sasaki,0,0,0,,Chú ơi! Chú ơi!
+Dialogue: 0,0:21:28.40,0:21:30.56,Default,Neighbor,0,0,0,,Nói gì với cháu đi, chú ơi!
+Dialogue: 0,0:21:30.56,0:21:33.02,Default,Neighbor,0,0,0,,Tệ thật rồi.
+Dialogue: 0,0:21:33.02,0:21:35.14,Italics,Sasaki,0,0,0,,Ma pháp hồi phục không kịp bù đắp lại...
+Dialogue: 0,0:21:35.14,0:21:37.49,Italics,Sasaki,0,0,0,,Chú ơi! Đừng chết mà chú ơi!
+Dialogue: 0,0:21:43.99,0:21:47.31,Default,Neighbor,0,0,0,,Chú ơi! Chú ơi...
+Dialogue: 0,0:21:51.49,0:21:53.53,Default,Neighbor,0,0,0,,Ai đó cứu với! Abaddon mau cứu chú ấy đi!
+Dialogue: 0,0:21:53.53,0:21:55.96,Default,Neighbor,0,0,0,,Chú ơi! Chú ơi!
+Dialogue: 0,0:22:00.31,0:22:02.34,Default,Neighbor,0,0,0,,Làm ơn, đừng mà! Chú ơi!
+Dialogue: 0,0:22:02.66,0:22:04.49,Default,Neighbor,0,0,0,,Chú ơi! Chú ơi!
+Dialogue: 0,0:22:04.49,0:22:07.06,Default,Neighbor,0,0,0,,Chú ơi...
+
