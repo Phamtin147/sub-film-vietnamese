@@ -1,0 +1,290 @@
+﻿[Script Info]
+Title: Vietnamese Fansub (VietSub by Amtia(NOFACE))
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: italics,Segoe UI,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: main,Segoe UI,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: top,Segoe UI,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,10,10,18,1
+Style: flashback,Segoe UI,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: flashback italics,Segoe UI,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: sign_Arial,Segoe UI,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,30,30,20,1
+Style: Ep Title,Segoe UI,24,&H0065A7CE,&H000000FF,&H64070805,&H000D1728,-1,-1,0,0,100,100,0,0,1,1,0,8,30,30,75,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:32.66,0:00:34.01,main,ASTA,0,0,0,,Còn hai phút nữa!
+Dialogue: 0,0:00:34.49,0:00:35.77,main,ASTA,0,0,0,,Thanh kiếm thứ hai của tôi!
+Dialogue: 0,0:00:37.35,0:00:38.89,main,ASTA,0,0,0,,Túc Ma Kiếm!
+Dialogue: 0,0:00:53.27,0:00:54.28,main,ASTA,0,0,0,,Diệt Ma Kiếm!
+Dialogue: 0,0:00:57.29,0:01:00.01,italics,LILITH,0,0,0,,Cái sinh vật này là thứ quái gì thế?
+Dialogue: 0,0:01:01.87,0:01:05.39,italics,LIEBE,0,0,0,,Tao vốn là kẻ yếu nhất ở tầng thứ nhất\Ncủa Minh Giới.
+Dialogue: 0,0:01:05.39,0:01:09.26,italics,LIEBE,0,0,0,,Tao chưa từng có lấy một tia cơ hội\Nđể chống lại lũ ác ma tối cao này.
+Dialogue: 0,0:01:09.86,0:01:13.29,flashback,RICITA,0,0,0,,Hãy sống nhé, Liebe...
+Dialogue: 0,0:01:14.28,0:01:17.14,flashback,RICITA,0,0,0,,Đứa con yêu dấu của ta.
+Dialogue: 0,0:01:17.14,0:01:20.89,flashback,ASTA,0,0,0,,Lý do tôi có thể chiến đấu đến tận bây giờ\Nhoàn toàn là nhờ có cậu!
+Dialogue: 0,0:01:20.89,0:01:23.40,flashback,ASTA,0,0,0,,Nên là thật lòng cảm ơn cậu nhiều lắm!
+Dialogue: 0,0:01:24.69,0:01:27.02,italics,LIEBE,0,0,0,,Đó là câu của tao mới phải, đồ ngốc.
+Dialogue: 0,0:01:27.02,0:01:29.80,italics,LIEBE,0,0,0,,Nhờ có mày, tao mới có thể đập lũ này ra bã!
+Dialogue: 0,0:01:30.79,0:01:33.20,italics,LILITH,0,0,0,,Sinh vật này rốt cuộc là thứ gì?
+Dialogue: 0,0:01:33.20,0:01:35.91,italics,LILITH,0,0,0,,Đáng lẽ không một sinh vật nào còn sống
+Dialogue: 0,0:01:35.91,0:01:39.91,italics,LILITH,0,0,0,,có thể tấn công ta hay\Nchống cự nổi đòn đánh của ta!
+Dialogue: 0,0:01:39.91,0:01:45.18,italics,LILITH,0,0,0,,Mọi sinh linh trên đời chỉ nên\Ntồn tại để làm món đồ chơi cho ta...
+Dialogue: 0,0:01:45.87,0:01:47.07,italics,LILITH,0,0,0,,Thế mà...
+Dialogue: 0,0:01:48.72,0:01:51.67,italics,LILITH,0,0,0,,Ta lại chẳng còn hứng thú được nữa.
+Dialogue: 0,0:01:52.07,0:01:54.57,italics,LILITH,0,0,0,,Rốt cuộc ngươi là cái giống gì?!
+Dialogue: 0,0:01:57.56,0:02:00.43,italics,LILITH,0,0,0,,Cảm xúc này... rốt cuộc là gì?!
+Dialogue: 0,0:02:00.43,0:02:04.44,main,LIEBE,0,0,0,,Ngươi không cần biết.\NCũng chẳng cần phải nhớ làm gì.
+Dialogue: 0,0:02:04.44,0:02:08.57,main,LIEBE,0,0,0,,Bọn mày là ác ma tối cao\Nở tầng thứ nhất của Minh Giới.
+Dialogue: 0,0:02:08.57,0:02:11.91,main,LIEBE,0,0,0,,Chưa từng có thứ gì\Ncó thể đe dọa được bọn mày,
+Dialogue: 0,0:02:11.91,0:02:14.20,main,LIEBE,0,0,0,,nên dĩ nhiên là mày không biết rồi!
+Dialogue: 0,0:02:14.20,0:02:16.53,main,LIEBE,0,0,0,,Nhưng thứ đó gọi là nỗi sợ hãi đấy!
+Dialogue: 0,0:02:22.84,0:02:25.06,main,ASTA,0,0,0,,Đứng lại đó, con quái vật kia!
+Dialogue: 0,0:02:25.51,0:02:30.05,italics,LILITH,0,0,0,,Xem ra hắn ta không thể duy trì\Ntrạng thái đó thêm bao lâu nữa.
+Dialogue: 0,0:02:30.05,0:02:32.55,italics,LILITH,0,0,0,,Chỉ cần ta câu giờ chạy trốn tới lúc đó,\Nchiến thắng sẽ là của ta!
+Dialogue: 0,0:02:32.55,0:02:34.30,main,ASTA,0,0,0,,Chết tiệt, chúng nó bay nhanh quá!
+Dialogue: 0,0:02:34.66,0:02:36.64,main,ASTA,0,0,0,,Gay rồi... Không tài nào đuổi kịp!
+Dialogue: 0,0:02:39.41,0:02:42.71,main,LILITH,0,0,0,,Ta thề sẽ nghiền nát các ngươi\Nthành đống thịt vụn bê bết máu!
+Dialogue: 0,0:02:42.71,0:02:47.15,main,LILITH,0,0,0,,Cả lũ bạn bè của ngươi!\NVà toàn bộ loài người trên thế giới này!
+Dialogue: 0,0:02:47.51,0:02:49.48,main,NACHT,0,0,0,,Ta sẽ không để chuyện đó xảy ra đâu.
+Dialogue: 0,0:02:50.19,0:02:52.94,main,NACHT,0,0,0,,Ít nhất ta có thể cầm chân ngươi trong một giây!
+Dialogue: 0,0:02:54.15,0:02:57.50,italics,NACHT,0,0,0,,Thật mỉa mai làm sao, hỡi ác ma tối cao.
+Dialogue: 0,0:02:57.50,0:03:00.66,italics,NACHT,0,0,0,,Kẻ sở hữu lượng mana vô tận như ngươi,\Nlại phải run rẩy khiếp sợ trước...
+Dialogue: 0,0:03:06.31,0:03:08.63,main,ASTA,0,0,0,,Bỏ cái tay thối của ngươi
+Dialogue: 0,0:03:09.13,0:03:11.81,main,ASTA,0,0,0,,khỏi thế giới này mau!
+Dialogue: 0,0:03:23.59,0:03:26.19,italics,NACHT,0,0,0,,...một con người và một ác ma\Nhoàn toàn không có chút ma pháp nào.
+Dialogue: 0,0:03:49.26,0:03:52.96,Ep Title,EPISODE TITLE,0,0,0,,{\c&H0A00EB&}Kẻ Tối Cao vs. Kẻ Đáy Cùng
+Dialogue: 0,0:03:55.60,0:03:56.97,main,NACHT,0,0,0,,Hợp Thể Ác Ma...
+Dialogue: 0,0:03:57.47,0:04:00.47,main,NACHT,0,0,0,,Rõ ràng là cậu vẫn chưa hoàn thiện nó.
+Dialogue: 0,0:04:01.19,0:04:03.47,main,NACHT,0,0,0,,Nhưng làm tốt lắm, đồ ngốc.
+Dialogue: 0,0:04:05.41,0:04:09.54,main,ASTA,0,0,0,,Phó đoàn trưởng Nacht,\Nanh thực sự rất giống Đoàn trưởng Yami đấy!
+Dialogue: 0,0:04:10.98,0:04:13.98,main,NACHT,0,0,0,,Cậu vừa bảo ai giống ai cơ?
+Dialogue: 0,0:04:14.22,0:04:16.11,main,ASTA,0,0,0,,Sao anh lại đánh em?!
+Dialogue: 0,0:04:18.81,0:04:23.42,italics,NACHT,0,0,0,,Nhìn cậu ta,\Ntôi lại nhớ đến bản thân mình trong quá khứ.
+Dialogue: 0,0:04:24.26,0:04:27.00,main,ASTA,0,0,0,,Ui da da! Lại nữa rồi!
+Dialogue: 0,0:04:27.00,0:04:29.80,main,ASTA,0,0,0,,Cơn đau toàn thân kinh hoàng ập đến\Nsau khi giải trừ Hợp Thể Ác Ma!
+Dialogue: 0,0:04:29.80,0:04:33.79,main,ASTA,0,0,0,,Trong vòng 30 phút tới tôi không thể dùng lại nó!\NCũng chẳng thể bật Hắc Khí Hóa được luôn!
+Dialogue: 0,0:04:33.79,0:04:37.05,top,ASTA,0,0,0,,Trời đất ơi, đau thấu trời xanh!
+Dialogue: 0,0:04:34.90,0:04:37.05,main,NACHT,0,0,0,,Ba mươi phút sao?
+Dialogue: 0,0:04:37.49,0:04:42.27,italics,NACHT,0,0,0,,Bộ Ba Hắc Ám giờ đã nhận được\Nsức mạnh từ các ác ma tối cao.
+Dialogue: 0,0:04:42.27,0:04:45.06,italics,NACHT,0,0,0,,Cầm cự suốt 30 phút này\Nsẽ vô cùng gian nan.
+Dialogue: 0,0:04:45.61,0:04:49.05,italics,NACHT,0,0,0,,Việc Morris đẩy nhanh tiến độ mở cổng Minh Giới\Ncũng là vấn đề lớn, nhưng...
+Dialogue: 0,0:04:49.42,0:04:51.54,italics,NACHT,0,0,0,,Ưu tiên hàng đầu lúc này là
+Dialogue: 0,0:04:51.54,0:04:55.07,italics,NACHT,0,0,0,,hạ gục Bộ Ba Hắc Ám\Ncàng nhanh càng tốt.
+Dialogue: 0,0:04:56.01,0:04:59.57,italics,NACHT,0,0,0,,Dù cậu ta chưa thể Hợp Thể Ác Ma lúc này,\Nkháng ma pháp vẫn sẽ cực kỳ hữu dụng.
+Dialogue: 0,0:05:00.99,0:05:04.95,italics,NACHT,0,0,0,,Nơi nguy khốn nhất vào lúc này chính là...
+Dialogue: 0,0:05:18.33,0:05:21.24,main,DANTE,0,0,0,,Xem ra ma pháp của ngươi có thể biến đổi tính chất
+Dialogue: 0,0:05:21.24,0:05:23.93,main,DANTE,0,0,0,,sao cho thích ứng với ma pháp của đối thủ.
+Dialogue: 0,0:05:24.21,0:05:29.18,main,DANTE,0,0,0,,Nhưng giờ ma pháp thân thể của ta\Ndường như đã vượt xa cả thứ đó rồi.
+Dialogue: 0,0:05:29.82,0:05:33.17,main,DANTE,0,0,0,,Cầm cự được tới tận lúc này\Nngươi cũng tài ba lắm rồi đấy.
+Dialogue: 0,0:05:33.17,0:05:34.94,main,DANTE,0,0,0,,Nhưng ngươi đã chạm tới giới hạn rồi.
+Dialogue: 0,0:05:35.19,0:05:37.07,main,JACK,0,0,0,,Câm cái mõm chó lại đi.
+Dialogue: 0,0:05:37.07,0:05:40.19,main,JACK,0,0,0,,Tao... nhất định sẽ chém ngọt mày!
+Dialogue: 0,0:05:41.11,0:05:43.69,main,DANTE,0,0,0,,Để ta cảm ơn ngươi vì đã làm ta giải khuây nhé.
+Dialogue: 0,0:05:44.19,0:05:46.20,main,DANTE,0,0,0,,Ta sẽ kết liễu ngươi một cách ngoạn mục nhất.
+Dialogue: 0,0:05:50.12,0:05:52.87,main,MAGNA,0,0,0,,Viêm Cầu Phát Nổ!
+Dialogue: 0,0:06:12.14,0:06:14.77,main,MAGNA,0,0,0,,Chào sếp nhé.
+Dialogue: 0,0:06:15.57,0:06:16.61,main,DANTE,0,0,0,,Hả?
+Dialogue: 0,0:06:17.06,0:06:19.27,italics,DANTE,0,0,0,,Hai đứa này là ai?
+Dialogue: 0,0:06:21.53,0:06:23.14,italics,DANTE,0,0,0,,Chỉ là hai tên tép riu hạ đẳng.
+Dialogue: 0,0:06:23.75,0:06:27.20,main,DANTE,0,0,0,,Đây không phải nơi dành cho\Nlũ vô danh tiểu tốt như các ngươi.
+Dialogue: 0,0:06:27.46,0:06:30.58,italics,JACK,0,0,0,,Chúng nó là... lũ thường dân của Yami à?
+Dialogue: 0,0:06:30.89,0:06:34.33,main,JACK,0,0,0,,Hai đứa bay làm cái quái gì ở đây thế?\NCút biến ngay!
+Dialogue: 0,0:06:34.33,0:06:38.51,main,DANTE,0,0,0,,Chính xác. Thứ tép riu các ngươi\Nlàm sao có thể làm đ—
+Dialogue: 0,0:06:37.28,0:06:41.42,top,MAGNA,0,0,0,,Bọn tao đến để đá đít mày\Nvà giải cứu Đoàn trưởng Yami đây.
+Dialogue: 0,0:06:41.75,0:06:44.15,main,DANTE,0,0,0,,Vẫn có những kẻ mua vui được cho ta,
+Dialogue: 0,0:06:44.15,0:06:46.47,main,DANTE,0,0,0,,dẫu cho lượng mana của chúng kém xa ta.
+Dialogue: 0,0:06:46.47,0:06:49.90,main,DANTE,0,0,0,,Chẳng hạn như tên đằng kia. Nhưng...
+Dialogue: 0,0:06:49.90,0:06:52.22,main,DANTE,0,0,0,,mana của các ngươi lại quá đỗi thảm hại.
+Dialogue: 0,0:06:52.92,0:06:53.92,main,DANTE,0,0,0,,Theo như ta thấy,
+Dialogue: 0,0:06:53.92,0:06:58.36,main,DANTE,0,0,0,,các ngươi chẳng có kháng ma pháp\Nhay Ma Pháp Vực Sâu đặc dị nào.
+Dialogue: 0,0:06:58.36,0:07:01.07,main,DANTE,0,0,0,,Dù cả hai đứa cùng xông vào một lúc,\Ncũng chẳng có—
+Dialogue: 0,0:06:59.23,0:07:01.61,top,MAGNA,0,0,0,,Đừng có mà ảo tưởng.
+Dialogue: 0,0:07:02.79,0:07:05.32,main,MAGNA,0,0,0,,Một mình tao sẽ tự tay hạ đo ván mày.
+Dialogue: 0,0:07:14.40,0:07:16.83,main,DANTE,0,0,0,,Ngươi sỉ nhục ta thế là đủ rồi đấy!
+Dialogue: 0,0:07:17.11,0:07:19.35,italics,MAGNA,0,0,0,,Ừ, tao biết mà.
+Dialogue: 0,0:07:19.62,0:07:23.59,main,DANTE,0,0,0,,Ý ta là tốn thời gian với lũ rác rưởi các ngươi\Ncòn chẳng đáng gọi là một trận chiến!
+Dialogue: 0,0:07:23.59,0:07:28.45,italics,MAGNA,0,0,0,,Tao biết thừa mày mạnh vãi cả chưởng rồi!
+Dialogue: 0,0:07:30.78,0:07:33.56,flashback,ASTA,0,0,0,,Đoàn trưởng Yami!
+Dialogue: 0,0:07:33.91,0:07:36.50,flashback,ZORA,0,0,0,,Ma pháp đó vẫn chưa hoàn thiện đâu!
+Dialogue: 0,0:07:36.50,0:07:39.10,flashback,ZORA,0,0,0,,Nếu bây giờ xông ra đó,\Ncậu chẳng giúp ích được gì đâu.
+Dialogue: 0,0:07:39.42,0:07:41.86,flashback,ZORA,0,0,0,,Cậu chỉ có chết uổng hoặc vướng chân vướng tay thôi!
+Dialogue: 0,0:07:51.55,0:07:56.67,italics,MAGNA,0,0,0,,Và tao cũng tự biết... bản thân mình yếu kém.
+Dialogue: 0,0:08:00.80,0:08:01.98,italics,MAGNA,0,0,0,,Nhưng mà...
+Dialogue: 0,0:08:01.98,0:08:06.21,italics,MAGNA,0,0,0,,Tao không thể cứ thế quay về gặp mọi người\Nnhư thể chẳng có chuyện gì xảy ra được!
+Dialogue: 0,0:08:08.05,0:08:13.18,main,DANTE,0,0,0,,Ta hoàn toàn không có ý định dùng ma pháp\Nvới thứ rác rưởi hạ đẳng như ngươi.
+Dialogue: 0,0:08:13.43,0:08:15.97,main,DANTE,0,0,0,,Cứ tấn công thỏa thích đi.
+Dialogue: 0,0:08:15.97,0:08:17.79,main,DANTE,0,0,0,,Và một khi đã thỏa mãn rồi...
+Dialogue: 0,0:08:17.79,0:08:19.51,main,DANTE,0,0,0,,Thì biến đi!
+Dialogue: 0,0:08:20.15,0:08:21.61,main,MAGNA,0,0,0,,Thế à?
+Dialogue: 0,0:08:21.83,0:08:24.11,main,MAGNA,0,0,0,,Thế thì bố mày đéo khách sáo nữa đâu!
+Dialogue: 0,0:08:27.10,0:08:28.45,main,JACK,0,0,0,,Ngươi định làm—
+Dialogue: 0,0:08:29.79,0:08:30.71,main,DANTE,0,0,0,,Rồi sao?
+Dialogue: 0,0:08:31.16,0:08:32.12,main,DANTE,0,0,0,,Có thế thôi à?
+Dialogue: 0,0:08:39.87,0:08:41.12,italics,DANTE,0,0,0,,Xích sắt ư?
+Dialogue: 0,0:08:42.08,0:08:43.34,italics,DANTE,0,0,0,,Cái quái gì đây?
+Dialogue: 0,0:08:54.26,0:08:56.84,italics,Dante,0,0,0,,Cái gì?! Sức mạnh của ta không còn là 100% nữa?!
+Dialogue: 0,0:08:56.84,0:08:59.02,main,MAGNA,0,0,0,,Khoan đã, đây mới chỉ là một nửa thôi á?
+Dialogue: 0,0:08:59.02,0:09:01.43,main,MAGNA,0,0,0,,Thật sự quá kinh khủng.
+Dialogue: 0,0:09:01.43,0:09:04.77,main,MAGNA,0,0,0,,Một tên thường dân như tao\Nlàm sao có thể tự mình tạo ra ma pháp thế này.
+Dialogue: 0,0:09:05.37,0:09:08.19,main,MAGNA,0,0,0,,Chính vì thế tao mới dày công nghĩ ra ma pháp này đấy!
+Dialogue: 0,0:09:10.90,0:09:12.53,italics,MAGNA,0,0,0,,Bí Thuật Viêm Ma Pháp...
+Dialogue: 0,0:09:13.74,0:09:16.24,italics,MAGNA,0,0,0,,Viêm Hồn Tỏa Lực Diệt Đấu!
+Dialogue: 0,0:09:16.59,0:09:19.75,italics,DANTE,0,0,0,,Đòn đầu tiên của hắn ta chẳng xi nhê gì,\Nnhưng bây giờ...
+Dialogue: 0,0:09:22.08,0:09:26.00,main,MAGNA,0,0,0,,Tao đã gom ma pháp của mày và của tao lại\Nrồi chia đôi sòng phẳng cho cả hai.
+Dialogue: 0,0:09:26.00,0:09:31.05,main,MAGNA,0,0,0,,Đây là phương thức tao tìm ra\Nđể đấu sòng phẳng với lũ quái vật tối thượng chúng mày!
+Dialogue: 0,0:09:31.72,0:09:34.72,main,MAGNA,0,0,0,,Thường dân hay không thì mặc xác nó!
+Dialogue: 0,0:09:34.72,0:09:39.18,main,MAGNA,0,0,0,,Tao, Magna Swing của Hắc Bộc...
+Dialogue: 0,0:09:39.18,0:09:42.02,main,MAGNA,0,0,0,,sẽ đập nát cái bản mặt mày!
+Dialogue: 0,0:09:44.85,0:09:48.15,flashback,MAGNA,0,0,0,,Xin anh! Hãy dạy tôi cách chiến đấu như anh!
+Dialogue: 0,0:09:48.71,0:09:52.42,sign_Arial,SIGN,0,0,0,,{\an8\pos(540,175)\fad(461,764)\c&H000000&\3c&HFEFEFE&\shad0\bord4}6 tháng trước
+Dialogue: 0,0:09:48.57,0:09:51.66,flashback,MAGNA,0,0,0,,Lượng mana của tôi ở Vương quốc Heart quá ít ỏi,
+Dialogue: 0,0:09:51.66,0:09:54.41,flashback,MAGNA,0,0,0,,đến mức họ bảo tôi không thể\Nchiến đấu bằng Thuật Thức Mana!
+Dialogue: 0,0:09:54.95,0:10:00.16,flashback,MAGNA,0,0,0,,Nhưng theo những gì tôi thấy, anh vẫn làm được,\Ndù anh cũng là thường dân như tôi.
+Dialogue: 0,0:10:00.16,0:10:03.49,flashback,MAGNA,0,0,0,,Cái chiêu nhân đôi đòn đánh rồi phản lại\Nđặc biệt siêu đỉnh luôn!
+Dialogue: 0,0:10:03.49,0:10:05.79,flashback,MAGNA,0,0,0,,Dù ma pháp ít ỏi,\Nnhưng anh vẫn chiến đấu được!
+Dialogue: 0,0:10:05.79,0:10:07.14,flashback,MAGNA,0,0,0,,Tôi xin anh đấy!
+Dialogue: 0,0:10:07.14,0:10:09.63,flashback,MAGNA,0,0,0,,Cái thằng Luck khốn khiếp đó\Nsẽ ngày càng mạnh lên!
+Dialogue: 0,0:10:09.63,0:10:13.63,flashback,MAGNA,0,0,0,,Tôi không thể để nó vượt mặt mình được!\NAi cũng được chứ tuyệt đối không phải nó!
+Dialogue: 0,0:10:14.85,0:10:19.66,flashback,MAGNA,0,0,0,,Hơn nữa... tôi không thể tiếp tục\Nlàm gánh nặng cản trở Hắc Bộc được nữa!
+Dialogue: 0,0:10:21.35,0:10:25.60,flashback italics,ZORA,0,0,0,,Một thường dân dùng hỏa ma pháp\Nmà lại là Hiệp sĩ Ma pháp à?
+Dialogue: 0,0:10:25.97,0:10:30.36,flashback,ZORA,0,0,0,,Tao chẳng ưa việc nhìn mày van xin đâu.\NTao sẽ dạy, nên dẹp ngay cái trò đó đi.
+Dialogue: 0,0:10:30.64,0:10:31.63,flashback,MAGNA,0,0,0,,Thật á anh?!
+Dialogue: 0,0:10:32.79,0:10:34.47,flashback,ZORA,0,0,0,,Đi theo tao.
+Dialogue: 0,0:10:34.47,0:10:35.38,flashback,MAGNA,0,0,0,,Rõ ạ!
+Dialogue: 0,0:10:36.11,0:10:39.29,flashback italics,ZORA,0,0,0,,Biết đâu hai người cùng tìm kiếm\Nsẽ khám phá ra được điều gì đó.
+Dialogue: 0,0:10:47.76,0:10:49.38,flashback,MAGNA,0,0,0,,Nơi này là đâu vậy?
+Dialogue: 0,0:10:51.23,0:10:53.30,flashback,ZORA,0,0,0,,Chào mừng đến căn cứ bí mật của tao.
+Dialogue: 0,0:10:53.82,0:10:58.22,flashback,ZORA,0,0,0,,Tao cũng đã tìm kiếm bản ngã tối thượng\Ncủa mình suốt bấy lâu nay.
+Dialogue: 0,0:10:59.15,0:11:03.85,flashback,ZORA,0,0,0,,Đúng như mày đoán, tao có sử dụng\Nthứ Thuật Thức Mana đó,
+Dialogue: 0,0:11:04.25,0:11:05.62,flashback,ZORA,0,0,0,,nhưng theo tao nghe ngóng được,
+Dialogue: 0,0:11:05.62,0:11:08.42,flashback,ZORA,0,0,0,,ở Vương quốc Heart, họ thi triển Thuật Thức Mana\Nngay tại trận
+Dialogue: 0,0:11:08.42,0:11:10.49,flashback,ZORA,0,0,0,,và biến nó thành một phần trong thực chiến.
+Dialogue: 0,0:11:11.01,0:11:15.99,flashback,ZORA,0,0,0,,Muốn dùng cách đó, mày phải có lượng ma pháp khổng lồ,\Nbản năng nhạy bén và phản xạ thần tốc.
+Dialogue: 0,0:11:16.40,0:11:18.95,flashback,ZORA,0,0,0,,Mà là thường dân,\Ntao chẳng có mấy thứ đó,
+Dialogue: 0,0:11:18.95,0:11:22.43,flashback,ZORA,0,0,0,,nên tao phải dành thời gian\Ntỉ mỉ vẽ từng ma pháp trận.
+Dialogue: 0,0:11:22.43,0:11:26.22,flashback,ZORA,0,0,0,,Đặc biệt là những thuật mạnh mẽ\Nnhư bẫy ma pháp phản đòn kia.
+Dialogue: 0,0:11:26.75,0:11:29.33,flashback,ZORA,0,0,0,,Tuy nhiên, lũ thường dân chúng ta\Nlại có ưu thế riêng.
+Dialogue: 0,0:11:30.22,0:11:36.09,flashback,ZORA,0,0,0,,Ký tự Rune tạo ra từ lượng mana còm cõi\Nnhỏ đến mức chúng có thể tồn tại rất lâu.
+Dialogue: 0,0:11:37.16,0:11:39.10,flashback,ZORA,0,0,0,,Điều đó có nghĩa là chúng ta có thể dành nhiều thời gian
+Dialogue: 0,0:11:39.10,0:11:42.10,flashback,ZORA,0,0,0,,để chuẩn bị trước những ma trận siêu phức tạp.
+Dialogue: 0,0:11:42.73,0:11:47.79,flashback,ZORA,0,0,0,,Nhưng muốn làm được vậy,\Nchúng ta phải hiểu rõ hơn về mana và bản thân.
+Dialogue: 0,0:11:48.55,0:11:52.77,flashback,ZORA,0,0,0,,Thứ chúng ta cần là học hỏi\Nvà khổ luyện kiên trì đầy tẻ nhạt.
+Dialogue: 0,0:11:55.11,0:11:58.66,flashback,ZORA,0,0,0,,Trông mày vừa đần vừa nóng tính.\NLiệu có làm nổi không đấy?
+Dialogue: 0,0:11:59.30,0:12:04.25,flashback italics,MAGNA,0,0,0,,Trước giờ tôi toàn dùng ma pháp theo quán tính\Nchứ chẳng buồn nghĩ ngợi.
+Dialogue: 0,0:12:04.25,0:12:07.33,flashback italics,MAGNA,0,0,0,,Nhưng càng tìm hiểu sâu về mana,\Ntôi mới thấy nó ảo diệu dường nào!
+Dialogue: 0,0:12:08.34,0:12:11.01,flashback,MAGNA,0,0,0,,Tôi phải cân nhắc xem thứ gì phù hợp nhất\Nvới thuộc tính của mình...
+Dialogue: 0,0:12:11.01,0:12:13.65,flashback,MAGNA,0,0,0,,Tôi không nghĩ mình có thể bắt chước\Nchiêu nhân đôi rồi phản đòn kia.
+Dialogue: 0,0:12:13.65,0:12:17.89,flashback,MAGNA,0,0,0,,Làm thế nào để thắng được một kẻ\Nsở hữu lượng ma pháp khổng lồ?
+Dialogue: 0,0:12:19.98,0:12:24.10,flashback,MAGNA,0,0,0,,Chỉ cần có lượng ma pháp ngang ngửa,\Ntôi sẽ nghiền nát hắn bằng bản lĩnh gan góc!
+Dialogue: 0,0:12:25.14,0:12:26.99,flashback,MAGNA,0,0,0,,Này, anh Zora!
+Dialogue: 0,0:12:27.91,0:12:29.20,flashback,ZORA,0,0,0,,Ai là anh của mày cơ?
+Dialogue: 0,0:12:29.20,0:12:31.59,flashback,MAGNA,0,0,0,,Ma pháp trận này thì sao?!
+Dialogue: 0,0:12:34.48,0:12:38.82,flashback italics,ZORA,0,0,0,,Ý tưởng này tao chưa từng nghĩ tới,\Nnhưng có lẽ không phải là bất khả thi.
+Dialogue: 0,0:12:38.82,0:12:40.59,flashback,ZORA,0,0,0,,Trông thú vị đấy.
+Dialogue: 0,0:12:42.49,0:12:46.58,flashback,ZORA,0,0,0,,Dù sẽ tốn hàng đống thời gian\Nvà sự kiên nhẫn để khắc họa nó.
+Dialogue: 0,0:12:59.67,0:13:02.78,italics,MAGNA,0,0,0,,Tao đã bỏ ra 6 tháng ròng để tạo nên\Nma pháp mà chỉ riêng tao mới làm được.
+Dialogue: 0,0:13:02.78,0:13:05.85,italics,MAGNA,0,0,0,,Ma pháp độc nhất vô nhị của riêng tao,\Nvà tao chỉ có thể dùng duy nhất một lần.
+Dialogue: 0,0:13:06.43,0:13:10.69,italics,MAGNA,0,0,0,,Đó chính là Bí Thuật Viêm Ma Pháp:\NViêm Hồn Tỏa Lực Diệt Đấu!
+Dialogue: 0,0:13:10.94,0:13:13.77,main,MAGNA,0,0,0,,Thấy chưa, đâu có gì phức tạp lắm đâu nhỉ?
+Dialogue: 0,0:13:14.26,0:13:19.28,main,MAGNA,0,0,0,,Tao chỉ xích hai đứa lại\Nrồi chia đôi ma pháp ra thôi mà.
+Dialogue: 0,0:13:19.55,0:13:21.58,main,MAGNA,0,0,0,,Để tao cảnh báo mày trước một câu nhé.
+Dialogue: 0,0:13:21.58,0:13:25.78,main,MAGNA,0,0,0,,Sợi xích đó được kết nối bằng linh hồn của hai ta.
+Dialogue: 0,0:13:25.78,0:13:28.29,main,MAGNA,0,0,0,,Nếu mày cố tình giật đứt hay phá hủy nó,
+Dialogue: 0,0:13:28.29,0:13:31.29,main,MAGNA,0,0,0,,mày sẽ hóa điên đấy, nên liệu hồn mà giữ lấy!
+Dialogue: 0,0:13:31.96,0:13:35.80,main,JACK,0,0,0,,Không thể nào... Một tên thường dân\Nlại thi triển được ma pháp cỡ này ư?
+Dialogue: 0,0:13:35.80,0:13:38.30,main,ZORA,0,0,0,,Nó làm được rồi đấy.
+Dialogue: 0,0:13:38.30,0:13:42.15,main,ZORA,0,0,0,,Bất kỳ đòn tấn công nào từ bên ngoài\Ncũng có thể phá hỏng hiệu lực của ma pháp đó,
+Dialogue: 0,0:13:42.15,0:13:44.55,main,ZORA,0,0,0,,nên cứ ngồi yên đó mà xem đi.
+Dialogue: 0,0:13:44.55,0:13:47.81,italics,ZORA,0,0,0,,Bây giờ... đây là trận chiến của riêng nó.
+Dialogue: 0,0:13:52.30,0:13:55.90,italics,DANTE,0,0,0,,Trọng Lực Ma Pháp: Trọng Kích Cận Chiến!
+Dialogue: 0,0:14:00.19,0:14:04.19,main,MAGNA,0,0,0,,Tao tưởng lúc nãy mày bảo\Ntao cứ việc tấn công thỏa thích cơ mà...
+Dialogue: 0,0:14:04.19,0:14:05.87,main,MAGNA,0,0,0,,Sao hả sếp?
+Dialogue: 0,0:14:05.87,0:14:08.99,main,DANTE,0,0,0,,Câm mồm! Thằng ăn cắp bẩn thỉu!
+Dialogue: 0,0:14:10.75,0:14:13.50,italics,DANTE,0,0,0,,Trọng Lực Ma Pháp: Ma Vương Lâm Tọa!
+Dialogue: 0,0:14:15.09,0:14:20.92,main,MAGNA,0,0,0,,Lượng ma pháp giờ ngang nhau rồi.\NMày tung ra chiêu gì tao cũng cân tất!
+Dialogue: 0,0:14:31.22,0:14:32.93,main,DANTE,0,0,0,,Dù ngươi...
+Dialogue: 0,0:14:34.60,0:14:36.77,main,DANTE,0,0,0,,có làm gì đi chăng nữa...
+Dialogue: 0,0:14:36.77,0:14:41.26,main,DANTE,0,0,0,,Chỉ cần ta có thể hồi phục\Nbằng ma pháp thân thể...
+Dialogue: 0,0:14:42.18,0:14:46.78,main,DANTE,0,0,0,,ngươi vĩnh viễn không bao giờ đánh bại được ta!
+Dialogue: 0,0:14:47.65,0:14:49.39,main,DANTE,0,0,0,,Hãy quỳ rạp xuống
+Dialogue: 0,0:14:49.39,0:14:53.83,main,DANTE,0,0,0,,và hối hận vì thói ngông cuồng
+Dialogue: 0,0:14:53.83,0:14:56.15,main,DANTE,0,0,0,,khi dám chống lại ta đi!
+Dialogue: 0,0:14:57.91,0:15:00.19,italics,ZORA,0,0,0,,Dẫu cho có bị đánh gục xuống đầu gối,
+Dialogue: 0,0:15:00.19,0:15:03.13,italics,ZORA,0,0,0,,mày vẫn vùng vẫy và không ngừng chiến đấu.
+Dialogue: 0,0:15:03.13,0:15:06.89,italics,ZORA,0,0,0,,Mày vẫn nuôi ngọn lửa âm ỉ trong lòng\Nvà kiên trì chuẩn bị cho tới tận ngày hôm nay.
+Dialogue: 0,0:15:08.24,0:15:10.39,italics,ZORA,0,0,0,,Cho dù hắn có là trùm sỏ của kẻ địch,
+Dialogue: 0,0:15:10.96,0:15:12.72,italics,ZORA,0,0,0,,là vật chứa của ác ma,
+Dialogue: 0,0:15:13.03,0:15:14.27,italics,ZORA,0,0,0,,hay kẻ bất tử đi chăng nữa.
+Dialogue: 0,0:15:15.77,0:15:16.77,italics,ZORA,0,0,0,,Hãy chiến thắng trận này...
+Dialogue: 0,0:15:19.35,0:15:20.23,italics,ZORA,0,0,0,,Magna!
+Dialogue: 0,0:15:26.78,0:15:28.28,italics,LUCK,0,0,0,,Lượng ma pháp này là...
+Dialogue: 0,0:15:32.59,0:15:34.60,main,DANTE,0,0,0,,Ngươi dám...
+Dialogue: 0,0:15:35.08,0:15:39.88,main,DANTE,0,0,0,,đấm vào mặt ta và khiến lưng ta\Nphải chạm xuống đất ư?!
+Dialogue: 0,0:16:00.81,0:16:04.40,main,DANTE,0,0,0,,Ngươi đã cướp đi một nửa ma pháp của ta\Nbằng thứ ma pháp hèn hạ đó.
+Dialogue: 0,0:16:04.70,0:16:07.53,main,DANTE,0,0,0,,Dẫu cho cả hai có tấn công\Nvới cùng một lượng sức mạnh,
+Dialogue: 0,0:16:07.81,0:16:12.45,main,DANTE,0,0,0,,ngươi sẽ liên tục chịu sát thương\Ntrong khi ta không ngừng hồi phục!
+Dialogue: 0,0:16:12.83,0:16:16.20,main,DANTE,0,0,0,,Rốt cuộc thì xuất phát điểm ban đầu\Ncủa chúng ta quá đỗi khác biệt!
+Dialogue: 0,0:16:16.20,0:16:18.46,main,DANTE,0,0,0,,Ngươi không phải là kẻ đó!
+Dialogue: 0,0:16:18.46,0:16:24.54,main,DANTE,0,0,0,,Một sinh vật quái dị gớm ghiếc như ngươi\Nlàm sao có thể mang lại cho ta sự khoái lạc tối thượng!
+Dialogue: 0,0:16:26.93,0:16:28.97,italics,MAGNA,0,0,0,,Ờ, phải rồi đấy.
+Dialogue: 0,0:16:30.36,0:16:32.52,italics,MAGNA,0,0,0,,Tao chỉ là một tên thường dân thôi.
+Dialogue: 0,0:16:33.24,0:16:36.89,italics,MAGNA,0,0,0,,Tao không sinh ra ngậm thìa vàng\Nnhư quý tộc hay hoàng tộc.
+Dialogue: 0,0:16:37.64,0:16:42.15,italics,MAGNA,0,0,0,,Tao không phải là Luck, người sở hữu bản năng chiến đấu siêu phàm\Ndù xuất thân thường dân,
+Dialogue: 0,0:16:42.15,0:16:45.62,italics,MAGNA,0,0,0,,cũng chẳng phải là Asta, kẻ sở hữu\Nthứ điên rồ như kháng ma pháp
+Dialogue: 0,0:16:45.62,0:16:47.15,italics,MAGNA,0,0,0,,dẫu cho nó cũng chỉ là một thằng tiện dân.
+Dialogue: 0,0:16:49.83,0:16:51.69,italics,MAGNA,0,0,0,,Tao chỉ là...
+Dialogue: 0,0:16:52.47,0:16:55.29,flashback,YAMI,0,0,0,,Đi Vương quốc Heart vui chứ?
+Dialogue: 0,0:16:56.51,0:17:01.30,flashback,MAGNA,0,0,0,,Dạ có ạ. À, Đoàn trưởng Yami, tại sao anh lại...
+Dialogue: 0,0:17:01.30,0:17:02.04,flashback,YAMI,0,0,0,,Hở?
+Dialogue: 0,0:17:02.64,0:17:06.03,flashback,MAGNA,0,0,0,,Tại sao anh lại cho em vào đoàn thế?
+Dialogue: 0,0:17:06.03,0:17:07.21,flashback,YAMI,0,0,0,,Hả?
+Dialogue: 0,0:17:08.79,0:17:11.33,flashback,YAMI,0,0,0,,Chắc vì ta nghĩ anh em mình\Ncó cùng sở thích chăng.
+Dialogue: 0,0:17:12.04,0:17:14.15,flashback,MAGNA,0,0,0,,Ra là vậy...
+Dialogue: 0,0:17:14.55,0:17:15.97,flashback,YAMI,0,0,0,,Với lại...
+Dialogue: 0,0:17:18.82,0:17:21.96,flashback,YAMI,0,0,0,,Nhìn nhóc có lá gan to hơn\Nbất kỳ ai ngoài kia đấy.
+Dialogue: 0,0:17:26.40,0:17:27.57,main,MAGNA,0,0,0,,Tôi...
+Dialogue: 0,0:17:30.39,0:17:31.79,main,MAGNA,0,0,0,,Tao...
+Dialogue: 0,0:17:33.15,0:17:36.66,main,MAGNA,0,0,0,,Nếu đọ về bản lĩnh gan góc,\Ntao tuyệt đối không bao giờ chịu thua ai cả!
+Dialogue: 0,0:18:03.23,0:18:05.55,main,MAGNA,0,0,0,,Tao đã vắt kiệt óc để nghĩ ra
+Dialogue: 0,0:18:05.55,0:18:08.19,main,MAGNA,0,0,0,,chiến thuật ma pháp này\Nvà khổ luyện như chết đi sống lại vì nó!
+Dialogue: 0,0:18:08.19,0:18:10.86,main,MAGNA,0,0,0,,Và tao đéo đời nào cho phép mày...
+Dialogue: 0,0:18:10.86,0:18:15.86,main,MAGNA,0,0,0,,chê bai nó một câu nào đâu, thằng khốn!
+Dialogue: 0,0:18:53.95,0:18:58.95,main,MAGNA,0,0,0,,Tao sẽ đấm nát bấy cái bản mặt mày,\Nthằng đần độn!
+Dialogue: 0,0:19:06.91,0:19:08.46,main,DANTE,0,0,0,,Làm khá lắm.
+Dialogue: 0,0:19:09.15,0:19:10.72,main,DANTE,0,0,0,,Ngươi đã hiểu ra chưa?
+Dialogue: 0,0:19:11.21,0:19:14.89,main,DANTE,0,0,0,,Đây chính là hiện thực bất công\Nvà bất bình đẳng tàn khốc!
+Dialogue: 0,0:19:14.89,0:19:18.27,main,DANTE,0,0,0,,Dù thứ hạ đẳng như ngươi có giãy giụa thế nào...
+Dialogue: 0,0:19:18.64,0:19:20.05,main,DANTE,0,0,0,,Tất cả cũng chỉ là...
+Dialogue: 0,0:19:20.60,0:19:22.68,main,DANTE,0,0,0,,vô ích mà thôi!
+Dialogue: 0,0:19:29.29,0:19:29.94,main,DANTE,0,0,0,,Cái gì?!
+Dialogue: 0,0:19:30.87,0:19:33.27,italics,DANTE,0,0,0,,Sức mạnh ác ma của ta biến mất hoàn toàn rồi ư?!
+Dialogue: 0,0:19:33.27,0:19:35.65,italics,DANTE,0,0,0,,Không, chuyện này là...
+Dialogue: 0,0:19:36.03,0:19:39.01,main,DANTE,0,0,0,,Ngươi lại làm cái trò quái quỷ gì nữa rồi?!
+Dialogue: 0,0:19:41.16,0:19:44.21,main,MAGNA,0,0,0,,Bố mày có làm cái mẹ gì đâu, thằng ngu.
+Dialogue: 0,0:19:44.21,0:19:47.42,main,MAGNA,0,0,0,,Chẳng qua là cả tao và mày đều cạn sạch mana rồi,\Ncó thế thôi.
+Dialogue: 0,0:19:49.17,0:19:55.25,main,MAGNA,0,0,0,,Tao cá là con quái vật như mày\Nchưa bao giờ rơi vào cảnh cạn kiệt mana...
+Dialogue: 0,0:19:55.25,0:19:59.07,main,MAGNA,0,0,0,,Và mày cũng chưa từng đấu với kẻ nào\Nmạnh ngang cơ mình,
+Dialogue: 0,0:19:59.07,0:20:04.14,main,MAGNA,0,0,0,,nên mày làm sao nhận ra được rằng mày đã đốt\Nmột đống ma pháp khổng lồ rồi, đúng không hả?!
+Dialogue: 0,0:20:04.91,0:20:09.90,italics,DANTE,0,0,0,,Ta bị cạn kiệt ma pháp, nên cũng mất luôn\Nsự liên kết với Lucifero rồi.
+Dialogue: 0,0:20:10.59,0:20:14.65,italics,DANTE,0,0,0,,Trọng lực ma pháp... và cả ma pháp thân thể\Nsiêu hồi phục của ta cũng mất sạch ư?!
+Dialogue: 0,0:20:14.65,0:20:17.90,main,MAGNA,0,0,0,,Giờ thì mày đéo dùng nổi cái phép nào ra hồn nữa đâu!
+Dialogue: 0,0:20:18.40,0:20:21.53,main,DANTE,0,0,0,,Ngươi thì cũng khác gì—
+Dialogue: 0,0:20:34.83,0:20:36.51,main,DANTE,0,0,0,,Làm sao ta có thể thua được!
+Dialogue: 0,0:20:36.83,0:20:40.18,main,DANTE,0,0,0,,Ta không thể nào... chịu thua\Ntrước một kẻ như ngươi...
+Dialogue: 0,0:20:41.43,0:20:43.93,main,DANTE,0,0,0,,Một tên vô danh tiểu tốt như ngươi!
+Dialogue: 0,0:20:47.56,0:20:49.14,main,ZORA,0,0,0,,Nghiền nát nó đi!
+Dialogue: 0,0:20:59.95,0:21:03.30,main,DANTE,0,0,0,,Làm sao ta có thể thua\Nmột tên tép riu như...
+Dialogue: 0,0:21:03.30,0:21:04.53,main,MAGNA,0,0,0,,Câm mẹ mày mồm đi!
+Dialogue: 0,0:21:04.95,0:21:07.70,main,MAGNA,0,0,0,,Cái thằng biến thái này!
+Dialogue: 0,0:22:07.23,0:22:09.99,main,ZORA,0,0,0,,Xem ra mày thắng rồi đấy, Magna.
+Dialogue: 0,0:22:11.15,0:22:13.94,main,MAGNA,0,0,0,,Cảm ơn anh nhiều nhé, đại ca Zora!
+Dialogue: 0,0:22:14.28,0:22:16.23,main,ZORA,0,0,0,,Đã bảo là ai là đại ca của mày cơ chứ?
+

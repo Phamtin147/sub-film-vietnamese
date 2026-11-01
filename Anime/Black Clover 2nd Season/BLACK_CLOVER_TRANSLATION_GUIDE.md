@@ -1,7 +1,7 @@
 # CẨM NANG DỊCH THUẬT: BLACK CLOVER (SEASON 2)
 > **Tên tác phẩm**: Black Clover (ブラッククローバー)  
-> **Tập phim**: Season 2 - Episode 03 (Overall Episode 173): "Black Guardian" (黒き守護者 - Người Hộ Vệ Đen)  
-> **Dịch giả / Timer / QC**: **Phamtin147**  
+> **Tập phim**: Season 2 - Episode 05: "The Highest vs. The Lowest" (Kẻ Tối Cao vs. Kẻ Đáy Cùng)  
+> **Dịch giả / Timer / QC**: **Amtia(NOFACE)**  
 
 ---
 
@@ -17,8 +17,10 @@
 | **Yuno (ユノ)** | Đối thủ của Asta | Lạnh lùng, điềm tĩnh, đầy tự hào và quyết tâm bảo vệ vương quốc. |
 | **Dante / Zenon / Vanica** | Bộ Ba Hắc Ám | Tàn bạo, ngạo mạn, phát cuồng trước sức mạnh 100% của ác ma. |
 | **Lilith & Naamah** | Ác ma Thượng vị | Quái dị, thích chơi đùa và hành hạ con người như đồ chơi. |
-| **Patry / Dryad** | Tộc Elf & Thần Thụ | Trang nghiêm, thông tuệ, truyền dạy Ma Pháp Tối Thượng. |
-| **Noelle / Mimosa / Luck / Leopold** | Hiệp sĩ Ma pháp | Nỗ lực luyện tập để cứu vương quốc và đồng đội. |
+| **Magna Swing (マグナ)** | Thành viên Hắc Bộc | Chân chất, liều lĩnh, nghĩa khí, kiên cường vô hạn, biểu tượng của sự nỗ lực thường dân. |
+| **Zora Ideale (ゾーラ)** | Thành viên Hắc Bộc | Ma pháp sư giăng bẫy, miệng lưỡi sắc mỏng nhưng trái tim nhân hậu, đồng cảm với thường dân. |
+| **Jack the Ripper (ジャック)** | Đoàn trưởng Lục Bọ Ngựa | Ngông nghênh, khát máu, khoái chém ngọt mọi thứ. |
+| **Yami Sukehiro (ヤミ)** | Đoàn trưởng Hắc Bộc | Hào sảng, vững chãi, luôn tin tưởng vào tiềm năng và bản lĩnh của đàn em. |
 
 ---
 
@@ -27,32 +29,33 @@
 | Người nói | Người nghe | Xưng hô | Sắc thái văn phong |
 | :--- | :--- | :--- | :--- |
 | **Asta** | Liebe | **Tôi - Cậu** (hoặc **Tao - Mày**) | Thân thiết, ăn ý như anh em một nhà |
-| **Asta** | Kẻ địch / Ác ma | **Ta / Tao - Ngươi / Lũ chúng mày** | Quyết liệt, đanh thép, không lùi bước |
+| **Liebe** | Asta | **Tao - Mày** | Cục cằn nhưng tin tưởng tuyệt đối |
+| **Asta** | Kẻ địch / Ác ma | **Ta / Tao - Ngươi / Lũ bay** | Quyết liệt, đanh thép, không lùi bước |
+| **Nacht** | Asta | **Tôi - Cậu** | Điềm đạm, nghiêm khắc |
 | **Nacht** | Ác ma / Địch | **Ta - Ngươi** | Lạnh lùng, khinh bỉ, tính toán chuẩn xác |
-| **Mereoleona** | Quái vật / Địch | **Bà đây / Ta - Ngươi** | Hào sảng, khát máu, cuồng nộ |
-| **Julius** | Thần dân / Cấp dưới | **Ta - Các ngươi / Mọi người** | Bao dung, uy nghi của Ma Pháp Vương |
-| **Yuno** | Zenon | **Ta - Ngươi** | Nghiêm nghị, căm hận kẻ đã hủy diệt Golden Dawn |
-| **Dante / Vanica**| Con người | **Ta - Các ngươi / Lũ giòi bọ** | Điên loạn, tự phụ tột cùng |
-| **Dân chúng** | Hiệp sĩ Ma pháp | **Chúng tôi - Các ngài / Đại nhân** | Kính trọng, hoảng loạn khi quái vật tấn công |
+| **Magna** | Dante | **Tao - Mày** | Đanh thép, đập tan thói tự phụ quý tộc |
+| **Magna** | Zora | **Em/Tôi - Anh (Đại ca Zora)** | Kính trọng người dạy mình, chân tình đồng đội |
+| **Magna** | Yami | **Em - Đoàn trưởng Yami** | Kính phục, biết ơn sâu sắc |
+| **Zora** | Magna | **Tao - Mày** | Cà khịa ngoài miệng nhưng ủng hộ hết lòng |
+| **Dante** | Magna / Jack | **Ta - Ngươi / Lũ rác rưởi** | Thượng đẳng, ngạo nghễ, lúc cùng đường thì điên loạn |
+| **Jack** | Dante / Magna | **Tao - Mày** | Ngổ ngáo, cộc cằn |
 
 ---
 
 ## 3. THUẬT NGỮ CHUẨN (TERMINOLOGY GLOSSARY)
 
 * **Wizard King (魔法帝)**: Ma Pháp Vương
-* **Magic Knights (魔法騎士団)**: Hiệp sĩ Ma pháp (hoặc Đoàn Hiệp sĩ Ma pháp)
+* **Magic Knights (魔法騎士団)**: Hiệp sĩ Ma pháp
 * **Black Bulls (黒の暴牛)**: Hắc Bộc (Bò Đen)
-* **Golden Dawn (金色の夜明け)**: Kim Sắc Nhật Quang (Bình Minh Vàng)
-* **Tree of Qliphoth (クリフォトの樹)**: Cây Qliphoth
-* **Underworld (冥府)**: Minh Giới
-* **Dark Triad (漆黒の三極性)**: Bộ Ba Hắc Ám (Dark Triad)
+* **Soul Chain Death Match (魂の鎖の死闘)**: Viêm Hồn Tỏa Lực Diệt Đấu (Tử Đấu Dây Xích Linh Hồn)
+* **Gravity Magic (重力魔法)**: Trọng Lực Ma Pháp
+* **Heavy Infighting**: Trọng Kích Cận Chiến
+* **Presence of the Demon King (魔王の気配)**: Ma Vương Lâm Tọa
+* **Body Magic (肉体魔法)**: Nhục Thể Ma Pháp (Ma Pháp Thân Thể)
 * **Devil Union (悪魔同化 - Unite)**: Hợp Thể Ác Ma
-* **Anti-Magic (反魔法)**: Kháng Ma Pháp
-* **Ultimate Magic (究極魔法)**: Ma Pháp Tối Thượng
-* **Mana Zone (マナゾーン)**: Khu Vực Mana
 * **Mana Method (マナメソッド)**: Thuật Thức Mana
 * **Demon-Slayer Sword (断魔の剣)**: Đoạn Ma Kiếm
 * **Demon-Dweller Sword (宿魔の剣)**: Túc Ma Kiếm
 * **Demon-Destroyer Sword (滅魔の剣)**: Diệt Ma Kiếm
 * **Demon-Slasher Katana (斬魔の刀)**: Trảm Ma Katana
-* **Translator / Timer / QC**: **Phamtin147**
+* **Translator / Timer / QC**: **Amtia(NOFACE)**
