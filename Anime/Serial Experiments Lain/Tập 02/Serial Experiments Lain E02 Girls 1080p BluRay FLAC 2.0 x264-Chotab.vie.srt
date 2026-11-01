@@ -1,0 +1,1072 @@
+﻿1
+00:00:01,850 --> 00:00:02,310
+<font face="Segoe UI" size="101" color="#b91e0e">{\an1}T</font>
+
+2
+00:00:01,850 --> 00:00:02,310
+<font face="Segoe UI" size="101" color="#ff6613">{\an1}T</font>
+
+3
+00:00:02,310 --> 00:00:02,560
+<font face="Segoe UI" size="101" color="#b91e0e">{\an1}Th</font>
+
+4
+00:00:02,310 --> 00:00:02,560
+<font face="Segoe UI" size="101" color="#ff6613">{\an1}Th</font>
+
+5
+00:00:02,560 --> 00:00:02,810
+<font face="Segoe UI" size="101" color="#b91e0e">{\an1}Thời</font>
+
+6
+00:00:02,560 --> 00:00:02,810
+<font face="Segoe UI" size="101" color="#ff6613">{\an1}Thời</font>
+
+7
+00:00:02,810 --> 00:00:03,020
+<font face="Segoe UI" size="101" color="#b91e0e">{\an1}Thời h</font>
+
+8
+00:00:02,810 --> 00:00:03,020
+<font face="Segoe UI" size="101" color="#ff6613">{\an1}Thời h</font>
+
+9
+00:00:03,020 --> 00:00:03,480
+<font face="Segoe UI" size="101" color="#b91e0e">{\an1}Thời hi</font>
+
+10
+00:00:03,020 --> 00:00:03,480
+<font face="Segoe UI" size="101" color="#ff6613">{\an1}Thời hi</font>
+
+11
+00:00:03,480 --> 00:00:03,730
+<font face="Segoe UI" size="101" color="#b91e0e">{\an1}Thời hiện</font>
+
+12
+00:00:03,480 --> 00:00:03,730
+<font face="Segoe UI" size="101" color="#ff6613">{\an1}Thời hiện</font>
+
+13
+00:00:03,730 --> 00:00:03,980
+<font face="Segoe UI" size="101" color="#b91e0e">{\an1}Thời hiện tại</font>
+
+14
+00:00:03,730 --> 00:00:03,980
+<font face="Segoe UI" size="101" color="#ff6613">{\an1}Thời hiện tại</font>
+
+15
+00:00:03,980 --> 00:00:04,650
+<font face="Segoe UI" size="101" color="#b91e0e">{\an1}Thời hiện tại_</font>
+
+16
+00:00:03,980 --> 00:00:04,650
+<font face="Segoe UI" size="101" color="#ff6613">{\an1}Thời hiện tại_</font>
+
+17
+00:00:04,650 --> 00:00:04,770
+<font face="Segoe UI" size="101" color="#b91e0e">{\an1}Thời hiện tại_</font>
+
+18
+00:00:04,650 --> 00:00:04,770
+<font face="Segoe UI" size="101" color="#ff6613">{\an1}Thời hiện tại_</font>
+
+19
+00:00:04,770 --> 00:00:04,900
+<font face="Segoe UI" size="101" color="#b91e0e">{\an1}Thời hiện tại</font>
+
+20
+00:00:04,770 --> 00:00:04,900
+<font face="Segoe UI" size="101" color="#ff6613">{\an1}Thời hiện tại</font>
+
+21
+00:00:04,900 --> 00:00:05,350
+<font face="Segoe UI" size="101" color="#b91e0e">{\an1}Thời hiện tại_</font>
+
+22
+00:00:04,900 --> 00:00:05,350
+<font face="Segoe UI" size="101" color="#ff6613">{\an1}Thời hiện tại_</font>
+
+23
+00:00:05,350 --> 00:00:05,600
+<font face="Segoe UI" size="101" color="#b91e0e">{\an1}K</font>
+
+24
+00:00:05,350 --> 00:00:05,600
+<font face="Segoe UI" size="101" color="#ff6613">{\an1}K</font>
+
+25
+00:00:05,600 --> 00:00:05,810
+<font face="Segoe UI" size="101" color="#b91e0e">{\an1}Kh</font>
+
+26
+00:00:05,600 --> 00:00:05,810
+<font face="Segoe UI" size="101" color="#ff6613">{\an1}Kh</font>
+
+27
+00:00:05,810 --> 00:00:06,060
+<font face="Segoe UI" size="101" color="#b91e0e">{\an1}Kho</font>
+
+28
+00:00:05,810 --> 00:00:06,060
+<font face="Segoe UI" size="101" color="#ff6613">{\an1}Kho</font>
+
+29
+00:00:06,060 --> 00:00:06,270
+<font face="Segoe UI" size="101" color="#b91e0e">{\an1}Khoả</font>
+
+30
+00:00:06,060 --> 00:00:06,270
+<font face="Segoe UI" size="101" color="#ff6613">{\an1}Khoả</font>
+
+31
+00:00:06,270 --> 00:00:06,730
+<font face="Segoe UI" size="101" color="#b91e0e">{\an1}Khoảnh</font>
+
+32
+00:00:06,270 --> 00:00:06,730
+<font face="Segoe UI" size="101" color="#ff6613">{\an1}Khoảnh</font>
+
+33
+00:00:06,730 --> 00:00:06,980
+<font face="Segoe UI" size="101" color="#b91e0e">{\an1}Khoảnh k</font>
+
+34
+00:00:06,730 --> 00:00:06,980
+<font face="Segoe UI" size="101" color="#ff6613">{\an1}Khoảnh k</font>
+
+35
+00:00:06,980 --> 00:00:07,230
+<font face="Segoe UI" size="101" color="#b91e0e">{\an1}Khoảnh kh</font>
+
+36
+00:00:06,980 --> 00:00:07,230
+<font face="Segoe UI" size="101" color="#ff6613">{\an1}Khoảnh kh</font>
+
+37
+00:00:07,230 --> 00:00:07,440
+<font face="Segoe UI" size="101" color="#b91e0e">{\an1}Khoảnh khắc này</font>
+
+38
+00:00:07,230 --> 00:00:07,440
+<font face="Segoe UI" size="101" color="#ff6613">{\an1}Khoảnh khắc này</font>
+
+39
+00:00:07,440 --> 00:00:07,560
+<font face="Segoe UI" size="101" color="#b91e0e">{\an1}Khoảnh khắc này_</font>
+
+40
+00:00:07,440 --> 00:00:07,560
+<font face="Segoe UI" size="101" color="#ff6613">{\an1}Khoảnh khắc này_</font>
+
+41
+00:00:07,560 --> 00:00:07,690
+<font face="Segoe UI" size="101" color="#b91e0e">{\an1}Khoảnh khắc này</font>
+
+42
+00:00:07,560 --> 00:00:07,690
+<font face="Segoe UI" size="101" color="#ff6613">{\an1}Khoảnh khắc này</font>
+
+43
+00:00:07,690 --> 00:00:08,110
+<font face="Segoe UI" size="101" color="#b91e0e">{\an1}Khoảnh khắc này_</font>
+
+44
+00:00:07,690 --> 00:00:08,110
+<font face="Segoe UI" size="101" color="#ff6613">{\an1}Khoảnh khắc này_</font>
+
+45
+00:00:08,110 --> 00:00:08,150
+<font face="Segoe UI" size="101" color="#b91e0e">{\an1}Khoảnh khắc này! Ha ha ha!</font>
+
+46
+00:00:08,110 --> 00:00:08,150
+<font face="Segoe UI" size="101" color="#ff6613">{\an1}Khoảnh khắc này! Ha ha ha!</font>
+
+47
+00:00:08,150 --> 00:00:08,190
+<font face="Segoe UI" size="101" color="#b91e0e">{\an1}Khoảnh khắc này! Ha ha ha!_</font>
+
+48
+00:00:08,150 --> 00:00:08,190
+<font face="Segoe UI" size="101" color="#ff6613">{\an1}Khoảnh khắc này! Ha ha ha!_</font>
+
+49
+00:00:16,820 --> 00:00:23,160
+<font face="Segoe UI" size="81">{\an7}Và dường như anh chẳng thể hiểu thấu</font>
+
+50
+00:00:21,910 --> 00:00:28,340
+<font face="Segoe UI" size="81">{\an9}Thật tiếc thay khi anh từng là người chân thật</font>
+
+51
+00:00:26,580 --> 00:00:33,090
+<font face="Segoe UI" size="81">{\an7}Và mọi nỗi sợ anh hằng ôm giữ</font>
+
+52
+00:00:31,710 --> 00:00:38,390
+<font face="Segoe UI" size="81">{\an9}Sẽ hóa thành lời thì thầm bên tai</font>
+
+53
+00:00:37,180 --> 00:00:41,770
+<font face="Segoe UI" size="81">{\an7}Anh biết những gì họ nói có thể làm anh tổn thương</font>
+
+54
+00:00:39,930 --> 00:00:44,230
+<font face="Segoe UI" size="81">{\an9}Và anh biết điều đó quan trọng đến nhường nào</font>
+
+55
+00:00:42,520 --> 00:00:48,980
+<font face="Segoe UI" size="81">{\an7}Nhưng anh thậm chí chẳng cảm nhận được gì</font>
+
+56
+00:00:47,690 --> 00:00:54,650
+<font face="Segoe UI" size="81">{\an9}Tôi đang rơi, tôi đang dần tan biến</font>
+
+57
+00:00:52,860 --> 00:00:58,780
+<font face="Segoe UI" size="81">{\an7}Tôi đã đánh mất tất cả</font>
+
+58
+00:01:17,510 --> 00:01:26,810
+<font face="Segoe UI" size="81">{\an7}Tôi đang rơi, đang tan biến, đang chìm dần</font>
+
+59
+00:01:25,270 --> 00:01:29,440
+<font face="Segoe UI" size="81">{\an9}Hãy giúp tôi thở...</font>
+
+60
+00:01:27,480 --> 00:01:34,650
+<font face="Segoe UI" size="81">{\an7}Tôi đau đớn, tôi đã mất tất cả</font>
+
+61
+00:01:33,030 --> 00:01:37,200
+<font face="Segoe UI" size="81">{\an9}Tôi đang dần đánh mất...</font>
+
+62
+00:01:35,570 --> 00:01:41,410
+<font face="Segoe UI" size="81">{\an7}Hãy giúp tôi thở...</font>
+
+63
+00:02:09,100 --> 00:02:12,110
+<font face="Segoe UI" size="62"><b>Cậu sợ cái gì chứ?</b></font>
+
+64
+00:02:12,110 --> 00:02:14,110
+<font face="Segoe UI" size="62"><b>Cứ thử một chút xíu thôi mà.</b></font>
+
+65
+00:02:38,170 --> 00:02:41,090
+<font face="Segoe UI" size="70" color="#000000"><b>Cyberia sao?</b></font>
+
+66
+00:02:41,090 --> 00:02:44,100
+<font face="Segoe UI" size="70" color="#000000"><b>Tôi đến đây đâu phải vì tôi muốn.</b></font>
+
+67
+00:03:07,120 --> 00:03:10,120
+<font face="Segoe UI" size="70" color="#000000"><b>10.000 yên á?! Chém đẹp thế!</b></font>
+
+68
+00:03:10,120 --> 00:03:14,000
+<font face="Segoe UI" size="70" color="#000000"><b>Giá thị trường chỉ tầm 4.000 thôi mà!</b></font>
+
+69
+00:03:16,750 --> 00:03:22,300
+<font face="Segoe UI" size="70" color="#000000"><b>Bọn tôi gọi nó là Accela.</b></font>
+
+70
+00:03:22,300 --> 00:03:24,850
+<font face="Segoe UI" size="70" color="#000000"><b>Nó không hẳn là thuốc phiện...</b></font>
+
+71
+00:03:24,850 --> 00:03:28,770
+<font face="Segoe UI" size="70" color="#000000"><b>nhưng để kiếm được nó thì cũng phải trầy da tróc vảy y hệt.</b></font>
+
+72
+00:04:21,190 --> 00:04:24,200
+<font face="Segoe UI" size="70" color="#000000"><b>Tôi cảm thấy...</b></font>
+
+73
+00:04:24,200 --> 00:04:26,120
+<font face="Segoe UI" size="70" color="#000000"><b>được tăng tốc.</b></font>
+
+74
+00:05:12,330 --> 00:05:17,290
+<font face="Segoe UI" size="70" color="#000000"><b>Mau lên, hãy đến với tôi đi.</b></font>
+
+75
+00:05:22,940 --> 00:05:24,800
+<font face="Segoe UI" size="62"><b>Không, không phải thế.</b></font>
+
+76
+00:05:29,620 --> 00:05:31,120
+<font face="Segoe UI" size="62"><b>Mình không có thư mới nào cả...</b></font>
+
+77
+00:05:34,800 --> 00:05:36,170
+<font face="Segoe UI" size="62"><b>Mình chẳng hiểu gì hết...</b></font>
+
+78
+00:05:39,450 --> 00:05:40,650
+<font face="Segoe UI" size="62"><b>Ồ.</b></font>
+
+79
+00:05:43,250 --> 00:05:45,150
+<font face="Segoe UI" size="62"><b>Chị cứ tưởng có ai ở đây cơ.</b></font>
+
+80
+00:05:46,950 --> 00:05:48,490
+<font face="Segoe UI" size="62"><b>Ai cơ ạ?</b></font>
+
+81
+00:05:49,070 --> 00:05:54,290
+<font face="Segoe UI" size="62"><b>Người bạn trong tưởng tượng của em ấy.</b></font>
+
+82
+00:05:56,830 --> 00:05:58,210
+<font face="Segoe UI" size="62"><b>Hoặc đại loại thế.</b></font>
+
+83
+00:06:04,870 --> 00:06:06,820
+<font face="Segoe UI" size="62"><b>Em lại sắp muộn học nữa rồi đấy.</b></font>
+
+84
+00:07:15,650 --> 00:07:16,790
+<font face="Segoe UI" size="62"><b>Lain à!</b></font>
+
+85
+00:07:20,910 --> 00:07:22,080
+<font face="Segoe UI" size="62"><b>Chào buổi sáng nhé.</b></font>
+
+86
+00:07:23,060 --> 00:07:25,090
+<font face="Segoe UI" size="62"><b>C-Chào buổi sáng.</b></font>
+
+87
+00:07:25,090 --> 00:07:28,300
+<font face="Segoe UI" size="62"><b>Thấy chưa tớ đã bảo rồi mà? Làm sao có thể là cậu ấy được.</b></font>
+
+88
+00:07:28,300 --> 00:07:31,090
+<font face="Segoe UI" size="62"><b>Cậu nghĩ vậy sao? Nhưng mà...</b></font>
+
+89
+00:07:33,010 --> 00:07:34,030
+<font face="Segoe UI" size="62"><b>Sao cơ?</b></font>
+
+90
+00:07:37,160 --> 00:07:40,400
+<font face="Segoe UI" size="62"><b>Thôi đi. Tớ thấy tội nghiệp cho cậu ấy đấy.</b></font>
+
+91
+00:07:41,770 --> 00:07:44,320
+<font face="Segoe UI" size="62"><b>Không có gì đâu. Đi nào, tụi mình đi thôi.</b></font>
+
+92
+00:07:45,000 --> 00:07:45,860
+<font face="Segoe UI" size="62"><b>Ừ.</b></font>
+
+93
+00:07:45,860 --> 00:07:47,260
+<font face="Segoe UI" size="62"><b>Nhưng mà...</b></font>
+
+94
+00:07:47,260 --> 00:07:48,780
+<font face="Segoe UI" size="62"><b>Thôi, bỏ qua đi.</b></font>
+
+95
+00:07:52,640 --> 00:07:55,410
+<font face="Segoe UI" size="62"><b>Cậu có nhận thêm email nào nữa không?</b></font>
+
+96
+00:07:56,480 --> 00:07:57,700
+<font face="Segoe UI" size="62"><b>Email sao?</b></font>
+
+97
+00:07:59,790 --> 00:08:01,460
+<font face="Segoe UI" size="62"><b>Từ Chisa ấy.</b></font>
+
+98
+00:08:01,890 --> 00:08:05,350
+<font face="Segoe UI" size="62"><b>À, chuyện đó. Không, mình chẳng nhận được thêm bức nào nữa.</b></font>
+
+99
+00:08:05,350 --> 00:08:08,110
+<font face="Segoe UI" size="62"><b>Lain, cậu cũng nhận được bức thư chơi khăm đó hả?</b></font>
+
+100
+00:08:08,110 --> 00:08:09,300
+<font face="Segoe UI" size="62"><b>Dạ?</b></font>
+
+101
+00:08:09,300 --> 00:08:10,460
+<font face="Segoe UI" size="62"><b>Thật sao?</b></font>
+
+102
+00:08:12,300 --> 00:08:15,220
+<font face="Segoe UI" size="62"><b>Mình chỉ tò mò chút thôi.</b></font>
+
+103
+00:08:15,630 --> 00:08:17,010
+<font face="Segoe UI" size="62"><b>Hả?</b></font>
+
+104
+00:08:17,010 --> 00:08:19,990
+<font face="Segoe UI" size="62"><b>Mà cậu biết không, có khi nhìn cậu ấy hơi giống cô ta thật đấy...</b></font>
+
+105
+00:08:20,900 --> 00:08:23,230
+<font face="Segoe UI" size="62"><b>Lain à, tối qua cậu làm gì thế?</b></font>
+
+106
+00:08:24,400 --> 00:08:25,940
+<font face="Segoe UI" size="62"><b>Phải đó, nói đi chứ!</b></font>
+
+107
+00:08:26,370 --> 00:08:27,980
+<font face="Segoe UI" size="62"><b>Thôi nào, tớ đã bảo không phải cậu ấy rồi mà!</b></font>
+
+108
+00:08:27,980 --> 00:08:31,540
+<font face="Segoe UI" size="62"><b>Chắc là không phải đâu. Nhìn chẳng giống chút nào cả.</b></font>
+
+109
+00:08:34,150 --> 00:08:35,280
+<font face="Segoe UI" size="62"><b>Gì cơ?</b></font>
+
+110
+00:08:35,620 --> 00:08:41,000
+<font face="Segoe UI" size="62"><b>Tối qua có một cô gái ở Cyberia nhìn y hệt cậu luôn đấy, Lain.</b></font>
+
+111
+00:08:43,030 --> 00:08:44,500
+<font face="Segoe UI" size="62"><b>Cyberia?</b></font>
+
+112
+00:08:44,500 --> 00:08:49,470
+<font face="Segoe UI" size="62"><b>Tối qua tụi này mới lấy hết can đảm mò tới đó đấy.</b></font>
+
+113
+00:08:49,470 --> 00:08:51,510
+<font face="Segoe UI" size="62"><b>Thôi đi, có gì to tát đâu chứ.</b></font>
+
+114
+00:08:51,880 --> 00:08:53,900
+<font face="Segoe UI" size="62"><b>Cậu mới là đứa run bần bật ấy!</b></font>
+
+115
+00:08:55,270 --> 00:08:59,510
+<font face="Segoe UI" size="62"><b>À. Đó là một hộp đêm. Giới trẻ hay tụ tập ở đó vào ban đêm.</b></font>
+
+116
+00:09:02,220 --> 00:09:05,690
+<font face="Segoe UI" size="62"><b>Có một cô gái ở đó trông hơi giống cậu đấy, Lain.</b></font>
+
+117
+00:09:06,840 --> 00:09:09,400
+<font face="Segoe UI" size="62"><b>Tối qua, mình...</b></font>
+
+118
+00:09:09,770 --> 00:09:12,810
+<font face="Segoe UI" size="62"><b>Tụi mình biết rồi. Không phải cậu đâu.</b></font>
+
+119
+00:09:12,810 --> 00:09:15,490
+<font face="Segoe UI" size="62"><b>Tụi mình không nhìn rõ lắm,</b></font>
+
+120
+00:09:15,490 --> 00:09:19,750
+<font face="Segoe UI" size="62"><b>nhưng cô ta mặc đồ quái chiêu lắm, lại còn chửi mắng người khác xối xả nữa.</b></font>
+
+121
+00:09:19,750 --> 00:09:24,180
+<font face="Segoe UI" size="62"><b>Ừ, giống như một phiên bản hoàn toàn trái ngược với cậu vậy.</b></font>
+
+122
+00:09:24,180 --> 00:09:27,420
+<font face="Segoe UI" size="62"><b>Nhưng mà trông giống thật mà...</b></font>
+
+123
+00:09:27,740 --> 00:09:30,990
+<font face="Segoe UI" size="62"><b>Này, hay là lần tới tụi mình dắt cậu ấy đi cùng đi!</b></font>
+
+124
+00:09:31,680 --> 00:09:33,380
+<font face="Segoe UI" size="62"><b>Cậu muốn xác nhận cho chắc chứ gì?</b></font>
+
+125
+00:09:33,380 --> 00:09:36,010
+<font face="Segoe UI" size="62"><b>Thôi đi! Cậu chỉ đang trêu chọc cậu ấy thôi.</b></font>
+
+126
+00:09:36,010 --> 00:09:42,390
+<font face="Segoe UI" size="62"><b>Tớ cá là một đứa như Lain mà vào hộp đêm thì tính cách sẽ quay ngoắt 180 độ cho xem!</b></font>
+
+127
+00:09:42,390 --> 00:09:46,390
+<font face="Segoe UI" size="62"><b>Có khi Lain lại trở nên hoạt bát hơn thì sao.</b></font>
+
+128
+00:09:46,390 --> 00:09:49,400
+<font face="Segoe UI" size="62"><b>Đúng rồi! Đi đi mà, Lain!</b></font>
+
+129
+00:09:49,920 --> 00:09:51,570
+<font face="Segoe UI" size="62"><b>Có khi lại vui đấy.</b></font>
+
+130
+00:09:51,570 --> 00:09:56,570
+<font face="Segoe UI" size="62"><b>Cậu cởi mở hòa đồng hơn một chút thì sẽ thấy vui hơn nhiều đấy.</b></font>
+
+131
+00:09:56,570 --> 00:09:57,990
+<font face="Segoe UI" size="62"><b>Đúng không hả Lain?</b></font>
+
+132
+00:10:01,330 --> 00:10:04,650
+<font face="Segoe UI" size="62"><b>Accela, một loại thực phẩm chức năng kích thích trí não,</b></font>
+
+133
+00:10:04,650 --> 00:10:10,360
+<font face="Segoe UI" size="62"><b>sử dụng cơ chế nano dao động ở tần số đặc thù bên trong cơ thể,</b></font>
+
+134
+00:10:10,360 --> 00:10:13,690
+<font face="Segoe UI" size="62"><b>kích hoạt sự tiết ra của một loại hormone đặc biệt.</b></font>
+
+135
+00:10:14,450 --> 00:10:19,560
+<font face="Segoe UI" size="62"><b>Người ta nói rằng khi được tiết ra, hormone này sẽ tác động lên cảm thức thời gian</b></font>
+
+136
+00:10:19,560 --> 00:10:24,390
+<font face="Segoe UI" size="62"><b>của tâm trí con người, khiến nhận thức như được tăng tốc cực hạn.</b></font>
+
+137
+00:10:25,430 --> 00:10:30,260
+<font face="Segoe UI" size="62"><b>Không chỉ ý thức, mà ngay cả hoạt động thực tế của não bộ cũng bị biến đổi,</b></font>
+
+138
+00:10:30,260 --> 00:10:35,400
+<font face="Segoe UI" size="62"><b>nhân công suất vận hành của não lên gấp từ 2 đến 12 lần.</b></font>
+
+139
+00:10:36,260 --> 00:10:42,390
+<font face="Segoe UI" size="62"><b>Bản thân cơ chế nano sẽ bị dịch tiêu hóa phân hủy trong vòng 24 giờ,</b></font>
+
+140
+00:10:42,390 --> 00:10:44,570
+<font face="Segoe UI" size="62"><b>nhưng hiệu lực duy trì của nó thì vẫn chưa rõ...</b></font>
+
+141
+00:11:01,760 --> 00:11:05,680
+<font face="Segoe UI" size="50" color="#aeacc5">{\an8}<font color="#ffffff">Tối nay đi quẩy ở Cyberia nhé! Từ Arisu</font></font>
+
+142
+00:11:16,940 --> 00:11:22,870
+<font face="Segoe UI" size="50" color="#aeacc5">{\an8}<font color="#ffffff">Tối nay mình không đi đâu.</font></font>
+
+143
+00:11:26,910 --> 00:11:31,370
+<font face="Segoe UI" size="70" color="#000000"><b>Mọi người đều kết nối.</b></font>
+
+144
+00:13:05,380 --> 00:13:06,720
+<font face="Segoe UI" size="62"><b>Nhà em ở đây phải không?</b></font>
+
+145
+00:13:08,890 --> 00:13:12,550
+<font face="Segoe UI" size="62"><b>Tuyệt quá! Anh có kiện hàng giao cho em này.</b></font>
+
+146
+00:13:12,550 --> 00:13:15,200
+<font face="Segoe UI" size="62"><b>Anh sẽ dỡ hàng xuống nhé. Em mở cổng giúp anh được không?</b></font>
+
+147
+00:13:28,850 --> 00:13:31,160
+<font face="Segoe UI" size="62"><b>Em ký vào đây giúp anh nhé?</b></font>
+
+148
+00:13:34,790 --> 00:13:38,370
+<font face="Segoe UI" size="62"><b>Cỗ máy này xịn xò thật đấy!</b></font>
+
+149
+00:13:38,370 --> 00:13:40,580
+<font face="Segoe UI" size="62"><b>Ước gì anh cũng có một bộ thế này...</b></font>
+
+150
+00:13:40,580 --> 00:13:41,420
+<font face="Segoe UI" size="62"><b>Cảm ơn em nhé.</b></font>
+
+151
+00:13:42,370 --> 00:13:44,880
+<font face="Segoe UI" size="62"><b>Tất cả đống này là của em sao?</b></font>
+
+152
+00:13:46,260 --> 00:13:47,090
+<font face="Segoe UI" size="62"><b>Em cũng không chắc nữa.</b></font>
+
+153
+00:13:48,100 --> 00:13:50,600
+<font face="Segoe UI" size="62"><b>Vậy là em không biết đây là thứ gì à?</b></font>
+
+154
+00:13:53,100 --> 00:13:54,960
+<font face="Segoe UI" size="62"><b>Đây là cỗ máy Navi đỉnh cao hàng đầu đấy!</b></font>
+
+155
+00:13:54,960 --> 00:13:56,730
+<font face="Segoe UI" size="62"><b>Lại còn được trang bị tận răng nữa chứ!</b></font>
+
+156
+00:13:57,150 --> 00:14:03,530
+<font face="Segoe UI" size="62"><b>Với cấu hình khủng cỡ này, em có thể lướt thả ga không chút giật lag, ngay cả trong The Wired.</b></font>
+
+157
+00:14:04,800 --> 00:14:07,390
+<font face="Segoe UI" size="62"><b>Bản thân anh cũng chỉ dùng dàn máy tự ráp thôi.</b></font>
+
+158
+00:14:07,390 --> 00:14:09,240
+<font face="Segoe UI" size="62"><b>Chẳng thể nào so bì được với cỗ máy này đâu.</b></font>
+
+159
+00:14:09,560 --> 00:14:14,750
+<font face="Segoe UI" size="62"><b>Không, không phải đâu ạ. Em cũng chẳng biết gì về nó cả.</b></font>
+
+160
+00:14:16,390 --> 00:14:17,580
+<font face="Segoe UI" size="62"><b>Rồi em sẽ sớm rành thôi mà.</b></font>
+
+161
+00:14:18,100 --> 00:14:19,430
+<font face="Segoe UI" size="62"><b>Chúc em một ngày tốt lành nhé.</b></font>
+
+162
+00:14:59,290 --> 00:15:01,750
+<font face="Segoe UI" size="62"><b>Máy Navi của con tới rồi đấy à?</b></font>
+
+163
+00:15:03,030 --> 00:15:06,340
+<font face="Segoe UI" size="62"><b>Dọn dẹp đống lộn xộn đó sớm đi nhé, vướng lối đi lắm đấy.</b></font>
+
+164
+00:15:07,790 --> 00:15:10,610
+<font face="Segoe UI" size="62"><b>Ăn tối xong bố sẽ lắp đặt cho con.</b></font>
+
+165
+00:15:12,050 --> 00:15:15,170
+<font face="Segoe UI" size="62"><b>Chiếc Navi này xịn đến mức bố cũng muốn dùng thử một phen đấy.</b></font>
+
+166
+00:15:15,570 --> 00:15:16,630
+<font face="Segoe UI" size="62"><b>Bố ơi...</b></font>
+
+167
+00:15:18,110 --> 00:15:22,400
+<font face="Segoe UI" size="62"><b>Con muốn bố lắp đặt cho con ngay bây giờ cơ.</b></font>
+
+168
+00:15:23,600 --> 00:15:26,230
+<font face="Segoe UI" size="62"><b>Kìa, sao con lại vội vàng thế chứ?</b></font>
+
+169
+00:15:30,080 --> 00:15:31,230
+<font face="Segoe UI" size="62"><b>Lain à...</b></font>
+
+170
+00:15:32,920 --> 00:15:33,930
+<font face="Segoe UI" size="62"><b>Được rồi, bố làm ngay đây.</b></font>
+
+171
+00:15:37,710 --> 00:15:42,040
+<font face="Segoe UI" size="62"><b>Con đâu thể cứ dùng mãi chiếc Navi dành cho trẻ con đó được.</b></font>
+
+172
+00:15:43,040 --> 00:15:52,850
+<font face="Segoe UI" size="62"><b>Để giao tiếp, con cần một hệ thống đủ mạnh để phát triển cùng với các mối quan hệ xã hội của con.</b></font>
+
+173
+00:15:52,850 --> 00:15:54,550
+<font face="Segoe UI" size="62"><b>Con hiểu chứ, Lain?</b></font>
+
+174
+00:16:06,100 --> 00:16:06,940
+<font face="Segoe UI" size="62"><b>Lại đây nào.</b></font>
+
+175
+00:16:11,420 --> 00:16:13,820
+<font face="Segoe UI" size="62"><b>Đăng ký danh tính người dùng của con với máy đi.</b></font>
+
+176
+00:16:20,540 --> 00:16:21,830
+<font face="Segoe UI" size="62"><b>Thử trò chuyện với nó xem nào.</b></font>
+
+177
+00:16:23,010 --> 00:16:25,080
+<font face="Segoe UI" size="62"><b>Xin chào, Navi.</b></font>
+
+178
+00:16:29,610 --> 00:16:32,750
+<font face="Segoe UI" size="62"><b>Bây giờ cỗ máy Navi này đã là của con rồi đấy, Lain.</b></font>
+
+179
+00:16:32,750 --> 00:16:34,670
+<font face="Segoe UI" size="62"><b>Giờ con có thể khoe với bạn bè được rồi nhé.</b></font>
+
+180
+00:16:41,730 --> 00:16:43,230
+<font face="Segoe UI" size="62"><b>Úi chà.</b></font>
+
+181
+00:16:43,230 --> 00:16:45,460
+<font face="Segoe UI" size="62"><b>Này Mika, có chuyện gì thế con?</b></font>
+
+182
+00:16:55,030 --> 00:16:57,430
+<font face="Segoe UI" size="62"><b>Navi, tôi có thư mới không?</b></font>
+
+183
+00:16:57,430 --> 00:16:59,680
+<font face="Segoe UI" size="62"><b>Lain không có thư mới.</b></font>
+
+184
+00:17:18,510 --> 00:17:22,140
+<font face="Segoe UI" size="50" color="#aeacc5">{\an8}<font color="#ffffff">Lain, cậu đâu rồi? Mọi người đang đợi đấy! Cậu nhất định phải tới nha!</font></font>
+
+185
+00:17:29,560 --> 00:17:34,820
+<font face="Segoe UI" size="70" color="#000000"><b>Sao cậu không chịu đến?</b></font>
+
+186
+00:17:39,540 --> 00:17:41,790
+<font face="Segoe UI" size="62"><b>Được rồi, rẽ trái ở góc cua đằng kia!</b></font>
+
+187
+00:17:42,730 --> 00:17:44,550
+<font face="Segoe UI" size="62"><b>Rồi cứ thế đi thẳng nhé.</b></font>
+
+188
+00:17:46,130 --> 00:17:47,120
+<font face="Segoe UI" size="62"><b>Thấy chưa?</b></font>
+
+189
+00:17:48,330 --> 00:17:49,540
+<font face="Segoe UI" size="62"><b>Dạ thấy rồi.</b></font>
+
+190
+00:17:49,540 --> 00:17:51,540
+<font face="Segoe UI" size="62"><b>Tụi mình ở dưới tầng hầm đấy! Nhớ chưa?</b></font>
+
+191
+00:18:02,050 --> 00:18:04,130
+<font face="Segoe UI" size="62"><b>Này! Mày kia!</b></font>
+
+192
+00:18:04,130 --> 00:18:05,950
+<font face="Segoe UI" size="62"><b>Đứng chắn hết cả cầu thang rồi đấy.</b></font>
+
+193
+00:18:07,020 --> 00:18:08,510
+<font face="Segoe UI" size="62"><b>Em xin lỗi ạ.</b></font>
+
+194
+00:18:08,510 --> 00:18:13,700
+<font face="Segoe UI" size="62"><b>Làm thế thì mày sẽ bị Trung tâm Bảo mật Thông tin tóm cổ ngay lập tức đấy!</b></font>
+
+195
+00:18:13,700 --> 00:18:15,490
+<font face="Segoe UI" size="62"><b>Có gì to tát đâu chứ? Tao chỉ đang tấn công nó thôi mà.</b></font>
+
+196
+00:18:16,190 --> 00:18:18,710
+<font face="Segoe UI" size="62"><b>Này, lần tới tụi mình qua khu trò chơi điện tử đằng kia thì...</b></font>
+
+197
+00:18:22,990 --> 00:18:26,080
+<font face="Segoe UI" size="62"><b>Sao cậu tới muộn thế hả Lain?</b></font>
+
+198
+00:18:26,080 --> 00:18:28,830
+<font face="Segoe UI" size="62"><b>Giờ này bình thường là cậu đã đi ngủ rồi đúng không, Lain?</b></font>
+
+199
+00:18:30,500 --> 00:18:35,590
+<font face="Segoe UI" size="62"><b>Lain à, cậu không có bộ đồ nào hợp để đi chơi đêm hơn sao?</b></font>
+
+200
+00:18:38,600 --> 00:18:41,550
+<font face="Segoe UI" size="62"><b>Lần sau tụi mình sẽ chọn cho cậu bộ nào trông người lớn hơn một chút nhé, Lain.</b></font>
+
+201
+00:18:42,180 --> 00:18:44,510
+<font face="Segoe UI" size="62"><b>Cậu nghĩ cậu ấy mặc đồ người lớn trông sẽ hợp chắc?</b></font>
+
+202
+00:18:44,510 --> 00:18:45,600
+<font face="Segoe UI" size="62"><b>Reika này!</b></font>
+
+203
+00:18:46,040 --> 00:18:47,310
+<font face="Segoe UI" size="62"><b>Này...</b></font>
+
+204
+00:18:47,310 --> 00:18:48,220
+<font face="Segoe UI" size="62"><b>Gì thế?</b></font>
+
+205
+00:18:48,220 --> 00:18:52,110
+<font face="Segoe UI" size="62"><b>Chắc cô gái tụi mình gặp thực sự không phải là Lain đâu.</b></font>
+
+206
+00:18:52,940 --> 00:18:55,370
+<font face="Segoe UI" size="62"><b>Tớ đã bảo cậu từ đầu rồi mà!</b></font>
+
+207
+00:18:55,370 --> 00:18:59,270
+<font face="Segoe UI" size="62"><b>Lain đâu có ăn mặc hay nói năng kiểu đó.</b></font>
+
+208
+00:18:59,270 --> 00:19:01,490
+<font face="Segoe UI" size="62"><b>Nhìn cũng chẳng giống nét nào cả.</b></font>
+
+209
+00:19:01,490 --> 00:19:06,330
+<font face="Segoe UI" size="62"><b>Cô ấy thật sự trông giống mình sao?</b></font>
+
+210
+00:19:06,330 --> 00:19:10,000
+<font face="Segoe UI" size="62"><b>Ừ! Lúc đó tớ đoan chắc là cậu luôn đấy!</b></font>
+
+211
+00:19:10,810 --> 00:19:11,930
+<font face="Segoe UI" size="62"><b>Thế à.</b></font>
+
+212
+00:19:18,550 --> 00:19:19,670
+<font face="Segoe UI" size="62"><b>Cái quái gì...?!</b></font>
+
+213
+00:19:20,300 --> 00:19:22,340
+<font face="Segoe UI" size="62"><b>Hắn có súng kìa!</b></font>
+
+214
+00:19:26,600 --> 00:19:28,140
+<font face="Segoe UI" size="62"><b>Cứu tôi với!</b></font>
+
+215
+00:19:30,610 --> 00:19:31,990
+<font face="Segoe UI" size="62"><b>Juri!</b></font>
+
+216
+00:20:02,470 --> 00:20:03,260
+<font face="Segoe UI" size="62"><b>Lain!</b></font>
+
+217
+00:20:06,010 --> 00:20:08,280
+<font face="Segoe UI" size="62"><b>Cậu ấy đang làm cái gì thế?</b></font>
+
+218
+00:20:08,280 --> 00:20:09,500
+<font face="Segoe UI" size="62"><b>Reika, chăm sóc Juri giùm tớ với.</b></font>
+
+219
+00:20:09,500 --> 00:20:10,940
+<font face="Segoe UI" size="62"><b>Arisu?</b></font>
+
+220
+00:20:10,940 --> 00:20:12,230
+<font face="Segoe UI" size="62"><b>Arisu!</b></font>
+
+221
+00:20:17,230 --> 00:20:19,140
+<font face="Segoe UI" size="62"><b>Mày nhìn cái gì hả?!</b></font>
+
+222
+00:20:20,690 --> 00:20:24,090
+<font face="Segoe UI" size="62"><b>Lain, cậu làm gì thế? Chạy mau đi! Nhanh lên!</b></font>
+
+223
+00:20:24,090 --> 00:20:25,410
+<font face="Segoe UI" size="62"><b>Lain ơi!</b></font>
+
+224
+00:20:26,530 --> 00:20:28,030
+<font face="Segoe UI" size="62"><b>Lain!</b></font>
+
+225
+00:20:28,030 --> 00:20:29,370
+<font face="Segoe UI" size="62"><b>Lain, xin cậu đấy!</b></font>
+
+226
+00:20:30,610 --> 00:20:32,310
+<font face="Segoe UI" size="62"><b>Cút đi!</b></font>
+
+227
+00:20:41,590 --> 00:20:44,640
+<font face="Segoe UI" size="62"><b>Tại sao các người lại ép tao phải làm chuyện này?!</b></font>
+
+228
+00:20:44,640 --> 00:20:48,260
+<font face="Segoe UI" size="62"><b>Các người lấy tư cách gì chứ?!</b></font>
+
+229
+00:20:48,260 --> 00:20:51,760
+<font face="Segoe UI" size="62"><b>Tao chỉ muốn đầu óc được thanh thản thôi mà!</b></font>
+
+230
+00:20:51,760 --> 00:20:54,810
+<font face="Segoe UI" size="62"><b>Tao không biết gì hết! Đừng lôi tao vào!</b></font>
+
+231
+00:20:54,810 --> 00:20:57,540
+<font face="Segoe UI" size="62"><b>Mày là thuộc hạ của vị Chúa phân rã đó...</b></font>
+
+232
+00:20:57,540 --> 00:21:00,280
+<font face="Segoe UI" size="62"><b>Tao không muốn dính líu gì hết! Một chút cũng không!</b></font>
+
+233
+00:21:00,280 --> 00:21:03,920
+<font face="Segoe UI" size="62"><b>The Wired không thể được phép can thiệp vào thế giới thực!</b></font>
+
+234
+00:21:03,920 --> 00:21:05,720
+<font face="Segoe UI" size="62"><b>Tao không muốn dính líu gì hết!</b></font>
+
+235
+00:21:05,720 --> 00:21:08,320
+<font face="Segoe UI" size="62"><b>Mày rốt cuộc là ai hả?!</b></font>
+
+236
+00:21:08,320 --> 00:21:10,160
+<font face="Segoe UI" size="62"><b>L-Lain...</b></font>
+
+237
+00:21:16,000 --> 00:21:18,030
+<font face="Segoe UI" size="62"><b>Tao không muốn dính dáng gì... Không muốn dính dáng gì hết...</b></font>
+
+238
+00:21:18,030 --> 00:21:21,590
+<font face="Segoe UI" size="62"><b>Không muốn... Tao không muốn... Không muốn dính dáng gì hết...</b></font>
+
+239
+00:21:21,590 --> 00:21:23,040
+<font face="Segoe UI" size="62"><b>Không muốn dính dáng...</b></font>
+
+240
+00:21:23,040 --> 00:21:24,910
+<font face="Segoe UI" size="62"><b>Không muốn...</b></font>
+
+241
+00:21:24,910 --> 00:21:26,050
+<font face="Segoe UI" size="62"><b>Không muốn bất cứ điều gì...</b></font>
+
+242
+00:21:26,050 --> 00:21:27,580
+<font face="Segoe UI" size="62"><b>Không muốn dính dáng gì nữa...</b></font>
+
+243
+00:21:27,790 --> 00:21:31,200
+<font face="Segoe UI" size="62"><b>Không muốn... Không muốn dính líu gì nữa...</b></font>
+
+244
+00:21:31,200 --> 00:21:32,270
+<font face="Segoe UI" size="62"><b>Tôi không muốn...</b></font>
+
+245
+00:21:32,640 --> 00:21:34,270
+<font face="Segoe UI" size="62"><b>Dù ở bất cứ nơi đâu,</b></font>
+
+246
+00:21:35,120 --> 00:21:38,100
+<font face="Segoe UI" size="62"><b>mọi người cũng đều kết nối.</b></font>
+
+247
+00:22:28,780 --> 00:22:37,580
+<font face="Segoe UI" size="70" color="#000000">{\an8}nan no tsumi mo nai hazu na no ni nanraka no batsu wo uketeru</font>
+
+248
+00:22:28,780 --> 00:22:37,580
+<font face="Segoe UI" size="70" color="#000000">Dẫu cho tôi chẳng hề vướng tội tình chi, giờ đây tôi vẫn đang chịu phạt</font>
+
+249
+00:22:37,580 --> 00:22:44,170
+<font face="Segoe UI" size="70" color="#000000">{\an8}jibun de maita tane de mo nai no ni</font>
+
+250
+00:22:37,580 --> 00:22:44,170
+<font face="Segoe UI" size="70" color="#000000">Chẳng phải tôi gieo những hạt giống ấy, nhưng dẫu vậy</font>
+
+251
+00:22:44,170 --> 00:22:50,340
+<font face="Segoe UI" size="70" color="#000000">{\an8}sakimidareta hana tsumasareru</font>
+
+252
+00:22:44,170 --> 00:22:50,340
+<font face="Segoe UI" size="70" color="#000000">Tôi vẫn phải nhổ đi những bông hoa nở ra từ chúng</font>
+
+253
+00:22:56,890 --> 00:23:01,520
+<font face="Segoe UI" size="70" color="#000000">{\an8}shiranai koto to mo ienai ga</font>
+
+254
+00:22:56,890 --> 00:23:01,520
+<font face="Segoe UI" size="70" color="#000000">Tôi chẳng thể bảo rằng mình không hay biết</font>
+
+255
+00:23:01,520 --> 00:23:05,980
+<font face="Segoe UI" size="70" color="#000000">{\an8}katabou katsuida oboe wa nai</font>
+
+256
+00:23:01,520 --> 00:23:05,980
+<font face="Segoe UI" size="70" color="#000000">Nhưng tôi chẳng nhớ mình từng nhúng tay vào</font>
+
+257
+00:23:05,980 --> 00:23:12,280
+<font face="Segoe UI" size="70" color="#000000">{\an8}jiyuu wo takaku kawasareta ki mo suru ga</font>
+
+258
+00:23:05,980 --> 00:23:12,280
+<font face="Segoe UI" size="70" color="#000000">Tôi nghĩ tự do đã khiến tôi trả giá quá đắt</font>
+
+259
+00:23:12,700 --> 00:23:19,620
+<font face="Segoe UI" size="70" color="#000000">{\an8}kokoro made yasuku utta oboe wa nai</font>
+
+260
+00:23:12,700 --> 00:23:19,620
+<font face="Segoe UI" size="70" color="#000000">Nhưng tôi đâu nhớ mình từng bán rẻ linh hồn như thế</font>
+
+261
+00:23:19,790 --> 00:23:27,630
+<font face="Segoe UI" size="70" color="#000000">{\an8}hey hey kutabatte osaraba suru made</font>
+
+262
+00:23:19,790 --> 00:23:27,630
+<font face="Segoe UI" size="70" color="#000000">Này... cho đến khi tôi chết đi và nói lời vĩnh biệt...</font>
+
+263
+00:23:28,510 --> 00:23:37,390
+<font face="Segoe UI" size="70" color="#000000">{\an8}hey hey dare no te ni mo kakaranai</font>
+
+264
+00:23:28,510 --> 00:23:37,390
+<font face="Segoe UI" size="70" color="#000000">Này... sẽ chẳng ai có thể chạm vào tôi</font>
+
+265
+00:23:38,770 --> 00:23:42,980
+<font face="Segoe UI" size="70" color="#000000">{\an8}tooi yoru wo urotsuiteiru</font>
+
+266
+00:23:38,770 --> 00:23:42,980
+<font face="Segoe UI" size="70" color="#000000">Có lẽ các người chẳng hề hay biết</font>
+
+267
+00:23:42,980 --> 00:23:51,990
+<font face="Segoe UI" size="70" color="#000000">{\an8}shiranai darou eien no narazu monotachi wo</font>
+
+268
+00:23:42,980 --> 00:23:51,990
+<font face="Segoe UI" size="70" color="#000000">về những kẻ ngoài vòng pháp luật vĩnh cửu rảo bước trong đêm xa xăm</font>
+
