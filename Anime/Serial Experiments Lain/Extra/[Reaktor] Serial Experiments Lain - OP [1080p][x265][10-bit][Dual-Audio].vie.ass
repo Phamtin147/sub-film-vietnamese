@@ -1,0 +1,53 @@
+﻿[Script Info]
+Title: Serial Experiments Lain - Opening "Duvet" (Bōa)
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1520
+PlayResY: 1080
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Segoe UI,62,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,95,100,0,0,1,3.0,1.0,2,30,30,30,1
+Style: Time,Segoe UI,101,&H000E1EB9,&H000000FF,&H962567FF,&H962567FF,0,0,0,0,100,100,30,0,1,5.0,2.0,1,15,15,15,1
+Style: Time Shadow,Segoe UI,101,&H501366FF,&H000000FF,&H321227E3,&H96288BFF,0,0,0,0,100,100,30,0,1,0,1.0,1,15,15,15,1
+Style: OPL,Segoe UI,55,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,85,100,0,0,1,3.0,1.0,7,40,40,25,1
+Style: OPR,Segoe UI,55,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,85,100,0,0,1,3.0,1.0,9,40,40,25,1
+Style: OPL Vie,Segoe UI,62,&H00FFFFFF,&H000000FF,&H00181A28,&H00000000,-1,0,0,0,95,100,0,0,1,3.5,1.2,1,40,40,35,1
+Style: OPR Vie,Segoe UI,62,&H00FFFFFF,&H000000FF,&H00181A28,&H00000000,-1,0,0,0,95,100,0,0,1,3.5,1.2,3,40,40,35,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.66,0:00:04.64,Time,,0,0,0,,{\be10\pos(115,700)}Thời hiện tại
+Dialogue: 0,0:00:01.66,0:00:04.64,Time Shadow,,0,0,0,,{\be5\pos(116,702)}Thời hiện tại
+Dialogue: 0,0:00:04.35,0:00:07.59,Time,,0,0,0,,{\be10\pos(620,1033)}Khoảnh khắc hiện tại
+Dialogue: 0,0:00:04.35,0:00:07.59,Time Shadow,,0,0,0,,{\be5\pos(621,1034)}Khoảnh khắc hiện tại
+Dialogue: 0,0:00:16.01,0:00:22.34,OPL,,0,0,0,,{\fad(600,600)}And you don't seem to understand
+Dialogue: 0,0:00:16.01,0:00:22.34,OPL Vie,,0,0,0,,{\fad(600,600)}Và dường như anh chẳng thể hiểu thấu
+Dialogue: 0,0:00:21.09,0:00:27.54,OPR,,0,0,0,,{\fad(600,600)}A shame you seemed an honest man
+Dialogue: 0,0:00:21.09,0:00:27.54,OPR Vie,,0,0,0,,{\fad(600,600)}Thật tiếc thay khi anh từng là người chân thật
+Dialogue: 0,0:00:25.79,0:00:32.29,OPL,,0,0,0,,{\fad(600,600)}And all the fears you hold so dear
+Dialogue: 0,0:00:25.79,0:00:32.29,OPL Vie,,0,0,0,,{\fad(600,600)}Và mọi nỗi sợ anh hằng ôm giữ
+Dialogue: 0,0:00:30.92,0:00:37.56,OPR,,0,0,0,,{\fad(600,600)}Will turn to whisper in your ear
+Dialogue: 0,0:00:30.92,0:00:37.56,OPR Vie,,0,0,0,,{\fad(600,600)}Sẽ hóa thành lời thì thầm bên tai
+Dialogue: 0,0:00:36.39,0:00:40.96,OPL,,0,0,0,,{\fad(600,600)}And you know what they say might hurt you
+Dialogue: 0,0:00:36.39,0:00:40.96,OPL Vie,,0,0,0,,{\fad(600,600)}Anh biết những gì họ nói có thể làm anh tổn thương
+Dialogue: 0,0:00:39.13,0:00:43.43,OPR,,0,0,0,,{\fad(600,600)}And you know that it means so much
+Dialogue: 0,0:00:39.13,0:00:43.43,OPR Vie,,0,0,0,,{\fad(600,600)}Và anh biết điều đó quan trọng đến nhường nào
+Dialogue: 0,0:00:41.69,0:00:48.19,OPL,,0,0,0,,{\fad(600,600)}And you don't even feel a thing
+Dialogue: 0,0:00:41.69,0:00:48.19,OPL Vie,,0,0,0,,{\fad(600,600)}Nhưng anh thậm chí chẳng cảm nhận được gì
+Dialogue: 0,0:00:46.89,0:00:53.85,OPR,,0,0,0,,{\fad(600,600)}I am falling, I am fading
+Dialogue: 0,0:00:46.89,0:00:53.85,OPR Vie,,0,0,0,,{\fad(600,600)}Tôi đang rơi, tôi đang dần tan biến
+Dialogue: 0,0:00:52.04,0:00:57.97,OPL,,0,0,0,,{\fad(600,600)}I have lost it all
+Dialogue: 0,0:00:52.04,0:00:57.97,OPL Vie,,0,0,0,,{\fad(600,600)}Tôi đã đánh mất tất cả
+Dialogue: 0,0:01:16.72,0:01:25.99,OPL,,0,0,0,,{\fad(600,600)}I am falling, I am fading, I am drowning
+Dialogue: 0,0:01:16.72,0:01:25.99,OPL Vie,,0,0,0,,{\fad(600,600)}Tôi đang rơi, đang tan biến, đang chìm dần
+Dialogue: 0,0:01:24.44,0:01:28.63,OPR,,0,0,0,,{\fad(600,600)}Help me to breathe
+Dialogue: 0,0:01:24.44,0:01:28.63,OPR Vie,,0,0,0,,{\fad(600,600)}Hãy giúp tôi thở...
+Dialogue: 0,0:01:26.66,0:01:33.84,OPL,,0,0,0,,{\fad(600,600)}I am hurting, I have lost it all
+Dialogue: 0,0:01:26.66,0:01:33.84,OPL Vie,,0,0,0,,{\fad(600,600)}Tôi đau đớn, tôi đã mất tất cả
+Dialogue: 0,0:01:32.20,0:01:36.38,OPR,,0,0,0,,{\fad(600,600)}I am losing
+Dialogue: 0,0:01:32.20,0:01:36.38,OPR Vie,,0,0,0,,{\fad(600,600)}Tôi đang dần đánh mất...
+Dialogue: 0,0:01:34.77,0:01:40.58,OPL,,0,0,0,,{\fad(600,600)}Help me to breathe
+Dialogue: 0,0:01:34.77,0:01:40.58,OPL Vie,,0,0,0,,{\fad(600,600)}Hãy giúp tôi thở...
