@@ -1,0 +1,215 @@
+﻿[Script Info]
+Title: Vietnamese Fansub (VietSub by Amtia(NOFACE))
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1280
+PlayResY: 720
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Segoe UI,40,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0,2,20,20,20,1
+Style: Q0,Segoe UI,44,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: Q1,Segoe UI,27,&H00009BE2,&H00009BE2,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,20,20,20,1
+Style: Q2,Segoe UI,52,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: Q3,Segoe UI,52,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:00:04.00,0:00:06.58,Q0,,0,0,0,,Làm đi! Mau làm tới luôn đi!
+Dialogue: 1,0:00:06.58,0:00:09.29,Q0,,0,0,0,,Khóa chặt mục tiêu rồi đó!
+Dialogue: 1,0:00:09.29,0:00:12.21,Q0,,0,0,0,,Làm đi! Mau làm tới luôn đi!
+Dialogue: 1,0:00:12.21,0:00:14.83,Q0,,0,0,0,,Khóa chặt mục tiêu rồi đó!
+Dialogue: 1,0:00:15.00,0:00:17.75,Q0,,0,0,0,,Mềm nhũn cả người, thích ghê, mê thật đấy
+Dialogue: 1,0:00:17.75,0:00:20.38,Q0,,0,0,0,,Một khi đã thèm thì cứ nhào vô mà húp
+Dialogue: 1,0:00:20.38,0:00:23.42,Q0,,0,0,0,,Ráng mà kìm nén là nổ tung cho coi
+Dialogue: 1,0:00:23.42,0:00:24.79,Q0,,0,0,0,,Bảo là đang đùa với cưng thôi á?
+Dialogue: 1,0:00:24.79,0:00:25.92,Q0,,0,0,0,,Không đâu, nói nghiêm túc đấy!
+Dialogue: 1,0:00:26.17,0:00:28.88,Q0,,0,0,0,,Ai ai cũng làm, ai nấy đều mần cả thôi
+Dialogue: 1,0:00:28.88,0:00:30.13,Q0,,0,0,0,,Làm á? Mần gì cơ?
+Dialogue: 1,0:00:30.13,0:00:31.25,Q0,,0,0,0,,Làm cái gì mới được chứ?!
+Dialogue: 1,0:00:31.54,0:00:32.83,Q0,,0,0,0,,Làm chuyện gì đó đi nào
+Dialogue: 1,0:00:32.83,0:00:34.38,Q0,,0,0,0,,Một khi đã bắt đầu rồi
+Dialogue: 1,0:00:34.38,0:00:37.13,Q0,,0,0,0,,Sẽ là chuyến phiêu lưu tuôn trào đầy nguy hiểm
+Dialogue: 1,0:00:37.13,0:00:38.21,Q0,,0,0,0,,Làm cái chi cơ?
+Dialogue: 1,0:00:38.21,0:00:39.92,Q0,,0,0,0,,Mỗi khi miệng bảo chẳng thèm quan tâm
+Dialogue: 1,0:00:39.92,0:00:42.79,Q0,,0,0,0,,Là trong lòng lại muốn nhào vô quất liền đúng không?
+Dialogue: 1,0:00:42.79,0:00:43.92,Q0,,0,0,0,,Làm chuyện gì đó đi mà
+Dialogue: 1,0:00:43.92,0:00:45.38,Q0,,0,0,0,,Rồi sau đó thì sao nè?
+Dialogue: 1,0:00:45.38,0:00:46.63,Q0,,0,0,0,,Làm chuyện gì đó đi nào
+Dialogue: 1,0:00:46.63,0:00:48.13,Q0,,0,0,0,,Tới lúc đó bọn mình sẽ làm gì?
+Dialogue: 1,0:00:48.13,0:00:50.29,Q0,,0,0,0,,Giờ tính sao? Phải làm tới bến thôi
+Dialogue: 1,0:00:50.29,0:00:52.88,Q0,,0,0,0,,Đúng không nè? Tới luôn đi chứ!
+Dialogue: 1,0:00:52.88,0:00:54.13,Q0,,0,0,0,,Chiến luôn đi nào!
+Dialogue: 1,0:00:54.13,0:00:56.38,Q0,,0,0,0,,Làm đi! Mau làm tới luôn đi!
+Dialogue: 1,0:00:56.38,0:00:58.83,Q0,,0,0,0,,Khóa chặt mục tiêu rồi đó!
+Dialogue: 1,0:01:11.46,0:01:14.29,Q2,,0,0,0,,Nhiệm vụ lần này là thảo phạt bầy orc.
+Dialogue: 1,0:01:15.38,0:01:18.92,Q2,,0,0,0,,Có nhiều thương nhân buôn chuyến đã bị tấn công \Nvà chịu thiệt hại dọc theo tuyến xa lộ.
+Dialogue: 1,0:01:18.92,0:01:22.42,Q2,,0,0,0,,Theo các báo cáo thì \Nnó chỉ là một nhóm orc nhỏ thôi mà.
+Dialogue: 1,0:01:23.29,0:01:24.63,Q2,,0,0,0,,Thế quái nào mà chuyện này...
+Dialogue: 1,0:01:25.42,0:01:28.25,Q2,,0,0,0,,lại là một nhóm nhỏ chứ?!
+Dialogue: 1,0:01:30.04,0:01:32.92,Q2,,0,0,0,,Đã thế chuyện đó còn xảy ra với Haru nữa!
+Dialogue: 1,0:01:33.42,0:01:35.04,Q2,,0,0,0,,Ái dà!
+Dialogue: 1,0:01:35.79,0:01:37.71,Q2,,0,0,0,,Trước mắt cứ lo cắm đầu chạy thoát thân đã!
+Dialogue: 1,0:01:38.21,0:01:40.29,Q2,,0,0,0,,Tôi sẽ dùng ma pháp cầm chân vài con!
+Dialogue: 1,0:01:40.29,0:01:41.54,Q2,,0,0,0,,Hãy nhân cơ hội đó mà trốn thoát đi!
+Dialogue: 1,0:01:44.71,0:01:45.83,Q2,,0,0,0,,Amona?!
+Dialogue: 1,0:01:50.04,0:01:53.54,Q2,,0,0,0,,Amona!
+Dialogue: 1,0:02:04.13,0:02:06.13,Q2,,0,0,0,,Mình đã không thể cứu được Amona...
+Dialogue: 1,0:02:06.13,0:02:08.83,Q2,,0,0,0,,Trong tình cảnh ngặt nghèo đó \Nchúng ta cũng đâu còn cách nào khác.
+Dialogue: 1,0:02:09.71,0:02:12.33,Q2,,0,0,0,,Dù nói ra điều này thật khó chấp nhận,
+Dialogue: 1,0:02:12.33,0:02:16.00,Q2,,0,0,0,,nhưng loài orc thường không giết hại phụ nữ ngay đâu.
+Dialogue: 1,0:02:16.75,0:02:19.33,Q2,,0,0,0,,Chúng ta vẫn còn cơ hội giải cứu cô ấy.
+Dialogue: 1,0:02:20.67,0:02:21.46,Q2,,0,0,0,,Amona... và lũ orc sao...?
+Dialogue: 1,0:02:21.46,0:02:22.83,Q2,,0,0,0,,Amona... và lũ orc...?
+Dialogue: 1,0:02:21.46,0:02:22.83,Q3,,0,0,0,,D-Dừng lại đi mà...
+Dialogue: 1,0:02:22.83,0:02:23.50,Q2,,0,0,0,,Amona... và lũ orc...?
+Dialogue: 1,0:02:33.00,0:02:34.25,Q2,,0,0,0,,Roni à...
+Dialogue: 1,0:02:34.54,0:02:38.38,Q2,,0,0,0,,Tớ biết chuyện này thật đau đớn, \Nnhưng chúng ta phải trấn tĩnh lại để...
+Dialogue: 1,0:02:45.13,0:02:46.42,Q2,,0,0,0,,Đồ cặn bã này!
+Dialogue: 1,0:02:48.63,0:02:52.25,Q2,,0,0,0,,Đồng đội đang gặp nguy khốn, \Nsao đũng quần cậu lại dựng đứng lên thế hả?!
+Dialogue: 1,0:02:52.25,0:02:57.21,Q2,,0,0,0,,Không phải đâu, cậu thấy đấy, đây là do ngọn lửa căm hờn \Nhừng hực đối với lũ orc đấy chứ!
+Dialogue: 1,0:02:58.79,0:03:01.63,Q2,,0,0,0,,Amona, cầu xin em hãy bình an vô sự...
+Dialogue: 1,0:03:06.00,0:03:07.75,Q2,,0,0,0,,Nào nào...
+Dialogue: 1,0:03:07.75,0:03:11.92,Q2,,0,0,0,,Hãy bắt đầu bữa tiệc chào mừng \Ndành cho tiểu thư Amona thôi nào!
+Dialogue: 1,0:03:11.92,0:03:13.50,Q2,,0,0,0,,Hoan hô!
+Dialogue: 1,0:03:14.38,0:03:17.13,Q2,,0,0,0,,Ủa? Nàng không định cùng chung vui sao?
+Dialogue: 1,0:03:17.13,0:03:19.75,Q2,,0,0,0,,Nàng đang cảm thấy căng thẳng ư, tiểu thư Amona?
+Dialogue: 1,0:03:20.13,0:03:24.63,Q2,,0,0,0,,Tôi chỉ cứ ngỡ loài orc phải man rợ hơn nhiều...
+Dialogue: 1,0:03:24.63,0:03:27.13,Q2,,0,0,0,,Ý tôi là... bạo lực và thô bạo hơn ấy.
+Dialogue: 1,0:03:28.33,0:03:31.25,Q2,,0,0,0,,Đúng vậy, ngoài kia đầy rẫy những định kiến như thế, phải không nào?
+Dialogue: 1,0:03:31.25,0:03:33.79,Q2,,0,0,0,,Có lẽ cũng có những gã orc mọi rợ như vậy thật,
+Dialogue: 1,0:03:33.79,0:03:36.21,Q2,,0,0,0,,nhưng chúng tôi không hề muốn bị đánh đồng với cái lũ đó.
+Dialogue: 1,0:03:36.21,0:03:39.08,Q2,,0,0,0,,Phải đấy, người đời toàn đồn đại \Nchúng tôi hay gầm gừ những câu kiểu:
+Dialogue: 1,0:03:39.08,0:03:42.25,Q2,,0,0,0,,"Khịt khịt, bọn tao sẽ biến mày \Nthành bồn chứa tinh sướng của riêng tao!"
+Dialogue: 1,0:03:42.25,0:03:45.13,Q2,,0,0,0,,Chúng tôi đâu có lỗ mãng hạ đẳng đến mức đó.
+Dialogue: 1,0:03:45.13,0:03:48.83,Q2,,0,0,0,,Chúng tôi chỉ chân thành muốn tìm hiểu \Nvà hiểu rõ nàng hơn thôi, tiểu thư Amona.
+Dialogue: 1,0:03:48.83,0:03:50.54,Q2,,0,0,0,,R-Ra là vậy sao...
+Dialogue: 1,0:03:52.25,0:03:55.29,Q2,,0,0,0,,Dù sao đi nữa, có vẻ như \Nchúng sẽ không đụng tay đụng chân ngay.
+Dialogue: 1,0:03:55.29,0:03:59.67,Q2,,0,0,0,,Mình sẽ cứ tiếp tục tán gẫu để câu giờ \Ncho Imp có cơ hội...
+Dialogue: 1,0:03:59.67,0:04:00.54,Q2,,0,0,0,,Được rồi!
+Dialogue: 1,0:04:00.54,0:04:02.38,Q2,,0,0,0,,...đi tìm viện binh cứu viện!
+Dialogue: 1,0:04:07.54,0:04:08.67,Q2,,0,0,0,,Haru!
+Dialogue: 1,0:04:08.67,0:04:10.04,Q2,,0,0,0,,May quá đi mất.
+Dialogue: 1,0:04:10.04,0:04:11.42,Q2,,0,0,0,,Cậu có bị thương tích gì không?
+Dialogue: 1,0:04:11.42,0:04:14.04,Q2,,0,0,0,,Không. Chuyện gì thế...?
+Dialogue: 1,0:04:14.29,0:04:17.25,Q2,,0,0,0,,Tụi tớ đã gặp rắc rối lớn \Nkhi bị lũ orc bao vây tứ phía.
+Dialogue: 1,0:04:17.25,0:04:20.13,Q2,,0,0,0,,Nhưng hiện tại chúng ta có một vấn đề còn nan giải hơn...
+Dialogue: 1,0:04:21.63,0:04:23.33,Q2,,0,0,0,,Bọn chúng bắt mất Amona rồi á?!
+Dialogue: 1,0:04:23.67,0:04:25.29,Q2,,0,0,0,,Tớ thực sự xin lỗi hai cậu!
+Dialogue: 1,0:04:25.29,0:04:28.83,Q2,,0,0,0,,Không thể tin nổi chuyện tồi tệ đó \Nlại xảy ra trong lúc tớ bất tỉnh...
+Dialogue: 1,0:04:28.83,0:04:31.71,Q2,,0,0,0,,Dù sao thì chúng ta phải lập tức tìm ra sào huyệt của lũ orc.
+Dialogue: 1,0:04:42.21,0:04:43.29,Q2,,0,0,0,,Này.
+Dialogue: 1,0:04:47.00,0:04:49.63,Q2,,0,0,0,,Ác nhân thật đấy, tự dưng không nói không rằng lại vung kiếm chém người ta!
+Dialogue: 1,0:04:49.63,0:04:54.38,Q2,,0,0,0,,Xin lỗi nha! Tớ đâu biết \Ncậu lại biến hình thành dạng đó được hả Imp!
+Dialogue: 1,0:04:54.71,0:04:57.96,Q2,,0,0,0,,Khoan đã, Amona không đi cùng cậu sao?
+Dialogue: 1,0:04:58.21,0:04:59.42,Q2,,0,0,0,,Đúng vậy.
+Dialogue: 1,0:04:59.42,0:05:02.58,Q2,,0,0,0,,Tôi đã cải trang thành một gã orc \Nđể lẻn ra ngoài tìm viện binh.
+Dialogue: 1,0:05:02.58,0:05:04.71,Q2,,0,0,0,,Nhưng lũ orc lại bắt đầu nảy sinh nghi ngờ,
+Dialogue: 1,0:05:04.71,0:05:08.00,Q2,,0,0,0,,nên tôi đành kể cho chúng nghe truyền thuyết Công Chúa Chuyển Giới, \Nai ngờ câu chuyện lại được bọn chúng hưởng ứng nhiệt liệt đến thế.
+Dialogue: 1,0:05:08.00,0:05:10.21,Q2,,0,0,0,,À, Công Chúa Chuyển Giới là câu chuyện về
+Dialogue: 1,0:05:10.21,0:05:13.29,Q2,,0,0,0,,một gã hoàng tử kiêu ngạo bị ma pháp \Nbiến thành một thiếu nữ kiều diễm,
+Dialogue: 1,0:05:13.29,0:05:16.00,Q2,,0,0,0,,để rồi sau đó khám phá ra khoái cảm đê mê \Nkhi trở thành một cô hầu gái phục tùng...
+Dialogue: 1,0:05:16.00,0:05:18.25,Q2,,0,0,0,,Dẹp mấy cái nhảm nhí đó sang một bên đi! \NMau dẫn đường cho bọn này ngay!
+Dialogue: 1,0:05:18.25,0:05:19.54,Q2,,0,0,0,,Amona...
+Dialogue: 1,0:05:21.50,0:05:25.13,Q2,,0,0,0,,Bọn anh đang tới cứu em đây, Amona!
+Dialogue: 1,0:05:25.13,0:05:26.42,Q2,,0,0,0,,Ừ!
+Dialogue: 1,0:05:27.88,0:05:29.50,Q2,,0,0,0,,Cơ mà nói thật lòng nhé...
+Dialogue: 1,0:05:29.50,0:05:33.38,Q2,,0,0,0,,cái tên Roni đó đúng là đồ hèn nhát không có bản lĩnh đàn ông!
+Dialogue: 1,0:05:36.21,0:05:40.00,Q2,,0,0,0,,Bề ngoài tỏ vẻ nghiêm túc đạo mạo, \Nthế mà bên trong lại là một tên biến thái mê gái thỏ,
+Dialogue: 1,0:05:40.00,0:05:42.29,Q2,,0,0,0,,đã vậy còn để người phụ nữ trong quá khứ \Nxỏ mũi lừa gạt ngọt xớt!
+Dialogue: 1,0:05:42.29,0:05:44.58,Q2,,0,0,0,,Thật không thể nào tin nổi!
+Dialogue: 1,0:05:44.58,0:05:47.00,Q2,,0,0,0,,Hắn ta đúng là nỗi sỉ nhục của cánh đàn ông chúng tôi!
+Dialogue: 1,0:05:47.00,0:05:51.13,Q2,,0,0,0,,Cái tên Roni đó đáng lẽ phải nhận thức rõ hơn \Nvề nét quyến rũ chết người của nàng chứ, tiểu thư Amona!
+Dialogue: 1,0:05:51.13,0:05:53.50,Q2,,0,0,0,,Ý tôi là, phớt lờ một cô gái đáng yêu dường này...
+Dialogue: 1,0:05:53.50,0:05:57.63,Q2,,0,0,0,,Chúng tôi hiểu tường tận \Nnàng tuyệt vời đến nhường nào mà, tiểu thư Amona!
+Dialogue: 1,0:05:57.63,0:05:59.38,Q2,,0,0,0,,Th-Thật vậy sao...?
+Dialogue: 1,0:05:59.71,0:06:03.75,Q2,,0,0,0,,Có vẻ như ta cũng đã nhìn nhận sai về loài orc các ngươi rồi.
+Dialogue: 1,0:06:03.75,0:06:06.29,Q2,,0,0,0,,Ta cứ đinh ninh các ngươi sẽ cưỡng bức, \Nchà đạp ta ngay sau khi bắt được chứ.
+Dialogue: 1,0:06:07.67,0:06:09.79,Q2,,0,0,0,,Hả? Thì bọn này vẫn sẽ làm thế mà.
+Dialogue: 1,0:06:09.79,0:06:10.88,Q2,,0,0,0,,Dạ?!
+Dialogue: 1,0:06:11.54,0:06:15.67,Q2,,0,0,0,,Lao vào mần thịt người ta ngay khi vừa bắt được \Nthì còn gì là phong thái nho nhã lịch thiệp nữa.
+Dialogue: 1,0:06:15.67,0:06:18.79,Q2,,0,0,0,,Lắng nghe tâm tư và hoàn cảnh quá khứ của một cô gái
+Dialogue: 1,0:06:18.79,0:06:21.33,Q2,,0,0,0,,sẽ giúp ta thấu hiểu \Nvà trân trọng nàng hơn dưới tư cách một con người.
+Dialogue: 1,0:06:21.33,0:06:26.54,Q2,,0,0,0,,Rồi sau đó, chúng ta vừa tưởng tượng về cuộc đời nàng, \Nvừa vấy bẩn nàng tơi bời hoa lá...
+Dialogue: 1,0:06:26.54,0:06:29.75,Q2,,0,0,0,,Cảm giác đó phê không thể tả xiết!
+Dialogue: 1,0:06:31.54,0:06:33.54,Q2,,0,0,0,,Nào, ta nghĩ thời khắc chín muồi đã đến rồi đấy...
+Dialogue: 1,0:06:33.54,0:06:35.08,Q2,,0,0,0,,Vậy là sắp được chiến rồi sao?
+Dialogue: 1,0:06:35.08,0:06:39.13,Q2,,0,0,0,,Khịt khịt, bọn tao sẽ biến mày \Nthành bồn chứa tinh sướng của riêng tao!
+Dialogue: 1,0:06:44.83,0:06:47.67,Q2,,0,0,0,,Tiếng thét đó... Là Amona!
+Dialogue: 1,0:06:47.67,0:06:50.38,Q2,,0,0,0,,Đồ ngốc này! Đừng có một mình lao bừa vào trong đó!
+Dialogue: 1,0:06:54.54,0:06:57.25,Q2,,0,0,0,,Cút hết ra khỏi đường đi của tao!
+Dialogue: 1,0:06:58.21,0:06:59.83,Q2,,0,0,0,,Đau quá đi mất!
+Dialogue: 1,0:07:01.88,0:07:04.25,Q2,,0,0,0,,Khốn kiếp! Con ả đang niệm ma pháp tấn công chúng ta kìa!
+Dialogue: 1,0:07:04.25,0:07:06.08,Q2,,0,0,0,,Mau đè ả xuống trước khi ả kịp thi triển lần nữa!
+Dialogue: 1,0:07:06.08,0:07:08.75,Q2,,0,0,0,,Không có ma đạo thư bên cạnh, \Nsức mạnh của mình chỉ phát huy được chừng này thôi sao?
+Dialogue: 1,0:07:08.75,0:07:11.08,Q2,,0,0,0,,Ư... Không ngờ mình lại để \Nlũ hạ đẳng này chế ngự được...
+Dialogue: 1,0:07:11.54,0:07:14.08,Q2,,0,0,0,,Khịt... khịt...
+Dialogue: 1,0:07:14.08,0:07:16.58,Q2,,0,0,0,,Khịt!
+Dialogue: 1,0:07:18.63,0:07:20.38,Q2,,0,0,0,,Thằng quái nào thế này?!
+Dialogue: 1,0:07:20.38,0:07:22.29,Q2,,0,0,0,,Lũ lính canh gác ngoài cửa ngủ gật hết rồi hay sao?!
+Dialogue: 1,0:07:22.29,0:07:24.88,Q2,,0,0,0,,Chúng nó còn đang bận rộn chống đỡ \Nvới rắc rối to lớn hơn ngoài kia kìa!
+Dialogue: 1,0:07:27.63,0:07:29.46,Q2,,0,0,0,,C-Cái gì cơ...?
+Dialogue: 1,0:07:37.63,0:07:39.75,Q2,,0,0,0,,Đồng bọn của con ả xông vào rồi!
+Dialogue: 1,0:07:41.04,0:07:42.29,Q2,,0,0,0,,Roni!
+Dialogue: 1,0:07:46.38,0:07:48.29,Q2,,0,0,0,,Cái quái gì thế kia?! Sao đũng quần thằng này lại cương cứng ngắc như cột đình vậy?!
+Dialogue: 1,0:07:48.29,0:07:50.29,Q2,,0,0,0,,Chuẩn cơm mẹ nấu rồi!
+Dialogue: 1,0:07:55.38,0:07:59.33,Q2,,0,0,0,,Th-Thằng này là một tên biến thái \Nđạt khoái cảm tột đỉnh khi đập bầm dập loài orc!
+Dialogue: 1,0:07:59.33,0:08:01.25,Q2,,0,0,0,,Kinh tởm quá, đến dị hợm như bọn mình mà còn không chịu nổi nhiệt!
+Dialogue: 1,0:08:01.25,0:08:02.42,Q2,,0,0,0,,Chạy mau bà con ơi!
+Dialogue: 1,0:08:03.38,0:08:05.42,Q2,,0,0,0,,Hắn tính phá trinh tất cả bọn mình đấy!
+Dialogue: 1,0:08:08.29,0:08:09.42,Q2,,0,0,0,,Amona!
+Dialogue: 1,0:08:09.42,0:08:10.79,Q2,,0,0,0,,Em có sao không?!
+Dialogue: 1,0:08:10.79,0:08:12.79,Q2,,0,0,0,,Bọn chúng chưa làm gì em chứ?!
+Dialogue: 1,0:08:12.79,0:08:15.71,Q2,,0,0,0,,A, anh đến đúng lúc lắm! Anh đã cứu...
+Dialogue: 1,0:08:17.67,0:08:20.00,Q2,,0,0,0,,Chà xát, chà xát! Cạ cạ!
+Dialogue: 1,0:08:22.25,0:08:24.04,Q2,,0,0,0,,K-Không, em hiểu lầm rồi!
+Dialogue: 1,0:08:24.04,0:08:26.75,Q2,,0,0,0,,Chuyện này không phải do anh \Ntưởng tượng ra những điều dâm dục đâu!
+Dialogue: 1,0:08:27.42,0:08:30.54,Q2,,0,0,0,,Roni bé bỏng, đồ ngốc nhà anh!
+Dialogue: 1,0:08:32.25,0:08:33.46,Q2,,0,0,0,,Mà cũng chẳng sao cả.
+Dialogue: 1,0:08:33.46,0:08:38.42,Q2,,0,0,0,,Sao anh không tự mình thử nghiệm tất cả \Nnhững thứ dâm ô mà anh vừa tưởng tượng đi?
+Dialogue: 1,0:08:42.46,0:08:45.46,Q2,,0,0,0,,Đồ dâm tặc...
+Dialogue: 1,0:08:51.29,0:08:52.42,Q2,,0,0,0,,Đây này!
+Dialogue: 1,0:08:59.96,0:09:01.58,Q2,,0,0,0,,Ồ... hở?
+Dialogue: 1,0:09:01.58,0:09:04.08,Q2,,0,0,0,,Hóa ra trong đầu anh đang tơ tưởng \Nđến mấy trò đồi bại kiểu này sao?
+Dialogue: 1,0:09:04.08,0:09:07.79,Q2,,0,0,0,,Xem ra suy nghĩ của anh \Nlúc nào cũng bất kính và báng bổ thân phận mục sư y như mọi khi!
+Dialogue: 1,0:09:08.08,0:09:09.13,Q2,,0,0,0,,Amona...!
+Dialogue: 1,0:09:09.33,0:09:10.75,Q2,,0,0,0,,Amona...!
+Dialogue: 1,0:09:10.75,0:09:14.50,Q2,,0,0,0,,Thôi nào, anh đang hưng phấn \Nquá đà rồi đấy nhé.
+Dialogue: 1,0:09:15.00,0:09:17.58,Q2,,0,0,0,,Bộ dạng anh lúc này \Nchẳng khác gì lũ orc ngoài kia đâu.
+Dialogue: 1,0:09:17.88,0:09:18.96,Q2,,0,0,0,,Khịt?!
+Dialogue: 1,0:09:21.46,0:09:23.75,Q2,,0,0,0,,Khịt!
+Dialogue: 1,0:09:30.25,0:09:32.33,Q2,,0,0,0,,N-Này, bình tĩnh lại đi...!
+Dialogue: 1,0:09:33.75,0:09:35.75,Q2,,0,0,0,,Chà xát, chà xát! Cạ cạ!
+Dialogue: 1,0:09:36.29,0:09:37.50,Q2,,0,0,0,,Này!
+Dialogue: 1,0:09:37.50,0:09:41.00,Q2,,0,0,0,,Thúc mạnh! Thúc mạnh nữa đi!
+Dialogue: 1,0:09:41.00,0:09:43.00,Q2,,0,0,0,,Thúc mạnh lên!
+Dialogue: 1,0:09:46.29,0:09:48.63,Q2,,0,0,0,,Là một con orc thực thụ...!
+Dialogue: 1,0:10:05.63,0:10:08.08,Q2,,0,0,0,,C-Cái quái gì thế này?!
+Dialogue: 1,0:10:08.08,0:10:11.04,Q2,,0,0,0,,Kích cỡ của nó còn khủng hơn cả bình thường nữa...!
+Dialogue: 1,0:10:14.67,0:10:16.08,Q2,,0,0,0,,Thế này thì chịu sao thấu!
+Dialogue: 1,0:10:18.38,0:10:21.29,Q2,,0,0,0,,Roni... n-nữa đi anh...!
+Dialogue: 1,0:10:21.79,0:10:23.00,Q2,,0,0,0,,Amona!
+Dialogue: 1,0:10:23.29,0:10:24.79,Q2,,0,0,0,,Amona!
+Dialogue: 1,0:10:35.79,0:10:36.67,Q2,,0,0,0,,Amona!
+Dialogue: 1,0:10:36.67,0:10:38.29,Q2,,0,0,0,,Roni! Hai cậu có bình an vô sự không?!
+Dialogue: 1,0:10:42.00,0:10:43.83,Q2,,0,0,0,,Tụi mình không sao đâu, các cậu.
+Dialogue: 1,0:10:43.83,0:10:46.67,Q2,,0,0,0,,Chẳng có chuyện gì nghiêm trọng xảy ra với tớ hay Amona cả.
+Dialogue: 1,0:10:50.83,0:10:53.58,Q2,,0,0,0,,May quá, cậu không sao là mừng rồi, Amona!
+Dialogue: 1,0:10:53.58,0:10:54.79,Q2,,0,0,0,,Không sao ư...?
+Dialogue: 1,0:10:55.25,0:10:57.79,Q2,,0,0,0,,Cái tình cảnh vừa rồi mà cậu gọi là "không sao" đấy à...?
+Dialogue: 1,0:11:07.50,0:11:09.67,Q0,,0,0,0,,Yêu hay là ghét? Em cũng chẳng rõ nữa
+Dialogue: 1,0:11:09.67,0:11:11.79,Q0,,0,0,0,,Em đang khao khát điều chi?\NEm chỉ muốn mãi được ở bên cạnh anh
+Dialogue: 1,0:11:11.79,0:11:15.79,Q0,,0,0,0,,Chẳng bao giờ muốn buông lơi hơi ấm dịu dàng ấy
+Dialogue: 1,0:11:16.75,0:11:21.21,Q0,,0,0,0,,Vẫn còn quá sớm ư? Em muốn được thấy anh,\Nmuốn thấu hiểu những cảm xúc chất chứa này
+Dialogue: 1,0:11:21.21,0:11:24.63,Q0,,0,0,0,,Nhưng lúc này vẫn chưa phải lúc trao nhau nụ hôn
+Dialogue: 1,0:11:26.13,0:11:28.38,Q0,,0,0,0,,Liệu hai đứa mình cứ mãi như thế này có được không?
+Dialogue: 1,0:11:28.38,0:11:30.71,Q0,,0,0,0,,Chỉ chạm khẽ vào nhau thôi há chẳng đủ sao?
+Dialogue: 1,0:11:30.71,0:11:34.71,Q0,,0,0,0,,Em đã ôm trọn lấy anh trong khoảnh khắc ấm áp đôi ta cùng sẻ chia
+Dialogue: 1,0:11:36.17,0:11:41.92,Q0,,0,0,0,,Em muốn có được anh, muốn tất cả thuộc về mình, và vì thế
+Dialogue: 1,0:11:41.92,0:11:44.92,Q0,,0,0,0,,Em hoàn toàn bằng lòng yêu anh
+Dialogue: 1,0:11:45.46,0:11:51.29,Q0,,0,0,0,,Chẳng phải ai khác, chỉ riêng anh thôi, dẫu chẳng thể thốt nên lời
+Dialogue: 1,0:11:51.29,0:11:54.88,Q0,,0,0,0,,Em đã chôn giấu tiếng yêu sâu tận trong đáy lòng
+Dialogue: 1,0:11:54.88,0:12:00.75,Q0,,0,0,0,,Một ngày nào đó em sẽ nói ra, nhưng giờ đây đó vẫn là bí mật của riêng em
+Dialogue: 0,0:01:01.58,0:01:05.67,Q1,,0,0,0,,{\pos(102.4,604.8)}{\an7}Tập 4: Hắc Triệu Hồi Sư Và Sào Huyệt Của Lũ Orc
+
