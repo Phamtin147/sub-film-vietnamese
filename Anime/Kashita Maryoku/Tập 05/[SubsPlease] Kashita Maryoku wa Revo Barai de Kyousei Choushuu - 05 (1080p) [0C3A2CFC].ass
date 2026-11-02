@@ -1,0 +1,331 @@
+﻿[Script Info]
+Title: Vietnamese Fansub (VietSub by Amtia(NOFACE))
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+ScaledBorderAndShadow: yes
+Video Aspect Ratio: 0
+Video Zoom: 8
+YCbCr Matrix: TV.601
+LayoutResX: 640
+LayoutResY: 360
+
+[Aegisub Project Garbage]
+Audio File: CR_MagicRepoManDum_S1E5_LMRSIM0005_389786_video_ja-jp_J11197147.mp4
+Video File: CR_MagicRepoManDum_S1E5_LMRSIM0005_389786_video_ja-jp_J11197147.mp4
+Video AR Mode: 4
+Video AR Value: 1.777778
+Scroll Position: 279
+Active Line: 286
+Video Position: 29822
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Top,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Italic,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Signs,Segoe UI,16,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,10,10,20,1
+Style: Italics Top,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback Top,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback Italics,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.75,0:00:05.05,Italic,LENT/ID,0,0,0,,Tệ thật rồi!
+Dialogue: 0,0:00:06.59,0:00:09.49,Italic,EMPEE/ID,0,0,0,,Chủ nhân, có chuyện gì thế ạ?
+Dialogue: 0,0:00:09.49,0:00:11.48,Italic,LENT/ID,0,0,0,,Đó là một Dị Biến!
+Dialogue: 0,0:00:11.48,0:00:12.99,Italic,EMPEE/ID,0,0,0,,Một Dị Biến sao?
+Dialogue: 0,0:00:12.99,0:00:16.09,Italic,LENT/ID,0,0,0,,Kẻ địch cực mạnh không thuộc về tầng này.
+Dialogue: 0,0:00:16.09,0:00:17.36,Italic,EMPEE/ID,0,0,0,,Ra là vậy.
+Dialogue: 0,0:00:17.36,0:00:21.32,Italic,LENT/ID,0,0,0,,Thỉnh thoảng những quái vật mạnh bất thường\Nvẫn xuất hiện ở các tầng dưới.
+Dialogue: 0,0:00:21.32,0:00:25.08,Italic,LENT/ID,0,0,0,,Có vài mạo hiểm giả đang bị Dị Biến tấn công\Nở căn phòng phía trước!
+Dialogue: 0,0:00:25.08,0:00:27.33,Italic,EMPEE/ID,0,0,0,,Không lẽ ngài định đến cứu họ sao?
+Dialogue: 0,0:00:28.09,0:00:31.95,Italic,LENT/ID,0,0,0,,Xin lỗi nhé. Chắc tôi mềm lòng quá rồi.
+Dialogue: 0,0:00:31.95,0:00:33.33,Italic,EMPEE/ID,0,0,0,,Em thấy cũng được mà.
+Dialogue: 0,0:00:33.65,0:00:37.84,Italic,EMPEE/ID,0,0,0,,Mùi này ngửi như một cơ hội\Nđể kiếm thêm ma lực đấy!
+Dialogue: 0,0:00:38.60,0:00:39.84,Default,LENT,0,0,0,,Ái da!
+Dialogue: 0,0:00:39.84,0:00:41.50,Default,WILLOW,0,0,0,,Này, đi đứng kiểu gì đấy!
+Dialogue: 0,0:00:41.50,0:00:42.59,Default,LENT,0,0,0,,Tôi xin lỗi.
+Dialogue: 0,0:00:42.59,0:00:44.61,Default,KEATS,0,0,0,,Đừng gây sự lúc này.
+Dialogue: 0,0:00:45.19,0:00:49.90,Default,AMANA,0,0,0,,Nếu muốn sống thì đừng đi lối đó.
+Dialogue: 0,0:00:50.64,0:00:52.72,Default,AMANA,0,0,0,,Này, làm thế có ổn thật không đấy?
+Dialogue: 0,0:00:52.72,0:00:54.91,Default,KEATS,0,0,0,,Còn hơn là cả lũ chết chùm!
+Dialogue: 0,0:00:54.91,0:00:58.90,Default,WILLOW,0,0,0,,Dù sao thì cuối cùng nó cũng có ích.\NĐúng như mong muốn của nó rồi còn gì.
+Dialogue: 0,0:01:00.91,0:01:03.90,Italic,EMPEE/ID,0,0,0,,Đó là toàn bộ nhóm mạo hiểm giả bị tấn công ư?
+Dialogue: 0,0:01:03.90,0:01:07.17,Italic,LENT/ID,0,0,0,,Không, tôi cảm ứng được bốn người cơ.
+Dialogue: 0,0:01:07.17,0:01:08.98,Italic,LENT/ID,0,0,0,,Vẫn còn một người nữa.
+Dialogue: 0,0:01:08.98,0:01:11.04,Italic,EMPEE/ID,0,0,0,,Người đó chạy thoát không kịp sao?
+Dialogue: 0,0:01:11.58,0:01:12.61,Italic,LENT/ID,0,0,0,,Tôi cũng không rõ.
+Dialogue: 0,0:01:13.05,0:01:14.34,Italic,LENT/ID,0,0,0,,Đi thôi, Empee.
+Dialogue: 0,0:01:14.34,0:01:14.98,Italic,EMPEE/ID,0,0,0,,Vâng ạ!
+Dialogue: 0,0:01:22.17,0:01:24.68,Italic,EMPEE/ID,0,0,0,,Hử? Đường cụt rồi.
+Dialogue: 0,0:01:25.01,0:01:26.70,Italic,LENT/ID,0,0,0,,Không, nhìn kỹ xem.
+Dialogue: 0,0:01:26.70,0:01:30.03,Italic,LENT/ID,0,0,0,,Chất liệu ở đây khác hẳn với các bức tường xung quanh.
+Dialogue: 0,0:01:30.36,0:01:32.28,Italic,LENT/ID,0,0,0,,Chắc chắn là được tạo ra bằng ma pháp.
+Dialogue: 0,0:01:33.84,0:01:36.78,Italic,LENT/ID,0,0,0,,Vẫn còn ấm. Chắc hẳn mới được dựng lên gần đây.
+Dialogue: 0,0:01:38.90,0:01:41.16,Italic,LENT/ID,0,0,0,,Empee, lùi lại đi.
+Dialogue: 0,0:01:44.56,0:01:45.87,Default,LENT,0,0,0,,Cầu Lửa!
+Dialogue: 0,0:01:51.87,0:01:53.63,Italic,LENT/ID,0,0,0,,Đ-Đó là...
+Dialogue: 0,0:01:55.12,0:01:56.55,Italic,LENT/ID,0,0,0,,Quad Skeleton sao?!
+Dialogue: 0,0:01:56.85,0:01:59.23,Italic,EMPEE/ID,0,0,0,,Chủ nhân, đằng kia kìa!
+Dialogue: 0,0:02:01.52,0:02:04.10,Default,LINKA,0,0,0,,Mình vẫn còn chiến đấu được!
+Dialogue: 0,0:02:04.73,0:02:06.55,Default,LINKA,0,0,0,,Nhào vô đây!
+Dialogue: 0,0:02:38.30,0:02:40.01,Signs,SIGN,0,0,0,,{\fad(200,000)\fnSegoe UI\pos(108.445,114.222)}Cho Vay Ma Lực\N{\c&H1D1EFF&}Cưỡng Chế {\c&HFFFFFF&}Thu Nợ
+Dialogue: 0,0:02:38.30,0:02:40.01,Signs,SIGN,0,0,0,,{\fad(200,000)\fnSegoe UI\c&H1D1EFF&\pos(353.132,115.838)}Bị Tổ Đội Đuổi Đi, {\c&HFFFFFF&}Tôi Cùng {\c&H1D1EFF&}Tiểu Tinh Linh\N{\c&HFFFFFF&}Trở Thành Kẻ {\c&H1D1EFF&}Mạnh Nhất!
+Dialogue: 0,0:03:58.21,0:04:02.72,Signs,EPTITLE; sign,0,0,0,,{\fad(700,500)\blur1\3c&H2E2E2E&\4c&H848487&\fnSegoe UI\alpha20\bord1\pos(553,275)}"Khác Biệt"
+Dialogue: 0,0:04:08.40,0:04:12.88,Default,WILLOW,0,0,0,,Hôm trước bọn tao phải bỏ dở tầng ba cũng chỉ tại mày đấy.
+Dialogue: 0,0:04:12.88,0:04:15.35,Default,WILLOW,0,0,0,,Nếu còn làm hỏng việc lần nữa thì liệu hồn.
+Dialogue: 0,0:04:16.60,0:04:19.61,Default,LINKA,0,0,0,,Em biết rồi. Em xin lỗi ạ.
+Dialogue: 0,0:04:19.61,0:04:25.16,Default,WILLOW,0,0,0,,Bọn tao mãi kẹt ở hạng D là vì mày cứ ngáng chân hoài.
+Dialogue: 0,0:04:25.16,0:04:26.26,Default,AMANA,0,0,0,,Thật sự luôn đấy.
+Dialogue: 0,0:04:26.26,0:04:30.11,Default,KEATS,0,0,0,,Mày nghĩ bọn tao cảm thấy thế nào\Nkhi phải vác theo một kẻ tấn công vô dụng như mày?
+Dialogue: 0,0:04:30.82,0:04:32.06,Default,LINKA,0,0,0,,Em xin lỗi mọi người.
+Dialogue: 0,0:04:32.06,0:04:33.88,Default,AMANA,0,0,0,,Mày chỉ biết nói mỗi câu đó thôi à?
+Dialogue: 0,0:04:34.63,0:04:37.98,Default,AMANA,0,0,0,,Nghe này, xin lỗi thì ai chả nói được.
+Dialogue: 0,0:04:37.98,0:04:40.26,Default,AMANA,0,0,0,,Hãy thể hiện bằng hành động đi.
+Dialogue: 0,0:04:46.12,0:04:47.95,Default,WILLOW,0,0,0,,C-Cái quái gì thế này?
+Dialogue: 0,0:04:47.95,0:04:50.15,Default,KEATS,0,0,0,,Trùm tầng ba ư?
+Dialogue: 0,0:04:52.06,0:04:53.27,Default,WILLOW,0,0,0,,Không phải...
+Dialogue: 0,0:04:55.77,0:04:56.89,Default,WILLOW,0,0,0,,Đó là một Dị Biến!
+Dialogue: 0,0:05:01.36,0:05:02.23,Default,WILLOW,0,0,0,,Linka!
+Dialogue: 0,0:05:02.52,0:05:05.67,Default,LINKA,0,0,0,,Lần này em sẽ không làm mọi người thất vọng đâu!
+Dialogue: 0,0:05:07.19,0:05:08.66,Default,WILLOW,0,0,0,,Vậy sao?
+Dialogue: 0,0:05:08.66,0:05:12.49,Default,WILLOW,0,0,0,,Thế thì như hành động cuối cùng của mày,\Nhãy tỏ ra có ích cho bọn tao đi.
+Dialogue: 0,0:05:12.49,0:05:13.51,Default,LINKA,0,0,0,,Dạ?
+Dialogue: 0,0:05:17.49,0:05:19.93,Default,KEATS,0,0,0,,Cuối cùng con Linka cũng có ích một lần.
+Dialogue: 0,0:05:21.01,0:05:23.15,Default,WILLOW,0,0,0,,Được rồi, chuồn lẹ thôi.
+Dialogue: 0,0:05:28.96,0:05:32.06,Italic,LINKA/ID,0,0,0,,Họ nhốt mình trong này để làm mồi nhử sao?
+Dialogue: 0,0:05:32.60,0:05:34.29,Italic,LINKA/ID,0,0,0,,Họ đã bỏ rơi mình ư?
+Dialogue: 0,0:05:34.75,0:05:38.63,Italic,LINKA/ID,0,0,0,,Không, họ chỉ tin tưởng mình có thể câu giờ thôi...
+Dialogue: 0,0:05:38.63,0:05:41.49,Italic,LINKA/ID,0,0,0,,Để cả ba người họ có thể chạy thoát an toàn.
+Dialogue: 0,0:05:42.73,0:05:46.04,Flashback,WILLOW,0,0,0,,Nói thật nhé Linka, mày chỉ làm vướng chân bọn tao thôi.
+Dialogue: 0,0:05:46.04,0:05:49.78,Flashback,WILLOW,0,0,0,,Không có mày, bọn tao còn mạnh hơn đấy.
+Dialogue: 0,0:06:00.90,0:06:03.74,Default,LINKA,0,0,0,,Mình vẫn còn chiến đấu được!
+Dialogue: 0,0:06:04.41,0:06:06.17,Default,LINKA,0,0,0,,Nhào vô đây!
+Dialogue: 0,0:06:33.98,0:06:38.40,Default,EMPEE,0,0,0,,Này bộ xương to xác, mấy quả cầu lửa đó ngon miệng chứ hả?
+Dialogue: 0,0:06:38.40,0:06:39.74,Default,LENT,0,0,0,,Cô không sao chứ?
+Dialogue: 0,0:06:40.06,0:06:42.49,Default,LENT,0,0,0,,Tôi sẽ dùng ma pháp trị thương cho cô ngay.
+Dialogue: 0,0:06:44.35,0:06:46.25,Default,LINKA,0,0,0,,Coi chừng! Nó đang đứng dậy kìa!
+Dialogue: 0,0:07:00.46,0:07:03.92,Italic,LENT/ID,0,0,0,,Nó không gục ngã dễ dàng vậy đâu.
+Dialogue: 0,0:07:04.31,0:07:06.02,Italic,LENT/ID,0,0,0,,Mình phải tung một đòn thật mạnh mới được.
+Dialogue: 0,0:07:10.26,0:07:11.87,Default,LENT,0,0,0,,Cầu Lửa!
+Dialogue: 0,0:07:15.74,0:07:17.23,Default,LENT,0,0,0,,Lõi của nó ở đó!
+Dialogue: 0,0:07:19.08,0:07:20.35,Default,LENT,0,0,0,,Đột Kí—
+Dialogue: 0,0:07:25.07,0:07:27.71,Default,EMPEE,0,0,0,,Chủ nhân có sao không ạ?
+Dialogue: 0,0:07:27.71,0:07:29.88,Default,LENT,0,0,0,,Ừ, tôi không sao.
+Dialogue: 0,0:07:43.20,0:07:47.78,Default,LENT,0,0,0,,Tôi biết điểm yếu của nó rồi.\NTôi sẽ kết liễu nó bằng đòn này.
+Dialogue: 0,0:07:51.05,0:07:52.78,Italic,LENT/ID,0,0,0,,Số dư ma lực.
+Dialogue: 0,0:08:03.03,0:08:05.80,Default,LENT,0,0,0,,Lên đi, Cầu Lửa gấp 20 lần!
+Dialogue: 0,0:08:31.62,0:08:35.99,Default,ADVENTURER A,0,0,0,,Cậu nghe tin gì chưa? Nhóm Meteor Shower đã đến Melva rồi đấy.
+Dialogue: 0,0:08:35.99,0:08:38.08,Default,ADVENTURER B,0,0,0,,Tổ đội hạng A đó hả?
+Dialogue: 0,0:08:38.08,0:08:40.38,Default,ADVENTURER A,0,0,0,,Chắc tôi phải đi chiêm ngưỡng họ mới được.
+Dialogue: 0,0:08:42.41,0:08:45.87,Signs,SIGN,0,0,0,,{\fad(400,400)\shad1\bord2\p1\alpha&H50&\c&HFFF8F2&\3c&H000000&\4c&HB7B7B7&\pos(321.527,203)\fscx66\fscy17}m 0 0 l 268 0 268 208 0 208
+Dialogue: 0,0:08:42.41,0:08:45.87,Signs,SIGN,0,0,0,,{\fad(400,400)\bord0\fs13\c&H151515&\fnSegoe UI\pos(321.753,206)}Roger\N Thiên phú: Kiếm Sư Bậc Thầy (S)
+Dialogue: 0,0:08:42.53,0:08:43.59,Default,ROGER,0,0,0,,Của bạn đây nhé.
+Dialogue: 0,0:08:43.59,0:08:45.09,Default,ADVENTURER C,0,0,0,,Cảm ơn anh nhiều!
+Dialogue: 0,0:08:48.37,0:08:51.18,Default,ADVENTURER D,0,0,0,,Anh có thể ký tên lên áo của tôi được không?
+Dialogue: 0,0:08:51.18,0:08:53.20,Default,ROGER,0,0,0,,Sao cơ? Cậu chắc chứ?
+Dialogue: 0,0:08:54.25,0:08:57.10,Default,ADVENTURER D,0,0,0,,Vâng! Nó sẽ bảo vệ tôi trong những chuyến thám hiểm.
+Dialogue: 0,0:08:57.94,0:08:59.71,Default,ROGER,0,0,0,,Tôi thích điều đó đấy.
+Dialogue: 0,0:08:59.71,0:09:01.54,Default,COMET,0,0,0,,Này, Roger.
+Dialogue: 0,0:09:02.02,0:09:05.73,Signs,SIGN,0,0,0,,{\fad(400,400)\shad1\bord2\p1\alpha&H50&\c&HFFF8F2&\3c&H000000&\4c&HB7B7B7&\pos(321.527,208)\fscx66\fscy17}m 0 0 l 268 0 268 208 0 208
+Dialogue: 0,0:09:02.02,0:09:05.73,Signs,SIGN,0,0,0,,{\fad(400,400)\bord0\fs13\c&H151515&\fnSegoe UI\pos(321.753,211)}Comet\N Thiên phú: Ma Đạo Sĩ Cao Cấp (B)
+Dialogue: 0,0:09:02.16,0:09:06.05,Top,COMET,0,0,0,,Nếu anh không chịu ăn thì em sẽ chén hết phần đấy.
+Dialogue: 0,0:09:06.05,0:09:08.48,Default,ROGER,0,0,0,,Khoan đã nào, anh sắp xong rồi.
+Dialogue: 0,0:09:08.48,0:09:12.07,Top,NAMILIA,0,0,0,,Lúc nào anh cũng được săn đón ghê nhỉ, Roger.
+Dialogue: 0,0:09:08.52,0:09:12.23,Signs,SIGN,0,0,0,,{\fad(400,400)\shad1\bord2\p1\alpha&H50&\c&HFFF8F2&\3c&H000000&\4c&HB7B7B7&\pos(321.527,205)\fscx66\fscy17}m 0 0 l 268 0 268 208 0 208
+Dialogue: 0,0:09:08.52,0:09:12.23,Signs,SIGN,0,0,0,,{\fad(400,400)\bord0\fs13\c&H151515&\fnSegoe UI\pos(321.753,208)}Namilia\N Thiên phú: Cường Hóa Sĩ Siêu Cấp (A)
+Dialogue: 0,0:09:16.78,0:09:21.49,Signs,SIGN,0,0,0,,{\fad(400,400)\shad1\bord2\p1\alpha&H50&\c&HFFF8F2&\3c&H000000&\4c&HB7B7B7&\pos(321.527,210)\fscx66\fscy17}m 0 0 l 308 0 308 208 0 208
+Dialogue: 0,0:09:16.78,0:09:21.49,Signs,SIGN,0,0,0,,{\fad(400,400)\bord0\fs13\c&H151515&\fnSegoe UI\pos(321.753,214)}Jin\N Thiên phú: Khiên Thủ Siêu Cấp (A)
+Dialogue: 0,0:09:18.82,0:09:22.99,Top,JIN,0,0,0,,Mục tiêu của Meteor Shower là\Nchinh phục hoàn toàn mê cung này!
+Dialogue: 0,0:09:22.99,0:09:26.53,Default,JIN,0,0,0,,Mọi người sẽ đặt cược bọn tôi thành công hay thất bại đây?
+Dialogue: 0,0:09:26.53,0:09:28.57,Default,CUSTOMERS,0,0,0,,Tất tay vào thành công luôn!
+Dialogue: 0,0:09:28.57,0:09:29.24,Default,CUSTOMERS,0,0,0,,Tôi cũng thế!
+Dialogue: 0,0:09:29.24,0:09:30.75,Default,CUSTOMERS,0,0,0,,Tôi nữa!
+Dialogue: 0,0:09:31.79,0:09:35.26,Signs,SIGN,0,0,0,,{\fad(400,400)\shad1\bord2\p1\alpha&H50&\c&HFFF8F2&\3c&H000000&\4c&HB7B7B7&\pos(321.527,208)\fscx66\fscy17}m 0 0 l 308 0 308 208 0 208
+Dialogue: 0,0:09:31.79,0:09:35.26,Signs,SIGN,0,0,0,,{\fad(400,400)\bord0\fs13\c&H151515&\fnSegoe UI\pos(321.753,212)}Fuuga\N Thiên phú: Thương Thủ Siêu Cấp (A)
+Dialogue: 0,0:09:32.35,0:09:34.83,Top,JIN,0,0,0,,Mấy người không được cược cùng một cửa hết thế chứ!
+Dialogue: 0,0:09:35.88,0:09:37.00,Default,WILLOW,0,0,0,,Tin dữ đây bà con ơi!
+Dialogue: 0,0:09:44.01,0:09:46.91,Default,WILLOW,0,0,0,,Một Dị Biến vừa xuất hiện trong mê cung!
+Dialogue: 0,0:09:46.91,0:09:51.32,Default,WILLOW,0,0,0,,Có một bộ xương bốn tay khổng lồ ở tầng ba!
+Dialogue: 0,0:09:52.79,0:09:55.66,Default,WILLOW,0,0,0,,Một Dị Biến vừa xuất hiện trong mê cung!
+Dialogue: 0,0:09:55.66,0:10:00.28,Default,WILLOW,0,0,0,,Có một bộ xương bốn tay khổng lồ ở tầng ba!
+Dialogue: 0,0:10:00.28,0:10:02.45,Default,CUSTOMERS,0,0,0,,Hắn bảo là Dị Biến sao?
+Dialogue: 0,0:10:02.45,0:10:04.28,Default,CUSTOMERS,0,0,0,,Bộ xương bốn tay ư?
+Dialogue: 0,0:10:04.69,0:10:06.78,Italic,ROGER/ID,0,0,0,,Một Quad Skeleton sao?
+Dialogue: 0,0:10:08.09,0:10:10.16,Default,TIRAMI,0,0,0,,Mọi người không sao chứ?
+Dialogue: 0,0:10:10.16,0:10:13.71,Default,TIRAMI,0,0,0,,Hãy báo chính xác vị trí\Nmọi người chạm trán Dị Biến cho chúng tôi.
+Dialogue: 0,0:10:13.71,0:10:15.74,Default,TIRAMI,0,0,0,,Chúng tôi sẽ cử một đội đi tiêu diệt nó ngay.
+Dialogue: 0,0:10:16.55,0:10:18.76,Default,WILLOW,0,0,0,,Bọn tôi không ổn chút nào.
+Dialogue: 0,0:10:20.11,0:10:21.81,Default,WILLOW,0,0,0,,Một đồng đội của bọn tôi...
+Dialogue: 0,0:10:22.61,0:10:24.18,Default,WILLOW,0,0,0,,Linka...
+Dialogue: 0,0:10:24.63,0:10:28.47,Default,WILLOW,0,0,0,,Con bé đã làm mồi nhử để bọn tôi có thể thoát thân!
+Dialogue: 0,0:10:28.80,0:10:30.05,Default,WILLOW,0,0,0,,Chết tiệt thật!
+Dialogue: 0,0:10:31.87,0:10:33.06,Default,TIRAMI,0,0,0,,Làm mồi nhử ư?
+Dialogue: 0,0:10:33.45,0:10:36.57,Default,TIRAMI,0,0,0,,Vậy cô Linka...
+Dialogue: 0,0:10:36.57,0:10:39.14,Default,WILLOW,0,0,0,,Ừ, chắc giờ con bé chết rồi.
+Dialogue: 0,0:10:40.92,0:10:42.94,Default,TIRAMI,0,0,0,,Kiểm tra trạng thái của cô ấy ngay!
+Dialogue: 0,0:10:42.94,0:10:45.40,Default,PANNA,0,0,0,,Rõ rồi. Tên là Linka đúng không?
+Dialogue: 0,0:10:47.96,0:10:49.42,Default,KEATS,0,0,0,,Linka à...
+Dialogue: 0,0:10:52.70,0:10:55.45,Default,WILLOW,0,0,0,,Con bé là một người tốt đến thế...
+Dialogue: 0,0:11:00.53,0:11:03.96,Default,PANNA,0,0,0,,Tin tốt đây! Cô Linka vẫn còn sống!
+Dialogue: 0,0:11:07.48,0:11:09.48,Default,TIRAMI,0,0,0,,Tuyệt quá rồi.
+Dialogue: 0,0:11:09.75,0:11:12.23,Default,CUSTOMER A,0,0,0,,Vậy chúng ta phải mau đến giải cứu cô ấy thôi!
+Dialogue: 0,0:11:12.47,0:11:13.43,Default,AMANA,0,0,0,,Này, khoan đã.
+Dialogue: 0,0:11:13.43,0:11:14.60,Default,WILLOW,0,0,0,,Thật không đấy?
+Dialogue: 0,0:11:14.60,0:11:16.23,Default,KEATS,0,0,0,,Không phải bọn mình đã nhốt nó lại với quái vật sao?
+Dialogue: 0,0:11:19.54,0:11:20.99,Default,ROGER,0,0,0,,Được rồi.
+Dialogue: 0,0:11:25.82,0:11:31.12,Default,ROGER,0,0,0,,Bọn tôi sẽ đi tiêu diệt con Dị Biến\Nvà đưa Linka trở về an toàn.
+Dialogue: 0,0:11:31.12,0:11:34.38,Default,TIRAMI,0,0,0,,Meteor Shower, các anh chắc chắn chứ?
+Dialogue: 0,0:11:34.38,0:11:37.01,Default,ROGER,0,0,0,,Cũng lâu rồi bọn tôi chưa vào mê cung.
+Dialogue: 0,0:11:37.01,0:11:39.88,Default,ROGER,0,0,0,,Xem như đây là một buổi khởi động vậy.
+Dialogue: 0,0:11:39.88,0:11:42.47,Default,CUSTOMER A,0,0,0,,Mọi người nghe thấy chưa?\NNhóm Meteor Shower sắp ra tay kìa!
+Dialogue: 0,0:11:42.47,0:11:44.98,Default,CUSTOMER C,0,0,0,,Đúng thế! Yên tâm hẳn rồi!
+Dialogue: 0,0:11:45.70,0:11:47.69,Default,LENT,0,0,0,,Không cần phiền phức vậy đâu.
+Dialogue: 0,0:11:52.92,0:11:55.64,Default,LENT,0,0,0,,Tôi đã tiêu diệt nó rồi.
+Dialogue: 0,0:11:56.10,0:11:57.14,Default,WILLOW,0,0,0,,Linka!
+Dialogue: 0,0:12:01.53,0:12:03.99,Default,ROGER,0,0,0,,Ồ, chẳng phải là Lent đây sao.
+Dialogue: 0,0:12:04.54,0:12:06.89,Default,LENT,0,0,0,,Anh Roger, rất vui được gặp lại anh.
+Dialogue: 0,0:12:07.33,0:12:09.96,Default,ROGER,0,0,0,,Vậy cô bé bên cạnh cậu là...
+Dialogue: 0,0:12:09.96,0:12:13.49,Default,LINKA,0,0,0,,Em là Linka. Anh Lent đã cứu mạng em.
+Dialogue: 0,0:12:13.77,0:12:14.83,Default,CUSTOMER A,0,0,0,,Giỏi thật đấy!
+Dialogue: 0,0:12:14.83,0:12:17.11,Default,CUSTOMER B,0,0,0,,Dù chẳng biết cậu là ai nhưng làm tốt lắm!
+Dialogue: 0,0:12:17.11,0:12:20.19,Default,WILLOW,0,0,0,,Này! Mày là thằng nhóc bọn tao chạm mặt lúc nãy mà!
+Dialogue: 0,0:12:20.19,0:12:22.90,Default,JIN,0,0,0,,Này, ăn nói cho cẩn thận đấy.
+Dialogue: 0,0:12:22.90,0:12:26.19,Default,JIN,0,0,0,,Ít ra cũng phải cảm ơn thằng nhóc một tiếng chứ.
+Dialogue: 0,0:12:27.16,0:12:29.01,Default,LENT,0,0,0,,Dĩ nhiên là họ sẽ không cảm ơn rồi.
+Dialogue: 0,0:12:29.01,0:12:31.93,Default,LENT,0,0,0,,Bởi vì chính bọn họ đã bỏ rơi Linka.
+Dialogue: 0,0:12:32.93,0:12:34.69,Default,NAMILIA,0,0,0,,Bỏ rơi cô bé ư?
+Dialogue: 0,0:12:38.38,0:12:41.56,Default,WILLOW,0,0,0,,K-Không có! Hắn ta nói dối!
+Dialogue: 0,0:12:45.36,0:12:46.62,Default,TIRAMI,0,0,0,,Cái này là gì thế?
+Dialogue: 0,0:12:46.62,0:12:49.21,Default,LENT,0,0,0,,Một mảnh của bức tường được tạo ra bằng ma pháp.
+Dialogue: 0,0:12:50.58,0:12:54.86,Default,LENT,0,0,0,,Bọn họ đã dùng ma pháp để dựng một bức tường chặn đường lui của Linka.
+Dialogue: 0,0:12:55.34,0:13:00.35,Default,LENT,0,0,0,,Mọi người có thể phân tích nó để xác định thời điểm tạo ra và do ai tạo nên.
+Dialogue: 0,0:13:00.35,0:13:01.68,Default,CUSTOMERS,0,0,0,,Thật thế ư?
+Dialogue: 0,0:13:01.68,0:13:03.20,Default,CUSTOMERS,0,0,0,,Độc ác tàn nhẫn quá.
+Dialogue: 0,0:13:05.83,0:13:07.45,Default,WILLOW,0,0,0,,N-Này, Linka.
+Dialogue: 0,0:13:07.45,0:13:09.34,Default,WILLOW,0,0,0,,Bọn anh đâu có làm thế với em đúng không?
+Dialogue: 0,0:13:09.34,0:13:11.35,Default,WILLOW,0,0,0,,Đừng có đứng trơ ra đó! Nói gì đi chứ!
+Dialogue: 0,0:13:11.35,0:13:14.51,Default,ROGER,0,0,0,,Đời mạo hiểm giả chúng ta vốn ngắn ngủi.
+Dialogue: 0,0:13:15.02,0:13:17.52,Default,ROGER,0,0,0,,Không có gì đảm bảo ngày mai ta vẫn còn sống sót.
+Dialogue: 0,0:13:17.95,0:13:23.28,Default,ROGER,0,0,0,,Chính vì thế chúng ta mới đặt trọn niềm tin\Nvào những đồng đội kề vai sát cánh.
+Dialogue: 0,0:13:23.28,0:13:25.78,Default,ROGER,0,0,0,,Cho nên những kẻ dám phản bội đồng đội...
+Dialogue: 0,0:13:31.64,0:13:33.92,Default,ROGER,0,0,0,,đều không xứng đáng được sống.
+Dialogue: 0,0:13:45.43,0:13:47.00,Default,ROGER,0,0,0,,Thôi được rồi.
+Dialogue: 0,0:13:52.00,0:13:54.30,Default,TIRAMI,0,0,0,,Các người còn lời bào chữa nào nữa không?
+Dialogue: 0,0:13:58.31,0:14:00.69,Default,ROGER,0,0,0,,Đi săn vài con quái vật cho khuây khỏa đầu óc đi.
+Dialogue: 0,0:14:00.69,0:14:01.93,Default,JIN,0,0,0,,Ừ.
+Dialogue: 0,0:14:01.93,0:14:02.97,Default,ROGER,0,0,0,,Này, Lent.
+Dialogue: 0,0:14:02.97,0:14:03.94,Default,LENT,0,0,0,,D-Dạ?
+Dialogue: 0,0:14:03.94,0:14:06.63,Default,ROGER,0,0,0,,Để trống lịch tối kia nhé.
+Dialogue: 0,0:14:06.63,0:14:07.61,Default,LENT,0,0,0,,Sao cơ ạ?
+Dialogue: 0,0:14:08.45,0:14:09.95,Default,ROGER,0,0,0,,Hẹn gặp lại.
+Dialogue: 0,0:14:13.01,0:14:15.65,Default,NAMILIA,0,0,0,,Hẹn gặp lại nhé, Lent.
+Dialogue: 0,0:14:19.60,0:14:22.09,Default,JIN,0,0,0,,Tiêu diệt quái vật lại còn cứu được người đẹp.
+Dialogue: 0,0:14:22.09,0:14:24.56,Default,JIN,0,0,0,,Làm tốt lắm, nhóc.
+Dialogue: 0,0:14:27.58,0:14:31.59,Default,COMET,0,0,0,,Tránh đường nào. Tiểu thư Comet đi qua đây.
+Dialogue: 0,0:14:35.21,0:14:36.64,Default,FUUGA,0,0,0,,Thứ lỗi nhé.
+Dialogue: 0,0:14:36.64,0:14:38.19,Default,LENT,0,0,0,,Không sao đâu ạ.
+Dialogue: 0,0:14:39.50,0:14:42.65,Default,EMPEE,0,0,0,,Một nhóm người ồn ào thật đấy.
+Dialogue: 0,0:14:44.01,0:14:45.94,Default,LENT,0,0,0,,Họ là nhóm Meteor Shower đấy.
+Dialogue: 0,0:14:43.69,0:14:45.94,Top,ROGER,0,0,0,,Này, đó chẳng phải là con mực nướng của anh sao?
+Dialogue: 0,0:14:45.94,0:14:46.70,Default,COMET,0,0,0,,Giờ nó là của em rồi.
+Dialogue: 0,0:14:48.19,0:14:50.95,Default,TIRAMI,0,0,0,,Nhân tiện, cậu Lent và cô Linka này.
+Dialogue: 0,0:14:50.95,0:14:54.22,Default,TIRAMI,0,0,0,,Tôi có thể xin hai bạn vài phút được không?
+Dialogue: 0,0:15:05.08,0:15:06.76,Default,TIRAMI,0,0,0,,Đó là tất cả những câu hỏi tôi cần làm rõ.
+Dialogue: 0,0:15:06.76,0:15:08.98,Default,TIRAMI,0,0,0,,Cảm ơn hai bạn đã hợp tác.
+Dialogue: 0,0:15:09.83,0:15:13.65,Default,TIRAMI,0,0,0,,Viên pha lê luôn giữ màu xanh suốt buổi thẩm vấn,
+Dialogue: 0,0:15:13.65,0:15:17.10,Default,TIRAMI,0,0,0,,chứng minh rằng những lời khai của hai bạn hoàn toàn đúng sự thật.
+Dialogue: 0,0:15:17.10,0:15:19.36,Default,LENT,0,0,0,,Chuyện gì sẽ xảy ra với ba người bọn họ vậy ạ?
+Dialogue: 0,0:15:19.36,0:15:23.82,Default,TIRAMI,0,0,0,,Họ vừa mới bị thẩm vấn ở phòng bên cạnh.
+Dialogue: 0,0:15:24.85,0:15:28.50,Flashback,WILLOW,0,0,0,,Linka tự nguyện làm mồi nhử mà!
+Dialogue: 0,0:15:33.07,0:15:34.41,Flashback,WILLOW,0,0,0,,Chết tiệt thật!
+Dialogue: 0,0:15:34.41,0:15:37.23,Default,TIRAMI,0,0,0,,Bắt ép đồng đội làm mồi nhử
+Dialogue: 0,0:15:37.23,0:15:43.31,Default,TIRAMI,0,0,0,,và khai báo gian dối với hội là những trọng tội.
+Dialogue: 0,0:15:44.18,0:15:48.17,Default,TIRAMI,0,0,0,,Họ sẽ bị tước tư cách mạo hiểm giả vĩnh viễn
+Dialogue: 0,0:15:48.17,0:15:51.56,Default,TIRAMI,0,0,0,,và bị cưỡng chế lao động khổ sai ở các mỏ khoáng sản suốt một thời gian dài.
+Dialogue: 0,0:15:54.57,0:15:56.01,Default,LINKA,0,0,0,,Em hiểu rồi.
+Dialogue: 0,0:16:02.76,0:16:06.94,Default,LINKA,0,0,0,,Anh Lent, một lần nữa em xin chân thành cảm ơn anh.
+Dialogue: 0,0:16:06.94,0:16:08.52,Default,LENT,0,0,0,,Giờ cô tính làm gì tiếp theo?
+Dialogue: 0,0:16:09.76,0:16:12.03,Default,LINKA,0,0,0,,Em cũng chưa có dự định gì cả.
+Dialogue: 0,0:16:12.03,0:16:14.58,Default,LINKA,0,0,0,,Dù sao thì tổ đội của em cũng đã tan rã rồi.
+Dialogue: 0,0:16:15.46,0:16:20.21,Default,LENT,0,0,0,,Nhìn này. Tôi kiếm được ngần này từ việc hạ Quad Skeleton đấy.
+Dialogue: 0,0:16:20.21,0:16:24.22,Default,LENT,0,0,0,,Cũng nhờ có cô cả, nên để tôi bao cô một bữa tối nhé.
+Dialogue: 0,0:16:24.22,0:16:28.43,Default,LINKA,0,0,0,,E-Em không thể làm phiền anh thêm nữa đâu.
+Dialogue: 0,0:16:28.43,0:16:33.12,Default,LENT,0,0,0,,Thật ra gần đây tôi cũng vừa bị tổ đội của mình ruồng bỏ đấy.
+Dialogue: 0,0:16:33.12,0:16:34.81,Default,LINKA,0,0,0,,Anh cũng vậy sao?
+Dialogue: 0,0:16:34.81,0:16:37.09,Default,LENT,0,0,0,,Cô có muốn nghe tôi than thở một chút không?
+Dialogue: 0,0:16:37.09,0:16:39.00,Default,LENT,0,0,0,,Tôi cũng sẽ lắng nghe tâm sự của cô nữa.
+Dialogue: 0,0:16:46.05,0:16:49.18,Default,LINKA,0,0,0,,Đây đã là lần thứ bảy em bị bỏ rơi rồi.
+Dialogue: 0,0:16:49.18,0:16:52.31,Default,LENT,0,0,0,,Bảy lần ư? Nhiều đến thế sao?
+Dialogue: 0,0:16:52.61,0:16:57.07,Default,LINKA,0,0,0,,Thực sự biến cố lần này đã khiến em hoàn toàn suy sụp.
+Dialogue: 0,0:16:57.07,0:16:58.12,Default,LINKA,0,0,0,,Thế nhưng...
+Dialogue: 0,0:17:00.70,0:17:02.70,Signs,SIGN,0,0,0,,{\bord0\fnSegoe UI\fs25\frx10\fry6\c&H050100&\pos(221,104)\frz12.52}Linka
+Dialogue: 0,0:17:00.70,0:17:02.70,Signs,SIGN,0,0,0,,{\bord0\fnSegoe UI\fs25\frx10\fry6\c&H050100&\frz12.52\pos(164,203)}Tu La Đạo
+Dialogue: 0,0:17:00.70,0:17:02.70,Signs,SIGN,0,0,0,,{\bord0\fnSegoe UI\fs25\frx10\fry6\c&H050100&\frz12.52\fs15\pos(240,308)}Hạng Mạo Hiểm Giả
+Dialogue: 0,0:17:00.70,0:17:02.70,Signs,SIGN,0,0,0,,{\bord0\fnSegoe UI\fs20\frx10\fry6\c&H050100&\frz12.52\pos(271,345)}Tổ Đội
+Dialogue: 0,0:17:02.69,0:17:07.08,Default,LINKA,0,0,0,,Thiên phú của em không cho phép em rời bỏ chiến trường.
+Dialogue: 0,0:17:07.31,0:17:10.35,Italic,LENT/ID,0,0,0,,Cấp SSS ư? Tu La Đạo?
+Dialogue: 0,0:17:10.35,0:17:12.34,Default,LENT,0,0,0,,Đây chẳng phải là Thiên phú Độc nhất sao?
+Dialogue: 0,0:17:12.34,0:17:14.60,Default,LINKA,0,0,0,,Trên lý thuyết thì đúng là vậy.
+Dialogue: 0,0:17:14.87,0:17:18.59,Default,LINKA,0,0,0,,Em rất yếu đuối. Em chẳng có sức mạnh gì cả.
+Dialogue: 0,0:17:19.32,0:17:22.34,Default,LINKA,0,0,0,,Thế nhưng Thiên phú lại luôn thôi thúc em phải chiến đấu.
+Dialogue: 0,0:17:22.68,0:17:27.34,Default,LINKA,0,0,0,,Số phận của em là phải tiếp tục chiến đấu cho tới khi ngã xuống.
+Dialogue: 0,0:17:29.60,0:17:32.73,Default,LENT,0,0,0,,Tôi cũng từng rất đau khổ vì Thiên phú của mình.
+Dialogue: 0,0:17:33.69,0:17:38.52,Default,LENT,0,0,0,,Những người bạn gắn bó bấy lâu đột nhiên tuyên bố vứt bỏ tôi.
+Dialogue: 0,0:17:39.61,0:17:42.37,Default,LENT,0,0,0,,Tôi đã từng rất căm ghét sự yếu ớt của chính mình.
+Dialogue: 0,0:17:41.39,0:17:42.37,Flashback Top,GUY,0,0,0,,Tạm biệt nhé, đồ ăn hại.
+Dialogue: 0,0:17:42.59,0:17:45.55,Flashback,GUY,0,0,0,,Khi nào bọn tao thành danh thì sẽ trả nợ cho mày sau.
+Dialogue: 0,0:17:47.79,0:17:51.98,Default,LENT,0,0,0,,Thế nhưng cũng chính Thiên phú đã cứu rỗi cuộc đời tôi.
+Dialogue: 0,0:17:53.34,0:17:55.72,Default,LENT,0,0,0,,Thiên phú của tôi là Trữ Lượng Ma Lực Vô Hạn.
+Dialogue: 0,0:17:56.16,0:17:58.34,Default,LENT,0,0,0,,Cũng giống như của cô, đó là một Thiên phú Độc nhất.
+Dialogue: 0,0:17:58.34,0:17:59.97,Default,LINKA,0,0,0,,Thật vậy sao?
+Dialogue: 0,0:18:01.13,0:18:02.85,Default,LINKA,0,0,0,,Một chú heo con.
+Dialogue: 0,0:18:04.11,0:18:07.97,Default,LINKA,0,0,0,,Liệu có một ngày nào đó em cũng sẽ được cứu rỗi không?
+Dialogue: 0,0:18:08.65,0:18:10.15,Default,LENT,0,0,0,,Cô có muốn lập tổ đội cùng tôi không?
+Dialogue: 0,0:18:10.15,0:18:11.31,Default,LINKA,0,0,0,,Em với anh sao?
+Dialogue: 0,0:18:11.31,0:18:14.85,Default,LENT,0,0,0,,Đúng vậy. Thiên phú của tôi dùng để hỗ trợ đồng đội.
+Dialogue: 0,0:18:14.85,0:18:16.86,Default,LENT,0,0,0,,Tôi chắc chắn mình có thể giúp đỡ cô.
+Dialogue: 0,0:18:20.11,0:18:22.85,Flashback,PAST PARTY MEMBERS,0,0,0,,Mày thật vô dụng.
+Dialogue: 0,0:18:22.85,0:18:24.64,Flashback,PAST PARTY MEMBERS,0,0,0,,Mày nên từ bỏ nghề mạo hiểm giả đi.
+Dialogue: 0,0:18:24.64,0:18:27.46,Flashback,PAST PARTY MEMBERS,0,0,0,,Thiên phú Độc nhất cái con khỉ gì chứ.
+Dialogue: 0,0:18:27.46,0:18:31.51,Flashback,WILLOW,0,0,0,,Không có mày, bọn tao còn mạnh hơn đấy.
+Dialogue: 0,0:18:35.00,0:18:40.17,Default,LINKA,0,0,0,,Em xin lỗi. Em chỉ làm vướng chân anh thôi.
+Dialogue: 0,0:18:40.63,0:18:44.05,Default,LINKA,0,0,0,,Từ giờ trở đi em sẽ thám hiểm một mình.
+Dialogue: 0,0:18:47.27,0:18:49.77,Default,EMPEE,0,0,0,,Rất vui được gặp cô, cô Linka.
+Dialogue: 0,0:18:49.77,0:18:55.43,Default,EMPEE,0,0,0,,Em là Empee, Tinh linh Thiên phú,\Ntrợ thủ đắc lực của chủ nhân.
+Dialogue: 0,0:18:56.52,0:18:58.71,Default,LINKA,0,0,0,,Tinh linh Thiên phú sao?
+Dialogue: 0,0:18:58.71,0:19:01.56,Default,EMPEE,0,0,0,,Vâng ạ. Xin lỗi vì đã làm cô giật mình nhé.
+Dialogue: 0,0:19:01.87,0:19:06.56,Default,EMPEE,0,0,0,,Bình thường thì chỉ người sở hữu mới thấy được Tinh linh Thiên phú,
+Dialogue: 0,0:19:06.56,0:19:12.29,Default,EMPEE,0,0,0,,nhưng nhờ sự trưởng thành của chủ nhân mà em có thể hiện hình cho người khác thấy.
+Dialogue: 0,0:19:13.56,0:19:18.73,Default,EMPEE,0,0,0,,Đừng lo nhé. Chủ nhân của em sẽ không bao giờ đối xử tệ bạc với cô đâu.
+Dialogue: 0,0:19:18.73,0:19:23.30,Default,EMPEE,0,0,0,,Dù sao thì cô cũng là một đối tượng đầu tư xuất sắc mà.
+Dialogue: 0,0:19:23.54,0:19:26.92,Default,LINKA,0,0,0,,Đầu tư ư? Ý cô bé là sao thế?
+Dialogue: 0,0:19:26.92,0:19:29.94,Default,LENT,0,0,0,,Này, em nói thế làm cô ấy càng cảnh giác hơn đấy!
+Dialogue: 0,0:19:29.94,0:19:33.44,Default,EMPEE,0,0,0,,Lạ ghê ta. Rõ ràng đó là một lời khen ngợi mà.
+Dialogue: 0,0:19:35.34,0:19:38.34,Default,LENT,0,0,0,,Nếu cô lập đội với tôi, cô sẽ trở nên mạnh mẽ hơn.
+Dialogue: 0,0:19:38.34,0:19:42.11,Default,LENT,0,0,0,,Và khi cô mạnh lên, tôi cũng sẽ mạnh lên theo.
+Dialogue: 0,0:19:42.11,0:19:43.81,Default,LENT,0,0,0,,Đó chính là cách vận hành kỹ năng của tôi.
+Dialogue: 0,0:19:45.94,0:19:50.21,Default,LINKA,0,0,0,,Một người như em mà thật sự có thể mạnh lên sao?
+Dialogue: 0,0:19:50.21,0:19:51.83,Default,LENT,0,0,0,,Đương nhiên rồi!
+Dialogue: 0,0:19:52.39,0:19:56.77,Default,LENT,0,0,0,,Nhưng tôi cũng hiểu vì sao cô chưa thể tin ngay.
+Dialogue: 0,0:19:57.41,0:19:59.81,Default,LENT,0,0,0,,Hãy lập đội thử nghiệm trong một ngày đi.
+Dialogue: 0,0:19:59.81,0:20:02.22,Default,LENT,0,0,0,,Cô có sẵn lòng cho cả hai một cơ hội không?
+Dialogue: 0,0:20:13.06,0:20:17.89,Default,LINKA,0,0,0,,Anh chính là ân nhân đã cứu mạng em.
+Dialogue: 0,0:20:19.79,0:20:21.78,Default,LINKA,0,0,0,,Em muốn thử đặt niềm tin vào anh một lần.
+Dialogue: 0,0:20:26.13,0:20:27.92,Default,LENT,0,0,0,,Hoan hô!
+Dialogue: 0,0:20:37.04,0:20:39.61,Default,PANNA,0,0,0,,Cậu Lent và cô Linka.
+Dialogue: 0,0:20:40.04,0:20:42.89,Default,PANNA,0,0,0,,Tổ đội của hai bạn chỉ có hai thành viên thôi sao?
+Dialogue: 0,0:20:42.89,0:20:43.79,Default,LENT,0,0,0,,Vâng đúng vậy ạ.
+Dialogue: 0,0:20:43.79,0:20:46.54,Default,PANNA,0,0,0,,Vậy tên tổ đội của hai bạn là gì?
+Dialogue: 0,0:20:49.56,0:20:54.19,Flashback,LENT,0,0,0,,Bọn tôi có rất nhiều điểm khác biệt so với các mạo hiểm giả khác.
+Dialogue: 0,0:20:54.19,0:20:55.81,Flashback,LINKA,0,0,0,,Khác biệt ư?
+Dialogue: 0,0:20:55.81,0:20:59.27,Flashback,LENT,0,0,0,,Đúng thế. Thứ nhất, bọn tôi đều sở hữu Thiên phú Độc nhất.
+Dialogue: 0,0:20:59.27,0:21:04.57,Flashback,LENT,0,0,0,,Thứ hai, Thiên phú Độc nhất đáng lẽ là ân huệ thì lại từng mang đến cho bọn tôi bao đau khổ.
+Dialogue: 0,0:21:06.07,0:21:12.03,Flashback,LENT,0,0,0,,Nhưng tôi tin rằng nếu chúng ta sát cánh bên nhau, ta có thể làm nên những điều phi thường.
+Dialogue: 0,0:21:12.44,0:21:14.24,Flashback,LENT,0,0,0,,Thế nên tên tổ đội của bọn tôi là...
+Dialogue: 0,0:21:15.70,0:21:17.96,Default,LENT & LINKA,0,0,0,,Twice Exceptional!
+Dialogue: 0,0:21:18.17,0:21:20.96,Signs,SIGN,0,0,0,,{\b1\fnSegoe UI\fs30\blur2\c&HFDFEFE&\3c&HF2E727&\pos(320,175)\fade(1000,1)}Twice Exceptional
+
