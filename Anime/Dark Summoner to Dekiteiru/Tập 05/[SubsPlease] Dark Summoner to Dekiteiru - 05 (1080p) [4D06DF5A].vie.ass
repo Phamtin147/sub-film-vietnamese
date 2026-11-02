@@ -1,0 +1,247 @@
+﻿[Script Info]
+Title: Vietnamese Fansub (VietSub by Amtia(NOFACE))
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1280
+PlayResY: 720
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Segoe UI,40,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0,2,20,20,20,1
+Style: Q0,Segoe UI,44,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: Q1,Segoe UI,27,&H00009BE2,&H00009BE2,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,20,20,20,1
+Style: Q2,Segoe UI,52,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: Q3,Segoe UI,52,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: Q4,Segoe UI,40,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,20,20,20,1
+Style: Q5,Segoe UI,40,&H00BABAF9,&H00BABAF9,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,20,20,20,1
+Style: Q6,Segoe UI,40,&H00818181,&H00818181,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,20,20,20,1
+Style: Q7,Segoe UI,27,&H005A7DBE,&H005A7DBE,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:00:04.00,0:00:06.58,Q0,,0,0,0,,Làm đi! Mau làm tới luôn đi!
+Dialogue: 1,0:00:06.58,0:00:09.29,Q0,,0,0,0,,Khóa chặt mục tiêu rồi đó!
+Dialogue: 1,0:00:09.29,0:00:12.21,Q0,,0,0,0,,Làm đi! Mau làm tới luôn đi!
+Dialogue: 1,0:00:12.21,0:00:14.83,Q0,,0,0,0,,Khóa chặt mục tiêu rồi đó!
+Dialogue: 1,0:00:15.00,0:00:17.75,Q0,,0,0,0,,Mềm nhũn cả người, thích ghê, mê thật đấy
+Dialogue: 1,0:00:17.75,0:00:20.38,Q0,,0,0,0,,Một khi đã thèm thì cứ nhào vô mà húp
+Dialogue: 1,0:00:20.38,0:00:23.42,Q0,,0,0,0,,Ráng mà kìm nén là nổ tung cho coi
+Dialogue: 1,0:00:23.42,0:00:24.79,Q0,,0,0,0,,Bảo là đang đùa với cưng thôi á?
+Dialogue: 1,0:00:24.79,0:00:25.92,Q0,,0,0,0,,Không đâu, nói nghiêm túc đấy!
+Dialogue: 1,0:00:26.17,0:00:28.88,Q0,,0,0,0,,Ai ai cũng làm, ai nấy đều mần cả thôi
+Dialogue: 1,0:00:28.88,0:00:30.13,Q0,,0,0,0,,Làm á? Mần gì cơ?
+Dialogue: 1,0:00:30.13,0:00:31.25,Q0,,0,0,0,,Làm cái gì mới được chứ?!
+Dialogue: 1,0:00:31.54,0:00:32.83,Q0,,0,0,0,,Làm chuyện gì đó đi nào
+Dialogue: 1,0:00:32.83,0:00:34.38,Q0,,0,0,0,,Một khi đã bắt đầu rồi
+Dialogue: 1,0:00:34.38,0:00:37.13,Q0,,0,0,0,,Sẽ là chuyến phiêu lưu tuôn trào đầy nguy hiểm
+Dialogue: 1,0:00:37.13,0:00:38.21,Q0,,0,0,0,,Làm cái chi cơ?
+Dialogue: 1,0:00:38.21,0:00:39.92,Q0,,0,0,0,,Mỗi khi miệng bảo chẳng thèm quan tâm
+Dialogue: 1,0:00:39.92,0:00:42.79,Q0,,0,0,0,,Là trong lòng lại muốn nhào vô quất liền đúng không?
+Dialogue: 1,0:00:42.79,0:00:43.92,Q0,,0,0,0,,Làm chuyện gì đó đi mà
+Dialogue: 1,0:00:43.92,0:00:45.38,Q0,,0,0,0,,Rồi sau đó thì sao nè?
+Dialogue: 1,0:00:45.38,0:00:46.63,Q0,,0,0,0,,Làm chuyện gì đó đi nào
+Dialogue: 1,0:00:46.63,0:00:48.13,Q0,,0,0,0,,Tới lúc đó bọn mình sẽ làm gì?
+Dialogue: 1,0:00:48.13,0:00:50.29,Q0,,0,0,0,,Giờ tính sao? Phải làm tới bến thôi
+Dialogue: 1,0:00:50.29,0:00:52.88,Q0,,0,0,0,,Đúng không nè? Tới luôn đi chứ!
+Dialogue: 1,0:00:52.88,0:00:54.13,Q0,,0,0,0,,Chiến luôn đi nào!
+Dialogue: 1,0:00:54.13,0:00:56.38,Q0,,0,0,0,,Làm đi! Mau làm tới luôn đi!
+Dialogue: 1,0:00:56.38,0:00:58.83,Q0,,0,0,0,,Khóa chặt mục tiêu rồi đó!
+Dialogue: 1,0:01:08.08,0:01:09.58,Q2,,0,0,0,,Nào, mọi người ơi...!
+Dialogue: 1,0:01:09.58,0:01:11.33,Q2,,0,0,0,,Nhiệm vụ hôm nay vất vả rồi!
+Dialogue: 1,0:01:11.63,0:01:13.08,Q2,,0,0,0,,Mọi người vất vả rồi!
+Dialogue: 1,0:01:13.08,0:01:15.08,Q2,,0,0,0,,Của cậu đây!
+Dialogue: 1,0:01:37.33,0:01:41.67,Q2,,0,0,0,,À phải rồi, cơ duyên nào khiến cậu \Ntrở thành mạo hiểm giả thế hả Eury?
+Dialogue: 1,0:01:41.67,0:01:42.58,Q2,,0,0,0,,Hửm?
+Dialogue: 1,0:01:42.58,0:01:44.88,Q2,,0,0,0,,Tớ cũng chưa từng nghe qua chuyện này bao giờ!
+Dialogue: 1,0:01:44.88,0:01:46.71,Q2,,0,0,0,,Tớ muốn biết quá đi!
+Dialogue: 1,0:01:55.92,0:01:59.63,Q2,,0,0,0,,T-Tôi e là mình đã uống hơi quá chén rồi, \Nnên xin phép về phòng nghỉ trước đây ạ!
+Dialogue: 1,0:01:59.83,0:02:01.79,Q2,,0,0,0,,Ủa? Đã về sớm thế rồi à?
+Dialogue: 1,0:02:01.79,0:02:04.13,Q2,,0,0,0,,X-Xin lỗi nhé! Tôi xin phép cáo lui!
+Dialogue: 1,0:02:11.67,0:02:14.46,Q2,,0,0,0,,Hai cái người này lại chuẩn bị lăn xả \Nvụng trộm với nhau nữa chứ gì...?
+Dialogue: 1,0:02:15.38,0:02:17.46,Q2,,0,0,0,,Chắc mình cũng về phòng ngủ sớm thôi.
+Dialogue: 1,0:02:17.46,0:02:18.00,Q2,,0,0,0,,Thật khâm phục hai người đó, \Nchẳng biết mệt mỏi là gì cả...
+Dialogue: 1,0:02:18.00,0:02:19.63,Q2,,0,0,0,,Thật khâm phục hai người đó, \Nchẳng biết mệt mỏi là gì cả...
+Dialogue: 1,0:02:18.00,0:02:19.63,Q3,,0,0,0,,Chúc ngủ ngon nhé!
+Dialogue: 1,0:02:19.63,0:02:20.63,Q2,,0,0,0,,Thật khâm phục hai người đó, \Nchẳng biết mệt mỏi là gì cả...
+Dialogue: 1,0:02:21.29,0:02:23.13,Q2,,0,0,0,,Chào đằng ấy nhé, Eury!
+Dialogue: 1,0:02:23.71,0:02:25.00,Q2,,0,0,0,,Chủ quán!
+Dialogue: 1,0:02:25.00,0:02:28.04,Q2,,0,0,0,,Dạo này tổ đội các cô hoạt động tích cực ghê nhỉ?
+Dialogue: 1,0:02:28.04,0:02:30.42,Q2,,0,0,0,,Thật hãnh diện khi được phục vụ một tổ đội như thế.
+Dialogue: 1,0:02:31.63,0:02:35.17,Q2,,0,0,0,,Tất cả là nhờ công Amona và Roni gia nhập đấy ạ!
+Dialogue: 1,0:02:36.79,0:02:38.54,Q2,,0,0,0,,Ồ, ra là thế.
+Dialogue: 1,0:02:38.92,0:02:41.67,Q2,,0,0,0,,Nhắc đến hai người đó...
+Dialogue: 1,0:02:41.67,0:02:46.88,Q2,,0,0,0,,Ừm, cô có thể bảo họ bớt ồn ào lại một chút được không?
+Dialogue: 1,0:02:47.33,0:02:50.46,Q2,,0,0,0,,Lúc tôi đang làm việc riêng với một em nhân viên, tiếng hai người họ cứ văng vẳng sang,
+Dialogue: 1,0:02:50.46,0:02:52.08,Q2,,0,0,0,,ngại ngùng ngượng chín cả mặt.
+Dialogue: 1,0:02:55.63,0:02:58.13,Q2,,0,0,0,,Sao ông lại đi nhờ tôi chuyện đó chứ?!
+Dialogue: 1,0:02:58.13,0:03:00.50,Q2,,0,0,0,,Cứ gặp trực tiếp họ mà nhắc nhở đi!
+Dialogue: 1,0:03:00.50,0:03:04.54,Q2,,0,0,0,,Tôi vốn không khéo nói mấy chuyện tế nhị đó mà.
+Dialogue: 1,0:03:04.54,0:03:08.21,Q2,,0,0,0,,Chẳng phải để một thành viên trong nhóm \Nkhuyên bảo khéo léo sẽ tốt hơn nhiều sao?
+Dialogue: 1,0:03:09.67,0:03:14.67,Q2,,0,0,0,,Vả lại Haru thì ngờ nghệch vô tâm quá, \Nnên tôi chỉ còn biết trông cậy vào cô thôi.
+Dialogue: 1,0:03:20.13,0:03:22.33,Q2,,0,0,0,,Đừng có ôm hy vọng nhiều quá đấy nhé...
+Dialogue: 1,0:03:24.42,0:03:26.42,Q2,,0,0,0,,Về phía Amona...
+Dialogue: 1,0:03:28.38,0:03:30.92,Q2,,0,0,0,,Cô có chuyện gì muốn bàn bạc với tôi vậy, Eury?
+Dialogue: 1,0:03:32.04,0:03:34.58,Q2,,0,0,0,,Sao cô lại ăn mặc như nhân viên quán trọ thế kia?
+Dialogue: 1,0:03:34.58,0:03:35.67,Q2,,0,0,0,,Tôi làm thêm bán thời gian ấy mà.
+Dialogue: 1,0:03:36.17,0:03:39.42,Q2,,0,0,0,,Đạo cụ cho Triệu Hồi Sư món nào cũng đắt đỏ cả,
+Dialogue: 1,0:03:39.42,0:03:43.17,Q2,,0,0,0,,nên hễ rảnh rỗi là tôi lại ra đây phụ việc kiếm thêm.
+Dialogue: 1,0:03:43.17,0:03:45.00,Q2,,0,0,0,,Mà chuyện cô muốn nói là gì thế?
+Dialogue: 1,0:03:45.00,0:03:47.58,Q2,,0,0,0,,Tôi đang trong giờ nghỉ giải lao, \Nnên có gì thì nói ngắn gọn thôi nhé.
+Dialogue: 1,0:03:47.58,0:03:50.71,Q2,,0,0,0,,Những lúc cô với Roni làm trò đồi bại trong phòng, \Ncó thể bớt làm ồn lại một chút được không?
+Dialogue: 1,0:03:52.46,0:03:54.42,Q2,,0,0,0,,C-C-Cô đang nói nhăng cuội cái gì thế hả?!
+Dialogue: 1,0:03:54.42,0:03:56.63,Q2,,0,0,0,,Bọn tôi chỉ đang thi vật tay thôi! Chỉ có thế thôi mà!
+Dialogue: 1,0:03:56.63,0:03:57.71,Q2,,0,0,0,,Ai mà tin nổi cái trò mèo đó chứ.
+Dialogue: 1,0:03:58.04,0:04:01.83,Q2,,0,0,0,,Tôi vốn chẳng thích xía vào chuyện riêng tư của người khác đâu, nhưng mà...
+Dialogue: 1,0:04:01.83,0:04:04.67,Q2,,0,0,0,,Hai người không thấy mình đang chìm đắm \Nvào mấy trò mây mưa vô độ quá rồi sao?
+Dialogue: 1,0:04:04.83,0:04:06.29,Q2,,0,0,0,,Chủ quán vốn là người cực kỳ khoan dung đấy,
+Dialogue: 1,0:04:06.29,0:04:09.79,Q2,,0,0,0,,thế mà đến mức ông ấy phải mở lời phàn nàn \Nthì rốt cuộc hai người mần nhau bao nhiêu lần một tuần hả?!
+Dialogue: 1,0:04:10.33,0:04:11.46,Q2,,0,0,0,,Thì, ừm...
+Dialogue: 1,0:04:11.46,0:04:13.13,Q2,,0,0,0,,Khoảng ba lần một tuần...
+Dialogue: 1,0:04:13.13,0:04:15.25,Q2,,0,0,0,,Ra vậy, ba lần sao?
+Dialogue: 1,0:04:15.46,0:04:18.46,Q2,,0,0,0,,Ba lần cơ á?!
+Dialogue: 1,0:04:18.46,0:04:21.54,Q2,,0,0,0,,Tính ra là gần như cứ cách một ngày \Nhai người lại mần nhau một lần đấy à?!
+Dialogue: 1,0:04:21.54,0:04:25.17,Q2,,0,0,0,,Ừm, cũng có những hôm chỉ làm nhẹ nhàng thôi mà,
+Dialogue: 1,0:04:25.17,0:04:26.96,Q2,,0,0,0,,kiểu như dùng tay hoặc miệng...
+Dialogue: 1,0:04:26.96,0:04:28.46,Q2,,0,0,0,,Tôi chẳng thèm quan tâm mấy chi tiết đó đâu!
+Dialogue: 1,0:04:29.46,0:04:31.67,Q2,,0,0,0,,Nhân tiện nói luôn, điểm nhấn ấn tượng nhất gần đây
+Dialogue: 1,0:04:31.67,0:04:34.21,Q2,,0,0,0,,chính là màn ép mông vào người anh ấy \Nlàm ảnh sướng phát cuồng lên đấy.
+Dialogue: 1,0:04:34.21,0:04:35.67,Q2,,0,0,0,,Cô đang lải nhải cái quái gì thế hả?!
+Dialogue: 1,0:04:35.67,0:04:37.17,Q2,,0,0,0,,Đã bảo là tôi không muốn nghe rồi mà!
+Dialogue: 1,0:04:38.25,0:04:40.25,Q2,,0,0,0,,Còn về phía Roni...
+Dialogue: 1,0:04:41.33,0:04:43.50,Q2,,0,0,0,,Anh vừa kiếm được một bình rượu vang tuyệt hảo này!
+Dialogue: 1,0:04:43.50,0:04:45.25,Q2,,0,0,0,,Em có muốn nếm thử một chút không, Eury?
+Dialogue: 1,0:04:45.25,0:04:48.13,Q2,,0,0,0,,Được thôi, nghe cũng hấp dẫn đấy.
+Dialogue: 1,0:04:49.50,0:04:51.17,Q2,,0,0,0,,Cơ mà bất ngờ thật đấy nhé.
+Dialogue: 1,0:04:51.17,0:04:53.13,Q2,,0,0,0,,Anh cũng có thú thưởng thức rượu vang cơ à?
+Dialogue: 1,0:04:53.13,0:04:56.96,Q2,,0,0,0,,Rượu vang là thức uống truyền thống \Nđược giáo hội công nhận là hợp lệ mà.
+Dialogue: 1,0:04:57.42,0:04:59.54,Q2,,0,0,0,,Vậy chuyện em muốn trao đổi là gì thế?
+Dialogue: 1,0:04:59.92,0:05:02.13,Q2,,0,0,0,,Về chuyện anh và Amona làm tình với nhau.
+Dialogue: 1,0:05:03.88,0:05:05.79,Q2,,0,0,0,,C-C-C-Chuyện này là thế nào chứ?!
+Dialogue: 1,0:05:05.79,0:05:08.33,Q2,,0,0,0,,Đó chỉ là... ừm... thi đấu mát-xa thôi mà!
+Dialogue: 1,0:05:08.33,0:05:09.88,Q2,,0,0,0,,Anh nghĩ cái lý do đó lừa nổi con nít chắc?
+Dialogue: 1,0:05:09.88,0:05:11.71,Q2,,0,0,0,,Anh xin em đấy, Eury!
+Dialogue: 1,0:05:11.71,0:05:14.54,Q2,,0,0,0,,Xin em hãy giữ kín chuyện giữa anh và Amona \Ntạm thời trong lúc này!
+Dialogue: 1,0:05:14.54,0:05:17.42,Q2,,0,0,0,,Đương nhiên sau này anh nhất định sẽ đứng ra \Nchịu mọi sự chất vấn theo đúng bổn phận của một mục sư!
+Dialogue: 1,0:05:17.42,0:05:20.92,Q2,,0,0,0,,Này, em đâu có ý định gắt gao bức bách anh đến mức đó đâu...
+Dialogue: 1,0:05:21.17,0:05:24.38,Q2,,0,0,0,,Em chỉ muốn hai người tiết chế âm lượng lại một chút thôi.
+Dialogue: 1,0:05:24.38,0:05:25.92,Q2,,0,0,0,,Với lại cũng nên giảm bớt tần suất xuống...
+Dialogue: 1,0:05:25.92,0:05:27.58,Q2,,0,0,0,,Em nói phải.
+Dialogue: 1,0:05:27.58,0:05:29.42,Q2,,0,0,0,,Một kẻ phụng sự Thần linh mà lại ân ái \Nbốn lần một tuần thì thật là bất kính...
+Dialogue: 1,0:05:29.42,0:05:30.88,Q2,,0,0,0,,Một kẻ phụng sự Thần linh mà lại ân ái \Nbốn lần một tuần thì thật là bất kính...
+Dialogue: 1,0:05:29.42,0:05:30.88,Q3,,0,0,0,,Khoan đã...
+Dialogue: 1,0:05:30.88,0:05:33.38,Q2,,0,0,0,,Hóa ra con ả Amona đã khai gian con số rồi đúng không?!
+Dialogue: 1,0:05:33.38,0:05:36.54,Q2,,0,0,0,,À mà tiện thể cho anh hỏi, \Nnếu chỉ dùng tay thôi thì có bị tính không?
+Dialogue: 1,0:05:36.54,0:05:38.83,Q2,,0,0,0,,Dù là tay, miệng hay mông thì cũng như nhau cả thôi!
+Dialogue: 1,0:05:40.92,0:05:42.38,Q2,,0,0,0,,Kiệt sức thật sự...
+Dialogue: 1,0:05:42.38,0:05:45.83,Q2,,0,0,0,,Tại sao mình lại phải ngồi đây nghe tường tận \Nvề đời sống tình dục của hai người họ chứ?
+Dialogue: 1,0:05:46.29,0:05:50.13,Q2,,0,0,0,,Nghĩ mà cay, mình gần một trăm tuổi rồi \Nmà chưa từng có một mảnh tình vắt vai!
+Dialogue: 1,0:05:50.13,0:05:52.25,Q2,,0,0,0,,Một trinh nữ gần một trăm tuổi đầu!
+Dialogue: 1,0:05:52.83,0:05:56.75,Q2,,0,0,0,,Tất cả cũng chỉ tại vì mình đã chứng kiến quá nhiều bi kịch
+Dialogue: 1,0:05:56.75,0:05:58.71,Q2,,0,0,0,,bắt nguồn từ chuyện yêu đương nhăng nhít trong nội bộ tổ đội!
+Dialogue: 1,0:06:03.13,0:06:06.38,Q2,,0,0,0,,Tên em là Eury! \NEm đến từ khu rừng Lirralara!
+Dialogue: 1,0:06:06.38,0:06:10.13,Q2,,0,0,0,,Em biết sử dụng cung tên \Nvà các ma pháp cơ bản của tộc elf ạ!
+Dialogue: 1,0:06:10.13,0:06:12.92,Q2,,0,0,0,,Một tinh linh rừng rậm ư? \NHiếm thấy lắm đấy nhé.
+Dialogue: 1,0:06:12.92,0:06:14.50,Q2,,0,0,0,,Có em gia nhập thì giúp ích nhiều lắm.
+Dialogue: 1,0:06:14.50,0:06:18.50,Q2,,0,0,0,,Bọn anh vẫn chưa quen với việc săn quái thú trong rừng sâu.
+Dialogue: 1,0:06:18.50,0:06:19.88,Q2,,0,0,0,,Rất vui được hợp tác cùng em!
+Dialogue: 1,0:06:21.79,0:06:23.75,Q2,,0,0,0,,A, em xin lỗi...
+Dialogue: 1,0:06:25.13,0:06:29.13,Q2,,0,0,0,,Đây là lần đầu tiên em chạm vào đàn ông, \Nnên em run và lo lắng quá.
+Dialogue: 1,0:06:29.50,0:06:31.88,Q2,,0,0,0,,D-Đáng yêu quá đi mất!
+Dialogue: 1,0:06:31.88,0:06:34.63,Q2,,0,0,0,,Kể từ dạo ấy, những tháng ngày phiêu lưu cùng tổ đội
+Dialogue: 1,0:06:34.63,0:06:37.67,Q2,,0,0,0,,tràn ngập niềm vui và những kỷ niệm sôi động.
+Dialogue: 1,0:06:39.17,0:06:40.92,Q2,,0,0,0,,Cho đến khi con ả đó xuất hiện...!
+Dialogue: 1,0:06:41.29,0:06:43.54,Q2,,0,0,0,,Em là Kurara, một pháp sư ạ!
+Dialogue: 1,0:06:43.54,0:06:47.17,Q2,,0,0,0,,Đây là lần đầu em gia nhập tổ đội, \Nnhưng em sẽ cố gắng hết sức mình!
+Dialogue: 1,0:06:47.42,0:06:49.50,Q2,,0,0,0,,T-Tâm hồn to tròn quá!
+Dialogue: 1,0:06:49.50,0:06:50.58,Q2,,0,0,0,,Tâm...?
+Dialogue: 1,0:06:51.21,0:06:56.42,Q2,,0,0,0,,Em không biết dùng ma pháp trị liệu, \Nnhưng em mát-xa giỏi lắm đấy nhé.
+Dialogue: 1,0:06:57.58,0:07:01.42,Q2,,0,0,0,,Thấy chưa! Em xoa bóp chỗ này \Nlà các anh thấy hết mệt mỏi ngay đúng không nào?
+Dialogue: 1,0:07:03.42,0:07:07.17,Q2,,0,0,0,,Kể từ khoảnh khắc đó, những ngày tháng thanh xuân của tôi \Nđã biến thành cơn ác mộng tàn nhẫn...
+Dialogue: 1,0:07:11.25,0:07:12.92,Q2,,0,0,0,,Anh thấy dễ chịu không nào?
+Dialogue: 1,0:07:25.17,0:07:27.04,Q2,,0,0,0,,Hai người làm cái trò gì thế hả?!
+Dialogue: 1,0:07:27.04,0:07:28.46,Q2,,0,0,0,,Cái thằng này...
+Dialogue: 1,0:07:28.46,0:07:30.79,Q2,,0,0,0,,Nó dám đụng chạm tay chân vào Kurara!
+Dialogue: 1,0:07:31.96,0:07:34.71,Q2,,0,0,0,,Trong khi Kurara và tao vốn đã yêu nhau tha thiết!
+Dialogue: 1,0:07:34.71,0:07:36.17,Q2,,0,0,0,,Mày sủa bậy bạ gì thế?!
+Dialogue: 1,0:07:36.17,0:07:38.46,Q2,,0,0,0,,Tao mới là bạn trai của Kurara!
+Dialogue: 1,0:07:38.46,0:07:41.38,Q2,,0,0,0,,Cô ấy còn bảo lần đầu tiên của cô ấy là dành cho tao cơ mà!
+Dialogue: 1,0:07:41.96,0:07:43.50,Q2,,0,0,0,,Này, Kurara!
+Dialogue: 1,0:07:43.50,0:07:45.38,Q2,,0,0,0,,Mọi chuyện tanh bành thế này đều là tại cô cả đấy!
+Dialogue: 1,0:07:45.38,0:07:48.21,Q2,,0,0,0,,Cô thấy việc đùa giỡn với đàn ông \Nvui lắm có phải không?!
+Dialogue: 1,0:07:48.50,0:07:50.08,Q2,,0,0,0,,K-Không phải đâu mà...
+Dialogue: 1,0:07:50.08,0:07:52.96,Q2,,0,0,0,,Em chỉ muốn tất cả mọi người đều được hạnh phúc thôi...
+Dialogue: 1,0:07:54.75,0:07:58.96,Q2,,0,0,0,,Nên ai nhờ vả chuyện gì em cũng sẵn lòng làm hết!
+Dialogue: 1,0:07:58.96,0:08:00.58,Q2,,0,0,0,,Con nhỏ này...!
+Dialogue: 1,0:08:00.58,0:08:03.00,Q2,,0,0,0,,Nó là thứ sinh ra chỉ để phá tan nát tập thể!
+Dialogue: 1,0:08:04.88,0:08:11.25,Q2,,0,0,0,,Chẳng bao lâu sau, dàn tiên phong nội chiến xâu xé nhau \Nvà tổ đội chính thức tan rã.
+Dialogue: 1,0:08:11.79,0:08:14.00,Q2,,0,0,0,,Và kịch bản đó cứ lặp đi lặp lại ở mọi tổ đội tôi gia nhập sau này...
+Dialogue: 1,0:08:14.00,0:08:17.08,Q2,,0,0,0,,Chẳng hiểu sao cứ yêu đương trong nhóm hay ghen tuông vớ vẩn nổ ra,
+Dialogue: 1,0:08:17.08,0:08:19.50,Q2,,0,0,0,,là y như rằng cả tổ đội lại tan đàn xẻ nghé.
+Dialogue: 1,0:08:20.13,0:08:23.96,Q2,,0,0,0,,Nghĩ lại thì mình thực sự phải giáo huấn hai người họ nghiêm khắc hơn mới được.
+Dialogue: 1,0:08:26.29,0:08:28.50,Q2,,0,0,0,,Có chuyện gì thế hả Haru?
+Dialogue: 1,0:08:28.50,0:08:31.33,Q2,,0,0,0,,Ủa?! Thấy cậu đi nói chuyện riêng với mọi người,
+Dialogue: 1,0:08:31.33,0:08:33.50,Q2,,0,0,0,,nên tớ cứ đinh ninh lượt tiếp theo sẽ tới phiên mình chứ!
+Dialogue: 1,0:08:33.50,0:08:36.25,Q2,,0,0,0,,Không, làm gì có chuyện đó...
+Dialogue: 1,0:08:36.25,0:08:40.46,Q2,,0,0,0,,Mà công nhận Roni dạo này \Nthay đổi nhiều thật đấy nhỉ?
+Dialogue: 1,0:08:40.46,0:08:42.04,Q2,,0,0,0,,Hồi trước á...
+Dialogue: 1,0:08:42.54,0:08:45.75,Q2,,0,0,0,,Tôi là Roni Gardihaus, được giáo hội cử tới đây tiếp viện.
+Dialogue: 1,0:08:45.75,0:08:47.54,Q2,,0,0,0,,Rất hân hạnh được diện kiến mọi người.
+Dialogue: 1,0:08:47.54,0:08:49.13,Q2,,0,0,0,,Tên cậu là Roni à?
+Dialogue: 1,0:08:49.13,0:08:52.04,Q2,,0,0,0,,Tớ là Haru! Mong được cậu giúp đỡ nhé!
+Dialogue: 1,0:08:52.04,0:08:55.29,Q2,,0,0,0,,Thứ lỗi, nhưng bắt tay là hành vi bất kính, \Nnên tôi xin phép từ chối.
+Dialogue: 1,0:08:55.29,0:08:57.08,Q2,,0,0,0,,B-Bất kính á?
+Dialogue: 1,0:08:58.38,0:09:01.38,Q2,,0,0,0,,Bộ tay tớ dính bẩn hay sao cơ chứ?
+Dialogue: 1,0:09:03.08,0:09:06.63,Q2,,0,0,0,,Này cậu kia! Dù là mục sư \Ncũng không được phép giữ cái thái độ trịch thượng đó đâu nhé!
+Dialogue: 1,0:09:06.63,0:09:09.29,Q2,,0,0,0,,T-Thành thật xin thứ lỗi ạ!
+Dialogue: 1,0:09:10.92,0:09:14.29,Q2,,0,0,0,,Ừm, khuôn mặt cô làm tôi nhớ tới người hướng dẫn hồi tôi còn là lính mới,
+Dialogue: 1,0:09:14.29,0:09:17.08,Q2,,0,0,0,,nên hễ thấy cô cau có là tôi lại run rẩy buồn nôn vì sợ hãi.
+Dialogue: 1,0:09:17.08,0:09:19.29,Q2,,0,0,0,,Cậu bất lịch sự đến mức độ nào nữa hả?!
+Dialogue: 1,0:09:19.29,0:09:20.96,Q2,,0,0,0,,X-Xin lỗi mà!
+Dialogue: 1,0:09:20.96,0:09:23.71,Q2,,0,0,0,,Thôi dừng lại đi!
+Dialogue: 1,0:09:24.08,0:09:26.42,Q2,,0,0,0,,Hồi trước cậu ta như thế đấy, đúng không?
+Dialogue: 1,0:09:26.42,0:09:30.46,Q2,,0,0,0,,Ừ. Ban đầu cậu ta còn chẳng thèm nhìn thẳng vào mắt tớ cơ.
+Dialogue: 1,0:09:30.46,0:09:35.92,Q2,,0,0,0,,Thế mà dạo gần đây Roni đã cởi mở hơn hẳn rồi nhỉ?
+Dialogue: 1,0:09:36.46,0:09:39.29,Q2,,0,0,0,,Có phải là nhờ Amona gia nhập nhóm không ta?
+Dialogue: 1,0:09:51.79,0:09:53.21,Q2,,0,0,0,,Có lẽ cậu nói đúng...
+Dialogue: 1,0:09:54.46,0:09:56.50,Q2,,0,0,0,,Tôi ra ngoài một lát đây.
+Dialogue: 1,0:09:56.50,0:09:57.58,Q2,,0,0,0,,Ừ nhé!
+Dialogue: 1,0:09:58.29,0:10:03.29,Q2,,0,0,0,,Chà, nếu kết quả cuối cùng là giúp cả nhóm gắn kết hơn,
+Dialogue: 1,0:10:03.29,0:10:05.54,Q2,,0,0,0,,thì chắc mình cũng có thể mắt nhắm mắt mở bỏ qua một chút...
+Dialogue: 1,0:10:06.08,0:10:09.83,Q2,,0,0,0,,Amona à, chuyện hồi nãy tôi nói thì cô không cần bận tâm quá đâu...
+Dialogue: 1,0:10:15.83,0:10:17.96,Q2,,0,0,0,,K-K-Không phải như cô nghĩ đâu mà!
+Dialogue: 1,0:10:17.96,0:10:21.79,Q2,,0,0,0,,Kế hoạch là tuần này sẽ dừng lại ở đây, \Nnên coi như đây là buổi tiễn biệt cuối cùng thôi mà!
+Dialogue: 1,0:10:22.71,0:10:24.63,Q2,,0,0,0,,Cô cởi mở quá đà rồi đấy.
+Dialogue: 1,0:10:24.63,0:10:26.25,Q2,,0,0,0,,Mở toang cả tấm lòng lẫn hai cái chân ra luôn rồi.
+Dialogue: 1,0:10:26.88,0:10:28.63,Q2,,0,0,0,,Ý cô là sao hả?!
+Dialogue: 1,0:10:34.33,0:10:35.63,Q2,,0,0,0,,Eury!
+Dialogue: 1,0:10:35.63,0:10:37.67,Q2,,0,0,0,,Em quyết tâm rời khỏi khu rừng thật đấy à?
+Dialogue: 1,0:10:37.67,0:10:38.71,Q2,,0,0,0,,Vâng!
+Dialogue: 1,0:10:38.71,0:10:41.17,Q2,,0,0,0,,Em sẽ bước chân ra thế giới bên ngoài,
+Dialogue: 1,0:10:41.17,0:10:44.25,Q2,,0,0,0,,rồi lập ra một dàn harem toàn trai đẹp sáu múi lực lưỡng!
+Dialogue: 1,0:10:48.71,0:10:50.33,Q2,,0,0,0,,Cậu có sao không đấy?!
+Dialogue: 1,0:10:51.04,0:10:53.58,Q2,,0,0,0,,Thế rốt cuộc cô đã lập được chưa? \NMột dàn harem toàn trai đẹp ấy?
+Dialogue: 1,0:10:56.58,0:10:59.42,Q2,,0,0,0,,Bà sẽ bắn thủng lỗ chỗ người mày, \Ncon yêu quái dâm dục này!
+Dialogue: 1,0:11:07.50,0:11:09.67,Q0,,0,0,0,,Yêu hay là ghét? Em cũng chẳng rõ nữa
+Dialogue: 1,0:11:09.67,0:11:11.79,Q0,,0,0,0,,Em đang khao khát điều chi?\NEm chỉ muốn mãi được ở bên cạnh anh
+Dialogue: 1,0:11:11.79,0:11:15.79,Q0,,0,0,0,,Chẳng bao giờ muốn buông lơi hơi ấm dịu dàng ấy
+Dialogue: 1,0:11:16.75,0:11:21.21,Q0,,0,0,0,,Vẫn còn quá sớm ư? Em muốn được thấy anh,\Nmuốn thấu hiểu những cảm xúc chất chứa này
+Dialogue: 1,0:11:21.21,0:11:24.63,Q0,,0,0,0,,Nhưng lúc này vẫn chưa phải lúc trao nhau nụ hôn
+Dialogue: 1,0:11:26.13,0:11:28.38,Q0,,0,0,0,,Liệu hai đứa mình cứ mãi như thế này có được không?
+Dialogue: 1,0:11:28.38,0:11:30.71,Q0,,0,0,0,,Chỉ chạm khẽ vào nhau thôi há chẳng đủ sao?
+Dialogue: 1,0:11:30.71,0:11:34.71,Q0,,0,0,0,,Em đã ôm trọn lấy anh trong khoảnh khắc ấm áp đôi ta cùng sẻ chia
+Dialogue: 1,0:11:36.17,0:11:41.92,Q0,,0,0,0,,Em muốn có được anh, muốn tất cả thuộc về mình, và vì thế
+Dialogue: 1,0:11:41.92,0:11:44.92,Q0,,0,0,0,,Em hoàn toàn bằng lòng yêu anh
+Dialogue: 1,0:11:45.46,0:11:51.29,Q0,,0,0,0,,Chẳng phải ai khác, chỉ riêng anh thôi, dẫu chẳng thể thốt nên lời
+Dialogue: 1,0:11:51.29,0:11:54.88,Q0,,0,0,0,,Em đã chôn giấu tiếng yêu sâu tận trong đáy lòng
+Dialogue: 1,0:11:54.88,0:12:00.75,Q0,,0,0,0,,Một ngày nào đó em sẽ nói ra, nhưng giờ đây đó vẫn là bí mật của riêng em
+Dialogue: 0,0:01:02.33,0:01:06.75,Q1,,0,0,0,,{\pos(102.4,604.8)}{\an7}Tập 5: Hắc Triệu Hồi Sư Và Quá Khứ Của Tộc Elf
+Dialogue: 0,0:03:24.42,0:03:26.42,Q4,,0,0,0,,{\pos(947.2,525.6)}{\an7}Vụ án 1
+Dialogue: 0,0:04:38.25,0:04:40.25,Q4,,0,0,0,,{\pos(947.2,525.6)}{\an7}Vụ án 2
+Dialogue: 0,0:06:29.92,0:06:31.88,Q5,,0,0,0,,{\pos(524.8,417.6)}{\an7}Rộn ràng rộn ràng!
+Dialogue: 0,0:08:03.00,0:08:04.25,Q6,,0,0,0,,{\pos(371.2,122.4)}{\an7}Cực Ác Thuần Khiết
+Dialogue: 0,0:08:11.25,0:08:13.75,Q4,,0,0,0,,{\pos(985.6,446.4)}{\an7}Ghen tuông
+Dialogue: 0,0:08:15.50,0:08:16.75,Q4,,0,0,0,,{\pos(115.2,108)}{\an7}Bỏ trốn theo trai
+Dialogue: 0,0:08:18.25,0:08:19.75,Q4,,0,0,0,,{\pos(256,381.6)}{\an7}Ngoại tình
+Dialogue: 0,0:10:56.58,0:11:01.04,Q7,,0,0,0,,{\pos(102.4,453.6)}{\an7}Mực khô
+
