@@ -1,0 +1,421 @@
+[Script Info]
+Title: English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+ScaledBorderAndShadow: yes
+Video Aspect Ratio: 0
+Video Zoom: 8
+YCbCr Matrix: TV.601
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Main,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback_Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Narration,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Main - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Italics - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback_Italics - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Sign_Basic,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,10,10,18,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:08.08,0:00:09.26,Main,Akira,0,0,0,,Eirene.
+Dialogue: 0,0:00:09.69,0:00:11.74,Main,Akira,0,0,0,,Do you still feel unwell?
+Dialogue: 0,0:00:11.74,0:00:14.71,Main,Eirene,0,0,0,,Thank you, but it's not that.
+Dialogue: 0,0:00:14.71,0:00:16.44,Main,Akira,0,0,0,,If you're not a fan of parties,
+Dialogue: 0,0:00:16.44,0:00:18.95,Main,Akira,0,0,0,,you don't have to force\Nyourself to attend.
+Dialogue: 0,0:00:18.95,0:00:21.91,Main,Eirene,0,0,0,,It's fine. \NGoblin parties are so charming.
+Dialogue: 0,0:00:21.91,0:00:22.91,Main,Akira,0,0,0,,Okay.
+Dialogue: 0,0:00:22.91,0:00:25.17,Main,Chloe,0,0,0,,She doesn't get involved much.
+Dialogue: 0,0:00:25.17,0:00:28.43,Main,Chloe,0,0,0,,Eirene's always been one to stay upwind.
+Dialogue: 0,0:00:28.43,0:00:29.74,Main,Akira,0,0,0,,Upwind?
+Dialogue: 0,0:00:29.74,0:00:32.88,Main,Chloe,0,0,0,,So she can use her skill \Nanytime, as it happens.
+Dialogue: 0,0:00:32.88,0:00:35.09,Main,Akira,0,0,0,,Huh? Can you use poison or something?
+Dialogue: 0,0:00:35.09,0:00:37.32,Main,Eirene,0,0,0,,My skill is called Pheromone.
+Dialogue: 0,0:00:37.32,0:00:40.51,Main,Eirene,0,0,0,,My body emits scents that \Nhave a range of effects.
+Dialogue: 0,0:00:41.19,0:00:43.60,Main,Eirene,0,0,0,,They can be harmful, or helpful.
+Dialogue: 0,0:00:43.81,0:00:45.26,Main,Chloe,0,0,0,,Hiss.
+Dialogue: 0,0:00:45.26,0:00:46.90,Main,Akira,0,0,0,,That sounds convenient.
+Dialogue: 0,0:00:47.14,0:00:48.81,Main,Akira,0,0,0,,Is it a unique skill?
+Dialogue: 0,0:00:48.81,0:00:51.18,Main,Eirene,0,0,0,,It's not all that big a deal.
+Dialogue: 0,0:00:51.18,0:00:53.03,Main,Eirene,0,0,0,,It's just a bit rare.
+Dialogue: 0,0:00:53.03,0:00:54.62,Main,Akira,0,0,0,,A rare skill, eh?
+Dialogue: 0,0:00:54.90,0:00:56.19,Main,Karen,0,0,0,,Akira.
+Dialogue: 0,0:00:56.48,0:00:59.73,Main,Karen,0,0,0,,Prince Albert says he \Nwishes to meet with you.
+Dialogue: 0,0:01:00.12,0:01:01.54,Main,Akira,0,0,0,,The prince does?
+Dialogue: 0,0:01:01.54,0:01:05.19,Main,Karen,0,0,0,,Yes. His position leaves him unable to \Nenter the village without permission,
+Dialogue: 0,0:01:05.19,0:01:07.18,Main,Karen,0,0,0,,so he asks to meet outside the forest.
+Dialogue: 0,0:01:07.18,0:01:09.09,Main,Akira,0,0,0,,All right, I'll go.
+Dialogue: 0,0:01:09.09,0:01:13.19,Main,Eirene,0,0,0,,Albert is the human who hunted \Nthat man down, isn't he?
+Dialogue: 0,0:01:13.51,0:01:14.55,Main,Akira,0,0,0,,Huh?
+Dialogue: 0,0:01:14.55,0:01:15.46,Main,Akira,0,0,0,,Yes.
+Dialogue: 0,0:01:15.46,0:01:17.43,Main,Eirene,0,0,0,,Then I will accompany you.
+Dialogue: 0,0:01:17.43,0:01:19.82,Main,Eirene,0,0,0,,Is that all right, Inspector?
+Dialogue: 0,0:01:20.86,0:01:24.24,Main,Karen,0,0,0,,As long as you stay where \NAkira and I can see you.
+Dialogue: 0,0:01:24.98,0:01:35.07,Sign_Basic,title,0,0,0,,SO WHAT'S WRONG WITH\NGETTING REBORN AS A GOBLIN?
+Dialogue: 0,0:02:55.52,0:02:59.70,Sign_Basic,text,0,0,0,,{\an3\pos(606,305)}EPISODE 6: SO WHAT'S WRONG WITH\NWAGING WARDROBE WARFARE?
+Dialogue: 0,0:02:56.44,0:02:58.77,Main - Top,Albert,0,0,0,,It's been a while, Akira.
+Dialogue: 0,0:02:58.77,0:02:59.65,Main - Top,Akira,0,0,0,,Yes.
+Dialogue: 0,0:03:00.28,0:03:02.55,Main,Albert,0,0,0,,She's one of the elves you mentioned?
+Dialogue: 0,0:03:02.55,0:03:03.69,Main,Akira,0,0,0,,Right.
+Dialogue: 0,0:03:03.69,0:03:08.38,Main,Albert,0,0,0,,I see. So, you really did \Novercome the elven illness.
+Dialogue: 0,0:03:08.38,0:03:10.17,Main,Akira,0,0,0,,Why the sudden visit?
+Dialogue: 0,0:03:10.17,0:03:13.09,Main,Albert,0,0,0,,Ah yes, I have a proposal for you.
+Dialogue: 0,0:03:13.09,0:03:14.25,Main,Akira,0,0,0,,Proposal?
+Dialogue: 0,0:03:14.64,0:03:17.54,Main,Albert,0,0,0,,Do you have designs on \Nstarting a kingdom?
+Dialogue: 0,0:03:18.94,0:03:20.14,Main,Akira,0,0,0,,Come again?
+Dialogue: 0,0:03:20.62,0:03:23.80,Main,Albert,0,0,0,,Any plans to turn your \Nvillage into a kingdom?
+Dialogue: 0,0:03:23.80,0:03:27.09,Main,Albert,0,0,0,,I'd like you to be king \Nof a goblin kingdom.
+Dialogue: 0,0:03:27.09,0:03:32.53,Main,Albert,0,0,0,,We're trying to forbid adventurers from \Ntrespassing here, but it's not going well.
+Dialogue: 0,0:03:32.53,0:03:34.39,Main,Albert,0,0,0,,There's no law strongly prohibiting it
+Dialogue: 0,0:03:34.39,0:03:36.59,Main,Albert,0,0,0,,for a Monster village,\Nnor can we make one.
+Dialogue: 0,0:03:37.03,0:03:40.87,Main,Albert,0,0,0,,But if the other party becomes \Na kingdom, that changes things.
+Dialogue: 0,0:03:41.24,0:03:44.02,Main,Akira,0,0,0,,Ah, so that's how it works.
+Dialogue: 0,0:03:44.95,0:03:47.24,Sign_Basic,text,0,0,0,,PHEROMONE
+Dialogue: 0,0:03:44.90,0:03:46.83,Main,Eirene,0,0,0,,What's the real truth?
+Dialogue: 0,0:03:53.59,0:03:55.45,Main,Eirene,0,0,0,,What's the real truth?
+Dialogue: 0,0:03:55.45,0:03:59.13,Main,Albert,0,0,0,,It's a step toward someday having \Nhim become the Archfiend.
+Dialogue: 0,0:04:00.05,0:04:02.37,Main,Eirene,0,0,0,,Why make him the Archfiend?
+Dialogue: 0,0:04:02.37,0:04:04.17,Main,Albert,0,0,0,,For two reasons.
+Dialogue: 0,0:04:04.17,0:04:07.51,Main,Albert,0,0,0,,One, he's a goblin who's reasonable.
+Dialogue: 0,0:04:07.51,0:04:09.23,Main,Albert,0,0,0,,The other is that he's...
+Dialogue: 0,0:04:14.71,0:04:18.69,Main,Albert,0,0,0,,Well, that was rather careless of me.
+Dialogue: 0,0:04:20.07,0:04:21.48,Main,Albert,0,0,0,,Restart.
+Dialogue: 0,0:04:25.33,0:04:27.62,Main,Albert,0,0,0,,It's been a while, Akira.
+Dialogue: 0,0:04:27.62,0:04:28.48,Main,Akira,0,0,0,,Yes.
+Dialogue: 0,0:04:31.57,0:04:34.49,Main,Albert,0,0,0,,Sorry for being so direct,
+Dialogue: 0,0:04:34.49,0:04:37.91,Main,Albert,0,0,0,,but would you give any thought \Nto forming a goblin kingdom?
+Dialogue: 0,0:04:38.32,0:04:40.10,Main,Akira,0,0,0,,A goblin kingdom?
+Dialogue: 0,0:04:40.59,0:04:43.17,Main,Akira,0,0,0,,Give me a little time to consider.
+Dialogue: 0,0:04:43.17,0:04:46.51,Main,Albert,0,0,0,,Of course. I'll be hoping \Nfor a favorable response.
+Dialogue: 0,0:04:49.89,0:04:53.88,Main,Akira,0,0,0,,Eirene, did you try to \Nuse some power on him?
+Dialogue: 0,0:04:53.88,0:04:55.23,Main,Eirene,0,0,0,,You could tell?
+Dialogue: 0,0:04:56.60,0:04:59.45,Main,Akira,0,0,0,,Because you two were obviously \Nwary of each other,
+Dialogue: 0,0:04:59.45,0:05:02.27,Main,Akira,0,0,0,,and he deliberately moved upwind.
+Dialogue: 0,0:05:02.27,0:05:04.94,Main,Eirene,0,0,0,,I meant him no harm.
+Dialogue: 0,0:05:04.94,0:05:07.07,Main,Akira,0,0,0,,What kind of pheromone did you use?
+Dialogue: 0,0:05:07.07,0:05:09.77,Main,Eirene,0,0,0,,One that would make him tell me anything.
+Dialogue: 0,0:05:09.77,0:05:11.93,Main,Eirene,0,0,0,,It's easy to apply, but it \Nalso quickly loses effect.
+Dialogue: 0,0:05:11.93,0:05:13.86,Main,Eirene,0,0,0,,It can't brainwash or anything.
+Dialogue: 0,0:05:13.86,0:05:16.67,Main,Akira,0,0,0,,Have you ever used your \Npowers on him before?
+Dialogue: 0,0:05:16.67,0:05:18.08,Main,Eirene,0,0,0,,No.
+Dialogue: 0,0:05:18.08,0:05:19.14,Main,Akira,0,0,0,,All right.
+Dialogue: 0,0:05:20.00,0:05:25.42,Italics,Akira,0,0,0,,In that case, I'm almost certain his \Npower has to do with rewinding.
+Dialogue: 0,0:05:25.42,0:05:27.79,Italics,Akira,0,0,0,,He really is a handful.
+Dialogue: 0,0:05:28.10,0:05:30.73,Main,goblin A,0,0,0,,Mayor!
+Dialogue: 0,0:05:33.73,0:05:35.19,Main,Akira,0,0,0,,What's the matter?
+Dialogue: 0,0:05:35.19,0:05:39.12,Main,goblin A,0,0,0,,Echigoya got attacked by a human!
+Dialogue: 0,0:05:41.66,0:05:42.95,Main,goblin B,0,0,0,,Mayor!
+Dialogue: 0,0:05:42.95,0:05:45.39,Main,goblin B,0,0,0,,Heal isn't helping at all!
+Dialogue: 0,0:05:46.43,0:05:48.03,Main,Akira,0,0,0,,You did the best you could.
+Dialogue: 0,0:05:48.03,0:05:50.04,Main,Akira,0,0,0,,He'll be fine now that I'm here.
+Dialogue: 0,0:05:51.12,0:05:52.46,Main,Akira,0,0,0,,Great Heal.
+Dialogue: 0,0:05:59.13,0:06:01.03,Main,Karen,0,0,0,,What's the meaning of this?!
+Dialogue: 0,0:06:01.03,0:06:02.46,Main,merchant 1,0,0,0,,Inspector...
+Dialogue: 0,0:06:02.46,0:06:03.61,Main,merchant 2,0,0,0,,You see...
+Dialogue: 0,0:06:08.68,0:06:09.69,Main,Karen,0,0,0,,Akira.
+Dialogue: 0,0:06:10.21,0:06:11.40,Main,Karen,0,0,0,,Are you...?
+Dialogue: 0,0:06:11.94,0:06:12.97,Main,Akira,0,0,0,,What?
+Dialogue: 0,0:06:13.40,0:06:15.77,Main,Karen,0,0,0,,No, never mind.
+Dialogue: 0,0:06:15.77,0:06:16.85,Main,Akira,0,0,0,,All right.
+Dialogue: 0,0:06:16.85,0:06:19.24,Main,Akira,0,0,0,,Karen, look after Echigoya.
+Dialogue: 0,0:06:19.24,0:06:20.76,Main,Akira,0,0,0,,He's no longer in danger from his wounds,
+Dialogue: 0,0:06:20.76,0:06:23.74,Main,Akira,0,0,0,,but he should get plenty \Nof rest and nourishment.
+Dialogue: 0,0:06:23.74,0:06:24.78,Main,Karen,0,0,0,,All right.
+Dialogue: 0,0:06:25.20,0:06:27.19,Main,Karen,0,0,0,,I'll have Masamune cook him something.
+Dialogue: 0,0:06:28.16,0:06:30.70,Main,Akira,0,0,0,,So... what about you two?
+Dialogue: 0,0:06:31.54,0:06:33.62,Main,merchant 1,0,0,0,,We're sorry! Things got complicated!
+Dialogue: 0,0:06:33.62,0:06:37.03,Main,Akira,0,0,0,,Yes, but that's not what I want to know.
+Dialogue: 0,0:06:38.88,0:06:42.42,Main,merchant 1,0,0,0,,Just after Mister Echigoya left our shop,
+Dialogue: 0,0:06:42.42,0:06:45.03,Main,merchant 1,0,0,0,,an adventurer suddenly attacked him.
+Dialogue: 0,0:06:45.45,0:06:48.02,Main,Akira,0,0,0,,Suddenly? Was it at random?
+Dialogue: 0,0:06:48.02,0:06:52.04,Main,merchant 1,0,0,0,,No. You see, his forehead was tattooed.
+Dialogue: 0,0:06:49.72,0:06:49.76,Sign_Basic,text,0,0,0,,I LOST TO A GOBLIN
+Dialogue: 0,0:06:53.80,0:06:56.10,Main,merchant 1,0,0,0,,We'll make sure he's held accountable...
+Dialogue: 0,0:06:56.10,0:06:58.09,Main,Akira,0,0,0,,All right, I've heard enough.
+Dialogue: 0,0:06:58.09,0:07:02.92,Italics,Akira,0,0,0,,In other words, someone's hatred \Nof me got taken out on Echigoya.
+Dialogue: 0,0:07:02.23,0:07:03.86,Sign_Basic,text,0,0,0,,FLOAT
+Dialogue: 0,0:07:17.50,0:07:20.65,Main,Simon,0,0,0,,We've figured out where the culprit is.
+Dialogue: 0,0:07:20.65,0:07:23.75,Main,Akira,0,0,0,,Figured out? You haven't caught him yet?
+Dialogue: 0,0:07:24.03,0:07:27.59,Main,Simon,0,0,0,,We don't have a legal basis for doing so.
+Dialogue: 0,0:07:27.97,0:07:30.05,Main,Simon,0,0,0,,This time, it's namely...
+Dialogue: 0,0:07:30.62,0:07:35.45,Main,Akira,0,0,0,,He simply attacked a Monster \Nthat wandered into town, eh?
+Dialogue: 0,0:07:35.45,0:07:36.49,Main,Simon,0,0,0,,Mhm.
+Dialogue: 0,0:07:37.02,0:07:39.94,Italics,Akira,0,0,0,,I guess that tracks, \Nfrom a human standpoint.
+Dialogue: 0,0:07:39.94,0:07:43.15,Italics,Akira,0,0,0,,If things go the way the \Nprince suggested...
+Dialogue: 0,0:07:44.85,0:07:47.65,Main,Akira,0,0,0,,Simon, I have one question for you.
+Dialogue: 0,0:07:47.65,0:07:48.98,Main,Simon,0,0,0,,What's that?
+Dialogue: 0,0:07:49.46,0:07:50.64,Main,Akira,0,0,0,,You didn't...
+Dialogue: 0,0:07:52.56,0:07:55.10,Main,Akira,0,0,0,,set this up yourself, right?
+Dialogue: 0,0:07:57.24,0:08:01.54,Main,Simon,0,0,0,,You'll just... have to trust me.
+Dialogue: 0,0:08:04.25,0:08:05.28,Main,Akira,0,0,0,,All right.
+Dialogue: 0,0:08:05.69,0:08:08.45,Main,Akira,0,0,0,,It would've been more \Nsuccessful, had it been you.
+Dialogue: 0,0:08:08.45,0:08:10.38,Main,Akira,0,0,0,,I'll trust you, based on that.
+Dialogue: 0,0:08:10.38,0:08:11.73,Main,Simon,0,0,0,,You sure?
+Dialogue: 0,0:08:11.73,0:08:13.39,Main,Simon,0,0,0,,What do we do about this?
+Dialogue: 0,0:08:13.39,0:08:14.50,Main,Akira,0,0,0,,I'll leave it to you.
+Dialogue: 0,0:08:14.50,0:08:18.63,Main,Akira,0,0,0,,You left it up to me previously. \NIt's the same as that.
+Dialogue: 0,0:08:18.63,0:08:21.93,Main,Simon,0,0,0,,And you're okay with the culprit \Nbeing declared innocent?
+Dialogue: 0,0:08:21.93,0:08:22.93,Main,Akira,0,0,0,,Yes.
+Dialogue: 0,0:08:24.13,0:08:26.14,Main,Simon,0,0,0,,What are you up to?
+Dialogue: 0,0:08:26.14,0:08:27.22,Main,Akira,0,0,0,,Nothing.
+Dialogue: 0,0:08:27.66,0:08:32.60,Main,Akira,0,0,0,,However, I'm going to completely stop \Nsending Echigoya and the others here,
+Dialogue: 0,0:08:32.60,0:08:35.61,Main,Akira,0,0,0,,until goblins are guaranteed \Nrights and safety.
+Dialogue: 0,0:08:36.67,0:08:38.16,Main,Simon,0,0,0,,Understood.
+Dialogue: 0,0:08:40.66,0:08:45.03,Main,maid,0,0,0,,Something about Master Akira \Nseemed different today.
+Dialogue: 0,0:08:45.38,0:08:48.55,Main,maid,0,0,0,,My Lord, what has happened?
+Dialogue: 0,0:08:48.55,0:08:52.57,Main,Simon,0,0,0,,He's a more dreadful man than I imagined.
+Dialogue: 0,0:08:53.08,0:08:53.96,Main,maid,0,0,0,,What?
+Dialogue: 0,0:08:53.96,0:08:58.39,Main,Simon,0,0,0,,The angrier he gets, \Nthe calmer he becomes.
+Dialogue: 0,0:08:58.39,0:09:01.30,Main,Simon,0,0,0,,He's a man who can be ruthless.
+Dialogue: 0,0:09:03.73,0:09:09.02,Main,Simon,0,0,0,,If he stops sending goblins, \Nthe clothing's scarcity value will rise.
+Dialogue: 0,0:09:09.02,0:09:12.15,Main,Simon,0,0,0,,But is that his only aim?
+Dialogue: 0,0:09:12.15,0:09:13.67,Main,spy,0,0,0,,My Lord.
+Dialogue: 0,0:09:14.23,0:09:15.44,Main,Simon,0,0,0,,What is it?
+Dialogue: 0,0:09:15.44,0:09:19.49,Main,spy,0,0,0,,The goblin leader has made contact \Nwith some local hoodlums.
+Dialogue: 0,0:09:19.49,0:09:22.80,Main,spy,0,0,0,,He appears to be planning \Nto smuggle clothing.
+Dialogue: 0,0:09:23.69,0:09:25.13,Main,Simon,0,0,0,,Aha.
+Dialogue: 0,0:09:26.33,0:09:31.20,Main,Simon,0,0,0,,I see he's not averse to \Nusing drastic measures.
+Dialogue: 0,0:09:34.31,0:09:36.46,Main,Tony's wife,0,0,0,,Hey, what's going on here?!
+Dialogue: 0,0:09:36.46,0:09:39.57,Main,Tony's wife,0,0,0,,I thought Echigoya's clothes \Nwere due to come in today!
+Dialogue: 0,0:09:39.57,0:09:41.57,Main,woman 1,0,0,0,,I was looking forward to \Nseeing the new goods!
+Dialogue: 0,0:09:41.57,0:09:43.74,Main,woman 2,0,0,0,,What am I supposed to wear \Nfor my date next week?!
+Dialogue: 0,0:09:43.74,0:09:47.55,Main,shopkeeper,0,0,0,,I apologize! I'd love nothing \Nmore than to sell some to you.
+Dialogue: 0,0:09:47.55,0:09:49.65,Main,Tony's wife,0,0,0,,Why aren't they here?!
+Dialogue: 0,0:09:49.65,0:09:53.93,Main,shopkeeper,0,0,0,,I heard it has something \Nto do with an adventurer.
+Dialogue: 0,0:09:56.71,0:09:57.70,Main,Tony's wife,0,0,0,,Hubby!
+Dialogue: 0,0:09:57.93,0:10:01.90,Main,Tony's wife,0,0,0,,I was told you're letting the culprit \Nwho wounded little Echigoya go free!
+Dialogue: 0,0:10:02.56,0:10:06.88,Main,Tony,0,0,0,,Go free? He's kind of... \Nnot guilty of any crime...
+Dialogue: 0,0:10:06.88,0:10:10.04,Main,Tony's wife,0,0,0,,Unbelievable! Why don't you punish him?!
+Dialogue: 0,0:10:10.04,0:10:15.71,Main,Tony,0,0,0,,Well, it comes down to him having \Ndefeated a Monster that entered town.
+Dialogue: 0,0:10:15.71,0:10:16.66,Main,Tony,0,0,0,,No punishment for that.
+Dialogue: 0,0:10:16.66,0:10:21.84,Main,Tony's wife,0,0,0,,What?! You'd call those cute, \Ninnocent little guys Monsters?!
+Dialogue: 0,0:10:22.11,0:10:24.07,Main,Tony's wife,0,0,0,,If you'd do your job properly,
+Dialogue: 0,0:10:24.07,0:10:27.20,Main,Tony's wife,0,0,0,,I'd be able to get my hands on some \Nof little Echigoya's new clothes!
+Dialogue: 0,0:10:27.20,0:10:31.20,Main,Tony,0,0,0,,This is overblown. \NYou have lots of other clothes.
+Dialogue: 0,0:10:31.20,0:10:33.43,Main,Tony's wife,0,0,0,,Was that supposed to be a joke?
+Dialogue: 0,0:10:34.17,0:10:35.44,Main,Tony,0,0,0,,I'm sorry.
+Dialogue: 0,0:10:35.44,0:10:36.39,Main,Tony's wife,0,0,0,,Whatever!
+Dialogue: 0,0:10:41.43,0:10:44.15,Main,Tony,0,0,0,,I'd better fix this soon, or else.
+Dialogue: 0,0:10:47.95,0:10:50.25,Main,Karen,0,0,0,,The mood's begun to shift in the city.
+Dialogue: 0,0:10:51.87,0:10:53.02,Main,Akira,0,0,0,,Huh?
+Dialogue: 0,0:10:53.49,0:10:57.07,Main,Karen,0,0,0,,The ladies in particular are denouncing \Nthe adventurer who attacked Echigoya,
+Dialogue: 0,0:10:57.07,0:11:00.08,Main,Karen,0,0,0,,and the guild for offering him work.
+Dialogue: 0,0:11:00.85,0:11:04.26,Main,Karen,0,0,0,,If the law's not on your side, \Nyou'll retaliate in more subtle ways?
+Dialogue: 0,0:11:04.26,0:11:05.96,Main,Akira,0,0,0,,It's not about that.
+Dialogue: 0,0:11:06.67,0:11:09.35,Main,Akira,0,0,0,,Retaliation is for when all \Nother means are exhausted.
+Dialogue: 0,0:11:09.77,0:11:12.66,Main,Akira,0,0,0,,The thing to do now \Nis prevent it from recurring.
+Dialogue: 0,0:11:12.66,0:11:16.45,Main,Akira,0,0,0,,I was naive when I said we'd just \Ngive up on trading if it failed.
+Dialogue: 0,0:11:16.45,0:11:21.52,Main,Akira,0,0,0,,I didn't take into account that failure \Nmight mean endangering goblin lives.
+Dialogue: 0,0:11:21.52,0:11:23.80,Main,Akira,0,0,0,,This was entirely my mistake.
+Dialogue: 0,0:11:23.80,0:11:26.60,Main,Akira,0,0,0,,So I have to make sure \Nit never happens again.
+Dialogue: 0,0:11:26.94,0:11:31.40,Main,Karen,0,0,0,,Your scheme has managed \Nto shift public opinion.
+Dialogue: 0,0:11:31.40,0:11:33.38,Main,Karen,0,0,0,,To the point where a group of women
+Dialogue: 0,0:11:33.38,0:11:37.25,Main,Karen,0,0,0,,has already submitted a request \Nto the guild to protect goblins.
+Dialogue: 0,0:11:37.25,0:11:42.04,Main,Akira,0,0,0,,If that shift is happening, \Nmaybe we won't need a law to be safe.
+Dialogue: 0,0:11:44.54,0:11:46.91,Main,Karen,0,0,0,,I can't tell you not to brood,
+Dialogue: 0,0:11:46.91,0:11:49.89,Main,Karen,0,0,0,,but the situation is improving \Nthanks to your decision.
+Dialogue: 0,0:11:49.89,0:11:51.28,Main,Karen,0,0,0,,Well played.
+Dialogue: 0,0:11:56.20,0:11:58.96,Italics,Akira,0,0,0,,I made Karen worry \Nover this whole thing.
+Dialogue: 0,0:12:00.88,0:12:02.43,Italics,Akira,0,0,0,,But she's got it wrong.
+Dialogue: 0,0:12:03.31,0:12:07.50,Italics,Akira,0,0,0,,I used Survival of the Fittest to \Nsway public sentiment in the city.
+Dialogue: 0,0:12:07.50,0:12:10.36,Italics,Akira,0,0,0,,And I'm the one who indirectly \Nsubmitted the protection request.
+Dialogue: 0,0:12:13.41,0:12:16.41,Main,Akira,0,0,0,,Archfiend powers, huh...?
+Dialogue: 0,0:12:23.29,0:12:24.71,Main,Karen,0,0,0,,You showed up late.
+Dialogue: 0,0:12:25.36,0:12:27.39,Main,Akira,0,0,0,,Yeah, a little bit.
+Dialogue: 0,0:12:27.39,0:12:29.56,Main,Akira,0,0,0,,You're not going back to the city?
+Dialogue: 0,0:12:29.91,0:12:32.72,Main,Karen,0,0,0,,When I'm there, \Nthe ladies demand to know
+Dialogue: 0,0:12:32.72,0:12:35.74,Main,Karen,0,0,0,,if I can arrange something \Nwith Echigoya's clothes.
+Dialogue: 0,0:12:35.74,0:12:38.05,Main,Akira,0,0,0,,Ah. Sorry.
+Dialogue: 0,0:12:38.05,0:12:40.21,Main,Akira,0,0,0,,It'll probably all calm down soon.
+Dialogue: 0,0:12:41.57,0:12:43.47,Main,Karen,0,0,0,,Are you carrying out some plan?
+Dialogue: 0,0:12:48.57,0:12:51.70,Main,Karen,0,0,0,,Akira, what's your take on her?
+Dialogue: 0,0:12:54.14,0:12:57.48,Main,Akira,0,0,0,,My take? I'd say she's enjoying herself.
+Dialogue: 0,0:12:58.18,0:12:59.29,Main,Karen,0,0,0,,That's right.
+Dialogue: 0,0:12:59.77,0:13:02.30,Main,Karen,0,0,0,,But she wasn't when she \Ncame to the village.
+Dialogue: 0,0:13:03.32,0:13:08.02,Italics,Akira,0,0,0,,Back then, Chloe's face \Nlooked like it was possessed
+Dialogue: 0,0:13:08.02,0:13:11.31,Italics,Akira,0,0,0,,by negative urges like \Nhatred and revenge.
+Dialogue: 0,0:13:13.23,0:13:17.27,Main,Karen,0,0,0,,The look on one's face \Naffects those around them.
+Dialogue: 0,0:13:17.69,0:13:21.31,Main,Karen,0,0,0,,As she's gotten more involved with \Nyou and the childlike goblins,
+Dialogue: 0,0:13:21.31,0:13:23.40,Main,Karen,0,0,0,,she's been smiling more.
+Dialogue: 0,0:13:26.91,0:13:30.95,Main,Karen,0,0,0,,Right now, you look like \Nshe did not long ago.
+Dialogue: 0,0:13:32.54,0:13:34.24,Main,Akira,0,0,0,,Do I?
+Dialogue: 0,0:13:37.42,0:13:39.39,Main,Karen,0,0,0,,Hey, everyone!
+Dialogue: 0,0:13:39.95,0:13:41.80,Main,goblin C,0,0,0,,Yes, Karen?
+Dialogue: 0,0:13:41.80,0:13:43.01,Main,goblin D,0,0,0,,What's up?
+Dialogue: 0,0:13:43.34,0:13:45.80,Main,Karen,0,0,0,,Looks like Akira's done working.
+Dialogue: 0,0:13:47.09,0:13:48.31,Main,goblin C,0,0,0,,Really?
+Dialogue: 0,0:13:48.31,0:13:49.32,Main,goblin D,0,0,0,,It's break time?
+Dialogue: 0,0:13:49.32,0:13:51.06,Main,Akira,0,0,0,,No, I still have...
+Dialogue: 0,0:13:51.06,0:13:52.58,Main,goblin E,0,0,0,,Then it's party time!
+Dialogue: 0,0:13:52.58,0:13:54.57,Main,goblin F,0,0,0,,Let's dance with the mayor!
+Dialogue: 0,0:13:53.76,0:13:55.05,Main - Top,Akira,0,0,0,,H-Hey!
+Dialogue: 0,0:13:55.05,0:13:57.49,Main,goblin C,0,0,0,,You always work so hard, Mayor.
+Dialogue: 0,0:13:57.49,0:13:59.71,Main,goblin G,0,0,0,,Want to drink? Or dance with me?
+Dialogue: 0,0:13:59.71,0:14:02.82,Main,goblin G,0,0,0,,Or maybe make—a—baby?
+Dialogue: 0,0:14:02.82,0:14:04.60,Main,Chloe,0,0,0,,None of that!
+Dialogue: 0,0:14:04.60,0:14:08.31,Main,Chloe,0,0,0,,Akira happens to be tired, \Nso let him take it easy!
+Dialogue: 0,0:14:09.17,0:14:14.21,Italics,Akira,0,0,0,,I was getting all worked up \Nfor their sakes, I thought.
+Dialogue: 0,0:14:14.61,0:14:16.79,Italics,Akira,0,0,0,,Some silly things went through my head.
+Dialogue: 0,0:14:17.49,0:14:21.40,Italics,Akira,0,0,0,,The look on one's face affects \Nthose around them, eh?
+Dialogue: 0,0:14:22.28,0:14:23.67,Main,Akira,0,0,0,,Thank you, Karen.
+Dialogue: 0,0:14:24.81,0:14:29.73,Main,Akira,0,0,0,,It must be thanks to Karen that \NI'm able to smile right now.
+Dialogue: 0,0:14:33.11,0:14:34.56,Main,girl,0,0,0,,Here you are.
+Dialogue: 0,0:14:34.56,0:14:35.65,Main,Akira,0,0,0,,Thanks again today.
+Dialogue: 0,0:14:36.22,0:14:38.38,Main,Akira,0,0,0,,Be careful going home.
+Dialogue: 0,0:14:38.38,0:14:40.06,Main,girl,0,0,0,,Bye-bye!
+Dialogue: 0,0:14:40.06,0:14:41.52,Main,Karen,0,0,0,,Who was that?
+Dialogue: 0,0:14:42.83,0:14:45.31,Main,Akira,0,0,0,,She's a city resident.
+Dialogue: 0,0:14:45.31,0:14:46.87,Main,Karen,0,0,0,,What did you get from her?
+Dialogue: 0,0:14:46.87,0:14:48.12,Main,Akira,0,0,0,,Oh, this?
+Dialogue: 0,0:14:49.08,0:14:51.44,Main,Karen,0,0,0,,Stones? What are these for?
+Dialogue: 0,0:14:51.97,0:14:54.32,Main,Akira,0,0,0,,I'm doing a Survival of the Fittest test.
+Dialogue: 0,0:14:55.66,0:14:57.61,Main,Akira,0,0,0,,Not so I can misuse it!
+Dialogue: 0,0:14:58.01,0:15:00.70,Main,Akira,0,0,0,,I want to have a full \Nunderstanding of how it works.
+Dialogue: 0,0:15:02.02,0:15:04.35,Main,Karen,0,0,0,,So, what have you learned?
+Dialogue: 0,0:15:04.35,0:15:06.17,Main,Akira,0,0,0,,Broadly speaking, two things.
+Dialogue: 0,0:15:06.17,0:15:09.71,Main,Akira,0,0,0,,First, I can make someone repeatedly \Nperform the same behavior.
+Dialogue: 0,0:15:09.71,0:15:14.06,Main,Akira,0,0,0,,Second, they won't obey the order \Nif it's impossible for them.
+Dialogue: 0,0:15:14.06,0:15:16.60,Main,Karen,0,0,0,,Won't obey it? What do you mean?
+Dialogue: 0,0:15:16.60,0:15:20.36,Main,Akira,0,0,0,,I mean things that are beyond \Ntheir ability, like "grow wings"
+Dialogue: 0,0:15:20.36,0:15:22.51,Main,Akira,0,0,0,,or "turn into a cat."
+Dialogue: 0,0:15:22.97,0:15:24.44,Main,Karen,0,0,0,,That makes sense.
+Dialogue: 0,0:15:25.18,0:15:26.78,Main,Karen,0,0,0,,From what I've heard,
+Dialogue: 0,0:15:26.78,0:15:29.59,Main,Karen,0,0,0,,I suspect you're making better use \Nof it than the previous Archfiend.
+Dialogue: 0,0:15:29.59,0:15:31.00,Main,Akira,0,0,0,,You think so?
+Dialogue: 0,0:15:31.44,0:15:34.62,Main,Karen,0,0,0,,Like you could control a \Nkingdom from the shadows.
+Dialogue: 0,0:15:35.66,0:15:37.78,Main,Akira,0,0,0,,Not that I'd do such a thing.
+Dialogue: 0,0:15:38.02,0:15:41.83,Main,Karen,0,0,0,,True, you wouldn't do \Nso without a reason.
+Dialogue: 0,0:15:43.68,0:15:44.66,Main,Akira,0,0,0,,Karen.
+Dialogue: 0,0:15:46.13,0:15:49.19,Main,Akira,0,0,0,,Sorry, and thank you.
+Dialogue: 0,0:15:49.80,0:15:51.72,Main,Karen,0,0,0,,Wh-What brought this on?
+Dialogue: 0,0:15:51.72,0:15:54.44,Main,Akira,0,0,0,,You helped me change course.
+Dialogue: 0,0:15:54.44,0:15:55.66,Main,Akira,0,0,0,,I'm grateful.
+Dialogue: 0,0:15:56.01,0:15:57.86,Main,Karen,0,0,0,,Are you better now?
+Dialogue: 0,0:15:58.43,0:16:02.01,Main,Akira,0,0,0,,Yes. I'll never lose \Nsight of my goal again.
+Dialogue: 0,0:16:02.57,0:16:06.31,Main,Akira,0,0,0,,I just want my people \Nto live happy lives.
+Dialogue: 0,0:16:08.06,0:16:09.35,Main,Karen,0,0,0,,All right.
+Dialogue: 0,0:16:09.35,0:16:11.91,Main,Karen,0,0,0,,Keep things on track, Mayor.
+Dialogue: 0,0:16:11.91,0:16:13.03,Main,Akira,0,0,0,,Yeah.
+Dialogue: 0,0:16:20.12,0:16:21.59,Main,Akira,0,0,0,,I'm sorry.
+Dialogue: 0,0:16:23.37,0:16:26.83,Main,Simon,0,0,0,,Wh-What's the matter, my brother in arms?
+Dialogue: 0,0:16:26.83,0:16:28.62,Main,Akira,0,0,0,,I was wrong before.
+Dialogue: 0,0:16:28.62,0:16:30.95,Main,Akira,0,0,0,,I got angry, and I let it go to my head.
+Dialogue: 0,0:16:30.95,0:16:32.16,Main,Akira,0,0,0,,I hope you forgive me.
+Dialogue: 0,0:16:32.16,0:16:34.90,Main,Simon,0,0,0,,Hey, you couldn't help it.
+Dialogue: 0,0:16:34.90,0:16:39.17,Main,Simon,0,0,0,,Even so, I'm surprised by how \Nquickly you bounced back.
+Dialogue: 0,0:16:39.51,0:16:41.34,Main,Akira,0,0,0,,Karen told me off.
+Dialogue: 0,0:16:45.41,0:16:48.02,Main,Simon,0,0,0,,Well then, I suppose that'd do it.
+Dialogue: 0,0:16:48.02,0:16:50.14,Italics,Akira,0,0,0,,I think maybe he misunderstands a little.
+Dialogue: 0,0:16:50.14,0:16:52.88,Main,Akira,0,0,0,,And so, I have a proposal.
+Dialogue: 0,0:16:53.50,0:16:54.70,Main,Simon,0,0,0,,Such as?
+Dialogue: 0,0:16:54.70,0:16:58.87,Main,Akira,0,0,0,,Could we set up an area under joint \Ndominion between the village and the city?
+Dialogue: 0,0:16:59.99,0:17:01.28,Main,Simon,0,0,0,,Oh?
+Dialogue: 0,0:17:01.28,0:17:04.81,Main,Akira,0,0,0,,I'd like a place where I'd \Nfeel safe sending goblins.
+Dialogue: 0,0:17:05.20,0:17:06.84,Main,Simon,0,0,0,,It's true
+Dialogue: 0,0:17:06.84,0:17:12.76,Main,Simon,0,0,0,,that immediately outlawing harm \Ntoward goblins would be difficult.
+Dialogue: 0,0:17:12.76,0:17:15.12,Main,Akira,0,0,0,,We have a similar problem.
+Dialogue: 0,0:17:15.12,0:17:17.58,Main,Akira,0,0,0,,If the goblins were to \Nsuddenly form a kingdom,
+Dialogue: 0,0:17:17.58,0:17:20.39,Main,Akira,0,0,0,,that would alarm everyone around us.
+Dialogue: 0,0:17:20.39,0:17:26.25,Italics,Akira,0,0,0,,Maybe someday we'll have to be a kingdom, \Nbut for now, the risk is too great.
+Dialogue: 0,0:17:26.25,0:17:30.70,Italics,Akira,0,0,0,,Simon is one thing, but I still don't \Nknow that prince's true motives.
+Dialogue: 0,0:17:30.70,0:17:32.76,Main,Akira,0,0,0,,If we make a joint-dominion zone,
+Dialogue: 0,0:17:32.76,0:17:36.50,Main,Akira,0,0,0,,we can make human and goblin rights \Nequal in a limited fashion,
+Dialogue: 0,0:17:36.50,0:17:38.74,Main,Akira,0,0,0,,and it'll be a deterrent if \Nthere are laws involved.
+Dialogue: 0,0:17:39.08,0:17:41.17,Main,Simon,0,0,0,,Always comes back to laws, eh?
+Dialogue: 0,0:17:41.75,0:17:46.91,Main,Simon,0,0,0,,It was terrifying how you went after \Npeople's emotions the way you did.
+Dialogue: 0,0:17:46.91,0:17:51.84,Italics,Akira,0,0,0,,I guess he {\i0}did{\i1} know I was stirring up \Nthe ladies from behind the scenes.
+Dialogue: 0,0:17:51.84,0:17:53.88,Main,Akira,0,0,0,,There's one issue.
+Dialogue: 0,0:17:54.17,0:17:56.73,Main,Akira,0,0,0,,The customs fees collected \Non Echigoya's clothes.
+Dialogue: 0,0:17:56.73,0:17:59.29,Main,Akira,0,0,0,,You'd no longer be able to collect them \Nin a joint-dominion zone.
+Dialogue: 0,0:17:59.29,0:18:03.98,Main,Simon,0,0,0,,I don't mind. \NIt's way better than quarreling.
+Dialogue: 0,0:18:04.30,0:18:06.23,Main,Akira,0,0,0,,Thank you, Simon!
+Dialogue: 0,0:18:06.65,0:18:08.86,Main,Akira,0,0,0,,That takes care of that!
+Dialogue: 0,0:18:17.87,0:18:20.61,Main,soldier,0,0,0,,Highness! I apologize.
+Dialogue: 0,0:18:20.61,0:18:22.92,Main,soldier,0,0,0,,We lost sight of the Dark-Sky Dragon.
+Dialogue: 0,0:18:22.92,0:18:25.75,Main,soldier,0,0,0,,It's suspected to have \Nentered goblin territory.
+Dialogue: 0,0:18:28.45,0:18:31.25,Main,Albert,0,0,0,,Continue searching right \Nup to the boundary line.
+Dialogue: 0,0:18:31.25,0:18:33.21,Main,Albert,0,0,0,,Take care not to violate their territory.
+Dialogue: 0,0:18:33.21,0:18:34.34,Main,soldier,0,0,0,,Yes, Highness.
+Dialogue: 0,0:18:34.64,0:18:37.84,Main,Albert,0,0,0,,At times like this, \Nmy ability is no help.
+Dialogue: 0,0:18:38.59,0:18:44.26,Sign_Basic,text,0,0,0,,EIGHTH TIME'S THE CHARM
+Dialogue: 0,0:18:38.38,0:18:41.25,Italics,Albert,0,0,0,,Eighth Time's the Charm \Nis a powerful skill
+Dialogue: 0,0:18:41.25,0:18:44.25,Italics,Albert,0,0,0,,that can rewind time and undo an \Nevent as if nothing ever happened,
+Dialogue: 0,0:18:44.25,0:18:46.07,Italics,Albert,0,0,0,,but it has major restrictions.
+Dialogue: 0,0:18:46.07,0:18:49.46,Italics,Albert,0,0,0,,It can only rewind the same event,
+Dialogue: 0,0:18:49.46,0:18:52.97,Italics,Albert,0,0,0,,or target person, up to seven times.
+Dialogue: 0,0:18:52.97,0:18:54.51,Italics,Albert,0,0,0,,The clock's always ticking,
+Dialogue: 0,0:18:54.51,0:18:57.75,Italics,Albert,0,0,0,,as only mistakes under \Nthirty minutes old can be rewound.
+Dialogue: 0,0:18:58.13,0:19:01.23,Italics,Albert,0,0,0,,After half an hour, \Nan event becomes set in stone.
+Dialogue: 0,0:19:01.61,0:19:06.04,Italics,Albert,0,0,0,,And I can only rewind things within \Nthe bounds of my perception,
+Dialogue: 0,0:19:06.04,0:19:08.08,Italics,Albert,0,0,0,,which rules out this situation.
+Dialogue: 0,0:19:08.88,0:19:09.79,Main,Albert,0,0,0,,Saxon.
+Dialogue: 0,0:19:09.79,0:19:10.79,Main,Saxon,0,0,0,,Highness.
+Dialogue: 0,0:19:10.79,0:19:12.61,Main,Albert,0,0,0,,Go back before me,
+Dialogue: 0,0:19:12.61,0:19:15.50,Main,Albert,0,0,0,,and put more guards to watching the \NDuke of Fiends and the Spirit Princess.
+Dialogue: 0,0:19:15.50,0:19:16.58,Main,Saxon,0,0,0,,As you command.
+Dialogue: 0,0:19:18.78,0:19:22.39,Italics,Albert,0,0,0,,It's too soon for the Noble Triad \Nto come in contact with Akira.
+Dialogue: 0,0:19:23.21,0:19:27.45,Main,Tony,0,0,0,,I am Tony Weston. I serve in \Nthe position of guildmaster.
+Dialogue: 0,0:19:27.45,0:19:29.46,Main,Tony,0,0,0,,This is my chum of many years.
+Dialogue: 0,0:19:29.46,0:19:32.33,Main,Tony,0,0,0,,He's known as Kainas, the Unformed Blade.
+Dialogue: 0,0:19:33.14,0:19:34.41,Main,Akira,0,0,0,,The Unformed Blade.
+Dialogue: 0,0:19:34.86,0:19:36.06,Sign_Basic,text,0,0,0,,SEARCH EYE
+Dialogue: 0,0:19:34.88,0:19:36.06,Italics,Akira,0,0,0,,Search Eye.
+Dialogue: 0,0:19:36.06,0:19:39.28,Sign_Basic,text,0,0,0,,WEAPON MASTER
+Dialogue: 0,0:19:36.57,0:19:39.45,Italics,Akira,0,0,0,,That's a rare skill. He's no pushover.
+Dialogue: 0,0:19:39.53,0:19:41.49,Sign_Basic,text,0,0,0,,NOTHING
+Dialogue: 0,0:19:41.48,0:19:43.78,Main,Akira,0,0,0,,So, you had something to discuss?
+Dialogue: 0,0:19:43.78,0:19:47.82,Main,Tony,0,0,0,,Would you mind taking him on \Nas a bodyguard for a time?
+Dialogue: 0,0:19:47.82,0:19:49.60,Main,Akira,0,0,0,,Whose bodyguard?
+Dialogue: 0,0:19:49.60,0:19:53.53,Main,Tony,0,0,0,,Echigoya's. He's my number-one swordsman.
+Dialogue: 0,0:19:53.53,0:19:55.74,Main,Akira,0,0,0,,Wow, your number one?
+Dialogue: 0,0:19:56.09,0:19:58.59,Main,Akira,0,0,0,,But why would you ask for such a thing?
+Dialogue: 0,0:19:58.59,0:20:02.95,Main,Tony,0,0,0,,Well, the thing is, my wife is \Na big fan of Echigoya's brand.
+Dialogue: 0,0:20:02.95,0:20:05.13,Main,Tony,0,0,0,,I really caught some hell.
+Dialogue: 0,0:20:05.73,0:20:09.40,Italics,Akira,0,0,0,,Sounds like things are going my \Nway even more than expected.
+Dialogue: 0,0:20:10.54,0:20:14.14,Italics,Akira,0,0,0,,Echigoya's threads have become \Na popular brand in town.
+Dialogue: 0,0:20:14.14,0:20:19.21,Italics,Akira,0,0,0,,I knew once supply dried up, \Nthe ladies would voice their discontent.
+Dialogue: 0,0:20:19.21,0:20:23.94,Italics,Akira,0,0,0,,And when the ladies are upset, \Nthat affects the men.
+Dialogue: 0,0:20:23.94,0:20:26.42,Main,Tony,0,0,0,,It happened to him too, matter of fact.
+Dialogue: 0,0:20:26.42,0:20:27.35,Main,Akira,0,0,0,,Huh?
+Dialogue: 0,0:20:27.35,0:20:29.03,Main,Tony,0,0,0,,It was his daughter.
+Dialogue: 0,0:20:29.03,0:20:33.95,Flashback,Kainas's daughter,0,0,0,,Daddy, you're so important, \Nbut you can't protect a single goblin?
+Dialogue: 0,0:20:33.95,0:20:35.75,Main,Tony,0,0,0,,That's what she said to him.
+Dialogue: 0,0:20:35.75,0:20:38.18,Main,Kainas,0,0,0,,No point in bringing that up now.
+Dialogue: 0,0:20:38.18,0:20:40.88,Italics,Akira,0,0,0,,Oh? I didn't expect him to \Nhave a soft spot like that.
+Dialogue: 0,0:20:40.88,0:20:42.03,Main,Akira,0,0,0,,About that.
+Dialogue: 0,0:20:42.54,0:20:44.00,Main,Akira,0,0,0,,Gotta say, I'm sorry.
+Dialogue: 0,0:20:45.57,0:20:47.97,Main,Tony,0,0,0,,I wasn't expecting any apologies.
+Dialogue: 0,0:20:47.97,0:20:51.00,Main,Akira,0,0,0,,Well, even if it's not my fault,
+Dialogue: 0,0:20:51.00,0:20:54.40,Main,Akira,0,0,0,,I still feel bad about the \Nwhole daughter thing.
+Dialogue: 0,0:20:55.49,0:21:00.03,Main,Tony,0,0,0,,You don't quite seem to be \Nwhat I was envisioning.
+Dialogue: 0,0:21:01.53,0:21:04.49,Main,Tony,0,0,0,,Even an accomplished tactician \Nwould have trouble
+Dialogue: 0,0:21:04.79,0:21:07.22,Main,Tony,0,0,0,,executing that pinpoint plan of yours.
+Dialogue: 0,0:21:07.67,0:21:13.16,Main,Tony,0,0,0,,So, I thought you'd be \Nmore, well... ruthless.
+Dialogue: 0,0:21:13.86,0:21:17.12,Italics,Akira,0,0,0,,That might not be altogether mistaken.
+Dialogue: 0,0:21:19.22,0:21:23.45,Italics,Akira,0,0,0,,Had I kept going, there's a good chance \NI would have cast myself into darkness.
+Dialogue: 0,0:21:24.07,0:21:27.01,Italics,Akira,0,0,0,,I really owe Karen big this time around.
+Dialogue: 0,0:21:27.34,0:21:29.12,Main,Akira,0,0,0,,I've heard your offer.
+Dialogue: 0,0:21:29.12,0:21:32.52,Main,Akira,0,0,0,,Let's try this out by having him accompany\NEchigoya to the city as his bodyguard.
+Dialogue: 0,0:21:33.01,0:21:36.43,Main,Tony,0,0,0,,Okay! I'm glad you agreed!
+Dialogue: 0,0:21:37.35,0:21:40.89,Italics,Akira,0,0,0,,I'd been thinking of mending \Nfences with the human side.
+Dialogue: 0,0:21:40.89,0:21:42.37,Italics,Akira,0,0,0,,This is a timely offer.
+Dialogue: 0,0:23:14.36,0:23:18.11,Main,goblin H/I/J,0,0,0,,Mayor! Don't come over here!
+Dialogue: 0,0:23:18.11,0:23:19.69,Italics,Akira,0,0,0,,Something must have happened.
+Dialogue: 0,0:23:19.69,0:23:23.25,Main,Akira,0,0,0,,There's really nothing there? \NYou shouldn't do dangerous stuff.
+Dialogue: 0,0:23:23.25,0:23:25.22,Main,goblin J,0,0,0,,We're sorry!
+Dialogue: 0,0:23:25.22,0:23:27.42,Main,goblin I,0,0,0,,We thought you'd get mad.
+Dialogue: 0,0:23:27.67,0:23:30.70,Main,goblin I,0,0,0,,There's a poor little one \Ncollapsed over there!
+Dialogue: 0,0:23:30.70,0:23:32.33,Main,Akira,0,0,0,,Someone's been hurt?!
+Dialogue: 0,0:23:32.80,0:23:34.35,Main,goblin H,0,0,0,,That's the one.
+Dialogue: 0,0:23:35.24,0:23:36.46,Main,Akira,0,0,0,,Is that...
+Dialogue: 0,0:23:37.42,0:23:38.71,Main,Akira,0,0,0,,a dragon?
+
