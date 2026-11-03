@@ -1,0 +1,346 @@
+﻿[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+Timer: 0.0000
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Segoe UI,66,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,3,2,75,75,75,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.54,0:00:07.38,Default,,0,0,0,,{\an8}HỌC VIỆN HOÀNG GIA ALTOIRE
+Dialogue: 0,0:00:15.39,0:00:18.89,Default,,0,0,0,,- Tớ nhận ra cô bé kìa!\N- Mọi người ở đây đều là học viên mới như em sao?
+Dialogue: 0,0:00:19.26,0:00:21.02,Default,,0,0,0,,Chắc hẳn là vậy rồi ạ, tiểu thư!
+Dialogue: 0,0:00:21.52,0:00:25.65,Default,,0,0,0,,Mọi đứa trẻ từ 6 đến 12 tuổi\Nđều bắt buộc phải học hết bậc tiểu học
+Dialogue: 0,0:00:25.90,0:00:28.40,Default,,0,0,0,,tại các cơ sở giáo dục hoàng gia Altoire.
+Dialogue: 0,0:00:29.65,0:00:31.57,Default,,0,0,0,,Sau khi tốt nghiệp thì sao nữa?
+Dialogue: 0,0:00:31.99,0:00:35.41,Default,,0,0,0,,Dù có cả cấp hai và cấp ba,\Nnhưng việc theo học không mang tính bắt buộc ạ.
+Dialogue: 0,0:00:36.61,0:00:38.16,Default,,0,0,0,,Những học viên ưu tú nhất
+Dialogue: 0,0:00:38.66,0:00:42.33,Default,,0,0,0,,mới có thể bước chân vào viện nghiên cứu\Nchính trị học danh giá.
+Dialogue: 0,0:00:46.71,0:00:49.13,Default,,0,0,0,,{\i1}Vậy chỉ cần học hết tiểu học là đủ rồi!{\i0}
+Dialogue: 0,0:00:49.50,0:00:53.09,Default,,0,0,0,,{\i1}Nói thật thì dùng não\Nkhông phải là sở trường của mình.{\i0}
+Dialogue: 0,0:00:53.26,0:00:54.92,Default,,0,0,0,,{\i1}Trừ khi dùng để thiết đầu công.{\i0}
+Dialogue: 0,0:00:55.80,0:00:57.14,Default,,0,0,0,,Nia!
+Dialogue: 0,0:01:01.10,0:01:03.10,Default,,0,0,0,,Lâu rồi không gặp anh, Neal!
+Dialogue: 0,0:01:03.73,0:01:06.19,Default,,0,0,0,,Thấy em khỏe mạnh thế này anh mừng lắm!
+Dialogue: 0,0:01:06.56,0:01:08.36,Default,,0,0,0,,Rất hân hạnh được gặp lại cậu, thiếu gia Neal.
+Dialogue: 0,0:01:09.36,0:01:13.53,Default,,0,0,0,,{\i1}Đúng là phong độ lịch lãm!\NKiểu gì sau này cũng hớp hồn bao nhiêu cô gái.{\i0}
+Dialogue: 0,0:01:18.03,0:01:21.53,Default,,0,0,0,,Cô bé kia là ai thế?\NBạn gái của anh à?
+Dialogue: 0,0:01:21.70,0:01:22.49,Default,,0,0,0,,Bạn gái... á?
+Dialogue: 0,0:01:23.04,0:01:25.00,Default,,0,0,0,,Đừng có nói linh tinh thế chứ!
+Dialogue: 0,0:01:25.75,0:01:26.79,Default,,0,0,0,,Rất hân hạnh được diện kiến.
+Dialogue: 0,0:01:28.96,0:01:32.30,Default,,0,0,0,,Tôi đã chờ đợi ngày này từ rất lâu rồi,\NNia Liston.
+Dialogue: 0,0:01:36.93,0:01:38.13,Default,,0,0,0,,Nia Liston!
+Dialogue: 0,0:01:45.56,0:01:49.40,Default,,0,0,0,,TẬP 4:\NCUỘC GẶP GỠ CỦA CÁC THIẾU NỮ
+Dialogue: 0,0:01:49.56,0:01:51.61,Default,,0,0,0,,{\an8}Dựa trên nguyên tác của Minamino Umikaze
+Dialogue: 0,0:01:57.11,0:01:58.41,Default,,0,0,0,,Thiết kế nhân vật gốc:\NCanata Katana, Jishaku
+Dialogue: 0,0:02:08.42,0:02:10.96,Default,,0,0,0,,{\an8}NIA LISTON: THE MERCILESS MAIDEN
+Dialogue: 0,0:02:12.71,0:02:15.21,Default,,0,0,0,,{\an3}Thiết kế nhân vật:\NYuki Itou, Kana Tosaoka
+Dialogue: 0,0:02:15.38,0:02:18.01,Default,,0,0,0,,{\an1}Biên kịch: Gigaemon Ichikawa
+Dialogue: 0,0:02:18.88,0:02:21.55,Default,,0,0,0,,{\an8}Thiết kế màu sắc:\NRyota Katsuta, Maki Yamamoto
+Dialogue: 0,0:02:21.72,0:02:22.64,Default,,0,0,0,,{\an3}Đạo diễn mỹ thuật: Hiroshi Gouroku
+Dialogue: 0,0:02:22.80,0:02:23.68,Default,,0,0,0,,{\an1}Đạo diễn hình ảnh: Takashi Ooide
+Dialogue: 0,0:02:33.44,0:02:36.74,Default,,0,0,0,,{\an1}Biên tập: Masayuki Kurosawa\NBối cảnh: Makaria
+Dialogue: 0,0:02:50.92,0:02:52.75,Default,,0,0,0,,{\an8}Bài hát mở đầu: "Respawn!!"\NTrình bày: Watame Tsunomaki
+Dialogue: 0,0:02:59.97,0:03:00.93,Default,,0,0,0,,{\an1}Đạo diễn âm thanh: Hiromi Kikuta
+Dialogue: 0,0:03:06.26,0:03:07.68,Default,,0,0,0,,Âm nhạc: Naoki Endou
+Dialogue: 0,0:03:09.43,0:03:10.14,Default,,0,0,0,,{\an8}Studio hoạt hình: Konami Animation
+Dialogue: 0,0:03:10.31,0:03:11.44,Default,,0,0,0,,{\an8}Trợ lý đạo diễn: Haruta Segi
+Dialogue: 0,0:03:15.86,0:03:16.73,Default,,0,0,0,,Đạo diễn: Motoki Nakanishi
+Dialogue: 0,0:03:16.90,0:03:19.36,Default,,0,0,0,,Ủy ban sản xuất:\NThe Merciless Maiden
+Dialogue: 0,0:03:22.24,0:03:23.37,Default,,0,0,0,,Nia Liston kìa!
+Dialogue: 0,0:03:24.24,0:03:25.62,Default,,0,0,0,,Nia Liston á?
+Dialogue: 0,0:03:25.78,0:03:28.37,Default,,0,0,0,,- Ai thế nhỉ?\N- Trông quen lắm...
+Dialogue: 0,0:03:29.12,0:03:30.87,Default,,0,0,0,,Tớ thấy bạn ấy trên truyền hình ma pháp rồi!
+Dialogue: 0,0:03:32.12,0:03:33.08,Default,,0,0,0,,Đi thôi.
+Dialogue: 0,0:03:34.88,0:03:36.13,Default,,0,0,0,,Khoan đã, đợi tôi với chứ!
+Dialogue: 0,0:03:36.59,0:03:38.34,Default,,0,0,0,,Chúng ta qua nhà khách quý tộc nói chuyện đi.
+Dialogue: 0,0:03:38.63,0:03:39.59,Default,,0,0,0,,Ý kiến hay đấy.
+Dialogue: 0,0:03:46.22,0:03:47.89,Default,,0,0,0,,{\an8}KHU NGHỈ DƯỠNG ĐẠI QUÝ TỘC
+Dialogue: 0,0:03:50.10,0:03:51.52,Default,,0,0,0,,Vui thật đấy!
+Dialogue: 0,0:03:51.85,0:03:54.77,Default,,0,0,0,,Tự dưng cậu chạy thục mạng như thế\Nlà có ý gì chứ?
+Dialogue: 0,0:03:55.27,0:03:56.65,Default,,0,0,0,,Để ta nói cho mà biết, ta muốn...
+Dialogue: 0,0:04:00.32,0:04:01.40,Default,,0,0,0,,Ta xin tự giới thiệu,
+Dialogue: 0,0:04:03.15,0:04:06.74,Default,,0,0,0,,ta là Hildetaura Altoire.
+Dialogue: 0,0:04:07.83,0:04:09.41,Default,,0,0,0,,{\i1}Điện hạ Hildetaura ư?{\i0}
+Dialogue: 0,0:04:09.74,0:04:12.46,Default,,0,0,0,,{\i1}Đệ tam vương nữ\Ncủa vương quốc Altoire!{\i0}
+Dialogue: 0,0:04:12.91,0:04:15.58,Default,,0,0,0,,{\i1}Hình như người rất muốn gặp em đấy!{\i0}
+Dialogue: 0,0:04:16.79,0:04:20.34,Default,,0,0,0,,{\i1}À đúng rồi, cha mẹ từng kể với mình về người!{\i0}
+Dialogue: 0,0:04:20.88,0:04:25.47,Default,,0,0,0,,Vương nữ Hilde là gương mặt cực kỳ nổi tiếng\Ntrên đài truyền hình vương đô đấy!
+Dialogue: 0,0:04:26.72,0:04:30.56,Default,,0,0,0,,Người ta còn ưu ái gọi người là\N"Vương nữ thân thiện đến bất ngờ".
+Dialogue: 0,0:04:33.56,0:04:36.81,Default,,0,0,0,,Ta xin lỗi vì buổi gặp gỡ đường đột này nhé,\NNia Liston.
+Dialogue: 0,0:04:37.52,0:04:41.36,Default,,0,0,0,,Hân hạnh được diện kiến người, vương nữ Hildetaura.\NThần là Nia Liston.
+Dialogue: 0,0:04:43.53,0:04:45.70,Default,,0,0,0,,Còn cậu là Reliared Silver đúng không?
+Dialogue: 0,0:04:46.03,0:04:47.07,Default,,0,0,0,,Dạ! Đúng vậy ạ!
+Dialogue: 0,0:04:47.57,0:04:50.45,Default,,0,0,0,,Ta cũng rất muốn được gặp mặt cậu đấy!
+Dialogue: 0,0:04:51.04,0:04:53.41,Default,,0,0,0,,Cảm ơn cậu nhiều vì đã đi theo bọn ta tới đây nhé.
+Dialogue: 0,0:04:53.58,0:04:55.83,Default,,0,0,0,,Không dám ạ! Có gì đâu người!
+Dialogue: 0,0:04:56.08,0:04:58.46,Default,,0,0,0,,{\i1}Cậu ta thuộc gia tộc Silver sao?{\i0}
+Dialogue: 0,0:04:59.54,0:05:02.21,Default,,0,0,0,,{\i1}Hồi họ mới thành lập\Nđài truyền hình ma pháp,{\i0}
+Dialogue: 0,0:05:02.51,0:05:05.51,Default,,0,0,0,,{\i1}mình từng đến diện kiến phụ mẫu cậu ta...{\i0}
+Dialogue: 0,0:05:06.80,0:05:11.26,Default,,0,0,0,,{\i1}Đúng là trông rất giống người chị cả\Nmình từng gặp hôm đó.{\i0}
+Dialogue: 0,0:05:12.14,0:05:14.98,Default,,0,0,0,,Khoan đã, đừng bảo là cậu\Nchưa từng xem đài của nhà tôi đấy nhé?
+Dialogue: 0,0:05:15.14,0:05:18.48,Default,,0,0,0,,{\an9}MỘT NGÀY ĐI CẮM TRẠI\NCÙNG RELIARED
+Dialogue: 0,0:05:15.64,0:05:17.23,Default,,0,0,0,,Tôi cũng lên sóng suốt đấy nhé!
+Dialogue: 0,0:05:20.32,0:05:24.74,Default,,0,0,0,,{\i1}Hiểu rồi. Hóa ra cả ba chúng mình\Nđều là đồng nghiệp trong giới.{\i0}
+Dialogue: 0,0:05:25.40,0:05:29.32,Default,,0,0,0,,Chúng ta cùng ngồi xuống trò chuyện chút nào.\NSẽ không mất nhiều thời gian đâu.
+Dialogue: 0,0:05:37.04,0:05:38.88,Default,,0,0,0,,Ta xin phép đi thẳng vào vấn đề nhé.
+Dialogue: 0,0:05:39.58,0:05:43.63,Default,,0,0,0,,Quảng bá truyền hình ma pháp\Nchính là quốc sách hàng đầu của đất nước,
+Dialogue: 0,0:05:43.80,0:05:46.26,Default,,0,0,0,,và ta muốn dốc trọn tâm huyết vào việc đó.
+Dialogue: 0,0:05:51.47,0:05:52.14,Default,,0,0,0,,Thuở xưa xa,
+Dialogue: 0,0:05:52.97,0:05:57.31,Default,,0,0,0,,từng có một đế quốc trên không hùng mạnh\Ntới mức thống trị cả thế giới.
+Dialogue: 0,0:05:57.52,0:05:58.52,Default,,0,0,0,,Mythgalis.
+Dialogue: 0,0:05:59.31,0:06:00.56,Default,,0,0,0,,Sự sụp đổ đột ngột của nó,
+Dialogue: 0,0:06:00.73,0:06:05.07,Default,,0,0,0,,bắt nguồn từ cuộc di cư ồ ạt của muôn dân\Ntrên những phi thuyền khổng lồ,
+Dialogue: 0,0:06:05.32,0:06:07.45,Default,,0,0,0,,đã làm rung chuyển toàn cõi trần thế.
+Dialogue: 0,0:06:09.49,0:06:13.87,Default,,0,0,0,,Dân chúng chính là huyết mạch của non sông.\NMất đi con người ắt sẽ dẫn đến diệt vong.
+Dialogue: 0,0:06:14.37,0:06:17.83,Default,,0,0,0,,Một khi người dân nhận ra\Nhọ hoàn toàn có thể chạy trốn,
+Dialogue: 0,0:06:18.00,0:06:22.25,Default,,0,0,0,,thì quyền uy của hoàng gia\Ncũng như quý tộc chỉ có nước tiêu tan,
+Dialogue: 0,0:06:22.42,0:06:24.80,Default,,0,0,0,,cho tới khi họ hoàn toàn\Nbị đào thải và quên lãng.
+Dialogue: 0,0:06:26.30,0:06:29.30,Default,,0,0,0,,Mục tiêu của ta, với tư cách là người của hoàng tộc,
+Dialogue: 0,0:06:29.51,0:06:31.68,Default,,0,0,0,,là khôi phục lại ánh hào quang rực rỡ năm xưa.
+Dialogue: 0,0:06:33.43,0:06:37.52,Default,,0,0,0,,Và để đạt được điều đó, ta muốn phổ biến\Ntruyền hình ma pháp khắp vương quốc này,
+Dialogue: 0,0:06:38.31,0:06:40.56,Default,,0,0,0,,rồi sau đó là vươn ra các nước lân bang.
+Dialogue: 0,0:06:40.73,0:06:41.81,Default,,0,0,0,,Ra nước ngoài ư?
+Dialogue: 0,0:06:42.27,0:06:43.40,Default,,0,0,0,,Cứ như thế,
+Dialogue: 0,0:06:43.77,0:06:48.03,Default,,0,0,0,,vương quốc Altoire, kẻ nắm giữ huyết mạch\Ncủa truyền hình ma pháp,
+Dialogue: 0,0:06:48.74,0:06:50.86,Default,,0,0,0,,sẽ thâu tóm trọn vẹn quyền bá chủ thế giới.
+Dialogue: 0,0:06:56.66,0:07:00.04,Default,,0,0,0,,Đó chính là đại nghiệp vĩ đại mà ta ấp ủ!
+Dialogue: 0,0:07:00.92,0:07:02.92,Default,,0,0,0,,{\i1}Đúng là đại nghiệp vĩ mô thật đấy!{\i0}
+Dialogue: 0,0:07:03.75,0:07:06.05,Default,,0,0,0,,Vậy người muốn chúng con góp sức sao?
+Dialogue: 0,0:07:06.30,0:07:08.97,Default,,0,0,0,,Sức lực của một mình ta có hạn.
+Dialogue: 0,0:07:09.38,0:07:12.64,Default,,0,0,0,,Thế nhưng, nếu có hai, hoặc cả ba chúng ta,
+Dialogue: 0,0:07:12.80,0:07:16.35,Default,,0,0,0,,thì tiềm năng và kết quả gặt hái được\Nsẽ nhân lên gấp bội.
+Dialogue: 0,0:07:18.10,0:07:19.77,Default,,0,0,0,,Nếu chúng ta kề vai sát cánh hỗ trợ nhau,
+Dialogue: 0,0:07:20.02,0:07:23.23,Default,,0,0,0,,chúng ta sẽ trở thành động lực dẫn lối\Ncho tất cả mọi người.
+Dialogue: 0,0:07:23.61,0:07:26.82,Default,,0,0,0,,{\i1}Một kẻ mang dã tâm lớn... Ta không hề ghét đâu.{\i0}
+Dialogue: 0,0:07:27.11,0:07:27.90,Default,,0,0,0,,Xin người lượng thứ,
+Dialogue: 0,0:07:28.69,0:07:31.99,Default,,0,0,0,,mấy chuyện đao to búa lớn phức tạp này\Nthần không hiểu rõ cho lắm,
+Dialogue: 0,0:07:32.28,0:07:36.87,Default,,0,0,0,,nhưng nếu là vì mục tiêu quảng bá\Ntruyền hình ma pháp, thần rất muốn được giúp sức!
+Dialogue: 0,0:07:40.46,0:07:41.87,Default,,0,0,0,,Con cũng sẵn lòng tham gia ạ.
+Dialogue: 0,0:07:43.00,0:07:46.09,Default,,0,0,0,,{\i1}Dù sao thì mình cũng chẳng có lựa chọn khác,{\i0}
+Dialogue: 0,0:07:46.25,0:07:50.84,Default,,0,0,0,,{\i1}bởi mình phải kiếm thật nhiều tiền\Nđể cứu gia tộc khỏi cảnh khánh kiệt.{\i0}
+Dialogue: 0,0:07:51.34,0:07:53.89,Default,,0,0,0,,{\i1}Một khi truyền hình ma pháp trở nên thịnh hành{\i0}
+Dialogue: 0,0:07:54.05,0:07:56.43,Default,,0,0,0,,{\i1}và số lượng kênh bùng nổ,{\i0}
+Dialogue: 0,0:07:56.89,0:08:01.18,Default,,0,0,0,,{\i1}biết đâu sẽ có chương trình quyết đấu\Nsinh tử giữa muôn loài quy tụ!{\i0}
+Dialogue: 0,0:08:01.35,0:08:03.73,Default,,0,0,0,,{\i1}Và dĩ nhiên mình sẽ là kẻ đầu tiên lao lên lôi đài!{\i0}
+Dialogue: 0,0:08:07.40,0:08:11.70,Default,,0,0,0,,Đúng như ta dự đoán,\Nhai cậu chẳng có lý do gì để từ chối cả!
+Dialogue: 0,0:08:12.24,0:08:16.70,Default,,0,0,0,,Nhưng cụ thể thì người định quảng bá\Ntruyền hình ma pháp bằng cách nào ạ?
+Dialogue: 0,0:08:17.41,0:08:19.12,Default,,0,0,0,,Ý tưởng của ta là...
+Dialogue: 0,0:08:19.79,0:08:20.79,Default,,0,0,0,,Là sao cơ ạ...?
+Dialogue: 0,0:08:24.75,0:08:26.71,Default,,0,0,0,,Vậy thôi nhé, chúc hai cậu một ngày tốt lành!
+Dialogue: 0,0:08:26.88,0:08:29.21,Default,,0,0,0,,Cũng chúc người vạn an, vương nữ Hildetaura.
+Dialogue: 0,0:08:36.34,0:08:40.31,Default,,0,0,0,,Thú thật là "ý tưởng" của người\Nlàm tôi hơi bị đứng hình đấy.
+Dialogue: 0,0:08:41.10,0:08:42.77,Default,,0,0,0,,{\i1}... là cả ba chúng ta cùng nhau vắt óc suy nghĩ!{\i0}
+Dialogue: 0,0:08:46.65,0:08:48.69,Default,,0,0,0,,Người còn chẳng có lấy một kế hoạch cụ thể...
+Dialogue: 0,0:08:49.02,0:08:49.82,Default,,0,0,0,,Ừ...
+Dialogue: 0,0:08:50.82,0:08:52.69,Default,,0,0,0,,{\i1}Mà thôi, cũng chẳng lạ gì,{\i0}
+Dialogue: 0,0:08:53.28,0:08:56.91,Default,,0,0,0,,{\i1}ý tưởng đâu phải tự dưng\Ntừ trên trời rơi xuống.{\i0}
+Dialogue: 0,0:08:57.41,0:08:59.70,Default,,0,0,0,,{\i1}Chúng ta cần một chiến lược khôn ngoan...{\i0}
+Dialogue: 0,0:09:00.70,0:09:03.25,Default,,0,0,0,,Này, chuyện kinh tế nhà cậu vẫn ổn chứ?
+Dialogue: 0,0:09:04.29,0:09:05.08,Default,,0,0,0,,Ý cậu là sao?
+Dialogue: 0,0:09:05.62,0:09:07.42,Default,,0,0,0,,Về chi phí vận hành đài truyền hình ấy.
+Dialogue: 0,0:09:07.88,0:09:11.21,Default,,0,0,0,,Tớ biết mấy khoản duy trì đó\Nngốn cả một gia tài cơ mà.
+Dialogue: 0,0:09:12.84,0:09:16.72,Default,,0,0,0,,Khoan đã, cậu đang mỉa mai tớ\Nvì nhà tớ chỉ là quý tộc bậc 5 đấy à?
+Dialogue: 0,0:09:17.14,0:09:19.60,Default,,0,0,0,,Khỏi cần cậu nhọc lòng lo hộ nhé. Cảm ơn!
+Dialogue: 0,0:09:23.98,0:09:25.27,Default,,0,0,0,,Sao chị lại ho khan thế?
+Dialogue: 0,0:09:25.89,0:09:28.56,Default,,0,0,0,,Thực ra thần cũng đang thắc mắc điều đó đấy ạ.
+Dialogue: 0,0:09:29.56,0:09:31.15,Default,,0,0,0,,Nói chung thì,
+Dialogue: 0,0:09:31.61,0:09:34.99,Default,,0,0,0,,ngay cả gia tộc bậc 4 như nhà tôi\Ncòn đang chật vật vì vấn đề tài chính.
+Dialogue: 0,0:09:35.53,0:09:37.11,Default,,0,0,0,,Nên nhà cậu cũng đâu ngoại lệ, đúng chứ?
+Dialogue: 0,0:09:38.28,0:09:39.78,Default,,0,0,0,,Chắc là vậy rồi...
+Dialogue: 0,0:09:40.83,0:09:44.33,Default,,0,0,0,,{\i1}Con bé tội nghiệp, rõ ràng là\Nđang bị hớp hồn trước phong độ của anh Neal!{\i0}
+Dialogue: 0,0:09:45.25,0:09:47.00,Default,,0,0,0,,Chị biết chuyện gì sao, Esuella?
+Dialogue: 0,0:09:47.37,0:09:49.79,Default,,0,0,0,,Phụ mẫu tiểu thư đã nhận tiền đầu tư,
+Dialogue: 0,0:09:50.00,0:09:52.55,Default,,0,0,0,,đồng thời thế chấp cả hòn đảo của gia tộc\Nđể vay một khoản tiền lớn ạ.
+Dialogue: 0,0:09:52.88,0:09:57.38,Default,,0,0,0,,Xem ra cậu cũng rất có động lực\Nđể bán thật nhiều máy truyền hình ma pháp đấy nhỉ.
+Dialogue: 0,0:09:57.68,0:09:59.22,Default,,0,0,0,,Đúng là như thế thật rồi.
+Dialogue: 0,0:10:00.51,0:10:04.72,Default,,0,0,0,,Tôi sẵn sàng làm mọi thứ\Nđể có ích cho vương nữ Hildetaura.
+Dialogue: 0,0:10:05.23,0:10:07.89,Default,,0,0,0,,Nhưng tôi nhất quyết không để bị cậu bỏ lại phía sau đâu!
+Dialogue: 0,0:10:13.69,0:10:15.07,Default,,0,0,0,,Xin tiểu thư lượng thứ cho tính khí của người.
+Dialogue: 0,0:10:16.11,0:10:20.87,Default,,0,0,0,,Thực ra tiểu thư Reliared chịu ảnh hưởng rất lớn
+Dialogue: 0,0:10:21.03,0:10:22.28,Default,,0,0,0,,từ những lần xuất hiện của tiểu thư trên sóng truyền hình.
+Dialogue: 0,0:10:23.37,0:10:25.45,Default,,0,0,0,,Vì hai người bằng tuổi nhau,
+Dialogue: 0,0:10:25.62,0:10:28.42,Default,,0,0,0,,nên người luôn coi tiểu thư là đối thủ lớn nhất.
+Dialogue: 0,0:10:29.87,0:10:31.75,Default,,0,0,0,,Xin người hãy bao dung cho tiểu thư nhà tôi.
+Dialogue: 0,0:10:34.17,0:10:35.55,Default,,0,0,0,,- Tiểu thư...!\N- Em thôi đi.
+Dialogue: 0,0:10:35.96,0:10:39.47,Default,,0,0,0,,Anh thấy em với Reliared\Nhoàn toàn có thể trở thành bạn thân đấy!
+Dialogue: 0,0:10:39.63,0:10:40.80,Default,,0,0,0,,{\i1}Xía vào chuyện người ta làm gì chứ?{\i0}
+Dialogue: 0,0:10:41.01,0:10:44.81,Default,,0,0,0,,Ai thèm làm bạn với con nhỏ đó chứ?\NPhải hạ đo ván ả mới chuẩn!
+Dialogue: 0,0:10:44.97,0:10:46.81,Default,,0,0,0,,Ta đã bảo em trật tự rồi cơ mà, Rinokis.
+Dialogue: 0,0:10:47.73,0:10:49.44,Default,,0,0,0,,Chúng ta nên đi thôi, thiếu gia Neal.
+Dialogue: 0,0:10:49.94,0:10:50.44,Default,,0,0,0,,Được rồi.
+Dialogue: 0,0:10:50.73,0:10:53.06,Default,,0,0,0,,Vậy anh đi trước đây nhé, Nia!
+Dialogue: 0,0:10:53.61,0:10:55.61,Default,,0,0,0,,Hai chị em tôi cũng về ký túc xá đây!
+Dialogue: 0,0:10:56.48,0:10:59.57,Default,,0,0,0,,KÝ TÚC XÁ HỌC VIÊN HỌC VIỆN
+Dialogue: 0,0:10:57.57,0:10:59.57,Default,,0,0,0,,{\an8}Cảm ơn mọi người đã đón tiếp em!
+Dialogue: 0,0:10:59.86,0:11:01.32,Default,,0,0,0,,Nia, đúng là em rồi!
+Dialogue: 0,0:11:01.87,0:11:03.37,Default,,0,0,0,,Trông em dạo này khỏe khoắn quá!
+Dialogue: 0,0:11:03.95,0:11:07.58,Default,,0,0,0,,Chị đã xem buổi phát sóng đầu tiên của em\Ntrên truyền hình ma pháp đấy!
+Dialogue: 0,0:11:08.00,0:11:09.21,Default,,0,0,0,,Em cảm ơn chị nhiều ạ.
+Dialogue: 0,0:11:10.12,0:11:10.92,Default,,0,0,0,,Nia đó sao?
+Dialogue: 0,0:11:11.08,0:11:12.08,Default,,0,0,0,,Thật thế ư?
+Dialogue: 0,0:11:12.46,0:11:13.75,Default,,0,0,0,,Nia là ai vậy?
+Dialogue: 0,0:11:16.96,0:11:18.59,Default,,0,0,0,,Em rất hân hạnh được làm quen với mọi người ạ.
+Dialogue: 0,0:11:18.76,0:11:23.64,Default,,0,0,0,,Chị cũng rất vui được gặp em!\NChị đã xem chương trình trải nghiệm nghề nghiệp của em rồi!
+Dialogue: 0,0:11:23.89,0:11:25.39,Default,,0,0,0,,Thật vậy ạ? Em cảm ơn chị!
+Dialogue: 0,0:11:25.85,0:11:28.73,Default,,0,0,0,,Em có thích xem chương trình của Bendelio không?
+Dialogue: 0,0:11:30.14,0:11:32.98,Default,,0,0,0,,Dạ không thích lắm ạ,\Nchú ấy chỉ toàn ngồi nốc đẫy rượu thôi...
+Dialogue: 0,0:11:34.23,0:11:35.40,Default,,0,0,0,,Chuẩn luôn! Chị cũng thấy thế!
+Dialogue: 0,0:11:35.77,0:11:36.48,Default,,0,0,0,,Còn bạn thì sao?
+Dialogue: 0,0:11:38.15,0:11:41.36,Default,,0,0,0,,À, nhà mình không có máy truyền hình ma pháp...
+Dialogue: 0,0:11:42.28,0:11:43.24,Default,,0,0,0,,Ồ, vậy sao...
+Dialogue: 0,0:11:44.53,0:11:47.37,Default,,0,0,0,,{\i1}Phần lớn học viên ở đây\Nchẳng hề biết mình là ai cả...{\i0}
+Dialogue: 0,0:11:48.20,0:11:52.62,Default,,0,0,0,,Cô Karme ơi, trong ký túc xá này\Nkhông có máy truyền hình ma pháp sao ạ?
+Dialogue: 0,0:11:52.96,0:11:54.21,Default,,0,0,0,,Không có đâu em...
+Dialogue: 0,0:11:54.38,0:11:58.63,Default,,0,0,0,,Ai cũng nghĩ thứ đó chỉ là trò tiêu khiển xa xỉ\Ncủa giới đại quý tộc thượng lưu thôi...
+Dialogue: 0,0:12:00.63,0:12:02.59,Default,,0,0,0,,{\i1}Đúng như những gì Hildetaura đã nói,{\i0}
+Dialogue: 0,0:12:02.76,0:12:07.64,Default,,0,0,0,,{\i1}phổ cập truyền hình ma pháp\Nquả thực là một tham vọng quá đỗi xa vời...{\i0}
+Dialogue: 0,0:12:08.93,0:12:11.39,Default,,0,0,0,,Và đây là phòng của em, Nia!
+Dialogue: 0,0:12:14.65,0:12:18.65,Default,,0,0,0,,Cuộc sống lứa đôi của hai ta\Ncuối cùng cũng bắt đầu rồi, tiểu thư ơi!
+Dialogue: 0,0:12:19.94,0:12:22.99,Default,,0,0,0,,Đây chính là tổ ấm đầu tiên của đôi ta!
+Dialogue: 0,0:12:23.24,0:12:24.66,Default,,0,0,0,,Cấm em không bao giờ được nói câu đó nữa.
+Dialogue: 0,0:12:26.99,0:12:28.41,Default,,0,0,0,,Phòng nằm ở đằng kia.
+Dialogue: 0,0:12:31.37,0:12:34.04,Default,,0,0,0,,Thế thì chúng ta cùng nhau\Nchợp mắt một giấc nhé!
+Dialogue: 0,0:12:36.08,0:12:37.88,Default,,0,0,0,,Phòng của em ở phía đối diện cơ.
+Dialogue: 0,0:12:38.04,0:12:41.13,Default,,0,0,0,,Với lại ta đã bảo là\Nhai ta phải đi mua sắm trước rồi mà.
+Dialogue: 0,0:12:41.30,0:12:45.97,Default,,0,0,0,,Chúng ta vừa mới tới nơi thôi mà tiểu thư,\Ncho em nghỉ ngơi một tí xíu đi!
+Dialogue: 0,0:12:46.14,0:12:49.10,Default,,0,0,0,,Chuẩn bị xong xuôi mọi thứ rồi hẵng nghỉ.
+Dialogue: 0,0:12:49.26,0:12:50.10,Default,,0,0,0,,Đi thôi nào.
+Dialogue: 0,0:12:50.60,0:12:51.52,Default,,0,0,0,,Rõ ạ!
+Dialogue: 0,0:12:56.81,0:12:58.57,Default,,0,0,0,,Oan gia ngõ hẹp ghê nhỉ, Nia.
+Dialogue: 0,0:12:58.82,0:13:00.19,Default,,0,0,0,,Cậu cũng đi sắm đồ à?
+Dialogue: 0,0:13:00.36,0:13:02.99,Default,,0,0,0,,Ừ, tôi đến để nhận bộ đồng phục.
+Dialogue: 0,0:13:03.49,0:13:05.95,Default,,0,0,0,,Và tôi đang đi cùng với cả đoàn quay phim của mình.
+Dialogue: 0,0:13:06.11,0:13:07.41,Default,,0,0,0,,Đoàn quay phim của cậu á?
+Dialogue: 0,0:13:07.74,0:13:12.41,Default,,0,0,0,,Phải, họ muốn ghi hình khoảnh khắc tôi diện bộ đồng phục đầu tiên để phát sóng truyền hình!
+Dialogue: 0,0:13:14.00,0:13:15.04,Default,,0,0,0,,{\i1}Con nhỏ này đi trước mình một bước rồi!{\i0}
+Dialogue: 0,0:13:15.79,0:13:17.46,Default,,0,0,0,,Tiểu thư ơi, tình hình nguy cấp rồi!
+Dialogue: 0,0:13:17.75,0:13:18.54,Default,,0,0,0,,Ta biết rồi.
+Dialogue: 0,0:13:20.96,0:13:22.55,Default,,0,0,0,,Tớ đi cùng cậu được không?
+Dialogue: 0,0:13:23.34,0:13:24.55,Default,,0,0,0,,Cậu á? Để làm chi?
+Dialogue: 0,0:13:26.51,0:13:30.56,Default,,0,0,0,,Để cho khán giả thấy chúng ta hòa thuận\Nvà thân thiết với nhau nhường nào!
+Dialogue: 0,0:13:30.85,0:13:33.06,Default,,0,0,0,,Chúng ta thân thiết từ bao giờ thế hả?!
+Dialogue: 0,0:13:34.31,0:13:36.06,Default,,0,0,0,,Sao cậu lại nắm chặt tay tôi thế này?!
+Dialogue: 0,0:13:36.48,0:13:38.36,Default,,0,0,0,,Nào, Reliared, mau đi thôi!
+Dialogue: 0,0:13:38.52,0:13:41.82,Default,,0,0,0,,{\an1}Cùng nắm chặt tay nhau\Nvà tiến thẳng tới tiệm may nào!
+Dialogue: 0,0:13:41.32,0:13:43.32,Default,,0,0,0,,{\an8}NIA LISTON: THE MERCILESS MAIDEN
+Dialogue: 0,0:13:43.49,0:13:45.82,Default,,0,0,0,,BỘ ĐỒNG PHỤC NỮ SINH ĐẦU TIÊN CỦA TÔI
+Dialogue: 0,0:14:32.16,0:14:32.87,Default,,0,0,0,,{\i1}Cuối cùng thì...{\i0}
+Dialogue: 0,0:14:37.00,0:14:38.87,Default,,0,0,0,,{\i1}Đời nữ sinh của chúng mình cũng bắt đầu!{\i0}
+Dialogue: 0,0:14:54.89,0:14:56.64,Default,,0,0,0,,Cắt!
+Dialogue: 0,0:14:57.31,0:15:00.65,Default,,0,0,0,,Hoàn hảo lắm!\NCảnh quay hôm nay tới đây là kết thúc.
+Dialogue: 0,0:15:03.94,0:15:04.65,Default,,0,0,0,,Bác đạo diễn!
+Dialogue: 0,0:15:05.23,0:15:09.28,Default,,0,0,0,,Cháu cảm ơn bác rất nhiều,\Nchỉ dẫn của bác vô cùng rõ ràng và rành mạch!
+Dialogue: 0,0:15:11.03,0:15:12.53,Default,,0,0,0,,Cháu cảm ơn mọi người nhiều ạ!
+Dialogue: 0,0:15:12.87,0:15:14.41,Default,,0,0,0,,Đâu có, phải cảm ơn hai cháu mới đúng!
+Dialogue: 0,0:15:14.83,0:15:19.29,Default,,0,0,0,,Nhờ có cả ba cháu mà ta đã bắt trọn được\Nnhững khoảnh khắc chuẩn bị tuyệt vời
+Dialogue: 0,0:15:19.46,0:15:22.33,Default,,0,0,0,,của hai nàng tiểu thư xuất thân danh gia vọng tộc!
+Dialogue: 0,0:15:27.71,0:15:30.47,Default,,0,0,0,,Xin lỗi vì đột ngột gọi anh đến đây nhé,\Nanh Neal!
+Dialogue: 0,0:15:31.09,0:15:32.43,Default,,0,0,0,,Cảm ơn anh rất nhiều ạ!
+Dialogue: 0,0:15:32.84,0:15:37.06,Default,,0,0,0,,Có gì đâu em.\NThôi, anh xin phép đi về trước đây nhé...
+Dialogue: 0,0:15:40.10,0:15:43.15,Default,,0,0,0,,{\i1}Anh ấy lại đang lo sợ\Nsắp ngập trong núi thư tình từ người hâm mộ rồi...{\i0}
+Dialogue: 0,0:15:43.31,0:15:43.98,Default,,0,0,0,,Nia!
+Dialogue: 0,0:15:45.48,0:15:47.69,Default,,0,0,0,,Cậu sang ăn trưa cùng bọn tôi đi.
+Dialogue: 0,0:15:49.40,0:15:51.15,Default,,0,0,0,,Các chị gái của tôi cũng ở đây đấy!
+Dialogue: 0,0:15:51.53,0:15:53.41,Default,,0,0,0,,Lâu lắm rồi không gặp nhỉ, Nia!
+Dialogue: 0,0:15:53.91,0:15:56.70,Default,,0,0,0,,Chị là Ririmi Silver! Rất vui được gặp em!
+Dialogue: 0,0:15:57.08,0:15:59.75,Default,,0,0,0,,Em cũng rất hân hạnh ạ!\NEm là Nia Liston.
+Dialogue: 0,0:16:00.46,0:16:04.46,Default,,0,0,0,,Chị Raffinee, lâu quá rồi không gặp lại chị kể từ ngày ra mắt đài truyền hình!
+Dialogue: 0,0:16:05.38,0:16:06.71,Default,,0,0,0,,Được rồi, chúng ta đi thôi!
+Dialogue: 0,0:16:18.06,0:16:19.10,Default,,0,0,0,,Buổi quay hình hôm nay
+Dialogue: 0,0:16:19.35,0:16:23.14,Default,,0,0,0,,diễn ra suôn sẻ thế này là nhờ\Ntay nghề trang điểm đỉnh cao của chị đó, Raffinee!
+Dialogue: 0,0:16:23.48,0:16:26.11,Default,,0,0,0,,Xời, chuyên môn của chị mà lị!
+Dialogue: 0,0:16:29.19,0:16:33.03,Default,,0,0,0,,Còn chị thì vừa lên lớp 9 cấp hai đấy nhé!
+Dialogue: 0,0:16:33.20,0:16:34.11,Default,,0,0,0,,Thật vậy sao ạ?
+Dialogue: 0,0:16:34.49,0:16:36.49,Default,,0,0,0,,Chị ấy đánh đấm siêu đẳng lắm đấy nhé!
+Dialogue: 0,0:16:36.70,0:16:40.33,Default,,0,0,0,,Từng giành giải á quân tại đại hội võ thuật của trường cấp hai cơ đấy!
+Dialogue: 0,0:16:42.00,0:16:46.13,Default,,0,0,0,,{\i1}Nhìn vóc dáng là biết chuyên về cận chiến giáp lá cà rồi.{\i0}
+Dialogue: 0,0:17:12.24,0:17:17.20,Default,,0,0,0,,{\i1}Hạng người như ả mà cũng giật á quân sao? Trình độ của cái đại hội đó thấp đến thế cơ à...{\i0}
+Dialogue: 0,0:17:18.58,0:17:19.66,Default,,0,0,0,,Thấy choáng ngợp rồi chứ gì?
+Dialogue: 0,0:17:19.83,0:17:22.08,Default,,0,0,0,,{\i1}Đúng hơn là ta đang thấy thất vọng ê chề thì có.{\i0}
+Dialogue: 0,0:17:22.25,0:17:26.71,Default,,0,0,0,,Chị ấy là môn đồ phái Thiên Phá đấy.\NTôi cũng theo học môn phái đó từ năm ngoái rồi.
+Dialogue: 0,0:17:27.21,0:17:31.71,Default,,0,0,0,,{\i1}Kiếp trước mình chưa từng nghe tới cái môn phái này bao giờ.{\i0}
+Dialogue: 0,0:17:32.13,0:17:35.34,Default,,0,0,0,,Cậu muốn tỉ thí thử không?\NNghe đồn cậu đánh nhau cừ lắm mà!
+Dialogue: 0,0:17:35.51,0:17:38.60,Default,,0,0,0,,Bây giờ thì chưa đâu. Để dịp khác tính sau.
+Dialogue: 0,0:17:40.01,0:17:42.39,Default,,0,0,0,,{\i1}Một môn phái dám tự phong là "Thiên Phá" sao?{\i0}
+Dialogue: 0,0:17:42.56,0:17:45.52,Default,,0,0,0,,{\i1}Sự ngạo mạn cuồng vọng của cái phái này khiến ta bắt đầu thấy hứng thú rồi đấy.{\i0}
+Dialogue: 0,0:17:47.35,0:17:48.65,Default,,0,0,0,,À mà này!
+Dialogue: 0,0:17:49.23,0:17:52.86,Default,,0,0,0,,Ngày mai sư phụ tôi sẽ có mặt\Ntại buổi tham quan các câu lạc bộ đấy!
+Dialogue: 0,0:17:53.36,0:17:54.28,Default,,0,0,0,,Sư phụ của cậu ư?
+Dialogue: 0,0:17:54.44,0:17:56.49,Default,,0,0,0,,Thầy ấy tới để chiêu mộ đệ tử mới à?
+Dialogue: 0,0:17:56.65,0:18:01.20,Default,,0,0,0,,Đúng thế! Từ cấp tiểu học đến cấp ba đều có câu lạc bộ Thiên Phá cả.
+Dialogue: 0,0:18:01.91,0:18:05.00,Default,,0,0,0,,Nếu là sư phụ của cậu,\Nvậy nghĩa là bản lĩnh rất cao cường sao?
+Dialogue: 0,0:18:05.16,0:18:08.71,Default,,0,0,0,,Đương nhiên rồi! Thầy ấy còn khá trẻ\Nnên hiện tại chỉ là quyền sư phụ thôi,
+Dialogue: 0,0:18:08.88,0:18:12.63,Default,,0,0,0,,nhưng thực lực đã vượt xa cả vị sư tổ sáng lập môn phái chúng tôi rồi!
+Dialogue: 0,0:18:16.97,0:18:19.22,Default,,0,0,0,,Kỳ lạ thật... Thứ cảm giác này là gì... ?
+Dialogue: 0,0:18:19.89,0:18:23.14,Default,,0,0,0,,Sao tự dưng sống lưng mình\Nlại toát mồ hôi lạnh thế này?
+Dialogue: 0,0:18:24.97,0:18:29.81,Default,,0,0,0,,{\i1}Một cường giả thượng thừa\Nđang ở ngay trong tầm tay ta rồi!{\i0}
+Dialogue: 0,0:18:37.65,0:18:39.95,Default,,0,0,0,,Tiểu thư Nia là một cô bé như thế nào vậy?
+Dialogue: 0,0:18:40.49,0:18:41.78,Default,,0,0,0,,Ý cô là sao?
+Dialogue: 0,0:18:42.33,0:18:47.25,Default,,0,0,0,,Nghe đồn tiểu thư ấy sở hữu sức mạnh kinh hoàng.\NThậm chí đạt tới mức độ phi nhân loại.
+Dialogue: 0,0:18:49.79,0:18:51.17,Default,,0,0,0,,Đó là nhờ công huấn luyện của cô sao?
+Dialogue: 0,0:18:51.58,0:18:52.38,Default,,0,0,0,,Công huấn luyện của tôi ư?
+Dialogue: 0,0:18:53.46,0:18:55.34,Default,,0,0,0,,Cứ coi là như thế đi.
+Dialogue: 0,0:18:57.09,0:19:00.51,Default,,0,0,0,,Nhưng tôi cũng rất tò mò về tiểu thư Reliared.
+Dialogue: 0,0:19:00.93,0:19:04.18,Default,,0,0,0,,Nhất là cái chuyện cô ta cứ bám riết đòi làm đối thủ của tiểu thư Nia ấy.
+Dialogue: 0,0:19:04.60,0:19:09.35,Default,,0,0,0,,Cứ hễ thấy tiểu thư Nia xuất hiện trên truyền hình ma pháp là cô ấy lại lải nhải đúng một câu.
+Dialogue: 0,0:19:09.60,0:19:10.35,Default,,0,0,0,,Câu gì cơ?
+Dialogue: 0,0:19:10.69,0:19:12.90,Default,,0,0,0,,"Mình trông đáng yêu hơn nhỏ đó nhiều!",
+Dialogue: 0,0:19:13.06,0:19:15.94,Default,,0,0,0,,hoặc là:\N"Kỹ năng dẫn chương trình của mình ăn đứt nhỏ đó!".
+Dialogue: 0,0:19:17.32,0:19:21.16,Default,,0,0,0,,Tiểu thư Nia đáng yêu gấp vạn lần cái con nhãi ranh chỏng lỏn đó nhé!
+Dialogue: 0,0:19:21.36,0:19:25.58,Default,,0,0,0,,Với cô thì có thể là vậy,\Nchứ trong mắt công chúng thì ai mà biết được?
+Dialogue: 0,0:19:25.74,0:19:29.08,Default,,0,0,0,,Gu thưởng thức của cô về công chúng\Nquái đản thật đấy!
+Dialogue: 0,0:19:29.58,0:19:30.58,Default,,0,0,0,,Tiểu thư Nia ấy à,
+Dialogue: 0,0:19:30.92,0:19:35.59,Default,,0,0,0,,mới 6 tuổi đầu mà cư xử già chát đến mức phát ngấy.
+Dialogue: 0,0:19:35.84,0:19:38.09,Default,,0,0,0,,Nhìn chẳng khác gì một bà lão hom hem cả.
+Dialogue: 0,0:19:45.10,0:19:47.60,Default,,0,0,0,,{\i1}Ta sẽ bắt con mụ này phải nuốt lại từng lời!{\i0}
+Dialogue: 0,0:19:47.97,0:19:51.73,Default,,0,0,0,,{\i1}Ta sẽ dùng nắm đấm để chứng minh sự vượt trội tuyệt đối của tiểu thư Reliared!{\i0}
+Dialogue: 0,0:19:58.19,0:19:59.65,Default,,0,0,0,,Món bánh ngọt này ngon tuyệt hảo luôn!
+Dialogue: 0,0:19:59.82,0:20:01.36,Default,,0,0,0,,Chị cũng mê món này lắm!
+Dialogue: 0,0:20:02.07,0:20:05.74,Default,,0,0,0,,À này, hôm nọ ở võ đường của trường có một...
+Dialogue: 0,0:20:05.91,0:20:07.08,Default,,0,0,0,,Này, Nia...
+Dialogue: 0,0:20:07.99,0:20:09.29,Default,,0,0,0,,Nói thế nào nhỉ...
+Dialogue: 0,0:20:09.79,0:20:13.88,Default,,0,0,0,,Tôi biết là tôi đã đơn phương tuyên bố xem cậu là kỳ phùng địch thủ,
+Dialogue: 0,0:20:14.50,0:20:17.30,Default,,0,0,0,,nhưng sau cả ngày hôm nay đồng hành cùng cậu, tôi nhận ra...
+Dialogue: 0,0:20:18.80,0:20:19.51,Default,,0,0,0,,{\i1}Bác đạo diễn!{\i0}
+Dialogue: 0,0:20:20.09,0:20:24.14,Default,,0,0,0,,{\i1}Cháu cảm ơn bác rất nhiều, chỉ dẫn của bác vô cùng rõ ràng và rành mạch!{\i0}
+Dialogue: 0,0:20:28.60,0:20:31.56,Default,,0,0,0,,... rằng cậu tài giỏi hơn tôi tưởng nhiều.
+Dialogue: 0,0:20:35.27,0:20:37.07,Default,,0,0,0,,Nhưng đừng có mà đắc ý vội!
+Dialogue: 0,0:20:37.90,0:20:40.03,Default,,0,0,0,,Cậu còn lâu mới theo kịp đẳng cấp của tôi đấy!
+Dialogue: 0,0:20:40.40,0:20:41.07,Default,,0,0,0,,Dẫu vậy,
+Dialogue: 0,0:20:42.32,0:20:43.82,Default,,0,0,0,,nếu cậu thực sự tha thiết muốn,
+Dialogue: 0,0:20:44.61,0:20:47.95,Default,,0,0,0,,thì tôi cũng không ngại cùng cậu chung tay quảng bá truyền hình ma pháp đâu!
+Dialogue: 0,0:20:52.46,0:20:54.67,Default,,0,0,0,,Cậu cũng phải mở miệng đáp lại một câu chứ!
+Dialogue: 0,0:20:56.88,0:21:00.67,Default,,0,0,0,,{\i1}Ta muốn đích thân thử lửa cái phái Thiên Phá này xem sao!{\i0}
+Dialogue: 0,0:21:02.17,0:21:05.80,Default,,0,0,0,,Này Nia kia!\NCậu có đang nghe người ta nói không đấy?!
+Dialogue: 0,0:21:29.41,0:21:30.20,Default,,0,0,0,,Tiểu thư ơi...
+Dialogue: 0,0:21:31.12,0:21:31.91,Default,,0,0,0,,Sao thế?
+Dialogue: 0,0:21:32.20,0:21:34.54,Default,,0,0,0,,Trông người có vẻ đang rất vui vẻ.
+Dialogue: 0,0:21:35.50,0:21:38.34,Default,,0,0,0,,Còn em thì trông như đang hậm hực nuốt không trôi cục tức vậy.
+Dialogue: 0,0:21:38.63,0:21:43.09,Default,,0,0,0,,Thú thật là ta vừa tìm thấy một đối thủ mới...
+Dialogue: 0,0:21:43.80,0:21:45.80,Default,,0,0,0,,Người may mắn thật đấy.
+Dialogue: 0,0:21:46.47,0:21:47.34,Default,,0,0,0,,Nhưng em cũng thế thôi!
+Dialogue: 0,0:21:48.51,0:21:51.56,Default,,0,0,0,,Người đang nhắc tới kẻ nào thế ạ?\NCho em xin họ tên, địa chỉ ngay đi!
+Dialogue: 0,0:21:52.72,0:21:56.81,Default,,0,0,0,,Ngày mai chúng ta có buổi kiểm tra thể lực và tham quan các câu lạc bộ...
+Dialogue: 0,0:21:56.98,0:21:58.36,Default,,0,0,0,,Bao nhiêu là việc phải làm!
+Dialogue: 0,0:21:58.73,0:22:00.98,Default,,0,0,0,,Thôi mà, mau tiết lộ cho em biết kẻ đó là ai đi!
+Dialogue: 0,0:22:01.27,0:22:04.61,Default,,0,0,0,,Nếu người nhất quyết không nói,\Nthì sang giường nằm ngủ cùng em đi!
+Dialogue: 0,0:22:04.78,0:22:06.36,Default,,0,0,0,,Hai ta cùng rúc vào chăn ấm...
+Dialogue: 0,0:22:06.53,0:22:07.86,Default,,0,0,0,,{\i1}Tham quan câu lạc bộ...{\i0}
+Dialogue: 0,0:22:08.24,0:22:11.87,Default,,0,0,0,,{\i1}Ngày mai sư phụ tôi sẽ có mặt tại buổi tham quan các câu lạc bộ đấy!{\i0}
+Dialogue: 0,0:22:15.25,0:22:18.00,Default,,0,0,0,,{\i1}Ta đang mỏi mắt chờ đợi ngươi đấy,\Nđại cao thủ phái Thiên Phá!{\i0}
+Dialogue: 0,0:22:28.80,0:22:32.14,Default,,0,0,0,,Nia Liston: Honoka Inoue\NNeal Liston: Tomoyo Takayanagi
+Dialogue: 0,0:22:32.43,0:22:35.77,Default,,0,0,0,,{\an9}Rinokis Funk: Fuuka Izumi\NLynette Blanc: Yuuki Urushiyama
+Dialogue: 0,0:22:36.06,0:22:39.40,Default,,0,0,0,,Hildetaura Altoire: Rina Honnizumi\NReliared Silver: Rina Hidaka
+Dialogue: 0,0:22:39.69,0:22:42.90,Default,,0,0,0,,Esuella Blankett: Saeko Kamijo\NRaffinee Silver: Hitomi Ueda
+Dialogue: 0,0:23:32.20,0:23:35.12,Default,,0,0,0,,Phụ đề Việt ngữ: Amtia(NOFACE)
+Dialogue: 0,0:23:46.76,0:23:49.34,Default,,0,0,0,,{\an8}Dịch thuật & Timer: Amtia(NOFACE)\NBiên tập & QC: Amtia(NOFACE)
+Dialogue: 0,0:23:50.34,0:23:53.76,Default,,0,0,0,,{\i1}Tập tiếp theo:\N"Buổi họp quảng bá truyền hình ma pháp".{\i0}
+Dialogue: 0,0:23:50.76,0:23:54.35,Default,,0,0,0,,{\an8}TẬP TIẾP THEO:\N"BUỔI HỌP QUẢNG BÁ TRUYỀN HÌNH MA PHÁP"
+
