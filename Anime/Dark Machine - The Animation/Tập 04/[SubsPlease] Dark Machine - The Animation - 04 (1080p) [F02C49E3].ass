@@ -1,0 +1,340 @@
+﻿[Script Info]
+Title: Vietnamese Fansub (VietSub by Amtia(NOFACE))
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+YCbCr Matrix: TV.601
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Italics,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.56,0:00:01.86,Default,Bran,0,0,0,,Cúp Senki á?
+Dialogue: 0,0:00:01.86,0:00:04.12,Default,Shinn,0,0,0,,Năm nay bọn mình không được tham gia đâu.
+Dialogue: 0,0:00:04.99,0:00:05.62,Default,Kairi,0,0,0,,Hả?
+Dialogue: 0,0:00:07.53,0:00:08.19,Default,Shinn/Bran/Isana,0,0,0,,Hở?
+Dialogue: 0,0:00:09.30,0:00:11.65,Default,Kairi,0,0,0,,T-Tại sao lại thế ạ?
+Dialogue: 0,0:00:12.30,0:00:17.55,Default,Bran,0,0,0,,Hỏi thừa thế? Đội mình đến cái tên trên Bảng xếp hạng\Nthành phố Chiba còn chẳng có cơ mà.
+Dialogue: 0,0:00:17.55,0:00:20.81,Default,Kairi,0,0,0,,Bảng xếp hạng... thành phố Chiba ạ?
+Dialogue: 0,0:00:22.60,0:00:25.01,Default,Bran,0,0,0,,Nghe này, cơ chế của Dark Machine là thế này.
+Dialogue: 0,0:00:25.01,0:00:28.26,Default,Bran,0,0,0,,Dù là đấu giao hữu riêng\Nhay đấu giải chính thức,
+Dialogue: 0,0:00:28.26,0:00:31.59,Default,Bran,0,0,0,,đội chiến thắng đều sẽ được cộng điểm\Ntheo hệ số quy định.
+Dialogue: 0,0:00:31.92,0:00:36.57,Default,Bran,0,0,0,,Muốn giành vé tham gia giải đấu Senki,\Nphải lọt vào nhóm có tổng điểm cao nhất...
+Dialogue: 0,0:00:37.73,0:00:39.73,Default,Bran,0,0,0,,Chắc cho nhóc xem tận mắt thì nhanh hơn đấy.
+Dialogue: 0,0:00:42.81,0:00:44.95,Default,Shinn,0,0,0,,Đây là Bảng xếp hạng thành phố Chiba.
+Dialogue: 0,0:00:45.55,0:00:50.71,Default,Shinn,0,0,0,,Đúng như Bran nói, muốn đánh Cúp Senki,\Ncậu phải đứng ở top đầu.
+Dialogue: 0,0:00:50.71,0:00:51.84,Default,Kairi,0,0,0,,Thế bọn mình đang ở đâu ạ?
+Dialogue: 0,0:00:53.96,0:00:55.97,Default,Shinn,0,0,0,,Rõ ràng là ta còn chưa đủ chuẩn xếp hạng.
+Dialogue: 0,0:00:55.97,0:00:58.09,Default,Kairi,0,0,0,,T-Tệ quá vậy...
+Dialogue: 0,0:00:58.09,0:00:59.97,Default,Kairi,0,0,0,,Sao anh không nói sớm cho em biết?
+Dialogue: 0,0:00:59.97,0:01:03.48,Default,Bran,0,0,0,,Nhóc mà biết thì làm được cái tích sự gì khác à?
+Dialogue: 0,0:01:03.48,0:01:05.48,Default,Shinn,0,0,0,,Chỉ đành cố gắng cày cuốc cho năm sau thôi.
+Dialogue: 0,0:01:06.49,0:01:09.06,Default,Kairi,0,0,0,,Không thể tin được. Phải đợi tận một năm nữa sao?
+Dialogue: 0,0:01:09.50,0:01:11.63,Default,Rudra,0,0,0,,Ôi dào, tươi tỉnh lên xem nào.
+Dialogue: 0,0:01:12.23,0:01:15.86,Default,Rudra,0,0,0,,Vẫn còn một con đường khác để chen chân vào đấy.
+Dialogue: 0,0:01:18.61,0:01:20.63,Default,Kairi,0,0,0,,C-Cậu là...
+Dialogue: 0,0:01:21.13,0:01:22.60,Default,Kairi,0,0,0,,Ryo của đội Al Dente đúng không?
+Dialogue: 0,0:01:24.29,0:01:25.42,Default,Shinn,0,0,0,,Là Arudabiru.
+Dialogue: 0,0:03:00.91,0:03:02.36,Default,Ryo,0,0,0,,Gửi Đội Carbuncle.
+Dialogue: 0,0:03:02.36,0:03:05.66,Default,Ryo,0,0,0,,Theo lời mời của Senki đời thứ bảy,\Nngài Ajima vĩ đại,
+Dialogue: 0,0:03:06.29,0:03:08.66,Default,Ryo,0,0,0,,các ngươi được đặc cách quyền thi đấu\Ntại Cúp Senki.
+Dialogue: 0,0:03:09.37,0:03:10.08,Default,Bran,0,0,0,,Không thể nào!
+Dialogue: 0,0:03:10.92,0:03:15.46,Default,Rudra,0,0,0,,Senki đương nhiệm có đặc quyền chọn một đội\Nđể trao suất tham dự Cúp Senki mà.
+Dialogue: 0,0:03:15.96,0:03:19.05,Default,Kairi,0,0,0,,V-Vậy là bọn mình được thi đấu rồi ạ?
+Dialogue: 0,0:03:19.05,0:03:20.47,Default,Ryo,0,0,0,,Đừng có bắt ta phải nhắc lại lần hai.
+Dialogue: 0,0:03:21.22,0:03:23.22,Default,Ryo,0,0,0,,Ngài Ajima rốt cuộc tính làm gì với cái lũ thất bại này chứ?
+Dialogue: 0,0:03:24.14,0:03:28.81,Default,Ryo,0,0,0,,Sao cũng được. Bọn ta sẽ nghiền nát các ngươi\Nđể trả mối thù lần trước.
+Dialogue: 0,0:03:32.81,0:03:35.44,Default,Shinn,0,0,0,,Tại sao Ajima lại mời chúng ta?
+Dialogue: 0,0:03:36.19,0:03:38.44,Default,Shinn,0,0,0,,Này Rudra. Chị biết chuyện gì đó đúng không?
+Dialogue: 0,0:03:38.44,0:03:39.86,Default,Rudra,0,0,0,,Thế à?
+Dialogue: 0,0:03:39.86,0:03:44.11,Default,Rudra,0,0,0,,Sao không ăn mừng đi? Bọn cậu vừa có được trận đấu chính thức\Nmà mình hằng ao ước còn gì.
+Dialogue: 0,0:03:44.11,0:03:47.20,Default,Rudra,0,0,0,,Giờ thì lo tập luyện chuẩn bị đi thôi.
+Dialogue: 0,0:03:47.20,0:03:48.99,Default,Shinn,0,0,0,,Này, đừng có đánh trống lảng.
+Dialogue: 0,0:03:48.99,0:03:50.70,Default,Bran,0,0,0,,Rốt cuộc chuyện quái quỷ gì đang diễn ra thế này?
+Dialogue: 0,0:03:51.62,0:03:53.46,Default,Kairi,0,0,0,,Dù sao đi nữa...
+Dialogue: 0,0:03:53.96,0:03:56.21,Default,Kairi,0,0,0,,Được rồi. Em sẽ cố gắng hết sức!
+Dialogue: 0,0:03:58.09,0:03:59.17,Default,Hannah,0,0,0,,Thưa ngài Ajima.
+Dialogue: 0,0:03:59.59,0:04:01.51,Default,Hannah,0,0,0,,Ngài thực sự chắc chắn về quyết định này chứ?
+Dialogue: 0,0:04:01.80,0:04:04.34,Default,Hannah,0,0,0,,Carbuncle chẳng có thành tích gì nổi bật cả.
+Dialogue: 0,0:04:04.59,0:04:05.84,Default,Hannah,0,0,0,,Thứ hạng tại thành phố Chiba của họ—
+Dialogue: 0,0:04:05.84,0:04:06.60,Default,Ajima,0,0,0,,Không sao đâu.
+Dialogue: 0,0:04:07.10,0:04:09.14,Default,Ajima,0,0,0,,Dù sao thì chúng cũng chẳng tiến xa được đâu.
+Dialogue: 0,0:04:26.45,0:04:28.37,Default,Isana,0,0,0,,Của quý khách đây. Cà phê đá và bánh mì sandwich nóng.
+Dialogue: 0,0:04:28.70,0:04:30.74,Default,Isana,0,0,0,,Suất cơm trưa cá thu rán và một cốc bia tươi.
+Dialogue: 0,0:04:31.16,0:04:32.87,Default,Isana,0,0,0,,Cơm cà ri phủ trứng lòng đào.
+Dialogue: 0,0:04:32.87,0:04:36.13,Default,Customer C,0,0,0,,Cho tôi gọi món với! Một suất trưa sashimi cá thu\Nvà một ly rượu highball trà xanh.
+Dialogue: 0,0:04:36.13,0:04:37.79,Default,Customer A,0,0,0,,Một mì Ý Napolitan và một bia tươi nhé.
+Dialogue: 0,0:04:37.79,0:04:40.09,Default,Customer E,0,0,0,,Một tô ramen bơ miso cỡ lớn\Nvà một bia tươi.
+Dialogue: 0,0:04:40.09,0:04:42.80,Default,Customer B,0,0,0,,Một đậu phụ lạnh, đậu nành edamame,\Ncà chua ướp lạnh và một bia tươi.
+Dialogue: 0,0:04:42.80,0:04:44.55,Default,Isana,0,0,0,,Vâng, có ngay, có ngay ạ!
+Dialogue: 0,0:04:44.55,0:04:46.30,Default,Isana,0,0,0,,Đồ ăn ra ngay đây ạ!
+Dialogue: 0,0:04:48.43,0:04:50.93,Default,Isana,0,0,0,,Ơ kìa, mọi người tập buổi sáng xong rồi à?
+Dialogue: 0,0:04:51.93,0:04:54.02,Default,Rudra,0,0,0,,Thời gian trong ngày chẳng bao giờ là đủ cả.
+Dialogue: 0,0:04:54.02,0:04:55.23,Default,Kairi,0,0,0,,Em kiệt cả sức rồi...
+Dialogue: 0,0:04:57.35,0:04:59.57,Default,Bran,0,0,0,,Hôm nay quán đông khách phát tài gớm nhỉ?
+Dialogue: 0,0:04:59.57,0:05:01.82,Default,Isana,0,0,0,,Thì Cúp Senki sắp diễn ra rồi mà—
+Dialogue: 0,0:05:01.82,0:05:04.70,Italics,MC,0,0,0,,Vâng, ngày hội lớn cuối cùng cũng sắp bắt đầu!
+Dialogue: 0,0:05:04.70,0:05:14.75,Default,sign,0,0,0,,{\an8}CHƯƠNG TRÌNH ĐẶC BIỆT TRƯỚC GIẢI ĐẤU
+Dialogue: 0,0:05:05.07,0:05:07.16,Default,MC,0,0,0,,Đây là giải đấu Cúp Senki lần thứ 44.
+Dialogue: 0,0:05:07.16,0:05:10.62,Default,MC,0,0,0,,Chỉ còn vài ngày nữa là tới sự kiện trọng đại,\Ntôi xin phép điểm qua thể thức của giải đấu.
+Dialogue: 0,0:05:10.62,0:05:14.87,Default,MC,0,0,0,,Và chúng ta có một vị khách mời đặc biệt\Nđến từ một đội tuyển Dark Machine hàng đầu.
+Dialogue: 0,0:05:14.75,0:05:18.83,Default,sign,0,0,0,,{\an8}KHÁCH MỜI HÔM NAY: MYOJIN\N(GREAT CLUSTER)
+Dialogue: 0,0:05:14.87,0:05:18.83,Default,MC,0,0,0,,Đó chính là Myojin của đội Great Cluster!
+Dialogue: 0,0:05:18.83,0:05:27.22,Default,sign,0,0,0,,{\an8}CÚP SENKI LẦN THỨ 44\NĐẶC SAN TRƯỚC GIẢI ĐẤU
+Dialogue: 0,0:05:18.83,0:05:21.63,Default,MC,0,0,0,,Rất vinh hạnh được đón tiếp cậu ngày hôm nay, Myojin.
+Dialogue: 0,0:05:21.63,0:05:23.46,Default,Myojin,0,0,0,,Tôi cũng rất vui khi được có mặt tại đây.
+Dialogue: 0,0:05:23.46,0:05:26.26,Default,MC,0,0,0,,Sau đây tôi xin giải thích cách vận hành của giải.
+Dialogue: 0,0:05:26.26,0:05:31.35,Default,MC,0,0,0,,Các đội tham gia trước hết sẽ thi đấu\Ntrong Nhánh thắng này.
+Dialogue: 0,0:05:31.35,0:05:35.18,Default,MC,0,0,0,,Đội thắng sẽ tiến vào vòng hai,\Ncòn đội thua sẽ bị loại thẳng cánh.
+Dialogue: 0,0:05:35.18,0:05:39.86,Default,MC,0,0,0,,Đùa chút thôi! Thực tế họ sẽ chạm trán nhau\Ntại Nhánh thua.
+Dialogue: 0,0:05:39.86,0:05:46.74,Default,Myojin,0,0,0,,Đó là thể thức có đôi chút đặc thù,\Nđược gọi là nhánh thắng nhánh thua (double elimination).
+Dialogue: 0,0:05:46.74,0:05:49.37,Default,Myojin,0,0,0,,Nhưng các kỳ Cúp Senki trước cũng như vậy cả, đúng chứ?
+Dialogue: 0,0:05:49.37,0:05:51.70,Default,Kairi,0,0,0,,Có tận hai nhánh đấu lận ạ?
+Dialogue: 0,0:05:51.70,0:05:53.24,Default,Kairi,0,0,0,,Thế trận chung kết sẽ diễn ra thế nào ạ?
+Dialogue: 0,0:05:53.24,0:05:59.08,Default,Shinn,0,0,0,,Đội vô địch Nhánh thắng và Nhánh thua\Nsẽ đối đầu nhau.
+Dialogue: 0,0:06:00.38,0:06:07.26,Italics,MC,0,0,0,,Đội tuyển trụ vững đến cuối cùng\Nvà giành lấy vinh quang sẽ ẵm trọn lượng alma khổng lồ...
+Dialogue: 0,0:06:07.26,0:06:10.18,Default,MC,0,0,0,,...cùng danh hiệu Senki đời thứ tám!
+Dialogue: 0,0:06:10.18,0:06:13.39,Default,MC,0,0,0,,Quý vị chắc chắn sẽ không muốn bỏ lỡ một giây phút nào đâu!
+Dialogue: 0,0:06:13.72,0:06:17.18,Default,MC,0,0,0,,Giờ xin mời cậu dự đoán xem ai sẽ là nhà vô địch.
+Dialogue: 0,0:06:18.81,0:06:22.23,Default,Myojin,0,0,0,,Dĩ nhiên lựa chọn của tôi là đội nhà, Great Cluster rồi.
+Dialogue: 0,0:06:22.23,0:06:23.40,Default,Kairi,0,0,0,,Là Carbuncle!
+Dialogue: 0,0:06:24.94,0:06:26.53,Default,Shinn,0,0,0,,Hăng máu gớm nhỉ.
+Dialogue: 0,0:06:26.53,0:06:28.15,Default,Bran,0,0,0,,Thằng lính mới ngựa non háu đá.
+Dialogue: 0,0:06:28.45,0:06:32.28,Default,Kairi,0,0,0,,Bọn mình nhất định sẽ chiến thắng, dù thế nào đi nữa!
+Dialogue: 0,0:06:34.24,0:06:35.87,Default,Bran,0,0,0,,Tiếng gì đấy?
+Dialogue: 0,0:06:35.87,0:06:37.87,Default,Shinn,0,0,0,,Bụng cậu réo đấy à?
+Dialogue: 0,0:06:37.87,0:06:39.08,Default,Kairi,0,0,0,,Em đói bụng quá rồi.
+Dialogue: 0,0:06:42.13,0:06:45.21,Default,Shinn,0,0,0,,Chị Isana bận tối mắt tối mũi rồi,\Nra ngoài ăn thôi.
+Dialogue: 0,0:06:45.96,0:06:47.26,Default,Kairi,0,0,0,,Em biết mình muốn ăn gì rồi!
+Dialogue: 0,0:06:51.01,0:06:55.18,Default,sign,0,0,0,,{\an8}CƠM BÒ ITO-YA
+Dialogue: 0,0:06:52.47,0:06:55.18,Default,Shinn,0,0,0,,Cứ tưởng món gì lạ lẫm.\NQuán cơm bò gyudon đấy à?
+Dialogue: 0,0:06:55.47,0:06:58.27,Default,Kairi,0,0,0,,Hồi ở ngoài đảo em chưa từng được ăn món này bao giờ cả.
+Dialogue: 0,0:06:58.60,0:07:01.69,Default,Kairi,0,0,0,,Cho cháu một phần cơm bò phô mai này\Nkèm dưa chua và súp miso nhé.
+Dialogue: 0,0:07:01.69,0:07:03.94,Default,Bran,0,0,0,,Ăn xong một cái là về ngay đấy, rõ chưa?
+Dialogue: 0,0:07:03.94,0:07:06.32,Default,Bran,0,0,0,,Cho tôi một cơm bò cỡ vừa\Nkèm trứng lòng đào.
+Dialogue: 0,0:07:06.32,0:07:09.74,Default,Shinn,0,0,0,,Một suất trưa cá hồi chiên.\NĐổi súp miso thành súp thịt heo.
+Dialogue: 0,0:07:09.74,0:07:11.07,Default,Shinn,0,0,0,,Với một cốc bia tươi nữa.
+Dialogue: 0,0:07:15.08,0:07:17.24,Default,Bran,0,0,0,,Sắp vào giải đấu rồi mà còn bia bọt à?
+Dialogue: 0,0:07:17.24,0:07:19.41,Default,Shinn,0,0,0,,Một cốc thôi mà. Đi mà.
+Dialogue: 0,0:07:19.79,0:07:21.50,Default,Bran,0,0,0,,Chẹp, đằng nào ông cũng gọi mất rồi.
+Dialogue: 0,0:07:23.92,0:07:28.59,Default,Max,0,0,0,,Ba tô cơm bò cỡ khủng nhất,\Nkhông lấy cơm, thêm topping trứng sống natto.
+Dialogue: 0,0:07:31.68,0:07:32.97,Default,Max,0,0,0,,Thì ra là thế.
+Dialogue: 0,0:07:33.26,0:07:35.72,Default,Max,0,0,0,,Các người là Đội Carbuncle à?
+Dialogue: 0,0:07:36.35,0:07:37.85,Default,Bran,0,0,0,,Đội Musculars ư?
+Dialogue: 0,0:07:37.85,0:07:41.10,Default,Chida,0,0,0,,Chính xác.\NBọn tao là đối thủ vòng một của tụi mày đấy.
+Dialogue: 0,0:07:42.27,0:07:43.73,Default,Staff,0,0,0,,Đồ ăn của quý khách đây ạ.
+Dialogue: 0,0:07:44.86,0:07:45.61,Default,Kairi,0,0,0,,Cuối cùng cũng tới rồi!
+Dialogue: 0,0:07:47.44,0:07:49.65,Default,Chida,0,0,0,,Nhìn cái đống rác rưởi kia xem.
+Dialogue: 0,0:07:52.86,0:07:54.74,Default,Max,0,0,0,,Xem ra phần thắng thuộc về bọn tao rồi.
+Dialogue: 0,0:07:55.74,0:07:57.16,Default,Bran,0,0,0,,Cái gì mà thắng với chả thua cơ?
+Dialogue: 0,0:07:57.16,0:07:59.91,Default,Max,0,0,0,,Tao nhìn qua khẩu phần ăn là biết ngay.
+Dialogue: 0,0:08:00.25,0:08:06.67,Default,Max,0,0,0,,Natri cao ngất ngưởng, carb thừa mứa,\Nvà thiếu hụt protein trầm trọng.
+Dialogue: 0,0:08:06.88,0:08:10.42,Default,Max,0,0,0,,Đó đâu phải là bữa ăn của những nhà vô địch.
+Dialogue: 0,0:08:11.47,0:08:13.80,Default,Shinn,0,0,0,,Thức ăn của bọn tôi thì liên quan quái gì\Nđến phong độ thi đấu?
+Dialogue: 0,0:08:13.80,0:08:15.43,Default,Lattis,0,0,0,,Ồ, liên quan mật thiết đấy chứ.
+Dialogue: 0,0:08:15.43,0:08:16.39,Default,Lattis,0,0,0,,Nhìn mà xem.
+Dialogue: 0,0:08:16.93,0:08:20.52,Default,Lattis,0,0,0,,Cơ giun và cơ đối ngón cái của các ngươi\Nđang khóc thét lên kìa.
+Dialogue: 0,0:08:22.64,0:08:23.94,Default,Staff,0,0,0,,Của quý khách đây ạ.
+Dialogue: 0,0:08:29.32,0:08:30.82,Default,Chida,0,0,0,,Thảm hại thật sự.
+Dialogue: 0,0:08:30.82,0:08:35.53,Default,Chida,0,0,0,,Nghe tin phải chạm trán đội được đích thân Senki đời bảy mời,\Nbọn tao đã có chút e dè đấy.
+Dialogue: 0,0:08:35.53,0:08:40.20,Default,Lattis,0,0,0,,Nhưng trông cái lũ này chẳng bõ để cơ bắp của ta phải bận tâm.
+Dialogue: 0,0:08:48.63,0:08:49.84,Default,Max,0,0,0,,Cảm ơn vì bữa ăn.
+Dialogue: 0,0:08:50.09,0:08:51.09,Default,Kairi,0,0,0,,Ăn nhanh thế không biết.
+Dialogue: 0,0:08:51.46,0:08:54.51,Default,Max,0,0,0,,Đi thôi nào. Về nhà tập thêm hiệp nữa.
+Dialogue: 0,0:08:54.51,0:08:55.18,Default,Both,0,0,0,,Rõ!
+Dialogue: 0,0:08:55.18,0:08:56.93,Default,Kairi,0,0,0,,Cơ bắp thì liên quan quái gì chứ.
+Dialogue: 0,0:08:57.59,0:08:59.60,Default,Kairi,0,0,0,,Bọn mình nhất định sẽ thắng.
+Dialogue: 0,0:08:59.60,0:09:00.97,Default,Kairi,0,0,0,,Carbuncle sẽ thắng!
+Dialogue: 0,0:09:05.19,0:09:06.98,Default,Bran,0,0,0,,Cơm dính đầy trên mặt kìa nhóc.
+Dialogue: 0,0:09:06.98,0:09:10.32,Default,Shinn,0,0,0,,Thật mừng khi biết đối thủ của ta là một lũ cuồng cơ
+Dialogue: 0,0:09:10.32,0:09:12.82,Default,Shinn,0,0,0,,chuyên đi đánh giá đội khác\Nkhi còn chưa thấy họ thi đấu ra sao.
+Dialogue: 0,0:09:13.82,0:09:18.53,Default,Bran,0,0,0,,Mong là trong lúc mải mê bơm cơ,\Ncác người không quên mất cách điều khiển Mech đấy nhé.
+Dialogue: 0,0:09:19.16,0:09:20.12,Default,Chida,0,0,0,,Mày...
+Dialogue: 0,0:09:20.12,0:09:22.54,Default,Shinn,0,0,0,,Cô ấy không có ý chê bai việc cơ bắp cuồn cuộn đâu.
+Dialogue: 0,0:09:23.95,0:09:27.04,Default,Shinn,0,0,0,,Nhưng liệu nó có thực sự giúp ích cho các cậu\Ntrên sàn đấu hay không?
+Dialogue: 0,0:09:28.88,0:09:32.38,Default,Max,0,0,0,,Câu hỏi hay đấy.\NVậy sao ta không vào trận đối đầu...
+Dialogue: 0,0:09:32.84,0:09:34.26,Default,Max,0,0,0,,để xem ai mới là kẻ đúng?
+Dialogue: 0,0:09:36.01,0:09:38.26,Default,Max,0,0,0,,Là bọn tao? Hay là...
+Dialogue: 0,0:09:39.64,0:09:41.14,Default,Max,0,0,0,,...lũ các ngươi?
+Dialogue: 0,0:09:53.45,0:09:56.54,Default,MC,0,0,0,,Xin cảm ơn sự kiên nhẫn của toàn thể quý vị!\NThời khắc ấy cuối cùng đã đến!
+Dialogue: 0,0:09:56.91,0:10:01.79,Default,MC,0,0,0,,Lễ khai mạc của giải đấu\NCúp Senki lần thứ 44 chính thức bắt đầu!
+Dialogue: 0,0:09:59.33,0:10:01.79,Default,sign,0,0,0,,{\an8}CÚP SENKI LẦN THỨ 44
+Dialogue: 0,0:10:02.04,0:10:05.55,Default,MC,0,0,0,,Trước hết, xin trân trọng giới thiệu các đội tuyển top đầu\Ntrên Bảng xếp hạng thành phố Chiba!
+Dialogue: 0,0:10:05.92,0:10:08.97,Default,Narrator,0,0,0,,Biệt đội xung kích trung thành phụng sự Senki đời thứ bảy!
+Dialogue: 0,0:10:09.38,0:10:12.72,Default,Narrator,0,0,0,,Kẻ nghiền nát mọi đối thủ\Nbằng lối chơi áp đảo tuyệt đối!
+Dialogue: 0,0:10:13.31,0:10:15.31,Default,Narrator,0,0,0,,Chính là Arudabiru!
+Dialogue: 0,0:10:13.31,0:10:15.31,Default,sign,0,0,0,,{\an8}ARUDABIRU
+Dialogue: 0,0:10:18.69,0:10:20.69,Italics,Narration,0,0,0,,Đỉnh cao tuyệt đối của thể chất!
+Dialogue: 0,0:10:20.69,0:10:24.19,Italics,Narration,0,0,0,,Khả năng kiểm soát hoàn mỹ được tôi luyện\Nqua những khối cơ bắp như tạc tượng!
+Dialogue: 0,0:10:25.48,0:10:27.24,Default,Narration,0,0,0,,{\an8}Chính là Musculars!
+Dialogue: 0,0:10:29.70,0:10:33.91,Italics,Narration,0,0,0,,Hào quang của họ không bao giờ lụi tàn,\Ndù trên sân khấu hay chốn sa trường!
+Dialogue: 0,0:10:33.91,0:10:37.29,Italics,Narration,0,0,0,,Đôi bàn tay tuyệt mỹ ghì chặt lấy cò súng của chiến thắng!
+Dialogue: 0,0:10:38.00,0:10:39.46,Italics,Narration,0,0,0,,Chính là Stellatus!
+Dialogue: 0,0:10:43.00,0:10:46.00,Default,Narration,0,0,0,,Ứng cử viên sáng giá nhất cho ngôi vị Senki tiếp theo!
+Dialogue: 0,0:10:46.00,0:10:48.59,Default,Narration,0,0,0,,Những chiến binh sinh ra để giành lấy vinh quang!
+Dialogue: 0,0:10:48.59,0:10:49.84,Default,Woman,0,0,0,,Anh ấy kìa! Là Myojin!
+Dialogue: 0,0:10:49.84,0:10:52.05,Default,Narrator,0,0,0,,Kẻ thẳng tiến tới đỉnh cao\Nvà vượt xa hơn thế nữa!
+Dialogue: 0,0:10:52.93,0:10:55.64,Default,Narrator,0,0,0,,{\an8}Great Cluster!
+Dialogue: 0,0:10:57.14,0:10:59.10,Default,Fans,0,0,0,,Myojin! Myojin!
+Dialogue: 0,0:10:59.10,0:11:02.60,Default,MC,0,0,0,,Và sau đây, nhà tài trợ của giải đấu lần này,
+Dialogue: 0,0:11:02.60,0:11:06.82,Default,MC,0,0,0,,Senki đời thứ bảy, ngài Ajima,\Nsẽ có đôi lời phát biểu khai mạc!
+Dialogue: 0,0:11:11.91,0:11:17.12,Default,Ajima,0,0,0,,Tôi rất lấy làm vinh hạnh khi được tổ chức\Nmột kỳ Cúp Senki tiếp theo.
+Dialogue: 0,0:11:17.62,0:11:22.08,Default,Ajima,0,0,0,,Dark Machine hứa hẹn đem lại cho các tuyển thủ\Nmột cơ hội độc nhất vô nhị.
+Dialogue: 0,0:11:22.50,0:11:26.59,Italics,Ajima,0,0,0,,Nếu có thể giành lấy chiến thắng, chúng tôi sẽ trao tặng cho các bạn\Nnhững vinh quang tột đỉnh nhất.
+Dialogue: 0,0:11:26.59,0:11:31.47,Italics,Ajima,0,0,0,,Cùng với đó là tiền tài, quyền lực, sự thăng hoa,\Nvà tất cả những gì các bạn có thể tưởng tượng ra.
+Dialogue: 0,0:11:32.59,0:11:35.64,Default,Ajima,0,0,0,,Tôi hy vọng toàn thể các tuyển thủ sẽ chiến đấu\Nhết giới hạn sức mạnh của mình
+Dialogue: 0,0:11:35.93,0:11:39.64,Default,Ajima,0,0,0,,trong những trận thư hùng mãn nhãn và đầy cảm hứng.
+Dialogue: 0,0:11:39.93,0:11:44.94,Default,Ajima,0,0,0,,Giờ đây, Cúp Senki lần thứ 44 chính thức khai màn!
+Dialogue: 0,0:11:49.15,0:11:51.99,Default,MC,0,0,0,,Xin trân trọng cảm ơn ngài Ajima!
+Dialogue: 0,0:11:51.99,0:11:54.95,Default,MC,0,0,0,,Vòng một sẽ bắt đầu ngay sau đây.
+Dialogue: 0,0:11:54.95,0:11:55.82,Default,MC,0,0,0,,Đồng hành ở bàn bình luận...
+Dialogue: 0,0:11:55.95,0:12:00.41,Default,sign,0,0,0,,{\an8\pos(320,230)}BÌNH LUẬN VIÊN: ANH MYOJIN\N(GREAT CLUSTER)
+Dialogue: 0,0:11:56.12,0:12:00.41,Default,MC,0,0,0,,{\an8}hôm nay chúng ta có Myojin đến từ Great Cluster!
+Dialogue: 0,0:12:00.62,0:12:05.04,Default,MC,0,0,0,,Xin phép được hỏi anh Myojin,\Ntrận đấu nào đáng chú ý nhất?
+Dialogue: 0,0:12:05.42,0:12:09.42,Default,Myojin,0,0,0,,Tôi cho rằng đó chính là cặp đấu sắp tới:\NCarbuncle đối đầu Musculars.
+Dialogue: 0,0:12:09.80,0:12:13.76,Default,Myojin,0,0,0,,Carbuncle lần đầu tiên tham dự giải nhờ tấm vé đặc cách.
+Dialogue: 0,0:12:13.76,0:12:16.93,Default,Myojin,0,0,0,,Đội hình của họ mới chỉ vừa thành lập ngay trước thềm Cúp Senki,
+Dialogue: 0,0:12:16.93,0:12:19.93,Default,Myojin,0,0,0,,nên chúng ta hãy cùng chờ xem\Nđiều gì làm nên sự đặc biệt của họ.
+Dialogue: 0,0:12:19.93,0:12:22.43,Default,MC,0,0,0,,Còn về phía Musculars thì sao?
+Dialogue: 0,0:12:22.68,0:12:26.44,Default,Myojin,0,0,0,,Dù mang vẻ ngoài đồ sộ, họ lại nổi tiếng với lối chơi thanh thoát nhẹ như bay,
+Dialogue: 0,0:12:26.90,0:12:30.44,Default,Myojin,0,0,0,,và họ có mặt ở đây nhờ vững vàng ở vị trí thứ tư\Ntrên Bảng xếp hạng thành phố Chiba.
+Dialogue: 0,0:12:30.44,0:12:35.82,Default,sign,0,0,0,,{\an8}CÚP SENKI LẦN THỨ 44\NTRẬN ĐẤU THỨ 1
+Dialogue: 0,0:12:30.82,0:12:33.45,Default,MC,0,0,0,,Tôi hiểu rồi. Vâng, trận mở màn vô cùng quan trọng này...
+Dialogue: 0,0:12:33.45,0:12:35.82,Italics,MC,0,0,0,,...sẽ diễn ra ngay sau đây!
+Dialogue: 0,0:12:35.82,0:12:38.33,Default,Isana,0,0,0,,Trận đầu tiên sắp bắt đầu rồi.
+Dialogue: 0,0:12:38.33,0:12:42.70,Default,Rudra,0,0,0,,Ừ. Để xem thằng lính mới kia\Ncó làm nên trò trống gì không.
+Dialogue: 0,0:12:43.29,0:12:45.21,Default,Kairi,0,0,0,,Tự nhiên em thấy run quá chừng.
+Dialogue: 0,0:12:45.21,0:12:48.21,Default,Shinn,0,0,0,,Bình tĩnh đi. Cứ làm y hệt như lúc luyện tập là được.
+Dialogue: 0,0:12:48.21,0:12:51.21,Default,Bran,0,0,0,,Và đừng có quên sử dụng trang bị mới đấy nhé.
+Dialogue: 0,0:12:53.47,0:12:55.09,Default,Chida,0,0,0,,Sẵn sàng.
+Dialogue: 0,0:12:56.09,0:12:58.09,Default,Lattis,0,0,0,,Cơ thể tôi đang ở trạng thái đỉnh cao nhất.
+Dialogue: 0,0:12:59.35,0:13:02.47,Default,Max,0,0,0,,Khắp người tao đang tràn trề testosterone đây.
+Dialogue: 0,0:13:02.47,0:13:05.73,Default,sign,0,0,0,,{\an8}CÚP SENKI LẦN THỨ 44\NTRẬN ĐẤU THỨ 1
+Dialogue: 0,0:13:02.47,0:13:05.73,Italics,MC,0,0,0,,Được rồi, trận đấu đầu tiên xin phép được bắt đầu!
+Dialogue: 0,0:13:05.94,0:13:07.73,Italics,MC,0,0,0,,Liệu chiến thắng sẽ thuộc về...
+Dialogue: 0,0:13:07.73,0:13:10.32,Default,MC,0,0,0,,...đội hạng tư, Musculars?
+Dialogue: 0,0:13:11.19,0:13:14.49,Default,MC,0,0,0,,Hay tân binh mới nổi, Carbuncle?
+Dialogue: 0,0:13:16.82,0:13:18.87,Default,MC,0,0,0,,Trận đấu bắt đầu!
+Dialogue: 0,0:13:18.87,0:13:22.87,Default,MC,0,0,0,,Và cuộc chiến đã nổ ra trên đấu trường độc quyền\Ndành riêng cho giải đấu!
+Dialogue: 0,0:13:22.87,0:13:26.75,Default,MC,0,0,0,,Chà! Musculars đã lập tức phá hủy địa hình sàn đấu!
+Dialogue: 0,0:13:26.75,0:13:30.25,Default,MC,0,0,0,,Họ đang ghi điểm ngay từ những giây đầu tiên!
+Dialogue: 0,0:13:31.71,0:13:33.96,Default,Shinn,0,0,0,,Kairi, lao lên trước nhử mồi đi.
+Dialogue: 0,0:13:33.96,0:13:34.97,Default,Kairi,0,0,0,,Rõ ạ!
+Dialogue: 0,0:13:39.26,0:13:40.89,Default,Max,0,0,0,,Mech gì mà còm nhom ốm yếu thế.
+Dialogue: 0,0:13:41.18,0:13:43.43,Default,Max,0,0,0,,Musculars, tổng lực bắn phá!
+Dialogue: 0,0:13:52.32,0:13:54.07,Default,Bran,0,0,0,,Khói bụi thế này nhìn sao nổi, chết tiệt!
+Dialogue: 0,0:13:55.28,0:13:56.07,Default,Bran,0,0,0,,Đằng kia!
+Dialogue: 0,0:14:01.07,0:14:02.20,Default,Bran,0,0,0,,Từ khoảng cách xa thế ư?
+Dialogue: 0,0:14:08.42,0:14:11.17,Italics,Shinn,0,0,0,,Bọn chúng bọc lót cho nhau tốt thật.
+Dialogue: 0,0:14:13.00,0:14:16.05,Default,MC,0,0,0,,Musculars đang hoàn toàn áp đảo Carbuncle!
+Dialogue: 0,0:14:16.05,0:14:18.80,Default,MC,0,0,0,,Điểm số của họ đang tăng lên chóng mặt!
+Dialogue: 0,0:14:19.09,0:14:22.93,Default,Myojin,0,0,0,,Nhưng ngay cả khi ghi điểm,\Nhọ cũng không quên hỗ trợ đồng đội.
+Dialogue: 0,0:14:22.93,0:14:25.18,Italics,Myojin,0,0,0,,Một đội hình kiểu mẫu chuẩn mực.
+Dialogue: 0,0:14:25.18,0:14:28.81,Default,Isana,0,0,0,,Em cứ ngỡ Musculars chỉ là hổ giấy cơ bắp, nhưng mà...
+Dialogue: 0,0:14:29.10,0:14:32.52,Default,Rudra,0,0,0,,Không có chuyện đó đâu. Chẳng phải ngẫu nhiên\Nmà họ đứng top đầu bảng xếp hạng đâu.
+Dialogue: 0,0:14:36.07,0:14:37.69,Default,Chida,0,0,0,,Tiếp tục tạo áp lực đi!
+Dialogue: 0,0:14:43.78,0:14:45.29,Default,Max,0,0,0,,Yểm trợ theo Chida!
+Dialogue: 0,0:14:45.29,0:14:46.41,Default,Lattis,0,0,0,,Rõ!
+Dialogue: 0,0:14:49.37,0:14:50.21,Default,Shinn,0,0,0,,Chết tiệt.
+Dialogue: 0,0:14:51.12,0:14:54.38,Default,Shinn,0,0,0,,Bọn chúng đang tập trung hỏa lực nhắm vào Kairi.
+Dialogue: 0,0:15:00.26,0:15:04.26,Default,Bran,0,0,0,,Chết tiệt. Vẫn chưa nhìn thấy được mục tiêu.
+Dialogue: 0,0:15:08.43,0:15:10.52,Default,Max,0,0,0,,Thời cơ đã chín muồi.
+Dialogue: 0,0:15:10.52,0:15:12.02,Default,Max,0,0,0,,Lên thôi!
+Dialogue: 0,0:15:12.69,0:15:17.03,Default,MC,0,0,0,,Ôi trời! Max đã kích hoạt Gigant Shift!
+Dialogue: 0,0:15:20.40,0:15:21.40,Default,Shinn,0,0,0,,Nhanh quá.
+Dialogue: 0,0:15:21.40,0:15:22.78,Default,Bran,0,0,0,,Không thể nào!
+Dialogue: 0,0:15:33.04,0:15:35.79,Default,Kairi,0,0,0,,Á, bọn chúng không cho nghỉ thở luôn!
+Dialogue: 0,0:15:36.67,0:15:39.80,Default,MC,0,0,0,,Hiệp một đã kết thúc!
+Dialogue: 0,0:15:39.80,0:15:42.88,Default,MC,0,0,0,,Musculars đang dẫn trước một khoảng cách điểm khổng lồ!
+Dialogue: 0,0:15:42.88,0:15:45.30,Default,Myojin,0,0,0,,Hiệp thi đấu đầu tiên trôi qua nhanh như một cái chớp mắt.
+Dialogue: 0,0:15:45.51,0:15:48.01,Default,MC,0,0,0,,Anh có thể phân tích lại những gì vừa diễn ra được không?
+Dialogue: 0,0:15:48.22,0:15:52.69,Default,Myojin,0,0,0,,Họ đã phá hủy bản đồ để che khuất tầm nhìn,\Nđồng thời nhanh chóng thu thập Năng lượng Palma.
+Dialogue: 0,0:15:52.69,0:15:54.94,Default,Myojin,0,0,0,,Đúng là phong cách thi đấu đậm chất Musculars.
+Dialogue: 0,0:15:55.73,0:16:00.24,Default,MC,0,0,0,,Liệu Musculars có tiếp tục thống trị hiệp hai hay không?
+Dialogue: 0,0:16:00.24,0:16:03.28,Italics,Myojin,0,0,0,,Giờ các cậu sẽ làm gì đây, Carbuncle?
+Dialogue: 0,0:16:04.03,0:16:06.74,Default,Rudra,0,0,0,,Chị chỉ nói đúng một câu thôi.
+Dialogue: 0,0:16:06.74,0:16:09.45,Default,Rudra,0,0,0,,Đừng có dại dột mà so kè tính điểm với chúng.
+Dialogue: 0,0:16:09.74,0:16:12.54,Default,Rudra,0,0,0,,Chị muốn một chiến thắng hạ đo ván hoàn toàn (KO)!
+Dialogue: 0,0:16:13.58,0:16:15.08,Default,Shinn,0,0,0,,Chị chỉ chỉ đạo có bấy nhiêu thôi đấy à?
+Dialogue: 0,0:16:15.33,0:16:18.29,Default,Rudra,0,0,0,,Nếu không thể đập nát bọn chúng trong một trận hỗn chiến tổng lực,
+Dialogue: 0,0:16:18.29,0:16:20.09,Default,Rudra,0,0,0,,thì các cậu cũng chẳng thể tiến xa hơn được đâu.
+Dialogue: 0,0:16:22.42,0:16:24.84,Default,Bran,0,0,0,,Phải chia cắt đội hình của bọn chúng ra.
+Dialogue: 0,0:16:24.84,0:16:27.97,Default,Bran,0,0,0,,Tôi sẽ chiếm giữ ngọn tháp cao kia. Yểm trợ cho tôi.
+Dialogue: 0,0:16:28.47,0:16:29.43,Default,Kairi,0,0,0,,Ngọn tháp ạ?
+Dialogue: 0,0:16:29.97,0:16:31.56,Default,Lattis,0,0,0,,Mọi chuyện đang diễn ra quá mượt mà.
+Dialogue: 0,0:16:31.56,0:16:34.23,Default,Lattis,0,0,0,,Cơ lưng rộng của tôi hôm nay cảm giác\Nuyển chuyển hơn mọi ngày nhiều.
+Dialogue: 0,0:16:36.27,0:16:37.61,Default,Chida,0,0,0,,Được rồi, kết liễu trận đấu thôi.
+Dialogue: 0,0:16:37.61,0:16:40.94,Default,Max,0,0,0,,Hãy tin vào sức mạnh của cơ bắp.
+Dialogue: 0,0:16:43.99,0:16:46.36,Default,MC,0,0,0,,Hiệp hai. Bắt đầu!
+Dialogue: 0,0:16:46.61,0:16:48.37,Default,Shinn,0,0,0,,Cho tới khi Bran chiếm được vị trí mục tiêu...
+Dialogue: 0,0:16:48.37,0:16:50.12,Default,Shinn,0,0,0,,Kairi, lên thôi!
+Dialogue: 0,0:16:50.12,0:16:50.99,Default,Kairi,0,0,0,,Vâng ạ!
+Dialogue: 0,0:16:52.33,0:16:54.50,Default,Max,0,0,0,,Hiệp mới nhưng chiến thuật cũ.
+Dialogue: 0,0:16:54.50,0:16:56.50,Default,Max,0,0,0,,Musculars, tổng lực xả đạn!
+Dialogue: 0,0:17:13.27,0:17:15.23,Default,Lattis,0,0,0,,Bay lượn né đòn cũng khá đấy chứ nhỉ?
+Dialogue: 0,0:17:15.23,0:17:18.61,Default,Chida,0,0,0,,Chỉ có lũ thất bại mới đi chọn đôi cánh\Nthay vì những múi cơ bắp!
+Dialogue: 0,0:17:18.86,0:17:22.11,Default,Max,0,0,0,,Bọn tao sẽ cho tụi mày chiêm ngưỡng thành quả khổ luyện!
+Dialogue: 0,0:17:22.40,0:17:26.95,Default,Max,0,0,0,,Bản giao hưởng áp đảo được ngân lên\Ntừ cơ nhị đầu và cơ đùi sau cuồn cuộn!
+Dialogue: 0,0:17:26.95,0:17:30.12,Default,Max,0,0,0,,Đó chính là những gì bọn tao ngày đêm tôi luyện!
+Dialogue: 0,0:17:30.12,0:17:32.95,Default,Max,0,0,0,,Thế hệ Cơ bắp Cứu thế Mớ—
+Dialogue: 0,0:17:34.00,0:17:35.50,Default,Max,0,0,0,,Cái gì?!
+Dialogue: 0,0:17:35.71,0:17:36.87,Default,Bran,0,0,0,,Bắt được mày trong tầm ngắm rồi.
+Dialogue: 0,0:17:42.13,0:17:43.63,Default,Chida,0,0,0,,Nó chiếm được điểm cao rồi sao?!
+Dialogue: 0,0:17:43.63,0:17:45.63,Default,Lattis,0,0,0,,Phải tìm chỗ ẩn nấp mau!
+Dialogue: 0,0:17:45.63,0:17:47.18,Default,Shinn,0,0,0,,Tốt lắm. Kairi!
+Dialogue: 0,0:17:47.18,0:17:48.01,Default,Kairi,0,0,0,,Rõ ạ!
+Dialogue: 0,0:17:53.43,0:17:55.10,Default,Max,0,0,0,,Tao sẽ kéo hỏa lực thu hút chú ý.
+Dialogue: 0,0:17:55.10,0:17:56.89,Default,Max,0,0,0,,Chúng mày đi hạ tay bắn tỉa kia đi!
+Dialogue: 0,0:17:58.90,0:17:59.60,Default,Chida,0,0,0,,Lattis!
+Dialogue: 0,0:17:59.60,0:18:00.40,Default,Lattis,0,0,0,,Rõ!
+Dialogue: 0,0:18:08.07,0:18:09.78,Default,Bran,0,0,0,,Bọn chúng định đánh sập cả tòa nhà ư?!
+Dialogue: 0,0:18:09.78,0:18:11.12,Default,Shinn,0,0,0,,Rút khỏi đó mau, Bran!
+Dialogue: 0,0:18:14.99,0:18:15.91,Default,Kairi,0,0,0,,Chị Bran!
+Dialogue: 0,0:18:18.58,0:18:20.42,Default,Max,0,0,0,,Đừng hòng đi đâu cả!
+Dialogue: 0,0:18:22.42,0:18:23.29,Default,Kairi,0,0,0,,Chết tiệt!
+Dialogue: 0,0:18:23.29,0:18:24.17,Default,Shinn,0,0,0,,Mở đường ra!
+Dialogue: 0,0:18:25.05,0:18:26.51,Default,Max,0,0,0,,Đừng hòng qua được bức tường này!
+Dialogue: 0,0:18:30.01,0:18:31.76,Default,Bran,0,0,0,,Biến giùm tao đi!
+Dialogue: 0,0:18:31.76,0:18:34.01,Default,Chida,0,0,0,,Lattis! Ngay bây giờ!
+Dialogue: 0,0:18:34.01,0:18:35.52,Default,Lattis,0,0,0,,Nhận lệnh!
+Dialogue: 0,0:18:47.49,0:18:51.45,Italics,MC,0,0,0,,Ôi trời ơi! Cả hai đội đều bị hạ một Mech!
+Dialogue: 0,0:18:52.78,0:18:55.29,Default,Isana,0,0,0,,Nhưng tình thế này nguy quá.
+Dialogue: 0,0:18:56.41,0:18:59.79,Italics,Rudra,0,0,0,,Muốn phá vỡ thế trận,\Nbắt buộc phải trông cậy vào thằng lính mới kia.
+Dialogue: 0,0:19:00.62,0:19:01.71,Default,Max,0,0,0,,Lên thôi, Lattis!
+Dialogue: 0,0:19:01.71,0:19:03.54,Default,Max,0,0,0,,Kích hoạt Chiến dịch Cơ Xô Lưng Rộng!
+Dialogue: 0,0:19:04.67,0:19:05.42,Default,Shinn,0,0,0,,Chết tiệt.
+Dialogue: 0,0:19:08.92,0:19:11.93,Default,Shinn,0,0,0,,Con Mech tầm trung đang nhắm vào cậu đấy.\NCẩn thận đấy nhóc.
+Dialogue: 0,0:19:13.51,0:19:14.43,Default,Kairi,0,0,0,,Em rõ rồi ạ!
+Dialogue: 0,0:19:30.32,0:19:31.82,Default,Lattis,0,0,0,,Bắt được mày rồi nhé!
+Dialogue: 0,0:19:41.16,0:19:42.37,Default,Myojin,0,0,0,,Ối chà.
+Dialogue: 0,0:19:42.37,0:19:45.50,Default,Myojin,0,0,0,,Kairi đã hạ gục Lattis!
+Dialogue: 0,0:19:45.50,0:19:47.38,Default,Max,0,0,0,,C-Cái gì cơ?!
+Dialogue: 0,0:19:47.67,0:19:49.01,Default,Shinn,0,0,0,,Sơ hở đầy mình rồi kìa.
+Dialogue: 0,0:19:49.88,0:19:51.26,Default,Max,0,0,0,,Khốn kiếp!
+Dialogue: 0,0:19:56.80,0:19:59.43,Default,MC,0,0,0,,Kết thúc rồi! Trận đấu đã ngã ngũ!
+Dialogue: 0,0:20:00.81,0:20:03.81,Default,MC,0,0,0,,Shinn đã kết liễu trận đấu bằng một cú Seize Attack chuẩn xác!
+Dialogue: 0,0:20:05.81,0:20:08.07,Default,Isana,0,0,0,,Tuyệt vời! Thắng rồi! Họ thắng rồi!
+Dialogue: 0,0:20:08.32,0:20:09.53,Default,Rudra,0,0,0,,Thiệt tình, làm người ta thót tim.
+Dialogue: 0,0:20:13.61,0:20:15.57,Default,Max,0,0,0,,Các người đã có một trận đấu xuất sắc đấy.
+Dialogue: 0,0:20:15.57,0:20:19.33,Default,Bran,0,0,0,,Đội các anh cũng vậy. Giờ thì tôi hiểu vì sao\Ncác anh lại đứng top Bảng xếp hạng thành phố Chiba rồi.
+Dialogue: 0,0:20:19.66,0:20:22.96,Default,Bran,0,0,0,,Bọn tôi còn phải học hỏi nhiều về khả năng phối hợp đồng đội từ các anh.
+Dialogue: 0,0:20:23.21,0:20:25.83,Default,Max,0,0,0,,Dẫu vậy, các bạn vẫn là đội bản lĩnh hơn.
+Dialogue: 0,0:20:25.83,0:20:27.09,Default,Lattis,0,0,0,,Đúng vậy.
+Dialogue: 0,0:20:27.67,0:20:32.59,Default,Lattis,0,0,0,,Mà này Kairi, làm thế nào cậu biết được\Ntôi đang ở ngay phía sau lưng thế?
+Dialogue: 0,0:20:32.92,0:20:35.09,Default,Lattis,0,0,0,,Tôi cứ đinh ninh cậu không thể nào nhìn thấy được.
+Dialogue: 0,0:20:36.22,0:20:40.97,Default,Kairi,0,0,0,,Em chỉ cảm thấy như thể mình nhìn thấy\Nvà nghe thấy được mọi thứ vậy ạ.
+Dialogue: 0,0:20:46.65,0:20:47.52,Default,Shinn,0,0,0,,Cậu bảo sao cơ?
+Dialogue: 0,0:20:48.02,0:20:51.19,Default,Lattis,0,0,0,,Luyện tập kiểu gì để làm được chuyện đó thế?
+Dialogue: 0,0:20:51.19,0:20:54.74,Default,Max,0,0,0,,Không, đó không phải là thứ năng lực có thể tập luyện mà ra đâu.
+Dialogue: 0,0:20:56.36,0:20:57.03,Default,Kairi,0,0,0,,Ái đau.
+Dialogue: 0,0:20:57.28,0:21:00.53,Default,Max,0,0,0,,Có lẽ đó là thiên phú bẩm sinh rồi.
+Dialogue: 0,0:21:00.95,0:21:02.25,Default,Kairi,0,0,0,,Thiên phú ạ?
+Dialogue: 0,0:21:03.29,0:21:04.46,Default,Max,0,0,0,,Tôi tin chắc là như vậy.
+Dialogue: 0,0:21:12.38,0:21:14.42,Default,Ajima,0,0,0,,Trò này bắt đầu thú vị rồi đây.
+
