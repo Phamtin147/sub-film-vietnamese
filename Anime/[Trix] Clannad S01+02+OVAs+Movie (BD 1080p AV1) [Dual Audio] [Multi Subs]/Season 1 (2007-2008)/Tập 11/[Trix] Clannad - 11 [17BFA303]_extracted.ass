@@ -1,0 +1,498 @@
+[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1920
+PlayResY: 1080
+ScaledBorderAndShadow: yes
+Video Aspect Ratio: 0
+Video Zoom: 8
+Video Position: 34663
+Last Style Storage: Default
+Audio File: Clannad - 11.mp3
+Video File: Clannad - 11 WR.mkv
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Alberta,75,&H00FFFFFF,&H00FFFFFF,&H00477650,&H80000000,0,0,0,0,110,100,0,0,1,3,1.5,2,48,48,48,0
+Style: Default-alt,Alberta,75,&H00FFFFFF,&H00FFFFFF,&H00596162,&H80000000,0,0,0,0,110,100,0,0,1,3,1.5,8,48,48,48,0
+Style: Note,AvantGarde Bk BT Eclipse,65,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,48,48,48,0
+Style: ED Romaji,Segoe Print,80,&H00FFFFFF,&H80FFFFFF,&H80FF0000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,8,60,60,30,1
+Style: ED English,Segoe Print,80,&H00FFFFFF,&H80FFFFFF,&H80FF0000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,60,60,30,1
+Style: OP Romaji,Monotype Corsiva,70,&H00FFFFFF,&H80FFFFFF,&H80FF5E5B,&H80000000,-1,0,0,0,100,100,0,0,1,3,1,8,60,60,30,1
+Style: OP English,Monotype Corsiva,70,&H00FFFFFF,&H80FFFFFF,&H80FF5E5B,&H80000000,-1,0,0,0,100,100,0,0,1,3,1,2,60,60,30,1
+Style: Signs,Briem Script Std Medium,75,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,0,0,2,48,48,48,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.85,Default,,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,Nag,0,0,0,,
+Dialogue: 0,0:00:01.60,0:00:02.85,Default,Kot,0,0,0,,Tomoya-kun.
+Dialogue: 0,0:00:03.35,0:00:04.52,Default,Kot,0,0,0,,Tomoya-kun?
+Dialogue: 0,0:00:05.19,0:00:06.48,Default,Kot,0,0,0,,Tomoya-kun.
+Dialogue: 0,0:00:06.81,0:00:08.15,Default,Kot,0,0,0,,Tomoya-kun!
+Dialogue: 0,0:00:13.03,0:00:13.99,Default,Kot,0,0,0,,So nice.
+Dialogue: 0,0:00:14.99,0:00:17.74,Default,Oka,0,0,0,,K-Kotomi…
+Dialogue: 0,0:00:18.20,0:00:20.66,Default,Kot,0,0,0,,Hello, Tomoya-kun.
+Dialogue: 0,0:00:20.66,0:00:22.20,Default,Oka,0,0,0,,Don't “hello” me like that.
+Dialogue: 0,0:00:22.20,0:00:23.29,Default,Kot,0,0,0,,Then…
+Dialogue: 0,0:00:23.75,0:00:25.29,Default,Kot,0,0,0,,How do you do?
+Dialogue: 0,0:00:25.67,0:00:29.29,Default,Oka,0,0,0,,God… And I was having a nice nap…
+Dialogue: 0,0:00:29.29,0:00:32.21,Default,Kot,0,0,0,,So I played a lullaby.
+Dialogue: 0,0:00:32.21,0:00:34.22,Default,Oka,0,0,0,,I was about to fall into an eternal sleep from the shock! {ep 10}
+Dialogue: 0,0:00:34.22,0:00:36.51,Default,Guy,0,0,0,,Okazaki! Who is this?
+Dialogue: 0,0:00:36.51,0:00:38.30,Default,Guy,0,0,0,,A friend of yours?
+Dialogue: 0,0:00:42.73,0:00:45.44,Default,Kot,0,0,0,,Hello. Nice to meet you.
+Dialogue: 0,0:00:45.44,0:00:48.69,Default,Kot,0,0,0,,My name is Ichinose Kotomi. A senior in Class A.
+Dialogue: 0,0:00:48.69,0:00:50.32,Default,Kot,0,0,0,,My hobby is reading books.
+Dialogue: 0,0:00:50.32,0:00:52.28,Default,Oka,0,0,0,,And her weapon is the violin.
+Dialogue: 0,0:00:52.28,0:00:55.20,Default,Oka,0,0,0,,It emits lethal sound waves only 0.2 seconds after she takes position.
+Dialogue: 0,0:00:55.20,0:00:56.70,Default,Oka,0,0,0,,The number of people she's felled is countless.
+Dialogue: 0,0:00:59.45,0:01:04.20,Default,Kot,0,0,0,,I've never felled people with the violin.
+Dialogue: 0,0:01:05.50,0:01:06.83,Default,Guy,0,0,0,,M-My eardrums…
+Dialogue: 0,0:01:06.83,0:01:08.58,Default,Oka,0,0,0,,Do you see us on the floor right now?
+Dialogue: 0,0:01:08.58,0:01:11.38,Default,Kyo,0,0,0,,Hey! Kotomi! What do you think you're doing?
+Dialogue: 0,0:01:11.38,0:01:12.55,Default,Ryo,0,0,0,,Kotomi-chan?
+Dialogue: 0,0:01:12.55,0:01:15.34,Default,Nag,0,0,0,,So that was Kotomi-chan.
+Dialogue: 0,0:01:15.34,0:01:18.72,Default,Kot,0,0,0,,Kyou-chan, Ryou-chan, Nagisa-chan.
+Dialogue: 0,0:01:18.72,0:01:20.68,Default,Kot,0,0,0,,Hello to you all.
+Dialogue: 0,0:01:20.68,0:01:22.22,Default,Kyo,0,0,0,,Don't “hello” me!
+Dialogue: 0,0:01:22.97,0:01:24.14,Default,Kot,0,0,0,,Bonjour?
+Dialogue: 0,0:01:24.14,0:01:26.35,Default,Kyo,0,0,0,,No!
+Dialogue: 0,0:01:27.98,0:01:32.07,Default,Kot,0,0,0,,Bo-n-jour?
+Dialogue: 0,0:01:32.07,0:01:35.69,Default,Kyo,0,0,0,,Why can't I communicate with her?
+Dialogue: 0,0:01:35.69,0:01:38.53,Default,Nag,0,0,0,,Please calm down for now, Kyou-chan.
+Dialogue: 0,0:01:38.53,0:01:41.37,Default,Oka,0,0,0,,She's right. You lose if you get trapped in her pace.
+Dialogue: 0,0:01:41.37,0:01:42.95,Default,Kyo,0,0,0,,I know that!
+Dialogue: 0,0:01:46.29,0:01:48.42,Default,Kyo,0,0,0,,What are you doing here?
+Dialogue: 0,0:01:48.87,0:01:50.71,Default,Kot,0,0,0,,Playing the violin.
+Dialogue: 0,0:01:51.54,0:01:54.25,Default,Kyo,0,0,0,,That's the one that was in the music room, wasn't it?
+Dialogue: 0,0:01:55.05,0:01:57.34,Default,Kot,0,0,0,,They lent it to me.
+Dialogue: 0,0:01:57.63,0:02:01.64,Default,Kot,0,0,0,,They said, “If you like it that much,\Nwould you like to use it for a while?”
+Dialogue: 0,0:02:01.64,0:02:03.10,Default,Oka,0,0,0,,Thanks for the trouble.
+Dialogue: 0,0:02:03.10,0:02:04.52,Default,Kot,0,0,0,,Allow me to play the next piece.
+Dialogue: 0,0:02:04.52,0:02:05.97,Default,All,0,0,0,,You don't have to!
+Dialogue: 0,0:02:11.02,0:02:16.94,OP Romaji,,0,0,0,,{\fad(250,250)\be1}{\kf46}su{\kf22}ki {\kf46}to{\kf46}o{\kf160}ru {\kf17}yu{\kf43}me {\kf17}wo {\kf40}mi{\kf29}te{\kf23}i{\kf53}ta
+Dialogue: 0,0:02:11.02,0:02:16.94,OP English,,0,0,0,,{\fad(250,250)\be1}I was watching a crystal clear dream,
+Dialogue: 0,0:02:17.74,0:02:23.66,OP Romaji,,0,0,0,,{\fad(250,250)\be1}{\kf43}ya{\kf20}wa{\kf46}ra{\kf45}ka{\kf94}i {\kf63}e{\kf40}i{\kf26}e{\kf154}n
+Dialogue: 0,0:02:17.74,0:02:23.66,OP English,,0,0,0,,{\fad(250,250)\be1}an eternity so tender.
+Dialogue: 0,0:02:24.24,0:02:30.25,OP Romaji,,0,0,0,,{\fad(250,250)\be1}{\kf50}ka{\kf29}ze {\kf38}no {\kf43}you{\kf165}na {\kf11}ka{\kf47}su{\kf26}ka {\kf40}na {\kf24}ko{\kf19}e {\kf59}ga
+Dialogue: 0,0:02:24.24,0:02:30.25,OP English,,0,0,0,,{\fad(250,250)\be1}A faint voice like the wind,
+Dialogue: 0,0:02:31.00,0:02:37.42,OP Romaji,,0,0,0,,{\fad(250,250)\be1}{\kf39}ta{\kf24}ka{\kf31}i {\kf48}so{\kf58}ra {\kf25}ka{\kf62}ra {\kf14}bo{\kf71}ku {\kf12}wo {\kf18}yo{\kf53}n{\kf16}de{\kf45}i{\kf74}ru
+Dialogue: 0,0:02:31.00,0:02:37.42,OP English,,0,0,0,,{\fad(250,250)\be1}is calling for me from up high in the sky.
+Dialogue: 0,0:02:37.42,0:02:43.76,OP Romaji,,0,0,0,,{\fad(250,250)\be1}{\kf117}ko{\kf44}no {\kf87}ma{\kf101}ma {\kf92}to{\kf50}bi {\kf62}ta{\kf25}te{\kf21}ba
+Dialogue: 0,0:02:37.42,0:02:43.76,OP English,,0,0,0,,{\fad(250,250)\be1}If we fly off,
+Dialogue: 0,0:02:43.76,0:02:50.56,OP Romaji,,0,0,0,,{\fad(250,0)\be1}{\kf44}do{\kf103}ko {\kf21}ni {\kf80}da{\kf28}tte {\kf35}yu{\kf51}ke{\kf291}ru
+Dialogue: 0,0:02:43.76,0:02:50.56,OP English,,0,0,0,,{\fad(250,0)\be1}we can go anywhere.
+Dialogue: 0,0:02:50.56,0:02:57.23,OP Romaji,,0,0,0,,{\fad(250,0)\be1}{\kf118}ka{\kf25}sa{\kf30}ne{\kf142}ta {\kf24}te {\kf124}to {\kf17}te {\kf24}no {\kf83}na{\kf20}ka {\kf50}ni
+Dialogue: 0,0:02:50.56,0:02:57.23,OP English,,0,0,0,,{\fad(250,0)\be1}If a fragment of the future
+Dialogue: 0,0:02:57.23,0:03:03.91,OP Romaji,,0,0,0,,{\fad(250,0)\be1}{\kf103}chi{\kf24}i{\kf21}sa{\kf102}na {\kf59}mi{\kf46}ra{\kf64}i {\kf39}ga {\kf19}mi{\kf23}e{\kf103}ta{\kf46}ra
+Dialogue: 0,0:02:57.23,0:03:03.91,OP English,,0,0,0,,{\fad(250,0)\be1}can be seen between the held hands,
+Dialogue: 0,0:03:03.91,0:03:10.58,OP Romaji,,0,0,0,,{\fad(250,0)\be1}{\kf119}hi{\kf23}ka{\kf22}ri {\kf123}no {\kf33}na{\kf129}ka {\kf22}yu{\kf22}ra{\kf82}me{\kf21}i{\kf36}ta
+Dialogue: 0,0:03:03.91,0:03:10.58,OP English,,0,0,0,,{\fad(250,0)\be1}Then in the light, everything,
+Dialogue: 0,0:03:10.58,0:03:16.96,OP Romaji,,0,0,0,,{\fad(250,0)\be1}{\kf114}ko{\kf25}to{\kf21}ba {\kf78}mo {\kf64}o{\kf40}mo{\kf54}i {\kf46}mo {\kf30}ze{\kf16}n{\kf121}bu
+Dialogue: 0,0:03:10.58,0:03:16.96,OP English,,0,0,0,,{\fad(250,0)\be1}words and thoughts, sway back and forth.
+Dialogue: 0,0:03:16.96,0:03:23.39,OP Romaji,,0,0,0,,{\fad(250,250)\be1}{\kf35}ha{\kf43}ru{\kf19}ka{\kf226}na {\kf27}ki{\kf61}mi {\kf21}ma{\kf168}de
+Dialogue: 0,0:03:16.96,0:03:23.39,OP English,,0,0,0,,{\fad(250,250)\be1}I'll be sure to pass them to you, in the distance,
+Dialogue: 0,0:03:23.39,0:03:35.81,OP Romaji,,0,0,0,,{\fad(250,250)\be1}{\kf48}no{\kf42}ko{\kf29}sa{\kf210}zu {\kf52}tsu{\kf49}ta{\kf22}e{\kf183}te {\kf64}ki{\kf491}tto
+Dialogue: 0,0:03:23.39,0:03:35.81,OP English,,0,0,0,,{\fad(250,250)\be1}without leaving anything behind.
+Dialogue: 0,0:03:43.20,0:03:44.32,Default,Oka,0,0,0,,Hey.
+Dialogue: 0,0:03:44.32,0:03:47.08,Default,Kot,0,0,0,,Oh, if it isn't Tomoya-kun.
+Dialogue: 0,0:03:49.95,0:03:52.58,Default,Kot,0,0,0,,It wasn't funny?
+Dialogue: 0,0:03:52.58,0:03:55.29,Default,Oka,0,0,0,,Don't make such a sad face.
+Dialogue: 0,0:03:55.29,0:04:00.05,Default,Kyo,0,0,0,,See, your gags don't have any momentum, and you say them with the wrong timing.
+Dialogue: 0,0:04:00.05,0:04:02.01,Default,Kyo,0,0,0,,It's fatal for a comedian.
+Dialogue: 0,0:04:03.18,0:04:06.14,Default,Kyo,0,0,0,,If you understand, go to that corner and take practice swings.
+Dialogue: 0,0:04:09.47,0:04:10.89,Default-alt,Kot,0,0,0,,What the heck.
+Dialogue: 0,0:04:09.47,0:04:12.35,Default,Oka,0,0,0,,What were you guys talking about?
+Dialogue: 0,0:04:10.89,0:04:11.89,Default-alt,Kot,0,0,0,,What the heck.
+Dialogue: 0,0:04:12.56,0:04:13.73,Default-alt,Kot,0,0,0,,What the heck.
+Dialogue: 0,0:04:12.94,0:04:17.48,Default,Kyo,0,0,0,,If you don't keep her occupied,\Nshe'll start playing the violin again.
+Dialogue: 0,0:04:14.23,0:04:15.35,Default-alt,Kot,0,0,0,,What the heck.
+Dialogue: 0,0:04:15.77,0:04:16.94,Default-alt,Kot,0,0,0,,What the heck.
+Dialogue: 0,0:04:17.86,0:04:18.98,Default,Ryo,0,0,0,,Hello.
+Dialogue: 0,0:04:20.07,0:04:22.99,Default,Kot,0,0,0,,Oh, if it isn't Ryou-ch—
+Dialogue: 0,0:04:22.99,0:04:25.24,Default,Nag,0,0,0,,You're all here already.
+Dialogue: 0,0:04:26.03,0:04:28.78,Default,Kot,0,0,0,,Oh, if it isn't Nagisa-ch—
+Dialogue: 0,0:04:28.37,0:04:32.04,Default-alt,Kyo,0,0,0,,See? You don't have the timing down, so you can't say it all.
+Dialogue: 0,0:04:32.12,0:04:34.37,Default,Oka,0,0,0,,Give it another try, Kotomi.
+Dialogue: 0,0:04:35.00,0:04:36.17,Default,Kot,0,0,0,,Okay.
+Dialogue: 0,0:04:36.75,0:04:39.75,Default,Kot,0,0,0,,Oh, if it isn't Nagisa-chan.
+Dialogue: 0,0:04:39.75,0:04:43.17,Default,Nag,0,0,0,,Oh, if it isn't Kotomi-chan.
+Dialogue: 0,0:04:43.17,0:04:45.51,Default,Kot,0,0,0,,Kyou-chan, was that good?
+Dialogue: 0,0:04:47.01,0:04:48.76,Default,Kyo,0,0,0,,Let's just say it was.
+Dialogue: 0,0:04:49.10,0:04:52.77,Signs,,0,0,0,,{\fad(400,0)\fs60\blur2\bord2\pos(960,410)\3c&H4A8A5C&}Episode 11
+Dialogue: 0,0:04:49.10,0:04:52.77,Signs,,0,0,0,,{\fad(400,0)\fs60\blur2\bord2\3c&H4A8A5C&\pos(960,720)}The After School Rhapsody
+Dialogue: 0,0:04:54.02,0:04:56.52,Default,Kot,0,0,0,,I see lots of unique things.
+Dialogue: 0,0:04:56.52,0:04:59.48,Default,Nag,0,0,0,,It's the first time I've opened it, too.
+Dialogue: 0,0:05:00.02,0:05:03.24,Default,Ryo,0,0,0,,Is the recruiting of new members making any progress?
+Dialogue: 0,0:05:03.24,0:05:08.74,Default,Nag,0,0,0,,Not yet, but I want to get enough members by the time the School Festival comes.
+Dialogue: 0,0:05:09.62,0:05:12.45,Default,Kot,0,0,0,,Nagisa-chan, what's this?
+Dialogue: 0,0:05:12.45,0:05:14.58,Default,Nag,0,0,0,,I think it's a magic wand.
+Dialogue: 0,0:05:14.91,0:05:17.46,Default,Kot,0,0,0,,Magic wand?
+Dialogue: 0,0:05:17.46,0:05:23.88,Default,Ryo,0,0,0,,You say an incantation as you twirl it in the air,\Nand then you transform with flying stars.
+Dialogue: 0,0:05:28.39,0:05:41.06,Note,Note,0,0,0,,Note: This incantation is from the fictional grimoire, {\i1}De Vermis Mysteriis{\i0}, part of the Lovecraft Mythos
+Dialogue: 0,0:05:28.39,0:05:32.26,Default,Kot,0,0,0,,Tibi, magnum Innominandum,
+Dialogue: 0,0:05:28.39,0:05:32.26,Default-alt,Kot,0,0,0,,To you, the great Not-To-Be-Named,
+Dialogue: 0,0:05:32.26,0:05:36.10,Default,Kot,0,0,0,,Signa stellarum nigrarum
+Dialogue: 0,0:05:32.26,0:05:36.10,Default-alt,Kot,0,0,0,,signs of the black stars,
+Dialogue: 0,0:05:36.10,0:05:41.06,Default,Kot,0,0,0,,Et bufaniformis Sadoquae sigillum.
+Dialogue: 0,0:05:36.10,0:05:41.06,Default-alt,Kot,0,0,0,,and the seal of the toad-shaped Tsathoggua.
+Dialogue: 0,0:05:43.94,0:05:46.45,Default,Ryo,0,0,0,,Looks like nothing happened.
+Dialogue: 0,0:05:46.82,0:05:50.87,Default,Kot,0,0,0,,Maybe I didn't enunciate it correctly.
+Dialogue: 0,0:05:50.87,0:05:53.70,Default,Nag,0,0,0,,But you're amazing, Kotomi-chan!
+Dialogue: 0,0:05:53.70,0:05:58.75,Default,Nag,0,0,0,,I want to be able to recite lines smoothly like you, too.
+Dialogue: 0,0:05:59.37,0:06:01.67,Default,Kyo,0,0,0,,They're all getting along well, aren't they?
+Dialogue: 0,0:06:01.67,0:06:03.55,Default,Oka,0,0,0,,You should go join the conversation, too.
+Dialogue: 0,0:06:03.55,0:06:07.01,Default,Kyo,0,0,0,,You want me to hold that wand and recite strange incantations?
+Dialogue: 0,0:06:07.01,0:06:08.97,Default,Kyo,0,0,0,,Can you even see me doing that?
+Dialogue: 0,0:06:12.89,0:06:14.47,Default,Kyo,0,0,0,,Transform!
+Dialogue: 0,0:06:14.47,0:06:16.81,Default,Kyo,0,0,0,,Piraruku Piraruku Gyo Gyo Gyo Gyo Gyo!
+Dialogue: 0,0:06:16.81,0:06:19.10,Default,Kyo,0,0,0,,I love fish!
+Dialogue: 0,0:06:22.61,0:06:24.82,Default,Kyo,0,0,0,,Can I punch you until you cry?
+Dialogue: 0,0:06:24.82,0:06:25.94,Default,Oka,0,0,0,,I'm sorry.
+Dialogue: 0,0:06:27.07,0:06:28.99,Default,Oka,0,0,0,,What are you doing?!
+Dialogue: 0,0:06:28.99,0:06:34.24,Default,Nag,0,0,0,,The conversation drifted towards saying she's better with the violin than incantations.
+Dialogue: 0,0:06:34.24,0:06:36.08,Default,Kyo,0,0,0,,If you have to play it, play it somewhere else.
+Dialogue: 0,0:06:36.08,0:06:39.58,Default,Kyo,0,0,0,,If the reputation of the drama club is tarnished, you'll cause the president trouble!
+Dialogue: 0,0:06:39.58,0:06:41.50,Default,Nag,0,0,0,,Um, I'm fine.
+Dialogue: 0,0:06:41.50,0:06:46.38,Default,Kot,0,0,0,,I want a lot of people to hear it, after all.
+Dialogue: 0,0:06:48.30,0:06:54.51,Default,Oka,0,0,0,,It's probably a good thing you feel that way,\Nseeing how you used to hide in the library, but…
+Dialogue: 0,0:06:54.81,0:07:01.27,Default,Kot,0,0,0,,Plus, I have to return this violin to the music room eventually.
+Dialogue: 0,0:07:01.27,0:07:04.90,Default,Kot,0,0,0,,So I want to play it as much as possible while I have the opportunity.
+Dialogue: 0,0:07:04.90,0:07:07.78,Default,Ryo,0,0,0,,Let's do something about it, Onee-chan.
+Dialogue: 0,0:07:07.78,0:07:09.44,Default,Kyo,0,0,0,,Let's see… {ep 10}
+Dialogue: 0,0:07:10.61,0:07:11.66,Default,Kyo,0,0,0,,Okay. {ep 10}
+Dialogue: 0,0:07:11.66,0:07:15.66,Default,Kyo,0,0,0,,The day after tomorrow, on Monday, we'll hold your violin recital. {ep 10}
+Dialogue: 0,0:07:16.37,0:07:17.41,Default,Kot,0,0,0,,Recital?
+Dialogue: 0,0:07:17.41,0:07:20.96,Default,Kyo,0,0,0,,We'll gather more people for you on that day.
+Dialogue: 0,0:07:20.96,0:07:23.67,Default,Kyo,0,0,0,,So you're prohibited from playing the violin here until then.
+Dialogue: 0,0:07:24.25,0:07:25.75,Default,Kot,0,0,0,,Recital…
+Dialogue: 0,0:07:27.59,0:07:31.17,Default,Kot,0,0,0,,Okay. I'll go practice then.
+Dialogue: 0,0:07:31.63,0:07:34.05,Default,Nag,0,0,0,,May I accompany you?
+Dialogue: 0,0:07:34.05,0:07:35.68,Default,Ryo,0,0,0,,I'll go, too.
+Dialogue: 0,0:07:35.68,0:07:37.43,Default,Oka,0,0,0,,Then me, too.
+Dialogue: 0,0:07:38.18,0:07:41.06,Default,Kyo,0,0,0,,I'll work out the details for the recital with him.
+Dialogue: 0,0:07:41.06,0:07:44.48,Default,Ryo,0,0,0,,Okay, then we'll go.
+Dialogue: 0,0:07:44.48,0:07:47.57,Default,Kot,0,0,0,,See you later, Tomoya-kun, Kyou-chan.
+Dialogue: 0,0:07:49.07,0:07:51.82,Default,Oka,0,0,0,,Work out what details?
+Dialogue: 0,0:07:52.20,0:07:55.20,Default,Kot,0,0,0,,I was just splitting you and Kotomi up.
+Dialogue: 0,0:07:55.20,0:07:57.37,Default,Kot,0,0,0,,She's always all over you, head-to-toe.
+Dialogue: 0,0:07:57.37,0:08:00.20,Default,Kot,0,0,0,,So I thought it would be better for her to spend time with other people.
+Dialogue: 0,0:08:00.87,0:08:02.33,Default,Oka,0,0,0,,Yeah, I guess.
+Dialogue: 0,0:08:02.33,0:08:03.54,Default,Kyo,0,0,0,,Therefore, {ep10}
+Dialogue: 0,0:08:04.17,0:08:06.88,Default,Kyo,0,0,0,,we've been left alone. {ep10}
+Dialogue: 0,0:08:06.88,0:08:08.21,Default,Kyo,0,0,0,,What should we do? {ep10}
+Dialogue: 0,0:08:08.21,0:08:09.63,Default,Oka,0,0,0,,I'm tired, so I'm going to sleep. {ep10}
+Dialogue: 0,0:08:09.63,0:08:12.38,Default,Kyo,0,0,0,,You're super rude.
+Dialogue: 0,0:08:12.38,0:08:15.14,Default,Oka,0,0,0,,Please don't screw around with me while I'm sleeping.
+Dialogue: 0,0:08:22.60,0:08:24.90,Default,Oka,0,0,0,,You think it was all right to leave them alone?
+Dialogue: 0,0:08:25.31,0:08:28.40,Default,Kyo,0,0,0,,You really do have a tendency to spoil children.
+Dialogue: 0,0:08:28.40,0:08:31.15,Default,Kyo,0,0,0,,Both Ryou and the President are there, so don't worry.
+Dialogue: 0,0:08:31.15,0:08:34.20,Default,Oka,0,0,0,,I'm worried because it's those two.
+Dialogue: 0,0:08:34.20,0:08:37.91,Default,Kyo,0,0,0,,Hey, you said you don't have\Na girl you're dating now, right?
+Dialogue: 0,0:08:38.53,0:08:44.16,Default,Kyo,0,0,0,,If there was a girl out there who loved you so much that she couldn't control herself…
+Dialogue: 0,0:08:44.16,0:08:45.21,Default,Kyo,0,0,0,,…would you…
+Dialogue: 0,0:08:45.21,0:08:46.08,Default,Kyo,0,0,0,,…date her?
+Dialogue: 0,0:08:47.33,0:08:48.88,Default,Oka,0,0,0,,What's this, all of a sudden?
+Dialogue: 0,0:08:48.88,0:08:50.50,Default,Kyo,0,0,0,,Just answer.
+Dialogue: 0,0:08:50.50,0:08:53.84,Default,Oka,0,0,0,,Even if I did, I'm a delinquent bum.
+Dialogue: 0,0:08:53.84,0:08:55.93,Default,Oka,0,0,0,,The girl would probably get tired of me soon enough.
+Dialogue: 0,0:08:55.93,0:08:58.97,Default,Kyo,0,0,0,,Delinquents can be well-liked in some cases.
+Dialogue: 0,0:08:58.97,0:09:00.97,Default,Kyo,0,0,0,,Especially by girls with good grades.
+Dialogue: 0,0:09:00.97,0:09:03.73,Default,Oka,0,0,0,,Then Sunohara is well-liked, too?
+Dialogue: 0,0:09:05.27,0:09:07.23,Default,Kyo,0,0,0,,That's totally impossible.
+Dialogue: 0,0:09:09.02,0:09:10.11,Default,Kyo,0,0,0,,Thanks for your thoughts.
+Dialogue: 0,0:09:10.73,0:09:12.03,Default,Kyo,0,0,0,,See you tomorrow.
+Dialogue: 0,0:09:21.58,0:09:25.29,Default-alt,TV,0,0,0,,How are you all spending this Sunday morning?
+Dialogue: 0,0:09:25.91,0:09:28.83,Default-alt,TV,0,0,0,,Today is a beautiful morning throughout the nation,
+Dialogue: 0,0:09:28.83,0:09:31.80,Default-alt,TV,0,0,0,,and various events are being held at different places.
+Dialogue: 0,0:09:39.64,0:09:42.10,Default,Oka,0,0,0,,I don't think Nagisa is up yet.
+Dialogue: 0,0:09:42.56,0:09:44.98,Default,Oka,0,0,0,,I guess I'll bother Sunohara again.
+Dialogue: 0,0:09:44.98,0:09:45.98,Default,Oka,0,0,0,,It can't be.
+Dialogue: 0,0:09:47.81,0:09:48.90,Default,Oka,0,0,0,,Kotomi!
+Dialogue: 0,0:09:50.77,0:09:53.28,Default,Kot,0,0,0,,Tomoya-kun, hello.
+Dialogue: 0,0:09:53.28,0:09:56.03,Default,Oka,0,0,0,,Why are you here? It's Sunday.
+Dialogue: 0,0:09:56.03,0:09:59.41,Default,Oka,0,0,0,,Are you a ghost living on campus or something?
+Dialogue: 0,0:10:01.20,0:10:03.12,Default,Kot,0,0,0,,I'm here as your host.
+Dialogue: 0,0:10:02.24,0:10:03.12,Default-alt,Oka,0,0,0,,Don't even go there.
+Dialogue: 0,0:10:03.74,0:10:06.12,Default,Kot,0,0,0,,Tomoya-kun, are you a bully?
+Dialogue: 0,0:10:06.12,0:10:09.62,Default,Oka,0,0,0,,I instinctively stopped you since it was so lame.
+Dialogue: 0,0:10:09.62,0:10:16.84,Default,Kot,0,0,0,,It was a very advanced joke which puns ghost, a hypothetical creature, {Dei- combine for 16.9}
+Dialogue: 0,0:10:16.84,0:10:23.51,Default,Kot,0,0,0,,and host, the noun form of “to host”, the act of catering to a guest.
+Dialogue: 0,0:10:23.51,0:10:25.81,Default,Oka,0,0,0,,It wasn't advanced at all!
+Dialogue: 0,0:10:26.06,0:10:27.39,Default,Kot,0,0,0,,Maybe in the B range?
+Dialogue: 0,0:10:27.39,0:10:33.15,Default,Oka,0,0,0,,Frankly, it was at an {\i1}absolutely{\i0\fscx60} {\r} low level.
+Dialogue: 0,0:10:33.15,0:10:35.11,Default,Kot,0,0,0,,You really are a bully.
+Dialogue: 0,0:10:36.48,0:10:38.28,Default,Oka,0,0,0,,Honorary library attendant?
+Dialogue: 0,0:10:38.28,0:10:44.28,Default,Kot,0,0,0,,I was borrowing the key day after day,\Nand then the librarian gave it to me…
+Dialogue: 0,0:10:44.28,0:10:46.95,Default,Kot,0,0,0,,…and made me an honorary library attendant.
+Dialogue: 0,0:10:47.37,0:10:49.66,Default,Oka,0,0,0,,That's why you're here even on a Sunday.
+Dialogue: 0,0:10:49.66,0:10:55.42,Default,Kot,0,0,0,,I'm usually reading books,\Nbut today, I'm practicing the violin.
+Dialogue: 0,0:10:56.05,0:11:00.30,Default,Kot,0,0,0,,I was told not to use the drama club's room, so I was practicing here.
+Dialogue: 0,0:11:00.30,0:11:02.30,Default,Oka,0,0,0,,That's your bento for the day?
+Dialogue: 0,0:11:02.30,0:11:08.89,Default,Kot,0,0,0,,I was thinking that maybe you would come.
+Dialogue: 0,0:11:09.23,0:11:10.56,Default,Kot,0,0,0,,So I made enough for two.
+Dialogue: 0,0:11:11.02,0:11:13.06,Default,Oka,0,0,0,,What would you have done if I hadn't come?
+Dialogue: 0,0:11:13.06,0:11:14.81,Default,Kot,0,0,0,,I don't know.
+Dialogue: 0,0:11:15.44,0:11:16.94,Default,Kot,0,0,0,,But you came.
+Dialogue: 0,0:11:19.07,0:11:20.40,Default,Kot,0,0,0,,It's an apple pie.
+Dialogue: 0,0:11:20.74,0:11:25.12,Default,Kot,0,0,0,,It's my first time making it,\Nso I don't know if turned out well.
+Dialogue: 0,0:11:25.78,0:11:27.58,Default,Oka,0,0,0,,It looks professional.
+Dialogue: 0,0:11:27.58,0:11:34.38,Default,Kot,0,0,0,,I used sour apple and coated it with an apricot jam smoothed with rum.
+Dialogue: 0,0:11:35.00,0:11:36.29,Default,Kot,0,0,0,,This tea, too.
+Dialogue: 0,0:11:36.29,0:11:39.34,Default,Kot,0,0,0,,I used actual tea leaves for the first time.
+Dialogue: 0,0:11:40.76,0:11:42.13,Default,Kot,0,0,0,,Itadakimashou.
+Dialogue: 0,0:11:42.13,0:11:43.01,Default,Oka,0,0,0,,Itadakimasu.
+Dialogue: 0,0:11:46.81,0:11:49.52,Default,Oka,0,0,0,,Is this really your first time making this?
+Dialogue: 0,0:11:49.52,0:11:52.56,Default,Kot,0,0,0,,Um… It wasn't good?
+Dialogue: 0,0:11:52.56,0:11:54.15,Default,Oka,0,0,0,,No, it's great!
+Dialogue: 0,0:11:54.81,0:11:57.69,Default,Oka,0,0,0,,I can't believe that this is your first try.
+Dialogue: 0,0:11:57.69,0:11:59.90,Default,Oka,0,0,0,,I could eat this nonstop!
+Dialogue: 0,0:12:00.40,0:12:02.20,Default,Oka,0,0,0,,Hey, what's wrong?
+Dialogue: 0,0:12:04.57,0:12:07.16,Default,Oka,0,0,0,,So you unfreeze when I hit you?
+Dialogue: 0,0:12:07.16,0:12:09.08,Default,Oka,0,0,0,,Are you a household appliance?
+Dialogue: 0,0:12:09.08,0:12:11.87,Default,Kot,0,0,0,,Um, is it really good?
+Dialogue: 0,0:12:11.87,0:12:13.37,Default,Kot,0,0,0,,Really for real?
+Dialogue: 0,0:12:13.37,0:12:14.58,Default,Oka,0,0,0,,Really for real.
+Dialogue: 0,0:12:14.58,0:12:16.17,Default,Kot,0,0,0,,Thank goodness.
+Dialogue: 0,0:12:16.71,0:12:19.59,Default,Kot,0,0,0,,I'm really, really happy.
+Dialogue: 0,0:12:27.51,0:12:28.60,Default,Kot,0,0,0,,Tomoya-kun.
+Dialogue: 0,0:12:34.35,0:12:37.65,Default,Kot,0,0,0,,Day before yesterday I saw a rabbit,
+Dialogue: 0,0:12:38.73,0:12:40.19,Default,Kot,0,0,0,,and yesterday a deer,
+Dialogue: 0,0:12:41.11,0:12:42.49,Default,Kot,0,0,0,,and today, you.
+Dialogue: 0,0:12:44.74,0:12:45.53,Default,Oka,0,0,0,,Kotomi?
+Dialogue: 0,0:12:49.12,0:12:51.33,Default,Oka,0,0,0,,More violin practice?
+Dialogue: 0,0:12:51.79,0:12:55.58,Default,Kot,0,0,0,,Since I'm full, time for a little rest.
+Dialogue: 0,0:12:57.42,0:12:59.25,Default,Kot,0,0,0,,You know, Tomoya-kun.
+Dialogue: 0,0:13:00.42,0:13:03.59,Default,Kot,0,0,0,,Only if you don't mind…
+Dialogue: 0,0:13:03.59,0:13:04.84,Default,Kot,0,0,0,,Can we…
+Dialogue: 0,0:13:05.76,0:13:06.68,Default,Kot,0,0,0,,Can we…
+Dialogue: 0,0:13:07.05,0:13:07.68,Default,Kot,0,0,0,,…with one another…
+Dialogue: 0,0:13:09.39,0:13:11.39,Default,Kot,0,0,0,,…read a book?
+Dialogue: 0,0:13:13.22,0:13:14.27,Default,Oka,0,0,0,,Oh…
+Dialogue: 0,0:13:14.64,0:13:18.65,Default,Oka,0,0,0,,Hey, books aren't very entertaining to read together.
+Dialogue: 0,0:13:18.65,0:13:19.90,Default,Kot,0,0,0,,You don't think so?
+Dialogue: 0,0:13:21.36,0:13:24.07,Default,Oka,0,0,0,,Then could you read one to me?
+Dialogue: 0,0:13:24.40,0:13:25.45,Default,Kot,0,0,0,,Me?
+Dialogue: 0,0:13:25.86,0:13:28.91,Default,Oka,0,0,0,,I like watching you read books,
+Dialogue: 0,0:13:28.91,0:13:31.16,Default,Oka,0,0,0,,and I like your voice, too.
+Dialogue: 0,0:13:31.16,0:13:34.45,Default,Oka,0,0,0,,Oh, but no difficult science books.
+Dialogue: 0,0:13:34.45,0:13:36.21,Default,Oka,0,0,0,,Make it a novel or something.
+Dialogue: 0,0:13:37.00,0:13:37.67,Default,Kot,0,0,0,,Okay.
+Dialogue: 0,0:13:40.88,0:13:46.84,Default,Kot,0,0,0,,In order to get accepted into a comedian training school, I'm practicing the violin.
+Dialogue: 0,0:13:47.43,0:13:50.60,Default,Oka,0,0,0,,I think that plot is too whacked out.
+Dialogue: 0,0:13:51.01,0:13:52.68,Default,Kot,0,0,0,,It's a violin standup comedy.
+Dialogue: 0,0:13:53.26,0:13:54.85,Default,Kot,0,0,0,,What the heck.
+Dialogue: 0,0:13:54.85,0:13:58.31,Default,Kot,0,0,0,,When the dango flower blooms,
+Dialogue: 0,0:13:55.27,0:13:56.94,Default-alt,Kot,0,0,0,,What the heck.
+Dialogue: 0,0:13:58.31,0:14:00.06,Default,Kot,0,0,0,,I'm happy!
+Dialogue: 0,0:14:00.06,0:14:00.73,Default,Oka,0,0,0,,Dango?
+Dialogue: 0,0:14:02.61,0:14:04.23,Default,Nag,0,0,0,,I'm cooking bread.
+Dialogue: 0,0:14:04.73,0:14:08.11,Default,Nag,0,0,0,,Tonight, the dango will be making love.
+Dialogue: 0,0:14:11.32,0:14:13.74,Default,Nag,0,0,0,,Oh no, the dango are…
+Dialogue: 0,0:14:14.12,0:14:19.50,Default,Ryo,0,0,0,,The reading says that you have schizophrenia.
+Dialogue: 0,0:14:19.50,0:14:22.42,Default,Oka,0,0,0,,How can you tell that from fortune telling?
+Dialogue: 0,0:14:22.42,0:14:23.42,Default,Ryo,0,0,0,,Um…
+Dialogue: 0,0:14:23.80,0:14:28.09,Default,Ryo,0,0,0,,The way you see things is proof of schizophrenia.
+Dialogue: 0,0:14:28.09,0:14:29.30,Default,Kyo,0,0,0,,You can't, Ryou.
+Dialogue: 0,0:14:29.30,0:14:30.89,Default,Kyo,0,0,0,,He's my patient.
+Dialogue: 0,0:14:31.30,0:14:34.31,Default,Oka,0,0,0,,I knew it was about time for you to show up.
+Dialogue: 0,0:14:34.85,0:14:40.14,Default,Kyo,0,0,0,,The gas emitted from cooking bread is unhealthy for human physiology.
+Dialogue: 0,0:14:40.14,0:14:41.23,Default,Oka,0,0,0,,That doesn't make any sense.
+Dialogue: 0,0:14:41.60,0:14:45.11,Default,Kyo,0,0,0,,Again, that must be due to the gas emitted from the baking of bread.
+Dialogue: 0,0:14:47.61,0:14:48.82,Default,Kot,0,0,0,,Tomoya-kun.
+Dialogue: 0,0:14:49.36,0:14:50.53,Default,Kot,0,0,0,,Tomoya-kun.
+Dialogue: 0,0:14:51.78,0:14:54.37,Default,Kot,0,0,0,,Tomoya-kun, you sounded like you were having a nightmare.
+Dialogue: 0,0:14:54.74,0:14:56.54,Default,Oka,0,0,0,,Yeah, I was having a strange dream.
+Dialogue: 0,0:14:57.37,0:14:58.58,Default,Kot,0,0,0,,A scary dream?
+Dialogue: 0,0:14:58.58,0:15:01.17,Default,Oka,0,0,0,,Rather, it was a dream that didn't make any sense.
+Dialogue: 0,0:15:03.59,0:15:06.63,Default,Kot,0,0,0,,I'll see you tomorrow, Tomoya-kun.
+Dialogue: 0,0:15:06.63,0:15:08.05,Default,Oka,0,0,0,,Yeah, see you tomorrow.
+Dialogue: 0,0:15:09.72,0:15:11.43,Default,Kot,0,0,0,,You know, Tomoya-kun.
+Dialogue: 0,0:15:11.43,0:15:12.80,Default,Oka,0,0,0,,What?
+Dialogue: 0,0:15:12.80,0:15:17.97,Default,Kot,0,0,0,,I was really happy that you came today.
+Dialogue: 0,0:15:18.81,0:15:21.19,Default,Oka,0,0,0,,I was sleeping practically the entire time.
+Dialogue: 0,0:15:21.19,0:15:24.31,Default,Kot,0,0,0,,Even so. I was happy.
+Dialogue: 0,0:15:25.32,0:15:26.44,Default,Kot,0,0,0,,Bye.
+Dialogue: 0,0:15:28.07,0:15:31.45,Default,Oka,0,0,0,,Ichinose Kotomi, Violin Recital.
+Dialogue: 0,0:15:31.82,0:15:33.45,Default,Oka,0,0,0,,The one who made this poster is…
+Dialogue: 0,0:15:34.03,0:15:35.20,Default,Oka,0,0,0,,Obvious.
+Dialogue: 0,0:15:35.20,0:15:38.54,Default,Nag,0,0,0,,Yes. Kyou-chan asked me to.
+Dialogue: 0,0:15:38.54,0:15:44.08,Default,Kyo,0,0,0,,Honestly, I questioned the Big Dango Family, but it has a good impact, so I said okay.
+Dialogue: 0,0:15:44.08,0:15:47.25,Default,Ryo,0,0,0,,I'm sure lots of guests will be there.
+Dialogue: 0,0:15:47.59,0:15:50.30,Default,Nag,0,0,0,,But will it really be okay?
+Dialogue: 0,0:15:50.30,0:15:54.51,Default,Nag,0,0,0,,I have a history of putting up\Nrecruitment posters and getting yelled at.
+Dialogue: 0,0:15:54.51,0:15:58.77,Default,Kyo,0,0,0,,Don't worry. I'll let them know about it later.
+Dialogue: 0,0:15:58.77,0:16:02.19,Default,Oka,0,0,0,,You should pick up some of her shamelessness.
+Dialogue: 0,0:16:02.19,0:16:06.40,Default,Oka,0,0,0,,If you're too considerate of those around you,\Nyou won't reestablish the drama club.
+Dialogue: 0,0:16:06.77,0:16:08.90,Default,Nag,0,0,0,,You might be right.
+Dialogue: 0,0:16:08.90,0:16:12.90,Default,Kyo,0,0,0,,Now we go invite everyone we know before the end of the day!
+Dialogue: 0,0:16:15.11,0:16:16.74,Default,Oka,0,0,0,,Thanks for coming.
+Dialogue: 0,0:16:16.74,0:16:19.45,Default,Yuk,0,0,0,,You gave me an invitation, so of course I'd come.
+Dialogue: 0,0:16:20.12,0:16:23.75,Default,Yuk,0,0,0,,It's my first violin recital, too.
+Dialogue: 0,0:16:23.75,0:16:27.09,Default,Oka,0,0,0,,I know it's strange to tell you this, being the one who invited you,
+Dialogue: 0,0:16:27.09,0:16:31.26,Default,Oka,0,0,0,,but try to get a seat towards the back and be ready to run at any time.
+Dialogue: 0,0:16:31.97,0:16:33.42,Default,Yuk,0,0,0,,Huh…
+Dialogue: 0,0:16:33.97,0:16:35.47,Default,Guy,0,0,0,,What did {\i1}you{\i0\fscx24.75} {\r} do?
+Dialogue: 0,0:16:35.47,0:16:37.30,Default,Guy,0,0,0,,I just skipped cleaning duty the day before yesterday.
+Dialogue: 0,0:16:37.30,0:16:40.81,Default,Guy,0,0,0,,Yeah, I only forgot to bring\Nthe lifestyle guidance handout back.
+Dialogue: 0,0:16:40.81,0:16:42.64,Default,Guy,0,0,0,,Why does that have to get us into this?
+Dialogue: 0,0:16:42.64,0:16:45.60,Default,Guy,0,0,0,,I was threatened for eating lunch early half a year ago.
+Dialogue: 0,0:16:45.60,0:16:50.23,Default,Oka,0,0,0,,That's Kyou. She collected all the criminals for their misdemeanors using her class rep status.
+Dialogue: 0,0:16:50.23,0:16:51.48,Default,Sun,0,0,0,,Okazaki!
+Dialogue: 0,0:16:51.48,0:16:52.94,Default,Sun,0,0,0,,What's with this crowd?
+Dialogue: 0,0:16:52.94,0:16:54.32,Default,Sun,0,0,0,,Is something happening here?
+Dialogue: 0,0:16:54.32,0:16:55.95,Default,Oka,0,0,0,,You came without knowing?
+Dialogue: 0,0:16:55.95,0:16:58.28,Default,Sun,0,0,0,,Kyou asked me to come out.
+Dialogue: 0,0:16:58.28,0:17:00.70,Default,Sun,0,0,0,,She said a real cute chick wants to see me.
+Dialogue: 0,0:17:00.70,0:17:03.33,Default,Sun,0,0,0,,Man, it's tough being a playboy.
+Dialogue: 0,0:17:03.62,0:17:05.71,Default,Oka,0,0,0,,I see. Godspeed to you.
+Dialogue: 0,0:17:05.71,0:17:09.04,Default,Sun,0,0,0,,When I get to know her well, I'll introduce her to you, too.
+Dialogue: 0,0:17:09.04,0:17:10.59,Default,Sun,0,0,0,,Later.
+Dialogue: 0,0:17:10.59,0:17:14.30,Default,Oka,0,0,0,,I'll let him dream for a while longer.
+Dialogue: 0,0:17:14.84,0:17:16.93,Default,Oka,0,0,0,,You're here, too, Misae-san?
+Dialogue: 0,0:17:16.93,0:17:19.55,Default,Mis,0,0,0,,The bunch from the rugby club invited me.
+Dialogue: 0,0:17:19.55,0:17:22.14,Default,Mis,0,0,0,,I had some time, so I wanted to hear what it's like.
+Dialogue: 0,0:17:23.31,0:17:24.18,Default,Tom,0,0,0,,Excuse me.
+Dialogue: 0,0:17:24.60,0:17:29.94,Default,Tom,0,0,0,,Would you be Sagara Misae-san,\Nthe dorm parent of the boys' dorm?
+Dialogue: 0,0:17:29.94,0:17:30.98,Default,Mis,0,0,0,,Yes, I am.
+Dialogue: 0,0:17:31.52,0:17:33.78,Default,Tom,0,0,0,,I'm Sakagami Tomoyo. A junior.
+Dialogue: 0,0:17:34.11,0:17:36.28,Default,Tom,0,0,0,,I'm familiar with the rumors about you.
+Dialogue: 0,0:17:36.28,0:17:40.99,Default,Tom,0,0,0,,You were a legendary student council president, and you're now working as a dorm parent.
+Dialogue: 0,0:17:40.99,0:17:42.79,Default,Oka,0,0,0,,Student council president?
+Dialogue: 0,0:17:42.79,0:17:44.16,Default,Oka,0,0,0,,Legendary?
+Dialogue: 0,0:17:44.16,0:17:45.83,Default,Mis,0,0,0,,You're exaggerating.
+Dialogue: 0,0:17:45.83,0:17:47.96,Default,Mis,0,0,0,,It was nothing like that.
+Dialogue: 0,0:17:47.96,0:17:48.75,Default,Mis,0,0,0,,Right?
+Dialogue: 0,0:17:48.75,0:17:51.46,Default,Tom,0,0,0,,I'm aiming to become\Nthe student council president, as well.
+Dialogue: 0,0:17:51.46,0:17:54.26,Default,Tom,0,0,0,,May I visit you to ask for advice in the near future?
+Dialogue: 0,0:17:54.26,0:17:56.97,Default,Mis,0,0,0,,I can't give you much in the way of advice.
+Dialogue: 0,0:17:56.97,0:17:59.14,Default,Mis,0,0,0,,If you're okay with that, come anytime you like.
+Dialogue: 0,0:17:59.14,0:18:00.43,Default,Guys,0,0,0,,Misae-san!
+Dialogue: 0,0:18:00.43,0:18:02.06,Default,Guys,0,0,0,,We've reserved the seat for you!
+Dialogue: 0,0:18:02.39,0:18:03.06,Default,Mis,0,0,0,,See you.
+Dialogue: 0,0:18:04.81,0:18:07.14,Default,Oka,0,0,0,,Misae-san was a student council president, huh?
+Dialogue: 0,0:18:07.14,0:18:08.81,Default,Tom,0,0,0,,You have my gratitude, Okazaki.
+Dialogue: 0,0:18:08.81,0:18:11.15,Default,Tom,0,0,0,,Thank you for inviting me to this recital.
+Dialogue: 0,0:18:11.15,0:18:12.11,Default,Tom,0,0,0,,Later.
+Dialogue: 0,0:18:12.11,0:18:13.40,Default,San,0,0,0,,Okazaki-san.
+Dialogue: 0,0:18:13.40,0:18:14.44,Default,Oka,0,0,0,,Sanae-san.
+Dialogue: 0,0:18:14.82,0:18:15.65,Default,Oka,0,0,0,,Old man!
+Dialogue: 0,0:18:15.65,0:18:17.61,Default,Oka,0,0,0,,So you came…
+Dialogue: 0,0:18:17.61,0:18:19.53,Default,Nag,0,0,0,,I invited them.
+Dialogue: 0,0:18:19.53,0:18:22.87,Default,Aki,0,0,0,,We can't stay away after being invited by our daughter.
+Dialogue: 0,0:18:22.87,0:18:27.54,Default,San,0,0,0,,We couldn't come for the Founders Festival,
+Dialogue: 0,0:18:27.54,0:18:28.92,Default,San,0,0,0,,so we wanted to make it today.
+Dialogue: 0,0:18:28.92,0:18:31.83,Default,Oka,0,0,0,,Are you sure? Isn't Kotomi's violin… {ep 10}
+Dialogue: 0,0:18:31.83,0:18:35.76,Default,Nag,0,0,0,,It'll be fine. She's improved a lot. {ep 10}
+Dialogue: 0,0:18:35.76,0:18:38.17,Default,Nag,0,0,0,,There's Kotomi-chan.
+Dialogue: 0,0:18:38.17,0:18:40.01,Default,San,0,0,0,,She's a cute girl.
+Dialogue: 0,0:18:40.01,0:18:42.30,Default,Aki,0,0,0,,Not as cute as our daughter.
+Dialogue: 0,0:18:43.05,0:18:47.18,Default,Kyo,0,0,0,,All right, thank you all for coming.
+Dialogue: 0,0:18:47.18,0:18:50.60,Default,Guy,0,0,0,,Look, she made me buy these.
+Dialogue: 0,0:18:50.60,0:18:52.15,Default,Guy,0,0,0,,Me too. For ¥300.
+Dialogue: 0,0:18:52.73,0:18:55.40,Default,Oka,0,0,0,,Kyou was even making money off of this?
+Dialogue: 0,0:18:55.40,0:18:57.99,Default,Kyo,0,0,0,,So you know, the earplugs are your last resort.
+Dialogue: 0,0:18:57.99,0:19:01.66,Default,Kyo,0,0,0,,There will be penalties waiting for the spineless wimps who use them early.
+Dialogue: 0,0:19:01.66,0:19:04.74,Default,Ryo,0,0,0,,Kotomi-chan, your introduction to everyone.
+Dialogue: 0,0:19:04.74,0:19:05.91,Default,Kot,0,0,0,,Y-Yes.
+Dialogue: 0,0:19:07.70,0:19:10.87,Default,Kot,0,0,0,,My name is Ichinose Kotomi. A senior in Class A.
+Dialogue: 0,0:19:11.37,0:19:13.38,Default,Kot,0,0,0,,My hobby is reading books.
+Dialogue: 0,0:19:13.38,0:19:15.34,Default,Kyo,0,0,0,,Thank you for coming today.
+Dialogue: 0,0:19:15.34,0:19:17.71,Default,Kyo,0,0,0,,Well said. Everyone, a round of applause.
+Dialogue: 0,0:19:18.42,0:19:19.80,Default,Kyo,0,0,0,,What's with that lame clapping?
+Dialogue: 0,0:19:19.80,0:19:21.01,Default,Kyo,0,0,0,,Give me more noise!
+Dialogue: 0,0:19:21.63,0:19:24.51,Default,Aki,0,0,0,,She's a pretty good MC.
+Dialogue: 0,0:19:24.51,0:19:28.77,Default,San,0,0,0,,I feel like I've met them somewhere before.
+Dialogue: 0,0:19:28.77,0:19:31.06,Default,Nag,0,0,0,,They're Kyou-chan and Ryou-chan.
+Dialogue: 0,0:19:31.06,0:19:33.44,Default,Nag,0,0,0,,We became friends the other day.
+Dialogue: 0,0:19:33.44,0:19:34.94,Default,Aki,0,0,0,,Bring them over one of these days.
+Dialogue: 0,0:19:34.94,0:19:36.57,Default,Aki,0,0,0,,We'll give them a warm welcome.
+Dialogue: 0,0:19:36.57,0:19:37.57,Default,Nag,0,0,0,,Yes!
+Dialogue: 0,0:19:38.07,0:19:40.32,Default,Kyo,0,0,0,,Here's the first piece of the day.
+Dialogue: 0,0:19:48.70,0:19:51.21,Default,Oka,0,0,0,,How do you call this an improvement?!
+Dialogue: 0,0:19:51.21,0:19:53.88,Default,Nag,0,0,0,,She was doing better during practice!
+Dialogue: 0,0:19:53.88,0:19:56.50,Default,Nag,0,0,0,,I think… I think she's nervous!
+Dialogue: 0,0:19:58.50,0:20:00.63,Default,Sun,0,0,0,,Help me!
+Dialogue: 0,0:19:59.67,0:20:02.38,Default-alt,Tom,0,0,0,,What do you think you're doing,\Ntaking advantage of the situation?!
+Dialogue: 0,0:20:07.10,0:20:08.51,Default,Bot,0,0,0,,Puhi puhi.
+Dialogue: 0,0:20:08.51,0:20:10.52,Default,Oka,0,0,0,,Botan! You came again?
+Dialogue: 0,0:20:10.52,0:20:12.85,Default,Mis,0,0,0,,What is this violin?!
+Dialogue: 0,0:20:17.77,0:20:19.44,Default,Bot,0,0,0,,Puhi puhi puhi.
+Dialogue: 0,0:20:19.44,0:20:21.24,Default,Cat,0,0,0,,Meow.
+Dialogue: 0,0:20:21.24,0:20:21.86,Default,Bot,0,0,0,,Puhi.
+Dialogue: 0,0:20:27.20,0:20:28.66,Default,San,0,0,0,,Akio-san…
+Dialogue: 0,0:20:28.66,0:20:31.50,Default,San,0,0,0,,I don't think I can last any longer.
+Dialogue: 0,0:20:32.71,0:20:34.71,Default,Aki,0,0,0,,Sanae… Hang in there, Sanae.
+Dialogue: 0,0:20:34.71,0:20:38.38,Default,Aki,0,0,0,,Sanae!
+Dialogue: 0,0:20:43.42,0:20:46.05,Default,Ryo,0,0,0,,Looks like everything made it through in one piece.
+Dialogue: 0,0:20:46.05,0:20:48.64,Default,Kyo,0,0,0,,Although we had fatalities in the audience.
+Dialogue: 0,0:20:48.64,0:20:53.39,Default,Nag,0,0,0,,You played the last song really well.
+Dialogue: 0,0:20:53.39,0:20:55.65,Default,Nag,0,0,0,,My dad said it was good, too.
+Dialogue: 0,0:20:55.65,0:20:59.61,Default,Nag,0,0,0,,He said he hasn't seen a breathtaking stage performance like this in a while.
+Dialogue: 0,0:20:59.98,0:21:02.78,Default,Kot,0,0,0,,I'm so glad. I'm happy.
+Dialogue: 0,0:21:02.78,0:21:07.62,Default,Oka,0,0,0,,Why are we all working so hard for her?
+Dialogue: 0,0:21:07.62,0:21:12.37,Default,Kyo,0,0,0,,She has this little kid side to her.
+Dialogue: 0,0:21:12.37,0:21:16.83,Default,Kyo,0,0,0,,It's like, we can't leave her alone,\Nand it's tickling our maternal instincts.
+Dialogue: 0,0:21:16.83,0:21:18.63,Default,Ryo,0,0,0,,You're right.
+Dialogue: 0,0:21:18.63,0:21:23.34,Default,Ryo,0,0,0,,I feel that I want to do anything if it's for Kotomi-chan.
+Dialogue: 0,0:21:23.71,0:21:26.05,Default,Kyo,0,0,0,,You're so merry, aren't you?
+Dialogue: 0,0:21:26.05,0:21:28.01,Default,Kyo,0,0,0,,She's your rival, isn't she?
+Dialogue: 0,0:21:28.59,0:21:30.39,Default,Oka,0,0,0,,What rival?
+Dialogue: 0,0:21:30.39,0:21:32.60,Default,Ryo,0,0,0,,Nothing! It's nothing!
+Dialogue: 0,0:21:32.60,0:21:35.35,Default,Oka,0,0,0,,Huh? Who is he?
+Dialogue: 0,0:21:35.35,0:21:36.39,Default,Oka,0,0,0,,Nagisa.
+Dialogue: 0,0:21:36.39,0:21:37.60,Default,Nag,0,0,0,,Okazaki-san!
+Dialogue: 0,0:21:40.02,0:21:41.15,Default,Ryo,0,0,0,,Kotomi-chan!
+Dialogue: 0,0:21:41.15,0:21:42.53,Default,Oka,0,0,0,,Who are you?!
+Dialogue: 0,0:21:43.11,0:21:46.40,Default,Kyo,0,0,0,,If you have something you need to say, I'll hear it instead.
+Dialogue: 0,0:21:46.40,0:21:48.11,Default,Man,0,0,0,,Ah, well…
+Dialogue: 0,0:21:49.53,0:21:51.53,Default,Man,0,0,0,,I'll come back another day.
+Dialogue: 0,0:21:52.20,0:21:54.33,Default,Man,0,0,0,,Until then.
+Dialogue: 0,0:21:57.29,0:21:58.67,Default,Oka,0,0,0,,Who is he?
+Dialogue: 0,0:21:59.13,0:22:00.58,Default,Kot,0,0,0,,He's…
+Dialogue: 0,0:22:00.58,0:22:01.54,Default,Kot,0,0,0,,…a bad person.
+Dialogue: 0,0:22:03.46,0:22:04.55,Default,Kot,0,0,0,,He's a bad person.
+Dialogue: 0,0:22:06.22,0:22:09.80,Signs,,0,0,0,,{\fad(400,0)\4c&H000000&\shad2.5\pos(1460,840)}To be continued
+Dialogue: 0,0:22:10.64,0:22:18.85,ED Romaji,,0,0,0,,{\fad(250,250)\be1\3c&H6E8B46&}{\kf35}da{\kf33}n{\kf58}go {\kf60}dan{\kf60}go {\kf57}dan{\kf64}go {\kf59}dan{\kf60}go {\kf26}da{\kf33}n{\kf60}go {\kf57}dai{\kf32}ka{\kf34}zo{\kf51}ku
+Dialogue: 0,0:22:10.64,0:22:18.85,ED English,,0,0,0,,{\fad(250,250)\be1\3c&H447687&}Dango, dango, dango, dango, a big dango family.
+Dialogue: 0,0:22:20.10,0:22:24.98,ED Romaji,,0,0,0,,{\fad(0,0)\be1\3c&H489390&}{\kf45}ya{\kf33}n{\kf56}cha{\kf64}na {\kf59}ya{\kf60}ki {\kf62}da{\kf56}n{\kf53}go {\kf26}ya{\kf33}sa{\kf71}shii {\kf59}a{\kf60}n {\kf61}da{\kf59}n{\kf58}go
+Dialogue: 0,0:22:20.10,0:22:24.98,ED English,,0,0,0,,{\fad(0,0)\be1\3c&H23627C&}A mischievous roasted dango, a kind sweet bean dango,
+Dialogue: 0,0:22:24.98,0:22:29.70,ED Romaji,,0,0,0,,{\fad(0,0)\be1\3c&H4C7330&}{\kf0}yanchana yaki dango {\kf26}ya{\kf33}sa{\kf71}shii {\kf59}a{\kf60}n {\kf61}da{\kf59}n{\kf58}go
+Dialogue: 0,0:22:24.98,0:22:29.70,ED English,,0,0,0,,{\fad(0,0)\be1\3c&H4C7330&}A mischievous roasted dango, a kind sweet bean dango,
+Dialogue: 0,0:22:29.70,0:22:38.16,ED Romaji,,0,0,0,,{\fad(0,250)\be1\3c&H728947&}{\kf50}mi{\kf23}n{\kf67}na {\kf54}mi{\kf65}nna {\kf57}a{\kf44}wa{\kf81}se{\kf59}te {\kf26}hya{\kf34}ku {\kf56}nin {\kf62}ka{\kf62}zo{\kf67}ku
+Dialogue: 0,0:22:29.70,0:22:38.16,ED English,,0,0,0,,{\fad(0,250)\be1\3c&H5A9053&}gather them all up and it's a family of a hundred.
+Dialogue: 0,0:22:39.29,0:22:47.76,ED Romaji,,0,0,0,,{\fad(0,250)\be1\3c&H3A458B&}{\kf44}a{\kf33}ka-{\kf31}cha{\kf60}n {\kf33}da{\kf29}n{\kf29}go {\kf61}wa {\kf57}i{\kf59}tsu{\kf53}mo {\kf37}shi{\kf30}a{\kf16}wa{\kf78}se {\kf28}no {\kf29}na{\kf33}ka {\kf64}de
+Dialogue: 0,0:22:39.29,0:22:47.76,ED English,,0,0,0,,{\fad(0,250)\be1\3c&H479091&}A baby dango is always cradled in happiness.
+Dialogue: 0,0:22:48.92,0:22:56.89,ED Romaji,,0,0,0,,{\fad(0,250)\be1\3c&H4A768F&}{\kf31}to{\kf46}shi{\kf31}yo{\kf62}ri {\kf27}da{\kf30}n{\kf28}go {\kf57}wa {\kf64}me {\kf62}wo {\kf42}ho{\kf106}so{\kf33}me{\kf87}te{\kf47}ru
+Dialogue: 0,0:22:48.92,0:22:56.89,ED English,,0,0,0,,{\fad(0,250)\be1\3c&H665C39&}An old dango gazes with squinty eyes.
+Dialogue: 0,0:22:57.35,0:23:06.90,ED Romaji,,0,0,0,,{\fad(0,0)\be1\3c&H508E48&}{\kf41}na{\kf33}ka{\kf19}yo{\kf43}shi {\kf59}da{\kf30}n{\kf57}go {\kf33}te {\kf25}wo {\kf28}tsu{\kf31}na{\kf40}gi {\kf39}o{\kf44}o{\kf29}ki{\kf28}na {\kf30}ma{\kf70}ru{\kf27}i {\kf56}wa {\kf27}ni {\kf36}na{\kf24}ru {\kf55}yo
+Dialogue: 0,0:22:57.35,0:23:06.90,ED English,,0,0,0,,{\fad(0,0)\be1\3c&H8F8026&}The dango friends will all hold hands and form a big circle.
+Dialogue: 0,0:23:06.90,0:23:16.49,ED Romaji,,0,0,0,,{\fad(0,0)\be1\3c&H328A95&}{\kf44}ma{\kf28}chi {\kf33}wo {\kf34}tsu{\kf60}ku{\kf32}ri {\kf59}dan{\kf31}go {\kf18}bo{\kf37}shi {\kf36}no {\kf29}u{\kf56}e {\kf57}mi{\kf68}nna {\kf85}de {\kf29}wa{\kf68}rai{\kf30}a{\kf52}u {\kf60}yo
+Dialogue: 0,0:23:06.90,0:23:16.49,ED English,,0,0,0,,{\fad(0,0)\be1\3c&H1C7593&}They'll found a village on a dango planet and all smile together.
+Dialogue: 0,0:23:16.49,0:23:26.17,ED Romaji,,0,0,0,,{\fad(0,0)\be1\3c&H33200D&}{\kf37}u{\kf42}sa{\kf28}gi {\kf19}mo {\kf68}so{\kf40}ra {\kf56}de {\kf29}te {\kf34}wo {\kf59}fu{\kf28}tte{\kf62}mi{\kf32}te{\kf30}ru {\kf58}de{\kf58}kka{\kf32}i {\kf53}o{\kf33}tsu{\kf19}ki-{\kf47}sa{\kf60}ma
+Dialogue: 0,0:23:16.49,0:23:26.17,ED English,,0,0,0,,{\fad(0,0)\be1\3c&H270D0D&}The rabbits are waving their hands from the big moon.
+Dialogue: 0,0:23:26.17,0:23:30.84,ED Romaji,,0,0,0,,{\fad(0,0)\be1\3c&H49351C&}{\kf42}u{\kf20}re{\kf43}shi{\kf28}i {\kf59}ko{\kf30}to {\kf53}ka{\kf27}na{\kf32}shi{\kf38}i {\kf34}ko{\kf27}to {\kf34}mo {\kf81}ze{\kf67}n{\kf119}bu {\kf62}ma{\kf29}ru{\kf59}me{\kf91}te
+Dialogue: 0,0:23:26.17,0:23:30.84,ED English,,0,0,0,,{\fad(0,0)\be1\3c&H737769&}Roll up all the happy and sad things...
+Dialogue: 0,0:23:30.84,0:23:36.35,ED Romaji,,0,0,0,,{\fad(0,250)\be1\3c&H4A788E&}{\kf0}ureshii koto kanashii koto mo {\kf24}{\kf57}ze{\kf67}n{\kf119}bu {\kf62}ma{\kf29}ru{\kf59}me{\kf91}te
+Dialogue: 0,0:23:30.84,0:23:36.35,ED English,,0,0,0,,{\fad(0,250)\be1\3c&H4A788E&}Roll up all the happy and sad things...
+Dialogue: 0,0:23:39.81,0:23:43.77,Signs,,0,0,0,,{\fs100\fad(0,400)\4c&H000000&\shad2.5\pos(960,470)}Preview
+Dialogue: 0,0:23:41.19,0:23:43.06,Default,Kot,0,0,0,,Tomoya-kun, thank you.
+Dialogue: 0,0:23:43.60,0:23:49.03,Default,Kot,0,0,0,,If I hadn't met you, I don't think I would have had so much fun.
+Dialogue: 0,0:23:49.82,0:23:51.86,Default,Oka,0,0,0,,I haven't done anything.
+Dialogue: 0,0:23:51.86,0:23:55.45,Default,Oka,0,0,0,,Nagisa, Kyou, and Fujibayashi just like you.
+Dialogue: 0,0:23:55.45,0:23:56.16,Default,Oka,0,0,0,,That's all.
+Dialogue: 0,0:23:57.03,0:23:59.95,Default,Kot,0,0,0,,If that's true, I'll be really happy.
+Dialogue: 0,0:24:02.08,0:24:03.92,Default,Oka,0,0,0,,Kotomi, what's wrong?
+Dialogue: 0,0:24:05.71,0:24:09.67,Signs,,0,0,0,,{\fad(400,0)\4c&H000000&\shad2.5\pos(960,410)}Episode 12
+Dialogue: 0,0:24:05.71,0:24:09.67,Signs,,0,0,0,,{\fs85\fad(400,0)\4c&H000000&\shad2.5\pos(960,760)}Hidden World
+Dialogue: 0,0:24:06.25,0:24:07.63,Default,Nag,0,0,0,,Kotomi-chan?
+Comment: 0,0:00:00.00,0:00:01.89,Default,,0,0,0,,
+Comment: 0,0:00:05.50,0:00:07.50,Default,,0,0,0,,
+Comment: 0,0:02:05.97,0:03:43.11,Default,,0,0,0,,
+Comment: 0,0:04:37.67,0:04:39.67,Signs,,0,0,0,,
+Comment: 0,0:12:45.53,0:12:49.08,Default,,0,0,0,,
+Comment: 0,0:22:04.55,0:23:41.44,Default,,0,0,0,,
+
+
