@@ -1,0 +1,468 @@
+﻿[Script Info]
+Title: Vietnamese Fansub (VietSub by Amtia(NOFACE))
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1920
+PlayResY: 1080
+ScaledBorderAndShadow: yes
+Video File: 04_720p_crf16_slower.mkv
+Video Aspect Ratio: 0
+Video Zoom: 8
+Video Position: 817
+Last Style Storage: Default
+Audio File: 04.mp4
+Keyframes File: video.pass
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Segoe UI,75,&H00FFFFFF,&H00FFFFFF,&H00477650,&H80000000,0,0,0,0,110,100,0,0,1,3.6,2.25,2,96,96,48,1
+Style: Default-alt,Segoe UI,75,&H00FFFFFF,&H00FFFFFF,&H00596162,&H80000000,0,0,0,0,110,100,0,0,1,3.6,2.25,8,96,96,48,1
+Style: Note,Segoe UI,54,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3.75,1.5,8,96,96,48,1
+Style: ED Romaji,Segoe UI,81,&H00FFFFFF,&H80FFFFFF,&H80FF0000,&H80000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,8,96,96,36,1
+Style: ED English,Segoe UI,81,&H00FFFFFF,&H80FFFFFF,&H80FF0000,&H80000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,96,96,48,1
+Style: OP Romaji,Segoe UI,72,&H00FFFFFF,&H80FFFFFF,&H80FF5E5B,&H80000000,-1,0,0,0,100,100,0,0,1,3.6,0.9,8,96,96,48,1
+Style: OP English,Segoe UI,72,&H00FFFFFF,&H80FFFFFF,&H80FF5E5B,&H80000000,-1,0,0,0,100,100,0,0,1,3.6,0.9,2,96,96,48,1
+Style: Signs,Segoe UI,75,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,0,0,2,48,48,48,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:34.06,0:00:39.65,OP Romaji,,0,0,0,,{\be1\fad(250,0)}{\kf24}ki{\kf23}mi {\kf20}da{\kf22}ke {\kf33}ga {\kf32}su{\kf19}gi{\kf27}sa{\kf19}t{\kf39}ta {\kf48}sa{\kf43}ka {\kf42}no {\kf39}to{\kf24}chu{\kf29}u {\kf75}wa
+Dialogue: 0,0:00:34.06,0:00:39.65,OP English,,0,0,0,,{\be1\fad(250,0)}Nơi lưng chừng con dốc năm nào chỉ riêng em cất bước...
+Dialogue: 0,0:00:39.65,0:00:45.28,OP Romaji,,0,0,0,,{\be1\fad(0,250)}{\kf25}a{\kf25}ta{\kf21}ta{\kf21}ka {\kf41}na {\kf22}hi{\kf22}da{\kf28}ma{\kf21}ri {\kf38}ga {\kf43}i{\kf42}ku{\kf45}tsu {\kf22}mo {\kf20}de{\kf22}ki{\kf22}te{\kf84}ta
+Dialogue: 0,0:00:39.65,0:00:45.28,OP English,,0,0,0,,{\be1\fad(0,250)}...nay đã đọng lại biết bao vệt nắng ấm áp chan hòa.
+Dialogue: 0,0:00:45.28,0:00:50.50,OP Romaji,,0,0,0,,{\be1\fad(250,250)}{\kf27}bo{\kf21}ku {\kf40}hi{\kf45}to{\kf43}ri {\kf85}ga {\kf24}ko{\kf22}ko {\kf43}de {\kf35}ya{\kf41}sa{\kf41}shi{\kf55}i
+Dialogue: 0,0:00:45.28,0:00:50.50,OP English,,0,0,0,,{\be1\fad(250,250)}Chỉ một mình tôi đứng lặng nơi đây,
+Dialogue: 0,0:00:50.50,0:00:58.17,OP Romaji,,0,0,0,,{\be1\fad(250,0)}{\kf21}a{\kf21}ta{\kf44}ta{\kf35}ka{\kf55}sa {\kf80}wo {\kf19}o{\kf27}mo{\kf44}i {\kf45}ka{\kf34}e{\kf96}shi{\kf24}te{\kf190}ru
+Dialogue: 0,0:00:50.50,0:00:58.17,OP English,,0,0,0,,{\be1\fad(250,0)}nhớ về từng hơi ấm dịu dàng ngày ấy.
+Dialogue: 0,0:00:58.17,0:01:05.84,OP Romaji,,0,0,0,,{\be1\fad(0,0)}{\kf45}ki{\kf47}mi {\kf61}da{\kf65}ke {\kf197}wo  {\kf24}ki{\kf65}mi {\kf61}da{\kf26}ke {\kf176}wo
+Dialogue: 0,0:00:58.17,0:01:05.84,OP English,,0,0,0,,{\be1\fad(0,0)}Chỉ riêng mình em... trọn vẹn chỉ riêng em...
+Dialogue: 0,0:01:05.84,0:01:12.07,OP Romaji,,0,0,0,,{\be1\fad(250,250)}{\kf78}su{\kf67}ki {\kf214}de {\kf65}i{\kf65}ta{\kf129}yo
+Dialogue: 0,0:01:05.84,0:01:12.07,OP English,,0,0,0,,{\be1\fad(250,250)}...người mà tôi luôn yêu thương sâu đậm.
+Dialogue: 0,0:01:12.07,0:01:19.82,OP Romaji,,0,0,0,,{\be1\fad(250,0)}{\kf44}ka{\kf43}ze {\kf64}de {\kf62}me {\kf211}ga {\kf71}ni{\kf67}ji{\kf26}n{\kf185}de
+Dialogue: 0,0:01:12.07,0:01:19.82,OP English,,0,0,0,,{\be1\fad(250,0)}Cơn gió thoảng qua làm cay khóe mắt,
+Dialogue: 0,0:01:19.82,0:01:26.78,OP Romaji,,0,0,0,,{\be1\fad(250,0)}{\kf89}to{\kf44}o{\kf201}ku {\kf84}na{\kf59}ru {\kf219}yo
+Dialogue: 0,0:01:19.82,0:01:26.78,OP English,,0,0,0,,{\be1\fad(250,0)}khiến bóng hình em dần khuất xa.
+Dialogue: 0,0:01:26.78,0:01:29.08,OP Romaji,,0,0,0,,{\be1\fad(0,250)}{\kf14}i{\kf28}tsu{\kf23}ma{\kf21}de{\kf22}mo {\kf14}o{\kf26}bo{\kf25}e{\kf23}te{\kf20}ru
+Dialogue: 0,0:01:26.78,0:01:29.08,OP English,,0,0,0,,{\be1\fad(0,250)}Tôi sẽ mãi luôn ghi nhớ...
+Dialogue: 1,0:01:28.91,0:01:31.20,OP Romaji,,0,0,0,,{\be1\fad(250,250)}{\kf22}na{\kf18}ni{\kf21}mo {\kf26}ka{\kf21}mo {\kf27}ka{\kf18}wa{\kf19}t{\kf22}te{\kf19}mo
+Dialogue: 1,0:01:28.91,0:01:31.20,OP English,,0,0,0,,{\be1\fad(250,250)}...dẫu cho vạn vật có đổi thay.
+Dialogue: 0,0:01:31.07,0:01:33.41,OP Romaji,,0,0,0,,{\be1\fad(250,250)}{\kf19}hi{\kf19}to{\kf26}tsu {\kf20}da{\kf19}ke {\kf23}hi{\kf19}to{\kf24}tsu {\kf23}da{\kf20}ke
+Dialogue: 0,0:01:31.07,0:01:33.41,OP English,,0,0,0,,{\be1\fad(250,250)}Chỉ một điều duy nhất... chỉ một điều duy nhất...
+Dialogue: 1,0:01:33.19,0:01:35.92,OP Romaji,,0,0,0,,{\be1\fad(250,250)}{\kf24}a{\kf23}ri{\kf20}fu{\kf23}re{\kf19}ta {\kf18}mo{\kf21}no {\kf21}da{\kf29}ke{\kf40}do
+Dialogue: 1,0:01:33.19,0:01:35.92,OP English,,0,0,0,,{\be1\fad(250,250)}...dù chỉ là một điều bình dị giản đơn.
+Dialogue: 0,0:01:35.59,0:01:39.88,OP Romaji,,0,0,0,,{\be1\fad(250,0)}{\kf25}mi{\kf18}se{\kf25}te {\kf22}ya{\kf19}ru {\kf18}ka{\kf21}ga{\kf23}ya{\kf23}ki {\kf20}ni {\kf17}mi{\kf26}chi{\kf14}ta {\kf27}so{\kf26}no {\kf15}hi{\kf23}to{\kf28}tsu {\kf22}da{\kf16}ke
+Dialogue: 0,0:01:35.59,0:01:39.88,OP English,,0,0,0,,{\be1\fad(250,0)}Tôi sẽ cho em thấy, điều duy nhất ngập tràn ánh hào quang rực rỡ.
+Dialogue: 0,0:01:39.88,0:01:45.13,OP Romaji,,0,0,0,,{\be1\fad(0,500)}{\kf19}i{\kf28}tsu{\kf21}ma{\kf27}de{\kf17}mo {\kf14}i{\kf32}tsu{\kf19}ma{\kf21}de{\kf17}mo {\kf23}ma{\kf23}mo{\kf22}t{\kf16}te {\kf27}i{\kf200}ku
+Dialogue: 0,0:01:39.88,0:01:45.13,OP English,,0,0,0,,{\be1\fad(0,500)}Và tôi sẽ mãi mãi, trọn đời nâng niu chở che.
+Dialogue: 0,0:01:47.67,0:01:49.80,Default,Kyo,0,0,0,,Thế, chuyện hôm qua là thế nào đấy?
+Dialogue: 0,0:01:49.80,0:01:50.84,Default,Oka,0,0,0,,Chuyện hôm qua là chuyện gì cơ?
+Dialogue: 0,0:01:51.18,0:01:53.10,Default,Kyo,0,0,0,,Mei-chan vẫn còn ở đây đúng không?
+Dialogue: 0,0:01:53.10,0:01:55.81,Default,Kyo,0,0,0,,Hôm qua trông hai người vui vẻ ra phết nhỉ.
+Dialogue: 0,0:01:55.81,0:02:00.60,Default,Ryo,0,0,0,,Bọn tớ thấy hai người nên mới bàn xem rốt cuộc là có chuyện gì.
+Dialogue: 0,0:02:00.60,0:02:03.44,Default,Kot,0,0,0,,Tớ cũng muốn chơi với Mei-chan nữa.
+Dialogue: 0,0:02:03.44,0:02:06.69,Default,Kot,0,0,0,,Tớ muốn kéo vĩ cầm cho em ấy nghe.
+Dialogue: 0,0:02:06.69,0:02:09.15,Default,Kyo,0,0,0,,Tớ nghĩ chuyện đó không ổn chút nào đâu.
+Dialogue: 0,0:02:10.36,0:02:12.03,Default,Kot,0,0,0,,Kyou-chan hay bắt nạt người khác quá.
+Dialogue: 0,0:02:12.03,0:02:15.24,Default,Nag,0,0,0,,Mei-chan đang rất lo cho Sunohara-san.
+Dialogue: 0,0:02:15.24,0:02:17.33,Default,Nag,0,0,0,,Tối qua bọn tớ đã nói chuyện với nhau, nhưng mà...
+Dialogue: 0,0:02:18.08,0:02:20.04,Default,Mei,0,0,0,,Nhưng em nghĩ đây là cơ hội duy nhất rồi.
+Dialogue: 0,0:02:20.62,0:02:25.96,Default,Mei,0,0,0,,Nếu anh ấy được chơi bóng đá trở lại,\Nbiết đâu anh ấy sẽ quay lại như ngày xưa.
+Dialogue: 0,0:02:26.30,0:02:28.05,Default,Kyo,0,0,0,,Hả? Đúng là chuyện viển vông.
+Dialogue: 0,0:02:28.05,0:02:31.93,Default,Kyo,0,0,0,,Làm sao cậu ta có thể quay lại câu lạc bộ bóng đá được chứ.
+Dialogue: 0,0:02:31.93,0:02:33.93,Default,Oka,0,0,0,,Tôi cũng nói với em ấy y hệt vậy đấy.
+Dialogue: 0,0:02:33.93,0:02:38.73,Default,Kyo,0,0,0,,Cậu thừa biết câu lạc bộ bóng đá trường mình là đám người thế nào rồi mà.
+Dialogue: 0,0:02:38.73,0:02:42.19,Default,Kyo,0,0,0,,Tốt nhất là tránh xa bọn họ ra.
+Dialogue: 0,0:02:42.56,0:02:46.90,Default,Ryo,0,0,0,,Đúng đấy, đội bóng đá trường mình có hơi đặc biệt một chút.
+Dialogue: 0,0:02:46.90,0:02:48.86,Default,Kot,0,0,0,,Họ là những kẻ chuyên bắt nạt à?
+Dialogue: 0,0:02:48.86,0:02:52.82,Default,Kyo,0,0,0,,Hiếm hoi lắm mới thấy câu cửa miệng của cậu dùng đúng chỗ đấy.
+Dialogue: 0,0:02:53.16,0:02:56.83,Signs,,0,0,0,,{\fad(400,0)\fs60\blur2\bord2\pos(960,410.000015)\3c&H4A8A5C&}Tập 4
+Dialogue: 0,0:02:53.16,0:02:56.83,Signs,,0,0,0,,{\fad(400,0)\fs60\blur2\bord2\3c&H4A8A5C&\pos(960,720)}Cùng nụ cười như ngày hôm ấy
+Dialogue: 0,0:02:57.58,0:02:58.87,Default,Oka,0,0,0,,Cậu ta cũng không có ở ký túc xá à?
+Dialogue: 0,0:02:58.87,0:03:03.25,Default,Mei,0,0,0,,Vâng. Ngay cả chị Misae cũng không biết anh ấy đi đâu nữa.
+Dialogue: 0,0:03:03.25,0:03:08.63,Default,Nag,0,0,0,,Phải làm sao bây giờ? Không có anh ấy thì làm sao xin người ta cho anh ấy quay lại được.
+Dialogue: 0,0:03:09.09,0:03:11.63,Default,Oka,0,0,0,,Mei-chan, hay là mình nghĩ kỹ lại xem.
+Dialogue: 0,0:03:11.63,0:03:14.26,Default,Oka,0,0,0,,Anh thấy cơ hội thành công mong manh lắm.
+Dialogue: 0,0:03:16.97,0:03:19.60,Default,Mei,0,0,0,,Em sẽ đi trước để xin họ.
+Dialogue: 0,0:03:19.60,0:03:21.35,Default,Oka,0,0,0,,"Đi trước" là đến chỗ đội bóng đá ấy hả?
+Dialogue: 0,0:03:21.35,0:03:24.94,Default,Mei,0,0,0,,Vâng. Hai anh chị cứ đợi ở đây nhé.
+Dialogue: 0,0:03:24.94,0:03:26.48,Default,Mei,0,0,0,,Em sẽ đi một mình.
+Dialogue: 0,0:03:26.48,0:03:27.73,Default,Oka,0,0,0,,Đừng có nói ngớ ngẩn thế chứ.
+Dialogue: 0,0:03:27.73,0:03:29.11,Default,Oka,0,0,0,,Làm sao bọn anh để em đi một mình được?
+Dialogue: 0,0:03:29.11,0:03:32.20,Default,Nag,0,0,0,,Nếu em đi thì bọn chị cũng sẽ đi cùng.
+Dialogue: 0,0:03:41.62,0:03:43.08,Default,Guy,0,0,0,,Mày vừa nhắc đến Sunohara Youhei đấy à?
+Dialogue: 0,0:03:44.25,0:03:46.79,Default,Oka,0,0,0,,Mùa đông là giai đoạn then chốt của bóng đá cấp ba đúng không?
+Dialogue: 0,0:03:46.79,0:03:49.42,Default,Oka,0,0,0,,Kể cả học sinh năm ba thì vẫn có thể tham gia được mà.
+Dialogue: 0,0:03:49.42,0:03:52.13,Default,Nag,0,0,0,,Các anh có thể cho cậu ấy chơi bóng lại được không ạ?
+Dialogue: 0,0:03:52.76,0:03:54.34,Default,Guy,0,0,0,,Câm họng lại đi.
+Dialogue: 0,0:03:54.34,0:03:56.72,Default,Guy,0,0,0,,Bọn tao thậm chí còn chẳng muốn nghe thấy tên thằng đó nữa là.
+Dialogue: 0,0:03:56.72,0:03:57.60,Default,Guy,0,0,0,,Biến đi cho khuất mắt.
+Dialogue: 0,0:03:57.60,0:03:58.18,Default,Mei,0,0,0,,Dạ, xin các anh!
+Dialogue: 0,0:03:58.68,0:04:02.06,Default,Mei,0,0,0,,Em tên là Mei, là em gái của Sunohara Youhei ạ.
+Dialogue: 0,0:04:02.98,0:04:05.23,Default,Guy,0,0,0,,Em gái thằng Sunohara à?
+Dialogue: 0,0:04:05.23,0:04:08.23,Default,Mei,0,0,0,,Em biết anh trai em đã gây nhiều phiền toái cho các anh.
+Dialogue: 0,0:04:08.23,0:04:09.94,Default,Mei,0,0,0,,Nhưng xin các anh đấy ạ!
+Dialogue: 0,0:04:09.94,0:04:12.90,Default,Mei,0,0,0,,Cứ đà này thì anh ấy sẽ trở thành kẻ vô tích sự mất.
+Dialogue: 0,0:04:12.90,0:04:13.61,Default,Mei,0,0,0,,Nên là...!
+Dialogue: 0,0:04:13.61,0:04:17.07,Default,Guys,0,0,0,,Nó vốn dĩ đã là thằng vô tích sự từ đầu rồi.
+Dialogue: 0,0:04:17.07,0:04:21.20,Default,Guys,0,0,0,,Phải đấy. Thứ ăn hại thì dù có làm gì\Ncũng chỉ là thứ ăn hại mà thôi.
+Dialogue: 0,0:04:21.20,0:04:26.17,Default,Guys,0,0,0,,Okazaki. Mày cũng cùng một giuộc với nó,\Nchẳng lẽ lại không hiểu cái lý lẽ đó à?
+Dialogue: 0,0:04:26.67,0:04:28.34,Default,Guys,0,0,0,,Cả cô em kia nữa.
+Dialogue: 0,0:04:28.34,0:04:31.55,Default,Guys,0,0,0,,Cũng là đứa đúp lớp bị người ta xa lánh đúng không?
+Dialogue: 0,0:04:33.01,0:04:36.39,Default,Guys,0,0,0,,Lũ ăn hại thì chỉ nên tụ tập với lũ ăn hại thôi.
+Dialogue: 0,0:04:37.59,0:04:38.68,Default,Nag,0,0,0,,Tomoya-kun...
+Dialogue: 0,0:04:44.60,0:04:48.23,Default,Oka,0,0,0,,Xin lỗi. Lẽ ra tớ nên đến đây một mình trước.
+Dialogue: 0,0:04:49.61,0:04:51.32,Default,Mei,0,0,0,,Em cũng xin lỗi nữa ạ.
+Dialogue: 0,0:04:51.32,0:04:53.99,Default,Mei,0,0,0,,Chỉ vì em mà hai anh chị phải chịu khổ thế này.
+Dialogue: 0,0:04:53.99,0:04:57.07,Default,Nag,0,0,0,,Không sao đâu, bọn chị không sao mà. Hơn nữa...
+Dialogue: 0,0:04:57.07,0:04:59.24,Default,Yuk,0,0,0,,Em có muốn uống thêm một tách nữa không, Mei-chan?
+Dialogue: 0,0:04:59.95,0:05:02.20,Default,Mei,0,0,0,,Dạ có, em cảm ơn chị nhiều ạ.
+Dialogue: 0,0:05:02.20,0:05:04.75,Default,Oka,0,0,0,,Xin lỗi vì bọn tôi lại làm phiền cậu nhé.
+Dialogue: 0,0:05:04.75,0:05:09.04,Default,Oka,0,0,0,,Tôi cứ có linh cảm là cậu sẽ chịu lắng nghe những chuyện như thế này.
+Dialogue: 0,0:05:09.38,0:05:11.21,Default,Yuk,0,0,0,,Không sao đâu, mình hoàn toàn thoải mái mà.
+Dialogue: 0,0:05:11.21,0:05:16.22,Default,Yuk,0,0,0,,Ở đây thường xuyên có những vị khách mang đủ thứ rắc rối đến nhờ tư vấn lắm.
+Dialogue: 0,0:05:19.89,0:05:21.01,Default,Yuk,0,0,0,,Okazaki-san.
+Dialogue: 0,0:05:22.18,0:05:27.73,Default,Yuk,0,0,0,,Nếu không phiền, cậu có thể kể cho mình nghe chuyện đã xảy ra giữa Sunohara-san và đội bóng đá được không?
+Dialogue: 0,0:05:28.56,0:05:30.61,Default,Oka,0,0,0,,Anh kể được chứ, Mei-chan?
+Dialogue: 0,0:05:33.03,0:05:36.86,Default,Oka,0,0,0,,Cậu ta đã đánh nhau một trận hồi còn là học sinh năm nhất.
+Dialogue: 0,0:05:39.53,0:05:45.12,Default,Oka,0,0,0,,Đội bóng đá trường mình có cái thói đàn anh bắt nạt ma mới.
+Dialogue: 0,0:05:45.70,0:05:49.12,Default,Oka,0,0,0,,Trật tự cấp bậc trong đội tệ hại vô cùng.
+Dialogue: 0,0:05:56.34,0:05:59.68,Default,Oka,0,0,0,,Hình như Sunohara không tài nào chịu nổi chuyện đó.
+Dialogue: 0,0:06:03.68,0:06:06.06,Default,Oka,0,0,0,,Lần đầu tiên tôi gặp cậu ta cũng là vào lúc ấy.
+Dialogue: 0,0:06:06.64,0:06:13.36,Default,Oka,0,0,0,,Tôi vừa đánh nhau ở chỗ khác rồi đụng mặt cậu ta gần phòng giáo viên, thế là hai đứa chơi với nhau từ đó.
+Dialogue: 0,0:06:13.36,0:06:15.61,Default,Mei,0,0,0,,Chuyện này em chưa từng nghe nói bao giờ.
+Dialogue: 0,0:06:16.19,0:06:20.32,Default,Oka,0,0,0,,Vì vụ đánh nhau đó mà năm ấy cả đội bị truất quyền thi đấu ở giải tân binh.
+Dialogue: 0,0:06:20.91,0:06:23.20,Default,Oka,0,0,0,,Sau đó thì Sunohara cũng rời khỏi đội luôn.
+Dialogue: 0,0:06:23.20,0:06:27.95,Default,Nag,0,0,0,,Vậy là đội bóng đá vẫn chưa quên chuyện năm xưa sao...
+Dialogue: 0,0:06:27.95,0:06:33.71,Default,Miy,0,0,0,,Nếu vậy thì liệu Sunohara-san có thể tận hưởng niềm vui đá bóng trong một môi trường như thế không?
+Dialogue: 0,0:06:34.38,0:06:35.59,Default,Mei,0,0,0,,Em cũng không biết nữa.
+Dialogue: 0,0:06:35.59,0:06:39.72,Default,Mei,0,0,0,,Nhưng bóng đá là cách duy nhất để đưa anh hai trở lại như ngày xưa.
+Dialogue: 0,0:06:39.72,0:06:45.22,Default,Oka,0,0,0,,Nhưng cậu ta không có ở đây thì chúng ta có sốt sắng cũng chẳng giải quyết được gì.
+Dialogue: 0,0:06:46.06,0:06:48.23,Default,Mei,0,0,0,,Anh ấy đúng là hết thuốc chữa mà.
+Dialogue: 0,0:06:49.06,0:06:52.44,Default,Miy,0,0,0,,Mình đã kể cho mọi người nghe chuyện về anh trai mình chưa nhỉ?
+Dialogue: 0,0:06:52.98,0:06:56.19,Default,Nag,0,0,0,,Cậu cũng có anh trai nữa à?
+Dialogue: 0,0:06:56.19,0:07:01.95,Default,Miy,0,0,0,,Anh trai mình chẳng chịu đến trường; thay vào đó anh ấy cứ lang thang ở khu phố ăn chơi rồi liên tục đánh nhau.
+Dialogue: 0,0:07:02.45,0:07:05.45,Default,Miy,0,0,0,,Anh ấy cũng từng bị cảnh sát tạm giữ mấy lần rồi.
+Dialogue: 0,0:07:05.83,0:07:08.04,Default,Mei,0,0,0,,Anh trai chị từng như vậy sao?
+Dialogue: 0,0:07:08.04,0:07:08.70,Default,Oka,0,0,0,,Tôi chưa bao giờ ngờ tới đấy.
+Dialogue: 0,0:07:09.58,0:07:11.71,Default,Miy,0,0,0,,Tình anh em đúng là kỳ lạ thật.
+Dialogue: 0,0:07:12.87,0:07:15.71,Default,Mei,0,0,0,,Nhưng chị vẫn yêu quý anh trai mình đúng không ạ?
+Dialogue: 0,0:07:16.09,0:07:22.22,Default,Miy,0,0,0,,Hồi trước mình từng nghĩ anh ấy là người đáng sợ, nhưng giờ thì mình hiểu anh ấy rõ rồi.
+Dialogue: 0,0:07:22.22,0:07:27.97,Default,Miy,0,0,0,,Anh ấy có rất nhiều điểm tốt,\Nchỉ là không biết cách bộc lộ ra ngoài mà thôi.
+Dialogue: 0,0:07:28.35,0:07:31.23,Default,Miy,0,0,0,,Anh ấy chỉ là người vụng về thôi.
+Dialogue: 0,0:07:31.23,0:07:34.98,Default,Oka,0,0,0,,Cô Sanae cũng từng nói về Sunohara như thế đấy nhỉ?
+Dialogue: 0,0:07:36.31,0:07:41.11,Default,Miy,0,0,0,,Mình cũng nghĩ Sunohara-san có rất nhiều điểm tốt.
+Dialogue: 0,0:07:41.11,0:07:48.12,Default,Miy,0,0,0,,Dù không phải là bóng đá, nhưng chỉ cần có cơ hội, anh ấy nhất định sẽ lại trở thành người anh mà em hằng yêu quý.
+Dialogue: 0,0:07:48.87,0:07:51.66,Default,Mei,0,0,0,,Hiện giờ quan hệ giữa chị và anh trai thế nào rồi ạ?
+Dialogue: 0,0:07:51.66,0:07:53.62,Default,Miy,0,0,0,,Bọn mình hòa thuận lắm.
+Dialogue: 0,0:08:01.92,0:08:04.38,Default,Oka,0,0,0,,Sunohara, hôm qua mày đi đâu đấy?
+Dialogue: 0,0:08:05.59,0:08:06.93,Default,Sun,0,0,0,,Tao làm gì là việc của tao.
+Dialogue: 0,0:08:07.30,0:08:10.02,Default,Oka,0,0,0,,Mày chẳng quan tâm xem Mei-chan đang làm gì à?
+Dialogue: 0,0:08:10.47,0:08:12.39,Default,Sun,0,0,0,,Sao mày lại hỏi thế chứ?
+Dialogue: 0,0:08:12.39,0:08:13.89,Default,Sun,0,0,0,,Con Mei đi với mày mà, đúng không?
+Dialogue: 0,0:08:14.90,0:08:17.27,Default,Sun,0,0,0,,Tao đang bận lo chuyện với chị Sanae rồi.
+Dialogue: 0,0:08:17.61,0:08:19.82,Default,Sun,0,0,0,,Tao không rảnh hơi đâu mà lo cho con Mei.
+Dialogue: 0,0:08:20.78,0:08:22.78,Default,Oka,0,0,0,,Mày nói nghiêm túc đấy à?
+Dialogue: 0,0:08:23.53,0:08:24.57,Default,Sun,0,0,0,,Ừ.
+Dialogue: 0,0:08:24.57,0:08:26.20,Default,Sun,0,0,0,,Tao giao con Mei cho mày đấy.
+Dialogue: 0,0:08:26.20,0:08:27.62,Default,Sun,0,0,0,,Nhớ chăm sóc nó cho cẩn thận vào.
+Dialogue: 0,0:08:28.87,0:08:30.79,Default,Oka,0,0,0,,Mày thôi ngay cái trò đó đi.
+Dialogue: 0,0:08:31.12,0:08:32.75,Default,Sun,0,0,0,,Mày nổi giận cái nỗi gì chứ?
+Dialogue: 0,0:08:32.75,0:08:34.71,Default,Sun,0,0,0,,Chắc con Mei nó cũng chẳng thèm bận tâm đến tao đâu.
+Dialogue: 0,0:08:34.71,0:08:35.62,Default,Oka,0,0,0,,SUNOHARA!!!
+Dialogue: 0,0:08:37.38,0:08:39.67,Default,Ryo,0,0,0,,Okazaki-kun! Sunohara-kun!
+Dialogue: 0,0:08:39.00,0:08:41.55,Default-alt,Oka,0,0,0,,Mày có biết giờ này Mei-chan đang làm gì không hả?!
+Dialogue: 0,0:08:41.55,0:08:42.63,Default,Sun,0,0,0,,Tao làm sao mà biết được.
+Dialogue: 0,0:08:42.63,0:08:44.80,Default,Sun,0,0,0,,Nhưng chắc hai đứa mày đang vui vẻ lắm chứ gì.
+Dialogue: 0,0:08:45.26,0:08:47.18,Default,Oka,0,0,0,,Tự mày đi mà hỏi đội bóng đá ấy!
+Dialogue: 0,0:08:47.18,0:08:50.26,Default,Oka,0,0,0,,Họ sẽ cho mày biết con bé đang nghĩ cho mày đến nhường nào!
+Dialogue: 0,0:08:51.97,0:08:53.85,Default,Sun,0,0,0,,Mày đang nói cái quái gì thế?
+Dialogue: 0,0:08:53.85,0:08:55.02,Default,Sun,0,0,0,,Chẳng hiểu mày nói năng kiểu gì nữa.
+Dialogue: 0,0:08:55.02,0:08:57.23,Default,Ryo,0,0,0,,Xin hai cậu dừng lại đi, Okazaki-kun!
+Dialogue: 0,0:08:57.23,0:08:59.02,Default,Ryo,0,0,0,,Rốt cuộc có chuyện gì xảy ra thế?
+Dialogue: 0,0:09:00.61,0:09:02.53,Default,Sun,0,0,0,,Mày muốn đánh nhau à, Okazaki?
+Dialogue: 0,0:09:04.40,0:09:06.11,Default,Kyo,0,0,0,,Tách ra mau!
+Dialogue: 0,0:09:06.11,0:09:08.16,Default,Kyo,0,0,0,,Chuyện này là sao? Vì lý do gì mà lại đánh nhau?
+Dialogue: 0,0:09:08.16,0:09:10.16,Default,Kot,0,0,0,,Có chuyện gì thế, Ryou-chan?
+Dialogue: 0,0:09:10.16,0:09:11.87,Default,Ryo,0,0,0,,Tớ cũng không rõ nữa.
+Dialogue: 0,0:09:11.87,0:09:15.71,Default,Kot,0,0,0,,Tomoya-kun, Sunohara-kun.\NTớ nghĩ đánh nhau là không tốt đâu.
+Dialogue: 0,0:09:18.29,0:09:19.29,Default,Kyo,0,0,0,,Tomoya.
+Dialogue: 0,0:09:19.29,0:09:20.25,Default,Kot,0,0,0,,Tomoya-kun.
+Dialogue: 0,0:09:22.05,0:09:25.22,Default,Ryo,0,0,0,,Sunohara-kun, rốt cuộc là có chuyện gì thế?
+Dialogue: 0,0:09:28.01,0:09:29.76,Default,Mei,0,0,0,,Anh vừa đánh nhau xong đấy à?
+Dialogue: 0,0:09:29.76,0:09:32.26,Default,Oka,0,0,0,,Ừ. Anh mất bình tĩnh quá.
+Dialogue: 0,0:09:32.26,0:09:34.18,Default,Mei,0,0,0,,Giờ anh hai đang làm gì rồi ạ?
+Dialogue: 0,0:09:34.18,0:09:36.10,Default,Oka,0,0,0,,Nó trốn tiết buổi chiều rồi.
+Dialogue: 0,0:09:36.52,0:09:38.44,Default,Oka,0,0,0,,Chắc lại bỏ đi chơi bời ở đâu đó.
+Dialogue: 0,0:09:38.44,0:09:39.77,Default,Mei,0,0,0,,Em hiểu rồi...
+Dialogue: 0,0:09:39.77,0:09:41.98,Default,Oka,0,0,0,,Em lại định đến chỗ đội bóng đá nữa à?
+Dialogue: 0,0:09:41.98,0:09:47.78,Default,Mei,0,0,0,,Vâng. Sau khi nghe câu chuyện của chị Miyazawa, em cảm thấy mình càng phải cố gắng hơn nữa.
+Dialogue: 0,0:09:48.41,0:09:51.74,Default,Mei,0,0,0,,Em có thể tự đi một mình được mà, thật đấy.
+Dialogue: 0,0:09:51.74,0:09:55.41,Default,Mei,0,0,0,,Em không thể làm phiền hai anh chị thêm vì chuyện anh em nhà em nữa đâu.
+Dialogue: 0,0:09:55.41,0:09:57.62,Default,Nag,0,0,0,,Bọn chị không thấy phiền chút nào đâu.
+Dialogue: 0,0:09:57.62,0:10:00.46,Default,Oka,0,0,0,,Không. Nagisa, cậu về nhà đi.
+Dialogue: 0,0:10:01.21,0:10:02.38,Default,Nag,0,0,0,,Tại sao chứ?
+Dialogue: 0,0:10:02.38,0:10:05.01,Default,Oka,0,0,0,,Cậu biết đội bóng đá là đám người thế nào rồi đấy.
+Dialogue: 0,0:10:05.01,0:10:07.26,Default,Oka,0,0,0,,Chẳng biết cuộc nói chuyện sẽ biến tướng ra sao đâu.
+Dialogue: 0,0:10:07.26,0:10:09.55,Default,Oka,0,0,0,,Để tớ và Mei-chan đi thôi.
+Dialogue: 0,0:10:09.55,0:10:11.18,Default,Nag,0,0,0,,Tớ không chấp nhận đâu!
+Dialogue: 0,0:10:11.18,0:10:13.81,Default,Nag,0,0,0,,Sau khi nghe xong chuyện đó thì làm sao tớ để hai người đi một mình được chứ.
+Dialogue: 0,0:10:13.81,0:10:16.31,Default,Oka,0,0,0,,Lỡ bọn chúng giở thói bạo lực thì cậu tính sao?
+Dialogue: 0,0:10:16.31,0:10:19.85,Default,Oka,0,0,0,,Nếu xảy ra xô xát, tớ sẽ không thể bảo vệ cậu được đâu.
+Dialogue: 0,0:10:22.23,0:10:26.48,Default,Nag,0,0,0,,Nếu thế thì tớ sẽ dẫn Mei-chan chạy trốn.
+Dialogue: 0,0:10:26.48,0:10:30.78,Default,Nag,0,0,0,,Dù có chuyện gì xảy ra với Tomoya-kun đi nữa,\Nnếu có tớ ở đó, tớ vẫn có thể giúp Mei-chan thoát khỏi nguy hiểm.
+Dialogue: 0,0:10:32.45,0:10:36.29,Default,Oka,0,0,0,,Cậu đúng là cứng đầu thật đấy, cứ hễ gặp chuyện như thế này là lại bướng bỉnh.
+Dialogue: 0,0:10:38.41,0:10:40.37,Default,Guy,0,0,0,,Lũ tụi mày dai như đỉa vậy.
+Dialogue: 0,0:10:40.37,0:10:42.13,Default,Oka,0,0,0,,Bọn tôi biết điều này là vô lý nên mới đến xin.
+Dialogue: 0,0:10:42.54,0:10:46.13,Default,Nag,0,0,0,,Xin các anh hãy cho Sunohara-san quay lại đội đi ạ!
+Dialogue: 0,0:10:46.13,0:10:48.30,Default,Mei,0,0,0,,Dù anh ấy không được đá trong các trận đấu cũng không sao ạ.
+Dialogue: 0,0:10:48.30,0:10:50.51,Default,Mei,0,0,0,,Chỉ cần cho anh ấy được tham gia luyện tập cùng thôi là đủ rồi.
+Dialogue: 0,0:10:50.51,0:10:54.60,Default,Guy,0,0,0,,Này! Tụi tao được cái tích sự gì từ chuyện đó chứ?
+Dialogue: 0,0:10:54.60,0:10:57.52,Default,Guy,0,0,0,,Chỉ tổ vướng thêm một cục nợ ngáng đường trong đội thôi.
+Dialogue: 0,0:10:57.52,0:11:00.94,Default,Mei,0,0,0,,Nếu có việc gì em giúp được, xin cứ để em làm ạ!
+Dialogue: 0,0:11:00.94,0:11:01.90,Default,Mei,0,0,0,,Việc gì em cũng xin làm hết!
+Dialogue: 0,0:11:02.85,0:11:05.32,Default,Guy,0,0,0,,Đội trưởng ơi, mau bắt đầu tập luyện đi thôi.
+Dialogue: 0,0:11:05.32,0:11:08.28,Default,Guy,0,0,0,,Kệ xác bọn họ đi rồi qua đây với bọn em đi.
+Dialogue: 0,0:11:08.28,0:11:08.86,Default,Guy,0,0,0,,Ừ.
+Dialogue: 0,0:11:08.86,0:11:10.49,Default,Mei,0,0,0,,Xin các anh đợi đã!
+Dialogue: 0,0:11:10.49,0:11:12.41,Default,Oka,0,0,0,,Bọn tôi biết yêu cầu này quá đáng.
+Dialogue: 0,0:11:12.41,0:11:14.03,Default,Oka,0,0,0,,Nhưng xin các anh đấy!
+Dialogue: 0,0:11:14.03,0:11:14.87,Default,Oka,0,0,0,,Bọn tôi cúi đầu xin các anh!
+Dialogue: 0,0:11:18.79,0:11:20.00,Default,Guy,0,0,0,,Chà chà.
+Dialogue: 0,0:11:20.00,0:11:23.12,Default,Guy,0,0,0,,Tao chưa từng tưởng tượng ra cái cảnh thằng Okazaki lại đi cúi đầu van xin thế này đấy.
+Dialogue: 0,0:11:23.12,0:11:26.75,Default,Guy,0,0,0,,Gần đây tao có nghe đồn mày đổi tính rồi, hóa ra lời đồn là thật à.
+Dialogue: 0,0:11:27.17,0:11:28.38,Default,Mei,0,0,0,,Okazaki-san...
+Dialogue: 0,0:11:30.05,0:11:31.63,Default,Guy,0,0,0,,Ra nhặt bóng đi.
+Dialogue: 0,0:11:32.01,0:11:33.72,Default,2,0,0,0,,Em cảm ơn các anh rất nhiều ạ!
+Dialogue: 0,0:11:33.89,0:11:36.60,Default,Mei,0,0,0,,Em cảm ơn anh nhiều lắm, Okazaki-san!
+Dialogue: 0,0:11:36.60,0:11:38.68,Default,Nag,0,0,0,,Cậu tuyệt vời lắm, Tomoya-kun.
+Dialogue: 0,0:11:38.68,0:11:40.14,Default,Oka,0,0,0,,Có gì đâu mà.
+Dialogue: 0,0:11:40.14,0:11:42.27,Default,Oka,0,0,0,,Thay vì thế, chúng ta hãy cố gắng hết sức làm chân nhặt bóng thôi.
+Dialogue: 0,0:11:42.27,0:11:43.02,Default,2,0,0,0,,Vâng ạ!
+Dialogue: 0,0:11:55.87,0:11:59.33,Default,Oka,0,0,0,,Sức khỏe cậu yếu, đừng có ráng quá sức đấy nhé.
+Dialogue: 0,0:11:59.33,0:12:00.33,Default,Nag,0,0,0,,Tớ ổn mà.
+Dialogue: 0,0:12:00.33,0:12:03.04,Default,Nag,0,0,0,,Cậu hãy để ý đến Mei-chan hơn tớ đi.
+Dialogue: 0,0:12:04.33,0:12:06.50,Default,Guy,0,0,0,,Mau đi nhặt bóng về đây, thằng nhặt bóng!
+Dialogue: 0,0:12:06.50,0:12:07.67,Default,Oka,0,0,0,,Tôi đi ngay!
+Dialogue: 0,0:12:10.17,0:12:12.59,Default,Guy,0,0,0,,Đừng có đứng ngây ra đó, nhặt bóng mau!
+Dialogue: 0,0:12:12.59,0:12:13.55,Default,Nag,0,0,0,,Dạ vâng!
+Dialogue: 0,0:12:15.22,0:12:17.05,Default,Guy,0,0,0,,Nhanh cái chân lên, con bé ngơ ngác kia!
+Dialogue: 0,0:12:17.76,0:12:18.76,Default,Mei,0,0,0,,Dạ có ngay ạ!
+Dialogue: 0,0:12:24.39,0:12:25.81,Default,Guy,0,0,0,,Đồ ngu!
+Dialogue: 0,0:12:25.81,0:12:27.86,Default,Guy,0,0,0,,Mang nó lại đây mau!
+Dialogue: 0,0:12:28.77,0:12:29.82,Default,Mei,0,0,0,,Em xin lỗi ạ!
+Dialogue: 0,0:12:30.40,0:12:32.49,Default,Guy,0,0,0,,Lại bay quả nữa rồi kìa!
+Dialogue: 0,0:12:32.49,0:12:35.20,Default,Guy,0,0,0,,Nhanh lên! Mau chạy đi nhặt về đây!
+Dialogue: 0,0:12:35.20,0:12:35.91,Default,Mei,0,0,0,,Dạ vâng!
+Dialogue: 0,0:12:36.41,0:12:38.20,Default,Guy,0,0,0,,Chạy nhanh lên xem nào!
+Dialogue: 0,0:12:38.53,0:12:39.70,Default,Nag,0,0,0,,Tomoya-kun...
+Dialogue: 0,0:12:39.70,0:12:40.99,Default,Oka,0,0,0,,Bọn chúng cố tình làm thế đấy.
+Dialogue: 0,0:12:40.99,0:12:42.83,Default,Guy,0,0,0,,Sao thế? Đã mệt lử rồi à?
+Dialogue: 0,0:12:49.38,0:12:52.01,Default,Oka,0,0,0,,Nagisa, Mei-chan, hai người có sao không?
+Dialogue: 0,0:12:52.51,0:12:53.47,Default,Nag,0,0,0,,Tớ không sao.
+Dialogue: 0,0:12:53.47,0:12:55.63,Default,Mei,0,0,0,,Em cũng không sao ạ.
+Dialogue: 0,0:12:59.47,0:13:01.01,Default,Oka,0,0,0,,Hai người cứ đứng thở lấy lại sức đi!
+Dialogue: 0,0:13:04.89,0:13:05.39,Default,Nag,0,0,0,,Mei-chan!
+Dialogue: 0,0:13:07.40,0:13:08.65,Default,Nag,0,0,0,,Mei-chan...
+Dialogue: 0,0:13:10.11,0:13:11.44,Default,Oka,0,0,0,,Lũ khốn này...
+Dialogue: 0,0:13:12.07,0:13:15.45,Default,Mei,0,0,0,,Không sao đâu ạ. Tại em không chú ý thôi.
+Dialogue: 0,0:13:15.45,0:13:17.20,Default,Nag,0,0,0,,Mei-chan, em nên...
+Dialogue: 0,0:13:17.99,0:13:19.45,Default,Mei,0,0,0,,Em vẫn ổn mà.
+Dialogue: 0,0:13:19.45,0:13:21.58,Default,Mei,0,0,0,,Mấy chuyện này có là gì đâu ạ.
+Dialogue: 0,0:13:24.58,0:13:26.41,Default,Guy,0,0,0,,Đừng có lề mề câu giờ nữa, lũ rác rưởi kia!
+Dialogue: 0,0:13:26.71,0:13:27.58,Default,Mei,0,0,0,,Dạ vâng!
+Dialogue: 0,0:13:35.92,0:13:37.22,Default,Mei,0,0,0,,Bọn em thu dọn xong rồi ạ.
+Dialogue: 0,0:13:37.59,0:13:39.22,Default,Guy,0,0,0,,Làm tốt lắm.
+Dialogue: 0,0:13:39.22,0:13:41.72,Default,Nag,0,0,0,,Dạ, các thành viên khác đâu hết rồi ạ?
+Dialogue: 0,0:13:41.72,0:13:42.68,Default,Guy,0,0,0,,Bọn họ về cả rồi.
+Dialogue: 0,0:13:44.47,0:13:46.31,Default,Guy,0,0,0,,Buổi tập kết thúc rồi.
+Dialogue: 0,0:13:46.31,0:13:49.69,Default,Guy,0,0,0,,Bọn tao sẽ thay mặt họ nghe xem tụi mày muốn nói gì.
+Dialogue: 0,0:13:50.27,0:13:52.07,Default,Guy,0,0,0,,Thế, rốt cuộc tụi mày muốn gì?
+Dialogue: 0,0:13:52.65,0:13:55.24,Default,Mei,0,0,0,,Về chuyện anh trai em, Sunohara Youhei ạ.
+Dialogue: 0,0:13:55.24,0:13:57.07,Default,Mei,0,0,0,,Bọn em xin các anh cho anh ấy được quay trở lại đội.
+Dialogue: 0,0:13:57.07,0:13:59.20,Default,Guy,0,0,0,,À, xin lỗi nhé. Không đời nào có chuyện đó đâu.
+Dialogue: 0,0:14:00.20,0:14:05.20,Default,Guy,0,0,0,,Ai rảnh mà cho cái thứ dịch bệnh như anh trai mày vào đội chứ?
+Dialogue: 0,0:14:05.20,0:14:07.29,Default,Guy,0,0,0,,Nó vốn dĩ là một thằng hèn nhát mà.
+Dialogue: 0,0:14:07.29,0:14:10.83,Default,Guy,0,0,0,,Một kẻ thất bại chỉ giỏi sủa đổng chứ chẳng có chút gan dạ nào.
+Dialogue: 0,0:14:12.13,0:14:15.46,Default,Guy,0,0,0,,Thứ phế vật bỏ rơi bóng đá mà học hành thì cũng dốt nát chẳng ra trò trống gì.
+Dialogue: 0,0:14:16.21,0:14:20.18,Default,Guy,0,0,0,,Có lý do quái nào để phải giúp đỡ một đống rác rưởi như nó chứ?
+Dialogue: 0,0:14:20.18,0:14:21.55,Default,Nag,0,0,0,,Sao các anh có thể...
+Dialogue: 0,0:14:21.55,0:14:22.55,Default,Oka,0,0,0,,Lũ khốn chúng mày!
+Dialogue: 0,0:14:24.35,0:14:30.14,Default,Guy,0,0,0,,Tụi mày có biết thằng Sunohara thừa biết tụi mày đang làm gì không?
+Dialogue: 0,0:14:30.81,0:14:33.82,Default,Guy,0,0,0,,Hình như nó có đi hỏi dò một đứa khóa dưới của bọn tao đấy.
+Dialogue: 0,0:14:33.82,0:14:34.82,Default,Guy,0,0,0,,Nhưng rồi sao nào?
+Dialogue: 0,0:14:34.82,0:14:37.53,Default,Guy,0,0,0,,Anh trai mày chẳng thèm vác mặt tới đây luôn.
+Dialogue: 0,0:14:37.53,0:14:39.28,Default,Guy,0,0,0,,Mày bị nó phớt lờ rồi con ranh ạ.
+Dialogue: 0,0:14:39.28,0:14:44.16,Default,Guy,0,0,0,,Mặc cho em gái làm trâu làm ngựa vì mình, nó sợ bọn tao quá nên cụp đuôi bỏ chạy rồi.
+Dialogue: 0,0:14:44.16,0:14:47.33,Default,Guy,0,0,0,,Đúng là thứ cặn bã hết thuốc chữa mà.
+Dialogue: 0,0:14:49.75,0:14:50.46,Default,Nag,0,0,0,,Mei-chan...
+Dialogue: 0,0:14:50.46,0:14:52.38,Default,Guy,0,0,0,,Ôi chao, mày làm con bé khóc rồi kìa.
+Dialogue: 0,0:14:52.38,0:14:54.34,Default,Guy,0,0,0,,Tụi mày chướng mắt quá rồi đấy. Biến về đi!
+Dialogue: 0,0:14:54.34,0:14:56.17,Default,Mei,0,0,0,,Không... Không phải đâu...
+Dialogue: 0,0:14:56.17,0:14:57.76,Default,Mei,0,0,0,,Anh hai sẽ đến mà.
+Dialogue: 0,0:14:57.76,0:14:59.09,Default,Mei,0,0,0,,Anh ấy nhất định sẽ đến!
+Dialogue: 0,0:14:59.09,0:15:00.72,Default,Mei,0,0,0,,Đã bảo người không đến thì có đợi cũng vô ích thôi.
+Dialogue: 0,0:15:00.72,0:15:02.72,Default,Mei,0,0,0,,Anh ấy sẽ đến. Anh hai nhất định sẽ đến mà.
+Dialogue: 0,0:15:02.72,0:15:06.14,Default,Mei,0,0,0,,Anh ấy chắc chắn sẽ đến cứu Mei!
+Dialogue: 0,0:15:06.81,0:15:07.60,Default,Nag,0,0,0,,Mei-chan...
+Dialogue: 0,0:15:07.60,0:15:09.68,Default,Guy,0,0,0,,Hả? Con bé này bị thiểu năng à?
+Dialogue: 0,0:15:09.68,0:15:12.69,Default,Guy,0,0,0,,Dù sao cũng là em gái thằng Sunohara mà lại.
+Dialogue: 0,0:15:12.69,0:15:16.44,Default,Guy,0,0,0,,Nào, lại đây xem nào.
+Dialogue: 0,0:15:16.44,0:15:21.15,Default,Guy,0,0,0,,Mày mà không gào to hơn nữa,\Nthì ông anh quý hóa của mày không nghe thấy đâu.
+Dialogue: 0,0:15:16.77,0:15:18.15,Default-alt,Mei,0,0,0,,Đau quá!
+Dialogue: 0,0:15:20.19,0:15:21.15,Default-alt,Oka,0,0,0,,Dừng tay lại!
+Dialogue: 0,0:15:21.53,0:15:22.66,Default,Oka,0,0,0,,Lũ khốn nạn!
+Dialogue: 0,0:15:22.66,0:15:23.36,Default,Guy,0,0,0,,Khoan đã nào.
+Dialogue: 0,0:15:23.91,0:15:26.03,Default,Guy,0,0,0,,Mày muốn gây sự với tất cả bọn tao đấy à?
+Dialogue: 0,0:15:26.03,0:15:27.62,Default,Guy,0,0,0,,Khóc to lên xem nào!
+Dialogue: 0,0:15:26.03,0:15:28.45,Default-alt,Mei,0,0,0,,Đ-Đau quá...!
+Dialogue: 0,0:15:28.45,0:15:30.16,Default,Oka,0,0,0,,Lũ cặn bã chúng mày!
+Dialogue: 0,0:15:30.54,0:15:31.54,Default,Nag,0,0,0,,Tomoya-kun!
+Dialogue: 0,0:15:31.54,0:15:36.25,Default,Oka,0,0,0,,Xin lỗi Nagisa. Tớ đã định nhịn vì Mei-chan rồi, nhưng tớ chịu hết nổi rồi!
+Dialogue: 0,0:15:38.34,0:15:40.59,Default,Mei,0,0,0,,Anh hai ơi!
+Dialogue: 0,0:15:41.42,0:15:43.80,Default,Guy,0,0,0,,Khóc to lên! Khóc nữa đi!
+Dialogue: 0,0:15:54.06,0:15:56.19,Default,Sun,0,0,0,,KHÔNG ĐƯỢC LÀM MEI KHÓC!!!
+Dialogue: 0,0:15:58.44,0:16:01.82,Default,Sun,0,0,0,,TAO KHÔNG THA CHO BẤT CỨ AI DÁM LÀM CON MEI KHÓC ĐÂU!!!
+Dialogue: 0,0:16:01.82,0:16:02.65,Default,Guy,0,0,0,,Mẹ kiếp thằng này!
+Dialogue: 0,0:16:06.70,0:16:07.99,Default,Mei,0,0,0,,Anh hai!
+Dialogue: 0,0:16:07.99,0:16:08.70,Default,Nag,0,0,0,,Sunohara-san!
+Dialogue: 0,0:16:15.46,0:16:17.34,Default,Oka,0,0,0,,Nagisa, chăm sóc cho Mei-chan đi!
+Dialogue: 0,0:16:17.88,0:16:18.59,Default,Nag,0,0,0,,Vâng!
+Dialogue: 0,0:16:18.59,0:16:20.92,Default,Mei,0,0,0,,Anh hai! Anh hai ơi!
+Dialogue: 0,0:16:20.17,0:16:22.22,Default-alt,Oka,0,0,0,,Đừng quên là còn có tao ở đây nữa đấy!
+Dialogue: 0,0:16:36.65,0:16:38.73,Default,Guys,0,0,0,,Mấy thằng này điên thật rồi...
+Dialogue: 0,0:16:39.11,0:16:41.03,Default,Guys,0,0,0,,Ánh mắt của tụi nó nhìn ghê chết đi được!
+Dialogue: 0,0:16:42.11,0:16:44.65,Default,Sun,0,0,0,,Okazaki... Tụi mình thắng chưa?
+Dialogue: 0,0:16:45.20,0:16:46.61,Default,Oka,0,0,0,,Tao không biết.
+Dialogue: 0,0:16:46.61,0:16:48.57,Default,Oka,0,0,0,,Nhưng tao nghĩ là tụi mình không thua.
+Dialogue: 0,0:16:50.41,0:16:51.45,Default,Oka,0,0,0,,Thằng ngu này.
+Dialogue: 0,0:16:51.91,0:16:53.33,Default,Sun,0,0,0,,Mày bảo ai là thằng ngu hả?
+Dialogue: 0,0:16:53.79,0:16:56.25,Default,Oka,0,0,0,,Ngoài mày ra thì còn ai vào đây nữa?
+Dialogue: 0,0:16:58.38,0:17:00.00,Default,Oka,0,0,0,,Xin lỗi Mei-chan mau.
+Dialogue: 0,0:17:01.34,0:17:02.42,Default,Sun,0,0,0,,Tại sao chứ?
+Dialogue: 0,0:17:02.42,0:17:06.43,Default,Oka,0,0,0,,Nếu mày chịu sống đàng hoàng tử tế thì mọi chuyện đã chẳng thành ra thế này.
+Dialogue: 0,0:17:07.18,0:17:08.93,Default,Oka,0,0,0,,Mày đúng là một thằng anh trai vô tích sự.
+Dialogue: 0,0:17:09.51,0:17:11.68,Default,Sun,0,0,0,,Mày đang muốn kiếm chuyện với tao đấy à?
+Dialogue: 0,0:17:13.27,0:17:14.18,Default,Oka,0,0,0,,Coi như là thế đi.
+Dialogue: 0,0:17:21.57,0:17:22.86,Default,Nag,0,0,0,,Tomoya-kun!
+Dialogue: 0,0:17:22.86,0:17:24.07,Default,Nag,0,0,0,,Sunohara-san!
+Dialogue: 0,0:17:24.07,0:17:26.61,Default,Mei,0,0,0,,Dừng lại đi! Xin hai anh dừng lại đi mà!
+Dialogue: 0,0:17:36.04,0:17:37.67,Default,Oka,0,0,0,,Thằng đại ngu ngốc này!
+Dialogue: 0,0:17:41.00,0:17:44.71,Default,Oka,0,0,0,,Mày có biết vì mày mà Mei-chan đã phải chịu đựng những gì không hả?!
+Dialogue: 0,0:17:44.71,0:17:47.38,Default,Oka,0,0,0,,Mày phải là người chăm sóc bảo bọc cho con bé chứ!
+Dialogue: 0,0:17:49.14,0:17:50.01,Default,Sun,0,0,0,,Mày dám...
+Dialogue: 0,0:17:50.01,0:17:52.01,Default,Oka,0,0,0,,Mày là anh trai của Mei-chan cơ mà!
+Dialogue: 0,0:17:52.01,0:17:54.22,Default,Oka,0,0,0,,Phải biết nghĩ cho Mei-chan nhiều hơn chứ!
+Dialogue: 0,0:17:54.22,0:17:54.97,Default,Sun,0,0,0,,Tao có nghĩ chứ bộ!
+Dialogue: 0,0:17:54.97,0:17:56.31,Default,Oka,0,0,0,,Bớt xạo xự đi!
+Dialogue: 0,0:17:56.31,0:18:00.77,Default,Oka,0,0,0,,Con bé qua lại với một thằng như tao,\Nthế mà mày chẳng thèm làm cái thá gì cả!
+Dialogue: 0,0:18:00.77,0:18:02.36,Default,Oka,0,0,0,,Mày chẳng hề lo lắng cho con bé chút nào!
+Dialogue: 0,0:18:02.36,0:18:03.27,Default,Sun,0,0,0,,Tao có lo chứ!
+Dialogue: 0,0:18:03.27,0:18:04.44,Default,Sun,0,0,0,,Tao lo chết đi được ấy chứ!
+Dialogue: 0,0:18:04.44,0:18:06.74,Default,Oka,0,0,0,,Thế thì tại sao mày lại bỏ mặc con bé?!
+Dialogue: 0,0:18:06.74,0:18:08.61,Default,Oka,0,0,0,,Có lý do gì thì mày nói mẹ ra xem nào!
+Dialogue: 0,0:18:08.61,0:18:10.95,Default,Sun,0,0,0,,Tại tao nghĩ nếu là mày thì sẽ ổn mà!
+Dialogue: 0,0:18:14.33,0:18:16.87,Default,Sun,0,0,0,,Tao đã định nấp một chỗ để theo dõi đến cùng...
+Dialogue: 0,0:18:17.54,0:18:20.17,Default,Sun,0,0,0,,Nhưng vì trông mày thảm hại quá nên tao mới phải lao ra đấy chứ!
+Dialogue: 0,0:18:20.17,0:18:22.42,Default,Nag,0,0,0,,Tomoya-kun! Sunohara-san!
+Dialogue: 0,0:18:22.42,0:18:24.34,Default,Mei,0,0,0,,Xin hai anh dừng lại đi!
+Dialogue: 0,0:18:24.34,0:18:26.67,Default,Sun,0,0,0,,Lẽ ra mày phải bảo vệ được cho con Mei chứ!
+Dialogue: 0,0:18:27.30,0:18:29.47,Default,Sun,0,0,0,,Đó chẳng phải là bổn phận của một người bạn trai hay sao?!
+Dialogue: 0,0:18:29.47,0:18:30.89,Default,Oka,0,0,0,,Mày...
+Dialogue: 0,0:18:30.89,0:18:32.18,Default,Oka,0,0,0,,Sunohara!
+Dialogue: 0,0:18:34.76,0:18:37.73,Default,Sun,0,0,0,,Mày yêu con Mei đến mức dám chia tay với Nagisa-chan cơ mà đúng không?
+Dialogue: 0,0:18:37.73,0:18:39.98,Default,Sun,0,0,0,,Thế thì hãy làm cho ra trò đi chứ thằng chết tiệt này!
+Dialogue: 0,0:18:42.31,0:18:43.94,Default,Mei,0,0,0,,Anh hai! Okazaki-san!
+Dialogue: 0,0:18:43.94,0:18:46.44,Default,Nag,0,0,0,,Xin hai cậu hãy dừng tay lại đi!
+Dialogue: 0,0:18:47.15,0:18:49.28,Default,Sun,0,0,0,,Nagisa-chan? Sao em lại ở đây?
+Dialogue: 0,0:18:51.24,0:18:52.41,Default,Sun,0,0,0,,Mày lỡ tay rồi đấy nhé!
+Dialogue: 0,0:18:51.70,0:18:54.33,Default-alt,Mei,0,0,0,,Dừng lại đi! Xin anh hãy dừng lại đi mà anh hai!
+Dialogue: 0,0:18:54.33,0:18:56.45,Default,Mei,0,0,0,,Anh hai! Anh hai ơi!
+Dialogue: 0,0:18:56.79,0:18:59.25,Default,Mei,0,0,0,,Em xin lỗi... Em xin lỗi mà...
+Dialogue: 0,0:18:59.62,0:19:00.41,Default,Sun,0,0,0,,Mei...
+Dialogue: 0,0:19:16.35,0:19:19.35,Default,Nag,0,0,0,,Hôm nay cậu không nghỉ học ở nhà dưỡng thương à?
+Dialogue: 0,0:19:19.35,0:19:23.65,Default,Oka,0,0,0,,Đừng lo. Chẳng phải người mệt mỏi là cậu sao?
+Dialogue: 0,0:19:23.65,0:19:25.86,Default,Nag,0,0,0,,Không đâu. Tớ khỏe mà.
+Dialogue: 0,0:19:49.09,0:19:50.30,Default,Kyo,0,0,0,,Mắt của hai cậu bị làm sao thế kia?
+Dialogue: 0,0:19:50.30,0:19:51.38,Default,Ryo,0,0,0,,Trông thảm thương ghê.
+Dialogue: 0,0:19:51.38,0:19:53.09,Default,Kot,0,0,0,,Nhưng trông hai người có vẻ vui vẻ lắm.
+Dialogue: 0,0:20:00.18,0:20:02.10,Default,Oka,0,0,0,,Bọn tớ vừa nhận được thư từ Mei-chan gửi đấy.
+Dialogue: 0,0:20:02.10,0:20:04.35,Default,Sun,0,0,0,,Không chỉ gọi điện mà còn viết cả thư nữa à?
+Dialogue: 0,0:20:04.35,0:20:06.86,Default,Sun,0,0,0,,Con bé đúng là chu đáo thật đấy.
+Dialogue: 0,0:20:06.86,0:20:09.36,Default,Oka,0,0,0,,Con bé nhờ tao chăm sóc cho mày đấy.
+Dialogue: 0,0:20:09.69,0:20:14.32,Default,Oka,0,0,0,,Và em ấy còn bảo muốn tìm được những người bạn tuyệt vời như bọn mình nữa.
+Dialogue: 0,0:20:14.32,0:20:19.49,Default,Sun,0,0,0,,Ừ, người ta vẫn thường nói tình bạn thời đi học là thứ sẽ gắn bó với mình suốt cả cuộc đời mà.
+Dialogue: 0,0:20:20.12,0:20:24.75,Default,Sun,0,0,0,,Tao cá là chỉ có bây giờ tụi mình mới làm được mấy trò ngớ ngẩn thế này thôi.
+Dialogue: 0,0:20:25.21,0:20:26.17,Default,Oka,0,0,0,,Chắc là vậy rồi.
+Dialogue: 0,0:20:26.88,0:20:30.09,Default,Sun,0,0,0,,Chỉ còn nửa năm nữa là tốt nghiệp cấp ba rồi nhỉ?
+Dialogue: 0,0:20:35.38,0:20:36.97,Default,Oka,0,0,0,,Ông chú kìa.
+Dialogue: 0,0:20:36.97,0:20:39.47,Default,Sun,0,0,0,,Chết tiệt. Tự dưng tao run quá chừng.
+Dialogue: 0,0:20:39.47,0:20:40.89,Default,Oka,0,0,0,,Mày muốn bỏ cuộc không?
+Dialogue: 0,0:20:41.27,0:20:42.35,Default,Sun,0,0,0,,Không, tao không từ bỏ đâu.
+Dialogue: 0,0:20:42.35,0:20:45.69,Default,Sun,0,0,0,,Vì người phụ nữ duy nhất mà tao yêu là chị Sanae-san mà.
+Dialogue: 0,0:20:46.40,0:20:48.23,Default,Oka,0,0,0,,Được rồi. Chúc mày may mắn.
+Dialogue: 0,0:20:50.02,0:20:51.03,Default,Sun,0,0,0,,Bố vợ ơi!
+Dialogue: 0,0:20:51.03,0:20:53.69,Default,Aki,0,0,0,,Ồ, à... Thằng Sunohara phải không?
+Dialogue: 0,0:20:53.69,0:20:55.57,Default,Aki,0,0,0,,Gì thế? Mày đến đây mua bánh mì à?
+Dialogue: 0,0:20:55.57,0:20:58.87,Default,Oka,0,0,0,,Thưa Bác! Xin Bác hãy gả chị Sanae-san cho cháu!
+Dialogue: 0,0:21:00.45,0:21:02.75,Default,San,0,0,0,,Có chuyện gì thế hả Akio-san?
+Dialogue: 0,0:21:03.45,0:21:04.50,Default,Sun,0,0,0,,"Akio-san" ư?
+Dialogue: 0,0:21:04.50,0:21:09.67,Default,Nag,0,0,0,,Tomoya-kun, cậu vẫn chưa nói cho Sunohara-san biết chuyện về Mẹ sao?
+Dialogue: 0,0:21:09.67,0:21:11.25,Default,Sun,0,0,0,,"M-Mẹ" á?!
+Dialogue: 0,0:21:11.25,0:21:11.75,Default,Sun,0,0,0,,Chuyện này là thế nào?!
+Dialogue: 0,0:21:11.75,0:21:14.51,Default,San,0,0,0,,Akio-san là chồng tôi mà.
+Dialogue: 0,0:21:16.80,0:21:20.35,Default,Aki,0,0,0,,Thằng ranh con này... Mày dám đụng đến người phụ nữ của tao à?!
+Dialogue: 0,0:21:21.35,0:21:22.35,Default,Aki,0,0,0,,Đứng lại đó cho tao!
+Dialogue: 0,0:21:24.10,0:21:28.40,Default,Oka,0,0,0,,Tôi lại nhớ về lần đầu tiên gặp Sunohara.
+Dialogue: 0,0:21:41.53,0:21:43.91,Default,Oka,0,0,0,,Cậu ta là một thằng tóc vàng kỳ quặc.
+Dialogue: 0,0:21:44.70,0:21:46.71,Default,Oka,0,0,0,,Mới nhìn bản mặt cậu ta thôi là tôi đã phì cười rồi.
+Dialogue: 0,0:21:47.42,0:21:50.75,Default,Oka,0,0,0,,Đó là lần đầu tiên tôi cười nhiều đến thế kể từ khi bước chân vào ngôi trường này.
+Dialogue: 0,0:21:51.75,0:21:55.13,Default,Oka,0,0,0,,Tôi đã muốn cùng cậu ta làm những trò ngốc nghếch.
+Dialogue: 0,0:21:56.38,0:22:01.76,Default,Oka,0,0,0,,Kể từ ngày gặp gỡ ấy, chúng tôi luôn bên nhau.
+Dialogue: 0,0:22:02.60,0:22:04.27,Default,Oka,0,0,0,,Và ngay cả bây giờ...
+Dialogue: 0,0:22:04.27,0:22:06.10,Default,Oka,0,0,0,,Chúng tôi vẫn đang nở nụ cười.
+Dialogue: 0,0:22:18.70,0:22:26.20,ED Romaji,,0,0,0,,{\be1}{\kf24}mi{\kf32}tsu{\kf23}me{\kf23}te {\kf19}i{\kf137}ta {\kf29}na{\kf28}ga{\kf21}re{\kf69}ru {\kf60}ku{\kf61}mo {\kf230}wo
+Dialogue: 0,0:22:18.70,0:22:26.20,ED English,,0,0,0,,{\be1}Tôi từng ngắm nhìn những áng mây bồng bềnh trôi.
+Dialogue: 0,0:22:26.20,0:22:33.25,ED Romaji,,0,0,0,,{\be1\fad(0,250)}{\kf40}ka{\kf11}n{\kf24}ji{\kf21}te {\kf30}i{\kf135}ta {\kf28}ka{\kf23}wa{\kf19}ru {\kf68}so{\kf63}ra {\kf37}no {\kf45}i{\kf26}ro {\kf130}wo
+Dialogue: 0,0:22:26.20,0:22:33.25,ED English,,0,0,0,,{\be1\fad(0,250)}Từng cảm nhận sắc màu bầu trời đang dần chuyển mình.
+Dialogue: 0,0:22:33.75,0:22:41.30,ED Romaji,,0,0,0,,{\be1}{\kf25}ta{\kf31}chi {\kf20}to{\kf27}ma{\kf21}t{\kf142}ta {\kf22}bo{\kf23}ku{\kf26}ra {\kf66}wa {\kf63}ki{\kf59}zu{\kf229}ku
+Dialogue: 0,0:22:33.75,0:22:41.30,ED English,,0,0,0,,{\be1}Khi dừng bước, chúng ta mới nhận ra
+Dialogue: 0,0:22:41.30,0:22:48.39,ED Romaji,,0,0,0,,{\be1}{\kf24}u{\kf32}tsu{\kf25}ro{\kf21}i {\kf20}yu{\kf143}ku {\kf24}se{\kf25}ka{\kf23}i {\kf65}ga {\kf73}tsu{\kf26}mu{\kf49}gu {\kf18}u{\kf32}ta {\kf113}ni
+Dialogue: 0,0:22:41.30,0:22:48.39,ED English,,0,0,0,,{\be1}khúc ca mà thế giới đang chuyển dời thêu dệt nên.
+Dialogue: 0,0:22:48.39,0:22:55.69,ED Romaji,,0,0,0,,{\be1}{\kf91}no{\kf35}ba{\kf38}shi{\kf139}ta {\kf48}yu{\kf25}bi {\kf44}de {\kf29}ta{\kf90}gu{\kf24}ru {\kf44}yo{\kf24}u {\kf98}ni
+Dialogue: 0,0:22:48.39,0:22:55.69,ED English,,0,0,0,,{\be1}Tựa như vươn những ngón tay để lần tìm,
+Dialogue: 0,0:22:55.69,0:23:04.33,ED Romaji,,0,0,0,,{\be1}{\kf26}ta{\kf92}da {\kf34}hi{\kf38}to{\kf87}tsu {\kf55}ka{\kf44}wa{\kf23}ra{\kf48}na{\kf29}i {\kf44}mo{\kf47}no {\kf22}sa{\kf95}ga{\kf177}su
+Dialogue: 0,0:22:55.69,0:23:04.33,ED English,,0,0,0,,{\be1}tôi tìm kiếm một điều duy nhất chẳng hề đổi thay.
+Dialogue: 0,0:23:04.37,0:23:11.92,ED Romaji,,0,0,0,,{\be1\fad(250,0)}{\kf59}ka{\kf41}za{\kf74}su {\kf72}te {\kf138}ni {\kf46}to{\kf45}mo{\kf75}shi{\kf73}bi {\kf136}wo
+Dialogue: 0,0:23:04.37,0:23:11.92,ED English,,0,0,0,,{\be1\fad(250,0)}Hãy thắp sáng ngọn đuốc trên bàn tay em đang giơ cao.
+Dialogue: 0,0:23:11.92,0:23:19.47,ED Romaji,,0,0,0,,{\be1}{\kf46}a{\kf52}su {\kf72}he {\kf24}to {\kf46}tsu{\kf25}zu{\kf108}ku {\kf44}chi{\kf33}i{\kf26}sa{\kf61}na {\kf78}shi{\kf71}ru{\kf73}be
+Dialogue: 0,0:23:11.92,0:23:19.47,ED English,,0,0,0,,{\be1}Đó sẽ là dấu chỉ nhỏ nhoi dẫn lối tới ngày mai.
+Dialogue: 0,0:23:19.47,0:23:27.01,ED Romaji,,0,0,0,,{\be1}{\kf44}i{\kf52}ma {\kf70}mo {\kf67}ma{\kf144}da {\kf45}ko{\kf46}da{\kf63}ma {\kf80}su{\kf140}ru
+Dialogue: 0,0:23:19.47,0:23:27.01,ED English,,0,0,0,,{\be1}Những lời em từng nói vào ngày hôm ấy...
+Dialogue: 0,0:23:27.01,0:23:34.52,ED Romaji,,0,0,0,,{\be1}{\kf48}a{\kf46}no {\kf70}hi {\kf27}no {\kf44}ko{\kf26}to{\kf104}ba {\kf51}chi{\kf30}ka{\kf27}i {\kf93}ni {\kf71}ka{\kf113}e
+Dialogue: 0,0:23:27.01,0:23:34.52,ED English,,0,0,0,,{\be1}...vẫn còn vang vọng mãi, hãy cùng khắc ghi thành lời nguyện thề.
+Dialogue: 0,0:23:34.52,0:23:39.78,ED Romaji,,0,0,0,,{\be1}{\kf42}bo{\kf34}ku {\kf18}wa {\kf166}yu{\kf266}ku
+Dialogue: 0,0:23:34.52,0:23:39.78,ED English,,0,0,0,,{\be1}Tôi sẽ bước tiếp cùng lời thề ấy.
+Dialogue: 0,0:23:39.78,0:23:43.74,Signs,,0,0,0,,{\fs99.999996\fad(0,400)\4c&H000000&\shad3\pos(960,470.000015)\blur0.5\bord0.75\3c&H000000&}Xem trước tập sau
+Dialogue: 0,0:23:41.11,0:23:43.07,Default,Mis,0,0,0,,Ừ, khéo trùng hợp thật đấy.
+Dialogue: 0,0:23:43.45,0:23:45.49,Default,Mis,0,0,0,,Cậu biết đấy, nếu cậu không phiền thì...
+Dialogue: 0,0:23:45.49,0:23:46.53,Default,Guy,0,0,0,,Thằng đó là ai thế?
+Dialogue: 0,0:23:47.16,0:23:49.04,Default,Guy,0,0,0,,Trông như học sinh trường khác vậy.
+Dialogue: 0,0:23:50.16,0:23:51.96,Default,Mis,0,0,0,,...Tại cậu mà người ta hiểu lầm rồi đấy!
+Dialogue: 0,0:23:51.96,0:23:55.33,Default,Oka,0,0,0,,Trong lớp tôi cũng có khối đứa là fan của chị đấy.
+Dialogue: 0,0:23:55.33,0:23:57.92,Default,Mis,0,0,0,,Được người ta quý thì cũng thích thật đấy,
+Dialogue: 0,0:23:58.25,0:24:01.84,Default,Mis,0,0,0,,nhưng tôi chẳng hiểu họ thấy gì ở một người phụ nữ suốt ngày chỉ biết la hét nữa.
+Dialogue: 0,0:24:01.84,0:24:05.22,Default,Oka,0,0,0,,Ở cái ký túc xá nam luộm thuộm này,\Nchị chẳng khác nào một thần tượng cả.
+Dialogue: 0,0:24:05.22,0:24:07.64,Default,Oka,0,0,0,,Giống như viên ngọc sáng giữa đống phân vậy.
+Dialogue: 0,0:24:05.68,0:24:09.64,Signs,,0,0,0,,{\fad(400,0)\4c&H000000&\shad3\pos(960,405)\bord0.75\blur0.5\3c&H00000A&}Tập 5
+Dialogue: 0,0:24:05.68,0:24:09.64,Signs,,0,0,0,,{\fs85.000002\fad(400,0)\4c&H000000&\shad3\pos(960,765)\3c&H000008&\blur0.5\bord0.75}Mùa em từng ở nơi đây
+Comment: 0,0:00:00.00,0:00:00.00,OP English,,0,0,0,,{\be1\fad(0,0)}
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,{\be1\fad(0,0)}
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,{\be1}
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,
+Comment: 0,0:00:00.00,0:00:00.00,ED English,,0,0,0,,{\be1}
+Comment: 0,0:00:17.02,0:00:17.02,Default,,0,0,0,,{\be1\fad(0,0)}
+Comment: 0,0:00:17.02,0:00:17.02,Default,,0,0,0,,{\be1\fad(0,0)}
+Comment: 0,0:11:43.01,0:11:55.86,Default,,0,0,0,,
+Comment: 0,0:22:05.88,0:22:09.84,Signs,,0,0,0,,{\fad(400,0)\4c&H000000&\shad3\pos(1459.999969,840)\bord0.75\3c&H000000&\blur0.5}To be continued
+
+
