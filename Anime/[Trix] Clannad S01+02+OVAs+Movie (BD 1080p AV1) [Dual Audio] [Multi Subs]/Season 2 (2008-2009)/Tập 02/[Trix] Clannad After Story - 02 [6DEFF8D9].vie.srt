@@ -1,0 +1,1762 @@
+﻿1
+00:00:02,890 --> 00:00:06,060
+<font face="Segoe UI" size="75">Chúng tôi đang đứng bên ngoài ngôi nhà.</font>
+
+2
+00:00:08,200 --> 00:00:10,420
+<font face="Segoe UI" size="75">Đừng đi xa quá nhé.</font>
+
+3
+00:00:12,110 --> 00:00:14,630
+<font face="Segoe UI" size="75">Kẻo chúng ta sẽ không tìm được đường về nhà đâu.</font>
+
+4
+00:00:16,110 --> 00:00:18,770
+<font face="Segoe UI" size="75">Đây là một thế giới đã tàn lụi.</font>
+
+5
+00:00:19,430 --> 00:00:21,640
+<font face="Segoe UI" size="75">Ngoài hai chúng tôi ra, chẳng còn một ai tồn tại ở nơi này.</font>
+
+6
+00:00:22,750 --> 00:00:26,890
+<font face="Segoe UI" size="75">Chúng tôi đang đi tìm những mảnh phế liệu có thể dùng được.</font>
+
+7
+00:00:28,120 --> 00:00:32,510
+<font face="Segoe UI" size="75">Chúng tôi phải tự mình tìm kiếm những công cụ để sinh tồn.</font>
+
+8
+00:00:35,360 --> 00:00:36,370
+<font face="Segoe UI" size="75">Em sẽ lấy cái này.</font>
+
+9
+00:00:37,420 --> 00:00:38,470
+<font face="Segoe UI" size="75">Cái này cũng mang về luôn nhé.</font>
+
+10
+00:01:40,490 --> 00:01:41,690
+<font face="Segoe UI" size="75">Ở một mình cậu có thấy sợ hãi không?</font>
+
+11
+00:01:45,880 --> 00:01:47,840
+<font face="Segoe UI" size="75">Mừng cậu đã quay trở về.</font>
+
+12
+00:01:50,490 --> 00:01:51,460
+<font face="Segoe UI" size="75">Cảm ơn cậu nhiều nhé.</font>
+
+13
+00:02:00,560 --> 00:02:01,730
+<font face="Segoe UI" size="75">Kỳ lạ thật đấy.</font>
+
+14
+00:02:05,180 --> 00:02:07,230
+<font face="Segoe UI" size="75">Chúng mang một mùi hương dịu dàng biết bao.</font>
+
+15
+00:02:28,050 --> 00:02:33,640
+<font face="Segoe UI" size="72"><b>Nơi lưng chừng con dốc năm nào chỉ riêng em cất bước...</b></font>
+
+16
+00:02:28,050 --> 00:02:33,640
+<font face="Segoe UI" size="72"><b>{\an8}kimi dake ga sugisatta saka no tochuu wa</b></font>
+
+17
+00:02:33,640 --> 00:02:39,270
+<font face="Segoe UI" size="72"><b>...nay đã đọng lại biết bao vệt nắng ấm áp chan hòa.</b></font>
+
+18
+00:02:33,640 --> 00:02:39,270
+<font face="Segoe UI" size="72"><b>{\an8}atataka na hidamari ga ikutsu mo dekiteta</b></font>
+
+19
+00:02:39,270 --> 00:02:44,490
+<font face="Segoe UI" size="72"><b>Chỉ riêng mình tôi lặng đứng nơi đây,</b></font>
+
+20
+00:02:39,270 --> 00:02:44,490
+<font face="Segoe UI" size="72"><b>{\an8}boku hitori ga koko de yasashii</b></font>
+
+21
+00:02:44,490 --> 00:02:52,160
+<font face="Segoe UI" size="72"><b>khẽ hồi tưởng lại trọn vẹn những ký ức dịu dàng ấm áp.</b></font>
+
+22
+00:02:44,490 --> 00:02:52,160
+<font face="Segoe UI" size="72"><b>{\an8}atatakasa wo omoi kaeshiteru</b></font>
+
+23
+00:02:52,160 --> 00:02:59,830
+<font face="Segoe UI" size="72"><b>Chỉ riêng em... Chỉ duy nhất mình em...</b></font>
+
+24
+00:02:52,160 --> 00:02:59,830
+<font face="Segoe UI" size="72"><b>{\an8}kimi dake wo  kimi dake wo</b></font>
+
+25
+00:02:59,830 --> 00:03:06,060
+<font face="Segoe UI" size="72"><b>...người tôi từng yêu tha thiết trọn một đời.</b></font>
+
+26
+00:02:59,830 --> 00:03:06,060
+<font face="Segoe UI" size="72"><b>{\an8}suki de itayo</b></font>
+
+27
+00:03:06,060 --> 00:03:13,810
+<font face="Segoe UI" size="72"><b>Gió thổi nhòa đi đôi khóe mi cay,</b></font>
+
+28
+00:03:06,060 --> 00:03:13,810
+<font face="Segoe UI" size="72"><b>{\an8}kaze de me ga nijinde</b></font>
+
+29
+00:03:13,810 --> 00:03:20,770
+<font face="Segoe UI" size="72"><b>hình bóng em dần khuất xa nơi phương trời.</b></font>
+
+30
+00:03:13,810 --> 00:03:20,770
+<font face="Segoe UI" size="72"><b>{\an8}tooku naru yo</b></font>
+
+31
+00:03:20,770 --> 00:03:23,070
+<font face="Segoe UI" size="72"><b>Tôi sẽ luôn khắc ghi mãi mãi...</b></font>
+
+32
+00:03:20,770 --> 00:03:23,070
+<font face="Segoe UI" size="72"><b>{\an8}itsumademo oboeteru</b></font>
+
+33
+00:03:22,900 --> 00:03:25,190
+<font face="Segoe UI" size="72"><b>...dù cho vạn vật đổi dời theo năm tháng.</b></font>
+
+34
+00:03:22,900 --> 00:03:25,190
+<font face="Segoe UI" size="72"><b>{\an8}nanimo kamo kawattemo</b></font>
+
+35
+00:03:25,060 --> 00:03:27,400
+<font face="Segoe UI" size="72"><b>Chỉ duy nhất một điều này, duy nhất điều này thôi,</b></font>
+
+36
+00:03:25,060 --> 00:03:27,400
+<font face="Segoe UI" size="72"><b>{\an8}hitotsu dake hitotsu dake</b></font>
+
+37
+00:03:27,180 --> 00:03:29,910
+<font face="Segoe UI" size="72"><b>dẫu chỉ là một thứ quá đỗi bình dị đơn sơ.</b></font>
+
+38
+00:03:27,180 --> 00:03:29,910
+<font face="Segoe UI" size="72"><b>{\an8}arifureta mono dakedo</b></font>
+
+39
+00:03:29,580 --> 00:03:33,870
+<font face="Segoe UI" size="72"><b>Tôi sẽ chỉ cho em thấy, điều duy nhất đong đầy ánh quang rạng ngời ấy.</b></font>
+
+40
+00:03:29,580 --> 00:03:33,870
+<font face="Segoe UI" size="72"><b>{\an8}misete yaru kagayaki ni michita sono hitotsu dake</b></font>
+
+41
+00:03:33,870 --> 00:03:39,120
+<font face="Segoe UI" size="72"><b>Dẫu mãi mãi về sau, mãi mãi ngàn đời sau, tôi vẫn sẽ nguyện một lòng gìn giữ.</b></font>
+
+42
+00:03:33,870 --> 00:03:39,120
+<font face="Segoe UI" size="72"><b>{\an8}itsumademo itsumademo mamotte iku</b></font>
+
+43
+00:03:46,000 --> 00:03:47,920
+<font face="Segoe UI" size="75">Trưa nay mày lại xuống căng tin ăn cơm nữa à?</font>
+
+44
+00:03:48,340 --> 00:03:50,840
+<font face="Segoe UI" size="75">Mày vừa mới mò đến trường đúng không?</font>
+
+45
+00:03:50,840 --> 00:03:51,300
+<font face="Segoe UI" size="75">Ừ.</font>
+
+46
+00:03:51,760 --> 00:03:55,970
+<font face="Segoe UI" size="75">Làm lại cho đàng hoàng coi. Mày làm xáo trộn nhịp điệu của tao rồi đấy.</font>
+
+47
+00:03:59,220 --> 00:04:01,730
+<font face="Segoe UI" size="75">Được rồi. Để tao làm lại từ đầu.</font>
+
+48
+00:04:03,100 --> 00:04:05,020
+<font face="Segoe UI" size="75">Chào buổi sáng nhé, Okazaki.</font>
+
+49
+00:04:05,400 --> 00:04:07,190
+<font face="Segoe UI" size="75">Trưa nay cậu lại xuống căng tin ăn cơm nữa à?</font>
+
+50
+00:04:08,270 --> 00:04:09,820
+<font face="Segoe UI" size="75">Giọng mày nghe thanh lịch sảng khoái gớm nhỉ.</font>
+
+51
+00:04:09,820 --> 00:04:10,480
+<font face="Segoe UI" size="75">Sao cơ?</font>
+
+52
+00:04:11,070 --> 00:04:13,530
+<font face="Segoe UI" size="75">Từ mồm mày thốt ra nghe nó trong trẻo quá mức cần thiết.</font>
+
+53
+00:04:13,530 --> 00:04:15,910
+<font face="Segoe UI" size="75">Mày đổi tính đổi nết làm tao thấy rợn hết cả tóc gáy.</font>
+
+54
+00:04:15,910 --> 00:04:17,320
+<font face="Segoe UI" size="75">Thế giờ mày muốn tao phải làm thế nào hả?!</font>
+
+55
+00:04:17,320 --> 00:04:20,740
+<font face="Segoe UI" size="75">Ở cuối mỗi câu, mày phải luôn đệm thêm cụm từ:
+'và một cái nắp bồn cầu'.</font>
+
+56
+00:04:20,740 --> 00:04:24,210
+<font face="Segoe UI" size="75">Làm thế sẽ triệt tiêu bớt vẻ thanh lịch và giúp mày quay về đúng bản chất con người thật của mình.</font>
+
+57
+00:04:26,790 --> 00:04:27,710
+<font face="Segoe UI" size="75">Được rồi.</font>
+
+58
+00:04:28,040 --> 00:04:31,710
+<font face="Segoe UI" size="75"><font size="60">Tập 2</font></font>
+
+59
+00:04:28,040 --> 00:04:31,710
+<font face="Segoe UI" size="75"><font size="60">Đi tìm mối tình dối lừa</font></font>
+
+60
+00:04:28,420 --> 00:04:30,420
+<font face="Segoe UI" size="75">Hôm nào có hứng thì tao sẽ thử làm theo.</font>
+
+61
+00:04:33,090 --> 00:04:37,220
+<font face="Segoe UI" size="75">Gì cơ? Con bé Mei lại sang nhà Nagisa-chan ở nhờ nữa á?</font>
+
+62
+00:04:37,220 --> 00:04:39,720
+<font face="Segoe UI" size="75">Nhà tớ rất vui khi có em ấy ở lại mà.</font>
+
+63
+00:04:39,720 --> 00:04:42,270
+<font face="Segoe UI" size="75">Bởi vì cả nhà ai cũng quý mến Mei-chan hết.</font>
+
+64
+00:04:43,180 --> 00:04:47,350
+<font face="Segoe UI" size="75">Con bé đã gọi điện xin phép bố mẹ với nhà trường trước rồi.</font>
+
+65
+00:04:47,730 --> 00:04:49,980
+<font face="Segoe UI" size="75">Hình như con bé đang rất lo lắng cho tương lai của mày đấy.</font>
+
+66
+00:04:50,940 --> 00:04:55,820
+<font face="Segoe UI" size="75">Anh hai đã là học sinh năm ba, học kỳ hai cũng bắt đầu rồi,
+thế mà anh ấy vẫn chẳng biết tương lai mình sẽ làm cái gì cả.</font>
+
+67
+00:04:56,410 --> 00:04:59,030
+<font face="Segoe UI" size="75">Em lo lắng đến mức chẳng muốn về nhà luôn.</font>
+
+68
+00:04:59,070 --> 00:05:03,250
+<font face="Segoe UI" size="75">Con bé bảo lát nữa muốn nói chuyện nghiêm túc một buổi với mày đấy.</font>
+
+69
+00:05:03,250 --> 00:05:08,380
+<font face="Segoe UI" size="75">Sunohara-san, cậu có mục tiêu hay điều gì muốn làm không?</font>
+
+70
+00:05:09,420 --> 00:05:11,750
+<font face="Segoe UI" size="75">Tao chưa từng nghĩ tới chuyện đó bao giờ.</font>
+
+71
+00:05:11,750 --> 00:05:16,760
+<font face="Segoe UI" size="75">Không thi đại học được nên tao sẽ đi tìm việc làm thôi.</font>
+
+72
+00:05:19,180 --> 00:05:25,390
+<font face="Segoe UI" size="75">Mà này, nếu tao có một cô bạn gái chín chắn đàng hoàng,
+chắc em gái tao cũng sẽ yên tâm hơn nhiều nhỉ.</font>
+
+73
+00:05:25,980 --> 00:05:27,020
+<font face="Segoe UI" size="75">Chính nó!</font>
+
+74
+00:05:28,690 --> 00:05:34,320
+<font face="Segoe UI" size="75">Nói nôm na là chúng ta sẽ cho con bé thấy mày đã có
+một người bạn gái mà mày nguyện gắn bó cả đời.</font>
+
+75
+00:05:34,320 --> 00:05:36,740
+<font face="Segoe UI" size="75">Làm như vậy chắc chắn Mei-chan sẽ không còn lo lắng nữa.</font>
+
+76
+00:05:36,740 --> 00:05:39,320
+<font face="Segoe UI" size="75">Tớ nghĩ là các cậu không nên nói dối em ấy đâu.</font>
+
+77
+00:05:38,740 --> 00:05:41,200
+<font face="Segoe UI" size="75">{\an8}Liệu làm trò đó có hiệu quả thật không đấy?</font>
+
+78
+00:05:41,200 --> 00:05:45,250
+<font face="Segoe UI" size="75">Nói thật thì nhìn mày cũng đâu đến nỗi xấu trai lắm đâu.</font>
+
+79
+00:05:45,250 --> 00:05:48,870
+<font face="Segoe UI" size="75">Mặt mày búng ra sữa, chuẩn kiểu con trai khơi gợi bản năng làm mẹ của phái nữ.</font>
+
+80
+00:05:48,870 --> 00:05:51,210
+<font face="Segoe UI" size="75">Gương mặt trẻ thơ số một của ngôi trường này.</font>
+
+81
+00:05:51,210 --> 00:05:52,750
+<font face="Segoe UI" size="75">Em bé Sunohara.</font>
+
+82
+00:05:53,300 --> 00:05:54,760
+<font face="Segoe UI" size="75">M-Mày thấy thế thật à?</font>
+
+83
+00:05:55,210 --> 00:06:00,390
+<font face="Segoe UI" size="75">Biết đâu bắt đầu từ bạn gái giả mà mày lại vớ được bạn gái thật luôn thì sao.</font>
+
+84
+00:06:00,970 --> 00:06:02,720
+<font face="Segoe UI" size="75">Ma thuật diệu kỳ của Okazaki đấy à?</font>
+
+85
+00:06:02,720 --> 00:06:04,970
+<font face="Segoe UI" size="75">Tao bắt đầu thấy hừng hực khí thế rồi đấy!</font>
+
+86
+00:06:06,220 --> 00:06:10,190
+<font face="Segoe UI" size="75">Tomoya-kun. Không phải cậu chỉ đang bày trò tiêu khiển mua vui đấy chứ?</font>
+
+87
+00:06:10,190 --> 00:06:12,060
+<font face="Segoe UI" size="75">Đâu có đâu nào.</font>
+
+88
+00:06:12,060 --> 00:06:16,780
+<font face="Segoe UI" size="75">Có cô nàng nào ngoan ngoãn, dễ bảo chịu nghe lời tao không nhỉ?</font>
+
+89
+00:06:16,780 --> 00:06:18,740
+<font face="Segoe UI" size="75">Mày tính toán đê tiện thật đấy.</font>
+
+90
+00:06:18,740 --> 00:06:20,610
+<font face="Segoe UI" size="75">Tao tìm ra ứng cử viên hoàn hảo rồi!</font>
+
+91
+00:06:21,990 --> 00:06:23,080
+<font face="Segoe UI" size="75">Tiến lên thôi!</font>
+
+92
+00:06:23,080 --> 00:06:23,990
+<font face="Segoe UI" size="75">Khoan đã!</font>
+
+93
+00:06:23,990 --> 00:06:25,200
+<font face="Segoe UI" size="75">Mày định nhờ cậu ấy thật đấy à?!</font>
+
+94
+00:06:31,420 --> 00:06:33,750
+<font face="Segoe UI" size="75">Mày làm gì mà phải giật mình hoảng hốt thế.</font>
+
+95
+00:06:33,750 --> 00:06:35,840
+<font face="Segoe UI" size="75">Chỉ là giả vờ thôi mà. Giả vờ một chút thôi.</font>
+
+96
+00:06:35,840 --> 00:06:39,090
+<font face="Segoe UI" size="75">Nếu cậu thấy không tiện thì cứ từ chối nhé.</font>
+
+97
+00:06:39,090 --> 00:06:43,220
+<font face="Segoe UI" size="75">Vì cậu thừa biết tính nết của thằng này như thế nào rồi mà.</font>
+
+98
+00:06:43,930 --> 00:06:45,600
+<font face="Segoe UI" size="75">Tớ không làm được đâu. Bất khả thi lắm ạ.</font>
+
+99
+00:06:45,600 --> 00:06:47,470
+<font face="Segoe UI" size="75">Chuyện đó quá sức đối với tớ rồi.</font>
+
+100
+00:06:48,230 --> 00:06:50,770
+<font face="Segoe UI" size="75">Chỉ mới nghĩ tới thôi mà tớ đã thấy ngượng ngùng muốn chết rồi…</font>
+
+101
+00:06:51,770 --> 00:06:52,900
+<font face="Segoe UI" size="75">Tớ không tài nào làm nổi đâu…</font>
+
+102
+00:06:54,060 --> 00:06:56,400
+<font face="Segoe UI" size="75">Ryou-chan, cậu đừng khóc mà.</font>
+
+103
+00:06:58,860 --> 00:07:02,780
+<font face="Segoe UI" size="75">Nhìn thấy con gái nhà người ta e ấp thế này,
+chẳng phải càng làm mày muốn tiến tới hơn sao?</font>
+
+104
+00:07:03,530 --> 00:07:06,120
+<font face="Segoe UI" size="75">Này. Mày mà còn nói mấy lời xằng bậy đó nữa là…</font>
+
+105
+00:07:16,090 --> 00:07:17,500
+<font face="Segoe UI" size="75">Em có sao không, Ryou?</font>
+
+106
+00:07:17,500 --> 00:07:18,420
+<font face="Segoe UI" size="75">Hắn ta bắt nạt em đúng không?!</font>
+
+107
+00:07:19,170 --> 00:07:20,340
+<font face="Segoe UI" size="75">Em không sao đâu chị.</font>
+
+108
+00:07:20,340 --> 00:07:22,050
+<font face="Segoe UI" size="75">Không có chuyện gì to tát đâu ạ.</font>
+
+109
+00:07:22,050 --> 00:07:25,680
+<font face="Segoe UI" size="75">Hai tên kia! Tụi bây vừa làm gì đứa em gái đáng yêu của bà?!</font>
+
+110
+00:07:26,970 --> 00:07:28,560
+<font face="Segoe UI" size="75">Cậu hiểu lầm rồi, Kyou-chan ơi.</font>
+
+111
+00:07:29,060 --> 00:07:32,690
+<font face="Segoe UI" size="75">Thực ra bọn tớ chỉ đang đi tìm
+bạn gái đóng giả cho Sunohara-san thôi mà.</font>
+
+112
+00:07:32,690 --> 00:07:34,770
+<font face="Segoe UI" size="75">Hay là bọn mình thử nhờ Kyou xem sao?</font>
+
+113
+00:07:35,520 --> 00:07:37,940
+<font face="Segoe UI" size="75">Tao đồ là cậu ấy đời nào chịu đồng ý.</font>
+
+114
+00:07:37,940 --> 00:07:40,490
+<font face="Segoe UI" size="75">Ừ, nhìn cái tính nết của bả mà xem…</font>
+
+115
+00:07:40,490 --> 00:07:45,280
+<font face="Segoe UI" size="75">Vừa hung bạo vừa nóng nảy như lửa, ăn nói thì
+vô lý đùng đùng rồi bóc lột sai vặt tao như nô lệ.</font>
+
+116
+00:07:45,280 --> 00:07:47,780
+<font face="Segoe UI" size="75">Bà đây nghe rõ từng câu từng chữ mày vừa phun ra đấy nhé?</font>
+
+117
+00:07:48,740 --> 00:07:50,750
+<font face="Segoe UI" size="75">Mày có gan thì lặp lại mấy lời đó lần nữa xem nào?</font>
+
+118
+00:07:50,750 --> 00:07:56,130
+<font face="Segoe UI" size="75">Mày mà dám hé răng, bà thò tay vào cổ họng giật đứt dây thanh quản của mày ra làm phần thưởng luôn đấy.</font>
+
+119
+00:07:56,130 --> 00:07:57,460
+<font face="Segoe UI" size="75">T-Tôi xin lỗi bà chị mà.</font>
+
+120
+00:07:58,300 --> 00:07:59,960
+<font face="Segoe UI" size="75">Tôi đã xin lỗi rồi còn gì nữa?!</font>
+
+121
+00:08:01,210 --> 00:08:04,180
+<font face="Segoe UI" size="75">Nhìn cái bản mặt xin lỗi của mày tự dưng làm bà thấy ngứa mắt gai người ghê.</font>
+
+122
+00:08:05,840 --> 00:08:07,260
+<font face="Segoe UI" size="75">Đi thôi, Ryou.</font>
+
+123
+00:08:07,260 --> 00:08:09,180
+<font face="Segoe UI" size="75">Ở lại đây lâu khéo bị lây bệnh thiểu năng của bọn chúng mất.</font>
+
+124
+00:08:09,180 --> 00:08:10,270
+<font face="Segoe UI" size="75">Dạ vâng…</font>
+
+125
+00:08:13,390 --> 00:08:16,730
+<font face="Segoe UI" size="75">Sao cái lũ con trai lúc nào cũng thiếu tế nhị đến thế không biết?</font>
+
+126
+00:08:16,730 --> 00:08:18,230
+<font face="Segoe UI" size="75">Hẹn gặp lại các cậu sau nhé.</font>
+
+127
+00:08:20,980 --> 00:08:24,450
+<font face="Segoe UI" size="75">Sunohara-san, cậu có thực sự ổn không đấy?</font>
+
+128
+00:08:24,450 --> 00:08:30,160
+<font face="Segoe UI" size="75">Yên tâm đi. Thằng này chỉ tỏa sáng rực rỡ nhất khi bị con gái nhà người ta đè đầu cưỡi cổ thôi.</font>
+
+129
+00:08:30,160 --> 00:08:32,160
+<font face="Segoe UI" size="75">Mày đừng có ăn nói gây hiểu lầm tai hại thế chứ!</font>
+
+130
+00:08:32,700 --> 00:08:38,460
+<font face="Segoe UI" size="75">Nhưng cả Fujibayashi lẫn Kyou đều bị loại rồi, còn ai có thể đồng ý nữa đây?</font>
+
+131
+00:08:42,170 --> 00:08:45,300
+<font face="Segoe UI" size="75">Hay là chúng ta thử nhờ Tomoyo-san xem sao?</font>
+
+132
+00:08:45,800 --> 00:08:46,430
+<font face="Segoe UI" size="75">Cậu nói thật đấy à?</font>
+
+133
+00:08:46,430 --> 00:08:49,300
+<font face="Segoe UI" size="75">Em ấy vừa xinh đẹp lại vừa biết quan tâm chăm sóc người khác.</font>
+
+134
+00:08:49,300 --> 00:08:51,260
+<font face="Segoe UI" size="75">Tớ thấy em ấy là một người rất tốt.</font>
+
+135
+00:08:51,260 --> 00:08:53,390
+<font face="Segoe UI" size="75">Thôi tốt nhất là dẹp đi.</font>
+
+136
+00:08:53,390 --> 00:08:54,770
+<font face="Segoe UI" size="75">Nhìn mặt thằng này nhát gan rén đến nơi rồi kìa.</font>
+
+137
+00:08:54,770 --> 00:08:57,850
+<font face="Segoe UI" size="75">Mày đừng có điên! Ai thèm n-nhát gan chứ hả?!</font>
+
+138
+00:08:57,850 --> 00:08:59,270
+<font face="Segoe UI" size="75">Cậu vừa bị lắp bắp chữ 'nhát' kìa.</font>
+
+139
+00:08:59,770 --> 00:09:02,110
+<font face="Segoe UI" size="75">Hít một hơi thật sâu rồi bình tĩnh lại trước đi mày.</font>
+
+140
+00:09:06,240 --> 00:09:07,990
+<font face="Segoe UI" size="75">Được rồi. Bố mày đã sẵn sàng vượt cạn sinh con mẹ tròn con vuông rồi.</font>
+
+141
+00:09:07,990 --> 00:09:10,370
+<font face="Segoe UI" size="75">Sunohara-san, cậu đang hoảng loạn mất kiểm soát rồi đấy.</font>
+
+142
+00:09:10,740 --> 00:09:14,750
+<font face="Segoe UI" size="75">Nghĩ kỹ mà xem, tao với con bé vốn là đối thủ định mệnh truyền kiếp của nhau.</font>
+
+143
+00:09:15,210 --> 00:09:17,870
+<font face="Segoe UI" size="75">Cứ mỗi lần chạm mặt là hai đứa lại lao vào quyết đấu một trận ra trò.</font>
+
+144
+00:09:21,670 --> 00:09:24,840
+<font face="Segoe UI" size="75">Có chuyện gì thế? Trông anh có vẻ phiền muộn, chẳng giống anh chút nào.</font>
+
+145
+00:09:25,720 --> 00:09:27,510
+<font face="Segoe UI" size="75">Chẳng liên quan gì đến cô hết.</font>
+
+146
+00:09:28,590 --> 00:09:30,140
+<font face="Segoe UI" size="75">Chắc là anh nói đúng.</font>
+
+147
+00:09:31,720 --> 00:09:32,470
+<font face="Segoe UI" size="75">Nhưng mà…</font>
+
+148
+00:09:34,720 --> 00:09:38,940
+<font face="Segoe UI" size="75">Tôi không muốn nhìn thấy anh thất bại trước bất kỳ ai ngoài tôi đâu.</font>
+
+149
+00:09:42,940 --> 00:09:48,910
+<font face="Segoe UI" size="75">Sâu thẳm trong lòng, giữa những kẻ công nhận thực lực của nhau luôn có một sự tôn trọng lẫn nhau.</font>
+
+150
+00:09:48,910 --> 00:09:50,160
+<font face="Segoe UI" size="75">Cảm động quá đi mất!</font>
+
+151
+00:09:50,910 --> 00:09:52,700
+<font face="Segoe UI" size="75">Vì thế nên tôi sẽ tiến lên!</font>
+
+152
+00:09:55,700 --> 00:09:58,750
+<font face="Segoe UI" size="75">Vết ố trà thực chất là do chất tannin tạo thành.</font>
+
+153
+00:09:58,750 --> 00:10:02,040
+<font face="Segoe UI" size="75">Người ta thường dùng baking soda để tẩy sạch chúng.</font>
+
+154
+00:10:02,040 --> 00:10:02,960
+<font face="Segoe UI" size="75">Nếu các cậu không có sẵn—</font>
+
+155
+00:10:06,800 --> 00:10:08,760
+<font face="Segoe UI" size="75">Nếu không có sẵn thì dùng giấm ăn cũng hoàn toàn được nhé.</font>
+
+156
+00:10:08,760 --> 00:10:10,720
+<font face="Segoe UI" size="75">Đừng có tảng lờ xem tôi như không khí thế chứ!</font>
+
+157
+00:10:10,720 --> 00:10:13,390
+<font face="Segoe UI" size="75">Sakagami-san, cậu quen biết anh ta à?</font>
+
+158
+00:10:13,390 --> 00:10:16,310
+<font face="Segoe UI" size="75">Tránh xa anh ta ra. Chạm mắt với kẻ đó nguy hiểm lắm.</font>
+
+159
+00:10:17,140 --> 00:10:19,060
+<font face="Segoe UI" size="75">Đừng có nói về tôi như thể tôi là loài thú hoang dã thế chứ!</font>
+
+160
+00:10:19,060 --> 00:10:22,310
+<font face="Segoe UI" size="75">Tomoyo-san ơi. Xin em hãy lắng nghe những gì cậu ấy muốn nói một chút được không?</font>
+
+161
+00:10:22,310 --> 00:10:24,190
+<font face="Segoe UI" size="75">A, Furukawa-san.</font>
+
+162
+00:10:24,190 --> 00:10:26,360
+<font face="Segoe UI" size="75">Trận bóng chày hôm qua vui thật đấy chị nhỉ?</font>
+
+163
+00:10:27,190 --> 00:10:27,990
+<font face="Segoe UI" size="75">Vâng ạ.</font>
+
+164
+00:10:27,990 --> 00:10:30,200
+<font face="Segoe UI" size="75">Hôm qua trông em ngầu lắm luôn ấy.</font>
+
+165
+00:10:31,660 --> 00:10:34,620
+<font face="Segoe UI" size="75">Thực ra đây là lần đầu tiên em gọi chị là Furukawa-san đấy nhỉ?</font>
+
+166
+00:10:35,240 --> 00:10:36,330
+<font face="Segoe UI" size="75">Em gọi như thế có được không ạ?</font>
+
+167
+00:10:36,330 --> 00:10:38,120
+<font face="Segoe UI" size="75">Đương nhiên là được rồi.</font>
+
+168
+00:10:38,120 --> 00:10:39,080
+<font face="Segoe UI" size="75">Chị thấy vui lắm.</font>
+
+169
+00:10:39,080 --> 00:10:41,710
+<font face="Segoe UI" size="75">Hai người đừng có đứng nói chuyện riêng bỏ mặc tôi bơ vơ thế chứ?!</font>
+
+170
+00:10:41,710 --> 00:10:44,130
+<font face="Segoe UI" size="75">Ủa, anh vẫn còn đứng trơ ở đây à?</font>
+
+171
+00:10:44,130 --> 00:10:47,590
+<font face="Segoe UI" size="75">Nó có chuyện muốn nhờ em. Em nghe nó nói một chút được không?</font>
+
+172
+00:10:49,510 --> 00:10:54,220
+<font face="Segoe UI" size="75">Mấy người các anh hay tới nhờ vả em nhiều chuyện thật đấy nhỉ?</font>
+
+173
+00:10:55,810 --> 00:10:58,350
+<font face="Segoe UI" size="75">Hiện giờ tôi đang gặp rắc rối to lắm cô có biết không hả?</font>
+
+174
+00:10:58,350 --> 00:11:01,350
+<font face="Segoe UI" size="75">Em thấy anh lúc nào trông cũng vô tư nhởn nhơ như mọi khi mà.</font>
+
+175
+00:11:02,440 --> 00:11:03,980
+<font face="Segoe UI" size="75">Chuyện đó chẳng liên quan gì đến cô hết.</font>
+
+176
+00:11:03,980 --> 00:11:05,650
+<font face="Segoe UI" size="75">Chuẩn xác. Hẹn gặp lại anh sau.</font>
+
+177
+00:11:05,650 --> 00:11:10,320
+<font face="Segoe UI" size="75">Khoan đã! Lẽ ra cô phải nói câu: 'Tôi không muốn nhìn thấy anh thất bại trước bất kỳ ai ngoài tôi' chứ!</font>
+
+178
+00:11:10,320 --> 00:11:13,030
+<font face="Segoe UI" size="75">Cả đời em chưa từng nghĩ đến việc thốt ra câu đó dẫu chỉ trong nửa giây.</font>
+
+179
+00:11:13,030 --> 00:11:15,370
+<font face="Segoe UI" size="75">Cứ nói đi! Nếu không thì cốt truyện không tiến triển tiếp được đâu!</font>
+
+180
+00:11:17,990 --> 00:11:22,000
+<font face="Segoe UI" size="75">Tôi không muốn nhìn thấy anh thất bại trước bất kỳ ai ngoài tôi.</font>
+
+181
+00:11:22,920 --> 00:11:24,750
+<font face="Segoe UI" size="75">'Thất bại' á? Ai cơ?</font>
+
+182
+00:11:24,750 --> 00:11:25,790
+<font face="Segoe UI" size="75">Hay là chúng ta—</font>
+
+183
+00:11:27,050 --> 00:11:30,050
+<font face="Segoe UI" size="75">Nếu anh ta muốn ăn đòn thì cứ nói toẹt ra ngay từ đầu đi cho rồi.</font>
+
+184
+00:11:30,550 --> 00:11:32,380
+<font face="Segoe UI" size="75">Hẹn gặp lại anh nhé, Okazaki.</font>
+
+185
+00:11:32,880 --> 00:11:33,840
+<font face="Segoe UI" size="75">Cả chị Furukawa-san nữa ạ.</font>
+
+186
+00:11:35,300 --> 00:11:36,970
+<font face="Segoe UI" size="75">Ngầu quá đi mất.</font>
+
+187
+00:11:36,970 --> 00:11:38,680
+<font face="Segoe UI" size="75">Quả không hổ danh là Sakagami-san.</font>
+
+188
+00:11:40,350 --> 00:11:43,810
+<font face="Segoe UI" size="75">Thư viện</font>
+
+189
+00:11:40,350 --> 00:11:43,810
+<font face="Segoe UI" size="75">Thư viện</font>
+
+190
+00:11:40,350 --> 00:11:43,810
+<font face="Segoe UI" size="75">Thư viện</font>
+
+191
+00:11:40,350 --> 00:11:43,810
+<font face="Segoe UI" size="75">Thư viện</font>
+
+192
+00:11:40,350 --> 00:11:43,810
+<font face="Segoe UI" size="75">Thư viện</font>
+
+193
+00:11:40,350 --> 00:11:43,810
+<font face="Segoe UI" size="75">Thư viện</font>
+
+194
+00:11:40,350 --> 00:11:43,810
+<font face="Segoe UI" size="75">Thư viện</font>
+
+195
+00:11:40,350 --> 00:11:43,810
+<font face="Segoe UI" size="75">Thư viện</font>
+
+196
+00:11:40,350 --> 00:11:43,810
+<font face="Segoe UI" size="75">Thư viện</font>
+
+197
+00:11:40,350 --> 00:11:43,810
+<font face="Segoe UI" size="75">Thư viện</font>
+
+198
+00:11:40,350 --> 00:11:43,810
+<font face="Segoe UI" size="75">Thư viện</font>
+
+199
+00:11:40,350 --> 00:11:43,810
+<font face="Segoe UI" size="75">Thư viện</font>
+
+200
+00:11:40,350 --> 00:11:43,810
+<font face="Segoe UI" size="75">Thư viện</font>
+
+201
+00:11:40,350 --> 00:11:43,810
+<font face="Segoe UI" size="75">Thư viện</font>
+
+202
+00:11:40,350 --> 00:11:43,810
+<font face="Segoe UI" size="75">Thư viện</font>
+
+203
+00:11:40,350 --> 00:11:43,810
+<font face="Segoe UI" size="75">Thư viện</font>
+
+204
+00:11:40,350 --> 00:11:43,810
+<font face="Segoe UI" size="75">Thư viện</font>
+
+205
+00:11:40,350 --> 00:11:43,810
+<font face="Segoe UI" size="75">Thư viện</font>
+
+206
+00:11:40,350 --> 00:11:43,810
+<font face="Segoe UI" size="75">Thư viện</font>
+
+207
+00:11:40,350 --> 00:11:43,810
+<font face="Segoe UI" size="75">Thư viện</font>
+
+208
+00:11:40,350 --> 00:11:43,810
+<font face="Segoe UI" size="75">Thư viện</font>
+
+209
+00:11:40,350 --> 00:11:43,810
+<font face="Segoe UI" size="75">Thư viện</font>
+
+210
+00:11:40,350 --> 00:11:43,810
+<font face="Segoe UI" size="75">Thư viện</font>
+
+211
+00:11:40,350 --> 00:11:43,810
+<font face="Segoe UI" size="75">Thư viện</font>
+
+212
+00:11:40,350 --> 00:11:43,810
+<font face="Segoe UI" size="75">Thư viện</font>
+
+213
+00:11:40,350 --> 00:11:43,810
+<font face="Segoe UI" size="75">Thư viện</font>
+
+214
+00:11:40,350 --> 00:11:43,810
+<font face="Segoe UI" size="75">Thư viện</font>
+
+215
+00:11:40,350 --> 00:11:43,810
+<font face="Segoe UI" size="75">Thư viện</font>
+
+216
+00:11:40,350 --> 00:11:43,810
+<font face="Segoe UI" size="75">Thư viện</font>
+
+217
+00:11:40,350 --> 00:11:43,810
+<font face="Segoe UI" size="75">Thư viện</font>
+
+218
+00:11:40,350 --> 00:11:43,810
+<font face="Segoe UI" size="75">Thư viện</font>
+
+219
+00:11:40,350 --> 00:11:43,810
+<font face="Segoe UI" size="75">Thư viện</font>
+
+220
+00:11:40,350 --> 00:11:43,810
+<font face="Segoe UI" size="75">Thư viện</font>
+
+221
+00:11:41,430 --> 00:11:43,810
+<font face="Segoe UI" size="75">Được rồi. Mình sẽ giúp.</font>
+
+222
+00:11:43,810 --> 00:11:44,810
+<font face="Segoe UI" size="75">Thật đấy à?!</font>
+
+223
+00:11:44,810 --> 00:11:46,820
+<font face="Segoe UI" size="75">Kotomi-chan tốt bụng quá đi mất.</font>
+
+224
+00:11:46,820 --> 00:11:50,150
+<font face="Segoe UI" size="75">Mình muốn giúp đỡ bạn bè của mình mà.</font>
+
+225
+00:11:50,150 --> 00:11:52,700
+<font face="Segoe UI" size="75">Hãy nói cho mình biết mình cần phải làm gì đi.</font>
+
+226
+00:11:52,700 --> 00:11:58,620
+<font face="Segoe UI" size="75">Nếu là hẹn hò thì tớ nghĩ hai người sẽ cùng nhau đi chơi và làm đủ thứ trò vui vẻ bên nhau.</font>
+
+227
+00:11:58,620 --> 00:11:59,580
+<font face="Segoe UI" size="75">Đúng thế đấy.</font>
+
+228
+00:11:59,910 --> 00:12:01,080
+<font face="Segoe UI" size="75">Chúng mình nên làm gì bây giờ nhỉ?</font>
+
+229
+00:12:02,040 --> 00:12:03,210
+<font face="Segoe UI" size="75">Thế thì…</font>
+
+230
+00:12:05,710 --> 00:12:08,550
+<font face="Segoe UI" size="75">Nhìn xem mày vừa bắt con người ta làm cái trò gì kìa!</font>
+
+231
+00:12:08,550 --> 00:12:11,380
+<font face="Segoe UI" size="75">Không phải cây đàn vĩ cầm đã được sửa xong rồi sao?!</font>
+
+232
+00:12:11,380 --> 00:12:14,510
+<font face="Segoe UI" size="75">Đúng vậy. Âm thanh nghe hay hơn lúc trước nhiều rồi.</font>
+
+233
+00:12:14,510 --> 00:12:17,010
+<font face="Segoe UI" size="75">Thực ra là nó còn kinh khủng khiếp hơn trước ấy chứ!</font>
+
+234
+00:12:18,810 --> 00:12:20,930
+<font face="Segoe UI" size="75">Sunohara-san, cậu làm thế có thực sự ổn không đấy?</font>
+
+235
+00:12:20,930 --> 00:12:23,810
+<font face="Segoe UI" size="75">Cậu ấy đã đồng ý đóng giả giúp cậu rồi mà.</font>
+
+236
+00:12:24,230 --> 00:12:27,690
+<font face="Segoe UI" size="75">Tao không có đủ thần kinh thép để chịu đựng nổi cái thứ âm thanh tra tấn ấy đâu.</font>
+
+237
+00:12:27,690 --> 00:12:29,150
+<font face="Segoe UI" size="75">Đừng nản lòng bỏ cuộc vội.</font>
+
+238
+00:12:29,150 --> 00:12:31,360
+<font face="Segoe UI" size="75">Chúng ta vẫn còn một tia hy vọng cuối cùng.</font>
+
+239
+00:12:31,860 --> 00:12:33,360
+<font face="Segoe UI" size="75">Miyazawa, em có ở đây không?</font>
+
+240
+00:12:34,530 --> 00:12:37,870
+<font face="Segoe UI" size="75">Okazaki-san, Furukawa-san, Sunohara-san.</font>
+
+241
+00:12:37,870 --> 00:12:38,990
+<font face="Segoe UI" size="75">Lâu rồi không gặp mọi người.</font>
+
+242
+00:12:38,990 --> 00:12:42,410
+<font face="Segoe UI" size="75">Vâng, lâu rồi không gặp em, Miyazawa-san.</font>
+
+243
+00:12:42,410 --> 00:12:44,000
+<font face="Segoe UI" size="75">Yukine-chan đấy à?</font>
+
+244
+00:12:44,000 --> 00:12:47,630
+<font face="Segoe UI" size="75">Trông em có vẻ dễ tính bảo gì làm nấy nhỉ.</font>
+
+245
+00:12:48,840 --> 00:12:51,380
+<font face="Segoe UI" size="75">Mọi người có chuyện gì thế ạ?</font>
+
+246
+00:12:52,380 --> 00:12:54,380
+<font face="Segoe UI" size="75">Đóng giả làm bạn gái sao ạ?</font>
+
+247
+00:12:54,380 --> 00:12:56,430
+<font face="Segoe UI" size="75">Nghe chừng khó khăn ghê.</font>
+
+248
+00:12:56,430 --> 00:12:58,390
+<font face="Segoe UI" size="75">Không hề khó chút nào đâu!</font>
+
+249
+00:12:58,390 --> 00:13:00,890
+<font face="Segoe UI" size="75">Anh sẽ dẫn dắt em chu đáo từ A đến Z luôn.</font>
+
+250
+00:13:00,890 --> 00:13:02,680
+<font face="Segoe UI" size="75">Nên là xin em đấy, được không em?</font>
+
+251
+00:13:03,100 --> 00:13:04,980
+<font face="Segoe UI" size="75">Tao đứng nghe nãy giờ ngứa cả tai rồi đấy…</font>
+
+252
+00:13:06,190 --> 00:13:12,110
+<font face="Segoe UI" size="75">Mày nghĩ mày là cái thớ gì mà dám đòi hỏi cái trò đó ở chị Yuki-nee của bọn tao hả?!</font>
+
+253
+00:13:13,280 --> 00:13:15,200
+<font face="Segoe UI" size="75">'Chị Yuki-nee của bọn tao' á?</font>
+
+254
+00:13:15,200 --> 00:13:16,990
+<font face="Segoe UI" size="75">Miyazawa-san, người này là ai thế ạ?</font>
+
+255
+00:13:16,990 --> 00:13:19,160
+<font face="Segoe UI" size="75">Anh ấy là khách của em ạ.</font>
+
+256
+00:13:19,160 --> 00:13:22,620
+<font face="Segoe UI" size="75">Có chút chuyện rắc rối xảy ra nên anh ấy tạm thời trốn ở đây.</font>
+
+257
+00:13:22,620 --> 00:13:24,160
+<font face="Segoe UI" size="75">Tao nói cho mày biết rõ ràng một điều này nhé!</font>
+
+258
+00:13:24,160 --> 00:13:28,080
+<font face="Segoe UI" size="75">Nếu mày dám gây ra bất kỳ rắc rối nào cho chị Yuki-nee, bọn tao không để mày sống yên đâu.</font>
+
+259
+00:13:28,080 --> 00:13:29,080
+<font face="Segoe UI" size="75">Có nghe rõ chưa hả?!</font>
+
+260
+00:13:33,300 --> 00:13:36,340
+<font face="Segoe UI" size="75">Chết tiệt, đáng lẽ mình không được ló mặt ra ngoài.</font>
+
+261
+00:13:38,430 --> 00:13:41,180
+<font face="Segoe UI" size="75">Chị Yuki-nee, nếu có chuyện gì xảy ra cứ gọi em một tiếng nhé.</font>
+
+262
+00:13:41,180 --> 00:13:42,850
+<font face="Segoe UI" size="75">Em sẽ phóng tới ngay.</font>
+
+263
+00:13:43,520 --> 00:13:45,730
+<font face="Segoe UI" size="75">Anh không nên ra ngoài vào lúc này đâu.</font>
+
+264
+00:13:45,730 --> 00:13:47,020
+<font face="Segoe UI" size="75">Anh phải trốn kỹ vào đi.</font>
+
+265
+00:13:47,020 --> 00:13:49,150
+<font face="Segoe UI" size="75">Em xin lỗi mọi người, em xin phép đi trước nhé.</font>
+
+266
+00:13:53,070 --> 00:13:55,320
+<font face="Segoe UI" size="75">Chuyện ban nãy là sao thế nhỉ?</font>
+
+267
+00:13:55,610 --> 00:13:58,490
+<font face="Segoe UI" size="75">Có vẻ như em ấy cũng có nhiều chuyện phức tạp phải giải quyết.</font>
+
+268
+00:14:02,030 --> 00:14:04,700
+<font face="Segoe UI" size="75">Tớ xin phép về trước nhé.</font>
+
+269
+00:14:04,700 --> 00:14:07,870
+<font face="Segoe UI" size="75">Tớ phải về phụ Mẹ nấu bữa tối nữa.</font>
+
+270
+00:14:07,870 --> 00:14:11,250
+<font face="Segoe UI" size="75">Cố lên nhé, Sunohara-san.</font>
+
+271
+00:14:14,920 --> 00:14:17,630
+<font face="Segoe UI" size="75">Cậu ấy bảo 'cố lên' thì biết làm sao bây giờ…</font>
+
+272
+00:14:18,340 --> 00:14:21,640
+<font face="Segoe UI" size="75">Đi nhờ vả người ta không công thế là không đúng rồi.</font>
+
+273
+00:14:21,640 --> 00:14:23,680
+<font face="Segoe UI" size="75">Phải đưa ra thù lao hậu hĩnh chứ.</font>
+
+274
+00:14:24,510 --> 00:14:25,970
+<font face="Segoe UI" size="75">Tao làm gì có đồng xu cắc bạc nào.</font>
+
+275
+00:14:25,970 --> 00:14:30,900
+<font face="Segoe UI" size="75">Chuyện tiền nong không thành vấn đề, đằng nào mục tiêu của mày là thả thính cưa đổ em ấy mà, đúng không?</font>
+
+276
+00:14:32,190 --> 00:14:33,150
+<font face="Segoe UI" size="75">Đúng thế thật.</font>
+
+277
+00:14:33,150 --> 00:14:35,440
+<font face="Segoe UI" size="75">Trước tiên, mày phải khen ngợi nịnh nọt cô gái đó lên tận mây xanh.</font>
+
+278
+00:14:35,440 --> 00:14:40,490
+<font face="Segoe UI" size="75">Tiếp theo, con gái thời nay rất thích giữ bí mật,
+nên phải cho cô ấy biết mày là người kín miệng tuyệt đối.</font>
+
+279
+00:14:41,200 --> 00:14:45,660
+<font face="Segoe UI" size="75">Cuối cùng, lợi dụng tâm lý đám đông, nhấn mạnh rằng ai ai cũng đang làm chuyện đó hết.</font>
+
+280
+00:14:46,660 --> 00:14:47,790
+<font face="Segoe UI" size="75">Rõ rồi.</font>
+
+281
+00:14:47,790 --> 00:14:48,830
+<font face="Segoe UI" size="75">Tao đi đây.</font>
+
+282
+00:14:48,830 --> 00:14:51,460
+<font face="Segoe UI" size="75">Chào em gái xinh đẹp đằng kia ơi!</font>
+
+283
+00:14:51,460 --> 00:14:52,210
+<font face="Segoe UI" size="75">Gì thế?</font>
+
+284
+00:14:53,080 --> 00:14:54,000
+<font face="Segoe UI" size="75">Hiện giờ em có rảnh rỗi chút thời gian nào không?</font>
+
+285
+00:14:54,000 --> 00:14:56,500
+<font face="Segoe UI" size="75">Em chỉ cần đứng nghe anh nói đôi câu thôi cũng được rồi.</font>
+
+286
+00:14:56,500 --> 00:14:59,840
+<font face="Segoe UI" size="75">Thực ra anh có một công việc làm thêm bán thời gian cực xịn muốn giới thiệu cho em.</font>
+
+287
+00:14:59,840 --> 00:15:02,180
+<font face="Segoe UI" size="75">Tôi đang vội.</font>
+
+288
+00:15:02,680 --> 00:15:04,760
+<font face="Segoe UI" size="75">Anh sẽ không để lộ tên tuổi của em ra ngoài đâu.</font>
+
+289
+00:15:04,760 --> 00:15:07,680
+<font face="Segoe UI" size="75">Và anh cũng sẽ giữ bí mật tuyệt đối với bố mẹ em luôn.</font>
+
+290
+00:15:07,680 --> 00:15:11,100
+<font face="Segoe UI" size="75">Đừng lo. Mọi người ai cũng đang làm việc này hết rồi mà.</font>
+
+291
+00:15:12,350 --> 00:15:15,190
+<font face="Segoe UI" size="75">Nói thế nghe có khác mẹ gì đang đi gạ gẫm dụ dỗ làm chuyện mờ ám phạm pháp không cơ chứ!</font>
+
+292
+00:15:15,770 --> 00:15:16,730
+<font face="Segoe UI" size="75">À ừm…</font>
+
+293
+00:15:18,320 --> 00:15:19,610
+<font face="Segoe UI" size="75">Cô Sanae!</font>
+
+294
+00:15:20,070 --> 00:15:22,860
+<font face="Segoe UI" size="75">Cháu đang gặp rắc rối gì sao?</font>
+
+295
+00:15:24,070 --> 00:15:25,070
+<font face="Segoe UI" size="75">Ôi chao.</font>
+
+296
+00:15:25,070 --> 00:15:28,950
+<font face="Segoe UI" size="75">Nếu là chuyện đó, cháu có thể cho phép cô giúp một tay được không?</font>
+
+297
+00:15:30,790 --> 00:15:33,000
+<font face="Segoe UI" size="75">Cô nói thật đấy ạ, cô Sanae?</font>
+
+298
+00:15:33,000 --> 00:15:36,460
+<font face="Segoe UI" size="75">Đó là vì anh trai của Mei-chan cơ mà.</font>
+
+299
+00:15:36,460 --> 00:15:38,960
+<font face="Segoe UI" size="75">Nếu cô có thể giúp ích được gì thì cô rất sẵn lòng.</font>
+
+300
+00:15:38,960 --> 00:15:41,550
+<font face="Segoe UI" size="75">K-K-Khoan đã nào.</font>
+
+301
+00:15:42,260 --> 00:15:45,720
+<font face="Segoe UI" size="75">Okazaki. Chị ấy là chị gái của Nagisa-chan đúng không mày?</font>
+
+302
+00:15:45,720 --> 00:15:47,060
+<font face="Segoe UI" size="75">Chị gái á?</font>
+
+303
+00:15:47,060 --> 00:15:50,020
+<font face="Segoe UI" size="75">À phải rồi, hôm qua tao có buột miệng nói thế nhỉ.</font>
+
+304
+00:15:50,020 --> 00:15:53,100
+<font face="Segoe UI" size="75">Chết tiệt! Đúng chuẩn chị gái của Nagisa-chan có khác!</font>
+
+305
+00:15:53,100 --> 00:15:55,520
+<font face="Segoe UI" size="75">Nhìn gần trông chị ấy xinh đẹp mlem muốn xỉu luôn trời ơi.</font>
+
+306
+00:15:56,230 --> 00:15:58,650
+<font face="Segoe UI" size="75">Vụ này thú vị đây, cứ để thằng này hiểu lầm tiếp vậy.</font>
+
+307
+00:15:59,650 --> 00:16:01,030
+<font face="Segoe UI" size="75">À ừm…</font>
+
+308
+00:16:01,030 --> 00:16:03,320
+<font face="Segoe UI" size="75">Cô không phù hợp sao cháu?</font>
+
+309
+00:16:03,320 --> 00:16:04,780
+<font face="Segoe UI" size="75">Làm gì có chuyện đó ạ, quá phù hợp luôn ấy chứ!</font>
+
+310
+00:16:04,780 --> 00:16:09,370
+<font face="Segoe UI" size="75">Nhưng nhìn vào chẳng phải lộ liễu quá là bạn gái giả sao cô?</font>
+
+311
+00:16:09,370 --> 00:16:12,460
+<font face="Segoe UI" size="75">Không sao đâu. Cô sẽ cải trang một chút mà.</font>
+
+312
+00:16:13,040 --> 00:16:15,460
+<font face="Segoe UI" size="75">Cô nghiêm túc thật đấy ạ?</font>
+
+313
+00:16:15,460 --> 00:16:18,130
+<font face="Segoe UI" size="75">Vâng. Rất mong được hợp tác cùng cháu nhé.</font>
+
+314
+00:16:18,130 --> 00:16:19,550
+<font face="Segoe UI" size="75">Tuyệt cú mèo!</font>
+
+315
+00:16:19,550 --> 00:16:23,090
+<font face="Segoe UI" size="75">Hú hú hú! Tuyệt vời ông mặt trời!</font>
+
+316
+00:16:23,510 --> 00:16:25,340
+<font face="Segoe UI" size="75">Anh hai có bạn gái thật rồi á?!</font>
+
+317
+00:16:25,890 --> 00:16:28,300
+<font face="Segoe UI" size="75">Một người mà anh đã thề nguyện trao trọn tương lai cả đời này.</font>
+
+318
+00:16:28,300 --> 00:16:30,850
+<font face="Segoe UI" size="75">Cô ấy vô cùng xinh đẹp và chín chắn đàng hoàng.</font>
+
+319
+00:16:32,600 --> 00:16:36,650
+<font face="Segoe UI" size="75">Anh đâu có sống buông thả không định hướng đâu em.</font>
+
+320
+00:16:36,650 --> 00:16:40,270
+<font face="Segoe UI" size="75">Anh đang từng bước vững chắc bước lên những bậc thang của người trưởng thành đấy.</font>
+
+321
+00:16:40,270 --> 00:16:41,780
+<font face="Segoe UI" size="75">Cho em gặp mặt chị ấy đi.</font>
+
+322
+00:16:43,070 --> 00:16:44,950
+<font face="Segoe UI" size="75">Mau giới thiệu chị ấy cho em đi anh.</font>
+
+323
+00:16:45,280 --> 00:16:49,530
+<font face="Segoe UI" size="75">Là em gái của anh, em muốn biết rõ người mà anh định lấy làm vợ là người như thế nào!</font>
+
+324
+00:16:49,530 --> 00:16:53,330
+<font face="Segoe UI" size="75">Được thôi. Để anh hỏi xem lịch trình của cô ấy thế nào đã nhé.</font>
+
+325
+00:17:00,040 --> 00:17:03,880
+<font face="Segoe UI" size="75">Câu lạc bộ Kịch nghệ có nhiều trang phục biểu diễn lắm đúng không cháu?</font>
+
+326
+00:17:03,880 --> 00:17:06,090
+<font face="Segoe UI" size="75">Ngày mốt cô sẽ gặp mặt Mei-chan.</font>
+
+327
+00:17:06,090 --> 00:17:09,010
+<font face="Segoe UI" size="75">Nên ngày mai chúng ta sẽ có một buổi diễn tập thử trước nhé.</font>
+
+328
+00:17:09,010 --> 00:17:10,810
+<font face="Segoe UI" size="75">Được rồi. Cô rất mong chờ đấy.</font>
+
+329
+00:17:11,850 --> 00:17:14,600
+<font face="Segoe UI" size="75">Tớ cứ thấy tâm trạng phức tạp khó tả sao ấy.</font>
+
+330
+00:17:14,600 --> 00:17:18,350
+<font face="Segoe UI" size="75">Mẹ của mình lại đi làm bạn gái của bạn cùng lớp…</font>
+
+331
+00:17:19,440 --> 00:17:20,820
+<font face="Segoe UI" size="75">Cô có thực sự chắc chắn về chuyện này không đấy ạ?</font>
+
+332
+00:17:20,820 --> 00:17:23,990
+<font face="Segoe UI" size="75">Thằng Sunohara đang hưng phấn tột độ lên rồi đấy.</font>
+
+333
+00:17:23,990 --> 00:17:27,320
+<font face="Segoe UI" size="75">Nó cứ đinh ninh cô là chị gái ruột của Nagisa.</font>
+
+334
+00:17:28,240 --> 00:17:29,820
+<font face="Segoe UI" size="75">Chị gái sao?</font>
+
+335
+00:17:30,320 --> 00:17:31,910
+<font face="Segoe UI" size="75">Cô cảm ơn cháu nhiều lắm nhé.</font>
+
+336
+00:17:31,910 --> 00:17:33,830
+<font face="Segoe UI" size="75">Cháu đâu có ý nịnh nọt cô đâu mà…</font>
+
+337
+00:17:33,830 --> 00:17:39,330
+<font face="Segoe UI" size="75">Mẹ không suy nghĩ lại chuyện này thật sao Mẹ?</font>
+
+338
+00:17:42,000 --> 00:17:46,470
+<font face="Segoe UI" size="75">Hình ảnh của Sunohara-san cứ đọng mãi
+trong tâm trí mẹ kể từ sau trận bóng chày hôm nọ.</font>
+
+339
+00:17:47,090 --> 00:17:52,470
+<font face="Segoe UI" size="75">Cậu ấy trông vụng về, hay mắc sai lầm ngớ ngẩn, nhưng mẹ nghĩ cậu ấy thực ra là một người rất tốt bụng.</font>
+
+340
+00:17:53,060 --> 00:17:57,980
+<font face="Segoe UI" size="75">Chỉ cần có một cú hích đúng lúc, mẹ tin cậu ấy có thể bước đi trên một con đường tốt đẹp hơn.</font>
+
+341
+00:17:59,480 --> 00:18:02,730
+<font face="Segoe UI" size="75">Mẹ rất muốn giúp cậu ấy đạt được điều đó.</font>
+
+342
+00:18:02,730 --> 00:18:09,030
+<font face="Segoe UI" size="75">Vâng. Nếu Mẹ đã nghĩ như vậy thì con cũng sẽ giúp một tay ạ.</font>
+
+343
+00:18:09,030 --> 00:18:11,910
+<font face="Segoe UI" size="75">Ừ. Mẹ cảm ơn con gái nhiều nhé.</font>
+
+344
+00:18:11,910 --> 00:18:13,620
+<font face="Segoe UI" size="75">Cháu xin dặn trước một điều này.</font>
+
+345
+00:18:13,620 --> 00:18:15,910
+<font face="Segoe UI" size="75">Chúng ta tuyệt đối phải giấu nhẹm chuyện này không để cho ông già biết.</font>
+
+346
+00:18:15,910 --> 00:18:17,000
+<font face="Segoe UI" size="75">Được chứ ạ?</font>
+
+347
+00:18:17,000 --> 00:18:18,620
+<font face="Segoe UI" size="75">Tại sao thế cậu?</font>
+
+348
+00:18:19,920 --> 00:18:22,420
+<font face="Segoe UI" size="75">Cô Sanae làm thế này là vì lòng tốt muốn giúp đỡ người khác,</font>
+
+349
+00:18:22,420 --> 00:18:27,760
+<font face="Segoe UI" size="75">nhưng với cái tính ghen tuông lồng lộn của ông già,
+kiểu gì bác ấy cũng nổi cơn tam bành băm vằm thằng Sunohara ra làm thịt băm cho coi.</font>
+
+350
+00:18:29,380 --> 00:18:33,180
+<font face="Segoe UI" size="75">Vì sự an nguy tính mạng của thằng Sunohara, bằng mọi giá chúng ta phải giữ kín như bưng.</font>
+
+351
+00:18:38,980 --> 00:18:42,560
+<font face="Segoe UI" size="75">Trông Sunohara-san có vẻ hồi hộp căng thẳng ghê.</font>
+
+352
+00:18:42,560 --> 00:18:44,860
+<font face="Segoe UI" size="75">Nhìn cái điệu bộ của nó làm tao phát cáu lên được.</font>
+
+353
+00:18:45,230 --> 00:18:46,940
+<font face="Segoe UI" size="75">Tại sao thế cậu?</font>
+
+354
+00:18:48,820 --> 00:18:52,950
+<font face="Segoe UI" size="75">Đừng nói là cậu cũng đang phải lòng Mẹ tớ đấy nhé.</font>
+
+355
+00:18:52,950 --> 00:18:55,700
+<font face="Segoe UI" size="75">Con hâm này! Cậu nói nhảm cái gì thế hả?!</font>
+
+356
+00:18:56,990 --> 00:18:57,830
+<font face="Segoe UI" size="75">À ừm…</font>
+
+357
+00:18:57,830 --> 00:18:58,910
+<font face="Segoe UI" size="75">D-Dạ vâng!</font>
+
+358
+00:18:59,210 --> 00:19:05,420
+<font face="Segoe UI" size="75">Đang hẹn hò mà gọi là 'Sunohara-kun' thì nghe kỳ quặc lắm, nên cô sẽ gọi cháu là 'Youhei-kun' nhé.</font>
+
+359
+00:19:05,420 --> 00:19:07,800
+<font face="Segoe UI" size="75">V-V-Vâng ạ?</font>
+
+360
+00:19:08,920 --> 00:19:10,170
+<font face="Segoe UI" size="75">Youhei-kun.</font>
+
+361
+00:19:11,050 --> 00:19:12,930
+<font face="Segoe UI" size="75">Rất mong được cháu chăm sóc chỉ bảo nhé.</font>
+
+362
+00:19:15,720 --> 00:19:18,430
+<font face="Segoe UI" size="75">Chết tiệt! Chị ấy vừa gọi tên mình là 'Youhei-kun' kìa!</font>
+
+363
+00:19:20,230 --> 00:19:22,810
+<font face="Segoe UI" size="75">Chúng mình bắt đầu bằng việc đi dạo sóng đôi bên nhau nhé?</font>
+
+364
+00:19:22,810 --> 00:19:23,860
+<font face="Segoe UI" size="75">V-V-Vâng ạ!</font>
+
+365
+00:19:29,940 --> 00:19:32,240
+<font face="Segoe UI" size="75">Cháu có thể xích lại gần hơn nữa mà.</font>
+
+366
+00:19:32,660 --> 00:19:34,450
+<font face="Segoe UI" size="75">Bởi vì chúng mình đang hẹn hò với nhau mà.</font>
+
+367
+00:19:37,950 --> 00:19:40,580
+<font face="Segoe UI" size="75">Chết tiệt! Mùi hương ngọt ngào ngào ngạt phả vào mũi rồi!</font>
+
+368
+00:19:41,290 --> 00:19:44,500
+<font face="Segoe UI" size="75">Hay là chúng mình nắm tay nhau luôn nhé?</font>
+
+369
+00:19:46,540 --> 00:19:48,800
+<font face="Segoe UI" size="75">Chết tiệt! Bàn tay chị ấy mềm mại mịn màng quá đi mất!</font>
+
+370
+00:19:48,800 --> 00:19:50,550
+<font face="Segoe UI" size="75">Mày đừng có mỗi tí lại chạy sang đây báo cáo với tao có được không hả?!</font>
+
+371
+00:19:53,890 --> 00:19:57,140
+<font face="Segoe UI" size="75">Làm thế này liệu có thực sự giúp nó đi đúng đường ray không đấy trời?</font>
+
+372
+00:19:57,140 --> 00:20:00,060
+<font face="Segoe UI" size="75">Rốt cuộc thì tớ vẫn thấy tâm trạng khó tả kỳ quặc lắm…</font>
+
+373
+00:20:06,270 --> 00:20:07,820
+<font face="Segoe UI" size="75">Và rồi ngày hẹn hò chính thức cũng đã đến.</font>
+
+374
+00:20:09,110 --> 00:20:11,360
+<font face="Segoe UI" size="75">Sunohara-san đã tới đứng đợi từ sớm rồi kìa.</font>
+
+375
+00:20:11,360 --> 00:20:13,910
+<font face="Segoe UI" size="75">Mei-chan, em ra vỗ vai gọi nó từ đằng sau đi.</font>
+
+376
+00:20:14,360 --> 00:20:16,870
+<font face="Segoe UI" size="75">Anh cá là nó sẽ tưởng là bạn gái nó đến rồi giật bắn mình cho coi.</font>
+
+377
+00:20:19,040 --> 00:20:21,500
+<font face="Segoe UI" size="75">Thế thì để em thử một chút xem sao nhé.</font>
+
+378
+00:20:24,960 --> 00:20:26,290
+<font face="Segoe UI" size="75">Anh đợi có lâu không ạ?</font>
+
+379
+00:20:27,250 --> 00:20:30,050
+<font face="Segoe UI" size="75">Không, anh cũng mới vừa tới thôi mà.</font>
+
+380
+00:20:30,050 --> 00:20:30,550
+<font face="Segoe UI" size="75">MEI ĐẤY À?!</font>
+
+381
+00:20:31,670 --> 00:20:34,380
+<font face="Segoe UI" size="75">Sunohara-san, đống vỏ lon vứt la liệt này là sao thế cậu?</font>
+
+382
+00:20:35,550 --> 00:20:36,800
+<font face="Segoe UI" size="75">Đây là một phần trong chiến thuật tác chiến của anh.</font>
+
+383
+00:20:37,140 --> 00:20:39,350
+<font face="Segoe UI" size="75">Lát nữa cô ấy đến đây nhìn thấy cảnh này đúng không?</font>
+
+384
+00:20:39,760 --> 00:20:40,640
+<font face="Segoe UI" size="75">Rồi sau đó…</font>
+
+385
+00:20:41,220 --> 00:20:42,680
+<font face="Segoe UI" size="75">Sunohara-san…</font>
+
+386
+00:20:43,390 --> 00:20:46,650
+<font face="Segoe UI" size="75">Anh đã đứng đây uống nước chờ em lâu đến mức này sao?</font>
+
+387
+00:20:49,650 --> 00:20:51,030
+<font face="Segoe UI" size="75">Mấy đứa đã thấy sự tinh tế sâu sắc chưa?</font>
+
+388
+00:20:51,030 --> 00:20:53,650
+<font face="Segoe UI" size="75">Mày đúng là đê tiện không có điểm dừng.</font>
+
+389
+00:20:53,650 --> 00:20:57,030
+<font face="Segoe UI" size="75">Đây là trò chơi nhân danh tình yêu của cánh đàn ông đích thực đấy.</font>
+
+390
+00:20:57,570 --> 00:21:01,080
+<font face="Segoe UI" size="75">Nói cách khác, đó chính là một trò chơi boy-love.</font>
+
+391
+00:21:01,080 --> 00:21:02,580
+<font face="Segoe UI" size="75">Mày có biết cụm từ đó ám chỉ một thứ hoàn toàn khác không hả?</font>
+
+392
+00:21:03,250 --> 00:21:06,120
+<font face="Segoe UI" size="75">Chết tiệt. Uống nhiều nước quá giờ buồn đi vệ sinh rồi.</font>
+
+393
+00:21:12,510 --> 00:21:15,840
+<font face="Segoe UI" size="75">Bừa bãi ngổn ngang thế này sẽ làm phiền người khác lắm đúng không anh?</font>
+
+394
+00:21:15,840 --> 00:21:17,220
+<font face="Segoe UI" size="75">Ừ.</font>
+
+395
+00:21:17,220 --> 00:21:18,550
+<font face="Segoe UI" size="75">Chúng mình cùng dọn dẹp đi thôi.</font>
+
+396
+00:21:18,550 --> 00:21:19,300
+<font face="Segoe UI" size="75">Vâng ạ.</font>
+
+397
+00:21:23,470 --> 00:21:25,600
+<font face="Segoe UI" size="75">Để cô phụ một tay với nhé.</font>
+
+398
+00:21:26,020 --> 00:21:27,310
+<font face="Segoe UI" size="75">Em cảm ơn chị.</font>
+
+399
+00:21:27,310 --> 00:21:27,810
+<font face="Segoe UI" size="75">Không có chi đâu em.</font>
+
+400
+00:21:36,780 --> 00:21:38,280
+<font face="Segoe UI" size="75">Cảnh tượng này trông cứ…</font>
+
+401
+00:21:38,610 --> 00:21:41,580
+<font face="Segoe UI" size="75">Tomoya-kun, mặt cậu đang đỏ ửng lên đấy à?</font>
+
+402
+00:21:44,410 --> 00:21:45,960
+<font face="Segoe UI" size="75">Đã cả người.</font>
+
+403
+00:21:46,790 --> 00:21:47,710
+<font face="Segoe UI" size="75">Youhei-kun.</font>
+
+404
+00:21:50,380 --> 00:21:52,670
+<font face="Segoe UI" size="75">Anh xin lỗi nhé! Anh có để em phải chờ lâu không?!</font>
+
+405
+00:21:52,670 --> 00:21:55,970
+<font face="Segoe UI" size="75">Anh xin lỗi! Anh xin lỗi! Ngàn lần xin lỗi em!</font>
+
+406
+00:21:53,090 --> 00:21:55,970
+<font face="Segoe UI" size="75">{\an8}Không sao đâu mà. Em cũng vừa mới tới thôi.</font>
+
+407
+00:22:02,760 --> 00:22:05,180
+<font face="Segoe UI" size="75">Người này… chính là bạn gái của anh hai sao?!</font>
+
+408
+00:22:05,810 --> 00:22:09,770
+<font face="Segoe UI" size="75">Còn tiếp</font>
+
+409
+00:22:18,700 --> 00:22:26,200
+<font face="Segoe UI" size="81"><b>Tôi từng ngước nhìn những áng mây trôi,</b></font>
+
+410
+00:22:18,700 --> 00:22:26,200
+<font face="Segoe UI" size="81"><b>{\an8}mitsumete ita nagareru kumo wo</b></font>
+
+411
+00:22:26,200 --> 00:22:33,250
+<font face="Segoe UI" size="81"><b>từng lắng nghe sắc trời đang dần đổi thay.</b></font>
+
+412
+00:22:26,200 --> 00:22:33,250
+<font face="Segoe UI" size="81"><b>{\an8}kanjite ita kawaru sora no iro wo</b></font>
+
+413
+00:22:33,750 --> 00:22:41,300
+<font face="Segoe UI" size="81"><b>Khi dừng bước chân, chúng ta mới chợt nhận ra,</b></font>
+
+414
+00:22:33,750 --> 00:22:41,300
+<font face="Segoe UI" size="81"><b>{\an8}tachi tomatta bokura wa kizuku</b></font>
+
+415
+00:22:41,300 --> 00:22:48,390
+<font face="Segoe UI" size="81"><b>khúc ca thế gian đang dệt nên giữa muôn ngàn sắc màu phai nhạt.</b></font>
+
+416
+00:22:41,300 --> 00:22:48,390
+<font face="Segoe UI" size="81"><b>{\an8}utsuroi yuku sekai ga tsumugu uta ni</b></font>
+
+417
+00:22:48,390 --> 00:22:55,690
+<font face="Segoe UI" size="81"><b>Tựa như đan những ngón tay vươn ra,</b></font>
+
+418
+00:22:48,390 --> 00:22:55,690
+<font face="Segoe UI" size="81"><b>{\an8}nobashita yubi de taguru you ni</b></font>
+
+419
+00:22:55,690 --> 00:23:04,370
+<font face="Segoe UI" size="81"><b>tôi kiếm tìm một điều duy nhất chẳng hề đổi thay.</b></font>
+
+420
+00:22:55,690 --> 00:23:04,370
+<font face="Segoe UI" size="81"><b>{\an8}tada hitotsu kawaranai mono sagasu</b></font>
+
+421
+00:23:04,370 --> 00:23:11,920
+<font face="Segoe UI" size="81"><b>Nguyện thắp lên ngọn lửa trên bàn tay em đang với tới,</b></font>
+
+422
+00:23:04,370 --> 00:23:11,920
+<font face="Segoe UI" size="81"><b>{\an8}kazasu te ni tomoshibi wo</b></font>
+
+423
+00:23:11,920 --> 00:23:19,470
+<font face="Segoe UI" size="81"><b>soi lối cho dấu chân nhỏ bé dẫn tới ngày mai.</b></font>
+
+424
+00:23:11,920 --> 00:23:19,470
+<font face="Segoe UI" size="81"><b>{\an8}asu he to tsuzuku chiisana shirube</b></font>
+
+425
+00:23:19,470 --> 00:23:27,010
+<font face="Segoe UI" size="81"><b>Những lời em từng nói vào ngày hôm ấy...</b></font>
+
+426
+00:23:19,470 --> 00:23:27,010
+<font face="Segoe UI" size="81"><b>{\an8}ima mo mada kodama suru</b></font>
+
+427
+00:23:27,010 --> 00:23:34,520
+<font face="Segoe UI" size="81"><b>...vẫn còn vang vọng mãi, hãy cùng khắc ghi thành lời nguyện thề.</b></font>
+
+428
+00:23:27,010 --> 00:23:34,520
+<font face="Segoe UI" size="81"><b>{\an8}ano hi no kotoba chikai ni kae</b></font>
+
+429
+00:23:34,520 --> 00:23:39,780
+<font face="Segoe UI" size="81"><b>Tôi sẽ bước tiếp cùng lời thề ấy.</b></font>
+
+430
+00:23:34,520 --> 00:23:39,780
+<font face="Segoe UI" size="81"><b>{\an8}boku wa yuku</b></font>
+
+431
+00:23:39,780 --> 00:23:43,740
+<font face="Segoe UI" size="75">Xem trước tập sau</font>
+
+432
+00:23:40,280 --> 00:23:43,280
+<font face="Segoe UI" size="75">Anh cứ tận hưởng khoảng thời gian vui vẻ bên chị ấy đi nhé.</font>
+
+433
+00:23:43,700 --> 00:23:45,450
+<font face="Segoe UI" size="75">Khoan đã nào, Mei.</font>
+
+434
+00:23:45,450 --> 00:23:50,080
+<font face="Segoe UI" size="75">Ừ-Ừm, nhưng anh không thể đi lỡ như chị Sanae-san có gọi thì sao.</font>
+
+435
+00:23:50,080 --> 00:23:52,370
+<font face="Segoe UI" size="75">Nhưng tình yêu là sự lựa chọn tự do của mỗi người mà.</font>
+
+436
+00:23:54,630 --> 00:23:55,750
+<font face="Segoe UI" size="75">Chờ đã…</font>
+
+437
+00:24:05,680 --> 00:24:09,640
+<font face="Segoe UI" size="75">Tập 3</font>
+
+438
+00:24:05,680 --> 00:24:09,640
+<font face="Segoe UI" size="75">Những trái tim lỡ nhịp</font>
+
