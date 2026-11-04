@@ -1,0 +1,471 @@
+[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1920
+PlayResY: 1080
+ScaledBorderAndShadow: yes
+Audio File: I:\Clannad After Story\CLANNAD_AFTER_STORY_3\BDMV\STREAM\11.mp4
+Video File: I:\Clannad After Story\CLANNAD_AFTER_STORY_3\BDMV\STREAM\11_720p_crf16.mkv
+Video Aspect Ratio: 0
+Video Zoom: 8
+Video Position: 28540
+Last Style Storage: Default
+Keyframes File: I:\Clannad After Story\CLANNAD_AFTER_STORY_3\BDMV\STREAM\11.pass
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Alberta,75,&H00FFFFFF,&H00FFFFFF,&H00477650,&H80000000,0,0,0,0,110,100,0,0,1,3.6,2.25,2,96,96,48,0
+Style: Default-alt,Alberta,75,&H00FFFFFF,&H00FFFFFF,&H00596162,&H80000000,0,0,0,0,110,100,0,0,1,3.6,2.25,8,96,96,48,0
+Style: Note,AvantGarde Bk BT Eclipse,54,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3.75,1.5,8,96,96,48,0
+Style: ED Romaji,Segoe Print,81,&H00FFFFFF,&H80FFFFFF,&H80FF0000,&H80000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,8,96,96,36,1
+Style: ED English,Segoe Print,81,&H00FFFFFF,&H80FFFFFF,&H80FF0000,&H80000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,96,96,48,1
+Style: OP Romaji,Monotype Corsiva,72,&H00FFFFFF,&H80FFFFFF,&H80FF5E5B,&H80000000,-1,0,0,0,100,100,0,0,1,3.6,0.9,8,96,96,48,1
+Style: OP English,Monotype Corsiva,72,&H00FFFFFF,&H80FFFFFF,&H80FF5E5B,&H80000000,-1,0,0,0,100,100,0,0,1,3.6,0.9,2,96,96,48,1
+Style: Signs,Briem Script Std Medium,75,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,0,0,2,48,48,48,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.95,0:00:04.15,Default,Nag,0,0,0,,Tomoya-kun.
+Dialogue: 0,0:00:04.15,0:00:05.86,Default,Nag,0,0,0,,It's morning, Tomoya-kun.
+Dialogue: 0,0:00:07.62,0:00:10.12,Default,Nag,0,0,0,,Breakfast is ready, Tomoya-kun.
+Dialogue: 0,0:00:10.62,0:00:12.12,Default,Oka,0,0,0,,Oh, good morning.
+Dialogue: 0,0:00:13.71,0:00:15.12,Default,Oka,0,0,0,,Ow...
+Dialogue: 0,0:00:15.79,0:00:17.13,Default,Oka,0,0,0,,Sorry about this every morning.
+Dialogue: 0,0:00:17.13,0:00:19.34,Default,Nag,0,0,0,,I don't mind at all.
+Dialogue: 0,0:00:19.34,0:00:22.13,Default,Nag,0,0,0,,How about you? Is your body all right?
+Dialogue: 0,0:00:22.13,0:00:26.64,Default,Oka,0,0,0,,No, it's starting to get better,\Nbut it still screams everywhere.
+Dialogue: 0,0:00:26.64,0:00:29.22,Default,Nag,0,0,0,,Please don't overwork yourself.
+Dialogue: 0,0:00:29.22,0:00:29.89,Default,Oka,0,0,0,,Yeah.
+Dialogue: 0,0:00:39.02,0:00:40.52,Default,Oka,0,0,0,,Good morning!
+Dialogue: 0,0:00:41.40,0:00:41.90,Default,Man,0,0,0,,Yo.
+Dialogue: 0,0:00:42.40,0:00:44.11,Default,Yos,0,0,0,,So you're here. Hurry and get changed.
+Dialogue: 0,0:00:44.11,0:00:45.15,Default,Oka,0,0,0,,Yes.
+Dialogue: 0,0:00:48.12,0:00:48.24,Signs,,0,0,0,,{\fnHandwritten Crystal v2\fs63\frz341.343\pos(1273.5,1021.5)\c&H444345&}Okazaki
+Dialogue: 0,0:00:48.24,0:00:48.37,Signs,,0,0,0,,{\fnHandwritten Crystal v2\fs63\frz341.343\c&H444345&\pos(1107,861)}Okazaki
+Dialogue: 0,0:00:48.37,0:00:48.49,Signs,,0,0,0,,{\fnHandwritten Crystal v2\fs63\c&H444345&\frz337.512\pos(952.5,715.5)}Okazaki
+Dialogue: 0,0:00:48.49,0:00:48.62,Signs,,0,0,0,,{\fnHandwritten Crystal v2\fs63\c&H444345&\frz348.094\pos(961.5,724.5)}Okazaki
+Dialogue: 0,0:00:48.62,0:00:48.74,Signs,,0,0,0,,{\fnHandwritten Crystal v2\fs63\c&H444345&\frz354.325\pos(973.5,730.5)}Okazaki
+Dialogue: 0,0:00:48.74,0:00:48.87,Signs,,0,0,0,,{\fnHandwritten Crystal v2\fs63\c&H444345&\frz358.419\pos(985.5,733.5)}Okazaki
+Dialogue: 0,0:00:48.87,0:00:48.99,Signs,,0,0,0,,{\fnHandwritten Crystal v2\fs63\c&H444345&\frz4.868\pos(1005,739.5)}Okazaki
+Dialogue: 0,0:00:48.99,0:00:49.12,Signs,,0,0,0,,{\fnHandwritten Crystal v2\fs63\c&H444345&\frz1.041\pos(966,765)}Okazaki
+Dialogue: 0,0:00:49.12,0:00:49.24,Signs,,0,0,0,,{\fnHandwritten Crystal v2\fs63\c&H444345&\frz355.737\pos(924,786)}Okazaki
+Dialogue: 0,0:00:49.24,0:00:49.37,Signs,,0,0,0,,{\fnHandwritten Crystal v2\fs63\c&H444345&\frz355.737\pos(931.5,786)}Okazaki
+Dialogue: 0,0:00:49.37,0:00:51.24,Signs,,0,0,0,,{\fnHandwritten Crystal v2\fs63\c&H444345&\frz357.109\pos(949.5,795)}Okazaki
+Dialogue: 0,0:00:58.88,0:01:00.84,Default,Yos,0,0,0,,You're not holding the spanner right. {ep 10}
+Dialogue: 0,0:01:00.84,0:01:02.59,Default,Yos,0,0,0,,I showed you how it's done many times. {ep 10}
+Dialogue: 0,0:01:02.59,0:01:03.38,Default,Oka,0,0,0,,I'm sorry. {ep 10}
+Dialogue: 0,0:01:04.26,0:01:06.22,Default,Yos,0,0,0,,You're using too much adhesive.
+Dialogue: 0,0:01:06.22,0:01:08.55,Default,Yos,0,0,0,,And screw them in diagonal order.
+Dialogue: 0,0:01:08.55,0:01:09.22,Default,Yos,0,0,0,,Have you forgotten?
+Dialogue: 0,0:01:09.22,0:01:10.35,Default,Oka,0,0,0,,I'm sorry! {ep 10}
+Dialogue: 0,0:01:10.35,0:01:13.68,Default,Yos,0,0,0,,Concentrate. You'll get hurt if you don't.
+Dialogue: 0,0:01:13.68,0:01:14.10,Default,Oka,0,0,0,,Yes.
+Dialogue: 0,0:01:19.65,0:01:20.81,Default,Oka,0,0,0,,I'm home.
+Dialogue: 0,0:01:21.15,0:01:22.90,Default,Nag,0,0,0,,Welcome back.
+Dialogue: 0,0:01:22.90,0:01:25.86,Default,Nag,0,0,0,,I bought pork so you'll get your energy back.
+Dialogue: 0,0:01:25.86,0:01:27.86,Default,Oka,0,0,0,,Really? Thanks.
+Dialogue: 0,0:01:28.61,0:01:31.37,Default,Nag,0,0,0,,It'll be ready soon, so please sit and rest.
+Dialogue: 0,0:01:32.03,0:01:33.58,Default,Nag,0,0,0,,The bath is ready, too.
+Dialogue: 0,0:01:35.75,0:01:36.37,Default,Oka,0,0,0,,Yeah.
+Dialogue: 0,0:01:38.33,0:01:40.46,Default,TV,0,0,0,,I said that's mine.
+Dialogue: 0,0:01:40.46,0:01:41.34,Default,TV,0,0,0,,No~
+Dialogue: 0,0:01:41.34,0:01:43.17,Default,TV,0,0,0,,If you want it, go buy your own!
+Dialogue: 0,0:01:43.17,0:01:44.34,Default,TV,0,0,0,,All right~
+Dialogue: 0,0:01:44.34,0:01:46.34,Default,Nag,0,0,0,,Are you sleepy, Tomoya-kun?
+Dialogue: 0,0:01:47.55,0:01:49.34,Default,Oka,0,0,0,,No, I'm fine.
+Dialogue: 0,0:01:53.10,0:01:56.18,Default,Oka,0,0,0,,I'm being supported by Nagisa right now.
+Dialogue: 0,0:01:57.10,0:02:01.15,Default,Oka,0,0,0,,Nagisa worries and comes to see me every day.
+Dialogue: 0,0:02:02.11,0:02:05.11,Default,Oka,0,0,0,,That's all it takes me to keep\Nworking hard without giving up.
+Dialogue: 0,0:02:23.04,0:02:28.63,OP Romaji,,0,0,0,,{\be1\fad(250,0)}{\kf24}ki{\kf23}mi {\kf20}da{\kf22}ke {\kf33}ga {\kf32}su{\kf19}gi{\kf27}sa{\kf19}t{\kf39}ta {\kf48}sa{\kf43}ka {\kf42}no {\kf39}to{\kf24}chu{\kf29}u {\kf75}wa
+Dialogue: 0,0:02:23.04,0:02:28.63,OP English,,0,0,0,,{\be1\fad(250,0)}The hill you once walked down...
+Dialogue: 0,0:02:28.63,0:02:34.26,OP Romaji,,0,0,0,,{\be1\fad(0,250)}{\kf25}a{\kf25}ta{\kf21}ta{\kf21}ka {\kf41}na {\kf22}hi{\kf22}da{\kf28}ma{\kf21}ri {\kf38}ga {\kf43}i{\kf42}ku{\kf45}tsu {\kf22}mo {\kf20}de{\kf22}ki{\kf22}te{\kf84}ta
+Dialogue: 0,0:02:28.63,0:02:34.26,OP English,,0,0,0,,{\be1\fad(0,250)}...is now covered with many spots of sunlight.
+Dialogue: 0,0:02:34.26,0:02:39.47,OP Romaji,,0,0,0,,{\be1\fad(250,250)}{\kf27}bo{\kf21}ku {\kf40}hi{\kf45}to{\kf43}ri {\kf85}ga {\kf24}ko{\kf22}ko {\kf43}de {\kf35}ya{\kf41}sa{\kf41}shi{\kf55}i
+Dialogue: 0,0:02:34.26,0:02:39.47,OP English,,0,0,0,,{\be1\fad(250,250)}I'm standing here alone,
+Dialogue: 0,0:02:39.47,0:02:47.15,OP Romaji,,0,0,0,,{\be1\fad(250,0)}{\kf21}a{\kf21}ta{\kf44}ta{\kf35}ka{\kf55}sa {\kf80}wo {\kf19}o{\kf27}mo{\kf44}i {\kf45}ka{\kf34}e{\kf96}shi{\kf24}te{\kf190}ru
+Dialogue: 0,0:02:39.47,0:02:47.15,OP English,,0,0,0,,{\be1\fad(250,0)}remembering all the heart-warming memories.
+Dialogue: 0,0:02:47.15,0:02:54.82,OP Romaji,,0,0,0,,{\be1\fad(0,0)}{\kf45}ki{\kf47}mi {\kf61}da{\kf65}ke {\kf197}wo  {\kf24}ki{\kf65}mi {\kf61}da{\kf26}ke {\kf176}wo
+Dialogue: 0,0:02:47.15,0:02:54.82,OP English,,0,0,0,,{\be1\fad(0,0)}You were the one... You were the one...
+Dialogue: 0,0:02:54.82,0:03:01.03,OP Romaji,,0,0,0,,{\be1\fad(250,250)}{\kf78}su{\kf67}ki {\kf214}de {\kf65}i{\kf65}ta{\kf129}yo
+Dialogue: 0,0:02:54.82,0:03:01.03,OP English,,0,0,0,,{\be1\fad(250,250)}...who I loved.
+Dialogue: 0,0:03:01.03,0:03:08.79,OP Romaji,,0,0,0,,{\be1\fad(250,0)}{\kf44}ka{\kf43}ze {\kf64}de {\kf62}me {\kf211}ga {\kf71}ni{\kf67}ji{\kf26}n{\kf185}de
+Dialogue: 0,0:03:01.03,0:03:08.79,OP English,,0,0,0,,{\be1\fad(250,0)}My eyes start to water from the wind,
+Dialogue: 0,0:03:08.79,0:03:15.76,OP Romaji,,0,0,0,,{\be1\fad(250,0)}{\kf89}to{\kf44}o{\kf201}ku {\kf84}na{\kf59}ru {\kf219}yo
+Dialogue: 0,0:03:08.79,0:03:15.76,OP English,,0,0,0,,{\be1\fad(250,0)}and you become a distant figure.
+Dialogue: 0,0:03:15.76,0:03:18.05,OP Romaji,,0,0,0,,{\be1\fad(0,250)}{\kf14}i{\kf28}tsu{\kf23}ma{\kf21}de{\kf22}mo {\kf14}o{\kf26}bo{\kf25}e{\kf23}te{\kf20}ru
+Dialogue: 0,0:03:15.76,0:03:18.05,OP English,,0,0,0,,{\be1\fad(0,250)}I will always remember...
+Dialogue: 1,0:03:17.89,0:03:20.18,OP Romaji,,0,0,0,,{\be1\fad(250,250)}{\kf22}na{\kf18}ni{\kf21}mo {\kf26}ka{\kf21}mo {\kf27}ka{\kf18}wa{\kf19}t{\kf22}te{\kf19}mo
+Dialogue: 1,0:03:17.89,0:03:20.18,OP English,,0,0,0,,{\be1\fad(250,250)}...no matter the changes.
+Dialogue: 0,0:03:20.05,0:03:22.39,OP Romaji,,0,0,0,,{\be1\fad(250,250)}{\kf19}hi{\kf19}to{\kf26}tsu {\kf20}da{\kf19}ke {\kf23}hi{\kf19}to{\kf24}tsu {\kf23}da{\kf20}ke
+Dialogue: 0,0:03:20.05,0:03:22.39,OP English,,0,0,0,,{\be1\fad(250,250)}Just this one thing, this one thing,
+Dialogue: 1,0:03:22.14,0:03:24.89,OP Romaji,,0,0,0,,{\be1\fad(250,250)}{\kf24}a{\kf23}ri{\kf20}fu{\kf23}re{\kf19}ta {\kf18}mo{\kf21}no {\kf21}da{\kf29}ke{\kf40}do
+Dialogue: 1,0:03:22.14,0:03:24.89,OP English,,0,0,0,,{\be1\fad(250,250)}though it's a plain thing.
+Dialogue: 0,0:03:24.56,0:03:28.85,OP Romaji,,0,0,0,,{\be1\fad(250,0)}{\kf25}mi{\kf18}se{\kf25}te {\kf22}ya{\kf19}ru {\kf18}ka{\kf21}ga{\kf23}ya{\kf23}ki {\kf20}ni {\kf17}mi{\kf26}chi{\kf14}ta {\kf27}so{\kf26}no {\kf15}hi{\kf23}to{\kf28}tsu {\kf22}da{\kf16}ke
+Dialogue: 0,0:03:24.56,0:03:28.85,OP English,,0,0,0,,{\be1\fad(250,0)}I will show it to you, this one thing covered in glory.
+Dialogue: 0,0:03:28.85,0:03:34.11,OP Romaji,,0,0,0,,{\be1\fad(0,500)}{\kf19}i{\kf28}tsu{\kf21}ma{\kf27}de{\kf17}mo {\kf14}i{\kf32}tsu{\kf19}ma{\kf21}de{\kf17}mo {\kf23}ma{\kf23}mo{\kf22}t{\kf16}te {\kf27}i{\kf200}ku
+Dialogue: 0,0:03:28.85,0:03:34.11,OP English,,0,0,0,,{\be1\fad(0,500)}Forever and ever, I shall hold it dear.
+Dialogue: 0,0:03:58.51,0:04:02.18,Signs,,0,0,0,,{\fad(400,0)\fs60\blur2\bord2\pos(960,410.000015)\3c&H4A8A5C&}Episode 11
+Dialogue: 0,0:03:58.51,0:04:02.18,Signs,,0,0,0,,{\fad(400,0)\fs60\blur2\bord2\3c&H4A8A5C&\pos(960,720)}The Promised Founder's Festival
+Dialogue: 0,0:04:05.27,0:04:08.19,Default,Yos,0,0,0,,Why do you do everything the hard way?
+Dialogue: 0,0:04:08.19,0:04:10.03,Default,Oka,0,0,0,,What are you talking about?
+Dialogue: 0,0:04:10.03,0:04:12.44,Default,Yos,0,0,0,,It's easier to use both hands.
+Dialogue: 0,0:04:12.44,0:04:14.66,Default,Yos,0,0,0,,Why don't you use your right hand more?
+Dialogue: 0,0:04:16.11,0:04:19.08,Default,Oka,0,0,0,,No, the way I do it is easier for me.
+Dialogue: 0,0:04:20.54,0:04:23.58,Default,Yos,0,0,0,,Fine. It's not like you're doing things out of order.
+Dialogue: 0,0:04:25.71,0:04:27.58,Default,Girl,0,0,0,,Let's see, I would prefer...
+Dialogue: 0,0:04:34.47,0:04:36.34,Default,Nag,0,0,0,,Tomoya-kun. Tomoya-kun.
+Dialogue: 0,0:04:36.34,0:04:38.89,Default,Oka,0,0,0,,Oh, what is it, Nagisa?
+Dialogue: 0,0:04:38.89,0:04:42.52,Default,Nag,0,0,0,,I've been calling you for a while and you never answered.
+Dialogue: 0,0:04:42.52,0:04:45.10,Default,Oka,0,0,0,,Sorry. I was thinking about work.
+Dialogue: 0,0:04:45.56,0:04:46.65,Default,Nag,0,0,0,,I'm sorry. {ep 10}
+Dialogue: 0,0:04:46.65,0:04:48.90,Default,Oka,0,0,0,,Why are you apologizing? {ep 10}
+Dialogue: 0,0:04:48.90,0:04:54.03,Default,Nag,0,0,0,,You're having tough days at work,\Nyet I'm bombarding you with conversation.
+Dialogue: 0,0:04:54.03,0:04:55.15,Default,Nag,0,0,0,,I'm sorry.
+Dialogue: 0,0:04:55.15,0:04:57.03,Default,Oka,0,0,0,,What are you talking about?!
+Dialogue: 0,0:04:57.03,0:05:01.54,Default,Oka,0,0,0,,Because you talk about lots of stuff, you're giving me a breather.
+Dialogue: 0,0:05:05.25,0:05:09.54,Default,Nag,0,0,0,,Isn't it better for you to tell Yoshino-san that you have a bad right shoulder?
+Dialogue: 0,0:05:09.54,0:05:13.80,Default,Oka,0,0,0,,I can't. They might not let me work.
+Dialogue: 0,0:05:14.13,0:05:15.55,Default,Nag,0,0,0,,You think so?
+Dialogue: 0,0:05:15.55,0:05:19.97,Default,Oka,0,0,0,,Even if Yoshino-san is all right with it,\Nthe manager might not be.
+Dialogue: 0,0:05:20.26,0:05:23.39,Default,Oka,0,0,0,,That place pays pretty well for its size.
+Dialogue: 0,0:05:23.72,0:05:26.02,Default,Oka,0,0,0,,I'll be out on the street the moment I lose my job.
+Dialogue: 0,0:05:26.02,0:05:29.10,Default,Nag,0,0,0,,But please be careful of injuries.
+Dialogue: 0,0:05:29.10,0:05:30.73,Default,Oka,0,0,0,,Yeah, I know.
+Dialogue: 0,0:05:33.78,0:05:35.99,Default,Nag,0,0,0,,Then I'll see you tomorrow.
+Dialogue: 0,0:05:35.99,0:05:36.95,Default,Oka,0,0,0,,Good night.
+Dialogue: 0,0:05:38.66,0:05:39.45,Default,Oka,0,0,0,,What's wrong?
+Dialogue: 0,0:05:39.45,0:05:42.20,Default,Nag,0,0,0,,Tomoya-kun, aren't you lonely?
+Dialogue: 0,0:05:43.33,0:05:47.96,Default,Nag,0,0,0,,After I leave, you're alone in that room.
+Dialogue: 0,0:05:48.50,0:05:52.54,Default,Nag,0,0,0,,When I think of that,\NI'm sometimes on the verge of crying.
+Dialogue: 0,0:05:53.42,0:05:56.47,Default,Oka,0,0,0,,Idiot. What's there to cry about?
+Dialogue: 0,0:05:56.47,0:05:58.18,Default,Nag,0,0,0,,You might be right, but...
+Dialogue: 0,0:05:58.18,0:06:01.47,Default,Oka,0,0,0,,I go to bed as soon as I'm alone,\Nso there's nothing to worry about.
+Dialogue: 0,0:06:01.47,0:06:04.01,Default,Oka,0,0,0,,Don't worry about a thing and go home.
+Dialogue: 0,0:06:04.51,0:06:07.18,Default,Nag,0,0,0,,Okay. Good night.
+Dialogue: 0,0:06:19.24,0:06:20.28,Default,Oka,0,0,0,,What are we doing?
+Dialogue: 0,0:06:20.28,0:06:23.78,Default,Yos,0,0,0,,We need picture proof at the end of construction.
+Dialogue: 0,0:06:24.41,0:06:25.20,Default,Yos,0,0,0,,Hold this.
+Dialogue: 0,0:06:32.71,0:06:34.50,Default,Man,0,0,0,,Good work, Yoshino-san.
+Dialogue: 0,0:06:35.25,0:06:35.80,Default,Man,0,0,0,,Hey.
+Dialogue: 0,0:06:36.67,0:06:38.05,Default,Oka,0,0,0,,Kinoshita-san!
+Dialogue: 0,0:06:38.05,0:06:40.72,Default,Yos,0,0,0,,Kinoshita-san, you know him?
+Dialogue: 0,0:06:40.72,0:06:44.60,Default,Man,0,0,0,,I used to work in the same office as Tomoya-kun's father.
+Dialogue: 0,0:06:44.60,0:06:47.06,Default,Man,0,0,0,,I visited his home several times, too.
+Dialogue: 0,0:06:48.06,0:06:50.02,Default,Man,0,0,0,,You've grown so much.
+Dialogue: 0,0:06:50.02,0:06:54.31,Default,Oka,0,0,0,,I'm surprised to see you in a place like this, too.
+Dialogue: 0,0:06:54.86,0:06:58.19,Default,Man,0,0,0,,Since the last office closed,\NI transferred to the one I'm working in now.
+Dialogue: 0,0:06:58.82,0:07:00.15,Default,Man,0,0,0,,Is your father doing well?
+Dialogue: 0,0:07:00.15,0:07:04.45,Default,Oka,0,0,0,,Actually, I'm living alone now, so I haven't seen him recently.
+Dialogue: 0,0:07:07.20,0:07:10.58,Default,Yos,0,0,0,,We work in various locations, so chance encounters like this happen once in a while.
+Dialogue: 0,0:07:11.50,0:07:13.83,Default,Yos,0,0,0,,It's moments like these that you feel how small the world is.
+Dialogue: 0,0:07:13.83,0:07:17.84,Default,Oka,0,0,0,,To me, it feels like the world just got bigger.
+Dialogue: 0,0:07:19.92,0:07:21.84,Default,Yos,0,0,0,,You're looking at that pretty intently.
+Dialogue: 0,0:07:21.84,0:07:27.10,Default,Oka,0,0,0,,Looking at this makes me think how buildings grow without me knowing.
+Dialogue: 0,0:07:29.72,0:07:31.64,Default,Yos,0,0,0,,Things will change more.
+Dialogue: 0,0:07:32.31,0:07:36.31,Default,Yos,0,0,0,,When a new road opens, new office buildings and shops will stand alongside it.
+Dialogue: 0,0:07:36.94,0:07:39.61,Default,Yos,0,0,0,,A big hospital will be built soon, too.
+Dialogue: 0,0:07:39.61,0:07:41.36,Default,Oka,0,0,0,,Really?
+Dialogue: 0,0:07:41.36,0:07:44.70,Default,Oka,0,0,0,,Though, I might not want to see too many changes too quickly.
+Dialogue: 0,0:07:50.62,0:07:53.08,Default,Oka,0,0,0,,Do you want to go somewhere next Sunday?
+Dialogue: 0,0:07:54.00,0:07:57.54,Default,Nag,0,0,0,,Ah, I'm sorry. There's a mock exam on Sunday. {ep 10}
+Dialogue: 0,0:07:57.54,0:08:00.21,Default,Oka,0,0,0,,Mock exam? I thought you weren't going to college.
+Dialogue: 0,0:08:00.80,0:08:05.22,Default,Nag,0,0,0,,Even so, I want to take the exam like everyone else.
+Dialogue: 0,0:08:05.22,0:08:07.05,Default,Nag,0,0,0,,So, I'm sorry, but...
+Dialogue: 0,0:08:07.68,0:08:08.81,Default,Oka,0,0,0,,I see.
+Dialogue: 0,0:08:09.39,0:08:12.10,Default,Oka,0,0,0,,We're kind of missing each other a lot these days.
+Dialogue: 0,0:08:13.69,0:08:16.61,Default,Oka,0,0,0,,Don't worry about it. Do your best and get a good score.
+Dialogue: 0,0:08:18.65,0:08:19.23,Default,Nag,0,0,0,,I will.
+Dialogue: 0,0:08:21.74,0:08:25.24,Default,Oka,0,0,0,,So why do I have to come with you?
+Dialogue: 0,0:08:25.24,0:08:27.24,Default,Aki,0,0,0,,Don't hate me like that.
+Dialogue: 0,0:08:27.24,0:08:29.08,Default,Aki,0,0,0,,I just happen to have time today, too.
+Dialogue: 0,0:08:29.53,0:08:32.00,Default,Aki,0,0,0,,Let's have some adult entertainment today, shall we?
+Dialogue: 0,0:08:32.00,0:08:33.79,Default,Oka,0,0,0,,Adult entertainment?
+Dialogue: 0,0:08:34.79,0:08:37.75,Default,Aki,0,0,0,,This is the toy store I visit regularly.
+Dialogue: 0,0:08:37.75,0:08:39.04,Default,Oka,0,0,0,,You're a regular?
+Dialogue: 0,0:08:39.04,0:08:40.13,Default,Aki,0,0,0,,'ello!
+Dialogue: 0,0:08:55.39,0:08:57.69,Default,Man,0,0,0,,Stop moving!
+Dialogue: 0,0:09:01.40,0:09:05.15,Default,Man,0,0,0,,Oh, he's got slow reflexes for someone you bring.
+Dialogue: 0,0:09:05.15,0:09:07.95,Default,Aki,0,0,0,,He's an amateur, so give him a break.
+Dialogue: 0,0:09:07.95,0:09:09.95,Default,Oka,0,0,0,,There are pros at this thing?!
+Dialogue: 0,0:09:09.95,0:09:12.95,Default,Aki,0,0,0,,We'll call it draw for today.
+Dialogue: 0,0:09:12.95,0:09:18.92,Default,Aki,0,0,0,,So that makes it 123 wins,\N171 losses, and 32 draws for me.
+Dialogue: 0,0:09:19.29,0:09:21.46,Default,Oka,0,0,0,,This is your idea of adult entertainment?
+Dialogue: 0,0:09:21.46,0:09:23.21,Default,Aki,0,0,0,,The real thing starts here.
+Dialogue: 0,0:09:23.21,0:09:25.67,Default,Aki,0,0,0,,Hey. Is it ready?
+Dialogue: 0,0:09:26.17,0:09:28.18,Default,Man,0,0,0,,You bet.
+Dialogue: 0,0:09:29.09,0:09:29.93,Default,Aki,0,0,0,,Open it.
+Dialogue: 0,0:09:31.81,0:09:33.22,Default,Oka,0,0,0,,What is this?
+Dialogue: 0,0:09:33.22,0:09:35.85,Default,Man,0,0,0,,A Bengal Giant Lizard, Mr. Lizard.
+Dialogue: 0,0:09:35.85,0:09:37.39,Default,Oka,0,0,0,,How very literal.
+Dialogue: 0,0:09:37.39,0:09:40.65,Default,Aki,0,0,0,,We'll slip this down Sanae's back and surprise her!
+Dialogue: 0,0:09:41.98,0:09:44.69,Default,Aki,0,0,0,,Just thinking about it makes my heart sing.
+Dialogue: 0,0:09:44.69,0:09:45.94,Default,Oka,0,0,0,,No way.
+Dialogue: 0,0:09:45.94,0:09:49.16,Default,Oka,0,0,0,,Don't you feel bad for Sanae-san? You should stop it.
+Dialogue: 0,0:09:49.16,0:09:54.79,Default,Aki,0,0,0,,Don't worry. It's stimulus that keeps the relationship between husband and wife fresh.
+Dialogue: 0,0:09:54.79,0:09:56.50,Default,Aki,0,0,0,,You should remember it.
+Dialogue: 0,0:09:56.50,0:09:58.33,Default,Oka,0,0,0,,Is it really something like that?
+Dialogue: 0,0:09:58.67,0:10:01.04,Default,San,0,0,0,,It's been a while, Tomoya-san.
+Dialogue: 0,0:10:01.04,0:10:02.67,Default,Oka,0,0,0,,Yes, hello.
+Dialogue: 0,0:10:03.46,0:10:07.01,Default,Aki,0,0,0,,By the way, Sanae, what was\Nyour least favorite animal again?
+Dialogue: 0,0:10:07.01,0:10:09.47,Default,San,0,0,0,,The Bengal Giant Lizard.
+Dialogue: 0,0:10:09.47,0:10:10.09,Default,Oka,0,0,0,,So specific!
+Dialogue: 0,0:10:10.09,0:10:12.05,Default,Aki,0,0,0,,Yeah, right?
+Dialogue: 0,0:10:12.47,0:10:15.22,Default,Aki,0,0,0,,Look! There's a Bengal Giant Lizard!
+Dialogue: 0,0:10:15.22,0:10:16.68,Default,San,0,0,0,,Wh-Where?
+Dialogue: 0,0:10:16.68,0:10:17.98,Default,Aki,0,0,0,,Look, it's gone over there!
+Dialogue: 0,0:10:19.89,0:10:21.23,Default,Oka,0,0,0,,I'm sorry, Sanae-san.
+Dialogue: 0,0:10:22.61,0:10:26.23,Default,Oka,0,0,0,,Oh no! It went down your back!
+Dialogue: 0,0:10:27.65,0:10:29.95,Default,San,0,0,0,,No!!!
+Dialogue: 0,0:10:29.95,0:10:32.78,Default,San,0,0,0,,Someone get it out please!
+Dialogue: 0,0:10:32.16,0:10:35.20,Default-alt,Aki,0,0,0,,Crap. That's more than a little stimulus.
+Dialogue: 0,0:10:35.20,0:10:36.79,Default,Oka,0,0,0,,What are you going to do about it?!
+Dialogue: 0,0:10:36.79,0:10:39.71,Default,Aki,0,0,0,,Sanae! I didn't do it!
+Dialogue: 0,0:10:39.71,0:10:40.58,Default,Oka,0,0,0,,You cheap bastard!
+Dialogue: 0,0:10:41.17,0:10:43.96,Default,Iso,0,0,0,,Wow, they're running faster than usual.
+Dialogue: 0,0:10:43.96,0:10:46.42,Default,Oka,0,0,0,,Isogai-san. I'm sorry about the noise.
+Dialogue: 0,0:10:46.42,0:10:52.55,Default,Iso,0,0,0,,It's all right. Everyone around here says\Nevery day is entertaining thanks to those two.
+Dialogue: 0,0:10:53.14,0:10:54.55,Default,Oka,0,0,0,,Really?
+Dialogue: 0,0:10:54.55,0:10:56.97,Default,San,0,0,0,,Someone please get it out!
+Dialogue: 0,0:10:55.76,0:10:57.47,Default-alt,Aki,0,0,0,,Wait, Sanae!
+Dialogue: 0,0:10:58.93,0:11:00.60,Default,Oka,0,0,0,,Sorry, I need to get going.
+Dialogue: 0,0:11:00.60,0:11:04.23,Default,Iso,0,0,0,,Sure. Don't worry, I'll mind the store for you.
+Dialogue: 0,0:11:04.23,0:11:05.23,Default,Oka,0,0,0,,I'm sorry about this.
+Dialogue: 0,0:11:07.98,0:11:09.99,Default,Nag,0,0,0,,I was really surprised today.
+Dialogue: 0,0:11:09.99,0:11:14.12,Default,Nag,0,0,0,,When I got home, Dad, Mom, and you were all running.
+Dialogue: 0,0:11:14.12,0:11:16.49,Default,Oka,0,0,0,,Sanae-san probably hates me now.
+Dialogue: 0,0:11:16.49,0:11:18.66,Default,Nag,0,0,0,,I'm sure not.
+Dialogue: 0,0:11:18.66,0:11:22.79,Default,Nag,0,0,0,,You get along very well with both Dad and Mom.
+Dialogue: 0,0:11:22.79,0:11:26.50,Default,Oka,0,0,0,,But I dropped the Bengal Giant Lizard down her back.
+Dialogue: 0,0:11:27.13,0:11:31.93,Default,Nag,0,0,0,,No one has ever run with Dad and Mom before.
+Dialogue: 0,0:11:31.93,0:11:36.26,Default,Nag,0,0,0,,So I think you really bonded with them today.
+Dialogue: 0,0:11:36.26,0:11:38.01,Default,Oka,0,0,0,,You think so?
+Dialogue: 0,0:11:38.01,0:11:44.94,Default,Nag,0,0,0,,By the way, Tomoya-kun. Do you know what happens two Sundays from today?
+Dialogue: 0,0:11:44.94,0:11:46.31,Default,Oka,0,0,0,,Two Sundays from today?
+Dialogue: 0,0:11:46.31,0:11:49.28,Default,Oka,0,0,0,,Your birthday is December, so...
+Dialogue: 0,0:11:49.69,0:11:51.40,Default,Nag,0,0,0,,It's the Founders Festival.
+Dialogue: 0,0:11:51.86,0:11:57.99,Default,Nag,0,0,0,,The Theater Club is gone, but I want to have lots of fun.
+Dialogue: 0,0:11:57.99,0:11:59.99,Default,Nag,0,0,0,,So if it's all right...
+Dialogue: 0,0:12:02.79,0:12:05.04,Default,Oka,0,0,0,,Sure. Let's go together.
+Dialogue: 0,0:12:06.21,0:12:06.92,Default,Nag,0,0,0,,Yes!
+Dialogue: 0,0:12:17.64,0:12:19.26,Default,Man,0,0,0,,Today was a rough day.
+Dialogue: 0,0:12:19.26,0:12:23.35,Default,Man,0,0,0,,But I like since we get overtime. {Foreigner speaking non-fluent JP}
+Dialogue: 0,0:12:23.35,0:12:24.60,Default,Man,0,0,0,,Hey, good work.
+Dialogue: 0,0:12:25.81,0:12:26.98,Default,Yos,0,0,0,,Organizing the stubs?
+Dialogue: 0,0:12:27.44,0:12:29.73,Default,Man,0,0,0,,I'm having him help me a little.
+Dialogue: 0,0:12:29.73,0:12:31.99,Default,Man,0,0,0,,I can't make much progress alone.
+Dialogue: 0,0:12:35.41,0:12:37.07,Default,Yos,0,0,0,,Impressive.
+Dialogue: 0,0:12:37.07,0:12:39.70,Default,Oka,0,0,0,,I'm only organizing them by date.
+Dialogue: 0,0:12:39.70,0:12:41.24,Default,Yos,0,0,0,,Even so.
+Dialogue: 0,0:12:41.24,0:12:42.83,Default,Yos,0,0,0,,I'd snap in five minutes.
+Dialogue: 0,0:12:42.83,0:12:45.42,Default,Man,0,0,0,,You want me to help you with this pile?
+Dialogue: 0,0:12:45.42,0:12:47.58,Default,Oka,0,0,0,,No, that's the finished pile.
+Dialogue: 0,0:12:47.58,0:12:51.67,Default,Man,0,0,0,,Forget it. You'll ruin it if you touch it.
+Dialogue: 0,0:12:51.67,0:12:56.55,Default,Man,0,0,0,,Hey, I was working as an accountant before I got laid off from my old job.
+Dialogue: 0,0:12:56.55,0:12:59.76,Default,Man,0,0,0,,No good to take rookie's job, Mister. {foreigner}
+Dialogue: 0,0:13:00.93,0:13:04.27,Default,Oka,0,0,0,,I'll be done soon, so please head home.
+Dialogue: 0,0:13:05.85,0:13:08.02,Default,Yos,0,0,0,,If you say so. See you.
+Dialogue: 0,0:13:08.02,0:13:09.73,Default,Oka,0,0,0,,Yes. I'll see you tomorrow.
+Dialogue: 0,0:13:09.73,0:13:10.57,Default,Man,0,0,0,,See you.
+Dialogue: 0,0:13:10.57,0:13:11.32,Default,Man,0,0,0,,See you.
+Dialogue: 0,0:13:11.32,0:13:12.61,Default,Man,0,0,0,,See you, Manager.
+Dialogue: 0,0:13:12.61,0:13:14.11,Default,Man,0,0,0,,See you.
+Dialogue: 0,0:13:16.24,0:13:18.57,Default,Man,0,0,0,,It's a great help to have you come.
+Dialogue: 0,0:13:19.12,0:13:23.24,Default,Man,0,0,0,,We were short on people despite\Nexpectations of getting a big job soon.
+Dialogue: 0,0:13:23.24,0:13:25.54,Default,Oka,0,0,0,,I can't do anything yet.
+Dialogue: 0,0:13:25.54,0:13:27.21,Default,Man,0,0,0,,That's not true.
+Dialogue: 0,0:13:27.21,0:13:29.92,Default,Man,0,0,0,,I hear he makes you do many tasks alone.
+Dialogue: 0,0:13:30.54,0:13:34.09,Default,Man,0,0,0,,You'll probably end up coming on weekends more frequently, but keep it up.
+Dialogue: 0,0:13:36.34,0:13:40.51,Default,Nag,0,0,0,,Founders. Founders. Next weekend is the~
+Dialogue: 0,0:13:40.51,0:13:42.85,Default,Nag,0,0,0,,~Founders Festival~
+Dialogue: 0,0:13:45.77,0:13:46.56,Default,Oka,0,0,0,,Nagisa.
+Dialogue: 0,0:13:46.56,0:13:48.19,Default,Nag,0,0,0,,Yes, what is it?
+Dialogue: 0,0:13:50.02,0:13:52.44,Default,Oka,0,0,0,,Apparently things will get busy from now on.
+Dialogue: 0,0:13:55.07,0:13:58.70,Default,Oka,0,0,0,,I might not be able to go to the Founders Festival.
+Dialogue: 0,0:14:01.20,0:14:04.95,Default,Oka,0,0,0,,Sorry, when we're already losing our time together. {ep 10}
+Dialogue: 0,0:14:07.46,0:14:09.46,Default,Nag,0,0,0,,Please don't worry.
+Dialogue: 0,0:14:09.46,0:14:12.71,Default,Nag,0,0,0,,I think it's great for work to be busy.
+Dialogue: 0,0:14:13.25,0:14:14.34,Default,Oka,0,0,0,,Nagisa.
+Dialogue: 0,0:14:14.71,0:14:20.30,Default,Nag,0,0,0,,It's a bit of a shame, but I'm happy that you're working so hard.
+Dialogue: 0,0:14:21.18,0:14:21.97,Default,Oka,0,0,0,,I'm sorry.
+Dialogue: 0,0:14:28.77,0:14:30.35,Default,Yos,0,0,0,,Give me the cutters.
+Dialogue: 0,0:14:30.35,0:14:31.27,Default,Oka,0,0,0,,Coming.
+Dialogue: 0,0:14:33.90,0:14:37.90,Default,Yos,0,0,0,,Also, give me 210 mm of Sanshin's VVF cable.
+Dialogue: 0,0:14:38.19,0:14:39.82,Default,Yos,0,0,0,,Have the two ends stripped.
+Dialogue: 0,0:14:39.82,0:14:41.45,Default,Oka,0,0,0,,How much do you want it stripped?
+Dialogue: 0,0:14:41.82,0:14:44.16,Default,Oka,0,0,0,,I'll strip 2cm if it's thick.
+Dialogue: 0,0:14:44.16,0:14:46.58,Default,Yos,0,0,0,,Strip 4cm and it'll be multipurpose.
+Dialogue: 0,0:14:46.58,0:14:47.66,Default,Yos,0,0,0,,Make a note of that.
+Dialogue: 0,0:14:48.00,0:14:49.21,Default,Oka,0,0,0,,Oh, that's true.
+Dialogue: 0,0:14:49.21,0:14:50.04,Default,Oka,0,0,0,,Roger that.
+Dialogue: 0,0:14:50.71,0:14:53.21,Default,Yos,0,0,0,,Have a 38 wrapper ready.
+Dialogue: 0,0:14:53.21,0:14:54.79,Default,Oka,0,0,0,,Protective tubing, right?
+Dialogue: 0,0:14:54.79,0:14:56.80,Default,Oka,0,0,0,,Standard or extra?
+Dialogue: 0,0:14:56.80,0:14:58.67,Default,Yos,0,0,0,,Let's go with extra just in case.
+Dialogue: 0,0:14:59.59,0:15:00.97,Default,Yos,0,0,0,,We don't want to see it catch fire later.
+Dialogue: 0,0:15:06.14,0:15:07.52,Default,Yos,0,0,0,,Finish this up.
+Dialogue: 0,0:15:08.06,0:15:09.77,Default,Yos,0,0,0,,I'll go check the next one.
+Dialogue: 0,0:15:09.77,0:15:10.77,Default,Oka,0,0,0,,Okay.
+Dialogue: 0,0:15:11.98,0:15:13.31,Default,Yos,0,0,0,,Don't rush, and do it neatly.
+Dialogue: 0,0:15:13.73,0:15:15.11,Default,Yos,0,0,0,,I'll come back when I'm done.
+Dialogue: 0,0:15:15.40,0:15:16.11,Default,Oka,0,0,0,,Okay.
+Dialogue: 0,0:15:30.04,0:15:34.54,Default,Oka,0,0,0,,Yes. So I'd like a day off tomorrow if possible.
+Dialogue: 0,0:15:34.92,0:15:39.05,Default,Yos,0,0,0,,I see. Don't worry. We don't have to give up our weekend tomorrow.
+Dialogue: 0,0:15:39.05,0:15:40.05,Default,Oka,0,0,0,,Really?!
+Dialogue: 0,0:15:40.67,0:15:42.43,Default,Yos,0,0,0,,How's your right shoulder doing?
+Dialogue: 0,0:15:44.47,0:15:46.01,Default,Yos,0,0,0,,You can't lift your arm, right?
+Dialogue: 0,0:15:46.55,0:15:47.81,Default,Yos,0,0,0,,I can tell just by looking.
+Dialogue: 0,0:15:49.27,0:15:50.81,Default,Oka,0,0,0,,So you noticed.
+Dialogue: 0,0:15:51.23,0:15:53.19,Default,Oka,0,0,0,,Then why didn't you say anything?
+Dialogue: 0,0:15:53.77,0:15:56.02,Default,Yos,0,0,0,,What will happen if I say something?
+Dialogue: 0,0:15:56.02,0:15:58.15,Default,Yos,0,0,0,,You're not doing any procedures wrong.
+Dialogue: 0,0:15:58.82,0:16:01.28,Default,Yos,0,0,0,,You were trying to overcome your handicap.
+Dialogue: 0,0:16:01.69,0:16:02.45,Default,Yos,0,0,0,,Trying very hard to.
+Dialogue: 0,0:16:04.28,0:16:07.58,Default,Yos,0,0,0,,But difficult work will be coming in from now on.
+Dialogue: 0,0:16:07.91,0:16:10.04,Default,Yos,0,0,0,,If you think it's too much, then don't do it.
+Dialogue: 0,0:16:10.04,0:16:11.66,Default,Yos,0,0,0,,I'll cover you in those situations.
+Dialogue: 0,0:16:12.25,0:16:15.50,Default,Oka,0,0,0,,Is that all right? Won't that only trouble you?
+Dialogue: 0,0:16:15.88,0:16:18.00,Default,Yos,0,0,0,,What can't be done will be covered by others.
+Dialogue: 0,0:16:18.00,0:16:19.67,Default,Yos,0,0,0,,That's what work is about.
+Dialogue: 0,0:16:20.13,0:16:22.92,Default,Yos,0,0,0,,I'll have you do things I can't do.
+Dialogue: 0,0:16:23.38,0:16:24.59,Default,Yos,0,0,0,,That's the way it goes.
+Dialogue: 0,0:16:26.59,0:16:31.93,Default,Yos,0,0,0,,Basically, make sure you don't screw anything up and worry your girl.
+Dialogue: 0,0:16:36.85,0:16:38.65,Default,Oka,0,0,0,,Thank you very much.
+Dialogue: 0,0:16:45.49,0:16:49.28,Default,Man,0,0,0,,Man, everyone went home.
+Dialogue: 0,0:16:49.28,0:16:50.54,Default,Oka,0,0,0,,What's the matter?
+Dialogue: 0,0:16:50.91,0:16:54.96,Default,Man,0,0,0,,A job got slipped out of the pile by mistake.
+Dialogue: 0,0:16:54.96,0:16:55.96,Default,Man,0,0,0,,It's this.
+Dialogue: 0,0:16:55.96,0:16:57.50,Default,Man,0,0,0,,Do you think you can do it?
+Dialogue: 0,0:16:59.46,0:17:00.88,Default,Oka,0,0,0,,If it's this, I can.
+Dialogue: 0,0:17:00.88,0:17:02.59,Default,Oka,0,0,0,,It's the same thing I always do.
+Dialogue: 0,0:17:02.59,0:17:07.14,Default,Man,0,0,0,,Really? Then sorry, but can you go do it now?
+Dialogue: 0,0:17:07.14,0:17:08.68,Default,Oka,0,0,0,,By myself?
+Dialogue: 0,0:17:08.68,0:17:11.39,Default,Man,0,0,0,,I've got other things to do and can't go.
+Dialogue: 0,0:17:11.39,0:17:13.27,Default,Man,0,0,0,,I'll give you a ride to the place, so please.
+Dialogue: 0,0:17:13.27,0:17:14.98,Default,Man,0,0,0,,I'll come pick you up later, too.
+Dialogue: 0,0:17:15.77,0:17:16.60,Default,Oka,0,0,0,,Okay.
+Dialogue: 0,0:17:31.83,0:17:32.91,Default,Oka,0,0,0,,Yoshino-san.
+Dialogue: 0,0:17:32.91,0:17:36.87,Default,Yos,0,0,0,,Manager gave me a call, so I ran back to the office.
+Dialogue: 0,0:17:37.50,0:17:39.17,Default,Yos,0,0,0,,Did you manage it alone?
+Dialogue: 0,0:17:40.13,0:17:41.84,Default,Oka,0,0,0,,Yes, I think.
+Dialogue: 0,0:17:44.13,0:17:45.97,Default,Yos,0,0,0,,Have you checked the junctions? {ep 10}
+Dialogue: 0,0:17:45.97,0:17:49.05,Default,Oka,0,0,0,,Yes. At each circuit and the entire thing at the end.
+Dialogue: 0,0:17:49.05,0:17:50.85,Default,Yos,0,0,0,,Did you strip the insulation?
+Dialogue: 0,0:17:50.85,0:17:53.43,Default,Oka,0,0,0,,Yes. And I measured them, too.
+Dialogue: 0,0:17:59.19,0:18:00.06,Default,Yos,0,0,0,,Good work.
+Dialogue: 0,0:18:00.06,0:18:01.61,Default,Yos,0,0,0,,It's late already, so let's go back.
+Dialogue: 0,0:18:02.65,0:18:03.40,Default,Oka,0,0,0,,Yes!
+Dialogue: 0,0:18:07.70,0:18:10.36,Default,Nag,0,0,0,,I'll be at school.
+Dialogue: 0,0:18:10.70,0:18:13.62,Default,Oka,0,0,0,,Yeah. We'll meet at the gate later.
+Dialogue: 0,0:18:14.20,0:18:14.87,Default,Nag,0,0,0,,Yes.
+Dialogue: 0,0:18:25.09,0:18:25.88,Default,Oka,0,0,0,,Hello.
+Dialogue: 0,0:18:26.46,0:18:30.26,Default,Man,0,0,0,,Okazaki-kun. Do you know what happened on-site yesterday?
+Dialogue: 0,0:18:32.47,0:18:38.35,Default,Man,0,0,0,,Yoshino just called in and said he noticed a mistake, so he'd go fix it.
+Dialogue: 0,0:18:39.02,0:18:41.73,Default,Man,0,0,0,,He won't tell me even when I asked him to explain.
+Dialogue: 0,0:18:41.73,0:18:44.48,Default,Man,0,0,0,,So I thought you might know something.
+Dialogue: 0,0:18:47.40,0:18:48.44,Default,Oka,0,0,0,,Yoshino-san!
+Dialogue: 0,0:18:49.36,0:18:50.99,Default,Yos,0,0,0,,Okazaki! What are you doing here?!
+Dialogue: 0,0:18:51.57,0:18:52.74,Default,Oka,0,0,0,,"What"?
+Dialogue: 0,0:18:53.53,0:18:54.70,Default,Oka,0,0,0,,I'm sorry!
+Dialogue: 0,0:18:56.87,0:18:58.91,Default,Oka,0,0,0,,If I had done it properly...
+Dialogue: 0,0:18:58.91,0:19:00.00,Default,Yos,0,0,0,,It's not your fault.
+Dialogue: 0,0:19:00.00,0:19:00.75,Default,Oka,0,0,0,,It is!
+Dialogue: 0,0:19:01.25,0:19:04.13,Default,Yos,0,0,0,,I noticed it after you went home.
+Dialogue: 0,0:19:04.46,0:19:07.63,Default,Yos,0,0,0,,But it was already nighttime,\Nso I rolled the work over to today.
+Dialogue: 0,0:19:07.63,0:19:10.63,Default,Yos,0,0,0,,It was my mistake for not noticing your mistake on-site.
+Dialogue: 0,0:19:12.14,0:19:13.97,Default,Yos,0,0,0,,You have a promise with Nagisa-san, don't you?
+Dialogue: 0,0:19:13.97,0:19:15.18,Default,Yos,0,0,0,,Hurry and go.
+Dialogue: 0,0:19:15.18,0:19:16.76,Default,Oka,0,0,0,,Please let me take responsibility!
+Dialogue: 0,0:19:16.76,0:19:17.56,Default,Yos,0,0,0,,No!
+Dialogue: 0,0:19:17.56,0:19:18.64,Default,Oka,0,0,0,,Please!
+Dialogue: 0,0:19:25.11,0:19:28.03,Default,Yos,0,0,0,,Bring up 6m of 25 low-pressure extension cable.
+Dialogue: 0,0:19:29.03,0:19:29.53,Default,Oka,0,0,0,,What?
+Dialogue: 0,0:19:29.94,0:19:31.28,Default,Yos,0,0,0,,Get a move on!
+Dialogue: 0,0:19:31.70,0:19:32.32,Default,Oka,0,0,0,,Yes!
+Dialogue: 0,0:19:48.13,0:19:49.71,Note,,0,0,0,,Sign: Founders Festival
+Dialogue: 0,0:19:54.30,0:19:55.51,Default,Nag,0,0,0,,Tomoya-kun.
+Dialogue: 0,0:19:57.10,0:19:57.97,Default,Oka,0,0,0,,Nagisa...
+Dialogue: 0,0:19:57.97,0:20:00.56,Default,Nag,0,0,0,,So you were at work.
+Dialogue: 0,0:20:00.56,0:20:02.48,Default,Nag,0,0,0,,I had a feeling that you were.
+Dialogue: 0,0:20:06.81,0:20:09.23,Default,Nag,0,0,0,,You're drenched in sweat.
+Dialogue: 0,0:20:12.24,0:20:13.15,Default,Tom,0,0,0,,I'm sorry.
+Dialogue: 0,0:20:13.86,0:20:16.99,Default,Nag,0,0,0,,You've done nothing to apologize for.
+Dialogue: 0,0:20:18.37,0:20:20.75,Default,Nag,0,0,0,,Will you eat these with me?
+Dialogue: 0,0:20:27.79,0:20:29.38,Default,Nag,0,0,0,,Let's eat as we go.
+Dialogue: 0,0:20:32.22,0:20:33.17,Default,Nag,0,0,0,,Tomoya-kun.
+Dialogue: 0,0:20:33.17,0:20:34.43,Default,Oka,0,0,0,,Y-Yeah.
+Dialogue: 0,0:20:47.10,0:20:48.56,Default,Oka,0,0,0,,Good morning.
+Dialogue: 0,0:20:48.56,0:20:50.57,Default,Man,0,0,0,,Mr. Okazaki.
+Dialogue: 0,0:20:50.57,0:20:52.74,Default,Man,0,0,0,,I heard you had big job yesterday. {foreigner}
+Dialogue: 0,0:20:53.32,0:20:54.20,Default,Oka,0,0,0,,Yes.
+Dialogue: 0,0:20:54.20,0:20:56.16,Default,Man,0,0,0,,We heard from Yoshino-san.
+Dialogue: 0,0:20:56.16,0:20:59.28,Default,Man,0,0,0,,You skipped a date with\Nyour girl and came to work, right?
+Dialogue: 0,0:20:59.28,0:21:01.99,Default,Man,0,0,0,,You should have said so, and I would have gone for you.
+Dialogue: 0,0:21:01.99,0:21:04.29,Default,Man,0,0,0,,Sorry about that.
+Dialogue: 0,0:21:04.29,0:21:06.96,Default,Man,0,0,0,,I'll make sure to give you overtime for the weekend work.
+Dialogue: 0,0:21:06.96,0:21:11.09,Default,Oka,0,0,0,,Um, I came thinking I'd get yelled at.
+Dialogue: 0,0:21:11.09,0:21:12.59,Default,Yos,0,0,0,,Everyone makes mistakes.
+Dialogue: 0,0:21:12.96,0:21:15.22,Default,Yos,0,0,0,,What's important is how to make up for it.
+Dialogue: 0,0:21:16.09,0:21:19.85,Default,Yos,0,0,0,,You did your best and we didn't cause any trouble to the client.
+Dialogue: 0,0:21:20.72,0:21:24.10,Default,Yos,0,0,0,,Don't make the same mistake, and that's all.
+Dialogue: 0,0:21:25.52,0:21:32.11,Default,Yos,0,0,0,,If you're feeling sorry, then handle the mistakes the juniors you'll eventually have will make.
+Dialogue: 0,0:21:32.57,0:21:34.49,Default,Yos,0,0,0,,{\i1}That's{\i0\fscx30}{\r} your job.
+Dialogue: 0,0:21:35.28,0:21:36.03,Default,Yos,0,0,0,,And!
+Dialogue: 0,0:21:36.61,0:21:37.49,Default,Yos,0,0,0,,Love!
+Dialogue: 0,0:21:40.49,0:21:41.66,Default,Oka,0,0,0,,Understood!
+Dialogue: 0,0:21:41.66,0:21:43.12,Default,Oka,0,0,0,,I'll remember that!
+Dialogue: 0,0:21:43.12,0:21:46.62,Default,Man,0,0,0,,I think last one word not needed. {foreigner}
+Dialogue: 0,0:21:46.62,0:21:48.71,Default,Man,0,0,0,,All right, enough talking.
+Dialogue: 0,0:21:48.71,0:21:50.08,Default,Man,0,0,0,,Let's get to work.
+Dialogue: 0,0:21:50.08,0:21:51.84,Default,All,0,0,0,,All right.
+Dialogue: 0,0:21:52.59,0:21:54.05,Default,Man,0,0,0,,Ah, Okazaki-kun.
+Dialogue: 0,0:21:54.05,0:21:55.34,Default,Man,0,0,0,,It's finally done.
+Dialogue: 0,0:21:58.09,0:21:59.51,Default,Yos,0,0,0,,Hurry up, Okazaki.
+Dialogue: 0,0:21:59.51,0:22:00.93,Default,Oka,0,0,0,,Y-Yes!
+Dialogue: 0,0:22:05.85,0:22:09.81,Signs,,0,0,0,,{\fad(400,0)\4c&H000000&\shad3\pos(1459.999969,840)\bord0.75\3c&H000000&\blur0.5}To be continued
+Dialogue: 0,0:22:18.74,0:22:26.25,ED Romaji,,0,0,0,,{\be1}{\kf24}mi{\kf32}tsu{\kf23}me{\kf23}te {\kf19}i{\kf137}ta {\kf29}na{\kf28}ga{\kf21}re{\kf69}ru {\kf60}ku{\kf61}mo {\kf230}wo
+Dialogue: 0,0:22:18.74,0:22:26.25,ED English,,0,0,0,,{\be1}I was gazing at the drifting clouds.
+Dialogue: 0,0:22:26.25,0:22:33.30,ED Romaji,,0,0,0,,{\be1\fad(0,250)}{\kf40}ka{\kf11}n{\kf24}ji{\kf21}te {\kf30}i{\kf135}ta {\kf28}ka{\kf23}wa{\kf19}ru {\kf68}so{\kf63}ra {\kf37}no {\kf45}i{\kf26}ro {\kf130}wo
+Dialogue: 0,0:22:26.25,0:22:33.30,ED English,,0,0,0,,{\be1\fad(0,250)}I was feeling the changes in the sky's color.
+Dialogue: 0,0:22:33.80,0:22:41.35,ED Romaji,,0,0,0,,{\be1}{\kf25}ta{\kf31}chi {\kf20}to{\kf27}ma{\kf21}t{\kf142}ta {\kf22}bo{\kf23}ku{\kf26}ra {\kf66}wa {\kf63}ki{\kf59}zu{\kf229}ku
+Dialogue: 0,0:22:33.80,0:22:41.35,ED English,,0,0,0,,{\be1}As we stop walking,
+Dialogue: 0,0:22:41.35,0:22:48.44,ED Romaji,,0,0,0,,{\be1}{\kf24}u{\kf32}tsu{\kf25}ro{\kf21}i {\kf20}yu{\kf143}ku {\kf24}se{\kf25}ka{\kf23}i {\kf65}ga {\kf73}tsu{\kf26}mu{\kf49}gu {\kf18}u{\kf32}ta {\kf113}ni
+Dialogue: 0,0:22:41.35,0:22:48.44,ED English,,0,0,0,,{\be1}we hear the song the world sings as its colors fade.
+Dialogue: 0,0:22:48.44,0:22:55.74,ED Romaji,,0,0,0,,{\be1}{\kf91}no{\kf35}ba{\kf38}shi{\kf139}ta {\kf48}yu{\kf25}bi {\kf44}de {\kf29}ta{\kf90}gu{\kf24}ru {\kf44}yo{\kf24}u {\kf98}ni
+Dialogue: 0,0:22:48.44,0:22:55.74,ED English,,0,0,0,,{\be1}Just as you scan with the fingers you spread,
+Dialogue: 0,0:22:55.74,0:23:04.37,ED Romaji,,0,0,0,,{\be1}{\kf26}ta{\kf92}da {\kf34}hi{\kf38}to{\kf87}tsu {\kf55}ka{\kf44}wa{\kf23}ra{\kf48}na{\kf29}i {\kf44}mo{\kf47}no {\kf22}sa{\kf95}ga{\kf177}su
+Dialogue: 0,0:22:55.74,0:23:04.37,ED English,,0,0,0,,{\be1}I search for the one thing that never changes.
+Dialogue: 0,0:23:04.41,0:23:11.96,ED Romaji,,0,0,0,,{\be1\fad(250,0)}{\kf59}ka{\kf41}za{\kf74}su {\kf72}te {\kf138}ni {\kf46}to{\kf45}mo{\kf75}shi{\kf73}bi {\kf136}wo
+Dialogue: 0,0:23:04.41,0:23:11.96,ED English,,0,0,0,,{\be1\fad(250,0)}Let there be a torch in the hand you reach out.
+Dialogue: 0,0:23:11.96,0:23:19.51,ED Romaji,,0,0,0,,{\be1}{\kf46}a{\kf52}su {\kf72}he {\kf24}to {\kf46}tsu{\kf25}zu{\kf108}ku {\kf44}chi{\kf33}i{\kf26}sa{\kf61}na {\kf78}shi{\kf71}ru{\kf73}be
+Dialogue: 0,0:23:11.96,0:23:19.51,ED English,,0,0,0,,{\be1}There'll be a small sign leading to tomorrow.
+Dialogue: 0,0:23:19.51,0:23:27.06,ED Romaji,,0,0,0,,{\be1}{\kf44}i{\kf52}ma {\kf70}mo {\kf67}ma{\kf144}da {\kf45}ko{\kf46}da{\kf63}ma {\kf80}su{\kf140}ru
+Dialogue: 0,0:23:19.51,0:23:27.06,ED English,,0,0,0,,{\be1}The word you said that day...
+Dialogue: 0,0:23:27.06,0:23:34.57,ED Romaji,,0,0,0,,{\be1}{\kf48}a{\kf46}no {\kf70}hi {\kf27}no {\kf44}ko{\kf26}to{\kf104}ba {\kf51}chi{\kf30}ka{\kf27}i {\kf93}ni {\kf71}ka{\kf113}e
+Dialogue: 0,0:23:27.06,0:23:34.57,ED English,,0,0,0,,{\be1}...still echoes in my head, and let's make it an oath.
+Dialogue: 0,0:23:34.57,0:23:39.82,ED Romaji,,0,0,0,,{\be1}{\kf42}bo{\kf34}ku {\kf18}wa {\kf166}yu{\kf266}ku
+Dialogue: 0,0:23:34.57,0:23:39.82,ED English,,0,0,0,,{\be1}I will continue going with it.
+Dialogue: 0,0:23:39.82,0:23:43.78,Signs,,0,0,0,,{\fs99.999996\fad(0,400)\4c&H000000&\shad3\pos(960,470.000015)\blur0.5\bord0.75\3c&H000000&}Preview
+Dialogue: 0,0:23:43.20,0:23:46.62,Default,Nag,0,0,0,,I think you look kinder now, too.
+Dialogue: 0,0:23:48.41,0:23:51.37,Default,Oka,0,0,0,,I always thought things like that were annoying.
+Dialogue: 0,0:23:52.33,0:23:55.42,Default,Oka,0,0,0,,And I say this when at school, I stuck my nose into other people's business so much.
+Dialogue: 0,0:23:55.42,0:24:00.42,Default,Nag,0,0,0,,I think you should choose the path you think is best.
+Dialogue: 0,0:24:04.72,0:24:09.68,Signs,,0,0,0,,{\fad(400,0)\4c&H000000&\shad3\pos(960,405)\bord0.75\blur0.5\3c&H00000A&}Episode 12
+Dialogue: 0,0:24:04.72,0:24:09.68,Signs,,0,0,0,,{\fs85.000002\fad(400,0)\4c&H000000&\shad3\pos(960,765)\3c&H000008&\blur0.5\bord0.75}Unexpected Incident
+Dialogue: 0,0:24:07.30,0:24:09.68,Default,Yos,0,0,0,,Don't lose track of what's important to you.
+Comment: 0,0:00:00.00,0:00:00.00,OP English,,0,0,0,,{\be1\fad(0,0)}
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,{\be1\fad(0,0)}
+Comment: 0,0:00:00.00,0:00:00.00,ED English,,0,0,0,,{\be1}
+Comment: 0,0:00:00.00,0:00:00.00,Signs,,0,0,0,,
+Comment: 0,0:00:00.00,0:00:00.00,Signs,,0,0,0,,
+Comment: 0,0:00:00.00,0:00:00.00,Signs,,0,0,0,,
+Comment: 0,0:00:00.00,0:00:00.00,Signs,,0,0,0,,
+Comment: 0,0:00:00.00,0:00:00.00,Signs,,0,0,0,,
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,
+Comment: 0,0:00:00.02,0:00:00.02,Default,,0,0,0,,{\be1}
+Comment: 0,0:00:00.02,0:00:00.02,Default,,0,0,0,,
+Comment: 0,0:02:05.97,0:02:05.97,Default,,0,0,0,,{\be1\fad(0,0)}
+Comment: 0,0:02:05.97,0:02:05.97,Default,,0,0,0,,{\be1\fad(0,0)}
+Comment: 0,0:12:06.91,0:12:17.54,Default,,0,0,0,,
+
+
