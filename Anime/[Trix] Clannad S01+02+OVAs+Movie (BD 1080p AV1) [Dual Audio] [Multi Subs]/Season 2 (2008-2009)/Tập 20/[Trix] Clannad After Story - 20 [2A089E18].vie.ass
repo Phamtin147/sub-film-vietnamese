@@ -100,15 +100,13 @@ Dialogue: 0,0:03:17.31,0:03:20.18,Default,Kyo,0,0,0,,Vừa nhìn thấy Botan l�
 Dialogue: 0,0:03:20.18,0:03:23.56,Default,Kyo,0,0,0,,Hay là cậu đã quên sạch về tôi rồi?
 Dialogue: 0,0:03:24.15,0:03:26.36,Default,Oka,0,0,0,,Hóa ra đó thực sự là Botan à.
 Dialogue: 0,0:03:26.36,0:03:26.98,Default,Bot,0,0,0,,Gột!
-Dialogue: 0,0:03:28.86,0:03:33.91,Default,Kyo,0,0,0,,Ushio-chan, thực ra ngày xưa
-bố em và cô từng học cùng trường với nhau đấy.
+Dialogue: 0,0:03:28.86,0:03:33.91,Default,Kyo,0,0,0,,Ushio-chan, thực ra ngày xưa\Nbố em và cô từng học cùng trường với nhau đấy.
 Dialogue: 0,0:03:35.41,0:03:37.45,Default,Oka,0,0,0,,Hồi đó cô ấy bạo lực lắm con ạ.
 Dialogue: 0,0:03:37.45,0:03:39.95,Default,Oka,0,0,0,,Toàn bắt nạt bố thôi.
 Dialogue: 0,0:03:39.95,0:03:43.50,Default,Kyo,0,0,0,,Này! Đừng có đặt điều bịa chuyện thế chứ!
 Dialogue: 0,0:03:43.50,0:03:46.08,Default,Oka,0,0,0,,Cô ấy cũng từng là bạn rất thân của mẹ con nữa.
 Dialogue: 0,0:03:46.96,0:03:47.96,Default,Oka,0,0,0,,Chuyện đó cô biết chứ?
-Dialogue: 0,0:03:51.17,0:04:00.39,Default,Kyo,0,0,0,,Cô Sanae có đến dặn trước là rồi cậu cũng sẽ tới,
-nên bảo tôi tạm thời giữ bí mật cho đến lúc đó.
+Dialogue: 0,0:03:51.17,0:04:00.39,Default,Kyo,0,0,0,,Cô Sanae có đến dặn trước là rồi cậu cũng sẽ tới,\Nnên bảo tôi tạm thời giữ bí mật cho đến lúc đó.
 Dialogue: 0,0:04:01.77,0:04:04.14,Default,Oka,0,0,0,,Ra vậy... lại là cô Sanae sắp đặt à.
 Dialogue: 0,0:04:04.94,0:04:08.61,Signs,,0,0,0,,{\fad(400,0)\fs60\blur2\bord2\pos(960,410.000015)\3c&H4A8A5C&}Tập 20
 Dialogue: 0,0:04:04.94,0:04:08.61,Signs,,0,0,0,,{\fad(400,0)\fs60\blur2\bord2\3c&H4A8A5C&\pos(960,720)}Trò Đùa Của Gió Biển
@@ -222,8 +220,7 @@ Dialogue: 0,0:11:08.53,0:11:09.28,Default,Ush,0,0,0,,Dạ có ạ.
 Dialogue: 0,0:11:09.78,0:11:12.95,Default,Oka,0,0,0,,Một thiết kế khá dễ thương so với người như em đấy.
 Dialogue: 0,0:11:13.49,0:11:14.91,Default,Ush,0,0,0,,Mời cả nhà xơi cơm ạ.
 Dialogue: 0,0:11:19.41,0:11:20.62,Default,Ush,0,0,0,,Ngon lắm ạ.
-Dialogue: 0,0:11:21.54,0:11:25.42,Default,Fuk,0,0,0,,Ushio-chan đáng yêu đang ăn chiếc bánh mì đáng yêu,
-độ dễ thương vừa tăng gấp bội rồi!
+Dialogue: 0,0:11:21.54,0:11:25.42,Default,Fuk,0,0,0,,Ushio-chan đáng yêu đang ăn chiếc bánh mì đáng yêu,\Nđộ dễ thương vừa tăng gấp bội rồi!
 Dialogue: 0,0:11:25.42,0:11:27.25,Default,Oka,0,0,0,,Đừng có hơi tí là ôm chầm lấy con bé vì mấy lý do tào lao thế chứ!
 Dialogue: 0,0:11:29.38,0:11:32.84,Default,Oka,0,0,0,,Bọn tôi chuẩn bị ăn trưa đây. Em có muốn ăn cùng không?
 Dialogue: 0,0:11:35.26,0:11:37.68,Default,Fuk,0,0,0,,Anh đang cố tình lấy lòng Fuko đấy à?
@@ -251,8 +248,7 @@ Dialogue: 0,0:12:38.70,0:12:41.08,Default,Oka,0,0,0,,Đó chính là nút phóng
 Dialogue: 0,0:12:41.45,0:12:44.41,Default,Fuk,0,0,0,,Chơi bẩn quá! Anh lừa Fuko!
 Dialogue: 0,0:12:44.41,0:12:47.25,Default,Oka,0,0,0,,Thế giới này chưa đầy ba ngày là đã nổ tung rồi.
 Dialogue: 0,0:12:47.88,0:12:49.88,Default,Fuk,0,0,0,,Thế thì Fuko cũng có một câu hỏi dành cho anh đây.
-Dialogue: 0,0:12:49.88,0:12:56.43,Default,Fuk,0,0,0,,Nếu có một chiếc quần tất rơi trên mặt đất
-ghi chữ 'Cấm mặc', anh sẽ làm gì?
+Dialogue: 0,0:12:49.88,0:12:56.43,Default,Fuk,0,0,0,,Nếu có một chiếc quần tất rơi trên mặt đất\Nghi chữ 'Cấm mặc', anh sẽ làm gì?
 Dialogue: 0,0:12:56.43,0:12:58.14,Default,Oka,0,0,0,,Tôi sẽ mặc kệ nó.
 Dialogue: 0,0:12:58.14,0:13:03.39,Default,Fuk,0,0,0,,Anh nói dối! Fuko chắc chắn anh sẽ không kiềm chế nổi mà xỏ ngay vào chân cho xem!
 Dialogue: 0,0:13:04.14,0:13:06.14,Default,Oka,0,0,0,,Okazaki đúng là đồ biến thái nhất trần đời!
@@ -270,8 +266,7 @@ Dialogue: 0,0:13:40.43,0:13:42.14,Default-alt,Fuk,0,0,0,,Anh ngượng ngùng r�
 Dialogue: 0,0:13:43.89,0:13:46.23,Default,Fuk,0,0,0,,Vậy thì, chúng ta cùng chơi bài đi.
 Dialogue: 0,0:13:46.68,0:13:50.77,Default,Fuk,0,0,0,,Ushio-chan, em có biết chơi blackjack hay gin rummy không?
 Dialogue: 0,0:13:50.77,0:13:53.23,Default,Oka,0,0,0,,Này. Em đang nói chuyện với một đứa nhóc năm tuổi đấy.
-Dialogue: 0,0:13:54.48,0:14:00.70,Default,Fuk,0,0,0,,Xin lỗi nhé. Tại Fuko là người lớn rồi,
-nên Fuko mới gợi ý mấy trò cao cấp một chút.
+Dialogue: 0,0:13:54.48,0:14:00.70,Default,Fuk,0,0,0,,Xin lỗi nhé. Tại Fuko là người lớn rồi,\Nnên Fuko mới gợi ý mấy trò cao cấp một chút.
 Dialogue: 0,0:14:02.16,0:14:04.74,Default,Oka,0,0,0,,Con có biết trò chơi nào không, Ushio?
 Dialogue: 0,0:14:07.54,0:14:08.50,Default,Ush,0,0,0,,Nối số bảy ạ!
 Dialogue: 0,0:14:09.17,0:14:11.79,Default,Fuk,0,0,0,,Ushio-chan, lựa chọn tuyệt vời nhất luôn!
@@ -340,11 +335,9 @@ Dialogue: 0,0:17:56.31,0:17:59.23,Default,Kyo,0,0,0,,Chà, trên mặt cậu l�
 Dialogue: 0,0:17:59.23,0:18:03.07,Default,Kyo,0,0,0,,Ushio-chan, chúng ta nên xử lý ông bố thảm hại này thế nào đây?
 Dialogue: 0,0:18:04.07,0:18:05.99,Default,Ush,0,0,0,,Bố ngầu lắm đấy ạ.
 Dialogue: 0,0:18:07.11,0:18:09.36,Default,Oka,0,0,0,,Con bé có mắt nhìn đàn ông chuẩn thật đấy.
-Dialogue: 0,0:18:12.28,0:18:17.62,Default,Kyo,0,0,0,,Tôi đã phát giấy thông báo ngày hội thể thao cho Ushio-chan rồi,
-cậu nhớ đọc kỹ nhé?
+Dialogue: 0,0:18:12.28,0:18:17.62,Default,Kyo,0,0,0,,Tôi đã phát giấy thông báo ngày hội thể thao cho Ushio-chan rồi,\Ncậu nhớ đọc kỹ nhé?
 Dialogue: 0,0:18:17.62,0:18:18.50,Default,Oka,0,0,0,,Ngày hội thể thao sao?
-Dialogue: 0,0:18:18.50,0:18:23.71,Default,Kyo,0,0,0,,Ừ. Có cả các phần thi dành cho gia đình nữa,
-nên cậu lo mà tập luyện đi nhé.
+Dialogue: 0,0:18:18.50,0:18:23.71,Default,Kyo,0,0,0,,Ừ. Có cả các phần thi dành cho gia đình nữa,\Nnên cậu lo mà tập luyện đi nhé.
 Dialogue: 0,0:18:25.21,0:18:27.72,Default,San,0,0,0,,Tôi có biết về ngày hội thể thao rồi.
 Dialogue: 0,0:18:28.22,0:18:31.22,Default,San,0,0,0,,Bác tổ trưởng dân phố có nói qua với tôi.
 Dialogue: 0,0:18:31.22,0:18:33.89,Default,Oka,0,0,0,,Vậy cô sẽ đến cổ vũ cho con bé chứ?
@@ -377,8 +370,7 @@ Dialogue: 0,0:20:01.48,0:20:04.52,Default,Fuk,0,0,0,,Em thích đi dạo một m
 Dialogue: 0,0:20:04.52,0:20:05.44,Default,Ush,0,0,0,,Dạ vâng ạ.
 Dialogue: 0,0:20:06.02,0:20:08.69,Default,Fuk,0,0,0,,Em không sợ bị lạc đường à?
 Dialogue: 0,0:20:09.15,0:20:10.32,Default,Ush,0,0,0,,Lạc đường ạ?
-Dialogue: 0,0:20:10.32,0:20:17.28,Default,Fuk,0,0,0,,Là khi em không biết phải đi lối nào,
-cảm thấy bất an, bối rối và không thể bước tiếp được nữa.
+Dialogue: 0,0:20:10.32,0:20:17.28,Default,Fuk,0,0,0,,Là khi em không biết phải đi lối nào,\Ncảm thấy bất an, bối rối và không thể bước tiếp được nữa.
 Dialogue: 0,0:20:17.66,0:20:20.12,Default,Fuk,0,0,0,,Em không sợ chuyện đó sao?
 Dialogue: 0,0:20:20.45,0:20:21.45,Default,Ush,0,0,0,,Dạ không ạ.
 Dialogue: 0,0:20:21.45,0:20:23.16,Default,Fuk,0,0,0,,Em giỏi thật đấy.
