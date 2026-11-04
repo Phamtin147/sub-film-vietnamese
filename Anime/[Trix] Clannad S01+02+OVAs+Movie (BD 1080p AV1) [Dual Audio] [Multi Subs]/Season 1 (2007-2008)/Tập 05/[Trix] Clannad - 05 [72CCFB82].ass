@@ -1,0 +1,509 @@
+﻿[Script Info]
+Title: Vietnamese Fansub (VietSub by Amtia(NOFACE))
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1920
+PlayResY: 1080
+ScaledBorderAndShadow: yes
+Video Aspect Ratio: 0
+Video Zoom: 8
+Video Position: 34758
+Last Style Storage: Default
+Audio File: Clannad - 05.mp3
+Video File: Clannad - 05 WR.mkv
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Segoe UI,75,&H00FFFFFF,&H00FFFFFF,&H00477650,&H80000000,0,0,0,0,110,100,0,0,1,3,1.5,2,48,48,48,1
+Style: Default-alt,Segoe UI,75,&H00FFFFFF,&H00FFFFFF,&H00596162,&H80000000,0,0,0,0,110,100,0,0,1,3,1.5,8,48,48,48,1
+Style: Note,Segoe UI,65,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,48,48,48,1
+Style: ED Romaji,Segoe UI,80,&H00FFFFFF,&H80FFFFFF,&H80FF0000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,8,60,60,30,1
+Style: ED English,Segoe UI,80,&H00FFFFFF,&H80FFFFFF,&H80FF0000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,60,60,30,1
+Style: OP Romaji,Segoe UI,70,&H00FFFFFF,&H80FFFFFF,&H80FF5E5B,&H80000000,-1,0,0,0,100,100,0,0,1,3,1,8,60,60,30,1
+Style: OP English,Segoe UI,70,&H00FFFFFF,&H80FFFFFF,&H80FF5E5B,&H80000000,-1,0,0,0,100,100,0,0,1,3,1,2,60,60,30,1
+Style: Signs,Segoe UI,75,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,0,0,2,48,48,48,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:02.34,Default,,0,0,0,,
+Dialogue: 0,0:00:02.10,0:00:05.98,Default,Nag,0,0,0,,Đến nhà của cô giáo Ibuki sao?
+Dialogue: 0,0:00:05.98,0:00:06.73,Default,Oka,0,0,0,,Ừ.
+Dialogue: 0,0:00:06.73,0:00:08.57,Default,Oka,0,0,0,,Bọn mình đến gặp mặt trực tiếp rồi hỏi cô ấy.
+Dialogue: 0,0:00:08.86,0:00:12.99,Default,Oka,0,0,0,,Như thế thì sẽ biết chắc chắn\Nnhóc này có phải em gái cô ấy hay không.
+Dialogue: 0,0:00:13.95,0:00:15.70,Default,Oka,0,0,0,,Nhóc cũng đi cùng bọn tôi chứ?
+Dialogue: 0,0:00:18.37,0:00:20.08,Default,Fuk,0,0,0,,Fuko sẽ đợi ở đây.
+Dialogue: 0,0:00:20.08,0:00:23.08,Default,Oka,0,0,0,,Tại sao? Nhóc cùng đi gặp mặt thì mọi chuyện có phải sáng tỏ nhanh hơn không.
+Dialogue: 0,0:00:28.04,0:00:33.97,OP Romaji,,0,0,0,,{\fad(250,250)\be1}{\kf46}su{\kf22}ki {\kf46}to{\kf46}o{\kf160}ru {\kf17}yu{\kf43}me {\kf17}wo {\kf40}mi{\kf29}te{\kf23}i{\kf53}ta
+Dialogue: 0,0:00:28.04,0:00:33.97,OP English,,0,0,0,,{\fad(250,250)\be1}Tôi từng thấy một giấc mơ trong vắt,
+Dialogue: 0,0:00:34.76,0:00:40.68,OP Romaji,,0,0,0,,{\fad(250,250)\be1}{\kf43}ya{\kf20}wa{\kf46}ra{\kf45}ka{\kf94}i {\kf63}e{\kf40}i{\kf26}e{\kf154}n
+Dialogue: 0,0:00:34.76,0:00:40.68,OP English,,0,0,0,,{\fad(250,250)\be1}Một chốn vĩnh hằng êm dịu xiết bao.
+Dialogue: 0,0:00:41.27,0:00:47.27,OP Romaji,,0,0,0,,{\fad(250,250)\be1}{\kf50}ka{\kf29}ze {\kf38}no {\kf43}you{\kf165}na {\kf11}ka{\kf47}su{\kf26}ka {\kf40}na {\kf24}ko{\kf19}e {\kf59}ga
+Dialogue: 0,0:00:41.27,0:00:47.27,OP English,,0,0,0,,{\fad(250,250)\be1}Một thanh âm thoảng nhẹ như làn gió,
+Dialogue: 0,0:00:48.02,0:00:54.45,OP Romaji,,0,0,0,,{\fad(250,250)\be1}{\kf39}ta{\kf24}ka{\kf31}i {\kf48}so{\kf58}ra {\kf25}ka{\kf62}ra {\kf14}bo{\kf71}ku {\kf12}wo {\kf18}yo{\kf53}n{\kf16}de{\kf45}i{\kf74}ru
+Dialogue: 0,0:00:48.02,0:00:54.45,OP English,,0,0,0,,{\fad(250,250)\be1}Từ bầu trời cao vút đang cất tiếng gọi tôi.
+Dialogue: 0,0:00:54.45,0:01:00.78,OP Romaji,,0,0,0,,{\fad(250,250)\be1}{\kf117}ko{\kf44}no {\kf87}ma{\kf101}ma {\kf92}to{\kf50}bi {\kf62}ta{\kf25}te{\kf21}ba
+Dialogue: 0,0:00:54.45,0:01:00.78,OP English,,0,0,0,,{\fad(250,250)\be1}Nếu cứ thế này tung cánh bay đi,
+Dialogue: 0,0:01:00.78,0:01:07.58,OP Romaji,,0,0,0,,{\fad(250,0)\be1}{\kf44}do{\kf103}ko {\kf21}ni {\kf80}da{\kf28}tte {\kf35}yu{\kf51}ke{\kf291}ru
+Dialogue: 0,0:01:00.78,0:01:07.58,OP English,,0,0,0,,{\fad(250,0)\be1}Thì nơi đâu ta cũng có thể tìm về.
+Dialogue: 0,0:01:07.58,0:01:14.26,OP Romaji,,0,0,0,,{\fad(250,0)\be1}{\kf118}ka{\kf25}sa{\kf30}ne{\kf142}ta {\kf24}te {\kf124}to {\kf17}te {\kf24}no {\kf83}na{\kf20}ka {\kf50}ni
+Dialogue: 0,0:01:07.58,0:01:14.26,OP English,,0,0,0,,{\fad(250,0)\be1}Nếu như ta trông thấy một mảnh tương lai nhỏ bé
+Dialogue: 0,0:01:14.26,0:01:20.93,OP Romaji,,0,0,0,,{\fad(250,0)\be1}{\kf103}chi{\kf24}i{\kf21}sa{\kf102}na {\kf59}mi{\kf46}ra{\kf64}i {\kf39}ga {\kf19}mi{\kf23}e{\kf103}ta{\kf46}ra
+Dialogue: 0,0:01:14.26,0:01:20.93,OP English,,0,0,0,,{\fad(250,0)\be1}Gói trọn trong đôi bàn tay đan chặt này,
+Dialogue: 0,0:01:20.93,0:01:27.60,OP Romaji,,0,0,0,,{\fad(250,0)\be1}{\kf119}hi{\kf23}ka{\kf22}ri {\kf123}no {\kf33}na{\kf129}ka {\kf22}yu{\kf22}ra{\kf82}me{\kf21}i{\kf36}ta
+Dialogue: 0,0:01:20.93,0:01:27.60,OP English,,0,0,0,,{\fad(250,0)\be1}Thì trong muôn vàn tia sáng lung linh,
+Dialogue: 0,0:01:27.60,0:01:33.98,OP Romaji,,0,0,0,,{\fad(250,0)\be1}{\kf114}ko{\kf25}to{\kf21}ba {\kf78}mo {\kf64}o{\kf40}mo{\kf54}i {\kf46}mo {\kf30}ze{\kf16}n{\kf121}bu
+Dialogue: 0,0:01:27.60,0:01:33.98,OP English,,0,0,0,,{\fad(250,0)\be1}Từng lời nói, từng tâm tư đều lay động khôn nguôi.
+Dialogue: 0,0:01:33.98,0:01:40.41,OP Romaji,,0,0,0,,{\fad(250,250)\be1}{\kf35}ha{\kf43}ru{\kf19}ka{\kf226}na {\kf27}ki{\kf61}mi {\kf21}ma{\kf168}de
+Dialogue: 0,0:01:33.98,0:01:40.41,OP English,,0,0,0,,{\fad(250,250)\be1}Nhất định tôi sẽ gửi đến em, dẫu xa xôi muôn trùng...
+Dialogue: 0,0:01:40.41,0:01:52.84,OP Romaji,,0,0,0,,{\fad(250,250)\be1}{\kf48}no{\kf42}ko{\kf29}sa{\kf210}zu {\kf52}tsu{\kf49}ta{\kf22}e{\kf183}te {\kf64}ki{\kf491}tto
+Dialogue: 0,0:01:40.41,0:01:52.84,OP English,,0,0,0,,{\fad(250,250)\be1}Không giữ lại cho riêng mình dẫu chỉ một chút thôi.
+Dialogue: 0,0:01:58.59,0:02:00.18,Default,Oka,0,0,0,,Con bé đó khả nghi thật đấy.
+Dialogue: 0,0:02:00.72,0:02:02.89,Default,Oka,0,0,0,,Tại sao nó lại không chịu đi cùng bọn mình?
+Dialogue: 0,0:02:03.22,0:02:06.31,Default,Nag,0,0,0,,Chắc em ấy có nỗi khổ tâm riêng.
+Dialogue: 0,0:02:06.31,0:02:07.73,Default,Oka,0,0,0,,Làm sao bọn mình tin lời con bé được chứ?
+Dialogue: 0,0:02:08.02,0:02:10.73,Default,Oka,0,0,0,,Chẳng biết nó là ma hay là vong hồn vất vưởng,
+Dialogue: 0,0:02:10.73,0:02:14.73,Default,Oka,0,0,0,,nhưng bảo linh hồn thì đi lại ở đây còn thể xác nằm trong bệnh viện thì nghe hoang đường quá.
+Dialogue: 0,0:02:15.07,0:02:17.57,Default,Oka,0,0,0,,Nhìn kiểu gì thì nó cũng là con người bằng xương bằng thịt mà.
+Dialogue: 0,0:02:18.03,0:02:19.45,Default,Nag,0,0,0,,Chuyện đó thì...
+Dialogue: 0,0:02:19.78,0:02:22.12,Default,Oka,0,0,0,,Chắc chắn phải có uẩn khúc gì đó.
+Dialogue: 0,0:02:22.12,0:02:25.87,Default,Oka,0,0,0,,Có thể là con bé có lý do bắt buộc phải nhận mình là Ibuki Fuuko.
+Dialogue: 0,0:02:25.87,0:02:30.50,Default,Oka,0,0,0,,Hoặc vì nguyên nhân nào đó mà con bé đinh ninh mình là Ibuki Fuuko.
+Dialogue: 0,0:02:31.17,0:02:32.67,Default,Nag,0,0,0,,Đó có thể là lý do gì được chứ?
+Dialogue: 0,0:02:32.67,0:02:34.71,Default,Oka,0,0,0,,Làm sao tôi biết được?
+Dialogue: 0,0:02:35.05,0:02:38.72,Signs,,0,0,0,,{\fad(400,0)\fs60\blur2\bord2\pos(960,410)\3c&H4A8A5C&}Tập 5
+Dialogue: 0,0:02:35.05,0:02:38.72,Signs,,0,0,0,,{\fad(400,0)\fs60\blur2\bord2\3c&H4A8A5C&\pos(960,720)}Khung Cảnh Bên Tác Phẩm Điêu Khắc
+Dialogue: 0,0:02:40.97,0:02:42.01,Default,Nag,0,0,0,,Cô giáo ơi!
+Dialogue: 0,0:02:42.64,0:02:45.06,Default,Nag,0,0,0,,Em chào cô ạ. Em là Furukawa đây ạ.
+Dialogue: 0,0:02:45.06,0:02:47.77,Default,Ibu,0,0,0,,Nagisa-chan. Thật bất ngờ khi thấy em đến thăm cô đấy.
+Dialogue: 0,0:02:48.23,0:02:48.68,Default,Ibu,0,0,0,,Ô.
+Dialogue: 0,0:02:48.68,0:02:51.23,Default,Oka,0,0,0,,Ủa, cô là người hôm nọ ghé tiệm mua bánh mì nè.
+Dialogue: 0,0:02:51.77,0:02:55.19,Default,Nag,0,0,0,,Okazaki-san, cậu cũng quen cô giáo Ibuki sao?
+Dialogue: 0,0:02:55.19,0:02:59.44,Default,Oka,0,0,0,,Tôi từng đưa cho cô ấy bánh mì của bác Sanae\Nkhi tiệm nhà cậu vắng người ấy mà.
+Dialogue: 0,0:02:59.44,0:03:02.20,Default,Ibu,0,0,0,,Vậy cậu bạn này là bạn trai của em à?
+Dialogue: 0,0:03:02.20,0:03:03.24,Default,Nag,0,0,0,,Không phải đâu ạ!
+Dialogue: 0,0:03:03.24,0:03:04.07,Default,Oka,0,0,0,,Từ chối không cần đắn đo luôn cơ đấy.
+Dialogue: 0,0:03:04.07,0:03:08.29,Default,Nag,0,0,0,,A, ý em không phải là em ghét cậu ấy đâu ạ...
+Dialogue: 0,0:03:08.29,0:03:11.83,Default,Nag,0,0,0,,Ừm... em tin chắc Okazaki-san sẽ tìm được người phù hợp hơn em nhiều...
+Dialogue: 0,0:03:11.83,0:03:14.67,Default,Ibu,0,0,0,,Cậu đã có người thương trong lòng rồi sao?
+Dialogue: 0,0:03:15.00,0:03:17.59,Default,Oka,0,0,0,,Dạ chưa, cháu làm gì đã có ai đâu cô.
+Dialogue: 0,0:03:17.59,0:03:19.42,Default,Nag,0,0,0,,Cậu chưa có thật sao?
+Dialogue: 0,0:03:19.42,0:03:21.13,Default,Ibu,0,0,0,,Xem ra em vẫn còn cơ hội lớn đấy, Nagisa-chan.
+Dialogue: 0,0:03:24.93,0:03:28.02,Default,Nag,0,0,0,,X-Xin cô hãy coi như chưa nghe thấy lời em vừa nói đi ạ.
+Dialogue: 0,0:03:28.02,0:03:30.64,Default,Ibu,0,0,0,,Nagisa-chan đáng yêu ghê nhỉ?
+Dialogue: 0,0:03:29.98,0:03:31.77,Default-alt,Oka,0,0,0,,À, thì... cũng tạm ạ...
+Dialogue: 0,0:03:32.56,0:03:36.23,Default,Nag,0,0,0,,Phải rồi! Cô giáo ơi! Em xin chúc mừng cô sắp sửa đính hôn ạ!
+Dialogue: 0,0:03:37.11,0:03:42.15,Default,Nag,0,0,0,,Em nghe nói cô sắp làm đám cưới với chú Yuusuke-san nào đó.
+Dialogue: 0,0:03:42.15,0:03:45.45,Default,Nag,0,0,0,,Nên bọn em đến đây để chúc mừng cô ạ.
+Dialogue: 0,0:03:45.45,0:03:47.58,Default,Ibu,0,0,0,,Em nghe chuyện đó từ ai vậy?
+Dialogue: 0,0:03:49.16,0:03:51.58,Default,Ibu,0,0,0,,Cả tên của anh ấy nữa.
+Dialogue: 0,0:03:51.58,0:03:56.25,Default,Ibu,0,0,0,,Chuyện này cô chưa từng kể cho ai ngoài em gái của cô cả.
+Dialogue: 0,0:03:57.04,0:04:00.63,Default,Oka,0,0,0,,Cô có chắc chắn không? Cô chỉ mới kể cho mỗi em gái cô thôi sao?
+Dialogue: 0,0:04:00.63,0:04:03.76,Default,Ibu,0,0,0,,Phải, cô chỉ nói với đứa em gái đang chìm trong giấc ngủ dài của cô thôi.
+Dialogue: 0,0:04:04.34,0:04:09.51,Default,Ibu,0,0,0,,Nagisa-chan. Em cũng biết em gái Fuuko của cô\Nđang chìm trong hôn mê sâu rồi mà, đúng không?
+Dialogue: 0,0:04:10.18,0:04:10.89,Default,Nag,0,0,0,,Vâng ạ.
+Dialogue: 0,0:04:11.93,0:04:15.44,Default,Ibu,0,0,0,,Dù em ấy đang ngủ say, cô vẫn thường xuyên tâm sự với em ấy.
+Dialogue: 0,0:04:15.44,0:04:17.90,Default,Ibu,0,0,0,,Cô cũng đã kể cho em ấy nghe về chuyện kết hôn của mình.
+Dialogue: 0,0:04:17.90,0:04:19.57,Default,Ibu,0,0,0,,Nhưng ngoài em ấy ra, cô chưa từng nói với ai khác.
+Dialogue: 0,0:04:19.57,0:04:20.73,Default,Nag,0,0,0,,Dạ...
+Dialogue: 0,0:04:20.73,0:04:22.95,Default,Oka,0,0,0,,Bọn cháu nghe được lời đồn này ở trường ạ.
+Dialogue: 0,0:04:22.95,0:04:28.03,Default,Oka,0,0,0,,Có thể ai đó thấy cô đi dạo cùng bạn trai rồi thêu dệt nên câu chuyện thôi ạ.
+Dialogue: 0,0:04:28.37,0:04:30.79,Default,Ibu,0,0,0,,Ra vậy. Nếu thế thì nghe cũng có lý.
+Dialogue: 0,0:04:30.79,0:04:33.29,Default,Nag,0,0,0,,Tình hình em gái cô dạo này thế nào rồi ạ?
+Dialogue: 0,0:04:33.91,0:04:37.17,Default,Ibu,0,0,0,,Cách đây ít lâu cô có vào viện thăm em ấy.
+Dialogue: 0,0:04:37.63,0:04:41.05,Default,Ibu,0,0,0,,Sắc mặt của con bé hôm nay trông có vẻ tươi tắn hơn mọi ngày.
+Dialogue: 0,0:04:44.30,0:04:49.30,Default,Ibu,0,0,0,,Thật lòng mà nói, cô vẫn chưa dám chắc mình có nên kết hôn hay không.
+Dialogue: 0,0:04:50.31,0:04:52.64,Default,Ibu,0,0,0,,Trong hoàn cảnh của em gái cô hiện tại,
+Dialogue: 0,0:04:52.64,0:04:58.73,Default,Ibu,0,0,0,,cô không thể nhẫn tâm đi tìm hạnh phúc riêng cho bản thân mình được.
+Dialogue: 0,0:05:03.49,0:05:06.24,Default,Oka,0,0,0,,Chuyện này rốt cuộc là sao chứ?
+Dialogue: 0,0:05:06.24,0:05:08.62,Default,Nag,0,0,0,,Suýt chút nữa thì tớ không kìm lòng được...
+Dialogue: 0,0:05:09.16,0:05:11.87,Default,Nag,0,0,0,,...mà kể cho cô nghe rằng Fuuko-chan hiện đang ở trường.
+Dialogue: 0,0:05:11.87,0:05:13.95,Default,Oka,0,0,0,,Đáng lẽ cậu nên nói ra.
+Dialogue: 0,0:05:13.95,0:05:16.12,Default,Oka,0,0,0,,Cứ để hai chị em họ gặp nhau là mọi chuyện được giải quyết hết rồi.
+Dialogue: 0,0:05:16.71,0:05:21.50,Default,Nag,0,0,0,,Nhưng tớ linh cảm đây là chuyện\Nmà mình không nên tùy tiện nói ra.
+Dialogue: 0,0:05:21.50,0:05:23.63,Default,Nag,0,0,0,,Fuuko-chan cũng đâu có muốn thế.
+Dialogue: 0,0:05:24.05,0:05:27.22,Default,Oka,0,0,0,,Furukawa, cậu thật sự tin chuyện đó à?
+Dialogue: 0,0:05:27.22,0:05:30.60,Default,Oka,0,0,0,,Tin con bé là ma hay linh hồn gì đó thật sao?
+Dialogue: 0,0:05:32.06,0:05:38.19,Default,Oka,0,0,0,,Còn chuyện kết hôn,\Ncó thể con bé vô tình nghe lỏm được từ anh chàng kia thì sao.
+Dialogue: 0,0:05:38.19,0:05:43.98,Default,Nag,0,0,0,,Tớ biết điều này nghe rất kỳ lạ, nhưng tớ không nghĩ Fuuko-chan đang nói dối.
+Dialogue: 0,0:05:43.98,0:05:46.03,Default,Nag,0,0,0,,Tớ cũng chẳng rõ vì sao nữa, nhưng mà...
+Dialogue: 0,0:05:46.86,0:05:54.66,Default,Nag,0,0,0,,Fuuko-chan đang miệt mài đẽo những tác phẩm điêu khắc đó để nhờ mọi người chúc mừng đám cưới của chị mình, đúng không?
+Dialogue: 0,0:05:54.66,0:05:56.25,Default,Oka,0,0,0,,Này, đừng có khóc chứ.
+Dialogue: 0,0:05:56.25,0:05:58.12,Default,Nag,0,0,0,,Vâng, tớ sẽ không khóc đâu.
+Dialogue: 0,0:05:58.54,0:05:59.75,Default,Nag,0,0,0,,Thay vào đó...
+Dialogue: 0,0:06:00.50,0:06:02.92,Default,Nag,0,0,0,,Tớ muốn giúp đỡ em ấy!
+Dialogue: 0,0:06:02.92,0:06:05.01,Default,Nag,0,0,0,,Giúp em ấy hoàn thành tâm nguyện của mình!
+Dialogue: 0,0:06:06.26,0:06:10.72,Default,Oka,0,0,0,,Cứ hễ là chuyện vì người khác thì cậu lại hăng hái thế nhỉ.
+Dialogue: 0,0:06:10.72,0:06:12.30,Default,Oka,0,0,0,,Thế còn câu lạc bộ kịch thì cậu tính sao?
+Dialogue: 0,0:06:12.30,0:06:17.73,Default,Nag,0,0,0,,Chuyện đó cũng quan trọng, nhưng tớ không thể bỏ mặc\NFuuko-chan bơ vơ trong tình cảnh như thế được.
+Dialogue: 0,0:06:18.77,0:06:22.73,Default,Nag,0,0,0,,Tớ xin lỗi. Tớ biết cậu đã giúp tớ rất nhiều, nhưng mà...
+Dialogue: 0,0:06:26.86,0:06:27.94,Default,Oka,0,0,0,,Tôi sẽ theo giúp một tay.
+Dialogue: 0,0:06:28.40,0:06:31.03,Default,Oka,0,0,0,,Tình cảnh của Fuko cũng làm tôi bận tâm.
+Dialogue: 0,0:06:31.03,0:06:33.20,Default,Oka,0,0,0,,Dù sao dạo này tôi cũng rảnh rỗi chẳng có việc gì làm.
+Dialogue: 0,0:06:35.29,0:06:36.70,Default,Nag,0,0,0,,Okazaki-san...
+Dialogue: 0,0:06:41.75,0:06:44.50,Default,Fuk,0,0,0,,Fuko thật sự có thể làm phiền mọi người thế này sao?
+Dialogue: 0,0:06:44.50,0:06:47.96,Default,Nag,0,0,0,,Chị không thể để em ngủ lại ở trường được.
+Dialogue: 0,0:06:50.26,0:06:53.55,Default,Oka,0,0,0,,Bố mẹ cậu cũng biết cô giáo Ibuki đúng không?
+Dialogue: 0,0:06:53.55,0:06:56.43,Default,Nag,0,0,0,,Vâng, vì cô ấy thường xuyên ghé mua bánh mì mà.
+Dialogue: 0,0:06:56.43,0:06:58.81,Default,Oka,0,0,0,,Thế thì bọn mình phải giấu họ của con bé đi.
+Dialogue: 0,0:06:58.81,0:07:00.35,Default,Oka,0,0,0,,Nghĩ đại một cái họ nào đi nhé?
+Dialogue: 0,0:07:00.35,0:07:01.35,Default,Fuk,0,0,0,,Vâng ạ.
+Dialogue: 0,0:07:01.56,0:07:03.27,Default,Aki,0,0,0,,Tóm lại là,
+Dialogue: 0,0:07:03.27,0:07:05.57,Default,Aki,0,0,0,,chúng mày muốn cho con bé này ở nhờ nhà tao một thời gian chứ gì.
+Dialogue: 0,0:07:05.57,0:07:09.57,Default,San,0,0,0,,Nhà cô chú thì không sao cả, nhưng gia đình cháu thì thế nào hả cháu?
+Dialogue: 0,0:07:09.57,0:07:11.70,Default,Oka,0,0,0,,Dạ, bố mẹ con bé tệ bạc lắm ạ.
+Dialogue: 0,0:07:11.70,0:07:14.74,Default,Oka,0,0,0,,Họ bỏ rơi con bé ở nhà rồi đi du lịch vi vu mất tăm rồi.
+Dialogue: 0,0:07:14.74,0:07:15.37,Default,Oka,0,0,0,,Đúng không nhóc?
+Dialogue: 0,0:07:19.62,0:07:22.42,Default,San,0,0,0,,Fuuko-chan họ gì thế cháu?
+Dialogue: 0,0:07:22.42,0:07:23.58,Default,Fuk,0,0,0,,Cháu họ Isogai ạ!
+Dialogue: 0,0:07:23.58,0:07:25.75,Default,Oka,0,0,0,,Chọn ngay cái họ độc đáo ghê.
+Dialogue: 0,0:07:25.75,0:07:27.50,Default,San,0,0,0,,Isogai Fuuko-chan sao?
+Dialogue: 0,0:07:28.55,0:07:31.43,Default,San,0,0,0,,Bác Isogai là hàng xóm sát vách nhà mình mà nhỉ?
+Dialogue: 0,0:07:34.34,0:07:35.01,Default,Oka,0,0,0,,Con bé ngốc này!
+Dialogue: 0,0:07:35.01,0:07:36.81,Default,Nag,0,0,0,,Okazaki-san!
+Dialogue: 0,0:07:36.81,0:07:40.52,Default,Oka,0,0,0,,Nó lấy luôn họ của nhà hàng xóm bên cạnh kìa!
+Dialogue: 0,0:07:40.52,0:07:43.15,Default,Aki,0,0,0,,Thế cháu là bà con con cháu nhà bên đấy à?
+Dialogue: 0,0:07:43.15,0:07:44.90,Default,Oka,0,0,0,,Không có đâu ạ! Trùng hợp ngẫu nhiên thôi bác ơi!
+Dialogue: 0,0:07:44.90,0:07:47.65,Default,San,0,0,0,,Ra vậy. Hóa ra là trùng hợp ngẫu nhiên.
+Dialogue: 0,0:07:49.07,0:07:52.65,Default,Oka,0,0,0,,Tôi nghĩ lúc nãy cứ khai thật là 'Ibuki' khéo bố mẹ cậu cũng tin sái cổ mất.
+Dialogue: 0,0:07:53.36,0:07:53.91,Default,Fuk,0,0,0,,Dạ...
+Dialogue: 0,0:07:54.95,0:07:57.03,Default,Fuk,0,0,0,,Cháu xin được nhờ cậy cô chú giúp đỡ ạ.
+Dialogue: 0,0:07:57.03,0:07:59.45,Default,Aki,0,0,0,,Ồ, con bé lễ phép ra phết đấy chứ.
+Dialogue: 0,0:07:59.45,0:08:01.91,Default,San,0,0,0,,Cô chú cũng rất vui được đón cháu ở lại đây.
+Dialogue: 0,0:08:12.05,0:08:13.09,Default,Mis,0,0,0,,Này lũ kia!
+Dialogue: 0,0:08:13.09,0:08:15.59,Default,Mis,0,0,0,,Chị sẽ không tha thứ nếu còn có lần sau đâu đấy nhé!
+Dialogue: 0,0:08:15.59,0:08:17.60,Default,Guys,0,0,0,,Tụi em xin lỗi chị ạ!
+Dialogue: 0,0:08:18.97,0:08:21.56,Default,Mis,0,0,0,,Lũ ranh đó lại mò sang nhìn trộm ký túc xá nữ nữa rồi.
+Dialogue: 0,0:08:21.56,0:08:24.64,Default,Oka,0,0,0,,Tụi nó muốn gây sự chú ý với chị thôi.
+Dialogue: 0,0:08:24.64,0:08:28.11,Default,Oka,0,0,0,,Chị cứ nghiêm khắc hơn chút là tụi nó hết dám làm trò dại dột ngay.
+Dialogue: 0,0:08:28.90,0:08:30.36,Default,Mis,0,0,0,,Thế thật sao em?
+Dialogue: 0,0:08:30.36,0:08:33.07,Default,Oka,0,0,0,,Tát một bạt tai chưa đủ đô đâu.
+Dialogue: 0,0:08:33.07,0:08:37.20,Default,Oka,0,0,0,,Em nghĩ một đòn khóa khớp là đủ sức trị tụi nó rồi, kể cả là với sức phụ nữ.
+Dialogue: 0,0:08:37.99,0:08:40.16,Default,Mis,0,0,0,,Nhưng chị vốn không thích bạo lực chút nào.
+Dialogue: 0,0:08:40.16,0:08:42.58,Default,Sun,0,0,0,,Ơ, Okazaki. Mày ở đây à?
+Dialogue: 0,0:08:42.58,0:08:43.87,Default,Oka,0,0,0,,Chào kẻ nhìn trộm nhé.
+Dialogue: 0,0:08:43.87,0:08:44.29,Default,Sun,0,0,0,,Hả?
+Dialogue: 0,0:08:44.29,0:08:44.96,Default,Mis,0,0,0,,Giữ chặt nó lại!
+Dialogue: 0,0:08:45.71,0:08:48.21,Default,Mis,0,0,0,,Trừng phạt của trời xanh!
+Dialogue: 0,0:08:50.13,0:08:51.51,Default,Sun,0,0,0,,Gãy tay tao rồi!
+Dialogue: 0,0:08:51.51,0:08:55.68,Default,Sun,0,0,0,,Thế là hết đường đi quậy hội học sinh rồi.
+Dialogue: 0,0:08:55.68,0:08:58.89,Default,Oka,0,0,0,,Vụ câu lạc bộ kịch,\Nbọn tao tạm thời sẽ gác lại một thời gian.
+Dialogue: 0,0:08:58.89,0:09:00.35,Default,Oka,0,0,0,,Bọn tao có việc khác phải làm rồi.
+Dialogue: 0,0:09:00.93,0:09:01.68,Default,Sun,0,0,0,,Việc khác là việc gì?
+Dialogue: 0,0:09:01.68,0:09:04.43,Default,Oka,0,0,0,,Ừ. Trông trẻ cho một cô bé ma.
+Dialogue: 0,0:09:04.43,0:09:06.27,Default,Oka,0,0,0,,Dù tao chẳng tin con bé là ma chút nào.
+Dialogue: 0,0:09:06.27,0:09:08.06,Default,Sun,0,0,0,,Hả? Ma á?
+Dialogue: 0,0:09:08.06,0:09:11.61,Default,Oka,0,0,0,,Fuko làm tao bận tâm, mà Furukawa cũng khiến tao lo lắng nữa.
+Dialogue: 0,0:09:11.61,0:09:14.11,Default,Oka,0,0,0,,Nên tao sẽ theo giúp đỡ và để mắt tới hai người họ một thời gian.
+Dialogue: 0,0:09:14.11,0:09:15.15,Default,Oka,0,0,0,,Vì lẽ đó, rót trà cho tao mau.
+Dialogue: 0,0:09:15.15,0:09:16.57,Default,Sun,0,0,0,,Lý sự cùn kiểu gì thế hả?!
+Dialogue: 0,0:09:20.24,0:09:21.33,Default,Oka,0,0,0,,Cháu chào cô chú!
+Dialogue: 0,0:09:29.67,0:09:31.63,Default,Oka,0,0,0,,Cháu xin phép lên lầu ạ.
+Dialogue: 0,0:09:34.59,0:09:35.59,Default,Oka,0,0,0,,Chào mọi người.
+Dialogue: 0,0:09:36.01,0:09:38.01,Default,Aki,0,0,0,,Cái quỷ gì thế này?!
+Dialogue: 0,0:09:38.55,0:09:40.26,Default,Aki,0,0,0,,Tao bị chảy máu rồi nè!
+Dialogue: 0,0:09:42.60,0:09:44.68,Default,Oka,0,0,0,,Mới sáng sớm tinh mơ mà mọi người làm cái gì thế?
+Dialogue: 0,0:09:44.68,0:09:47.19,Default,Nag,0,0,0,,A, Okazaki-san đấy à.
+Dialogue: 0,0:09:47.19,0:09:49.90,Default,San,0,0,0,,Chào buổi sáng cháu nhé, Okazaki-san.
+Dialogue: 0,0:09:49.90,0:09:52.86,Default,Oka,0,0,0,,Mọi người ngồi đẽo mấy cái này suốt từ tối qua đến giờ đấy à?
+Dialogue: 0,0:09:52.86,0:09:56.19,Default,Nag,0,0,0,,Vâng, cả nhà đang phụ giúp Fuuko-chan đấy ạ.
+Dialogue: 0,0:09:56.19,0:09:57.70,Default,Guy,0,0,0,,Xin lỗi, có ai ở tiệm không ạ!
+Dialogue: 0,0:09:57.70,0:09:59.36,Default,Oka,0,0,0,,Bác ơi, có khách mua hàng kìa.
+Dialogue: 0,0:09:59.36,0:09:59.91,Default,Aki,0,0,0,,Mày ra bán đi.
+Dialogue: 0,0:09:59.91,0:10:00.37,Default,Oka,0,0,0,,Hả?
+Dialogue: 0,0:10:00.37,0:10:00.95,Default,Aki,0,0,0,,Trông quầy đi.
+Dialogue: 0,0:10:00.95,0:10:03.45,Default,Oka,0,0,0,,Đấy đâu phải chuyện mà bác nên nhờ bạn của con gái bác làm chứ!
+Dialogue: 0,0:10:03.45,0:10:05.29,Default,San,0,0,0,,Cháu nó nói phải đấy, Akio-san.
+Dialogue: 0,0:10:05.29,0:10:08.16,Default,Oka,0,0,0,,Chuẩn luôn, bác Sanae. Nói cho bác ấy hiểu đi ạ.
+Dialogue: 0,0:10:08.16,0:10:10.92,Default,San,0,0,0,,Mình vừa trông tiệm vừa đẽo gỗ cũng được mà anh.
+Dialogue: 0,0:10:12.92,0:10:16.01,Default,Aki,0,0,0,,Nếu Sanae đã nói yêu anh đến thế, thì duyệt luôn!
+Dialogue: 0,0:10:16.01,0:10:17.47,Default,Oka,0,0,0,,Làm gì có ai nói câu đó đâu trời!
+Dialogue: 0,0:10:17.47,0:10:19.30,Default,Aki,0,0,0,,Được rồi, đến giờ lao động vinh quang rồi.
+Dialogue: 0,0:10:19.30,0:10:19.84,Default,San,0,0,0,,Vâng ạ.
+Dialogue: 0,0:10:20.39,0:10:23.05,Default,Nag,0,0,0,,Tớ cũng phải chuẩn bị đi học đây.
+Dialogue: 0,0:10:28.27,0:10:31.48,Default,Oka,0,0,0,,Xếp đống này lại với nhau trông sàn nhà y như bầu trời đầy sao ấy nhỉ.
+Dialogue: 0,0:10:32.44,0:10:34.07,Default,Fuk,0,0,0,,Tại sao ạ?
+Dialogue: 0,0:10:34.07,0:10:36.40,Default,Oka,0,0,0,,Thì mấy cái này là ngôi sao đúng không?
+Dialogue: 0,0:10:36.40,0:10:37.99,Default,Fuk,0,0,0,,Không phải đâu, là con sao biển đấy ạ.
+Dialogue: 0,0:10:39.70,0:10:40.49,Default,Oka,0,0,0,,Nhóc nói cái gì cơ?
+Dialogue: 0,0:10:40.49,0:10:41.53,Default,Fuk,0,0,0,,Là sao biển đấy ạ.
+Dialogue: 0,0:10:42.45,0:10:46.29,Default,Oka,0,0,0,,Hóa ra từ trước tới giờ nhóc toàn đẽo sao biển thôi à?
+Dialogue: 0,0:10:46.29,0:10:50.17,Default,Fuk,0,0,0,,Đương nhiên rồi ạ. Fuko chẳng hiểu sao mình lại phải đẽo ngôi sao làm gì nữa.
+Dialogue: 0,0:10:50.17,0:10:51.17,Default,Fuk,0,0,0,,Chẳng có ý nghĩa gì hết trơn.
+Dialogue: 0,0:10:51.17,0:10:53.17,Default,Oka,0,0,0,,Đẽo sao biển còn vô lý gấp ngàn lần ấy chứ!
+Dialogue: 0,0:10:54.21,0:10:57.38,Default,Nag,0,0,0,,Nhìn chúng xếp cạnh nhau thế này trông dễ thương lắm đấy.
+Dialogue: 0,0:10:57.96,0:10:59.59,Default,Nag,0,0,0,,Những bé sao biển.
+Dialogue: 0,0:10:59.59,0:11:02.93,Default,Oka,0,0,0,,Con bé nói với cậu mấy cái này là sao biển từ trước à?
+Dialogue: 0,0:11:02.93,0:11:05.60,Default,Nag,0,0,0,,Không, ngay từ đầu nhìn vào là tớ đã nhận ra rồi mà.
+Dialogue: 0,0:11:05.60,0:11:08.14,Default,Oka,0,0,0,,Làm sao mà nhìn ra được chứ?\NMà cậu cũng thấy sao biển dễ thương thật đấy à?
+Dialogue: 0,0:11:08.14,0:11:11.35,Default,Nag,0,0,0,,Dễ thương lắm chứ, vì do chính tay Fuuko-chan làm ra mà.
+Dialogue: 0,0:11:12.35,0:11:15.02,Default,Oka,0,0,0,,Tôi chịu thua hai người luôn rồi đấy.
+Dialogue: 0,0:11:20.07,0:11:20.78,Default,Fuk,0,0,0,,Xin hãy nhận lấy ạ.
+Dialogue: 0,0:11:23.20,0:11:23.70,Default,Fuk,0,0,0,,Xin hãy nhận lấy ạ.
+Dialogue: 0,0:11:26.95,0:11:29.08,Default,Nag,0,0,0,,Bọn mình phát được nhiều ghê rồi nè.
+Dialogue: 0,0:11:29.08,0:11:32.08,Default,Fuk,0,0,0,,Phát được nhiều thế này là nhờ có hai anh chị giúp đỡ Fuko đấy ạ.
+Dialogue: 0,0:11:32.08,0:11:36.50,Default,Oka,0,0,0,,Thay vì làm chuyện này, nhóc không muốn đi gặp trực tiếp chị gái mình hơn à?
+Dialogue: 0,0:11:38.17,0:11:43.68,Default,Fuk,0,0,0,,Fuko cũng muốn gặp chị lắm chứ,\Nnhưng Fuko sợ chị ấy sẽ không nghe thấy tiếng của Fuko.
+Dialogue: 0,0:11:43.68,0:11:44.64,Default,Oka,0,0,0,,Ý nhóc là sao?
+Dialogue: 0,0:11:45.43,0:11:50.60,Default,Fuk,0,0,0,,Fuko nghĩ sở dĩ mình ở đây làm việc này,\Nchính là vì Fuko không thể nhìn thấy hay nói chuyện cùng chị ấy được nữa.
+Dialogue: 0,0:11:50.60,0:11:52.14,Default,Fuk,0,0,0,,Bởi vì ngoài việc này ra, Fuko chẳng còn làm được gì khác cho chị cả.
+Dialogue: 0,0:11:54.31,0:11:58.65,Default,Nag,0,0,0,,Ừm, Fuuko-chan này. Bình thường chị gái hay gọi em là gì thế?
+Dialogue: 0,0:11:58.65,0:12:00.40,Default,Fuk,0,0,0,,Dạ, là Fuu-chan ạ.
+Dialogue: 0,0:12:00.40,0:12:03.03,Default,Nag,0,0,0,,Thế chị cũng gọi em như vậy nhé?
+Dialogue: 0,0:12:03.03,0:12:03.53,Default,Fuk,0,0,0,,Vâng ạ.
+Dialogue: 0,0:12:03.53,0:12:05.03,Default,Oka,0,0,0,,Tôi cũng gọi nhóc là Fuu-chan được không?
+Dialogue: 0,0:12:05.03,0:12:06.12,Default,Fuk,0,0,0,,Kinh khủng khiếp quá đi mất!
+Dialogue: 0,0:12:06.12,0:12:06.91,Default,Oka,0,0,0,,Tại sao chứ?!
+Dialogue: 0,0:12:06.91,0:12:08.45,Default,Fuk,0,0,0,,Không thích là không thích thôi ạ!
+Dialogue: 0,0:12:08.45,0:12:08.83,Default,Oka,0,0,0,,Cái con nhóc này...
+Dialogue: 0,0:12:10.33,0:12:11.87,Default,Oka,0,0,0,,Miyazawa, cậu có ở đây không?
+Dialogue: 0,0:12:14.00,0:12:15.42,Default,Yuk,0,0,0,,Chào mừng mọi người.
+Dialogue: 0,0:12:17.04,0:12:19.00,Default,Yuk,0,0,0,,Còn bé này là ai thế?
+Dialogue: 0,0:12:19.00,0:12:21.46,Default,Fuk,0,0,0,,Dạ, xin chị hãy nhận lấy món này ạ.
+Dialogue: 0,0:12:21.46,0:12:22.05,Default,Yuk,0,0,0,,Ơ?
+Dialogue: 0,0:12:22.05,0:12:23.80,Default,Fuk,0,0,0,,Món quà Fuko tặng chị đấy ạ.
+Dialogue: 0,0:12:28.64,0:12:30.64,Default,Yuk,0,0,0,,Cảm ơn em nhiều nhé.
+Dialogue: 0,0:12:31.68,0:12:35.81,Default,Yuk,0,0,0,,Ra vậy. Em ấy làm chuyện này để nhờ học sinh chúc mừng đám cưới của chị mình sao.
+Dialogue: 0,0:12:35.81,0:12:38.82,Default,Nag,0,0,0,,Vâng. Bọn tớ đang cùng cổ vũ cho em ấy.
+Dialogue: 0,0:12:38.82,0:12:40.82,Default,Yuk,0,0,0,,Chị cũng sẽ luôn ủng hộ em hết mình nhé.
+Dialogue: 0,0:12:40.82,0:12:42.07,Default,Yuk,0,0,0,,Cố lên em nhé.
+Dialogue: 0,0:12:42.65,0:12:44.07,Default,Fuk,0,0,0,,Fuko cảm ơn chị nhiều lắm ạ.
+Dialogue: 0,0:12:45.24,0:12:48.49,Default,Oka,0,0,0,,Cậu tiếp nhận mọi chuyện nhẹ nhàng ghê nhỉ.
+Dialogue: 0,0:12:49.03,0:12:51.79,Default,Nag,0,0,0,,Chị ấy vui vẻ nhận quà rồi, thích quá phải không Fuu-chan?
+Dialogue: 0,0:12:51.79,0:12:54.16,Default,Fuk,0,0,0,,Vâng ạ. Tất cả là nhờ có Nagisa-san đấy ạ.
+Dialogue: 0,0:12:54.16,0:12:54.75,Default,Oka,0,0,0,,Nhóc bơ tôi luôn đấy à?
+Dialogue: 0,0:12:54.75,0:12:56.33,Default,Fuk,0,0,0,,Bởi vì anh là kẻ thù của Fuko mà.
+Dialogue: 0,0:12:56.33,0:12:57.29,Default,Oka,0,0,0,,Tôi đâu phải kẻ thù.
+Dialogue: 0,0:12:57.29,0:12:58.13,Default,Fuk,0,0,0,,Thế thì là oan gia ngõ hẹp của Fuko.
+Dialogue: 0,0:12:58.13,0:12:59.00,Default,Oka,0,0,0,,Càng lúc càng tệ hơn rồi đấy!
+Dialogue: 0,0:12:59.00,0:13:01.30,Default,Fuk,0,0,0,,Đúng hơn thì anh là kẻ thù truyền kiếp không đội trời chung của Fuko.
+Dialogue: 0,0:13:01.30,0:13:02.38,Default,Nag,0,0,0,,Okazaki-san!
+Dialogue: 0,0:13:02.38,0:13:04.80,Default,Nag,0,0,0,,Cậu không được bắt nạt Fuu-chan đâu đấy.
+Dialogue: 0,0:13:04.80,0:13:07.39,Default,Oka,0,0,0,,Hóa ra được Nagisa ôm một cái là con bé cũng rơi vào trạng thái ngẩn ngơ thế này à.
+Dialogue: 0,0:13:08.51,0:13:10.10,Default,Nag,0,0,0,,Ừm, Fuu-chan ơi?
+Dialogue: 0,0:13:10.10,0:13:13.77,Default,Oka,0,0,0,,Cậu có gọi tên cũng vô ích thôi.\NMỗi lần rơi vào trạng thái này là hồn con bé bay đi mất tăm cả buổi.
+Dialogue: 0,0:13:15.02,0:13:16.10,Default,Oka,0,0,0,,Fujibayashi!
+Dialogue: 0,0:13:16.10,0:13:17.31,Default,Ryo,0,0,0,,Dạ?
+Dialogue: 0,0:13:17.31,0:13:18.31,Default,Oka,0,0,0,,Cậu qua đây một lát được không?
+Dialogue: 0,0:13:19.65,0:13:24.78,Default,Ryo,0,0,0,,Tí nữa con bé hoàn hồn lại, cậu nhớ bảo,\N'Tớ là Okazaki đây, tớ vừa mới biến thành con gái'.
+Dialogue: 0,0:13:25.74,0:13:29.03,Default,Oka,0,0,0,,Con bé này cứ hay ngơ ngẩn suốt ngày,\Nnên tớ muốn cảnh cáo cho nó tỉnh ra một chút.
+Dialogue: 0,0:13:29.03,0:13:30.33,Default,Oka,0,0,0,,Cậu giúp tớ một tay nhé?
+Dialogue: 0,0:13:30.33,0:13:32.37,Default,Ryo,0,0,0,,Vâng, tớ giúp được ạ.
+Dialogue: 0,0:13:32.37,0:13:36.00,Default,Oka,0,0,0,,Nếu nó hỏi chuyện gì đã xảy ra, cậu cứ nói: 'Lâu lâu cái ấy lại rụng ra một lần'.
+Dialogue: 0,0:13:36.00,0:13:38.79,Default,Oka,0,0,0,,Còn nó hỏi gì khác, cứ đáp: 'Chắc là vậy đấy'.
+Dialogue: 0,0:13:38.79,0:13:39.25,Default,Ryo,0,0,0,,Vâng.
+Dialogue: 0,0:13:39.25,0:13:41.67,Default,Oka,0,0,0,,Bọn mình nấp vào đây xem nhé.
+Dialogue: 0,0:13:44.42,0:13:47.22,Default,Nag,0,0,0,,Làm thế này thật sự là vì điều tốt cho Fuu-chan sao cậu?
+Dialogue: 0,0:13:48.68,0:13:51.22,Default,Fuk,0,0,0,,Ủa, nãy giờ mọi người đang nói chuyện gì thế ạ?
+Dialogue: 0,0:13:51.22,0:13:54.14,Default,Fuk,0,0,0,,Ơ? Okazaki-san với Nagisa-san đâu mất tiêu rồi?
+Dialogue: 0,0:13:54.60,0:13:57.94,Default,Ryo,0,0,0,,Tớ là Okazaki đây; tớ vừa mới biến thành con gái.
+Dialogue: 0,0:13:58.52,0:14:01.86,Default,Ryo,0,0,0,,Tớ đã bảo tớ là Okazaki mà.
+Dialogue: 0,0:14:01.86,0:14:03.32,Default,Ryo,0,0,0,,Tớ vừa mới biến thành con gái xong.
+Dialogue: 0,0:14:04.69,0:14:06.40,Default,Fuk,0,0,0,,Chuyện này phi lý quá đi mất!
+Dialogue: 0,0:14:06.40,0:14:09.20,Default,Fuk,0,0,0,,Tại sao anh lại biến thành con gái được chứ?
+Dialogue: 0,0:14:09.20,0:14:11.83,Default,Ryo,0,0,0,,L-Lâu lâu... cái ấy lại rụng ra một lần.
+Dialogue: 0,0:14:12.41,0:14:14.91,Default,Fuk,0,0,0,,Cú sốc này lớn quá chừng!
+Dialogue: 0,0:14:14.91,0:14:17.58,Default,Fuk,0,0,0,,Vậy là... lâu lâu cái ấy lại rụng ra sao?
+Dialogue: 0,0:14:16.20,0:14:17.08,Default-alt,Nag,0,0,0,,Trời đất ơi...
+Dialogue: 0,0:14:17.58,0:14:18.67,Default,Ryo,0,0,0,,C-Chắc là vậy đấy.
+Dialogue: 0,0:14:18.67,0:14:22.38,Default,Fuk,0,0,0,,Chắc là vậy á?! Cái ấy rụng ra dễ dàng thế sao?!
+Dialogue: 0,0:14:22.38,0:14:25.21,Default,Fuk,0,0,0,,Fuko chưa từng biết trên đời lại có một người như thế này tồn tại luôn đấy!
+Dialogue: 0,0:14:25.34,0:14:29.59,Default,Fuk,0,0,0,,Nếu nghĩ theo chiều ngược lại, liệu có khi nào\Nmột cái ấy sẽ tự nhiên mọc vào người Fuko không?!
+Dialogue: 0,0:14:29.59,0:14:30.51,Default,Ryo,0,0,0,,Chắc là vậy đấy.
+Dialogue: 0,0:14:30.51,0:14:32.43,Default,Fuk,0,0,0,,Có thể xảy ra thật sao?! Fuko bàng hoàng tột độ luôn rồi!
+Dialogue: 0,0:14:32.89,0:14:34.72,Default,Fuk,0,0,0,,Nó gắn lại vào người anh rồi đấy à?!
+Dialogue: 0,0:14:34.72,0:14:36.14,Default,Oka,0,0,0,,Nhóc đang lảm nhảm cái gì thế?
+Dialogue: 0,0:14:37.98,0:14:39.98,Default,Fuk,0,0,0,,Hóa ra nãy giờ chỉ là một cơn ác mộng thôi.
+Dialogue: 0,0:14:39.98,0:14:44.36,Note,Fuk,0,0,0,,Ghi chú: Đuôi 'taro' thường dùng để đặt tên cho con trai Nhật Bản
+Dialogue: 0,0:14:39.98,0:14:44.36,Default,Fuk,0,0,0,,May quá đi mất. Fuko cứ tưởng có ngày mình sẽ biến thành Fuutaro chứ.
+Dialogue: 0,0:14:44.36,0:14:48.03,Default,Nag,0,0,0,,Okazaki-san, cậu mau giải thích cho em ấy hiểu đi.
+Dialogue: 0,0:14:48.49,0:14:49.99,Default,Fuk,0,0,0,,Có đến hai Okazaki-san lận kìa!
+Dialogue: 0,0:14:49.99,0:14:51.32,Default,Oka,0,0,0,,Thỉnh thoảng tôi lại tự phân thân làm hai đấy.
+Dialogue: 0,0:14:51.32,0:14:52.74,Default,Fuk,0,0,0,,Fuko bàng hoàng tột độ luôn rồi!
+Dialogue: 0,0:14:52.74,0:14:54.33,Default,Kyo,0,0,0,,Này, Tomoya!
+Dialogue: 0,0:14:54.91,0:14:59.29,Default,Kyo,0,0,0,,Bà mày đứng nhìn nãy giờ rồi nhé! Đừng có lấy em gái tao ra làm trò đùa!
+Dialogue: 0,0:15:02.13,0:15:03.25,Default,Fuk,0,0,0,,Khuôn mặt giống hệt nhau luôn!
+Dialogue: 0,0:15:03.25,0:15:05.25,Default,Fuk,0,0,0,,Có đến ba Okazaki-san lận này!
+Dialogue: 0,0:15:05.25,0:15:07.17,Default,Oka,0,0,0,,Con bé này còn tính diễn trò ngơ ngác tới bao giờ nữa đây?
+Dialogue: 0,0:15:07.17,0:15:14.05,Signs,,0,0,0,,{\fad(1000,0)\fs55\4c&H9A9298&\shad3\move(960,1070,960,439,0,1404)\c&H1CE7FF&}Đã thuần thục kỹ năng "Tráo người đối thoại"!
+Dialogue: 0,0:15:14.05,0:15:14.93,Default,Fuk,0,0,0,,Xin hai chị hãy nhận lấy ạ.
+Dialogue: 0,0:15:14.93,0:15:16.22,Default,Kyo,0,0,0,,Em tặng hai đứa chị món này sao?
+Dialogue: 0,0:15:16.22,0:15:18.06,Default,Ryo,0,0,0,,Một ngôi sao to ghê.
+Dialogue: 0,0:15:18.06,0:15:19.64,Default,Kyo,0,0,0,,Hay là con sao biển thế nhỉ?
+Dialogue: 0,0:15:20.18,0:15:23.61,Default,Fuk,0,0,0,,Chị tuyệt vời quá! Chị chính thức gia nhập liên minh sao biển của Fuko rồi nhé!
+Dialogue: 0,0:15:23.61,0:15:25.73,Default,Kyo,0,0,0,,Hả? Cái này thật sự là con sao biển đấy à?
+Dialogue: 0,0:15:25.73,0:15:29.49,Default,Oka,0,0,0,,Ừ. Bức điêu khắc sao biển do Fuko dồn hết tâm huyết tạo thành đấy.
+Dialogue: 0,0:15:29.49,0:15:33.87,Default,Kyo,0,0,0,,Ừm... chị chỉ buột miệng nói đùa thôi mà...
+Dialogue: 0,0:15:33.87,0:15:36.74,Default,Fuk,0,0,0,,Hai chị ôm bé sao biển vào lòng đi ạ.
+Dialogue: 0,0:15:37.45,0:15:38.62,Default,Ryo,0,0,0,,Thế này hả em?
+Dialogue: 0,0:15:38.95,0:15:41.16,Default,Fuk,0,0,0,,Hai chị trông lộng lẫy tuyệt trần luôn! Tuyệt vời ông mặt trời!
+Dialogue: 0,0:15:41.16,0:15:42.21,Default,Oka,0,0,0,,Gu thẩm mỹ của con bé này kiểu gì thế không biết?
+Dialogue: 0,0:15:42.21,0:15:46.96,Default,Nag,0,0,0,,Nhưng hai bạn ấy đều xinh xắn cả mà,\Nnhìn họ đứng cạnh nhau trông đẹp đôi lắm đấy.
+Dialogue: 0,0:15:46.96,0:15:48.96,Default,Oka,0,0,0,,Cơ mà tính nết bên trong thì một trời một vực.
+Dialogue: 0,0:15:48.96,0:15:51.42,Default,Oka,0,0,0,,Bà chị thì như khỉ đột gorila còn cô em thì hiền như chuột hamster.
+Dialogue: 0,0:15:54.72,0:15:55.85,Default,Nag,0,0,0,,Okazaki-san!
+Dialogue: 0,0:15:55.85,0:15:58.01,Default,Kyo,0,0,0,,Cậu vừa mới nói cái gì thất lễ lắm đúng không?!
+Dialogue: 0,0:15:58.01,0:16:01.10,Default,Ryo,0,0,0,,Không được ném đồ người ta vừa tặng mình đâu chị!
+Dialogue: 0,0:16:01.10,0:16:04.44,Default,Oka,0,0,0,,Đúng thế! Làm vậy thì Fuko sẽ...
+Dialogue: 0,0:16:05.90,0:16:11.57,Default,Kyo,0,0,0,,C-Chị xin lỗi. Trông nó có vẻ gây sát thương chí mạng tốt quá nên chị lỡ tay ném theo phản xạ.
+Dialogue: 0,0:16:12.61,0:16:14.24,Default,Fuk,0,0,0,,Sao biển biết bay kìa...
+Dialogue: 0,0:16:16.07,0:16:17.16,Default,Fuk,0,0,0,,Tuyệt cú mèo luôn!
+Dialogue: 0,0:16:17.16,0:16:18.28,Default,Oka,0,0,0,,Tại sao lại thế được chứ?!
+Dialogue: 0,0:16:18.28,0:16:21.41,Default,Nag,0,0,0,,Mọi người đều vui vẻ đón nhận kìa.
+Dialogue: 0,0:16:21.41,0:16:25.29,Default,Oka,0,0,0,,Thì bọn mình toàn lựa những người tốt bụng mà rủ thôi.
+Dialogue: 0,0:16:25.29,0:16:26.46,Default,Fuk,0,0,0,,Mitsui-san!
+Dialogue: 0,0:16:27.29,0:16:29.05,Default,Fuk,0,0,0,,Em là Ibuki Fuuko đây ạ.
+Dialogue: 0,0:16:29.05,0:16:32.30,Default,Fuk,0,0,0,,Hồi lễ khai giảng em với chị có nói chuyện một lát rồi đúng không ạ?
+Dialogue: 0,0:16:32.30,0:16:34.13,Default,Mit,0,0,0,,Ừ, chị nhớ ra rồi.
+Dialogue: 0,0:16:34.13,0:16:36.01,Default,Mit,0,0,0,,Em từng gặp tai nạn đúng không?
+Dialogue: 0,0:16:36.01,0:16:37.22,Default,Mit,0,0,0,,Em đã được xuất viện rồi sao?
+Dialogue: 0,0:16:37.22,0:16:38.76,Default,Fuk,0,0,0,,Dạ...
+Dialogue: 0,0:16:38.76,0:16:39.22,Default,Oka,0,0,0,,Phải đấy.
+Dialogue: 0,0:16:39.22,0:16:42.14,Default,Oka,0,0,0,,Con bé vừa được xuất viện và đang bắt đầu lại với tư cách học sinh năm nhất.
+Dialogue: 0,0:16:42.14,0:16:44.39,Default,Oka,0,0,0,,Bọn này có một thỉnh cầu nhỏ muốn nhờ chị.
+Dialogue: 0,0:16:44.98,0:16:46.65,Default,Fuk,0,0,0,,Xin chị hãy nhận lấy món này ạ!
+Dialogue: 0,0:16:48.23,0:16:48.90,Default,Mit,0,0,0,,Cái gì thế này?
+Dialogue: 0,0:16:48.90,0:16:50.53,Default,Fuk,0,0,0,,Món quà Fuko tặng chị ạ.
+Dialogue: 0,0:16:50.53,0:16:55.99,Default,Fuk,0,0,0,,Và nếu được, Fuko rất mong chị có thể đến dự lễ cưới của chị gái Fuko.
+Dialogue: 0,0:16:57.24,0:16:58.74,Default,Mit,0,0,0,,Chị rất tiếc, nhưng chị không thể nhận được.
+Dialogue: 0,0:17:00.03,0:17:06.62,Default,Mit,0,0,0,,Em mới học năm nhất nên có lẽ chưa hiểu,\Nchứ học sinh năm ba đang bước vào giai đoạn ôn thi đại học rất quan trọng.
+Dialogue: 0,0:17:07.00,0:17:10.50,Default,Mit,0,0,0,,Chị không muốn làm bất cứ điều gì gây lãng phí thời gian cả.
+Dialogue: 0,0:17:10.50,0:17:11.25,Default,Mit,0,0,0,,Chị xin phép đi trước nhé.
+Dialogue: 0,0:17:14.17,0:17:15.17,Default,Nag,0,0,0,,Fuu-chan...
+Dialogue: 0,0:17:20.30,0:17:23.10,Default,Oka,0,0,0,,Này, sao nhóc không tươi tỉnh lên đi chứ?
+Dialogue: 0,0:17:23.10,0:17:24.52,Default,Fuk,0,0,0,,Fuko vẫn ổn mà ạ.
+Dialogue: 0,0:17:24.52,0:17:26.39,Default,Oka,0,0,0,,Nhìn mặt nhóc ỉu xìu như thế nên tôi mới phải bảo.
+Dialogue: 0,0:17:26.39,0:17:32.07,Default,Fuk,0,0,0,,Hồi lễ khai giảng, Fuko cũng chỉ nói chuyện với Mitsui-san được một lát thôi.
+Dialogue: 0,0:17:32.07,0:17:35.32,Default,Fuk,0,0,0,,Chị ấy còn nhớ tên Fuko là đã tốt lắm rồi ạ.
+Dialogue: 0,0:17:35.32,0:17:38.32,Default,Fuk,0,0,0,,Fuko đâu có được đi học buổi nào đâu.
+Dialogue: 0,0:17:38.32,0:17:44.54,Default,Fuk,0,0,0,,Fuko chỉ toàn đi lượm gỗ thừa rồi ngồi đẽo một mình trong phòng học trống thôi.
+Dialogue: 0,0:17:46.54,0:17:50.79,Default,Fuk,0,0,0,,Fuko cũng muốn được vào lớp học như bao người khác...
+Dialogue: 0,0:17:51.29,0:17:54.13,Default,Oka,0,0,0,,Được rồi. Đến lúc gọi hội Kyou với Sunohara đến rồi.
+Dialogue: 0,0:17:59.14,0:18:02.39,Default,Nag,0,0,0,,Dù là cuối tuần mà trường vẫn đông vui nhộn nhịp ghê.
+Dialogue: 0,0:18:02.39,0:18:04.27,Default,Oka,0,0,0,,Ừ, vì lễ hội thành lập trường sắp diễn ra rồi mà.
+Dialogue: 0,0:18:04.27,0:18:05.89,Default,Oka,0,0,0,,Chắc mọi người đang rục rịch chuẩn bị.
+Dialogue: 0,0:18:05.89,0:18:07.77,Default,Oka,0,0,0,,Nhờ vậy mà bọn mình mới vào trường dễ dàng thế này.
+Dialogue: 0,0:18:09.02,0:18:10.69,Default,Kyo,0,0,0,,A, mọi người ở đằng kia kìa.
+Dialogue: 0,0:18:10.69,0:18:15.11,Default,Ryo,0,0,0,,Chào buổi sáng Okazaki-san,\NFurukawa-san, và cả Fuuko-chan nữa nhé.
+Dialogue: 0,0:18:15.11,0:18:17.24,Default,Nag,0,0,0,,Chào buổi sáng tất cả mọi người ạ.
+Dialogue: 0,0:18:17.24,0:18:19.36,Default,Oka,0,0,0,,Cảm ơn mọi người đã bớt chút thời gian đến đây.
+Dialogue: 0,0:18:19.36,0:18:22.53,Default,Sun,0,0,0,,Tao đến là vì Nagisa-chan đấy nhé, biết chưa.
+Dialogue: 0,0:18:22.53,0:18:24.99,Default,Oka,0,0,0,,Cảm ơn Sunohara-san rất nhiều nhé.
+Dialogue: 0,0:18:24.99,0:18:28.12,Default,Kyo,0,0,0,,Cơ mà Tomoya này, tại sao bọn mình lại phải làm cái trò này thế?
+Dialogue: 0,0:18:28.12,0:18:29.79,Default,Oka,0,0,0,,Có vài lý do tế nhị.
+Dialogue: 0,0:18:29.79,0:18:31.67,Default,Oka,0,0,0,,Hôm nào rảnh tao sẽ giải thích cặn kẽ cho.
+Dialogue: 0,0:18:31.67,0:18:33.92,Default,Ryo,0,0,0,,Có chuyện gì thế em, Fuuko-chan?
+Dialogue: 0,0:18:35.25,0:18:37.17,Default,Fuk,0,0,0,,Fuko hơi hồi hộp một chút ạ.
+Dialogue: 0,0:18:37.17,0:18:39.59,Default,Nag,0,0,0,,Lại đây với chị nào, Fuu-chan.
+Dialogue: 0,0:18:39.59,0:18:41.55,Default,Nag,0,0,0,,Tiết học sắp sửa bắt đầu rồi đấy.
+Dialogue: 0,0:18:44.60,0:18:46.47,Default,Kyo,0,0,0,,Bên này cơ mà.
+Dialogue: 0,0:18:47.27,0:18:48.48,Default,Oka,0,0,0,,Mau vào đây nhanh lên nào.
+Dialogue: 0,0:18:54.73,0:18:57.49,Default,Kyo,0,0,0,,Học sinh thì đủ mặt rồi,\Nnhưng còn giáo viên thì tính sao đây?
+Dialogue: 0,0:18:57.49,0:18:59.15,Default,Oka,0,0,0,,Cũng nan giải thật đấy.
+Dialogue: 0,0:18:59.15,0:19:02.32,Default,Oka,0,0,0,,Tôi đâu thể đi nhờ giáo viên thật dạy hộ được.
+Dialogue: 0,0:19:02.32,0:19:05.33,Default,Sun,0,0,0,,Thế thì một đứa trong tụi mình đóng vai thầy giáo nhé?
+Dialogue: 0,0:19:05.33,0:19:06.79,Default,Oka,0,0,0,,Trừ mày ra, cái đồ óc quả nho.
+Dialogue: 0,0:19:06.79,0:19:09.00,Default,Sun,0,0,0,,Mày ăn nói mất nết vừa thôi nhé!
+Dialogue: 0,0:19:09.33,0:19:10.67,Default,San,0,0,0,,Được rồi.
+Dialogue: 0,0:19:10.67,0:19:13.17,Default,San,0,0,0,,Tiết học bắt đầu nhé.
+Dialogue: 0,0:19:13.17,0:19:15.09,Default,Oka,0,0,0,,Bác Sanae? Sao bác lại ở đây ạ?
+Dialogue: 0,0:19:15.09,0:19:17.30,Default,San,0,0,0,,Cô nghe toàn bộ câu chuyện từ Nagisa rồi.
+Dialogue: 0,0:19:17.30,0:19:20.76,Default,San,0,0,0,,Nếu các em không phiền, hãy để cô đảm nhiệm vai cô giáo nhé.
+Dialogue: 0,0:19:21.59,0:19:24.05,Default,Kyo,0,0,0,,Này, Tomoya, người kia là ai thế?
+Dialogue: 0,0:19:24.05,0:19:25.51,Default,Kyo,0,0,0,,Chị gái của Nagisa à?
+Dialogue: 0,0:19:25.51,0:19:27.01,Default,Oka,0,0,0,,Cứ cho là thế đi.
+Dialogue: 0,0:19:27.01,0:19:28.14,Default,Sun,0,0,0,,Người đẹp nghiêng nước nghiêng thành kìa!
+Dialogue: 0,0:19:28.52,0:19:30.98,Default,Sun,0,0,0,,Xem chừng tiết học này sẽ vui nổ trời đây.
+Dialogue: 0,0:19:30.98,0:19:33.56,Default,Oka,0,0,0,,Lại có một thằng sống ở cảnh giới khác người rồi đấy.
+Dialogue: 0,0:19:33.56,0:19:36.98,Default,San,0,0,0,,Được rồi, các em mau về chỗ ngồi nào.
+Dialogue: 0,0:19:39.49,0:19:43.57,Default,Oka,0,0,0,,Bác Sanae nhập vai cô giáo mượt mà ghê.
+Dialogue: 0,0:19:43.57,0:19:47.20,Default,San,0,0,0,,Vì đây là tiết học đầu tiên, cô muốn cả lớp hãy tự giới thiệu bản thân nhé.
+Dialogue: 0,0:19:47.20,0:19:47.91,Default,Sun,0,0,0,,Dạ có em!
+Dialogue: 0,0:19:47.91,0:19:50.16,Default,Sun,0,0,0,,Em là Sunohara Youhei!
+Dialogue: 0,0:19:50.16,0:19:52.29,Default,Sun,0,0,0,,Chữ Hán tự của tên em có nghĩa là cánh đồng mùa xuân ạ!
+Dialogue: 0,0:19:52.29,0:19:54.88,Default,San,0,0,0,,Ôi chao, một cái tên thật đẹp làm sao.
+Dialogue: 0,0:19:54.88,0:19:57.00,Default,Kyo,0,0,0,,Thưa cô, thằng Sunohara này là đồ đần độn ạ.
+Dialogue: 0,0:19:57.00,0:19:58.55,Default,Sun,0,0,0,,Đừng có bóc phốt tao trước mặt cô giáo chứ!
+Dialogue: 0,0:19:58.55,0:19:59.92,Default,Oka,0,0,0,,Đằng nào thì sớm muộn gì cô cũng nhận ra thôi mà.
+Dialogue: 0,0:19:59.92,0:20:02.26,Default,San,0,0,0,,Sunohara-kun, em hãy lấy nhiệt huyết dồi dào để bù đắp lại nhé.
+Dialogue: 0,0:20:04.84,0:20:06.51,Default,Oka,0,0,0,,Em là Okazaki Tomoya.
+Dialogue: 0,0:20:06.51,0:20:08.39,Default,Oka,0,0,0,,Ở trường em chỉ là một tên lười biếng vô tích sự thôi ạ.
+Dialogue: 0,0:20:08.39,0:20:11.27,Default,San,0,0,0,,Ừ, cứ sống theo nhịp điệu của riêng mình cũng là điều tốt mà em.
+Dialogue: 0,0:20:11.27,0:20:12.64,Default,Nag,0,0,0,,Em là Furukawa Nagisa.
+Dialogue: 0,0:20:12.64,0:20:18.98,Default,Nag,0,0,0,,Sunohara-san và Okazaki-san tuy có hay quậy phá,\Nnhưng em muốn học hành thật nghiêm túc ạ.
+Dialogue: 0,0:20:18.98,0:20:21.28,Default,Oka,0,0,0,,Thế thì chức lớp trưởng chắc chắn thuộc về cậu rồi.
+Dialogue: 0,0:20:21.28,0:20:23.70,Default,Nag,0,0,0,,K-Không dám đâu ạ.
+Dialogue: 0,0:20:23.70,0:20:25.91,Default,Sun,0,0,0,,Cậu làm lớp trưởng đi là chuẩn bài rồi đấy.
+Dialogue: 0,0:20:26.32,0:20:27.07,Default,Nag,0,0,0,,Dạ không...
+Dialogue: 0,0:20:28.28,0:20:29.45,Default,Nag,0,0,0,,Thay vì em...
+Dialogue: 0,0:20:30.20,0:20:32.12,Default,Nag,0,0,0,,Em xin đề cử Fuu-chan ạ.
+Dialogue: 0,0:20:32.62,0:20:35.46,Default,Nag,0,0,0,,Bởi vì lớp học này mở ra là vì Fuu-chan mà.
+Dialogue: 0,0:20:36.96,0:20:38.29,Default,Oka,0,0,0,,Ý hay đấy.
+Dialogue: 0,0:20:38.29,0:20:39.71,Default,Oka,0,0,0,,Fuko! Nhóc gánh vác được chức này chứ?
+Dialogue: 0,0:20:44.05,0:20:45.43,Default,Kyo,0,0,0,,Tôi không phản đối.
+Dialogue: 0,0:20:45.43,0:20:47.85,Default,Ryo,0,0,0,,Cố gắng lên nhé lớp trưởng ơi.
+Dialogue: 0,0:20:47.85,0:20:50.14,Default,Sun,0,0,0,,Nếu Nagisa-chan đã nói vậy thì duyệt luôn.
+Dialogue: 0,0:20:52.06,0:20:55.56,Default,San,0,0,0,,Nào, bạn lớp trưởng. Em hãy giới thiệu bản thân mình đi.
+Dialogue: 0,0:20:55.56,0:20:56.35,Default,Fuk,0,0,0,,Em là Ibuki—
+Dialogue: 0,0:20:56.35,0:20:57.73,Default,Oka,0,0,0,,Sai rồi, họ khác cơ mà!
+Dialogue: 0,0:20:58.31,0:20:59.86,Default,Fuk,0,0,0,,Em là Isogai Fuuko ạ!
+Dialogue: 0,0:20:59.86,0:21:01.44,Default,Fuk,0,0,0,,Fuko thích nhất là sao biển ạ.
+Dialogue: 0,0:21:01.44,0:21:03.40,Default,San,0,0,0,,Giỏi lắm.
+Dialogue: 0,0:21:04.74,0:21:05.95,Default,San,0,0,0,,Fuuko-chan này.
+Dialogue: 0,0:21:09.99,0:21:16.25,Default,San,0,0,0,,Fuuko-chan ơi, tất cả những người em nhìn thấy xung quanh\Nđều là bạn cùng lớp của em...
+Dialogue: 0,0:21:16.25,0:21:17.79,Default,San,0,0,0,,...và cũng chính là những người bạn thân thiết của em đấy.
+Dialogue: 0,0:21:33.52,0:21:35.73,Default,San,0,0,0,,Chúng ta hãy cùng hòa thuận và thương yêu nhau nhé.
+Dialogue: 0,0:21:35.73,0:21:37.19,Default,All,0,0,0,,Vâng ạ!
+Dialogue: 0,0:21:38.27,0:21:40.15,Default,San,0,0,0,,Bây giờ chúng ta cùng bắt đầu tiết học nhé.
+Dialogue: 0,0:21:40.15,0:21:41.40,Default,San,0,0,0,,Xin mời bạn lớp trưởng nào.
+Dialogue: 0,0:21:42.44,0:21:44.15,Default,Kyo,0,0,0,,Em phải hô khẩu lệnh đấy.
+Dialogue: 0,0:21:44.15,0:21:44.99,Default,Fuk,0,0,0,,Vâng ạ.
+Dialogue: 0,0:21:44.99,0:21:46.15,Default,Fuk,0,0,0,,Cả lớp, đứng!
+Dialogue: 0,0:21:46.95,0:21:47.78,Default,Fuk,0,0,0,,Nghiêm!
+Dialogue: 0,0:21:48.74,0:21:49.78,Default,Fuk,0,0,0,,Ngồi xuống!
+Dialogue: 0,0:21:54.62,0:21:57.21,Default,Oka,0,0,0,,Ibuki Fuuko...
+Dialogue: 0,0:22:00.84,0:22:05.76,Default,Oka,0,0,0,,Tuy con bé có hơi kỳ quặc một chút, nhưng nhìn kiểu gì\Ncũng chỉ là một nữ sinh trung học bình thường mà thôi.
+Dialogue: 0,0:22:05.88,0:22:09.84,Signs,,0,0,0,,{\fad(400,0)\4c&H000000&\shad2.5\pos(1460,840)}Còn tiếp
+Dialogue: 0,0:22:10.68,0:22:18.89,ED Romaji,,0,0,0,,{\fad(250,250)\be1\3c&H6E8B46&}{\kf35}da{\kf33}n{\kf58}go {\kf60}dan{\kf60}go {\kf57}dan{\kf64}go {\kf59}dan{\kf60}go {\kf26}da{\kf33}n{\kf60}go {\kf57}dai{\kf32}ka{\kf34}zo{\kf51}ku
+Dialogue: 0,0:22:10.68,0:22:18.89,ED English,,0,0,0,,{\fad(250,250)\be1\3c&H447687&}Dango, dango, dango, dango, đại gia đình dango.
+Dialogue: 0,0:22:20.15,0:22:25.03,ED Romaji,,0,0,0,,{\fad(0,0)\be1\3c&H489390&}{\kf45}ya{\kf33}n{\kf56}cha{\kf64}na {\kf59}ya{\kf60}ki {\kf62}da{\kf56}n{\kf53}go {\kf26}ya{\kf33}sa{\kf71}shii {\kf59}a{\kf60}n {\kf61}da{\kf59}n{\kf58}go
+Dialogue: 0,0:22:20.15,0:22:25.03,ED English,,0,0,0,,{\fad(0,0)\be1\3c&H23627C&}Dango nướng tinh nghịch, dango đậu đỏ dịu dàng,
+Dialogue: 0,0:22:25.03,0:22:29.74,ED Romaji,,0,0,0,,{\fad(0,0)\be1\3c&H4C7330&}{\kf0}yanchana yaki dango {\kf26}ya{\kf33}sa{\kf71}shii {\kf59}a{\kf60}n {\kf61}da{\kf59}n{\kf58}go
+Dialogue: 0,0:22:25.03,0:22:29.74,ED English,,0,0,0,,{\fad(0,0)\be1\3c&H4C7330&}Dango nướng tinh nghịch, dango đậu đỏ dịu dàng,
+Dialogue: 0,0:22:29.74,0:22:38.21,ED Romaji,,0,0,0,,{\fad(0,250)\be1\3c&H728947&}{\kf50}mi{\kf23}n{\kf67}na {\kf54}mi{\kf65}nna {\kf57}a{\kf44}wa{\kf81}se{\kf59}te {\kf26}hya{\kf34}ku {\kf56}nin {\kf62}ka{\kf62}zo{\kf67}ku
+Dialogue: 0,0:22:29.74,0:22:38.21,ED English,,0,0,0,,{\fad(0,250)\be1\3c&H5A9053&}Khi tất cả quây quần bên nhau, thành gia đình trăm người ấm áp.
+Dialogue: 0,0:22:39.33,0:22:47.80,ED Romaji,,0,0,0,,{\fad(0,250)\be1\3c&H3A458B&}{\kf44}a{\kf33}ka-{\kf31}cha{\kf60}n {\kf33}da{\kf29}n{\kf29}go {\kf61}wa {\kf57}i{\kf59}tsu{\kf53}mo {\kf37}shi{\kf30}a{\kf16}wa{\kf78}se {\kf28}no {\kf29}na{\kf33}ka {\kf64}de
+Dialogue: 0,0:22:39.33,0:22:47.80,ED English,,0,0,0,,{\fad(0,250)\be1\3c&H479091&}Bé dango sơ sinh luôn được ôm ấp giữa ngập tràn hạnh phúc.
+Dialogue: 0,0:22:48.97,0:22:56.93,ED Romaji,,0,0,0,,{\fad(0,250)\be1\3c&H4A768F&}{\kf31}to{\kf46}shi{\kf31}yo{\kf62}ri {\kf27}da{\kf30}n{\kf28}go {\kf57}wa {\kf64}me {\kf62}wo {\kf42}ho{\kf106}so{\kf33}me{\kf87}te{\kf47}ru
+Dialogue: 0,0:22:48.97,0:22:56.93,ED English,,0,0,0,,{\fad(0,250)\be1\3c&H665C39&}Cụ dango già nua mỉm cười với ánh mắt nheo vui.
+Dialogue: 0,0:22:57.39,0:23:06.94,ED Romaji,,0,0,0,,{\fad(0,0)\be1\3c&H508E48&}{\kf41}na{\kf33}ka{\kf19}yo{\kf43}shi {\kf59}da{\kf30}n{\kf57}go {\kf33}te {\kf25}wo {\kf28}tsu{\kf31}na{\kf40}gi {\kf39}o{\kf44}o{\kf29}ki{\kf28}na {\kf30}ma{\kf70}ru{\kf27}i {\kf56}wa {\kf27}ni {\kf36}na{\kf24}ru {\kf55}yo
+Dialogue: 0,0:22:57.39,0:23:06.94,ED English,,0,0,0,,{\fad(0,0)\be1\3c&H8F8026&}Những bạn dango thân thiết nắm chặt tay nhau tạo thành vòng tròn thật to.
+Dialogue: 0,0:23:06.94,0:23:16.54,ED Romaji,,0,0,0,,{\fad(0,0)\be1\3c&H328A95&}{\kf44}ma{\kf28}chi {\kf33}wo {\kf34}tsu{\kf60}ku{\kf32}ri {\kf59}dan{\kf31}go {\kf18}bo{\kf37}shi {\kf36}no {\kf29}u{\kf56}e {\kf57}mi{\kf68}nna {\kf85}de {\kf29}wa{\kf68}rai{\kf30}a{\kf52}u {\kf60}yo
+Dialogue: 0,0:23:06.94,0:23:16.54,ED English,,0,0,0,,{\fad(0,0)\be1\3c&H1C7593&}Xây dựng nên ngôi làng trên tinh cầu dango, tất cả cùng rộn rã tiếng cười vui.
+Dialogue: 0,0:23:16.54,0:23:26.21,ED Romaji,,0,0,0,,{\fad(0,0)\be1\3c&H33200D&}{\kf37}u{\kf42}sa{\kf28}gi {\kf19}mo {\kf68}so{\kf40}ra {\kf56}de {\kf29}te {\kf34}wo {\kf59}fu{\kf28}tte{\kf62}mi{\kf32}te{\kf30}ru {\kf58}de{\kf58}kka{\kf32}i {\kf53}o{\kf33}tsu{\kf19}ki-{\kf47}sa{\kf60}ma
+Dialogue: 0,0:23:16.54,0:23:26.21,ED English,,0,0,0,,{\fad(0,0)\be1\3c&H270D0D&}Chú thỏ ngọc trên vầng trăng tròn cũng vẫy tay tươi cười từ bầu trời cao thẳm.
+Dialogue: 0,0:23:26.21,0:23:30.88,ED Romaji,,0,0,0,,{\fad(0,0)\be1\3c&H49351C&}{\kf42}u{\kf20}re{\kf43}shi{\kf28}i {\kf59}ko{\kf30}to {\kf53}ka{\kf27}na{\kf32}shi{\kf38}i {\kf34}ko{\kf27}to {\kf34}mo {\kf81}ze{\kf67}n{\kf119}bu {\kf62}ma{\kf29}ru{\kf59}me{\kf91}te
+Dialogue: 0,0:23:26.21,0:23:30.88,ED English,,0,0,0,,{\fad(0,0)\be1\3c&H737769&}Gói trọn lại tất cả những niềm vui và nỗi buồn...
+Dialogue: 0,0:23:30.88,0:23:36.39,ED Romaji,,0,0,0,,{\fad(0,250)\be1\3c&H4A788E&}{\kf0}ureshii koto kanashii koto mo {\kf24}{\kf57}ze{\kf67}n{\kf119}bu {\kf62}ma{\kf29}ru{\kf59}me{\kf91}te
+Dialogue: 0,0:23:30.88,0:23:36.39,ED English,,0,0,0,,{\fad(0,250)\be1\3c&H4A788E&}Gói trọn lại tất cả những niềm vui và nỗi buồn...
+Dialogue: 0,0:23:39.85,0:23:43.81,Signs,,0,0,0,,{\fs100\fad(0,400)\4c&H000000&\shad2.5\pos(960,470)}Giới thiệu tập sau
+Dialogue: 0,0:23:41.48,0:23:43.90,Default,Oka,0,0,0,,Mời cô giáo Ibuki đến tham dự lễ hội trường sao?
+Dialogue: 0,0:23:44.23,0:23:50.03,Default,Nag,0,0,0,,Vâng. Em đang tính mời cô ấy đến lễ hội và để hai chị em được gặp lại nhau.
+Dialogue: 0,0:23:50.03,0:23:52.41,Default,Oka,0,0,0,,Ra vậy. Đó có thể là một ý tưởng hay đấy.
+Dialogue: 0,0:23:50.03,0:23:50.69,Default-alt,Fuk,0,0,0,,Dạ...
+Dialogue: 0,0:23:53.82,0:23:55.32,Default,Fuk,0,0,0,,Dạ, xin thứ lỗi cho em ạ.
+Dialogue: 0,0:23:55.32,0:23:57.12,Default,Fuk,0,0,0,,Xin anh chị hãy nhận lấy món này ạ.
+Dialogue: 0,0:23:57.12,0:24:02.04,Default,Nag,0,0,0,,Em muốn Fuu-chan và cô giáo Ibuki được gặp lại nhau.
+Dialogue: 0,0:24:02.04,0:24:06.04,Default,Ibu,0,0,0,,Hai chị em cô từng hẹn ước sẽ cùng nhau đi chơi lễ hội trường\Nkhi con bé nhập học.
+Dialogue: 0,0:24:06.04,0:24:08.80,Default,Nag,0,0,0,,Mừng cho em nhé, Fuu-chan.
+Dialogue: 0,0:24:06.09,0:24:09.71,Signs,,0,0,0,,{\fad(400,0)\4c&H000000&\shad2.5\pos(960,410)}Tập 6
+Dialogue: 0,0:24:06.09,0:24:09.71,Signs,,0,0,0,,{\an5\fs85\fad(400,0)\4c&H000000&\shad2.5\pos(960,760)}Lễ Hội Trường Của Hai Chị Em
+Dialogue: 0,0:24:08.80,0:24:09.71,Default,Fuk,0,0,0,,Vâng ạ!
+Dialogue: 0,0:24:09.80,0:24:11.90,Default,,0,0,0,,
+Comment: 0,0:00:00.00,0:00:01.89,Default,,0,0,0,,
+Comment: 0,0:00:05.50,0:00:07.50,Default,,0,0,0,,
+Comment: 0,0:00:23.33,0:01:58.76,Default,,0,0,0,,
+Comment: 0,0:04:37.67,0:04:39.67,Signs,,0,0,0,,
+Comment: 0,0:11:15.02,0:11:19.99,Default,,0,0,0,,
+Comment: 0,0:22:05.76,0:23:41.73,Default,,0,0,0,,
+
+
