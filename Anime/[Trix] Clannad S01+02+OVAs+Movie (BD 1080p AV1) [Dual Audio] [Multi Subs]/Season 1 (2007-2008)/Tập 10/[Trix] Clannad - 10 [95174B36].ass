@@ -1,0 +1,487 @@
+﻿[Script Info]
+Title: Vietnamese Fansub (VietSub by Amtia(NOFACE))
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1920
+PlayResY: 1080
+ScaledBorderAndShadow: yes
+Video Aspect Ratio: 0
+Video Zoom: 8
+Video Position: 34713
+Last Style Storage: Default
+Audio File: Clannad - 10.mp3
+Video File: Clannad - 10 WR.mkv
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Segoe UI,75,&H00FFFFFF,&H00FFFFFF,&H00477650,&H80000000,0,0,0,0,110,100,0,0,1,3,1.5,2,48,48,48,1
+Style: Default-alt,Segoe UI,75,&H00FFFFFF,&H00FFFFFF,&H00596162,&H80000000,0,0,0,0,110,100,0,0,1,3,1.5,8,48,48,48,1
+Style: Note,Segoe UI,65,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,48,48,48,1
+Style: ED Romaji,Segoe UI,80,&H00FFFFFF,&H80FFFFFF,&H80FF0000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,8,60,60,30,1
+Style: ED English,Segoe UI,80,&H00FFFFFF,&H80FFFFFF,&H80FF0000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,60,60,30,1
+Style: OP Romaji,Segoe UI,70,&H00FFFFFF,&H80FFFFFF,&H80FF5E5B,&H80000000,-1,0,0,0,100,100,0,0,1,3,1,8,60,60,30,1
+Style: OP English,Segoe UI,70,&H00FFFFFF,&H80FFFFFF,&H80FF5E5B,&H80000000,-1,0,0,0,100,100,0,0,1,3,1,2,60,60,30,1
+Style: Signs,Segoe UI,75,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,0,0,2,48,48,48,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:10.40,Default,,0,0,0,,
+Dialogue: 0,0:00:10.11,0:00:12.15,Default,Robo,0,0,0,,Những đốm sáng này là gì thế?
+Dialogue: 0,0:00:12.78,0:00:16.24,Default,Robo,0,0,0,,Mình chắc chắn rằng mình chưa từng thấy khung cảnh nào như thế này bao giờ.
+Dialogue: 0,0:00:28.84,0:00:30.84,Default,Girl,0,0,0,,Cậu thấy những đốm sáng này kỳ lạ sao?
+Dialogue: 0,0:00:33.76,0:00:34.76,Default,Girl,0,0,0,,Còn bầu trời thì sao?
+Dialogue: 0,0:00:37.80,0:00:38.97,Default,Girl,0,0,0,,Còn mặt đất thì thế nào?
+Dialogue: 0,0:00:41.60,0:00:43.18,Default,Girl,0,0,0,,Chỉ có những đốm sáng này thôi ư?
+Dialogue: 0,0:00:46.56,0:00:48.73,Default,Girl,0,0,0,,Vì sao lại thế nhỉ?
+Dialogue: 0,0:00:51.90,0:00:57.03,Default,Robo,0,0,0,,Đối với cô bé, người đã sống ở đây suốt cả cuộc đời, những đốm sáng này vốn là lẽ tự nhiên.
+Dialogue: 0,0:00:59.03,0:01:01.91,Default,Robo,0,0,0,,"Chắc chắn đó là những chiếc bóng!" đó là điều tôi nghĩ.
+Dialogue: 0,0:01:02.70,0:01:05.04,Default,Robo,0,0,0,,Nhưng một chiếc bóng thì luôn đi kèm với một vật thể tạo ra nó.
+Dialogue: 0,0:01:05.04,0:01:08.04,Default,Robo,0,0,0,,Nếu vậy thì, vật thể đó đang ở đâu?
+Dialogue: 0,0:01:09.54,0:01:10.63,Default,Girl,0,0,0,,Nói cách khác,
+Dialogue: 0,0:01:11.00,0:01:15.84,Default,Girl,0,0,0,,việc cậu thấy cảnh này lạ lẫm, chứng tỏ phải có\Nmột khung cảnh nào khác mà cậu cảm thấy thân thuộc.
+Dialogue: 0,0:01:18.84,0:01:21.43,Default,Robo,0,0,0,,Tôi lục tìm trong ký ức của mình.
+Dialogue: 0,0:01:22.39,0:01:28.35,Default,Robo,0,0,0,,Rất lâu trước đây, tôi từng ở một thế giới khác...\Nhay có lẽ là trong một tương lai xa xôi nào đó.
+Dialogue: 0,0:01:28.90,0:01:31.36,Default,Robo,0,0,0,,Tôi vẫn còn lưu giữ ký ức rằng mình đã từng ở nơi ấy.
+Dialogue: 0,0:01:34.03,0:01:39.95,OP Romaji,,0,0,0,,{\fad(250,250)\be1}{\kf46}su{\kf22}ki {\kf46}to{\kf46}o{\kf160}ru {\kf17}yu{\kf43}me {\kf17}wo {\kf40}mi{\kf29}te{\kf23}i{\kf53}ta
+Dialogue: 0,0:01:34.03,0:01:39.95,OP English,,0,0,0,,{\fad(250,250)\be1}Tôi từng thấy một giấc mơ trong vắt,
+Dialogue: 0,0:01:40.74,0:01:46.66,OP Romaji,,0,0,0,,{\fad(250,250)\be1}{\kf43}ya{\kf20}wa{\kf46}ra{\kf45}ka{\kf94}i {\kf63}e{\kf40}i{\kf26}e{\kf154}n
+Dialogue: 0,0:01:40.74,0:01:46.66,OP English,,0,0,0,,{\fad(250,250)\be1}Một chốn vĩnh hằng êm dịu xiết bao.
+Dialogue: 0,0:01:47.25,0:01:53.25,OP Romaji,,0,0,0,,{\fad(250,250)\be1}{\kf50}ka{\kf29}ze {\kf38}no {\kf43}you{\kf165}na {\kf11}ka{\kf47}su{\kf26}ka {\kf40}na {\kf24}ko{\kf19}e {\kf59}ga
+Dialogue: 0,0:01:47.25,0:01:53.25,OP English,,0,0,0,,{\fad(250,250)\be1}Một thanh âm thoảng nhẹ như làn gió,
+Dialogue: 0,0:01:54.00,0:02:00.43,OP Romaji,,0,0,0,,{\fad(250,250)\be1}{\kf39}ta{\kf24}ka{\kf31}i {\kf48}so{\kf58}ra {\kf25}ka{\kf62}ra {\kf14}bo{\kf71}ku {\kf12}wo {\kf18}yo{\kf53}n{\kf16}de{\kf45}i{\kf74}ru
+Dialogue: 0,0:01:54.00,0:02:00.43,OP English,,0,0,0,,{\fad(250,250)\be1}Từ bầu trời cao vút đang cất tiếng gọi tôi.
+Dialogue: 0,0:02:00.43,0:02:06.77,OP Romaji,,0,0,0,,{\fad(250,250)\be1}{\kf117}ko{\kf44}no {\kf87}ma{\kf101}ma {\kf92}to{\kf50}bi {\kf62}ta{\kf25}te{\kf21}ba
+Dialogue: 0,0:02:00.43,0:02:06.77,OP English,,0,0,0,,{\fad(250,250)\be1}Nếu cứ thế này tung cánh bay đi,
+Dialogue: 0,0:02:06.77,0:02:13.57,OP Romaji,,0,0,0,,{\fad(250,0)\be1}{\kf44}do{\kf103}ko {\kf21}ni {\kf80}da{\kf28}tte {\kf35}yu{\kf51}ke{\kf291}ru
+Dialogue: 0,0:02:06.77,0:02:13.57,OP English,,0,0,0,,{\fad(250,0)\be1}Thì nơi đâu ta cũng có thể tìm về.
+Dialogue: 0,0:02:13.57,0:02:20.24,OP Romaji,,0,0,0,,{\fad(250,0)\be1}{\kf118}ka{\kf25}sa{\kf30}ne{\kf142}ta {\kf24}te {\kf124}to {\kf17}te {\kf24}no {\kf83}na{\kf20}ka {\kf50}ni
+Dialogue: 0,0:02:13.57,0:02:20.24,OP English,,0,0,0,,{\fad(250,0)\be1}Nếu như ta trông thấy một mảnh tương lai nhỏ bé
+Dialogue: 0,0:02:20.24,0:02:26.91,OP Romaji,,0,0,0,,{\fad(250,0)\be1}{\kf103}chi{\kf24}i{\kf21}sa{\kf102}na {\kf59}mi{\kf46}ra{\kf64}i {\kf39}ga {\kf19}mi{\kf23}e{\kf103}ta{\kf46}ra
+Dialogue: 0,0:02:20.24,0:02:26.91,OP English,,0,0,0,,{\fad(250,0)\be1}Gói trọn trong đôi bàn tay đan chặt này,
+Dialogue: 0,0:02:26.91,0:02:33.59,OP Romaji,,0,0,0,,{\fad(250,0)\be1}{\kf119}hi{\kf23}ka{\kf22}ri {\kf123}no {\kf33}na{\kf129}ka {\kf22}yu{\kf22}ra{\kf82}me{\kf21}i{\kf36}ta
+Dialogue: 0,0:02:26.91,0:02:33.59,OP English,,0,0,0,,{\fad(250,0)\be1}Thì trong muôn vàn tia sáng lung linh,
+Dialogue: 0,0:02:33.59,0:02:39.97,OP Romaji,,0,0,0,,{\fad(250,0)\be1}{\kf114}ko{\kf25}to{\kf21}ba {\kf78}mo {\kf64}o{\kf40}mo{\kf54}i {\kf46}mo {\kf30}ze{\kf16}n{\kf121}bu
+Dialogue: 0,0:02:33.59,0:02:39.97,OP English,,0,0,0,,{\fad(250,0)\be1}Từng lời nói, từng tâm tư đều lay động khôn nguôi.
+Dialogue: 0,0:02:39.97,0:02:46.39,OP Romaji,,0,0,0,,{\fad(250,250)\be1}{\kf35}ha{\kf43}ru{\kf19}ka{\kf226}na {\kf27}ki{\kf61}mi {\kf21}ma{\kf168}de
+Dialogue: 0,0:02:39.97,0:02:46.39,OP English,,0,0,0,,{\fad(250,250)\be1}Nhất định tôi sẽ gửi đến em, dẫu xa xôi muôn trùng...
+Dialogue: 0,0:02:46.39,0:02:58.82,OP Romaji,,0,0,0,,{\fad(250,250)\be1}{\kf48}no{\kf42}ko{\kf29}sa{\kf210}zu {\kf52}tsu{\kf49}ta{\kf22}e{\kf183}te {\kf64}ki{\kf491}tto
+Dialogue: 0,0:02:46.39,0:02:58.82,OP English,,0,0,0,,{\fad(250,250)\be1}Không giữ lại cho riêng mình dẫu chỉ một chút thôi.
+Dialogue: 0,0:03:16.42,0:03:19.17,Default,Nag,0,0,0,,Okazaki-san, chào buổi sáng cậu.
+Dialogue: 0,0:03:19.80,0:03:21.84,Default,Oka,0,0,0,,Nagisa, cậu đứng đây làm gì thế?
+Dialogue: 0,0:03:21.84,0:03:22.68,Default,Oka,0,0,0,,Muộn học bây giờ đấy.
+Dialogue: 0,0:03:22.68,0:03:27.89,Default,Nag,0,0,0,,Tại tớ vừa thoáng thấy bóng cậu nên tớ đứng đợi.
+Dialogue: 0,0:03:28.85,0:03:29.64,Default,Nag,0,0,0,,Tớ không nên làm thế sao?
+Dialogue: 0,0:03:29.64,0:03:32.19,Default,Oka,0,0,0,,Không, cũng chẳng sao, nhưng mà...
+Dialogue: 0,0:03:33.02,0:03:33.77,Default,Oka,0,0,0,,Vậy thì chúng ta cùng đi thôi.
+Dialogue: 0,0:03:34.40,0:03:35.52,Default,Nag,0,0,0,,Vâng!
+Dialogue: 0,0:03:36.06,0:03:38.32,Default,Oka,0,0,0,,Bọn mình vẫn chưa tuyển thêm được thành viên mới nhỉ?
+Dialogue: 0,0:03:38.32,0:03:40.03,Default,Nag,0,0,0,,Ừ, đúng thế thật.
+Dialogue: 0,0:03:40.40,0:03:42.45,Default,Oka,0,0,0,,Có khi tớ thử đi hỏi bạn ấy xem sao.
+Dialogue: 0,0:03:42.45,0:03:43.41,Default,Nag,0,0,0,,Bạn ấy?
+Dialogue: 0,0:03:44.95,0:03:46.74,Default,Kyo,0,0,0,,Tomoya, tránh ra mau!
+Dialogue: 0,0:03:48.54,0:03:49.41,Default,Kyo,0,0,0,,Tomoya!
+Dialogue: 0,0:03:49.41,0:03:51.29,Default,Nag,0,0,0,,Okazaki-san, cậu có sao không?!
+Dialogue: 0,0:03:51.29,0:03:52.83,Default,Nag,0,0,0,,Xin cậu hãy tỉnh lại đi mà!
+Dialogue: 0,0:03:52.83,0:03:54.79,Default,Kyo,0,0,0,,Này, Tomoya-kun.
+Dialogue: 0,0:03:55.38,0:03:56.42,Default,Nag,0,0,0,,Okazaki-san?
+Dialogue: 0,0:03:56.42,0:03:57.54,Default,Kyo,0,0,0,,Có vẻ vẫn còn sống nhăn răng kìa.
+Dialogue: 0,0:03:57.54,0:03:58.17,Default,Kyo,0,0,0,,Thôi tôi đi đây.
+Dialogue: 0,0:03:58.17,0:03:59.59,Default,Oka,0,0,0,,Đâm trúng người ta rồi bỏ đi thế hả?!
+Dialogue: 0,0:03:59.59,0:04:01.42,Default,Kyo,0,0,0,,Tôi đùa chút thôi mà.
+Dialogue: 0,0:04:01.42,0:04:03.93,Default,Oka,0,0,0,,Nagisa, cậu có bị thương chỗ nào không?
+Dialogue: 0,0:04:03.93,0:04:05.84,Default,Nag,0,0,0,,Không, tớ không sao cả.
+Dialogue: 0,0:04:05.84,0:04:06.97,Default,Kyo,0,0,0,,Thế thì tốt rồi.
+Dialogue: 0,0:04:06.97,0:04:07.93,Default,Oka,0,0,0,,Gì đấy?
+Dialogue: 0,0:04:07.93,0:04:10.14,Default,Kyo,0,0,0,,Dạo này hai người thân thiết gớm nhỉ?
+Dialogue: 0,0:04:10.14,0:04:12.31,Default,Kyo,0,0,0,,Lại còn gọi cả tên riêng của nhau nữa chứ.
+Dialogue: 0,0:04:12.60,0:04:14.27,Default,Kyo,0,0,0,,Hai người đang hẹn hò đấy à?
+Dialogue: 0,0:04:14.27,0:04:15.23,Default,Kyo,0,0,0,,Đã hôn nhau phát nào chưa?
+Dialogue: 0,0:04:15.23,0:04:16.73,Default,Oka,0,0,0,,Làm gì có chuyện đó chứ!
+Dialogue: 0,0:04:16.73,0:04:21.57,Default,Nag,0,0,0,,T-Tớ chỉ đang nhờ Okazaki-san giúp tái lập câu lạc bộ thôi mà.
+Dialogue: 0,0:04:21.57,0:04:22.95,Default,Nag,0,0,0,,Tụi tớ không hề hẹn hò đâu!
+Dialogue: 0,0:04:22.95,0:04:25.61,Default,Kyo,0,0,0,,Được rồi, tôi tạm tin là thế.
+Dialogue: 0,0:04:25.61,0:04:27.87,Default,Kyo,0,0,0,,Hẹn gặp lại sau nhé.
+Dialogue: 0,0:04:31.87,0:04:35.08,Default,Nag,0,0,0,,Okazaki-san, cậu thật sự không bị đau ở đâu chứ?
+Dialogue: 0,0:04:35.50,0:04:39.63,Default,Oka,0,0,0,,Tớ bắt đầu gọi tên cậu từ lúc nào thế nhỉ?
+Dialogue: 0,0:04:41.21,0:04:41.71,Default,Nag,0,0,0,,Ưm...
+Dialogue: 0,0:04:46.51,0:04:49.68,Default,Oka,0,0,0,,Vừa rồi tớ suýt nữa thì nhớ ra một điều gì đó.
+Dialogue: 0,0:04:49.68,0:04:51.27,Default,Nag,0,0,0,,Tớ cũng vậy.
+Dialogue: 0,0:04:52.60,0:04:55.35,Default,Nag,0,0,0,,Một điều gì đó rất ấm áp...
+Dialogue: 0,0:04:55.35,0:04:56.81,Default,Nag,0,0,0,,...rất đỗi thân thương hoài niệm...
+Dialogue: 0,0:04:57.73,0:04:59.06,Default,Nag,0,0,0,,...và cũng thật buồn.
+Dialogue: 0,0:05:02.69,0:05:04.32,Default,Oka,0,0,0,,Chúng mình đi thôi, Nagisa.
+Dialogue: 0,0:05:04.32,0:05:05.95,Default,Nag,0,0,0,,Vâng, Okazaki-san.
+Dialogue: 0,0:05:06.28,0:05:09.95,Signs,,0,0,0,,{\fad(400,0)\fs60\blur2\bord2\pos(960,410)\3c&H4A8A5C&}Tập 10
+Dialogue: 0,0:05:06.28,0:05:09.95,Signs,,0,0,0,,{\fad(400,0)\fs60\blur2\bord2\3c&H4A8A5C&\pos(960,720)}Thử Thách Của Cô Bé Thiên Tài
+Dialogue: 0,0:05:10.33,0:05:12.08,Default,Sun,0,0,0,,Tuyển thành viên cho câu lạc bộ kịch sao?
+Dialogue: 0,0:05:12.08,0:05:15.25,Default,Oka,0,0,0,,Ừ, mày có bám theo cũng chẳng có trò gì vui vẻ đâu.
+Dialogue: 0,0:05:15.25,0:05:19.63,Default,Sun,0,0,0,,Đừng có nói năng xa cách thế chứ. Tao cũng muốn giúp Nagisa-chan mà.
+Dialogue: 0,0:05:20.42,0:05:23.21,Default,Oka,0,0,0,,Mày thực sự thích Nagisa à?
+Dialogue: 0,0:05:23.21,0:05:24.59,Default,Sun,0,0,0,,Đương nhiên rồi!
+Dialogue: 0,0:05:24.59,0:05:27.59,Default,Sun,0,0,0,,Từ trước đến giờ tao chưa từng yêu ai nghiêm túc như thế đâu.
+Dialogue: 0,0:05:27.59,0:05:33.27,Default,Oka,0,0,0,,Ở thư viện phía trước có một cô gái bí ẩn và\Nxinh đẹp, lúc nào cũng đọc những cuốn sách siêu khó hiểu.
+Dialogue: 0,0:05:33.56,0:05:36.60,Default,Oka,0,0,0,,Nếu bắt chuyện với nhỏ, thỉnh thoảng nhỏ còn cho đồ ăn nữa đấy.
+Dialogue: 0,0:05:36.60,0:05:40.77,Default,Oka,0,0,0,,Cực kỳ dễ thương, ngây thơ, thông minh,\Nvới lại có vẻ chưa có bạn trai đâu.
+Dialogue: 0,0:05:40.77,0:05:42.32,Default,Sun,0,0,0,,Làm ơn giới thiệu nhỏ cho tao đi mà!
+Dialogue: 0,0:05:42.32,0:05:43.69,Default,Oka,0,0,0,,Tao nghĩ nhỏ đang ở đó lúc này đấy.
+Dialogue: 0,0:05:43.69,0:05:44.61,Default,Oka,0,0,0,,Mày tự đi mà kiểm tra.
+Dialogue: 0,0:05:44.61,0:05:45.82,Default,Sun,0,0,0,,Được rồi, lên đường thôi!
+Dialogue: 0,0:05:50.07,0:05:52.08,Default,Oka,0,0,0,,Nó làm cái quái gì trong đó thế nhỉ?
+Dialogue: 0,0:05:56.79,0:05:57.62,Default,Sun,0,0,0,,Tao vừa bị...
+Dialogue: 0,0:06:00.13,0:06:01.67,Default,Sun,0,0,0,,...ngó lơ toàn tập luôn!
+Dialogue: 0,0:06:01.67,0:06:03.05,Default,Oka,0,0,0,,Ngắt quãng lâu vãi chưởng.
+Dialogue: 0,0:06:03.50,0:06:07.47,Default,Sun,0,0,0,,Nhỏ chẳng buồn phản ứng gì với mấy câu trò chuyện ngọt ngào của tao cả.
+Dialogue: 0,0:06:07.47,0:06:12.64,Default,Sun,0,0,0,,Cay quá nên tao quăng sách lung tung rồi xô ngã cả giá sách, thế mà nhỏ vẫn bơ tao luôn.
+Dialogue: 0,0:06:12.64,0:06:14.68,Default,Sun,0,0,0,,Con nhỏ đó rốt cuộc là ai thế hả?
+Dialogue: 0,0:06:14.68,0:06:17.31,Default,Oka,0,0,0,,Là Ichinose Kotomi. Mày biết cái tên đó đúng không?
+Dialogue: 0,0:06:18.19,0:06:19.60,Default,Sun,0,0,0,,Ichinose Kotomi...
+Dialogue: 0,0:06:19.60,0:06:21.31,Default,Sun,0,0,0,,Cô bé thiên tài lừng danh đó sao...
+Dialogue: 0,0:06:21.90,0:06:25.82,Default,Sun,0,0,0,,Nói tóm lại là nhỏ sống ở một thế giới hoàn toàn khác.
+Dialogue: 0,0:06:27.07,0:06:28.90,Default,Sun,0,0,0,,Phí cả thời gian.
+Dialogue: 0,0:06:30.24,0:06:32.41,Default,Oka,0,0,0,,Một người ở thế giới khác sao...
+Dialogue: 0,0:06:40.83,0:06:42.13,Default,Oka,0,0,0,,Này, Kotomi.
+Dialogue: 0,0:06:45.21,0:06:46.30,Default,Oka,0,0,0,,Kotomi-chan.
+Dialogue: 0,0:06:48.84,0:06:50.18,Default,Kot,0,0,0,,Tomoya-kun.
+Dialogue: 0,0:06:50.18,0:06:51.47,Default,Kot,0,0,0,,Xin chào cậu.
+Dialogue: 0,0:06:55.85,0:06:58.98,Default,Kot,0,0,0,,Tomoya-kun, cậu không được bày bừa ra như thế này đâu.
+Dialogue: 0,0:06:58.98,0:07:01.60,Default,Oka,0,0,0,,Cậu lúc nào cũng vậy nhỉ?
+Dialogue: 0,0:07:03.77,0:07:05.23,Default,Kot,0,0,0,,Câu lạc bộ kịch sao?
+Dialogue: 0,0:07:05.23,0:07:06.57,Default,Oka,0,0,0,,Tớ từng nói với cậu chuyện đó rồi mà.
+Dialogue: 0,0:07:06.57,0:07:08.40,Default,Oka,0,0,0,,Bọn tớ đang tuyển thành viên mới.
+Dialogue: 0,0:07:08.40,0:07:10.74,Default,Oka,0,0,0,,Sau giờ học cậu có muốn đi gặp chủ nhiệm câu lạc bộ không?
+Dialogue: 0,0:07:11.15,0:07:12.91,Default,Kot,0,0,0,,Bạn ấy có bắt nạt mình không?
+Dialogue: 0,0:07:12.91,0:07:15.49,Default,Oka,0,0,0,,Đó là điều không bao giờ xảy ra đâu, nên cậu cứ yên tâm.
+Dialogue: 0,0:07:17.08,0:07:17.83,Default,Nag,0,0,0,,Ưm...
+Dialogue: 0,0:07:17.83,0:07:20.46,Default,Oka,0,0,0,,Đây là ứng cử viên thành viên mới này.
+Dialogue: 0,0:07:20.46,0:07:21.83,Default,Oka,0,0,0,,Nào, tự giới thiệu bản thân đi.
+Dialogue: 0,0:07:21.83,0:07:24.00,Default,Kot,0,0,0,,Xin chào Tomoya-kun.
+Dialogue: 0,0:07:24.00,0:07:25.46,Default,Oka,0,0,0,,Không phải với tôi!
+Dialogue: 0,0:07:27.42,0:07:29.92,Default,Oka,0,0,0,,Nói tên cậu trước đi đã.
+Dialogue: 0,0:07:30.34,0:07:31.38,Default,Kot,0,0,0,,Ưm...
+Dialogue: 0,0:07:32.13,0:07:33.34,Default,Kot,0,0,0,,Kotomi.
+Dialogue: 0,0:07:33.34,0:07:35.35,Default,Kot,0,0,0,,Tên Kotomi viết bằng ba chữ hiragana.
+Dialogue: 0,0:07:35.72,0:07:37.93,Default,Kot,0,0,0,,Khi nói chuyện với mình, hãy gọi mình là Kotomi-chan nhé.
+Dialogue: 0,0:07:37.93,0:07:40.23,Default,Nag,0,0,0,,Tớ là Nagisa, viết bằng một chữ Hán.
+Dialogue: 0,0:07:40.56,0:07:43.27,Default,Nag,0,0,0,,Mặc dù mọi người thường gọi tớ theo nhiều cách khác nhau...
+Dialogue: 0,0:07:43.27,0:07:44.40,Default,Kot,0,0,0,,Nagisa-chan.
+Dialogue: 0,0:07:44.40,0:07:45.19,Default,Nag,0,0,0,,Vâng!
+Dialogue: 0,0:07:45.19,0:07:48.07,Default,Oka,0,0,0,,Hai người không thể nói chuyện gì khác ngoài tên tuổi của mình à?
+Dialogue: 0,0:07:48.07,0:07:49.69,Default,Kot,0,0,0,,Họ của mình là Ichinose.
+Dialogue: 0,0:07:49.69,0:07:50.82,Default,Nag,0,0,0,,Họ của tớ là Furukawa.
+Dialogue: 0,0:07:50.82,0:07:51.61,Default,Kot,0,0,0,,Mình học Lớp A.
+Dialogue: 0,0:07:51.61,0:07:52.74,Default,Nag,0,0,0,,Tớ học Lớp B.
+Dialogue: 0,0:07:52.74,0:07:53.70,Default,Kot,0,0,0,,Nhóm máu A.
+Dialogue: 0,0:07:53.70,0:07:55.24,Default,Nag,0,0,0,,Tớ cũng nhóm máu A.
+Dialogue: 0,0:07:55.24,0:07:56.32,Default,Kot,0,0,0,,Bánh mì kẹp thịt cốt lết.
+Dialogue: 0,0:07:56.32,0:07:57.41,Default,Nag,0,0,0,,Bánh mì nhân đậu đỏ.
+Dialogue: 0,0:07:57.41,0:07:58.45,Default,Kot,0,0,0,,Con voi.
+Dialogue: 0,0:07:58.45,0:07:59.33,Default,Nag,0,0,0,,Mèo con.
+Dialogue: 0,0:07:59.33,0:08:00.62,Default,Oka,0,0,0,,Được rồi, dừng lại ngay!
+Dialogue: 0,0:08:00.62,0:08:02.71,Default,Oka,0,0,0,,Càng lúc càng chẳng hiểu hai người đang nói cái gì nữa rồi.
+Dialogue: 0,0:08:03.37,0:08:08.50,Default,Oka,0,0,0,,Nhìn bề ngoài thế thôi chứ cậu ấy thông minh lắm,\Nchẳng cần học ôn thi tốt nghiệp đâu.
+Dialogue: 0,0:08:08.84,0:08:12.17,Default,Oka,0,0,0,,Cậu ấy thích đọc sách nên vốn từ phong phú lắm.
+Dialogue: 0,0:08:12.17,0:08:14.93,Default,Oka,0,0,0,,Thế nên, làm ứng viên thành viên mới thì quá là hoàn hảo...
+Dialogue: 0,0:08:14.93,0:08:16.76,Default,Oka,0,0,0,,Này, cậu làm trò gì đấy?
+Dialogue: 0,0:08:19.01,0:08:20.56,Default,Nag,0,0,0,,Cậu có sao không?
+Dialogue: 0,0:08:20.56,0:08:21.98,Note,Note,0,0,0,,{\an8\fs36\i1}*Tamatebako: Chiếc hộp báu vật trong truyền thuyết Urashima Taro, mở ra tỏa khói biến người thành già nua.
+Dialogue: 0,0:08:20.56,0:08:21.98,Default,Kot,0,0,0,,Đây là hộp báu Tamatebako sao?
+Dialogue: 0,0:08:21.98,0:08:23.10,Default,Oka,0,0,0,,Không, không phải đâu.
+Dialogue: 0,0:08:23.10,0:08:25.02,Default,Oka,0,0,0,,Nagisa, cậu cũng nói gì đó với cậu ấy đi chứ.
+Dialogue: 0,0:08:26.48,0:08:27.44,Default,Nag,0,0,0,,Ưm...
+Dialogue: 0,0:08:27.44,0:08:30.32,Default,Nag,0,0,0,,Tớ ghen tị với mái tóc đẹp tuyệt vời của cậu quá.
+Dialogue: 0,0:08:30.32,0:08:34.36,Default,Oka,0,0,0,,Không! Tớ bảo cậu thuyết phục cậu ấy vào câu lạc bộ kịch cơ mà!
+Dialogue: 0,0:08:34.36,0:08:36.78,Default,Oka,0,0,0,,Cậu có luyện tập trước bài diễn văn rồi đúng không?
+Dialogue: 0,0:08:36.78,0:08:39.78,Default,Oka,0,0,0,,Nói mấy câu đại loại như: "Hãy cùng nhau rơi những giọt nước mắt của tuổi thanh xuân" xem nào.
+Dialogue: 0,0:08:40.33,0:08:42.91,Default,Kot,0,0,0,,Tớ có phải khóc không?
+Dialogue: 0,0:08:42.91,0:08:48.13,Default,Nag,0,0,0,,Khi kịch bản yêu cầu,\Nthì cũng có những lúc cậu phải khóc đấy.
+Dialogue: 0,0:08:48.84,0:08:51.00,Default,Kot,0,0,0,,Tớ không muốn khóc đâu.
+Dialogue: 0,0:08:51.00,0:08:54.01,Default,Nag,0,0,0,,Nhưng lúc cần thiết thì vẫn phải khóc thôi.
+Dialogue: 0,0:08:54.72,0:08:56.51,Default,Kot,0,0,0,,Nagisa-chan, cậu là kẻ bắt nạt sao?
+Dialogue: 0,0:08:56.51,0:08:59.85,Default,Nag,0,0,0,,Không. Tớ không phải là kẻ bắt nạt đâu mà.
+Dialogue: 0,0:09:06.27,0:09:08.15,Default,Kot,0,0,0,,Là Đại Gia Đình Dango này.
+Dialogue: 0,0:09:11.23,0:09:13.65,Default,Nag,0,0,0,,Cậu cũng thích Đại Gia Đình Dango sao?
+Dialogue: 0,0:09:15.20,0:09:15.90,Default,Kot,0,0,0,,Ừm.
+Dialogue: 0,0:09:16.28,0:09:17.36,Default,Kot,0,0,0,,Mình thích lắm.
+Dialogue: 0,0:09:19.32,0:09:22.16,Default,Oka,0,0,0,,Hôm nay tôi sẽ đưa Kotomi về nhé.
+Dialogue: 0,0:09:22.16,0:09:24.41,Default,Nag,0,0,0,,Vâng. Hẹn gặp lại cậu vào ngày mai nha.
+Dialogue: 0,0:09:27.96,0:09:31.04,Default,Kot,0,0,0,,Hôm nay, mình có hơi sợ một chút.
+Dialogue: 0,0:09:31.04,0:09:35.84,Default,Kot,0,0,0,,Lần nào gặp người mới mình cũng đều như vậy cả.
+Dialogue: 0,0:09:35.84,0:09:38.55,Default,Kot,0,0,0,,Nhưng Nagisa-chan tốt bụng thật đấy.
+Dialogue: 0,0:09:38.55,0:09:43.31,Default,Oka,0,0,0,,Nếu sợ người lạ như thế,\Nsao hồi trước cậu lại có thể bắt chuyện với tôi dễ dàng vậy?
+Dialogue: 0,0:09:43.68,0:09:46.14,Default,Kot,0,0,0,,Nagisa-chan là một người rất đỗi hiền hậu.
+Dialogue: 0,0:09:46.14,0:09:48.73,Default,Kot,0,0,0,,Mấy bức tranh vẽ Đại Gia Đình Dango của cậu ấy cũng đẹp nữa.
+Dialogue: 0,0:09:50.36,0:09:52.52,Default,Oka,0,0,0,,Thôi thì tôi cứ tạm coi là thế đi.
+Dialogue: 0,0:09:52.52,0:09:55.28,Default,Kot,0,0,0,,Nagisa-chan là bạn gái của cậu à?
+Dialogue: 0,0:09:55.86,0:09:57.32,Default,Oka,0,0,0,,Không phải!
+Dialogue: 0,0:09:57.32,0:10:00.70,Default,Oka,0,0,0,,Sao cả cậu lẫn Kyou đều hỏi cái câu đó thế nhỉ?
+Dialogue: 0,0:10:00.70,0:10:01.91,Default,Kot,0,0,0,,Kyou?
+Dialogue: 0,0:10:01.91,0:10:04.87,Default,Oka,0,0,0,,Lớp trưởng Lớp E, một nhỏ con gái hung dữ như chằn tinh.
+Dialogue: 0,0:10:04.87,0:10:08.75,Default,Kot,0,0,0,,À đúng rồi, Tomoya-kun.\NCó một nơi mình muốn ghé qua.
+Dialogue: 0,0:10:09.25,0:10:11.50,Default,Oka,0,0,0,,Cậu đúng là làm mọi việc theo nhịp độ của riêng mình thật đấy.
+Dialogue: 0,0:10:14.34,0:10:16.21,Default,Oka,0,0,0,,Cậu thích sách đến thế cơ à?
+Dialogue: 0,0:10:16.88,0:10:20.59,Default,Kot,0,0,0,,Nếu không học tập thật nhiều thì mình không thể trở thành một người tài giỏi được.
+Dialogue: 0,0:10:20.97,0:10:22.68,Default,Oka,0,0,0,,Cậu nghĩ vậy sao?
+Dialogue: 0,0:10:42.74,0:10:43.53,Default,Oka,0,0,0,,Dừng lại ngay, đồ ngốc này!
+Dialogue: 0,0:10:48.08,0:10:50.08,Default,Kot,0,0,0,,Sao thế, Tomoya-kun?
+Dialogue: 0,0:10:50.08,0:10:52.00,Default,Oka,0,0,0,,Còn hỏi "sao thế" nữa à!
+Dialogue: 0,0:10:53.17,0:10:57.51,Default,Oka,0,0,0,,Dù cậu có thích sách đến mấy,\Ncậu cũng không được cắt sách trong thư viện hay nhà sách như thế chứ!
+Dialogue: 0,0:10:57.51,0:11:00.80,Default,Oka,0,0,0,,Nếu thực sự cần thì hãy chép lại những gì cần thiết ra một tờ giấy...
+Dialogue: 0,0:11:01.22,0:11:03.14,Default,Oka,0,0,0,,Mà thật ra làm thế có khi cũng bị mắng té tát đấy.
+Dialogue: 0,0:11:03.14,0:11:04.18,Default,Kot,0,0,0,,Cậu nghĩ vậy sao?
+Dialogue: 0,0:11:06.81,0:11:11.02,Default,Oka,0,0,0,,Cậu thực sự cần phải học cách giao tiếp với mọi người nhiều hơn đấy.
+Dialogue: 0,0:11:15.27,0:11:17.69,Default,Kot,0,0,0,,Bạn ấy có bắt nạt mình không? Bạn ấy có bắt nạt mình không?
+Dialogue: 0,0:11:17.69,0:11:20.15,Default,Oka,0,0,0,,Nhỏ không bắt nạt đâu, mau tự giới thiệu đi.
+Dialogue: 0,0:11:20.15,0:11:22.28,Default,Kot,0,0,0,,Xin chào Tomoya-kun.
+Dialogue: 0,0:11:22.28,0:11:25.58,Default,Oka,0,0,0,,Được rồi, tập dượt thế là tốt rồi. Giờ làm thật đi!
+Dialogue: 0,0:11:25.58,0:11:28.16,Default,Kyo,0,0,0,,Sao? Rốt cuộc là tôi phải làm gì đây?
+Dialogue: 0,0:11:29.62,0:11:31.04,Default,Oka,0,0,0,,Nhanh lên nào, Kotomi.
+Dialogue: 0,0:11:31.41,0:11:32.29,Default,Kot,0,0,0,,Ưm...
+Dialogue: 0,0:11:33.08,0:11:34.21,Default,Kot,0,0,0,,Kotomi.
+Dialogue: 0,0:11:34.21,0:11:36.21,Default,Kot,0,0,0,,Tên Kotomi viết bằng ba chữ hiragana.
+Dialogue: 0,0:11:36.67,0:11:38.30,Default,Kot,0,0,0,,Khi nói chuyện với mình, hãy gọi mình là Kotomi-chan nhé.
+Dialogue: 0,0:11:38.30,0:11:39.05,Default,Kyo,0,0,0,,Hả?
+Dialogue: 0,0:11:39.05,0:11:40.67,Default,Kot,0,0,0,,Bạn ấy là kẻ bắt nạt sao?
+Dialogue: 0,0:11:40.67,0:11:43.30,Default,Kyo,0,0,0,,Cô bạn thiên tài nổi tiếng đó đúng không?
+Dialogue: 0,0:11:43.30,0:11:46.51,Default,Kyo,0,0,0,,Sao bạn ấy lại đi chung với một tên lông bông lêu lổng như cậu thế?
+Dialogue: 0,0:11:46.51,0:11:48.31,Default,Oka,0,0,0,,Cậu bảo ai là lông bông lêu lổng cơ hả?!
+Dialogue: 0,0:11:48.31,0:11:49.85,Default,Kot,0,0,0,,Bạn ấy có bắt nạt mình không? Bạn ấy có bắt nạt mình không?
+Dialogue: 0,0:11:49.85,0:11:51.73,Default,Kyo,0,0,0,,Cậu không cần phải sợ hãi đến thế đâu.
+Dialogue: 0,0:11:52.48,0:11:54.23,Default,Oka,0,0,0,,Nhỏ vốn có cái tính như thế mà.
+Dialogue: 0,0:11:54.23,0:11:56.52,Default,Oka,0,0,0,,Cậu có nhiều bạn bè lắm đúng không?
+Dialogue: 0,0:11:56.52,0:12:00.44,Default,Oka,0,0,0,,Tôi đang tự hỏi liệu cậu có thể làm bạn với cậu ấy không.
+Dialogue: 0,0:12:00.44,0:12:04.03,Default,Kyo,0,0,0,,Chẳng phải việc làm bạn chỉ vì được nhờ vả nghe kỳ cục lắm sao?
+Dialogue: 0,0:12:04.03,0:12:07.83,Default,Kyo,0,0,0,,Bạn bè không phải là thứ để ban phát; người ta phải tự mình kết bạn chứ.
+Dialogue: 0,0:12:07.83,0:12:10.87,Default,Oka,0,0,0,,Tự dưng hôm nay nhỏ lại phát ngôn ra điều hợp lý thế nhỉ.
+Dialogue: 0,0:12:10.87,0:12:14.12,Default,Kyo,0,0,0,,Với lại, sao cậu lại quan tâm chăm sóc bạn ấy kỹ thế?
+Dialogue: 0,0:12:14.12,0:12:16.38,Default,Kyo,0,0,0,,Thế còn việc giúp đỡ Nagisa thì sao rồi?
+Dialogue: 0,0:12:16.38,0:12:18.09,Default,Oka,0,0,0,,Việc đó vẫn đang tiến hành mà.
+Dialogue: 0,0:12:18.09,0:12:21.05,Default,Oka,0,0,0,,Xem ra tôi khá mát tay trong khoản chăm sóc người khác đấy chứ.
+Dialogue: 0,0:12:22.76,0:12:25.51,Default,Kyo,0,0,0,,Thế là lại thêm một đối thủ cạnh tranh nữa xuất hiện.
+Dialogue: 0,0:12:25.51,0:12:26.85,Default,Oka,0,0,0,,Cậu vừa nói gì cơ?
+Dialogue: 0,0:12:26.85,0:12:28.22,Default,Kyo,0,0,0,,Không có gì đâu.
+Dialogue: 0,0:12:28.22,0:12:29.97,Default,Kyo,0,0,0,,Tôi đi đây. Còn có việc phải làm.
+Dialogue: 0,0:12:30.52,0:12:31.60,Default,Kyo,0,0,0,,À, phải rồi.
+Dialogue: 0,0:12:32.31,0:12:33.77,Default,Kyo,0,0,0,,Tên tôi là Kyou.
+Dialogue: 0,0:12:33.77,0:12:35.73,Default,Kyo,0,0,0,,Fujibayashi Kyou.
+Dialogue: 0,0:12:35.73,0:12:36.65,Default,Kyo,0,0,0,,Tạm biệt nhé.
+Dialogue: 0,0:12:39.15,0:12:43.15,Default,Oka,0,0,0,,Được rồi, tôi thừa nhận nhỏ đó đúng là người khó tiếp cận.
+Dialogue: 0,0:12:43.15,0:12:45.49,Default,Oka,0,0,0,,Nhưng cậu cũng có vấn đề của riêng mình đấy.
+Dialogue: 0,0:12:45.49,0:12:50.08,Default,Oka,0,0,0,,Thay vì chỉ biết cắm đầu đọc sách,\Ncậu nên học cách giao tiếp trò chuyện với người khác đi.
+Dialogue: 0,0:12:50.08,0:12:51.66,Default,Oka,0,0,0,,Chẳng hạn như pha trò và tung hứng bẻ lại họ ấy.
+Dialogue: 0,0:12:51.66,0:12:53.58,Default,Kot,0,0,0,,Pha trò và tung hứng sao?
+Dialogue: 0,0:12:53.58,0:12:55.67,Default,Oka,0,0,0,,Chúng ta sẽ luyện tập từng chút một.
+Dialogue: 0,0:12:55.67,0:12:57.29,Default,Oka,0,0,0,,Mục tiêu của cậu là kết bạn với một trăm người.
+Dialogue: 0,0:12:57.29,0:13:00.67,Default,Kot,0,0,0,,Một trăm người bạn sao? Tomoya-kun, cậu giỏi thật đấy!
+Dialogue: 0,0:13:00.67,0:13:03.30,Default,Oka,0,0,0,,Xin lỗi nhé, tôi cũng làm gì có nhiều bạn đến mức đó.
+Dialogue: 0,0:13:03.88,0:13:07.72,Default,Oka,0,0,0,,Không, cậu phải tung hứng bẻ lại tôi chứ,\Nai lại trưng cái mặt đầy dấu chấm hỏi ra thế kia.
+Dialogue: 0,0:13:08.89,0:13:10.10,Default,Kot,0,0,0,,Tung hứng...
+Dialogue: 0,0:13:12.97,0:13:16.14,Default,Kot,0,0,0,,Gì thế này trời. Tôi chịu không hòa hợp nổi với cậu rồi đấy.
+Dialogue: 0,0:13:16.14,0:13:17.52,Default,Kot,0,0,0,,Thôi tôi chào cậu.
+Dialogue: 0,0:13:17.52,0:13:19.69,Default,Oka,0,0,0,,Xem ra chúng ta còn nhiều việc phải làm lắm đây.
+Dialogue: 0,0:13:19.69,0:13:22.53,Default,Ryo,0,0,0,,Làm bạn với bạn ấy sao?
+Dialogue: 0,0:13:22.53,0:13:24.94,Default,Oka,0,0,0,,Ừ, bọn tớ đang tìm cách kết bạn cho cậu ấy.
+Dialogue: 0,0:13:25.32,0:13:26.11,Default,Oka,0,0,0,,Nào, tự giới thiệu đi.
+Dialogue: 0,0:13:26.11,0:13:28.41,Default,Kot,0,0,0,,Xin chào Tomoya-kun.
+Dialogue: 0,0:13:27.78,0:13:30.33,Default-alt,Oka,0,0,0,,Mảng miếng đó cũ rích rồi.
+Dialogue: 0,0:13:30.78,0:13:34.58,Default,Ryo,0,0,0,,Ưm, hai người có quan hệ như thế nào vậy?
+Dialogue: 0,0:13:34.91,0:13:37.83,Default,Oka,0,0,0,,Cứ coi bọn tớ như đôi bạn cùng trốn học đi.
+Dialogue: 0,0:13:37.83,0:13:40.08,Default,Oka,0,0,0,,Dù tớ là học sinh cá biệt còn cậu ấy là thiên tài.
+Dialogue: 0,0:13:44.88,0:13:48.93,Default,Ryo,0,0,0,,Ưm, nếu cậu không phiền thì để tớ bói cho cậu một quẻ nhé?
+Dialogue: 0,0:13:49.93,0:13:52.14,Default,Oka,0,0,0,,Chủ đề hoàn hảo để bắt đầu câu chuyện đấy.
+Dialogue: 0,0:13:52.85,0:13:53.64,Default,Ryo,0,0,0,,Cậu bói cho bạn ấy đi.
+Dialogue: 0,0:13:54.22,0:13:55.35,Default,Kot,0,0,0,,Bạn ấy có bắt nạt mình không?
+Dialogue: 0,0:13:55.35,0:13:56.94,Default,Oka,0,0,0,,Đừng có hỏi tôi.
+Dialogue: 0,0:13:57.31,0:13:59.31,Default,Ryo,0,0,0,,Tớ sẽ bói vận mệnh ngày hôm nay cho cậu nhé.
+Dialogue: 0,0:13:59.31,0:14:02.11,Default,Ryo,0,0,0,,Xin hãy chọn ra ba lá bài bất kỳ mà cậu thích.
+Dialogue: 0,0:14:12.74,0:14:13.99,Default,Ryo,0,0,0,,Cậu cho tớ xem bài được không.
+Dialogue: 0,0:14:19.96,0:14:23.59,Default,Ryo,0,0,0,,Tớ nghĩ là cậu không thể kết bạn được đâu.
+Dialogue: 0,0:14:24.17,0:14:27.34,Default,Oka,0,0,0,,Đừng có phủ nhận sạch trơn công sức của tôi như thế chứ!
+Dialogue: 0,0:14:29.22,0:14:30.43,Default,Oka,0,0,0,,Kìa, khoan đã, dừng lại mau!
+Dialogue: 0,0:14:30.43,0:14:32.55,Default,Oka,0,0,0,,Chạy trốn thì chẳng giải quyết được gì đâu.
+Dialogue: 0,0:14:32.55,0:14:34.18,Default,Oka,0,0,0,,Cậu phải đối mặt với thực tế đi chứ.
+Dialogue: 0,0:14:35.47,0:14:37.31,Default,Kot,0,0,0,,Ryou-chan là kẻ bắt nạt sao?
+Dialogue: 0,0:14:37.31,0:14:39.60,Default,Ryo,0,0,0,,T-Tớ không nghĩ là mình như thế đâu.
+Dialogue: 0,0:14:39.60,0:14:40.69,Default,Oka,0,0,0,,Cậu vừa bắt nạt người ta xong còn gì.
+Dialogue: 0,0:14:40.69,0:14:43.19,Default,Oka,0,0,0,,Cậu phán một câu xanh rờn là cậu ấy sẽ không thể có bạn bè.
+Dialogue: 0,0:14:43.19,0:14:46.57,Default,Ryo,0,0,0,,Nhưng bói toán cũng có lúc sai mà.
+Dialogue: 0,0:14:46.57,0:14:54.37,Default,Ryo,0,0,0,,Dù kết quả có xấu đến đâu, tương lai vẫn phụ thuộc vào chính bản thân và những người xung quanh.
+Dialogue: 0,0:14:54.37,0:14:55.83,Default,Kot,0,0,0,,Chuyện đó có tác dụng như vậy sao?
+Dialogue: 0,0:14:55.83,0:15:01.33,Default,Ryo,0,0,0,,Đúng vậy. Vì tớ thấy cậu cũng là một người rất thú vị mà.
+Dialogue: 0,0:15:01.33,0:15:03.71,Default,Oka,0,0,0,,Vậy cậu sẽ làm bạn với cậu ấy chứ?
+Dialogue: 0,0:15:04.29,0:15:06.21,Default,Ryo,0,0,0,,Ừ, nếu như cậu không thấy phiền.
+Dialogue: 0,0:15:08.21,0:15:12.51,Default,Oka,0,0,0,,Tính cách cậu ấy khác hẳn bà chị chằn tinh, đỡ khổ ghê.
+Dialogue: 0,0:15:12.93,0:15:15.56,Default,Kot,0,0,0,,Ryou-chan cũng không đáng sợ lắm nhỉ.
+Dialogue: 0,0:15:15.56,0:15:18.39,Default,Oka,0,0,0,,Nếu người vừa nãy không phải là Fujibayashi,\Nchắc cậu đã dọa người ta chạy mất dép rồi.
+Dialogue: 0,0:15:18.39,0:15:22.27,Default,Oka,0,0,0,,Thế nên trước hết cậu phải học những điều cơ bản đã. Cách chào hỏi làm quen:
+Dialogue: 0,0:15:22.27,0:15:24.77,Default,Kot,0,0,0,,Xin chào. Rất vui được gặp bạn.
+Dialogue: 0,0:15:24.77,0:15:27.61,Default,Kot,0,0,0,,Tên mình là Ichinose Kotomi. Học sinh năm ba Lớp A.
+Dialogue: 0,0:15:27.61,0:15:29.15,Default,Kot,0,0,0,,Sở thích của mình là đọc sách.
+Dialogue: 0,0:15:29.57,0:15:33.53,Default,Kot,0,0,0,,Nếu được làm bạn với bạn thì mình sẽ rất vui.
+Dialogue: 0,0:15:33.53,0:15:36.45,Default,Oka,0,0,0,,Tốt rồi. Giờ giải lao tới chúng ta sẽ thực hành.
+Dialogue: 0,0:15:37.74,0:15:39.91,Default,Oka,0,0,0,,Có ai phù hợp để thực hành không nhỉ...
+Dialogue: 0,0:15:41.96,0:15:44.13,Default,Oka,0,0,0,,Cậu đang làm trò gì thế hả Tomoyo?
+Dialogue: 0,0:15:44.13,0:15:45.04,Default,Kot,0,0,0,,Một chú gấu...
+Dialogue: 0,0:15:45.38,0:15:47.21,Default,Oka,0,0,0,,Cậu không đi tuần tra đúng không?
+Dialogue: 0,0:15:47.21,0:15:49.55,Default,Oka,0,0,0,,Kiểm tra bảo trì bộ đồ gấu bông à?
+Dialogue: 0,0:15:50.92,0:15:53.18,Default,Oka,0,0,0,,À phải rồi. Giới thiệu bản thân với cậu ấy đi.
+Dialogue: 0,0:15:54.05,0:15:55.76,Default,Kot,0,0,0,,Ưm...
+Dialogue: 0,0:15:55.76,0:15:58.14,Default,Kot,0,0,0,,Xin chào. Rất vui được gặp bạn.
+Dialogue: 0,0:15:58.14,0:16:01.06,Default,Kot,0,0,0,,Tên mình là Ichinose Kotomi. Học sinh năm ba Lớp A.
+Dialogue: 0,0:16:01.06,0:16:02.85,Default,Kot,0,0,0,,Sở thích của mình là đọc sách.
+Dialogue: 0,0:16:02.85,0:16:06.73,Default,Kot,0,0,0,,Nếu được làm bạn với bạn thì mình sẽ rất vui.
+Dialogue: 0,0:16:23.46,0:16:24.92,Default,Oka,0,0,0,,Có vẻ bạn ấy thích cậu đấy.
+Dialogue: 0,0:16:24.92,0:16:26.83,Default,Kot,0,0,0,,Lông mềm mại ghê.
+Dialogue: 0,0:16:26.83,0:16:30.13,Default,Oka,0,0,0,,Cậu... thích gấu bông lắm à?
+Dialogue: 0,0:16:30.13,0:16:30.76,Default,Kot,0,0,0,,Ừm.
+Dialogue: 0,0:16:32.22,0:16:33.26,Default,Kot,0,0,0,,Mình thích lắm.
+Dialogue: 0,0:16:35.34,0:16:38.39,Default,Sun,0,0,0,,Ê Okazaki! Hóa ra mày trốn ở đây à!
+Dialogue: 0,0:16:38.39,0:16:39.39,Default,Sun,0,0,0,,Cùng ăn trưa—
+Dialogue: 0,0:16:40.56,0:16:43.35,Default,Sun,0,0,0,,Mày chính là con gấu hôm nọ đã đá tao đúng không!
+Dialogue: 0,0:16:43.69,0:16:46.35,Default,Sun,0,0,0,,Đứng yên đó cho tao! Tao sẽ biến mày thành rezombie!
+Dialogue: 0,0:16:46.35,0:16:47.36,Default,Kot,0,0,0,,Rezombie là cái quái gì thế?
+Dialogue: 0,0:16:47.36,0:16:49.86,Default,Oka,0,0,0,,Tiếng Anh của nó lúc nào cũng đội sổ mà.
+Dialogue: 0,0:16:54.15,0:16:56.03,Default,Oka,0,0,0,,Một cú đá tuyệt đỉnh như mọi khi.
+Dialogue: 0,0:17:00.16,0:17:01.20,Default,Woman,0,0,0,,Xong một việc nhé.
+Dialogue: 0,0:17:02.16,0:17:05.37,Default,Woman,0,0,0,,Gì thế này? Hôm nay cậu cúp tiết cùng một bạn nữ cơ à?
+Dialogue: 0,0:17:05.37,0:17:10.38,Default,Oka,0,0,0,,Ừ, nhưng cậu ấy là thiên tài thực thụ nên được miễn tham gia lớp học.
+Dialogue: 0,0:17:10.38,0:17:12.71,Default,Kot,0,0,0,,Xin chào. Rất vui được gặp bạn.
+Dialogue: 0,0:17:12.71,0:17:15.43,Default,Kot,0,0,0,,Tên mình là Ichinose Kotomi. Học sinh năm ba Lớp A.
+Dialogue: 0,0:17:15.80,0:17:17.76,Default,Kot,0,0,0,,Sở thích của mình là đọc sách.
+Dialogue: 0,0:17:17.76,0:17:21.85,Default,Kot,0,0,0,,Nếu được làm bạn với bạn thì mình sẽ rất vui.
+Dialogue: 0,0:17:22.68,0:17:27.19,Default,Woman,0,0,0,,Ra vậy. Cậu là Kotomi-chan nhà Ichinose đúng không.
+Dialogue: 0,0:17:27.19,0:17:28.31,Default,Oka,0,0,0,,Cậu biết cậu ấy à?
+Dialogue: 0,0:17:28.31,0:17:31.65,Default,Woman,0,0,0,,Tôi nghĩ rất nhiều người\Nsống ở thành phố này đều biết đến cậu ấy đấy.
+Dialogue: 0,0:17:31.65,0:17:35.82,Default,Woman,0,0,0,,Dù sao thì bố mẹ cậu ấy cũng là những học giả lừng danh mà.
+Dialogue: 0,0:17:35.82,0:17:36.70,Default,Oka,0,0,0,,Học giả sao?
+Dialogue: 0,0:17:38.20,0:17:41.58,Default,Oka,0,0,0,,Bố mẹ cậu là giáo sư đại học hay gì đó à?
+Dialogue: 0,0:17:42.08,0:17:43.12,Default,Kot,0,0,0,,Ưm...
+Dialogue: 0,0:17:44.20,0:17:45.08,Default,Kot,0,0,0,,Dạ vâng...
+Dialogue: 0,0:17:45.08,0:17:49.00,Default,Oka,0,0,0,,Tôi hiểu rồi. Cậu vốn được tạo nên khác biệt với tôi từ cấp độ gen di truyền rồi.
+Dialogue: 0,0:17:51.09,0:17:52.34,Default,Kyo,0,0,0,,A, các cậu ở đây rồi!
+Dialogue: 0,0:17:53.50,0:17:54.96,Default,Kyo,0,0,0,,Thấy chưa, tôi đâu có bắt nạt cậu đâu nào.
+Dialogue: 0,0:17:54.96,0:17:56.55,Default,Kyo,0,0,0,,Ngoan lắm, bé ngoan.
+Dialogue: 0,0:17:56.05,0:17:59.39,Default-alt,Oka,0,0,0,,Tôi tưởng cậu bảo không kết bạn chỉ vì được nhờ vả cơ mà.
+Dialogue: 0,0:17:59.39,0:18:02.22,Default,Kyo,0,0,0,,Đúng thế. Thế nên lần này chính tôi là người chủ động tiếp cận cậu ấy.
+Dialogue: 0,0:18:02.22,0:18:05.64,Default,Kyo,0,0,0,,Nhưng tụi mình vẫn chưa hiểu rõ về nhau lắm.
+Dialogue: 0,0:18:05.64,0:18:10.40,Default,Kyo,0,0,0,,Nếu cùng đi chơi với nhau,\Ntôi chắc chắn chúng ta sẽ hiểu nhau nhiều hơn.
+Dialogue: 0,0:18:10.40,0:18:13.52,Default,Kyo,0,0,0,,Nói vậy rồi, cậu không thấy đây là cơ hội để chứng tỏ mình là chỗ dựa đáng tin cậy sao?
+Dialogue: 0,0:18:13.52,0:18:15.40,Default,Oka,0,0,0,,Cậu định ăn chực trên lưng tôi đấy à?
+Dialogue: 0,0:18:15.40,0:18:19.36,Default,Kyo,0,0,0,,Tôi cũng sẽ rủ cả Ryou nữa,\Nthế nên lát nữa hãy dẫn bọn tôi đến chỗ nào thú vị nhé.
+Dialogue: 0,0:18:21.45,0:18:23.28,Default,Kyo,0,0,0,,"Chỗ thú vị" mà cậu bảo là đây đấy à?
+Dialogue: 0,0:18:23.28,0:18:24.83,Default,Oka,0,0,0,,Nơi này chẳng phải rất tuyệt sao?
+Dialogue: 0,0:18:24.83,0:18:29.67,Default,Kyo,0,0,0,,Nghe này! Tôi đã mong chờ được đi hát karaoke, chơi điện tử, hay ăn đồ ăn nhanh cơ mà!
+Dialogue: 0,0:18:29.67,0:18:33.84,Default,Ryo,0,0,0,,Tụi mình kéo đông người đến thế này\Nliệu có làm phiền cậu ấy không nhỉ?
+Dialogue: 0,0:18:33.84,0:18:35.84,Default,Nag,0,0,0,,Dạ không, mình vui lắm.
+Dialogue: 0,0:18:35.84,0:18:39.43,Default,Nag,0,0,0,,Hiếm khi căn phòng này lại trở nên náo nhiệt như thế này.
+Dialogue: 0,0:18:40.18,0:18:43.26,Default,Kyo,0,0,0,,Tôi đã tạo cơ hội cho cậu rồi đấy, tận dụng đi.
+Dialogue: 0,0:18:43.26,0:18:45.72,Default,Kyo,0,0,0,,Cậu tốt nhất là nên chủ động tiến thêm một bước đi.
+Dialogue: 0,0:18:48.43,0:18:49.89,Default,Kot,0,0,0,,Ưm...
+Dialogue: 0,0:18:49.89,0:18:52.27,Default,Kot,0,0,0,,Xin chào. Rất vui được gặp các bạn.
+Dialogue: 0,0:18:52.27,0:18:55.11,Default,Kot,0,0,0,,Tên mình là Ichinose Kotomi. Học sinh năm ba Lớp A.
+Dialogue: 0,0:18:55.11,0:18:56.73,Default,Kot,0,0,0,,Sở thích của mình là đọc sách.
+Dialogue: 0,0:18:56.73,0:19:00.74,Default,Kot,0,0,0,,Nếu được làm bạn với các bạn thì mình sẽ rất vui.
+Dialogue: 0,0:19:01.70,0:19:04.49,Default,Nag,0,0,0,,Tên tớ là Furukawa Nagisa. Học sinh năm ba Lớp B.
+Dialogue: 0,0:19:04.49,0:19:06.16,Default,Nag,0,0,0,,Sở thích của tớ là diễn xuất.
+Dialogue: 0,0:19:06.16,0:19:09.87,Default,Nag,0,0,0,,Nếu được làm bạn với các cậu thì tớ sẽ rất vui.
+Dialogue: 0,0:19:10.29,0:19:13.25,Default,Ryo,0,0,0,,Tên tớ là Fujibayashi Ryou. Học sinh năm ba Lớp D.
+Dialogue: 0,0:19:13.25,0:19:15.13,Default,Ryo,0,0,0,,Sở thích của tớ là bói toán.
+Dialogue: 0,0:19:15.13,0:19:19.09,Default,Ryo,0,0,0,,Nếu được làm bạn với các cậu thì tớ sẽ rất vui.
+Dialogue: 0,0:19:19.42,0:19:21.68,Default,Kyo,0,0,0,,Tên tôi là Fujibayashi Kyou. Học sinh năm ba Lớp E.
+Dialogue: 0,0:19:21.68,0:19:23.55,Default,Oka,0,0,0,,Sở thích của tôi là bắt nạt kẻ yếu.
+Dialogue: 0,0:19:23.55,0:19:26.64,Default,Kyo,0,0,0,,Nếu được làm bạn với các người thì tôi sẽ rất vui.
+Dialogue: 0,0:19:26.64,0:19:29.10,Default,Kyo,0,0,0,,Cậu vừa bảo sở thích của ai là bắt nạt kẻ yếu cơ hả?
+Dialogue: 0,0:19:29.10,0:19:30.27,Default,Nag,0,0,0,,Okazaki-san!
+Dialogue: 0,0:19:30.73,0:19:33.35,Default,Oka,0,0,0,,Cậu thấy cú bẻ miếng vừa rồi chưa, Kotomi?
+Dialogue: 0,0:19:33.35,0:19:35.48,Default,Oka,0,0,0,,Chính thời điểm chuẩn xác này là thứ cậu cần phải thuần thục đấy.
+Dialogue: 0,0:19:36.15,0:19:37.48,Default,Kot,0,0,0,,Ư-Ưm...
+Dialogue: 0,0:19:37.48,0:19:41.99,Default,Kot,0,0,0,,Thực ra mình khỏe lắm, nên bạn đừng bắt nạt mình nhé.
+Dialogue: 0,0:19:41.99,0:19:44.62,Default,Oka,0,0,0,,Tôi chịu không hòa hợp nổi với cậu rồi đấy...
+Dialogue: 0,0:19:47.87,0:19:50.45,Default,Kyo,0,0,0,,Mọi chuyện chẳng giống như những gì mình hình dung chút nào...
+Dialogue: 0,0:19:51.41,0:19:54.17,Default,Oka,0,0,0,,Hay là tất cả các cậu cùng gia nhập câu lạc bộ kịch luôn đi?
+Dialogue: 0,0:19:54.17,0:19:58.09,Default,Oka,0,0,0,,Với số lượng người này, chắc chắn\Nsẽ đủ điều kiện để thuyết phục hội học sinh đấy.
+Dialogue: 0,0:19:58.09,0:20:00.63,Default,Kyo,0,0,0,,Xin lỗi chủ nhiệm câu lạc bộ nhé, nhưng việc đó thì tôi xin kiếu.
+Dialogue: 0,0:20:00.63,0:20:03.63,Default,Kyo,0,0,0,,Cả tôi và Ryou đều không có ý định diễn kịch đâu.
+Dialogue: 0,0:20:03.63,0:20:07.22,Default,Nag,0,0,0,,Nhưng cậu cứ ghé chơi thường xuyên bao nhiêu tùy thích.
+Dialogue: 0,0:20:07.22,0:20:10.89,Default,Nag,0,0,0,,Chỉ việc quan sát thời điểm tung hứng\Nbẻ miếng thôi cũng là một trải nghiệm học hỏi rồi.
+Dialogue: 0,0:20:11.43,0:20:18.19,Default,Kot,0,0,0,,Mình sẽ luyện tập thật nhiều, biết đâu đến lúc đó\Nmình cũng có thể tung ra một cú bẻ miếng thật chuẩn xác.
+Dialogue: 0,0:20:18.19,0:20:20.07,Default,Nag,0,0,0,,Cậu đáng khâm phục thật đấy, Kotomi-chan.
+Dialogue: 0,0:20:20.07,0:20:23.40,Default,Nag,0,0,0,,Tớ sẽ cổ vũ cho cậu, nên hãy cố lên nhé.
+Dialogue: 0,0:20:23.40,0:20:26.57,Default,Ryo,0,0,0,,Cho tớ cùng tham gia với nhé.
+Dialogue: 0,0:20:27.07,0:20:29.08,Default,Nag,0,0,0,,Vậy thì ba chúng mình hãy cùng nhau cố gắng nào!
+Dialogue: 0,0:20:29.62,0:20:30.16,Default,Kot,0,0,0,,Ừm.
+Dialogue: 0,0:20:30.16,0:20:30.66,Default,Ryo,0,0,0,,Vâng.
+Dialogue: 0,0:20:30.66,0:20:33.58,Default,Kyo,0,0,0,,Thế là một nhóm kỳ lạ thực sự đã được thành lập rồi.
+Dialogue: 0,0:20:32.41,0:20:33.92,Default-alt,Ryo,0,0,0,,Cùng cố gắng nào.
+Dialogue: 0,0:20:33.58,0:20:35.54,Default,Oka,0,0,0,,Cậu cũng là một phần trong đó đấy.
+Dialogue: 0,0:20:37.46,0:20:38.75,Default,Kyo,0,0,0,,Thôi thì đành vậy.
+Dialogue: 0,0:20:38.75,0:20:40.76,Default,Kyo,0,0,0,,Nhìn cậu ấy có vẻ đang rất vui vẻ.
+Dialogue: 0,0:20:40.76,0:20:44.47,Default,Nag,0,0,0,,Những câu bẻ miếng của Okazaki-san lúc nào cũng gắt gỏng lắm.
+Dialogue: 0,0:20:44.47,0:20:46.30,Default,Nag,0,0,0,,Nên thỉnh thoảng tớ cũng...
+Dialogue: 0,0:20:46.80,0:20:49.18,Default,Nag,0,0,0,,Có chuyện gì thế hả Kotomi-chan?
+Dialogue: 0,0:20:50.64,0:20:51.68,Default,Oka,0,0,0,,Này, Kotomi.
+Dialogue: 0,0:21:01.44,0:21:03.19,Default,Girl,0,0,0,,Ưm, cậu cần gì sao?
+Dialogue: 0,0:21:04.20,0:21:05.36,Default,Oka,0,0,0,,Này, Kotomi.
+Dialogue: 0,0:21:05.78,0:21:06.66,Default,Kyo,0,0,0,,Sao thế cậu?
+Dialogue: 0,0:21:06.66,0:21:08.78,Default,Gril,0,0,0,,Mình xin lỗi. Tiếng đàn làm phiền các bạn à?
+Dialogue: 0,0:21:08.78,0:21:11.49,Default,Kyo,0,0,0,,Không, tụi mình không thấy phiền đâu.
+Dialogue: 0,0:21:11.49,0:21:13.50,Default,Nag,0,0,0,,Kotomi-chan, có chuyện gì thế cậu?
+Dialogue: 0,0:21:13.50,0:21:14.75,Default,Kot,0,0,0,,Một cây vĩ cầm...
+Dialogue: 0,0:21:19.29,0:21:22.21,Default,Girl,0,0,0,,Cậu có muốn chơi thử không?
+Dialogue: 0,0:21:22.21,0:21:23.51,Default,Kot,0,0,0,,Mình có thể chơi sao?
+Dialogue: 0,0:21:23.51,0:21:24.22,Default,Girl,0,0,0,,Được chứ.
+Dialogue: 0,0:21:24.22,0:21:26.68,Default,Kyo,0,0,0,,Kotomi, cậu biết chơi vĩ cầm à?
+Dialogue: 0,0:21:42.19,0:21:44.28,Default,Kyo,0,0,0,,Kotomi! Dừng lại, dừng lại mau!
+Dialogue: 0,0:21:44.28,0:21:45.53,Default,Girl,0,0,0,,Cậu dùng nhiều lực quá rồi!
+Dialogue: 0,0:21:45.53,0:21:46.57,Default,Girl,0,0,0,,Cậu phải thả lỏng người ra chứ!
+Dialogue: 0,0:21:46.57,0:21:48.53,Default,Oka,0,0,0,,Cậu ấy không nghe thấy bọn mình nói đâu!
+Dialogue: 0,0:21:58.17,0:21:59.29,Default,Kot,0,0,0,,Tuyệt vời quá.
+Dialogue: 0,0:21:59.29,0:22:02.71,Default,Kyo,0,0,0,,Tomoya... Nhỏ đó bị làm sao thế?
+Dialogue: 0,0:22:02.71,0:22:04.67,Default,Tom,0,0,0,,Đừng hỏi tôi...
+Dialogue: 0,0:22:05.80,0:22:09.76,Signs,,0,0,0,,{\fad(400,0)\4c&H000000&\shad2.5\pos(1460,840)}Còn tiếp
+Dialogue: 0,0:22:10.59,0:22:18.81,ED Romaji,,0,0,0,,{\fad(250,250)\be1\3c&H6E8B46&}{\kf35}da{\kf33}n{\kf58}go {\kf60}dan{\kf60}go {\kf57}dan{\kf64}go {\kf59}dan{\kf60}go {\kf26}da{\kf33}n{\kf60}go {\kf57}dai{\kf32}ka{\kf34}zo{\kf51}ku
+Dialogue: 0,0:22:10.59,0:22:18.81,ED English,,0,0,0,,{\fad(250,250)\be1\3c&H447687&}Dango, dango, dango, dango, đại gia đình dango.
+Dialogue: 0,0:22:20.06,0:22:24.94,ED Romaji,,0,0,0,,{\fad(0,0)\be1\3c&H489390&}{\kf45}ya{\kf33}n{\kf56}cha{\kf64}na {\kf59}ya{\kf60}ki {\kf62}da{\kf56}n{\kf53}go {\kf26}ya{\kf33}sa{\kf71}shii {\kf59}a{\kf60}n {\kf61}da{\kf59}n{\kf58}go
+Dialogue: 0,0:22:20.06,0:22:24.94,ED English,,0,0,0,,{\fad(0,0)\be1\3c&H23627C&}Dango nướng tinh nghịch, dango đậu đỏ dịu dàng,
+Dialogue: 0,0:22:24.94,0:22:29.66,ED Romaji,,0,0,0,,{\fad(0,0)\be1\3c&H4C7330&}{\kf0}yanchana yaki dango {\kf26}ya{\kf33}sa{\kf71}shii {\kf59}a{\kf60}n {\kf61}da{\kf59}n{\kf58}go
+Dialogue: 0,0:22:24.94,0:22:29.66,ED English,,0,0,0,,{\fad(0,0)\be1\3c&H4C7330&}Dango nướng tinh nghịch, dango đậu đỏ dịu dàng,
+Dialogue: 0,0:22:29.66,0:22:38.12,ED Romaji,,0,0,0,,{\fad(0,250)\be1\3c&H728947&}{\kf50}mi{\kf23}n{\kf67}na {\kf54}mi{\kf65}nna {\kf57}a{\kf44}wa{\kf81}se{\kf59}te {\kf26}hya{\kf34}ku {\kf56}nin {\kf62}ka{\kf62}zo{\kf67}ku
+Dialogue: 0,0:22:29.66,0:22:38.12,ED English,,0,0,0,,{\fad(0,250)\be1\3c&H5A9053&}Gom tất cả lại thành một gia đình trăm người.
+Dialogue: 0,0:22:39.25,0:22:47.72,ED Romaji,,0,0,0,,{\fad(0,250)\be1\3c&H3A458B&}{\kf44}a{\kf33}ka-{\kf31}cha{\kf60}n {\kf33}da{\kf29}n{\kf29}go {\kf61}wa {\kf57}i{\kf59}tsu{\kf53}mo {\kf37}shi{\kf30}a{\kf16}wa{\kf78}se {\kf28}no {\kf29}na{\kf33}ka {\kf64}de
+Dialogue: 0,0:22:39.25,0:22:47.72,ED English,,0,0,0,,{\fad(0,250)\be1\3c&H479091&}Bé dango sơ sinh lúc nào cũng ngập tràn trong hạnh phúc,
+Dialogue: 0,0:22:48.88,0:22:56.85,ED Romaji,,0,0,0,,{\fad(0,250)\be1\3c&H4A768F&}{\kf31}to{\kf46}shi{\kf31}yo{\kf62}ri {\kf27}da{\kf30}n{\kf28}go {\kf57}wa {\kf64}me {\kf62}wo {\kf42}ho{\kf106}so{\kf33}me{\kf87}te{\kf47}ru
+Dialogue: 0,0:22:48.88,0:22:56.85,ED English,,0,0,0,,{\fad(0,250)\be1\3c&H665C39&}Cụ dango già nua nheo nheo đôi mắt hiền từ.
+Dialogue: 0,0:22:57.31,0:23:06.86,ED Romaji,,0,0,0,,{\fad(0,0)\be1\3c&H508E48&}{\kf41}na{\kf33}ka{\kf19}yo{\kf43}shi {\kf59}da{\kf30}n{\kf57}go {\kf33}te {\kf25}wo {\kf28}tsu{\kf31}na{\kf40}gi {\kf39}o{\kf44}o{\kf29}ki{\kf28}na {\kf30}ma{\kf70}ru{\kf27}i {\kf56}wa {\kf27}ni {\kf36}na{\kf24}ru {\kf55}yo
+Dialogue: 0,0:22:57.31,0:23:06.86,ED English,,0,0,0,,{\fad(0,0)\be1\3c&H8F8026&}Những người bạn dango nắm chặt tay nhau kết thành một vòng tròn lớn,
+Dialogue: 0,0:23:06.86,0:23:16.45,ED Romaji,,0,0,0,,{\fad(0,0)\be1\3c&H328A95&}{\kf44}ma{\kf28}chi {\kf33}wo {\kf34}tsu{\kf60}ku{\kf32}ri {\kf59}dan{\kf31}go {\kf18}bo{\kf37}shi {\kf36}no {\kf29}u{\kf56}e {\kf57}mi{\kf68}nna {\kf85}de {\kf29}wa{\kf68}rai{\kf30}a{\kf52}u {\kf60}yo
+Dialogue: 0,0:23:06.86,0:23:16.45,ED English,,0,0,0,,{\fad(0,0)\be1\3c&H1C7593&}Xây nên cả thị trấn trên hành tinh dango và rộn rã tiếng cười vui.
+Dialogue: 0,0:23:16.45,0:23:26.13,ED Romaji,,0,0,0,,{\fad(0,0)\be1\3c&H33200D&}{\kf37}u{\kf42}sa{\kf28}gi {\kf19}mo {\kf68}so{\kf40}ra {\kf56}de {\kf29}te {\kf34}wo {\kf59}fu{\kf28}tte{\kf62}mi{\kf32}te{\kf30}ru {\kf58}de{\kf58}kka{\kf32}i {\kf53}o{\kf33}tsu{\kf19}ki-{\kf47}sa{\kf60}ma
+Dialogue: 0,0:23:16.45,0:23:26.13,ED English,,0,0,0,,{\fad(0,0)\be1\3c&H270D0D&}Chú thỏ ngọc trên cung trăng tròn to lớn cũng vẫy tay chào đón,
+Dialogue: 0,0:23:26.13,0:23:30.80,ED Romaji,,0,0,0,,{\fad(0,0)\be1\3c&H49351C&}{\kf42}u{\kf20}re{\kf43}shi{\kf28}i {\kf59}ko{\kf30}to {\kf53}ka{\kf27}na{\kf32}shi{\kf38}i {\kf34}ko{\kf27}to {\kf34}mo {\kf81}ze{\kf67}n{\kf119}bu {\kf62}ma{\kf29}ru{\kf59}me{\kf91}te
+Dialogue: 0,0:23:26.13,0:23:30.80,ED English,,0,0,0,,{\fad(0,0)\be1\3c&H737769&}Bao niềm vui sướng cùng những nỗi buồn đau xin gom tròn lại hết...
+Dialogue: 0,0:23:30.80,0:23:36.31,ED Romaji,,0,0,0,,{\fad(0,250)\be1\3c&H4A788E&}{\kf0}ureshii koto kanashii koto mo {\kf24}{\kf57}ze{\kf67}n{\kf119}bu {\kf62}ma{\kf29}ru{\kf59}me{\kf91}te
+Dialogue: 0,0:23:30.80,0:23:36.31,ED English,,0,0,0,,{\fad(0,250)\be1\3c&H4A788E&}Bao niềm vui sướng cùng những nỗi buồn đau xin gom tròn lại hết...
+Dialogue: 0,0:23:39.77,0:23:43.73,Signs,,0,0,0,,{\fs100\fad(0,400)\4c&H000000&\shad2.5\pos(960,470)}Giới thiệu tập sau
+Dialogue: 0,0:23:40.23,0:23:42.60,Default,Oka,0,0,0,,Sốc đến mức suýt nữa thì tớ chìm vào giấc ngủ ngàn thu luôn rồi!
+Dialogue: 0,0:23:42.60,0:23:43.81,Default,Kot,0,0,0,,Cái quái gì thế?
+Dialogue: 0,0:23:44.19,0:23:45.44,Default,Kyo,0,0,0,,Để xem nào...
+Dialogue: 0,0:23:45.44,0:23:49.82,Default,Kyo,0,0,0,,Được rồi. Ngày mốt, thứ Hai tới, chúng ta sẽ tổ chức buổi độc tấu vĩ cầm cho cậu.
+Dialogue: 0,0:23:49.82,0:23:51.11,Default,Kot,0,0,0,,Cái quái gì thế?
+Dialogue: 0,0:23:51.49,0:23:54.45,Default,Oka,0,0,0,,Cậu chắc chứ? Tiếng vĩ cầm của Kotomi chẳng phải...
+Dialogue: 0,0:23:54.45,0:23:58.29,Default,Nag,0,0,0,,Sẽ ổn thôi mà. Cậu ấy đã tiến bộ nhiều lắm rồi.
+Dialogue: 0,0:23:58.29,0:23:59.79,Default,Kot,0,0,0,,Cái quái gì thế?
+Dialogue: 0,0:24:00.41,0:24:01.66,Default,Kyo,0,0,0,,Vậy nên là...
+Dialogue: 0,0:24:02.37,0:24:05.13,Default,Kyo,0,0,0,,Bọn mình bị bỏ lại một mình rồi.
+Dialogue: 0,0:24:03.83,0:24:07.75,Signs,,0,0,0,,{\fad(400,400)\4c&H000000&\shad2.5\pos(960,410)}Tập 11
+Dialogue: 0,0:24:03.83,0:24:07.75,Signs,,0,0,0,,{\fs85\fad(400,400)\4c&H000000&\shad2.5\pos(960,760)}Khúc Cuồng Tưởng Sau Giờ Học
+Dialogue: 0,0:24:05.13,0:24:06.46,Default,Kyo,0,0,0,,Bọn mình nên làm gì bây giờ?
+Dialogue: 0,0:24:06.46,0:24:07.80,Default,Oka,0,0,0,,Tớ mệt rồi, tớ đi ngủ đây.
+Dialogue: 0,0:24:07.80,0:24:09.63,Default,Kot,0,0,0,,Cái quái gì thế?
+Dialogue: 0,0:24:09.32,0:24:11.52,Default,,0,0,0,,
+Comment: 0,0:00:00.00,0:00:01.89,Default,,0,0,0,,
+Comment: 0,0:00:05.50,0:00:07.50,Default,,0,0,0,,
+Comment: 0,0:01:31.67,0:03:16.63,Default,,0,0,0,,
+Comment: 0,0:04:37.67,0:04:39.67,Signs,,0,0,0,,
+Comment: 0,0:11:11.02,0:11:15.27,Default,,0,0,0,,
+Comment: 0,0:22:04.67,0:23:40.43,Default,,0,0,0,,
+
+
