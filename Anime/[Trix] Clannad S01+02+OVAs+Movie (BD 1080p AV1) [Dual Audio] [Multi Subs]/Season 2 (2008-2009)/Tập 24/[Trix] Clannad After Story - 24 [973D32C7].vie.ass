@@ -1,0 +1,331 @@
+﻿[Script Info]
+Title: Vietnamese Fansub (VietSub by Amtia(NOFACE))
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1920
+PlayResY: 1080
+ScaledBorderAndShadow: yes
+Video File: 25_720p_crf16.mkv
+Video Aspect Ratio: 0
+Video Zoom: 8
+Video Position: 7409
+Last Style Storage: Default
+Audio File: I:\Clannad After Story\CLANNAD_AFTER_STORY_5\BDMV\STREAM\25_new.mp4
+Keyframes File: video.pass
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Segoe UI,75,&H00FFFFFF,&H00FFFFFF,&H00477650,&H80000000,0,0,0,0,110,100,0,0,1,3.6,2.25,2,96,96,48,1
+Style: Default-alt,Segoe UI,75,&H00FFFFFF,&H00FFFFFF,&H00596162,&H80000000,0,0,0,0,110,100,0,0,1,3.6,2.25,8,96,96,48,1
+Style: Note,Segoe UI,54,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3.75,1.5,8,96,96,48,1
+Style: ED Romaji,Segoe UI,81,&H00FFFFFF,&H80FFFFFF,&H80FF0000,&H80000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,8,96,96,36,1
+Style: ED English,Segoe UI,81,&H00FFFFFF,&H80FFFFFF,&H80FF0000,&H80000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,96,96,48,1
+Style: OP Romaji,Segoe UI,72,&H00FFFFFF,&H80FFFFFF,&H80FF5E5B,&H80000000,-1,0,0,0,100,100,0,0,1,3.6,0.9,8,96,96,48,1
+Style: OP English,Segoe UI,72,&H00FFFFFF,&H80FFFFFF,&H80FF5E5B,&H80000000,-1,0,0,0,100,100,0,0,1,3.6,0.9,2,96,96,48,1
+Style: Signs,Segoe UI,75,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,0,0,2,48,48,48,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.07,0:00:06.49,Default,Oka,0,0,0,,Ushio à. Đây là câu chuyện từ hồi con còn chưa chào đời...
+Dialogue: 0,0:00:07.87,0:00:10.04,Default,Oka,0,0,0,,Câu chuyện kéo dài cho tới tận ngày con sinh ra.
+Dialogue: 0,0:00:11.54,0:00:16.29,Default,Oka,0,0,0,,Lần đầu tiên bố và mẹ cất lời trò chuyện với nhau là vào năm lớp 12.
+Dialogue: 0,0:00:16.63,0:00:18.92,Default,Ush,0,0,0,,Đó là lần đầu tiên bố mẹ gặp nhau sao ạ?
+Dialogue: 0,0:00:18.92,0:00:22.63,Default,Oka,0,0,0,,Ừ. Cho tới tận lúc đó, bố mẹ thậm chí còn chẳng biết tên nhau cơ.
+Dialogue: 0,0:00:30.93,0:00:32.06,Default,Nag,0,0,0,,Bánh mì nhân đậu đỏ!
+Dialogue: 0,0:00:33.81,0:00:36.06,Default,Nag,0,0,0,,Cậu có thích ngôi trường này không?
+Dialogue: 0,0:00:36.48,0:00:39.61,Default,Nag,0,0,0,,Tớ vô cùng, vô cùng yêu mến nơi này.
+Dialogue: 0,0:00:39.98,0:00:43.90,Default,Nag,0,0,0,,Thế nhưng chẳng có thứ gì có thể mãi vẹn nguyên không thay đổi.
+Dialogue: 0,0:00:51.41,0:00:54.75,Default,Nag,0,0,0,,Những điều vui vẻ... Những điều hạnh phúc...
+Dialogue: 0,0:00:55.96,0:00:58.54,Default,Nag,0,0,0,,Tất cả đều chẳng thể nào mãi mãi không đổi thay.
+Dialogue: 0,0:00:58.54,0:01:01.67,Default,Nag,0,0,0,,Dẫu vậy, cậu vẫn có thể tiếp tục yêu mến nơi này chứ?
+Dialogue: 0,0:01:03.42,0:01:05.22,Default,Oka,0,0,0,,Chỉ cần tìm thấy chúng là được mà.
+Dialogue: 0,0:01:16.56,0:01:21.44,Default,Oka,0,0,0,,Cứ tìm kiếm những niềm vui và những điều hạnh phúc mới thôi.
+Dialogue: 0,0:01:23.82,0:01:25.40,Default,Oka,0,0,0,,Nào, chúng mình cùng đi thôi.
+Dialogue: 0,0:01:54.06,0:01:59.65,OP Romaji,,0,0,0,,{\be1\fad(250,0)}{\kf24}ki{\kf23}mi {\kf20}da{\kf22}ke {\kf33}ga {\kf32}su{\kf19}gi{\kf27}sa{\kf19}t{\kf39}ta {\kf48}sa{\kf43}ka {\kf42}no {\kf39}to{\kf24}chu{\kf29}u {\kf75}wa
+Dialogue: 0,0:01:54.06,0:01:59.65,OP English,,0,0,0,,{\be1\fad(250,0)}Nơi lưng chừng con dốc năm nào chỉ riêng em cất bước...
+Dialogue: 0,0:01:59.65,0:02:05.28,OP Romaji,,0,0,0,,{\be1\fad(0,250)}{\kf25}a{\kf25}ta{\kf21}ta{\kf21}ka {\kf41}na {\kf22}hi{\kf22}da{\kf28}ma{\kf21}ri {\kf38}ga {\kf43}i{\kf42}ku{\kf45}tsu {\kf22}mo {\kf20}de{\kf22}ki{\kf22}te{\kf84}ta
+Dialogue: 0,0:01:59.65,0:02:05.28,OP English,,0,0,0,,{\be1\fad(0,250)}...nay đã đọng lại biết bao vệt nắng ấm áp chan hòa.
+Dialogue: 0,0:02:05.28,0:02:10.50,OP Romaji,,0,0,0,,{\be1\fad(250,250)}{\kf27}bo{\kf21}ku {\kf40}hi{\kf45}to{\kf43}ri {\kf85}ga {\kf24}ko{\kf22}ko {\kf43}de {\kf35}ya{\kf41}sa{\kf41}shi{\kf55}i
+Dialogue: 0,0:02:05.28,0:02:10.50,OP English,,0,0,0,,{\be1\fad(250,250)}Chỉ một mình tôi đứng lặng nơi đây,
+Dialogue: 0,0:02:10.50,0:02:18.17,OP Romaji,,0,0,0,,{\be1\fad(250,0)}{\kf21}a{\kf21}ta{\kf44}ta{\kf35}ka{\kf55}sa {\kf80}wo {\kf19}o{\kf27}mo{\kf44}i {\kf45}ka{\kf34}e{\kf96}shi{\kf24}te{\kf190}ru
+Dialogue: 0,0:02:10.50,0:02:18.17,OP English,,0,0,0,,{\be1\fad(250,0)}nhớ về từng hơi ấm dịu dàng ngày ấy.
+Dialogue: 0,0:02:18.17,0:02:25.85,OP Romaji,,0,0,0,,{\be1\fad(0,0)}{\kf45}ki{\kf47}mi {\kf61}da{\kf65}ke {\kf197}wo  {\kf24}ki{\kf65}mi {\kf61}da{\kf26}ke {\kf176}wo
+Dialogue: 0,0:02:18.17,0:02:25.85,OP English,,0,0,0,,{\be1\fad(0,0)}Chỉ riêng mình em... trọn vẹn chỉ riêng em...
+Dialogue: 0,0:02:25.85,0:02:32.06,OP Romaji,,0,0,0,,{\be1\fad(250,250)}{\kf78}su{\kf67}ki {\kf214}de {\kf65}i{\kf65}ta{\kf129}yo
+Dialogue: 0,0:02:25.85,0:02:32.06,OP English,,0,0,0,,{\be1\fad(250,250)}...người mà tôi luôn yêu thương sâu đậm.
+Dialogue: 0,0:02:32.06,0:02:39.82,OP Romaji,,0,0,0,,{\be1\fad(250,0)}{\kf44}ka{\kf43}ze {\kf64}de {\kf62}me {\kf211}ga {\kf71}ni{\kf67}ji{\kf26}n{\kf185}de
+Dialogue: 0,0:02:32.06,0:02:39.82,OP English,,0,0,0,,{\be1\fad(250,0)}Cơn gió thoảng qua làm cay khóe mắt,
+Dialogue: 0,0:02:39.82,0:02:46.78,OP Romaji,,0,0,0,,{\be1\fad(250,0)}{\kf89}to{\kf44}o{\kf201}ku {\kf84}na{\kf59}ru {\kf219}yo
+Dialogue: 0,0:02:39.82,0:02:46.78,OP English,,0,0,0,,{\be1\fad(250,0)}khiến bóng hình em dần khuất xa.
+Dialogue: 0,0:02:46.78,0:02:49.08,OP Romaji,,0,0,0,,{\be1\fad(0,250)}{\kf14}i{\kf28}tsu{\kf23}ma{\kf21}de{\kf22}mo {\kf14}o{\kf26}bo{\kf25}e{\kf23}te{\kf20}ru
+Dialogue: 0,0:02:46.78,0:02:49.08,OP English,,0,0,0,,{\be1\fad(0,250)}Tôi sẽ mãi luôn ghi nhớ...
+Dialogue: 1,0:02:48.91,0:02:51.20,OP Romaji,,0,0,0,,{\be1\fad(250,250)}{\kf22}na{\kf18}ni{\kf21}mo {\kf26}ka{\kf21}mo {\kf27}ka{\kf18}wa{\kf19}t{\kf22}te{\kf19}mo
+Dialogue: 1,0:02:48.91,0:02:51.20,OP English,,0,0,0,,{\be1\fad(250,250)}...dẫu cho vạn vật có đổi thay.
+Dialogue: 0,0:02:51.08,0:02:53.41,OP Romaji,,0,0,0,,{\be1\fad(250,250)}{\kf19}hi{\kf19}to{\kf26}tsu {\kf20}da{\kf19}ke {\kf23}hi{\kf19}to{\kf24}tsu {\kf23}da{\kf20}ke
+Dialogue: 0,0:02:51.08,0:02:53.41,OP English,,0,0,0,,{\be1\fad(250,250)}Chỉ một điều duy nhất... chỉ một điều duy nhất...
+Dialogue: 1,0:02:53.16,0:02:55.92,OP Romaji,,0,0,0,,{\be1\fad(250,250)}{\kf24}a{\kf23}ri{\kf20}fu{\kf23}re{\kf19}ta {\kf18}mo{\kf21}no {\kf21}da{\kf29}ke{\kf40}do
+Dialogue: 1,0:02:53.16,0:02:55.92,OP English,,0,0,0,,{\be1\fad(250,250)}...dù chỉ là một điều bình dị giản đơn.
+Dialogue: 0,0:02:55.58,0:02:59.88,OP Romaji,,0,0,0,,{\be1\fad(250,0)}{\kf25}mi{\kf18}se{\kf25}te {\kf22}ya{\kf19}ru {\kf18}ka{\kf21}ga{\kf23}ya{\kf23}ki {\kf20}ni {\kf17}mi{\kf26}chi{\kf14}ta {\kf27}so{\kf26}no {\kf15}hi{\kf23}to{\kf28}tsu {\kf22}da{\kf16}ke
+Dialogue: 0,0:02:55.58,0:02:59.88,OP English,,0,0,0,,{\be1\fad(250,0)}Tôi sẽ cho em thấy, điều duy nhất ngập tràn rạng rỡ ấy.
+Dialogue: 0,0:02:59.88,0:03:05.13,OP Romaji,,0,0,0,,{\be1\fad(0,500)}{\kf19}i{\kf28}tsu{\kf21}ma{\kf27}de{\kf17}mo {\kf14}i{\kf32}tsu{\kf19}ma{\kf21}de{\kf17}mo {\kf23}ma{\kf23}mo{\kf22}t{\kf16}te {\kf27}i{\kf200}ku
+Dialogue: 0,0:02:59.88,0:03:05.13,OP English,,0,0,0,,{\be1\fad(0,500)}Tôi sẽ mãi mãi gìn giữ điều ấy...
+Dialogue: 0,0:03:11.22,0:03:14.76,Default,Oka,0,0,0,,Bố mẹ đã quen biết nhau như thế đấy.
+Dialogue: 0,0:03:16.14,0:03:19.73,Default,Oka,0,0,0,,Hồi ấy mẹ hơn mọi người trong lớp một tuổi.
+Dialogue: 0,0:03:24.56,0:03:27.27,Default,Nag,0,0,0,,Dạ, tớ có thể giúp gì được cho cậu không?
+Dialogue: 0,0:03:27.27,0:03:30.74,Default,Oka,0,0,0,,Tớ chỉ muốn hỏi tại sao cậu lại ra đây ăn trưa một mình thôi.
+Dialogue: 0,0:03:31.61,0:03:34.62,Default,Nag,0,0,0,,Cậu có thích ngôi trường này không?
+Dialogue: 0,0:03:35.45,0:03:36.78,Default,Oka,0,0,0,,Cũng chẳng thích lắm.
+Dialogue: 0,0:03:36.78,0:03:39.83,Default,Nag,0,0,0,,Tớ thì vô cùng, vô cùng yêu mến nơi này.
+Dialogue: 0,0:03:39.83,0:03:45.50,Default,Nag,0,0,0,,Trước đây tớ từng có bạn bè và thầy cô rất thân thiết, nhưng bây giờ thì...
+Dialogue: 0,0:03:45.50,0:03:46.79,Default,Nag,0,0,0,,Có chuyện gì xảy ra à?
+Dialogue: 0,0:03:47.42,0:03:52.01,Default,Nag,0,0,0,,Năm ngoái tớ phải nghỉ học suốt một thời gian dài.
+Dialogue: 0,0:03:52.01,0:03:53.05,Default,Nag,0,0,0,,Nên tớ...
+Dialogue: 0,0:03:53.80,0:03:54.80,Default,Oka,0,0,0,,Cậu bị lưu ban à.
+Dialogue: 0,0:03:55.51,0:03:57.89,Default,Nag,0,0,0,,Vâng, tớ phải học lại một năm.
+Dialogue: 0,0:04:01.23,0:04:07.31,Default,Nag,0,0,0,,Tất cả những người tớ quen đều đã tốt nghiệp ra trường cả rồi,\Ntrong trường giờ đây chỉ toàn những gương mặt xa lạ.
+Dialogue: 0,0:04:07.31,0:04:10.32,Note,,0,0,0,,{\fad(0,500)}Chú thích: Urashima Tarou là câu chuyện cổ tích về chàng trai du hành vượt thời gian và thấy không còn ai quen biết còn sống.
+Dialogue: 0,0:04:07.31,0:04:10.32,Default,Nag,0,0,0,,Tớ cảm thấy mình chẳng khác nào chàng Urashima Tarou cả.
+Dialogue: 0,0:04:14.03,0:04:17.70,Signs,,0,0,0,,{\fad(400,0)\fs60\blur2\bord2\pos(960,410.000015)\3c&H4A8A5C&}Tập Tổng Kết
+Dialogue: 0,0:04:14.03,0:04:17.70,Signs,,0,0,0,,{\fad(400,0)\fs60\blur2\bord2\3c&H4A8A5C&\pos(960,720)}Dưới Tán Cây Xanh
+Dialogue: 0,0:04:19.08,0:04:21.50,Default,Oka,0,0,0,,Hồi đó bố là một kẻ bị cô lập ở trường.
+Dialogue: 0,0:04:33.63,0:04:40.01,Default,Oka,0,0,0,,Nhưng sau khi gặp được mẹ con,\Nmọi thứ bắt đầu dần dần đổi khác.
+Dialogue: 0,0:04:42.60,0:04:45.10,Default,Oka,0,0,0,,Mẹ con khi ấy đang cố gắng tham gia vào hoạt động kịch.
+Dialogue: 0,0:04:45.73,0:04:50.27,Default,Oka,0,0,0,,Nhưng để làm được điều đó, trước hết mẹ phải tái lập lại Câu lạc bộ Kịch.
+Dialogue: 0,0:04:50.61,0:04:52.44,Default,Ush,0,0,0,,Bố đã giúp mẹ làm việc đó đúng không ạ?
+Dialogue: 0,0:04:52.44,0:04:57.95,Default,Oka,0,0,0,,Ừ. Mẹ con quyết tâm đến nỗi bố chẳng thể nào làm ngơ được.
+Dialogue: 0,0:05:01.95,0:05:06.04,Default,Oka,0,0,0,,Ngay từ hồi ấy, mẹ con đã cực kỳ say mê Gia đình Đại Dango rồi.
+Dialogue: 0,0:05:06.92,0:05:09.33,Default,Oka,0,0,0,,Ushio cũng thích bài đó lắm đúng không nào?
+Dialogue: 0,0:05:08.25,0:05:09.33,Signs,,0,0,0,,{\fad(80,0)\fnHandwritten Crystal v2\fs99\an5\c&H343434&\pos(970.5,207)}Tuyển thành viên CLB Kịch
+Dialogue: 0,0:05:08.25,0:05:09.33,Signs,,0,0,0,,{\fad(80,0)\fnHandwritten Crystal v2\fs72\an5\c&H343434&\pos(1080,450)}Buổi giới thiệu    15 tháng 5
+Dialogue: 0,0:05:08.25,0:05:09.33,Signs,,0,0,0,,{\fad(80,0)\fnHandwritten Crystal v2\fs63\an5\c&H252726&\pos(1263,714)}Chủ nhiệm    Furukawa Nagisa
+Dialogue: 0,0:05:09.33,0:05:10.59,Default,Ush,0,0,0,,Dạ thích ạ.
+Dialogue: 0,0:05:13.38,0:05:15.59,Default,Oka,0,0,0,,Mẹ con đã một mình luyện tập.
+Dialogue: 0,0:05:16.26,0:05:18.09,Default,Oka,0,0,0,,Mẹ có một vở kịch mà bản thân hằng mong ước được biểu diễn.
+Dialogue: 0,0:05:21.35,0:05:24.47,Default,Nag,0,0,0,,...cậu có muốn tớ đưa cậu đi không?
+Dialogue: 0,0:05:26.35,0:05:30.40,Default,Nag,0,0,0,,Đến nơi ngập tràn những ước nguyện thành hiện thực của thị trấn này.
+Dialogue: 0,0:05:33.07,0:05:34.78,Default,Oka,0,0,0,,Thế rồi những người bạn bắt đầu tụ họp lại.
+Dialogue: 0,0:05:35.65,0:05:38.82,Default,Oka,0,0,0,,Người đầu tiên gia nhập là cô Fujibayashi Kyou.
+Dialogue: 0,0:05:39.16,0:05:42.33,Default,Oka,0,0,0,,Con biết cô ấy rồi đấy, chính là cô giáo của con ở trường mẫu giáo.
+Dialogue: 0,0:05:45.75,0:05:46.87,Default,Kyo,0,0,0,,Không được đâu.
+Dialogue: 0,0:05:46.87,0:05:51.08,Default,Kyo,0,0,0,,Tôi với cậu... nói sao nhỉ... đâu có hẹn hò gì với nhau đâu.
+Dialogue: 0,0:05:52.04,0:05:53.59,Default,Kyo,0,0,0,,Hơn nữa, Ryou mà biết thì...
+Dialogue: 0,0:05:53.59,0:05:55.13,Default,Oka,0,0,0,,Dừng lại! Dừng lại ngay!
+Dialogue: 0,0:05:55.13,0:05:56.01,Default,Oka,0,0,0,,Nghe tôi nói đã chứ!
+Dialogue: 0,0:05:56.80,0:06:02.10,Default,Kyo,0,0,0,,Đương nhiên cậu là con trai,\Nnên tôi hiểu là cậu sẽ có hứng thú với chuyện đó...
+Dialogue: 0,0:06:02.47,0:06:05.47,Default,Oka,0,0,0,,Rồi đến em gái của cô ấy, Fujibayashi Ryou.
+Dialogue: 0,0:06:05.97,0:06:08.19,Default,Oka,0,0,0,,Cô ấy từng là lớp trưởng lớp của bố đấy.
+Dialogue: 0,0:06:08.19,0:06:11.94,Default,Ryo,0,0,0,,V-Vâng. Em sẽ lắng nghe anh thật nghiêm túc ạ.
+Dialogue: 0,0:06:11.94,0:06:14.69,Default,Ryo,0,0,0,,Trông ngày càng giống một Câu lạc bộ Kịch thực thụ rồi đấy.
+Dialogue: 0,0:06:14.69,0:06:18.65,Default,Ryo,0,0,0,,Con gái ai cũng thích bói toán từ trong mã gen rồi.
+Dialogue: 0,0:06:18.65,0:06:22.20,Default,Oka,0,0,0,,Cô gái thông minh nhất trường cũng đã tham gia cùng bố mẹ.
+Dialogue: 0,0:06:22.78,0:06:24.33,Default,Oka,0,0,0,,Đó là cô Ichinose Kotomi.
+Dialogue: 0,0:06:25.04,0:06:27.83,Default,Oka,0,0,0,,Hóa ra cô ấy lại chính là bạn thời thơ ấu của bố.
+Dialogue: 0,0:06:28.71,0:06:30.08,Default,Kot,0,0,0,,Thích thật đấy.
+Dialogue: 0,0:06:30.75,0:06:32.92,Default,Oka,0,0,0,,Ngoài ra còn có rất nhiều người bạn khác nữa.
+Dialogue: 0,0:06:32.92,0:06:35.59,Default,Oka,0,0,0,,Như cô Sakagami Tomoyo ở lớp dưới.
+Dialogue: 0,0:06:37.63,0:06:39.84,Default,Tom,0,0,0,,Con đường chúng ta đang đi vẫn sẽ tiếp tục.
+Dialogue: 0,0:06:39.84,0:06:41.09,Default,Tom,0,0,0,,Cả hai chúng ta hãy cùng nhau cố gắng nhé.
+Dialogue: 0,0:06:41.09,0:06:42.47,Default,Tom,0,0,0,,Đó là một lời hứa đấy nhé.
+Dialogue: 0,0:06:44.97,0:06:46.89,Default,Oka,0,0,0,,Chị Sagara Misae, quản lý khu ký túc xá.
+Dialogue: 0,0:06:48.10,0:06:53.56,Default,Oka,0,0,0,,Và cả cô Miyazawa Yukine, người luôn túc trực ở Phòng Tư Liệu để trò chuyện cùng mọi người.
+Dialogue: 0,0:06:54.31,0:06:58.11,Default,Oka,0,0,0,,Cô Miyazawa đã dạy cho bố truyền thuyết kỳ bí của thị trấn này.
+Dialogue: 0,0:06:58.99,0:07:02.41,Default,Oka,0,0,0,,'Một đốm sáng kỳ diệu sẽ xuất hiện bên cạnh những ai tìm thấy hạnh phúc.'
+Dialogue: 0,0:07:03.32,0:07:06.91,Default,Oka,0,0,0,,Cô ấy bảo rằng chỉ cần thu thập được những đốm sáng ấy, điều ước sẽ trở thành hiện thực.
+Dialogue: 0,0:07:09.54,0:07:11.42,Default,Ush,0,0,0,,Còn bác Youhei thì sao ạ?
+Dialogue: 0,0:07:11.42,0:07:13.71,Default,Oka,0,0,0,,À phải rồi, suýt nữa thì bố quên mất cậu ta.
+Dialogue: 0,0:07:13.71,0:07:17.00,Default,Sun,0,0,0,,Đây chính là trò chơi nhân danh tình yêu của cánh đàn ông đấy.
+Dialogue: 0,0:07:17.63,0:07:21.26,Default,Sun,0,0,0,,Nói cách khác, đó là trò chơi tình ái giữa các chàng trai.
+Dialogue: 0,0:07:23.26,0:07:28.14,Default,Oka,0,0,0,,Bố từng cùng với bé Mei, em gái cậu ấy, tìm mọi cách đưa cậu ấy quay lại câu lạc bộ bóng đá đấy chứ.
+Dialogue: 0,0:07:30.06,0:07:35.94,Default,Oka,0,0,0,,Nếu như không có cậu ấy ở bên, có lẽ bố đã bỏ học từ trước khi kịp gặp mẹ con rồi.
+Dialogue: 0,0:07:43.07,0:07:47.20,Default,Oka,0,0,0,,Mỗi người chúng ta giờ đây đều đã đi một con đường riêng,\Nnhưng thỉnh thoảng mọi người vẫn tụ họp lại với nhau.
+Dialogue: 0,0:07:47.66,0:07:52.12,Default,Oka,0,0,0,,Dịp năm mới vừa rồi mọi người đều đến nhà mình chơi đấy thôi,\Ncon còn nhớ chứ?
+Dialogue: 0,0:07:56.17,0:07:59.55,Default,Oka,0,0,0,,Có biết bao nhiêu chuyện đã xảy ra\Ntrước khi Câu lạc bộ Kịch được chính thức tái lập.
+Dialogue: 0,0:07:59.96,0:08:04.30,Default,Oka,0,0,0,,Chẳng hạn như đám cưới của chú Yoshino Yusuke và cô Kouko.
+Dialogue: 0,0:08:06.60,0:08:09.76,Default,Oka,0,0,0,,Cô Kouko có một người em gái từng phải nằm viện suốt thời gian dài.
+Dialogue: 0,0:08:10.47,0:08:12.43,Default,Oka,0,0,0,,Đó chính là người bạn Fuko-chan của con đấy.
+Dialogue: 0,0:08:15.44,0:08:20.19,Default,Oka,0,0,0,,Bên cạnh các thành viên, tụi bố còn phải tìm một giáo viên phụ trách câu lạc bộ nữa.
+Dialogue: 0,0:08:20.65,0:08:24.82,Default,Oka,0,0,0,,Đã có một cuộc cạnh tranh thầy Koumura với Đội Hợp Xướng,
+Dialogue: 0,0:08:24.82,0:08:28.78,Default,Oka,0,0,0,,và tụi bố thậm chí còn thách đấu cả đội bóng rổ để thuyết phục Đội Hợp Xướng nhượng lại.
+Dialogue: 0,0:08:31.62,0:08:35.75,Default,Oka,0,0,0,,Cuối cùng, cả Kyou, Sunohara,\Nvà mọi người đều đã gia nhập câu lạc bộ.
+Dialogue: 0,0:08:36.25,0:08:41.51,Default,Oka,0,0,0,,Nhờ sự nỗ lực của biết bao nhiêu người mà Câu lạc bộ Kịch cuối cùng cũng bắt đầu đi vào hoạt động, thế nhưng...
+Dialogue: 0,0:08:42.17,0:08:46.09,Default,Oka,0,0,0,,...sau đó, rắc rối lại ập đến với chính bố.
+Dialogue: 0,0:08:46.09,0:08:49.18,Default,Oka,0,0,0,,Bố ơi, nếu bố định ngủ thì hãy vào giường nằm đàng hoàng đi.
+Dialogue: 0,0:08:49.64,0:08:51.39,Default,Oka,0,0,0,,Này bố.
+Dialogue: 0,0:08:53.06,0:08:55.27,Default,Dad,0,0,0,,À, chào con.
+Dialogue: 0,0:08:55.77,0:08:59.27,Default,Dad,0,0,0,,Chắc là ta lại gây phiền phức gì cho Tomoya-kun rồi phải không.
+Dialogue: 0,0:09:00.52,0:09:05.78,Default,Oka,0,0,0,,Hồi ấy, mối quan hệ giữa bố và ông nội con không được êm đẹp.
+Dialogue: 0,0:09:06.66,0:09:10.41,Default,Oka,0,0,0,,Bố đã bỏ nhà đi và chuyển đến sống tại nhà của mẹ con.
+Dialogue: 0,0:09:12.87,0:09:15.00,Default,Oka,0,0,0,,Tạm biệt bố.
+Dialogue: 0,0:09:19.88,0:09:23.00,Default,San,0,0,0,,Vậy ra... bánh mì của em là...
+Dialogue: 0,0:09:23.00,0:09:24.42,Default,Oka,0,0,0,,N-Này em.
+Dialogue: 0,0:09:24.42,0:09:27.76,Default,San,0,0,0,,Chuyện ế ẩm là điều đương nhiên sao?!
+Dialogue: 0,0:09:26.59,0:09:29.22,Default-alt,Oka,0,0,0,,Mẹ nào con nấy.
+Dialogue: 0,0:09:29.22,0:09:31.93,Default-alt,Oka,0,0,0,,Hy vọng người cha là một người bình thường.
+Dialogue: 0,0:09:31.93,0:09:32.81,Default,Aki,0,0,0,,Này.
+Dialogue: 0,0:09:33.35,0:09:34.14,Default,Oka,0,0,0,,Sao thế?
+Dialogue: 0,0:09:35.52,0:09:37.89,Default,Aki,0,0,0,,Cậu vừa lỡ lời nói điều không nên nói rồi đấy.
+Dialogue: 0,0:09:38.81,0:09:41.52,Default,Oka,0,0,0,,Chắc bố không cần phải kể về mẹ Sanae và chú Akki nữa đâu nhỉ?
+Dialogue: 0,0:09:42.36,0:09:46.07,Default,Oka,0,0,0,,Có lần mọi người cùng chơi bóng chày theo yêu cầu của chú Akki đấy.
+Dialogue: 0,0:09:47.45,0:09:53.03,Default,Oka,0,0,0,,Cả mẹ Sanae và chú Akki đều dang rộng vòng tay đón nhận bố vào nhà ngay từ ngày đầu tiên.
+Dialogue: 0,0:09:54.45,0:10:01.33,Default,Oka,0,0,0,,Bố vốn chẳng biết một gia đình thực sự là như thế nào,\Nnên ban đầu bố cảm thấy bỡ ngỡ và lạc lõng lắm.
+Dialogue: 0,0:10:02.13,0:10:06.88,Default,Oka,0,0,0,,Nhưng mẹ Sanae và chú Akki đã luôn lặng lẽ dõi theo và chở che cho bố từ phía sau.
+Dialogue: 0,0:10:08.38,0:10:12.64,Default,Oka,0,0,0,,Sức khỏe của mẹ con vốn rất yếu ớt,\Nnên thỉnh thoảng mẹ lại phải nằm liệt giường vì ốm.
+Dialogue: 0,0:10:13.22,0:10:18.31,Default,Oka,0,0,0,,Mẹ Sanae và chú Akki đã chăm sóc mẹ con hết sức chu đáo.
+Dialogue: 0,0:10:18.94,0:10:22.81,Default,Aki,0,0,0,,Sự thật lúc nào cũng nghiệt ngã cả.
+Dialogue: 0,0:10:27.15,0:10:28.82,Default,Oka,0,0,0,,Ngày hội trường cuối cùng cũng đến gần.
+Dialogue: 0,0:10:29.28,0:10:33.87,Default,Oka,0,0,0,,Mọi người đều dốc hết sức mình chuẩn bị cho buổi biểu diễn kịch.
+Dialogue: 0,0:10:37.58,0:10:41.25,Default,Oka,0,0,0,,Thế nhưng vào phút chót, một sự cố lớn đã xảy ra.
+Dialogue: 0,0:10:43.17,0:10:44.34,Default,Oka,0,0,0,,Mấy bức ảnh này...
+Dialogue: 0,0:10:45.42,0:10:48.13,Default,Nag,0,0,0,,Tớ vừa tìm thấy mấy cuốn album cũ và nhật ký.
+Dialogue: 0,0:10:48.51,0:10:51.72,Default,Nag,0,0,0,,Okazaki-san, tớ chưa bao giờ biết về chuyện này cả.
+Dialogue: 0,0:10:52.22,0:10:54.47,Default,Nag,0,0,0,,Tớ chưa từng biết ngày xưa bố tớ từng là một diễn viên kịch.
+Dialogue: 0,0:10:56.56,0:11:01.73,Default,Nag,0,0,0,,Vậy mà... cả bố và mẹ đều đã từ bỏ ước mơ của mình vì tớ...
+Dialogue: 0,0:11:11.95,0:11:13.41,Default,Sun,0,0,0,,Không ổn rồi! Mau hạ màn xuống đi!
+Dialogue: 0,0:11:18.95,0:11:23.04,Default,Aki,0,0,0,,Hãy biến ước mơ của con thành hiện thực đi, Nagisa!!!
+Dialogue: 0,0:11:25.13,0:11:26.13,Default,Kyo,0,0,0,,Gì cơ ạ?
+Dialogue: 0,0:11:26.13,0:11:26.59,Default,Oka,0,0,0,,Ông già?!
+Dialogue: 0,0:11:26.59,0:11:28.34,Default,Aki,0,0,0,,Nagisa!
+Dialogue: 0,0:11:29.01,0:11:31.09,Default,Aki,0,0,0,,Con bị ngốc hay sao thế hả?!
+Dialogue: 0,0:11:31.63,0:11:33.89,Default,Aki,0,0,0,,Ước mơ của con cái chính là ước mơ của cha mẹ!
+Dialogue: 0,0:11:33.89,0:11:35.60,Default,Aki,0,0,0,,Nên con hãy thực hiện ước mơ đó thay cho bố mẹ đi!
+Dialogue: 0,0:11:35.60,0:11:39.10,Default,Aki,0,0,0,,Bố mẹ vẫn hằng mơ về ngày mà con biến ước mơ của mình thành hiện thực!
+Dialogue: 0,0:11:39.72,0:11:42.23,Default,Aki,0,0,0,,Bố mẹ đâu có từ bỏ ước mơ của mình!
+Dialogue: 0,0:11:42.23,0:11:44.85,Default,Aki,0,0,0,,Bố mẹ chỉ đổi ước mơ của mình thành ước mơ của con mà thôi!
+Dialogue: 0,0:11:45.27,0:11:47.40,Default,Aki,0,0,0,,Làm cha làm mẹ chính là như thế đấy!
+Dialogue: 0,0:11:47.40,0:11:50.15,Default,Aki,0,0,0,,Gia đình chính là như thế đấy con ơi!!!
+Dialogue: 0,0:11:50.78,0:11:53.15,Default,Aki,0,0,0,,Vì vậy... suốt từ ngày hôm đó đến nay...
+Dialogue: 0,0:11:53.61,0:11:55.45,Default,Aki,0,0,0,,Mỗi ngày, vừa nướng bánh mì...
+Dialogue: 0,0:11:56.41,0:11:59.79,Default,Aki,0,0,0,,...bố mẹ vừa sống và ngóng trông ngày này đến biết bao!
+Dialogue: 0,0:12:00.20,0:12:03.50,Default,Aki,0,0,0,,Nếu con gục ngã ở đây, bố mẹ sẽ đau lòng lắm đấy!
+Dialogue: 0,0:12:03.50,0:12:04.54,Default,Aki,0,0,0,,Con có nghe rõ không?!
+Dialogue: 0,0:12:04.54,0:12:08.17,Default,Aki,0,0,0,,Trên vai con đang gánh vác một trách nhiệm to lớn lắm đấy, con có nghe thấy không hả?!
+Dialogue: 0,0:12:26.23,0:12:27.61,Default,Nag,0,0,0,,Tớ có thể...
+Dialogue: 0,0:12:28.23,0:12:30.86,Default,Nag,0,0,0,,Tớ có thể đưa cậu đi cùng được không?
+Dialogue: 0,0:12:33.45,0:12:36.87,Default,Nag,0,0,0,,Đến nơi ngập tràn những ước nguyện thành hiện thực của thị trấn này?
+Dialogue: 0,0:12:37.37,0:12:39.74,Default,Nag,0,0,0,,Hãy đưa tụi này đi cùng với nhé, Nagisa.
+Dialogue: 0,0:12:40.41,0:12:41.49,Default,Oka,0,0,0,,Hãy dẫn bố mẹ đi cùng với con.
+Dialogue: 0,0:12:46.92,0:12:48.71,Default,Oka,0,0,0,,Vở kịch đã khép lại trong thành công rực rỡ.
+Dialogue: 0,0:12:49.13,0:12:50.67,Default,Ush,0,0,0,,Vở kịch đó kể về câu chuyện gì thế bố?
+Dialogue: 0,0:12:51.30,0:12:54.22,Default,Oka,0,0,0,,Đó là câu chuyện về một cô gái sống cô độc trong một thế giới đã lụi tàn.
+Dialogue: 0,0:12:55.47,0:12:58.30,Default,Oka,0,0,0,,Bố mẹ không hề biết tựa đề hay tác giả của câu chuyện ấy là ai.
+Dialogue: 0,0:12:58.80,0:13:00.72,Default,Oka,0,0,0,,Đoạn kết của câu chuyện ấy cũng là một điều bí ẩn.
+Dialogue: 0,0:13:01.68,0:13:06.94,Default,Oka,0,0,0,,Mẹ con bảo có lẽ đó là câu chuyện mẹ từng được ai đó kể cho nghe hồi còn bé.
+Dialogue: 0,0:13:07.77,0:13:12.36,Default,Oka,0,0,0,,Nhưng kỳ lạ thay, bố lại có cảm giác như chính mình cũng biết rất rõ câu chuyện đó.
+Dialogue: 0,0:13:17.16,0:13:25.00,Default,Oka,0,0,0,,Thế rồi bố và mẹ đã cùng nhau hứa sẽ mãi mãi bước đi bên nhau.
+Dialogue: 0,0:13:34.92,0:13:37.55,Default,Oka,0,0,0,,Ngay trước ngày tốt nghiệp, một biến cố lớn lại xảy ra.
+Dialogue: 0,0:13:38.47,0:13:41.81,Default,Oka,0,0,0,,Mẹ con ngã bệnh và không thể tốt nghiệp cùng đợt.
+Dialogue: 0,0:13:42.89,0:13:44.64,Default,Oka,0,0,0,,Bố khi ấy cũng bị sốc vô cùng.
+Dialogue: 0,0:13:53.23,0:13:56.44,Default,Oka,0,0,0,,Có lẽ tốt hơn hết là mình cũng nên lưu ban lại.
+Dialogue: 0,0:13:58.95,0:13:59.99,Default,Nag,0,0,0,,Tomoya-kun.
+Dialogue: 0,0:14:03.20,0:14:06.08,Default,Nag,0,0,0,,Anh không được dừng chân lại như thế đâu.
+Dialogue: 0,0:14:06.58,0:14:09.17,Default,Nag,0,0,0,,Nếu anh có thể tiến bước, thì anh phải bước tiếp đi chứ.
+Dialogue: 0,0:14:09.83,0:14:11.88,Default,Nag,0,0,0,,Xin anh hãy vững bước tiến lên đi.
+Dialogue: 0,0:14:36.15,0:14:40.91,Default,Oka,0,0,0,,Sau khi tốt nghiệp, bố đã phụ giúp mẹ Sanae và chú Akki một thời gian.
+Dialogue: 0,0:14:45.12,0:14:49.04,Default,Oka,0,0,0,,Nhưng bố biết mình không thể cứ mãi ỷ lại như thế được.
+Dialogue: 0,0:14:50.12,0:14:55.42,Default,Oka,0,0,0,,Nên bố đã nhờ anh Yoshino giới thiệu và vào làm việc tại công ty điện lực.
+Dialogue: 0,0:14:56.55,0:15:00.01,Default,Oka,0,0,0,,Tất nhiên thời gian đầu bố chỉ toàn làm hỏng việc thôi.
+Dialogue: 0,0:15:00.68,0:15:03.72,Default,Oka,0,0,0,,Nếu là bố của ngày trước, chắc bố đã sớm bỏ cuộc rồi.
+Dialogue: 0,0:15:04.55,0:15:13.90,Default,Oka,0,0,0,,Nhưng bố đã cố gắng bám trụ nhờ có sự động viên của mẹ và sự giúp đỡ nhiệt tình từ các đồng nghiệp.
+Dialogue: 0,0:15:16.52,0:15:19.32,Default,Oka,0,0,0,,Mẹ con cũng đã nỗ lực hết mình để tiếp tục đến trường.
+Dialogue: 0,0:15:20.70,0:15:21.49,Default,Oka,0,0,0,,Thế nhưng rồi...
+Dialogue: 0,0:15:24.32,0:15:29.20,Default,Oka,0,0,0,,Vào thời điểm đó, bố đã có cơ hội được chuyển sang một công ty lớn hơn.
+Dialogue: 0,0:15:30.29,0:15:33.67,Default,Oka,0,0,0,,Nhưng vì nhiều lý do trớ trêu, cơ hội ấy đã vuột mất.
+Dialogue: 0,0:15:39.59,0:15:44.39,Default,Oka,0,0,0,,Và một lần nữa, chính mẹ con là người đã nâng đỡ bố khi bố tưởng chừng như muốn buông xuôi tất cả.
+Dialogue: 0,0:15:45.68,0:15:48.22,Default,Oka,0,0,0,,Đó chính là lúc bố ngỏ lời cầu hôn mẹ con.
+Dialogue: 0,0:15:53.19,0:15:56.15,Default,Oka,0,0,0,,Nhưng bố mẹ chưa thể làm đám cưới ngay được.
+Dialogue: 0,0:15:57.11,0:16:01.69,Default,Oka,0,0,0,,Mẹ con lại đổ bệnh và rốt cuộc chẳng thể tham dự lễ tốt nghiệp của chính mình.
+Dialogue: 0,0:16:06.32,0:16:10.58,Default,Oka,0,0,0,,Thế nhưng vì mẹ con, tất cả mọi người đã tụ họp lại và tổ chức một buổi lễ tốt nghiệp riêng dành cho mẹ.
+Dialogue: 0,0:16:11.70,0:16:15.38,Default,Oka,0,0,0,,Bố và mẹ đã kết hôn ngay sau đó.
+Dialogue: 0,0:16:22.34,0:16:24.30,Default,Oka,0,0,0,,Bố mẹ chính thức trở thành vợ chồng.
+Dialogue: 0,0:16:24.30,0:16:27.26,Default,Oka,0,0,0,,Và rồi, trong bụng mẹ đã có một sinh linh bé nhỏ xuất hiện.
+Dialogue: 0,0:16:28.01,0:16:30.60,Default,Oka,0,0,0,,Đó chính là con đấy, Ushio.
+Dialogue: 0,0:16:30.60,0:16:31.89,Default,Ush,0,0,0,,Thật thế sao bố?
+Dialogue: 0,0:16:35.27,0:16:37.65,Default,Oka,0,0,0,,Nhưng thể trạng của mẹ con vốn dĩ không được khỏe khoắn.
+Dialogue: 0,0:16:38.73,0:16:41.11,Default,Oka,0,0,0,,Đã có rất nhiều trắc trở và gian nan cho đến ngày con chào đời.
+Dialogue: 0,0:16:45.66,0:16:50.83,Default,San,0,0,0,,Bác sĩ có dặn trước rằng việc sinh nở sẽ nguy hiểm đến tính mạng.
+Dialogue: 0,0:16:51.66,0:16:54.16,Default,San,0,0,0,,Con vẫn chưa dám nói chuyện này cho Nagisa biết.
+Dialogue: 0,0:16:54.16,0:16:56.79,Default,San,0,0,0,,Bác sĩ mới chỉ thông báo cho mình con thôi.
+Dialogue: 0,0:16:57.96,0:17:03.38,Default,Oka,0,0,0,,Vào lúc bố tưởng như muốn gục ngã vì nỗi âu lo đè nặng,\Nchú Akki đã kể cho bố nghe một câu chuyện ngày xưa.
+Dialogue: 0,0:17:04.67,0:17:08.51,Default,Oka,0,0,0,,Cây cối và rừng sâu đã ôm trọn lấy người mẹ con khi con bé đang trong cơn thập tử nhất sinh.
+Dialogue: 0,0:17:10.14,0:17:13.60,Default,Oka,0,0,0,,Và trước khi chú kịp nhận ra, mẹ con đã bình an trở về trong vòng tay chú.
+Dialogue: 0,0:17:14.89,0:17:16.06,Default,Oka,0,0,0,,Một câu chuyện thần kỳ như thế đấy.
+Dialogue: 0,0:17:19.52,0:17:21.52,Default,Oka,0,0,0,,Ushio? Ushio à?
+Dialogue: 0,0:17:22.44,0:17:24.03,Default,Oka,0,0,0,,Con bé ngủ say mất rồi sao?
+Dialogue: 0,0:17:26.82,0:17:28.78,Default,Oka,0,0,0,,Mình có một mảng ký ức hết sức kỳ lạ.
+Dialogue: 0,0:17:29.87,0:17:34.58,Default,Oka,0,0,0,,Mình vẫn chưa kể cho Ushio nghe, nhưng con bé đã từng được sinh ra một lần trước đây.
+Dialogue: 0,0:17:35.96,0:17:41.63,Default,Oka,0,0,0,,Trong ký ức ấy, Nagisa đã trút hơi thở cuối cùng ngay khi Ushio chào đời.
+Dialogue: 0,0:17:51.64,0:17:56.89,Default,Oka,0,0,0,,Mình đã gửi Ushio cho nhà Furukawa chăm sóc suốt năm năm trời, còn bản thân sống lay lắt một mình trong đau khổ.
+Dialogue: 0,0:18:02.23,0:18:04.40,Default,Oka,0,0,0,,Và rồi, vào mùa hè năm Ushio lên năm tuổi.
+Dialogue: 0,0:18:08.45,0:18:13.41,Default,Oka,0,0,0,,Hai bố con mình đã có một chuyến đi đúng như mẹ Sanae đã sắp đặt, và tại điểm đến cuối cùng...
+Dialogue: 0,0:18:21.88,0:18:25.67,Default,Oka,0,0,0,,Bà nội đã kể cho mình nghe rất nhiều câu chuyện.
+Dialogue: 0,0:18:26.46,0:18:29.22,Default,Oka,0,0,0,,Cũng giống như cách mình vừa kể cho Ushio nghe vậy.
+Dialogue: 0,0:18:30.64,0:18:34.43,Default,Oka,0,0,0,,Đó là câu chuyện từ trước khi mình được sinh ra trên cõi đời này.
+Dialogue: 0,0:18:40.65,0:18:43.40,Default,Oka,0,0,0,,Giờ đây, ông già đã trở về quê sống bên cạnh bà nội.
+Dialogue: 0,0:18:44.57,0:18:48.24,Default,Oka,0,0,0,,Sắp tới mình dự định sẽ dẫn Ushio về quê thăm ông.
+Dialogue: 0,0:18:53.45,0:18:56.20,Default,Oka,0,0,0,,Rồi hai bố con mình đã bắt đầu sống bên nhau.
+Dialogue: 0,0:18:57.54,0:19:00.25,Default,Oka,0,0,0,,Cô giáo chủ nhiệm của Ushio ở trường mẫu giáo chính là Kyou.
+Dialogue: 0,0:19:04.54,0:19:07.00,Default,Oka,0,0,0,,Ushio cũng đã kết bạn với Fuko.
+Dialogue: 0,0:19:08.67,0:19:11.09,Default,Oka,0,0,0,,Mọi chuyện tưởng chừng như đang diễn ra vô cùng êm đẹp.
+Dialogue: 0,0:19:12.64,0:19:13.47,Default,Oka,0,0,0,,Cho đến khi...
+Dialogue: 0,0:19:15.93,0:19:17.06,Default,Oka,0,0,0,,Sao thế con, Ushio?
+Dialogue: 0,0:19:18.31,0:19:21.44,Default,Ush,0,0,0,,Con không thể tự đi vệ sinh được nữa rồi.
+Dialogue: 0,0:19:26.73,0:19:28.03,Default,Oka,0,0,0,,Con làm sao thế này, Ushio?!
+Dialogue: 0,0:19:31.82,0:19:34.53,Default,Oka,0,0,0,,Cảm giác ấy hệt như một cơn ác mộng tồi tệ vậy.
+Dialogue: 0,0:19:36.66,0:19:38.70,Default,Oka,0,0,0,,Tất nhiên, bé Ushio đang nằm bên cạnh mình lúc này hoàn toàn khỏe mạnh.
+Dialogue: 0,0:19:39.37,0:19:41.16,Default,Oka,0,0,0,,Con bé chưa từng mắc phải bất kỳ căn bệnh hiểm nghèo nào.
+Dialogue: 0,0:19:43.50,0:19:49.09,Default,Oka,0,0,0,,Thế nhưng bé Ushio ở thế giới kia đã chẳng thể nào qua khỏi.
+Dialogue: 0,0:20:06.23,0:20:08.94,Default,Oka,0,0,0,,Vào chính khoảnh khắc ấy, một điều kỳ diệu đã xảy ra.
+Dialogue: 0,0:20:18.33,0:20:21.25,Default,Oka,0,0,0,,Khi mình bừng tỉnh, Nagisa đang đứng ngay trước mắt mình.
+Dialogue: 0,0:20:22.46,0:20:25.71,Default,Oka,0,0,0,,Mình đã quay ngược trở lại thời điểm của năm năm về trước, đúng vào ngày Ushio cất tiếng khóc chào đời.
+Dialogue: 0,0:20:26.67,0:20:28.09,Default,Oka,0,0,0,,Đó thực sự là một điều kỳ lạ khôn cùng.
+Dialogue: 0,0:20:42.85,0:20:46.60,Default,Oka,0,0,0,,Thế nhưng mình tin chắc đó là chuyện đã thực sự xảy ra.
+Dialogue: 0,0:21:03.58,0:21:05.71,Default,Oka,0,0,0,,Nagisa và mình đã gặp nhau tại thành phố này,
+Dialogue: 0,0:21:06.21,0:21:08.13,Default,Oka,0,0,0,,và Ushio cũng đã được sinh ra tại thành phố này.
+Dialogue: 0,0:21:09.38,0:21:11.55,Default,Oka,0,0,0,,Mình đã gặp gỡ biết bao nhiêu con người tại thành phố này,
+Dialogue: 0,0:21:11.96,0:21:14.63,Default,Oka,0,0,0,,và mình đã trải qua biết bao nhiêu thăng trầm, biến cố tại thành phố này.
+Dialogue: 0,0:21:16.84,0:21:21.26,Default,Oka,0,0,0,,Gia đình mình sẽ tiếp tục vững bước sống, trong sự yêu thương và nâng đỡ của biết bao nhiêu người.
+Dialogue: 0,0:21:22.52,0:21:23.52,Default,Oka,0,0,0,,Ngay tại chính thành phố thân thương này.
+Dialogue: 0,0:21:36.07,0:21:37.20,Default,Oka,0,0,0,,Ushio à.
+Dialogue: 0,0:21:37.20,0:21:38.03,Default,Oka,0,0,0,,Fuko à.
+Dialogue: 0,0:21:38.36,0:21:39.74,Default,Oka,0,0,0,,Hai đứa sẽ bị cảm lạnh mất đấy.
+Dialogue: 0,0:21:39.74,0:21:41.24,Default,Oka,0,0,0,,Đã đến lúc hai đứa phải thức dậy rồi.
+Dialogue: 0,0:21:53.63,0:21:57.88,Default,Nag,0,0,0,,Shio-chan! Bố nó ơi! Fuu-chan!
+Dialogue: 0,0:21:58.51,0:22:00.47,Default,Nag,0,0,0,,Chúng ta về nhà thôi nào.
+Dialogue: 0,0:22:00.93,0:22:01.97,Default,Ush,0,0,0,,Mẹ ơi!
+Dialogue: 0,0:22:01.97,0:22:04.14,Default,,0,0,0,,{\alpha&HFF&}
+Dialogue: 0,0:22:06.27,0:22:09.77,Signs,,0,0,0,,{\fad(800,0)\4c&H000000&\3c&H000000&\pos(1594.5,840)\c&H000000&}Hết
+Dialogue: 0,0:22:18.70,0:22:26.21,ED Romaji,,0,0,0,,{\be1}{\kf24}mi{\kf32}tsu{\kf23}me{\kf23}te {\kf19}i{\kf137}ta {\kf29}na{\kf28}ga{\kf21}re{\kf69}ru {\kf60}ku{\kf61}mo {\kf230}wo
+Dialogue: 0,0:22:18.70,0:22:26.21,ED English,,0,0,0,,{\be1}Tôi mải mê dõi theo những áng mây trôi bồng bềnh.
+Dialogue: 0,0:22:26.21,0:22:33.26,ED Romaji,,0,0,0,,{\be1\fad(0,250)}{\kf40}ka{\kf11}n{\kf24}ji{\kf21}te {\kf30}i{\kf135}ta {\kf28}ka{\kf23}wa{\kf19}ru {\kf68}so{\kf63}ra {\kf37}no {\kf45}i{\kf26}ro {\kf130}wo
+Dialogue: 0,0:22:26.21,0:22:33.26,ED English,,0,0,0,,{\be1\fad(0,250)}Tôi cảm nhận được từng sự đổi thay của sắc trời.
+Dialogue: 0,0:22:33.76,0:22:41.31,ED Romaji,,0,0,0,,{\be1}{\kf25}ta{\kf31}chi {\kf20}to{\kf27}ma{\kf21}t{\kf142}ta {\kf22}bo{\kf23}ku{\kf26}ra {\kf66}wa {\kf63}ki{\kf59}zu{\kf229}ku
+Dialogue: 0,0:22:33.76,0:22:41.31,ED English,,0,0,0,,{\be1}Khi đôi chân ta khẽ dừng bước,
+Dialogue: 0,0:22:41.31,0:22:48.40,ED Romaji,,0,0,0,,{\be1}{\kf24}u{\kf32}tsu{\kf25}ro{\kf21}i {\kf20}yu{\kf143}ku {\kf24}se{\kf25}ka{\kf23}i {\kf65}ga {\kf73}tsu{\kf26}mu{\kf49}gu {\kf18}u{\kf32}ta {\kf113}ni
+Dialogue: 0,0:22:41.31,0:22:48.40,ED English,,0,0,0,,{\be1}ta lắng nghe khúc ca thế gian cất lên khi vạn vật đổi màu.
+Dialogue: 0,0:22:48.40,0:22:55.70,ED Romaji,,0,0,0,,{\be1}{\kf91}no{\kf35}ba{\kf38}shi{\kf139}ta {\kf48}yu{\kf25}bi {\kf44}de {\kf29}ta{\kf90}gu{\kf24}ru {\kf44}yo{\kf24}u {\kf98}ni
+Dialogue: 0,0:22:48.40,0:22:55.70,ED English,,0,0,0,,{\be1}Tựa như khi em xòe rộng những ngón tay để kiếm tìm,
+Dialogue: 0,0:22:55.70,0:23:04.33,ED Romaji,,0,0,0,,{\be1}{\kf26}ta{\kf92}da {\kf34}hi{\kf38}to{\kf87}tsu {\kf55}ka{\kf44}wa{\kf23}ra{\kf48}na{\kf29}i {\kf44}mo{\kf47}no {\kf22}sa{\kf95}ga{\kf177}su
+Dialogue: 0,0:22:55.70,0:23:04.33,ED English,,0,0,0,,{\be1}tôi tìm kiếm một điều duy nhất vĩnh viễn chẳng hề đổi thay.
+Dialogue: 0,0:23:04.37,0:23:11.92,ED Romaji,,0,0,0,,{\be1\fad(250,0)}{\kf59}ka{\kf41}za{\kf74}su {\kf72}te {\kf138}ni {\kf46}to{\kf45}mo{\kf75}shi{\kf73}bi {\kf136}wo
+Dialogue: 0,0:23:04.37,0:23:11.92,ED English,,0,0,0,,{\be1\fad(250,0)}Ngọn đuốc rực sáng trên bàn tay đang vươn tới trời cao,
+Dialogue: 0,0:23:11.92,0:23:19.47,ED Romaji,,0,0,0,,{\be1}{\kf46}a{\kf52}su {\kf72}he {\kf24}to {\kf46}tsu{\kf25}zu{\kf108}ku {\kf44}chi{\kf33}i{\kf26}sa{\kf61}na {\kf78}shi{\kf71}ru{\kf73}be
+Dialogue: 0,0:23:11.92,0:23:19.47,ED English,,0,0,0,,{\be1}sẽ trở thành dấu chỉ nhỏ nhoi dẫn lối tới ngày mai.
+Dialogue: 0,0:23:19.47,0:23:27.02,ED Romaji,,0,0,0,,{\be1}{\kf44}i{\kf52}ma {\kf70}mo {\kf67}ma{\kf144}da {\kf45}ko{\kf46}da{\kf63}ma {\kf80}su{\kf140}ru
+Dialogue: 0,0:23:19.47,0:23:27.02,ED English,,0,0,0,,{\be1}Từng lời em thốt ra ngày ấy...
+Dialogue: 0,0:23:27.02,0:23:34.53,ED Romaji,,0,0,0,,{\be1}{\kf48}a{\kf46}no {\kf70}hi {\kf27}no {\kf44}ko{\kf26}to{\kf104}ba {\kf51}chi{\kf30}ka{\kf27}i {\kf93}ni {\kf71}ka{\kf113}e
+Dialogue: 0,0:23:27.02,0:23:34.53,ED English,,0,0,0,,{\be1}...vẫn còn vang vọng mãi trong tâm trí tôi, ta hãy biến nó thành lời thề ước.
+Dialogue: 0,0:23:34.53,0:23:39.78,ED Romaji,,0,0,0,,{\be1}{\kf42}bo{\kf34}ku {\kf18}wa {\kf166}yu{\kf266}ku
+Dialogue: 0,0:23:34.53,0:23:39.78,ED English,,0,0,0,,{\be1}Tôi sẽ tiếp tục vững bước trên con đường này.
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,{\be1\fad(0,0)}
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,{\be1}
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,
+Comment: 0,0:00:00.00,0:00:00.00,ED English,,0,0,0,,{\be1}
+Comment: 0,0:00:43.92,0:00:43.92,OP English,,0,0,0,,{\be1\fad(0,0)}
+Comment: 0,0:01:37.00,0:01:37.00,Default,,0,0,0,,{\be1\fad(0,0)}
+Comment: 0,0:01:37.00,0:01:37.00,Default,,0,0,0,,{\be1\fad(0,0)}
+Comment: 0,0:13:24.99,0:13:34.83,Default,,0,0,0,,
+Comment: 0,0:23:39.81,0:23:43.77,Signs,,0,0,0,,{\fs99.999996\fad(0,400)\4c&H000000&\shad3\pos(960,470.000015)\blur0.5\bord0.75\3c&H000000&}Preview
+Comment: 0,0:24:05.74,0:24:09.69,Signs,,0,0,0,,{\fad(400,0)\4c&H000000&\shad3\pos(960,405)\bord0.75\blur0.5\3c&H00000A&}Tomoyo Chapter
+Comment: 0,0:24:05.74,0:24:09.69,Signs,,0,0,0,,{\fs85.000002\fad(400,0)\4c&H000000&\shad3\pos(960,765)\3c&H000008&\blur0.5\bord0.75}Tomoyo Chapter
+
+
