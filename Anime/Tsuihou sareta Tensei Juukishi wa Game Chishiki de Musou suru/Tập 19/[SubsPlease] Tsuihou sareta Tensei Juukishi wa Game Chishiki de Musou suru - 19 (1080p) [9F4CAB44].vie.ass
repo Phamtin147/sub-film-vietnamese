@@ -1,0 +1,370 @@
+﻿[Script Info]
+Title: Vietnamese Fansub (VietSub by Amtia(NOFACE))
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: top,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: italics,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: italicstop,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: flashback,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashback italics,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashbacktop,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: flashbackitalicstop,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: overlap,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: overlaptop,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: overlap italics,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: main,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Narration,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: sign_generic,Segoe UI,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:17.91,0:00:21.08,Default,ELYMAS,0,0,0,,Hay là tụi mình nghỉ tay một bữa\Nđổi gió đi câu cá đi em?
+Dialogue: 0,0:00:25.38,0:00:29.26,italics,RUCHE/ID,0,0,0,,C-Cuối cùng ngày này cũng tới rồi!
+Dialogue: 0,0:00:30.23,0:00:33.33,Default,ELYMAS,0,0,0,,Sao thế Ruche? Nếu em không thích\Nthì tụi mình không đi cũng được mà.
+Dialogue: 0,0:00:33.33,0:00:35.26,Default,RUCHE,0,0,0,,Ý... Ý anh là...
+Dialogue: 0,0:00:35.54,0:00:39.45,Default,RUCHE,0,0,0,,...anh đang rủ em đi hẹn hò sao?!
+Dialogue: 0,0:00:39.45,0:00:40.98,Default,ELYMAS,0,0,0,,Anh đang rủ em đi câu cá mà.
+Dialogue: 0,0:00:40.98,0:00:45.02,Default,RUCHE,0,0,0,,Cái gì cơ?!
+Dialogue: 0,0:02:17.45,0:02:23.41,sign_generic,EPTITLE; sign,0,0,0,,{\b1\fnSegoe UI\an7\bord1\shad1.25\fade(482,482)\alphaalphaH&0&\3c&H000000&\c&HFEFCFD&\4c&H000000&\fs18\pos(265.802,287.964)}Tập 19\h\h\h\h Nữ Hoàng Của Cần Thủ Bang
+Dialogue: 0,0:02:19.20,0:02:21.37,italicstop,RUCHE/ID,0,0,0,,D-Dẫu vậy thì đây vẫn là một buổi hẹn hò câu cá!
+Dialogue: 0,0:02:21.37,0:02:23.81,top,ELYMAS,0,0,0,,Nếu em không muốn đi thì thôi cũng được.
+Dialogue: 0,0:02:24.67,0:02:25.83,Default,RUCHE,0,0,0,,Khoan, khoan đã anh ơi!
+Dialogue: 0,0:02:25.83,0:02:31.63,Default,RUCHE,0,0,0,,Chỉ cần là đi cùng anh thì anh đi đâu em cũng đi hết á!
+Dialogue: 0,0:02:31.63,0:02:34.88,Default,RUCHE,0,0,0,,À phải rồi. Mình phải diện đồ cho thật xinh mới được.
+Dialogue: 0,0:02:35.19,0:02:38.01,Default,ELYMAS,0,0,0,,Được rồi, thế thì hôm nay tụi mình sẽ tập trung chuẩn bị đồ nghề,
+Dialogue: 0,0:02:38.30,0:02:41.52,Default,ELYMAS,0,0,0,,rồi sáng sớm mai sẽ xuất phát tới Hồ Raana Dưới Lòng Đất nhé.
+Dialogue: 0,0:02:41.52,0:02:44.35,Default,RUCHE,0,0,0,,Rõ rồi ạ. Tụi mình sẽ dành cả ngày chuẩn bị để...
+Dialogue: 0,0:02:44.35,0:02:47.86,Default,RUCHE,0,0,0,,...Khoan đã, đi câu cá thôi mà mất nguyên cả ngày chuẩn bị cơ á?
+Dialogue: 0,0:02:48.21,0:02:52.44,Default,ELYMAS,0,0,0,,Ừ. Thật ra một ngày chuẩn bị là còn hơi gấp đấy.
+Dialogue: 0,0:02:52.44,0:02:56.98,Default,ELYMAS,0,0,0,,Tụi mình phải dạo quanh các cửa tiệm ở Lacoryna để lùng cần câu với mồi câu nữa.
+Dialogue: 0,0:02:58.75,0:03:00.83,Default,ELYMAS,0,0,0,,Thú vui câu cá thâm sâu vi diệu lắm đấy em.
+Dialogue: 0,0:03:01.59,0:03:03.33,Default,RUCHE,0,0,0,,R-Ra là vậy ạ.
+Dialogue: 0,0:03:10.58,0:03:14.88,Default,RUCHE,0,0,0,,Tụi mình đã ghé qua cả đống tiệm rồi mà vẫn chưa sắm được cây cần nào cả.
+Dialogue: 0,0:03:15.13,0:03:19.98,Default,ELYMAS,0,0,0,,Giá mà có thể dành ra hẳn một tháng thu thập nguyên liệu với cổ tự để rèn cần câu nhỉ.
+Dialogue: 0,0:03:19.98,0:03:20.89,Default,RUCHE,0,0,0,,Dạ?!
+Dialogue: 0,0:03:21.45,0:03:24.64,Default,ELYMAS,0,0,0,,Cơ mà ở cấp độ hiện tại của tụi mình, dù có cố gắng đến đâu,
+Dialogue: 0,0:03:24.94,0:03:28.08,Default,ELYMAS,0,0,0,,thì những cây cần thượng phẩm đỉnh chóp vẫn nằm ngoài tầm với thôi.
+Dialogue: 0,0:03:28.94,0:03:35.32,Default,ELYMAS,0,0,0,,Ít nhất cũng phải kiếm cây nào dùng mà không thấy xấu hổ với bàn dân thiên hạ chứ.
+Dialogue: 0,0:03:35.32,0:03:38.66,Default,RUCHE,0,0,0,,Nhưng tụi mình đã là mạo hiểm giả hạng B rồi mà anh.
+Dialogue: 0,0:03:38.66,0:03:42.83,Default,RUCHE,0,0,0,,Tầm đó vẫn chưa đủ trình để sắm cây cần anh muốn sao?
+Dialogue: 0,0:03:43.26,0:03:45.75,Default,ELYMAS,0,0,0,,Anh đã bảo rồi, thế giới câu cá thâm sâu cùng cực lắm.
+Dialogue: 0,0:03:46.03,0:03:47.94,Default,ELYMAS,0,0,0,,Nếu muốn dấn thân nghiêm túc vào con đường này,
+Dialogue: 0,0:03:47.94,0:03:50.32,Default,ELYMAS,0,0,0,,thì ngốn cả hàng trăm triệu vàng là chuyện bình thường.
+Dialogue: 0,0:03:49.25,0:03:50.32,italicstop,SYSTEM VOICE,0,0,0,,Cắn câu.
+Dialogue: 0,0:03:50.75,0:03:53.42,Default,RUCHE,0,0,0,,H-Hàng trăm triệu vàng cơ á?!
+Dialogue: 0,0:03:53.42,0:03:56.55,Default,RUCHE,0,0,0,,Chắc chắn là anh đang nói quá lên rồi!
+Dialogue: 0,0:03:57.62,0:03:59.99,Default,ELYMAS,0,0,0,,Một mạo hiểm giả chân chính luôn mang trong mình niềm đam mê câu cá!
+Dialogue: 0,0:04:01.33,0:04:06.62,Default,ELYMAS,0,0,0,,Trong Thế Giới Ma Pháp (Magic World), cá quý hiếm có thể đem đổi lấy vật phẩm từ NPC hoặc chế tác vũ khí đấy!
+Dialogue: 0,0:04:06.62,0:04:10.58,Default,ELYMAS,0,0,0,,Chưa kể còn có thể cày được những danh hiệu tăng chỉ số cực khủng từ việc câu cá,
+Dialogue: 0,0:04:10.58,0:04:14.07,Default,ELYMAS,0,0,0,,thế nên câu cá chính là hoạt động sống còn không thể thiếu của mọi mạo hiểm giả!
+Dialogue: 0,0:04:14.07,0:04:18.07,Default,ELYMAS,0,0,0,,Các tựa game VRMMO luôn tích hợp vô số minigame phụ bản chuyên sâu
+Dialogue: 0,0:04:18.07,0:04:21.41,Default,RUCHE,0,0,0,,để giữ chân người chơi đắm chìm vào thế giới trong game!
+Dialogue: 0,0:04:03.89,0:04:07.89,sign_generic,SIGN FX PURPLE,0,0,0,,{\an7\b1\c&HF187E6&\3c&H320B38&\bord1.5\move(-26,74,28,74)}Choáng ngợp
+Dialogue: 0,0:04:07.89,0:04:11.40,sign_generic,SIGN FX BLUE,0,0,0,,{\b1\bord1.5\fs25\t(1,3510,\fs23)\c&HF7812F&\3c&HCE3704&\move(501,131,567,102)}Quẫy
+Dialogue: 0,0:04:07.89,0:04:11.40,sign_generic,SIGN FX BLUE,0,0,0,,{\b1\bord1.5\fs25\t(1,3510,\fs23)\c&HF7812F&\3c&HCE3704&\move(205,112,344,101)}Đớp
+Dialogue: 0,0:04:11.81,0:04:14.07,sign_generic,SIGN GOLD LEFT,0,0,0,,{\b1\bord1\shad2\blur0.5\c&HD5FFF4&\3c&H000926&\fade(350,1)\alphaFF\t(400,650,\alpha00)\pos(143,49)}Thợ Săn Cá Mập {\c&H0EE9EE&\3c&H000926&\alpha00}Danh Hiệu
+Dialogue: 0,0:04:12.52,0:04:14.07,sign_generic,SIGN GOLD RIGHT,0,0,0,,{\b1\bord1\shad2\blur0.5\c&HD5FFF4&\3c&H000926&\fade(350,1)\alphaFF\t(400,650,\alpha00)\pos(496,49)}Bậc Thầy Câu Cá {\c&H0EE9EE&\3c&H000926&\alpha00}Danh Hiệu
+Dialogue: 0,0:04:23.39,0:04:26.20,Default,RUCHE,0,0,0,,Khoan đã nào, trước khi bàn đến mấy chuyện đó...
+Dialogue: 0,0:04:26.51,0:04:29.25,Default,RUCHE,0,0,0,,...tụi mình định đi câu cá trong hầm ngục thật đấy à?!
+Dialogue: 0,0:04:30.91,0:04:35.14,Default,ELYMAS,0,0,0,,Chứ sao nữa. Đi câu ở mấy chỗ ao hồ bình thường thì chỉ vớt được mấy con cá tầm thường thôi.
+Dialogue: 0,0:04:31.95,0:04:32.86,top,RUCHE,0,0,0,,Hả?!
+Dialogue: 0,0:04:35.14,0:04:37.97,Default,RUCHE,0,0,0,,Ủa, ý em đâu phải thế đâu!
+Dialogue: 0,0:04:37.97,0:04:40.94,Default,ELYMAS,0,0,0,,Hầm ngục chính là sự hiện thân từ những cơn ác mộng của Alxeros.
+Dialogue: 0,0:04:40.94,0:04:43.30,Default,ELYMAS,0,0,0,,Cũng giống như việc mỗi hầm ngục lại có các loài quái vật khác nhau,
+Dialogue: 0,0:04:43.30,0:04:45.91,Default,ELYMAS,0,0,0,,thì mỗi nơi cũng sản sinh ra vô số loài cá độc nhất vô nhị.
+Dialogue: 0,0:04:45.91,0:04:48.71,Default,ELYMAS,0,0,0,,Hồ Raana Dưới Lòng Đất là một trong số ít hầm ngục có thể thả câu,
+Dialogue: 0,0:04:48.71,0:04:50.76,Default,ELYMAS,0,0,0,,và thỉnh thoảng em có thể câu lên được những loài cá vô cùng thú vị.
+Dialogue: 0,0:04:50.76,0:04:52.98,Default,ELYMAS,0,0,0,,Lâu lâu đổi gió thư giãn thế này cũng đâu tệ đúng không?
+Dialogue: 0,0:04:54.33,0:04:57.48,Default,ELYMAS,0,0,0,,Mạo hiểm giả nào mà lại không mê câu cá cơ chứ?
+Dialogue: 0,0:04:58.23,0:05:02.74,Default,RUCHE,0,0,0,,Em cứ tưởng đây sẽ là một buổi đi chơi lãng mạn hơn cơ...
+Dialogue: 0,0:05:03.89,0:05:04.28,Default,ELYMAS,0,0,0,,Hửm? Em nói gì cơ?
+Dialogue: 0,0:05:04.91,0:05:06.37,Default,RUCHE,0,0,0,,Dạ không có gì đâu ạ...
+Dialogue: 0,0:05:06.70,0:05:11.77,Default,RUCHE,0,0,0,,Chuẩn bị đồ đạc rồi đi vào hầm ngục thế này trông chẳng khác gì đi cày cuốc thường ngày cả.
+Dialogue: 0,0:05:11.77,0:05:13.63,Default,ELYMAS,0,0,0,,Ngẫm lại thì em nói cũng đúng thật.
+Dialogue: 0,0:05:35.71,0:05:40.78,Default,ELYMAS,0,0,0,,Nguyên ngày hôm qua tụi mình chỉ toàn cắm mặt đi săn nguyên liệu rèn cần câu.
+Dialogue: 0,0:05:41.07,0:05:42.97,italics,SYSTEM VOICE,0,0,0,,Cần Câu Huyết Mộc.
+Dialogue: 0,0:05:42.97,0:05:44.84,italics,SYSTEM VOICE,0,0,0,,Lực câu: 14.
+Dialogue: 0,0:05:44.84,0:05:47.61,italics,SYSTEM VOICE,0,0,0,,Giá thị trường: 2.500.000 vàng.
+Dialogue: 0,0:05:47.61,0:05:50.43,italics,SYSTEM VOICE,0,0,0,,Cần câu được chế tác từ nguyên liệu của loài Red Treant đặc biệt.
+Dialogue: 0,0:05:50.43,0:05:53.67,italics,SYSTEM VOICE,0,0,0,,Tăng tỷ lệ cắn câu của các loài cá dị thường, nhưng rất dễ bị đứt cước.
+Dialogue: 0,0:05:40.78,0:05:53.67,sign_generic,SIGN,0,0,0,,{\an7\b1\pos(56,169)\fade(185,1)\bord1.5\c&HA27069&\3c&HB3BBC8&}Cần Câu Huyết Mộc\N{\fs13\bord2\3c&HEEE8AA&\blur1.5\c&HFDFFF6&}Giá thị trường: 2.500.000G\N Lực câu: 14\N Chế tác từ nguyên liệu của Red Treant đặc biệt\N Tăng tỷ lệ câu cá dị thường, nhưng dễ đứt cước
+Dialogue: 0,0:05:54.06,0:05:59.00,Default,ELYMAS,0,0,0,,Anh không nghĩ là trong thời gian gấp gáp thế này mà tụi mình lại khảm được cả cổ tự vào.
+Dialogue: 0,0:05:59.35,0:06:03.51,Default,ELYMAS,0,0,0,,Trong số các loại cần câu dành cho mạo hiểm giả trung cấp, cây này hơi khó thuần phục,
+Dialogue: 0,0:06:03.51,0:06:06.76,Default,ELYMAS,0,0,0,,nhưng hiệu năng trên giá thành thì đỉnh khỏi bàn.
+Dialogue: 0,0:06:06.76,0:06:07.98,italics,SYSTEM VOICE,0,0,0,,Cổ Tự Ngư Đàn.
+Dialogue: 0,0:06:07.98,0:06:10.29,italics,SYSTEM VOICE,0,0,0,,Giá thị trường: 500.000 vàng.
+Dialogue: 0,0:06:10.29,0:06:12.32,italics,SYSTEM VOICE,0,0,0,,Cổ tự gia tăng tỷ lệ bội thu khi câu cá.
+Dialogue: 0,0:06:12.32,0:06:14.85,italics,SYSTEM VOICE,0,0,0,,Thu hút một lượng cá vừa phải tập trung lại.
+Dialogue: 0,0:06:06.76,0:06:14.85,sign_generic,SIGN,0,0,0,,{\an7\b1\fade(185,1)\bord1.5\c&HA27069&\3c&HB3BBC8&\pos(49,169)}Cổ Tự Ngư Đàn\N{\fs14\bord2\3c&HEEE8AA&\blur1.5\c&HFDFFF6&} Giá thị trường: 500.000G \N Cổ tự giúp gia tăng sản lượng đánh bắt\N Thu hút lượng cá vừa phải bu lại
+Dialogue: 0,0:06:14.85,0:06:18.77,Default,EYLMAS,0,0,0,,Xin lỗi em vì anh chưa sắm được cho em một cây cần xịn xò nhé.
+Dialogue: 0,0:06:18.77,0:06:22.15,Default,RUCHE,0,0,0,,Không sao đâu anh. Em dùng cần nào cũng thấy vui hết á.
+Dialogue: 0,0:06:22.47,0:06:28.78,Default,ELYMAS,0,0,0,,Lát nữa câu chán chê tụi mình đổi cần cho nhau để em câu thử bằng Cần Câu Huyết Mộc này xem.
+Dialogue: 0,0:06:29.62,0:06:31.46,italicstop,SYSTEM VOICE,0,0,0,,Cần Câu Ma Mộc.
+Dialogue: 0,0:06:31.46,0:06:33.36,italicstop,SYSTEM VOICE,0,0,0,,Lực câu: +2.
+Dialogue: 0,0:06:33.36,0:06:35.64,italicstop,SYSTEM VOICE,0,0,0,,Giá thị trường: 100.000 vàng.
+Dialogue: 0,0:06:35.64,0:06:38.19,italicstop,SYSTEM VOICE,0,0,0,,Cần câu tiêu chuẩn thông dụng cho mạo hiểm giả.
+Dialogue: 0,0:06:38.19,0:06:40.13,italicstop,SYSTEM VOICE,0,0,0,,Được chế tác từ cành nhánh của Ma Thụ.
+Dialogue: 0,0:06:29.62,0:06:40.13,sign_generic,SIGN,0,0,0,,{\an7\b1\fade(185,1)\bord1.5\c&HA27069&\3c&HB3BBC8&\pos(42,121)}Cần Câu Ma Mộc{\fs14\bord2\3c&HEEE8AA&\blur1.5\c&HFDFFF6&}\N Giá thị trường: 100.000G\N Lực câu: +2\N Cần câu phổ thông cho mạo hiểm giả\N Chế tác từ nguyên liệu của Ma Thụ
+Dialogue: 0,0:06:40.42,0:06:43.62,Default,ELYMAS,0,0,0,,Anh lỡ dồn hết tâm huyết chăm chút cho cây cần của mình quá.
+Dialogue: 0,0:06:43.62,0:06:44.97,Default,ELYMAS,0,0,0,,Anh thật sự xin lỗi em nhé.
+Dialogue: 0,0:06:45.34,0:06:49.59,Default,RUCHE,0,0,0,,Đâu có sao đâu anh. Em thấy cây cần này là quá đủ đối với em rồi.
+Dialogue: 0,0:06:49.59,0:06:51.10,Default,RUCHE,0,0,0,,Cầm cây cần khởi đầu thế này là em mãn nguyện lắm rồi.
+Dialogue: 0,0:06:51.42,0:06:56.48,Default,RUCHE,0,0,0,,Em chỉ hơi sốc vì ngay cả cây cần rẻ tiền nhất cho người mới bắt đầu cũng có giá tận 100.000 vàng thôi.
+Dialogue: 0,0:06:56.86,0:07:00.56,Default,ELYMAS,0,0,0,,Dù sao thì nó cũng được dùng để săn bắt mấy con thủy quái hung tợn mà em.
+Dialogue: 0,0:07:00.56,0:07:03.44,flashback,ELYMAS,0,0,0,,Giá hơi chát một chút, nhưng anh quyết định chọn cây cần này rồi.
+Dialogue: 0,0:07:03.44,0:07:04.49,flashback,RUCHE,0,0,0,,Hả?!
+Dialogue: 0,0:07:04.49,0:07:10.75,italics,ELYMAS/ID,0,0,0,,Dẫu vậy, Ruche có vẻ hơi chùn bước trước mức giá trên trời của Cần Câu Huyết Mộc.
+Dialogue: 0,0:07:14.02,0:07:19.13,italics,ELYMAS/ID,0,0,0,,Đúng là tụi mình hơi vung tay quá trán thật, nhưng hồi còn ở Thế Giới Ma Pháp mình cũng mê mẩn bộ môn này lắm.
+Dialogue: 0,0:07:19.13,0:07:21.16,Default,ELYMAS,0,0,0,,Anh nóng lòng muốn buông cần lắm rồi!
+Dialogue: 0,0:07:21.16,0:07:24.14,Default,ELYMAS,0,0,0,,Chẳng mấy chốc tụi mình sẽ kiếm lại được gấp bội số tiền đã bỏ ra thôi!
+Dialogue: 0,0:07:24.14,0:07:25.84,Default,RUCHE,0,0,0,,V-Vâng ạ!
+Dialogue: 0,0:07:32.39,0:07:34.09,Default,RUCHE,0,0,0,,Này, đợi em với!
+Dialogue: 0,0:07:35.71,0:07:37.93,Default,RUCHE,0,0,0,,Đợi em với nào Raana!
+Dialogue: 0,0:07:45.99,0:07:47.56,Default,RUCHE,0,0,0,,Anh Elymas ơi!
+Dialogue: 0,0:07:52.02,0:07:54.33,Default,ELYMAS,0,0,0,,Tụi mình thử buông cần ở chỗ này một lát xem sao.
+Dialogue: 0,0:07:54.33,0:07:56.62,Default,RUCHE,0,0,0,,Nhiều cá bơi lội quá trời luôn nè.
+Dialogue: 0,0:07:57.02,0:08:00.50,Default,RUCHE,0,0,0,,Mới nhìn bầy cá bơi lội thôi đã thấy háo hức rồi!
+Dialogue: 0,0:08:01.17,0:08:02.50,Default,ELYMAS,0,0,0,,Được rồi. Bắt đầu thôi nào em.
+Dialogue: 0,0:08:02.82,0:08:03.82,Default,RUCHE,0,0,0,,Dạ vâng.
+Dialogue: 0,0:08:07.34,0:08:11.24,Default,ELYMAS,0,0,0,,Chỉ cần kiên nhẫn đợi một chút là cá sẽ bắt đầu cắn câu thôi.
+Dialogue: 0,0:08:12.59,0:08:17.42,Default,RUCHE,0,0,0,,Vừa câu cá vừa trò chuyện thế này cũng vui ghê anh nhỉ.
+Dialogue: 0,0:08:17.42,0:08:19.56,Default,RUCHE,0,0,0,,Đây đúng là cách xả hơi thư giãn tuyệt vời.
+Dialogue: 0,0:08:19.56,0:08:22.27,Default,RUCHE,0,0,0,,Tụi mình cùng săn một con cá bự chảng nào!
+Dialogue: 0,0:08:33.38,0:08:35.04,Default,RUCHE,0,0,0,,Anh Elymas ơi.
+Dialogue: 0,0:08:33.85,0:08:37.02,top,EYEPATCH,0,0,0,,Này lũ kia. Tụi bây đang làm cái trò gì ở đằng đó đấy hả?
+Dialogue: 0,0:08:37.33,0:08:40.15,Default,EYEPATCH,0,0,0,,Chỗ này bang của tao bao trọn gói rồi nhé.
+Dialogue: 0,0:08:40.15,0:08:41.63,Default,RUCHE,0,0,0,,C-Cái gì cơ?
+Dialogue: 0,0:08:57.46,0:09:00.25,Default,ELYMAS,0,0,0,,Ý ông bảo tụi tôi đang làm cái trò gì là sao?
+Dialogue: 0,0:09:01.02,0:09:04.77,Default,EYEPATCH,0,0,0,,Tao bảo là bang hội của tao đã xí chỗ này từ trước rồi.
+Dialogue: 0,0:09:04.77,0:09:06.78,Default,RUCHE,0,0,0,,H-Hả?
+Dialogue: 0,0:09:06.78,0:09:08.21,Default,ELYMAS,0,0,0,,Bang hội của các người sao?
+Dialogue: 0,0:09:09.19,0:09:11.72,Default,ELYMAS,0,0,0,,Ý các người là hầm ngục này thuộc quyền sở hữu của bang các người à?
+Dialogue: 0,0:09:11.72,0:09:13.20,Default,RUCHE,0,0,0,,A-Anh Elymas?
+Dialogue: 0,0:09:15.11,0:09:20.45,italics,ELYMAS/ID,0,0,0,,Bang hội (Clan) là những tổ chức mạo hiểm giả có quy mô lớn hơn tổ đội thông thường rất nhiều.
+Dialogue: 0,0:09:20.88,0:09:22.98,italics,ELYMAS/ID,0,0,0,,Họ thường tập hợp các thành viên đáng tin cậy
+Dialogue: 0,0:09:22.98,0:09:27.46,italics,ELYMAS/ID,0,0,0,,để luân phiên chia tổ đội săn hầm ngục cho hiệu quả hơn.
+Dialogue: 0,0:09:27.98,0:09:31.71,italics,ELYMAS/ID,0,0,0,,Nhưng ngay cả giới quý tộc cai trị cũng tôn trọng quyền tự do khám phá hầm ngục của mọi người.
+Dialogue: 0,0:09:32.30,0:09:36.78,italics,ELYMAS/ID,0,0,0,,Lẽ nào mấy tên này là lũ côn đồ đang giở trò mờ ám nhằm qua mặt luật pháp sao?
+Dialogue: 0,0:09:38.80,0:09:43.52,Default,EYEPATCH,0,0,0,,Hội mạo hiểm giả với lãnh chúa đời nào cho phép một bang hội độc chiếm cả hầm ngục.
+Dialogue: 0,0:09:43.52,0:09:45.52,Default,ELYMAS,0,0,0,,Thế thì mấy người đang làm cái trò gì ở đây?
+Dialogue: 0,0:09:48.12,0:09:51.33,Default,EYEPATCH,0,0,0,,Bang của tao, Nanh Hải Long (The Sea Dragon's Fang), là một bang hội chuyên về câu cá.
+Dialogue: 0,0:09:52.15,0:09:55.66,Default,EYEPATCH,0,0,0,,Điểm câu trong hầm ngục này thuộc về tụi tao.
+Dialogue: 0,0:09:55.66,0:09:57.94,top,EYEPATCH,0,0,0,,Tao cóc cần biết ai phái tụi bây tới,
+Dialogue: 0,0:09:57.94,0:10:00.70,top,EYEPATCH,0,0,0,,nhưng khôn hồn thì cút xéo chỗ khác nếu không muốn bị bẻ gãy tay chân.
+Dialogue: 1,0:09:56.66,0:10:00.70,sign_generic,SIGN,0,0,0,,{\fade(250,1)\b1\c&HF68625&\bord1.25\3c&HB5BBCD&\fs25\pos(188,256)}Cần Thủ Bang
+Dialogue: 0,0:09:56.66,0:10:00.70,sign_generic,SIGN,0,0,0,,{\fade(250,1)\b1\c&H000000&\bord2\3c&H000000&\fs25\pos(188,256)}Cần Thủ Bang
+Dialogue: 1,0:09:56.66,0:10:00.70,sign_generic,SIGN,0,0,0,,{\fade(250,1)\b1\c&HF68625&\bord1.25\3c&HB5BBCD&\fs25\pos(477,255)}Nanh Hải Long
+Dialogue: 0,0:09:56.66,0:10:00.70,sign_generic,SIGN,0,0,0,,{\fade(250,1)\b1\c&H000000&\bord2\3c&H000000&\fs25\pos(477,255)}Nanh Hải Long
+Dialogue: 0,0:10:00.70,0:10:04.08,Default,RUCHE,0,0,0,,Ủa, hóa ra mấy người cũng chỉ là một bang hội câu cá thôi à.
+Dialogue: 0,0:10:00.70,0:10:03.14,top,CLAN,0,0,0,,Đừng có mà ngáng đường tụi tao, không thì biết tay!
+Dialogue: 0,0:10:04.08,0:10:05.83,Default,EYEPATCH,0,0,0,,M-Mày vừa nói cái gì đấy hả con nhãi?!
+Dialogue: 0,0:10:05.83,0:10:11.42,Default,RUCHE,0,0,0,,Tại sao mấy người lại chiêu mộ mấy kẻ bặm trợn hung hãn chỉ để đi bao trọn điểm câu cá thế chứ?
+Dialogue: 0,0:10:11.86,0:10:13.26,Default,ELYMAS,0,0,0,,Khoan đã nào Ruche.
+Dialogue: 0,0:10:13.96,0:10:16.60,Default,ELYMAS,0,0,0,,Đừng bao giờ coi thường những mối lợi khổng lồ từ việc câu cá trong hầm ngục.
+Dialogue: 0,0:10:16.60,0:10:17.55,Default,RUCHE,0,0,0,,Dạ?!
+Dialogue: 0,0:10:18.73,0:10:21.13,Default,EYEPATCH,0,0,0,,Thằng nhóc này xem ra cũng biết điều đấy.
+Dialogue: 0,0:10:21.13,0:10:22.23,Default,ELYMAS/ID,0,0,0,,Mình hiểu rồi.
+Dialogue: 0,0:10:22.23,0:10:26.81,Default,ELYMAS/ID,0,0,0,,So với việc bao trọn cả một hầm ngục, thì việc chiếm giữ một điểm câu cá không bị coi là quá nghiêm trọng.
+Dialogue: 0,0:10:27.09,0:10:32.57,Default,ELYMAS/ID,0,0,0,,Chẳng trách sao cả Hội mạo hiểm giả lẫn lãnh chúa đều làm ngơ chẳng buồn can thiệp.
+Dialogue: 0,0:10:33.03,0:10:35.83,Default,ELYMAS,0,0,0,,Thế nhưng các hầm ngục luôn xuất hiện ngẫu nhiên.
+Dialogue: 0,0:10:35.83,0:10:39.49,Default,ELYMAS,0,0,0,,Một khi đã để tuột mất loài cá hiếm, thì rất khó để có thể bắt gặp lại chúng lần thứ hai.
+Dialogue: 0,0:10:39.81,0:10:43.87,Default,ELYMAS,0,0,0,,Danh hiệu, nguyên liệu chế tạo trang bị và vật phẩm đều có thể thu hoạch thông qua câu cá.
+Dialogue: 0,0:10:44.18,0:10:48.88,Default,ELYMAS,0,0,0,,Việc thâu tóm được một hầm ngục có thể thả câu mang lại lợi ích tài chính khổng lồ cho cả tập thể.
+Dialogue: 0,0:10:50.47,0:10:53.26,Default,ELYMAS,0,0,0,,Không chỉ có vậy, rủi ro mất mạng lại cực kỳ thấp.
+Dialogue: 0,0:10:53.26,0:10:55.42,Default,RUCHE,0,0,0,,R-Ra là vậy sao anh.
+Dialogue: 0,0:10:55.42,0:11:00.14,Default,ELYMAS,0,0,0,,Và những kẻ ngoài cuộc như tụi mình chính là mối đe dọa đến quyền lợi độc quyền của chúng.
+Dialogue: 0,0:11:00.99,0:11:04.39,Default,ELYMAS,0,0,0,,Xem ra tụi mình đã lỡ chọc phải một ổ phiền toái rồi.
+Dialogue: 0,0:11:04.39,0:11:08.02,Default,RUCHE,0,0,0,,Hay là tụi mình nhượng bộ đi chỗ khác câu đi anh?
+Dialogue: 0,0:11:08.02,0:11:13.03,Default,RUCHE,0,0,0,,Miễn là được vừa câu cá vừa trò chuyện cùng anh, thì ở đâu em cũng thấy vui hết á.
+Dialogue: 0,0:11:13.68,0:11:14.97,Default,ELYMAS,0,0,0,,Xin lỗi em nhé, Ruche.
+Dialogue: 0,0:11:15.61,0:11:19.29,Default,ELYMAS,0,0,0,,Nhưng anh không tài nào nuốt trôi nổi cái thói hống hách của lũ này.
+Dialogue: 0,0:11:19.29,0:11:21.49,Default,ELYMAS,0,0,0,,Anh không thể nhắm mắt làm ngơ trước hành vi của bọn chúng được.
+Dialogue: 0,0:11:21.49,0:11:24.12,Default,ELYMAS,0,0,0,,Câu cá trong hầm ngục vốn là một trong những niềm vui tao nhã vĩ đại nhất của đời mạo hiểm giả.
+Dialogue: 0,0:11:24.12,0:11:28.64,Default,ELYMAS,0,0,0,,Đó là chốn bình yên thanh thản cho những mạo hiểm giả sau bao trận chiến sinh tử mệt mỏi.
+Dialogue: 0,0:11:28.64,0:11:33.52,Default,ELYMAS,0,0,0,,Và tao cực kỳ ghét cái thói độc chiếm thú vui đó để làm giàu cho bản thân lũ tụi bây!
+Dialogue: 0,0:11:33.52,0:11:35.83,Default,ELYMAS,0,0,0,,Tao yêu việc câu cá trong hầm ngục!
+Dialogue: 0,0:11:35.83,0:11:37.98,Default,ELYMAS,0,0,0,,Tao nhất định sẽ đứng lên bảo vệ sự tự do cho hầm ngục này!
+Dialogue: 0,0:11:37.98,0:11:42.52,Default,RUCHE,0,0,0,,Em nghĩ anh đâu cần phải bốc hỏa đến mức độ đó đâu anh ơi...
+Dialogue: 0,0:11:43.34,0:11:45.27,Default,EYEPATCH,0,0,0,,Liệu cái mồm mày đấy, thằng nhóc ranh.
+Dialogue: 0,0:11:46.39,0:11:50.27,Default,EYEPATCH,0,0,0,,Câu cá hầm ngục chỉ là một công cụ để kiếm ra tiền mà thôi.
+Dialogue: 0,0:11:50.27,0:11:51.59,Default,ELYMAS,0,0,0,,Cái gì?!
+Dialogue: 0,0:11:51.59,0:11:54.78,Default,EYEPATCH,0,0,0,,Nanh Hải Long là bang hội cần thủ số một ở thành phố Lacoryna này.
+Dialogue: 0,0:11:55.16,0:11:59.24,Default,EYEPATCH,0,0,0,,Mày nghĩ một khi đã đụng độ với tụi tao thì mày còn đất sống ở cái thành phố này chắc?
+Dialogue: 0,0:12:02.41,0:12:04.65,Default,MARY,0,0,0,,Có chuyện gì mà ồn ào inh ỏi hết cả lên thế?
+Dialogue: 0,0:12:13.62,0:12:17.45,Default,MARY,0,0,0,,Tao hỏi có chuyện gì mà ầm ĩ thế hả?
+Dialogue: 0,0:12:26.25,0:12:27.98,italics,ELYMAS/ID,0,0,0,,Cần Câu Cổ Long ư?!
+Dialogue: 0,0:12:27.98,0:12:30.69,italics,ELYMAS/ID,0,0,0,,Lại còn được khảm cả Cổ Tự Phúc Vận Câu Cá nữa chứ.
+Dialogue: 0,0:12:31.35,0:12:35.86,italics,ELYMAS/ID,0,0,0,,Chỉ cần liếc nhìn cây cần thôi là mình biết ngay cô ta là một cần thủ chuyên nghiệp thượng thừa rồi.
+Dialogue: 0,0:12:31.42,0:12:34.03,top,EYEPATCH,0,0,0,,Chị Mary, chị phải nghe chuyện này mới được.
+Dialogue: 0,0:12:34.03,0:12:37.13,top,EYEPATCH,0,0,0,,Hai đứa này đang định lấn chiếm địa bàn của tụi mình đấy.
+Dialogue: 0,0:12:37.14,0:12:40.70,italics,ELYMAS/ID,0,0,0,,Cây cần đó quả thực là một sự lựa chọn xuất sắc.
+Dialogue: 0,0:12:40.70,0:12:43.37,italics,ELYMAS/ID,0,0,0,,Dù ghét phải thừa nhận, nhưng cô ta có gu thẩm mỹ đỉnh thật đấy.
+Dialogue: 0,0:12:43.82,0:12:46.75,Default,ELYMAS,0,0,0,,Tôi hiểu rồi. Hóa ra cô chính là bang chủ của bang hội này.
+Dialogue: 0,0:12:46.75,0:12:49.04,Default,MARY,0,0,0,,Phải thì đã sao nào?
+Dialogue: 0,0:12:49.41,0:12:53.70,Default,ELYMAS,0,0,0,,Câu cá trong hầm ngục vốn dĩ phải là nơi tự do và thanh bình.
+Dialogue: 0,0:12:54.13,0:12:59.17,Default,ELYMAS,0,0,0,,Ý định vấy bẩn nó của các người không dọa được tôi đâu!
+Dialogue: 0,0:12:59.17,0:13:01.55,italics,MARY/ID,0,0,0,,Cần Câu Huyết Mộc sao.
+Dialogue: 0,0:13:01.83,0:13:05.26,italics,MARY/ID,0,0,0,,Đó là cây cần đỏng đảnh khó tính chỉ dành cho dân sành sỏi.
+Dialogue: 0,0:13:05.26,0:13:09.90,Default,MARY,0,0,0,,Xem ra cậu cũng tự tin vào tay nghề của mình lắm nhỉ. Tôi thích khí phách đó đấy.
+Dialogue: 0,0:13:09.90,0:13:11.85,Default,MARY,0,0,0,,Tôi thách đấu với cậu một trận câu cá.
+Dialogue: 0,0:13:11.85,0:13:17.41,Default,MARY,0,0,0,,Nếu tôi thua, tôi sẽ lập tức giải tán bang Nanh Hải Long.
+Dialogue: 0,0:13:17.41,0:13:18.57,Default,RUCHE & CLAN,0,0,0,,Cái gì cơ?!
+Dialogue: 0,0:13:18.87,0:13:21.86,Default,EYEPATCH,0,0,0,,Đ-Đại tỷ, chị vừa nói cái quái gì thế ạ?!
+Dialogue: 0,0:13:21.86,0:13:23.33,Default,MARY,0,0,0,,Bình tĩnh lại đi tụi bây.
+Dialogue: 0,0:13:23.33,0:13:25.50,Default,MARY,0,0,0,,Tụi bây nghĩ tao sẽ thua sao?
+Dialogue: 0,0:13:25.50,0:13:29.83,Default,EYEPATCH,0,0,0,,N-Nhưng đâu cần thiết phải thách đấu với cái điều kiện quá đáng như thế chứ chị!
+Dialogue: 0,0:13:29.83,0:13:31.33,Default,ELYMAS,0,0,0,,Vậy nếu cô thắng thì sao?
+Dialogue: 0,0:13:31.69,0:13:35.92,Default,MARY,0,0,0,,Nếu tôi thắng, cậu sẽ phải gia nhập bang Nanh Hải Long.
+Dialogue: 0,0:13:36.18,0:13:39.71,Default,ELYMAS,0,0,0,,Gia nhập bang của cô á? Còn lâu nhé.
+Dialogue: 0,0:13:39.71,0:13:42.56,Default,ELYMAS,0,0,0,,Vả lại, có gì đảm bảo là đôi bên sẽ giữ đúng lời hứa chứ?
+Dialogue: 0,0:13:43.62,0:13:46.93,Default,MARY,0,0,0,,Tất nhiên là lòng kiêu hãnh của một cần thủ rồi.
+Dialogue: 0,0:13:48.64,0:13:53.44,Default,MARY,0,0,0,,Nếu tôi nuốt lời sau khi nếm mùi thất bại trước mặt toàn thể bang chúng,
+Dialogue: 0,0:13:53.44,0:13:56.91,Default,MARY,0,0,0,,thì bang Nanh Hải Long sớm muộn gì cũng tự khắc tan đàn xẻ nghé thôi.
+Dialogue: 0,0:13:57.27,0:14:02.76,Default,MARY,0,0,0,,Còn nếu cậu là một kẻ hèn hạ vô liêm sỉ dám quỵt nợ rồi bỏ trốn sau khi thua cuộc,
+Dialogue: 0,0:14:02.76,0:14:04.95,Default,MARY,0,0,0,,thì chúng tôi cũng chẳng thèm rước một kẻ như cậu về làm gì.
+Dialogue: 0,0:14:05.22,0:14:10.70,Default,MARY,0,0,0,,Và nếu cậu làm thế thật, chúng tôi sẽ phối hợp cùng Hội mạo hiểm giả để trừng phạt cậu đích đáng.
+Dialogue: 0,0:14:12.56,0:14:14.86,Default,ELYMAS,0,0,0,,Được thôi. Tôi chấp nhận kèo đấu này.
+Dialogue: 0,0:14:14.86,0:14:15.50,Default,RUCHE,0,0,0,,Hả?!
+Dialogue: 0,0:14:16.01,0:14:19.13,Default,MARY,0,0,0,,Tốt lắm. Đó mới là điều tôi muốn nghe.
+Dialogue: 0,0:14:19.48,0:14:22.97,Default,RUCHE,0,0,0,,Đ-Đừng làm vậy mà anh Elymas! Tụi mình có được lợi lộc gì đâu chứ!
+Dialogue: 0,0:14:22.97,0:14:24.71,Default,RUCHE,0,0,0,,Tụi mình ra ngoài sông hồ câu cũng được mà anh!
+Dialogue: 0,0:14:24.71,0:14:25.72,Default,ELYMAS,0,0,0,,Anh là một thằng đàn ông!
+Dialogue: 0,0:14:27.59,0:14:31.60,Default,ELYMAS,0,0,0,,Và đôi khi, có những trận chiến mà đàn ông không bao giờ được phép lùi bước, dù chẳng có chút lợi lộc nào!
+Dialogue: 0,0:14:31.99,0:14:35.85,Default,RUCHE,0,0,0,,Em không ngờ là anh lại mê câu cá đến phát cuồng như thế luôn đấy.
+Dialogue: 0,0:14:36.43,0:14:37.86,Default,EYEPATCH,0,0,0,,Mày đúng là thằng ngu!
+Dialogue: 0,0:14:37.86,0:14:40.57,Default,EYEPATCH,0,0,0,,Chức nghiệp của đại tỷ Mary là Hải Tặc (Pirate) đấy con ạ.
+Dialogue: 0,0:14:40.57,0:14:42.70,Default,EYEPATCH,0,0,0,,Chị ấy được cộng thêm chỉ số May Mắn Câu Cá cực khủng.
+Dialogue: 0,0:14:42.70,0:14:45.53,Default,EYEPATCH,0,0,0,,Cần câu của chị ấy cũng chẳng phải là loại đồ dỏm rẻ tiền như của mày đâu.
+Dialogue: 0,0:14:45.53,0:14:48.38,Default,EYEPATCH,0,0,0,,Mày chẳng có lấy một phần trăm cơ hội thắng đâu con trai ạ.
+Dialogue: 0,0:14:49.59,0:14:52.62,italics,ELYMAS/ID,0,0,0,,Đúng là như vậy. Mình đang ở thế hoàn toàn bất lợi.
+Dialogue: 0,0:14:52.62,0:14:58.74,italics,ELYMAS/ID,0,0,0,,Thế nhưng mình đã dành ra vô số thời gian cày cuốc câu cá ở phiên bản Thế Giới Ma Pháp.
+Dialogue: 0,0:14:58.74,0:15:00.80,italics,ELYMAS/ID,0,0,0,,Mình hoàn toàn có cơ hội giành chiến thắng trong trận đấu này.
+Dialogue: 0,0:15:00.80,0:15:02.74,italics,ELYMAS/ID,0,0,0,,Và trên hết tất cả...
+Dialogue: 0,0:15:04.07,0:15:08.76,Default,ELYMAS,0,0,0,,Mary, tôi tuyệt đối sẽ không để thua một kẻ chẳng hề có tình yêu với câu cá hầm ngục như cô đâu!
+Dialogue: 0,0:15:09.10,0:15:12.01,Default,MARY,0,0,0,,Cậu tên Elymas đúng không? Chúc cậu may mắn nhé.
+Dialogue: 0,0:15:12.01,0:15:15.10,Default,MARY,0,0,0,,Mong là cậu sẽ trúng được mẻ cá bội thu.
+Dialogue: 0,0:15:15.43,0:15:18.15,Default,MARY,0,0,0,,Chúc cậu buông cần không chút nuối tiếc.
+Dialogue: 0,0:15:20.87,0:15:26.86,Default,RUCHE,0,0,0,,E-Em chỉ muốn có một khoảng thời gian thư thả câu cá cùng anh Elymas thôi mà.
+Dialogue: 0,0:15:26.86,0:15:30.37,Default,RUCHE,0,0,0,,Tại sao mọi chuyện lại biến thành thế này chứ?!
+Dialogue: 0,0:15:30.58,0:15:31.62,sign_generic,SIGN,0,0,0,,{\b1\fnSegoe UI\pos(331,187)\fade(250,150)\blur2\c&H140B16&\3c&H9DA5E4&}Nữ Hoàng Mary VS Trọng Kỵ Sĩ Elymas
+Dialogue: 0,0:15:31.37,0:15:33.33,sign_generic,SIGN,0,0,0,,{\b1\fnSegoe UI\pos(331,187)\fade(250,1)\blur2\c&H140B16&\3c&H9DA5E4&}Quy Tắc Quyết Đấu Câu Cá
+Dialogue: 0,0:15:33.33,0:15:35.60,top,ELYMAS,0,0,0,,Thời gian thi đấu giới hạn trong vòng hai tiếng.
+Dialogue: 0,0:15:35.12,0:15:36.58,sign_generic,SIGN,0,0,0,,{\pos(320,243)\1a30\c&H3E3BE2&\b1\fs25\3c&H261D99&\fade(200,1)}Thời Gian Giới Hạn: 2 Tiếng
+Dialogue: 0,0:15:36.58,0:15:40.65,Default,MARY,0,0,0,,Bên nào có tổng giá trị thị trường của số cá câu được cao hơn sẽ là người chiến thắng.
+Dialogue: 0,0:15:39.38,0:15:41.38,sign_generic,SIGN,0,0,0,,{\b1\an8\pos(177,16)\bord1.5\fade(200,1)\c&H9B9DD6&\3c&H4B3EB0&}Điều Kiện Chiến Thắng:\N\N\N\N\N\NTổng Giá Trị Thị Trường\N\N\N\N\N\NCủa Cá Câu Được Cao Hơn
+Dialogue: 0,0:15:41.70,0:15:44.08,top,ELYMAS,0,0,0,,Tuyệt đối nghiêm cấm mọi hành vi phá hoại cản trở đối phương.
+Dialogue: 0,0:15:42.46,0:15:44.51,sign_generic,SIGN,0,0,0,,{\pos(320,243)\1a30\c&H3E3BE2&\b1\fs25\3c&H261D99&\fade(200,1)}Nghiêm Cấm Phá Hoại
+Dialogue: 0,0:15:44.51,0:15:47.88,Default,MARY,0,0,0,,Chỉ có một cuộc cạnh tranh sòng phẳng bằng danh dự và phẩm giá của chúng ta.
+Dialogue: 0,0:15:51.27,0:15:54.02,italics,ELYMAS/ID,0,0,0,,Đã chín mươi phút trôi qua kể từ khi trận đấu bắt đầu.
+Dialogue: 0,0:15:57.54,0:16:01.24,italics,ELYMAS/ID,0,0,0,,Mary vẫn luôn kiên nhẫn cắm cọc câu tại một vị trí duy nhất.
+Dialogue: 0,0:16:02.44,0:16:05.73,italics,ELYMAS/ID,0,0,0,,Trái lại, mình liên tục di chuyển đổi điểm câu liên tục.
+Dialogue: 0,0:16:21.05,0:16:22.10,italicstop,SYSTEM VOICE,0,0,0,,Cá Hồi Ogre.
+Dialogue: 0,0:16:22.10,0:16:24.09,italicstop,SYSTEM VOICE,0,0,0,,Giá thị trường: 80.000 vàng.
+Dialogue: 0,0:16:21.63,0:16:24.09,sign_generic,SIGN,0,0,0,,{\b1\bord1.5\c&H10598A&\fade(200,1)\3c&H030625&\pos(320,252)\fs25}Cá Hồi Ogre - Giá thị trường: 80.000G
+Dialogue: 0,0:16:24.09,0:16:27.34,Default,EYEPATCH,0,0,0,,K-Không thể nào. Lại vớt được một con cá đắt tiền nữa sao?
+Dialogue: 0,0:16:27.34,0:16:30.38,Default,EYEPATCH,0,0,0,,Hắn ta đang bám đuổi sát nút với đại tỷ Mary kìa.
+Dialogue: 0,0:16:29.27,0:16:32.85,top,CLAN 2,0,0,0,,Số lượng hắn câu được không nhiều, nhưng toàn là trúng mánh cá giá trị cao.
+Dialogue: 0,0:16:33.39,0:16:37.01,italics,ELYMAS/ID,0,0,0,,Sự chênh lệch về đẳng cấp cần câu đồng nghĩa với việc nếu câu theo cách thông thường mình chắc chắn sẽ thua,
+Dialogue: 0,0:16:37.01,0:16:41.07,italics,ELYMAS/ID,0,0,0,,thế nên mình đã tập trung toàn lực vào việc săn lùng loài Cá Hồi Ogre có giá trị đơn lẻ cực đắt.
+Dialogue: 0,0:16:41.07,0:16:43.77,italics,ELYMAS/ID,0,0,0,,Cá Hồi Ogre không hề dễ câu chút nào,
+Dialogue: 0,0:16:44.47,0:16:47.53,italics,ELYMAS/ID,0,0,0,,nhưng mình có trong tay kho kiến thức tích lũy từ những năm tháng cày game.
+Dialogue: 0,0:16:48.15,0:16:50.40,italics,ELYMAS/ID,0,0,0,,Bằng cách quan sát bóng phản chiếu của cá dưới nước,
+Dialogue: 0,0:16:50.40,0:16:54.69,italics,ELYMAS/ID,0,0,0,,mình có thể xác định chính xác chủng loài và độ khó khi kéo cần.
+Dialogue: 0,0:16:55.14,0:16:59.00,italics,ELYMAS/ID,0,0,0,,Nếu cứ tiếp tục duy trì đà này, xét trên lý thuyết xác suất mình hoàn toàn có thể lội ngược dòng giành chiến thắng.
+Dialogue: 0,0:16:59.00,0:17:02.66,italics,ELYMAS/ID,0,0,0,,Mary quả thực là một cần thủ hạng nhất.
+Dialogue: 0,0:17:02.66,0:17:05.00,italics,ELYMAS/ID,0,0,0,,Có lẽ cô ta chính là tay câu cừ khôi nhất thành Lacoryna này.
+Dialogue: 0,0:17:05.39,0:17:10.01,italics,ELYMAS/ID,0,0,0,,Thế nhưng mình từng nằm trong top 5 cần thủ xuất chúng nhất của Thế Giới Ma Pháp đấy.
+Dialogue: 0,0:17:10.75,0:17:15.01,italics,ELYMAS/ID,0,0,0,,Dù là bất kỳ hầm ngục nào, mình cũng có thể vạch ra chiến thuật bách chiến bách thắng,
+Dialogue: 0,0:17:15.01,0:17:17.72,italics,ELYMAS/ID,0,0,0,,bất kể chức nghiệp, cần câu hay bài vở mà đối thủ tung ra.
+Dialogue: 0,0:17:18.37,0:17:22.90,Default,MARY,0,0,0,,Cũng khá đấy chứ. Giờ thì tôi thực sự muốn rước cậu về bang của mình rồi đấy.
+Dialogue: 0,0:17:23.30,0:17:27.27,Default,ELYMAS,0,0,0,,Tôi đã nắm được hòm hòm trình độ và chỉ số của cô rồi.
+Dialogue: 0,0:17:27.27,0:17:29.11,Default,ELYMAS,0,0,0,,Trận này tôi cầm chắc phần thắng trong tay.
+Dialogue: 0,0:17:29.52,0:17:35.87,Default,ELYMAS,0,0,0,,Trong ba mươi phút còn lại, tôi thừa sức giật thêm ít nhất một con Cá Hồi Ogre nữa.
+Dialogue: 0,0:17:35.87,0:17:39.57,Default,MARY,0,0,0,,Tôi không ngờ một tay câu tầm cỡ như cậu lại có thể thốt ra những lời thiển cận như thế đấy.
+Dialogue: 0,0:17:39.57,0:17:40.37,Default,ELYMAS,0,0,0,,Sao cơ?
+Dialogue: 0,0:17:40.64,0:17:45.88,Default,MARY,0,0,0,,Không ai biết trước điều gì sẽ xảy ra cho đến phút chót, đó mới chính là tinh túy tuyệt vời nhất của câu cá hầm ngục!
+Dialogue: 0,0:17:55.15,0:17:56.18,italicstop,SYSTEM VOICE,0,0,0,,Cá Chép Vàng.
+Dialogue: 0,0:17:56.18,0:17:58.27,italicstop,SYSTEM VOICE,0,0,0,,Giá thị trường: 600.000 vàng.
+Dialogue: 0,0:17:56.35,0:17:59.52,sign_generic,SIGN,0,0,0,,{\b1\bord1.5\c&H3695B5&\fade(200,1)\3c&H030625&\pos(320,252)\fs25}Cá Chép Vàng - Giá thị trường: 600.000G
+Dialogue: 0,0:17:58.27,0:18:01.27,italics,ELYMAS/ID,0,0,0,,Cô ta lật ngược tình thế rồi sao? Không thể nào!
+Dialogue: 0,0:18:01.27,0:18:05.95,Default,MARY,0,0,0,,Câu cá hầm ngục thú vị chính là ở chỗ cậu không bao giờ biết mình sẽ kéo lên thứ gì.
+Dialogue: 0,0:18:05.95,0:18:06.98,italics,ELYMAS/ID,0,0,0,,Mình không thể thắng được rồi.
+Dialogue: 0,0:18:07.80,0:18:11.02,italics,ELYMAS/ID,0,0,0,,Khoảng cách mà mình đã dốc hết tâm sức xây dựng bằng kiến thức và kỹ năng
+Dialogue: 0,0:18:11.02,0:18:13.66,italics,ELYMAS/ID,0,0,0,,đã bị san phẳng hoàn toàn trước vận may khủng khiếp của Mary.
+Dialogue: 0,0:18:13.99,0:18:17.49,italics,ELYMAS/ID,0,0,0,,Trong khoảng thời gian ít ỏi còn lại, mình chẳng thể làm gì được nữa.
+Dialogue: 0,0:18:17.49,0:18:19.12,Default,MARY,0,0,0,,Cậu định bỏ cuộc sao?
+Dialogue: 0,0:18:19.12,0:18:24.62,Default,MARY,0,0,0,,Tôi đã bảo rồi mà, câu cá hầm ngục luôn ẩn chứa những điều kỳ diệu bất ngờ.
+Dialogue: 0,0:18:24.62,0:18:29.99,Default,MARY,0,0,0,,Hãy dẹp mấy con số xác suất khô khan đó đi và bung hết sức săn một mẻ cá khổng lồ xem nào.
+Dialogue: 0,0:18:30.46,0:18:37.25,italics,ELYMAS/ID,0,0,0,,Áp lực của cuộc đấu đã khiến mình chỉ biết nghĩ đến những con số tính toán chi ly.
+Dialogue: 0,0:18:38.46,0:18:42.34,italics,ELYMAS/ID,0,0,0,,Bản chất cốt lõi của câu cá hầm ngục đâu phải là như thế.
+Dialogue: 0,0:18:42.87,0:18:47.07,italics,ELYMAS/ID,0,0,0,,Thật không ngờ là mình lại phải học lại bài học vỡ lòng này từ bang chủ của một lũ côn đồ.
+Dialogue: 0,0:18:48.60,0:18:53.28,Default,ELYMAS,0,0,0,,Cô sẽ phải hối hận vì đã thắp lên ngọn lửa chiến đấu trong lòng đối thủ đấy.
+Dialogue: 0,0:18:53.28,0:18:58.53,Default,MARY,0,0,0,,Trước giờ tôi chưa từng gặp ai có niềm đam mê, kỹ năng và kiến thức câu cá uyên thâm như cậu cả.
+Dialogue: 0,0:18:58.53,0:19:00.79,Default,MARY,0,0,0,,Ngoại trừ bản thân tôi ra.
+Dialogue: 0,0:19:01.18,0:19:04.71,Default,MARY,0,0,0,,Tôi không muốn trận quyết đấu của chúng ta kết thúc trong sự nhạt nhẽo xìu xìu ển ển đâu.
+Dialogue: 0,0:19:04.71,0:19:05.79,Default,ELYMAS,0,0,0,,Tới luôn đi Mary.
+Dialogue: 0,0:19:06.61,0:19:11.30,Default,ELYMAS,0,0,0,,Trong ba mươi phút cuối cùng này, tôi nhất định sẽ câu lên một con quái vật để lội ngược dòng!
+Dialogue: 0,0:19:11.30,0:19:13.83,Default,MARY,0,0,0,,Tôi rất muốn xem cậu thể hiện đấy, Trọng Kỵ Sĩ Elymas—
+Dialogue: 0,0:19:13.83,0:19:16.30,Default,MARY,0,0,0,,À không, Cần Thủ Elymas!
+Dialogue: 0,0:19:20.75,0:19:23.81,Default,RUCHE,0,0,0,,Em lại câu được thêm một con Cá Tráp Mythril nữa rồi nè!
+Dialogue: 0,0:19:23.81,0:19:28.14,Default,EYEPATCH,0,0,0,,Oái! Con bé đó lại câu được thêm một con Cá Tráp Mythril nữa kìa tụi bây ơi!
+Dialogue: 0,0:19:28.68,0:19:30.65,sign_generic,SIGN,0,0,0,,{\b1\fs35\pos(436,181)\frz7.653\bord1\blur0.5\c&H95FBF4&\3c&H2B4278&\fade(200,1)}3.000.000G
+Dialogue: 0,0:19:30.65,0:19:33.30,Default,CLAN 4,0,0,0,,Đó đã là con thứ ba của nhỏ rồi đấy!
+Dialogue: 0,0:19:33.30,0:19:34.94,Default,CLAN 6,0,0,0,,Con nhỏ đó là nữ thần câu cá rồi!
+Dialogue: 0,0:19:36.40,0:19:38.53,Default,RUCHE,0,0,0,,Mấy con cá này lợi hại đến thế cơ ạ?
+Dialogue: 0,0:19:38.53,0:19:40.43,Default,EYEPATCH,0,0,0,,Không chỉ là lợi hại đâu mà là phi lý khủng khiếp luôn đấy!
+Dialogue: 0,0:19:40.43,0:19:45.23,Default,EYEPATCH,0,0,0,,Đây thực sự là lần đầu tiên nhóc đi câu cá đấy à?! Điêu vãi chưởng!
+Dialogue: 0,0:19:45.23,0:19:47.83,Default,RUCHE,0,0,0,,Chắc là do vận may của người mới bắt đầu thôi ạ.
+Dialogue: 0,0:19:47.83,0:19:52.34,Default,RUCHE,0,0,0,,Trước giờ chuyện may mắn kiểu này cứ liên tục xảy ra với em suốt á.
+Dialogue: 0,0:19:52.34,0:19:57.34,Default,MARY,0,0,0,,Con bé đó kiếm được số tiền gấp ba lần cả hai chúng ta cộng lại chỉ bằng một cây cần cùi bắp cho người mới bắt đầu sao?!
+Dialogue: 0,0:19:57.34,0:20:01.04,Default,ELYMAS,0,0,0,,K-Kiến thức với kỹ năng câu cá đỉnh cao của tụi mình rốt cuộc là...
+Dialogue: 0,0:20:01.51,0:20:03.56,Default,RUCHE,0,0,0,,A! Lại thêm một con nữa cắn câu rồi nè anh ơi!
+Dialogue: 0,0:20:03.56,0:20:09.75,Default,ELYMAS & MARY,0,0,0,,Rốt cuộc thì trận quyết đấu của tụi mình có ý nghĩa cái quái gì nữa đây trời?!
+Dialogue: 0,0:20:12.59,0:20:15.11,Default,RUCHE,0,0,0,,Hôm qua mọi chuyện kết thúc êm đẹp ghê anh ha.
+Dialogue: 0,0:20:15.49,0:20:18.32,Default,RUCHE,0,0,0,,Bọn họ đã hứa là sẽ không bao trọn điểm câu cá đó nữa rồi.
+Dialogue: 0,0:20:18.62,0:20:21.09,Default,ELYMAS,0,0,0,,Trận quyết đấu của hai đứa anh rốt cuộc cũng chẳng phân định được thắng thua.
+Dialogue: 0,0:20:21.85,0:20:24.68,Default,RUCHE,0,0,0,,Câu cá hầm ngục thực sự vui quá chừng luôn đúng không anh?
+Dialogue: 0,0:20:24.68,0:20:26.73,Default,RUCHE,0,0,0,,Nhất định tụi mình phải đi câu thêm lần nữa nhé.
+Dialogue: 0,0:20:26.73,0:20:30.24,Default,RUCHE,0,0,0,,Chắc em cũng phải sắm một cây cần xịn hơn mới được.
+Dialogue: 0,0:20:31.61,0:20:33.64,Default,ELYMAS,0,0,0,,Ừ, anh cá là thế.
+Dialogue: 0,0:20:34.65,0:20:37.92,Default,RUCHE,0,0,0,,Anh Elymas ơi, sao trông mặt anh ủ rũ thất vọng thế kia?
+Dialogue: 0,0:20:38.22,0:20:41.92,Default,ELYMAS,0,0,0,,Xin lỗi em nhé. Anh chỉ đang gặp khó khăn trong việc chấp nhận sự thật tàn nhẫn vừa rồi thôi.
+Dialogue: 0,0:20:43.63,0:20:44.81,Default,ELYMAS,0,0,0,,Mà thôi, dẹp chuyện đó sang một bên đi.
+Dialogue: 0,0:20:44.81,0:20:47.31,Default,ELYMAS,0,0,0,,Đã đến lúc tụi mình đi nhận thanh Ngân Kiếm rồi.
+Dialogue: 0,0:20:47.31,0:20:50.71,Default,HILDE,0,0,0,,Lão già kia, ông chẳng hiểu chuyện gì cả.
+Dialogue: 0,0:20:50.71,0:20:52.84,Default,HILDE,0,0,0,,Tôi đâu có bảo ông phải bố thí không công cho tôi đâu.
+Dialogue: 0,0:20:52.84,0:20:55.39,Default,HILDE,0,0,0,,Tôi bảo ông hãy bán thanh kiếm đó cho tôi cơ mà.
+Dialogue: 0,0:20:55.39,0:20:57.74,Default,VERUGA,0,0,0,,Ta không có bất kỳ thứ vũ khí nào để bán cho cô nhóc cả.
+Dialogue: 0,0:20:57.74,0:21:00.24,Default,VERUGA,0,0,0,,Huống hồ, thanh kiếm này là tác phẩm do khách hàng đặt làm riêng.
+Dialogue: 0,0:20:57.74,0:20:59.35,top,ELYMAS,0,0,0,,Nghe chừng tình hình căng thẳng rồi đây.
+Dialogue: 0,0:20:59.35,0:21:00.24,top,RUCHE,0,0,0,,Dạ vâng.
+Dialogue: 0,0:21:01.29,0:21:02.62,Default,ELYMAS,0,0,0,,Bác có sao không ạ, bác Veruga?
+Dialogue: 0,0:21:02.62,0:21:05.41,Default,HILDE,0,0,0,,Ủa? Cậu là khách đặt làm thanh kiếm đó đấy à?
+Dialogue: 0,0:21:08.42,0:21:10.54,Default,HILDE,0,0,0,,Tôi đang tự hỏi không biết vị khách đó là ai đây.
+Dialogue: 0,0:21:10.54,0:21:15.94,Default,HILDE,0,0,0,,Lão già, ông cất công rèn một thanh Ngân Kiếm thượng đẳng cho cái tên trông ẻo lả yếu nhớt này sao?
+Dialogue: 0,0:21:13.29,0:21:16.40,italicstop,ELYMAS/ID,0,0,0,,Mình nghe thấy tiếng cô ta, nhưng lại chẳng thấy bóng dáng đâu cả.
+Dialogue: 0,0:21:15.94,0:21:19.48,Default,HILDE,0,0,0,,Lẽ nào ông túng thiếu tiền bạc đến mức mất trí rồi hả Veruga?
+Dialogue: 0,0:21:19.48,0:21:20.59,italics,ELYMAS/ID,0,0,0,,Cô ta đang dùng kỹ năng ẩn thân sao?
+Dialogue: 0,0:21:20.59,0:21:22.89,Default,RUCHE,0,0,0,,Anh Elymas, nhìn xuống dưới kìa anh!
+Dialogue: 0,0:21:23.22,0:21:24.78,Default,RUCHE,0,0,0,,Ở dưới chân anh kìa!
+Dialogue: 0,0:21:30.27,0:21:34.52,Default,HILDE,0,0,0,,Này thằng khốn kia. Mày đang cười cợt chế giễu chiều cao của tao đấy à?
+Dialogue: 0,0:21:34.90,0:21:38.48,Default,ELYMAS,0,0,0,,C-Cái quái gì với con nhóc này thế không biết?
+Dialogue: 0,0:21:49.91,0:21:56.54,sign_generic,credits,0,0,0,,{\an9\fs15\b1\c&HEDEAEB&\3c&H0B1211&\blur1}Phụ đề Việt ngữ:\N{\fs17.5}Amtia(NOFACE)\N\N{\fs15}Dịch thuật & Biên tập:\N{\fs17.5}Amtia(NOFACE)\N\N{\fs15}Hiệu đính & QC:\N{\fs17.5}Amtia(NOFACE)
+Dialogue: 0,0:23:12.19,0:23:19.10,italics,ELYMAS/NA,0,0,0,,Lão Veruga đang cãi vã kịch liệt với Hilde, một nữ Ma Kiếm Sĩ tính tình cực kỳ hống hách khó ưa.
+Dialogue: 0,0:23:19.10,0:23:22.14,italics,ELYMAS/NA,0,0,0,,Chẳng trách sao ông lão lại nổi trận lôi đình đến thế.
+Dialogue: 0,0:23:22.73,0:23:27.61,italics,ELYMAS/NA,0,0,0,,Tụi mình bị cuốn vào trận cãi vã của bọn họ, và mình thật sự không thể nuốt trôi nổi cái tính cách ngạo mạn của con nhóc Hilde.
+Dialogue: 0,0:23:27.61,0:23:30.52,italics,ELYMAS/NA,0,0,0,,Trọng Kỵ Sĩ đối đầu với Ma Kiếm Sĩ quả thực là một kèo đấu vô cùng bất lợi,
+Dialogue: 0,0:23:30.52,0:23:32.52,italics,ELYMAS/NA,0,0,0,,thế nhưng con nhóc này nhất định phải được dạy cho một bài học nhớ đời.
+Dialogue: 0,0:23:33.35,0:23:35.27,italics,ELYMAS/NA,0,0,0,,Tập tiếp theo, \"Ma Kiếm Sĩ Hilde\".
+Dialogue: 0,0:23:36.06,0:23:38.69,italics,ELYMAS/NA,0,0,0,,Cô ta có lối suy nghĩ lệch lạc đến mức khó chấp nhận.
+
