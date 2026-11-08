@@ -1,0 +1,1214 @@
+﻿1
+00:00:03,500 --> 00:00:07,420
+<font face="Segoe UI">NGUYÊN TÁC: REKI KAWAHARA</font>
+
+2
+00:00:09,010 --> 00:00:10,100
+<font face="Segoe UI"><i>Yuu...</i></font>
+
+3
+00:00:13,060 --> 00:00:14,270
+<font face="Segoe UI"><i>Anh Yuu.</i></font>
+
+4
+00:00:16,520 --> 00:00:18,940
+<font face="Segoe UI"><i>Dậy đi mà, anh Yuu.</i></font>
+
+5
+00:00:23,270 --> 00:00:24,480
+<font face="Segoe UI">Mình đang ở đâu thế này?</font>
+
+6
+00:00:29,860 --> 00:00:32,900
+<font face="Segoe UI">À phải rồi. Mình đang ở trong khoang Caliculus.</font>
+
+7
+00:00:33,530 --> 00:00:35,320
+<font face="Segoe UI">Sao xung quanh lại tối đen thế này?</font>
+
+8
+00:00:36,160 --> 00:00:37,450
+<font face="Segoe UI">Mất điện rồi sao?</font>
+
+9
+00:00:39,040 --> 00:00:40,710
+<font face="Segoe UI">Tiếng gì vừa nãy thế?</font>
+
+10
+00:00:41,790 --> 00:00:44,380
+<font face="Segoe UI">Nó đây rồi.</font>
+
+11
+00:00:53,050 --> 00:00:54,970
+<font face="Segoe UI">THỬ NGHIỆM
+KHOANG CHƠI GAME FULL-DIVE - CALICULUS</font>
+
+12
+00:01:01,600 --> 00:01:03,480
+<font face="Segoe UI">Rốt cuộc chuyện quái gì đã xảy ra thế này?</font>
+
+13
+00:01:06,150 --> 00:01:07,490
+<font face="Segoe UI">Sawa...</font>
+
+14
+00:01:16,580 --> 00:01:18,540
+<font face="Segoe UI">Mùi gì thế này?</font>
+
+15
+00:01:27,050 --> 00:01:28,010
+<font face="Segoe UI">Sawa?</font>
+
+16
+00:03:12,320 --> 00:03:13,990
+<font face="Segoe UI">{\an8}DEVILS' CREST</font>
+
+17
+00:03:13,990 --> 00:03:17,660
+<font face="Segoe UI">{\an8}TẬP 1: XÂM LẤN</font>
+
+18
+00:03:22,910 --> 00:03:24,660
+<font face="Segoe UI">Yuu, nó đang lao về phía cậu kìa!</font>
+
+19
+00:03:28,750 --> 00:03:31,170
+<font face="Segoe UI">{\an8}YUUMA
+THỎ SỪNG KHỔNG LỒ - ĐỒNG BẰNG ĐÔNG CALCINA</font>
+
+20
+00:03:33,260 --> 00:03:34,510
+<font face="Segoe UI">Tenebri--</font>
+
+21
+00:03:35,550 --> 00:03:36,680
+<font face="Segoe UI">Chết tiệt!</font>
+
+22
+00:03:39,220 --> 00:03:40,560
+<font face="Segoe UI">Cậu làm được mà, Yuu!</font>
+
+23
+00:03:41,100 --> 00:03:42,690
+<font face="Segoe UI">Sắp xong rồi!</font>
+
+24
+00:03:44,350 --> 00:03:45,430
+<font face="Segoe UI">Tenebris!</font>
+
+25
+00:03:48,440 --> 00:03:50,610
+<font face="Segoe UI">Capere Anima!</font>
+
+26
+00:03:54,360 --> 00:03:55,190
+<font face="Segoe UI">Ignis.</font>
+
+27
+00:04:09,920 --> 00:04:12,170
+<font face="Segoe UI">{\an8}THỎ SỪNG KHỔNG LỒ</font>
+
+28
+00:04:12,170 --> 00:04:14,840
+<font face="Segoe UI">Tuyệt vời!</font>
+
+29
+00:04:15,840 --> 00:04:17,380
+<font face="Segoe UI">Làm tốt lắm, Yuu.</font>
+
+30
+00:04:17,380 --> 00:04:18,840
+<font face="Segoe UI">Cảm ơn nhé, Konken.</font>
+
+31
+00:04:21,430 --> 00:04:22,350
+<font face="Segoe UI">{\an8}YUUMA</font>
+
+32
+00:04:22,350 --> 00:04:23,770
+<font face="Segoe UI">{\an8}Thấy ghê chưa?</font>
+
+33
+00:04:23,760 --> 00:04:25,970
+<font face="Segoe UI">{\an8}Tớ đã lùa con quái vào đúng vị trí chúng ta cần đấy.</font>
+
+34
+00:04:26,560 --> 00:04:28,020
+<font face="Segoe UI">Đòi hỏi kỹ thuật đỉnh cao lắm mới làm được đấy nhé!</font>
+
+35
+00:04:28,020 --> 00:04:28,940
+<font face="Segoe UI">KONKEN</font>
+
+36
+00:04:28,940 --> 00:04:29,860
+<font face="Segoe UI">{\an8}SAWA</font>
+
+37
+00:04:29,850 --> 00:04:31,690
+<font face="Segoe UI">{\an8}Sao cậu lại vênh váo thế hả?</font>
+
+38
+00:04:31,690 --> 00:04:32,610
+<font face="Segoe UI">{\an8}NAGI</font>
+
+39
+00:04:32,610 --> 00:04:35,110
+<font face="Segoe UI">{\an8}Tỉ lệ thành công có được một nửa đâu cơ chứ?</font>
+
+40
+00:04:35,690 --> 00:04:37,230
+<font face="Segoe UI">Này, Yuu.</font>
+
+41
+00:04:37,240 --> 00:04:40,490
+<font face="Segoe UI">Thử triệu hồi nó
+bằng kỹ năng Thu Phục Quái Thú xem sao.</font>
+
+42
+00:04:41,120 --> 00:04:42,160
+<font face="Segoe UI">Ngay bây giờ á?</font>
+
+43
+00:04:42,160 --> 00:04:45,870
+<font face="Segoe UI">Thì đợt chơi thử chỉ còn 50 phút nữa là hết rồi.</font>
+
+44
+00:04:45,870 --> 00:04:48,000
+<font face="Segoe UI">Hả, thật đấy à?</font>
+
+45
+00:04:48,580 --> 00:04:50,290
+<font face="Segoe UI">Thế thì gay go rồi.</font>
+
+46
+00:04:50,290 --> 00:04:54,840
+<font face="Segoe UI">Tớ lỡ cá cược với nhóm Sugamo
+là chúng ta sẽ hạ trùm trước bọn họ rồi.</font>
+
+47
+00:04:54,840 --> 00:04:57,630
+<font face="Segoe UI">Lại nữa rồi đấy.</font>
+
+48
+00:04:57,630 --> 00:04:59,130
+<font face="Segoe UI">Cậu đã cược cái gì hả?</font>
+
+49
+00:05:00,550 --> 00:05:02,840
+<font face="Segoe UI">Phần bánh pudding sô-cô-la của bữa trưa mai ở trường.</font>
+
+50
+00:05:02,850 --> 00:05:05,230
+<font face="Segoe UI">Đừng bảo là tớ không cảnh báo cậu trước đấy nhé.</font>
+
+51
+00:05:05,220 --> 00:05:07,350
+<font face="Segoe UI">Và tớ tuyệt đối không nhường phần của mình đâu.</font>
+
+52
+00:05:07,350 --> 00:05:09,520
+<font face="Segoe UI">Tớ đã cược... bốn phần luôn rồi...</font>
+
+53
+00:05:11,350 --> 00:05:13,850
+<font face="Segoe UI">Cái gì? Gì cơ chứ?</font>
+
+54
+00:05:13,860 --> 00:05:17,610
+<font face="Segoe UI">Khoan đã nào, Kenji Kondo.
+Ai cho phép cậu tự tiện quyết định thế hả?</font>
+
+55
+00:05:17,610 --> 00:05:20,450
+<font face="Segoe UI">Tớ xin lỗi! Tớ xin lỗi thật mà!</font>
+
+56
+00:05:20,450 --> 00:05:23,790
+<font face="Segoe UI">Tớ xin lỗi được chưa?
+Đừng có réo tên thật của tớ trong game nữa!</font>
+
+57
+00:05:25,530 --> 00:05:27,110
+<font face="Segoe UI">Này, Konken.</font>
+
+58
+00:05:27,120 --> 00:05:29,160
+<font face="Segoe UI">Nghĩa là nếu chúng ta thắng vụ cược này,</font>
+
+59
+00:05:29,160 --> 00:05:31,620
+<font face="Segoe UI">thì sẽ được ăn tận bốn phần pudding đúng không?</font>
+
+60
+00:05:31,620 --> 00:05:33,790
+<font face="Segoe UI">Đương nhiên rồi.</font>
+
+61
+00:05:36,630 --> 00:05:38,050
+<font face="Segoe UI">Nghe hấp dẫn đấy chứ.</font>
+
+62
+00:05:42,470 --> 00:05:45,890
+<font face="Segoe UI">Hầm ngục của quái trùm khá là xa đấy.</font>
+
+63
+00:05:45,890 --> 00:05:47,970
+<font face="Segoe UI">Chỉ còn vỏn vẹn 50 phút thôi.</font>
+
+64
+00:05:47,970 --> 00:05:51,350
+<font face="Segoe UI">Chúng ta còn phải mất thời gian
+băng qua hầm ngục nữa.</font>
+
+65
+00:05:51,350 --> 00:05:53,310
+<font face="Segoe UI">E là thời gian sẽ sít sao lắm.</font>
+
+66
+00:05:54,900 --> 00:05:57,860
+<font face="Segoe UI">Đừng có nhìn tớ bằng ánh mắt đó mà! Tớ xin lỗi rồi!</font>
+
+67
+00:05:57,860 --> 00:05:58,740
+<font face="Segoe UI">Không sao.</font>
+
+68
+00:05:59,280 --> 00:06:02,580
+<font face="Segoe UI">Vẫn còn kịp, dù có hơi sát nút một chút.</font>
+
+69
+00:06:17,340 --> 00:06:18,420
+<font face="Segoe UI">Còn bao nhiêu thời gian nữa?</font>
+
+70
+00:06:18,420 --> 00:06:20,130
+<font face="Segoe UI">Ba mươi phút.</font>
+
+71
+00:06:20,670 --> 00:06:24,590
+<font face="Segoe UI">Tớ biết là tớ đã giục các cậu chạy thục mạng, nhưng...</font>
+
+72
+00:06:25,300 --> 00:06:27,430
+<font face="Segoe UI">Liệu chúng ta có còn cơ hội thắng cược
+với nhóm Sugamo không,</font>
+
+73
+00:06:27,430 --> 00:06:30,470
+<font face="Segoe UI">nếu như đã có người
+tiêu diệt quái trùm trước rồi?</font>
+
+74
+00:06:30,470 --> 00:06:32,140
+<font face="Segoe UI">Đừng lo.</font>
+
+75
+00:06:32,140 --> 00:06:33,390
+<font face="Segoe UI">Trong sách hướng dẫn,</font>
+
+76
+00:06:33,390 --> 00:06:35,930
+<font face="Segoe UI">người ta có nói phòng trùm này</font>
+
+77
+00:06:35,940 --> 00:06:37,190
+<font face="Segoe UI">là một "phó bản".</font>
+
+78
+00:06:37,190 --> 00:06:40,990
+<font face="Segoe UI">"Mì ăn liền" á? Ý cậu là chỉ kéo dài
+khoảng ba phút thôi ấy hả?</font>
+
+79
+00:06:42,440 --> 00:06:45,570
+<font face="Segoe UI">Cậu nên về học lại tiểu học đi là vừa.</font>
+
+80
+00:06:45,570 --> 00:06:48,110
+<font face="Segoe UI">Hai đứa mình đều đang học tiểu học mà lị!</font>
+
+81
+00:06:48,120 --> 00:06:50,160
+<font face="Segoe UI">Để tớ giải thích "phó bản" là gì cho nghe.</font>
+
+82
+00:06:50,160 --> 00:06:53,290
+<font face="Segoe UI">Đó là một bản đồ riêng biệt
+mà chỉ có thể được chinh phục</font>
+
+83
+00:06:53,290 --> 00:06:54,580
+<font face="Segoe UI">bởi chính cậu hoặc tổ đội của cậu.</font>
+
+84
+00:06:54,580 --> 00:06:58,750
+<font face="Segoe UI">Trong trường hợp này, ngay khoảnh khắc chúng ta bước qua
+cánh cổng dẫn vào phòng trùm,</font>
+
+85
+00:06:58,750 --> 00:07:01,840
+<font face="Segoe UI">trò chơi sẽ dịch chuyển chúng ta
+tới một bản đồ chuyên biệt.</font>
+
+86
+00:07:01,840 --> 00:07:05,510
+<font face="Segoe UI">Vậy có nghĩa là sẽ luôn có một con trùm</font>
+
+87
+00:07:05,510 --> 00:07:07,090
+<font face="Segoe UI">dành riêng cho mỗi tổ đội tiến vào.</font>
+
+88
+00:07:07,090 --> 00:07:08,340
+<font face="Segoe UI">Chuẩn xác.</font>
+
+89
+00:07:08,350 --> 00:07:10,600
+<font face="Segoe UI">Vậy giờ chúng ta tính sao đây?</font>
+
+90
+00:07:10,600 --> 00:07:13,190
+<font face="Segoe UI">Đừng làm mất thời gian nữa, nói mau đi chứ.</font>
+
+91
+00:07:13,180 --> 00:07:15,270
+<font face="Segoe UI">Cậu đã có kế hoạch khả thi
+để làm được việc này rồi đúng không?</font>
+
+92
+00:07:17,730 --> 00:07:19,770
+<font face="Segoe UI">Cậu định triệu hồi con thỏ đó ra sao?</font>
+
+93
+00:07:21,150 --> 00:07:22,150
+<font face="Segoe UI">Aperta!</font>
+
+94
+00:07:31,990 --> 00:07:34,490
+<font face="Segoe UI">- Trông hơi bé nhỉ.
+- Ừ.</font>
+
+95
+00:07:36,120 --> 00:07:37,620
+<font face="Segoe UI">Dễ...</font>
+
+96
+00:07:37,620 --> 00:07:40,370
+<font face="Segoe UI">Dễ thương quá đi mất!</font>
+
+97
+00:07:40,380 --> 00:07:43,180
+<font face="Segoe UI">Này, nó không phải thú cưng đâu nhé.</font>
+
+98
+00:07:43,880 --> 00:07:46,010
+<font face="Segoe UI">{\an8}ĐẶT TÊN ĐỂ KÍCH HOẠT KỸ NĂNG</font>
+
+99
+00:07:46,010 --> 00:07:47,890
+<font face="Segoe UI">{\an8}Tên á?</font>
+
+100
+00:07:47,890 --> 00:07:50,520
+<font face="Segoe UI">Tớ dở nhất khoản đặt tên đấy.</font>
+
+101
+00:07:50,510 --> 00:07:52,390
+<font face="Segoe UI">Anh Yuu, chúng ta sắp hết giờ rồi đấy.</font>
+
+102
+00:07:57,350 --> 00:07:59,890
+<font face="Segoe UI">Được rồi. Tên mày là Squeak.</font>
+
+103
+00:07:59,900 --> 00:08:02,190
+<font face="Segoe UI">Hả? Squeak á?</font>
+
+104
+00:08:02,190 --> 00:08:04,270
+<font face="Segoe UI">Nghe như tên của một chú cún vậy.</font>
+
+105
+00:08:04,280 --> 00:08:07,830
+<font face="Segoe UI">Squeak, nhận lệnh:
+Dẫn đường cho bọn tao đến nơi sâu nhất của hầm ngục.</font>
+
+106
+00:08:10,910 --> 00:08:12,200
+<font face="Segoe UI">Này, Yuu!</font>
+
+107
+00:08:21,500 --> 00:08:23,290
+<font face="Segoe UI">Giờ nó đang làm cái gì thế kia?</font>
+
+108
+00:08:23,300 --> 00:08:26,550
+<font face="Segoe UI">Đó là kỹ năng Đào Hầm Tìm Kiếm của Squeak.</font>
+
+109
+00:08:26,550 --> 00:08:28,090
+<font face="Segoe UI">Nó có thể tìm kiếm vật phẩm,</font>
+
+110
+00:08:28,090 --> 00:08:30,680
+<font face="Segoe UI">hoặc dẫn đường băng qua hầm ngục.</font>
+
+111
+00:08:31,300 --> 00:08:33,180
+<font face="Segoe UI">Ở những hầm ngục sơ cấp như thế này,</font>
+
+112
+00:08:33,180 --> 00:08:34,390
+<font face="Segoe UI">việc đánh bại quái trùm</font>
+
+113
+00:08:34,390 --> 00:08:37,810
+<font face="Segoe UI">thường sẽ mở luôn lối thoát hiểm
+ngay tại chính vị trí đó.</font>
+
+114
+00:08:37,810 --> 00:08:40,310
+<font face="Segoe UI">Thế nên nếu ra lệnh cho nó dẫn tới điểm tận cùng,</font>
+
+115
+00:08:40,310 --> 00:08:43,690
+<font face="Segoe UI">nó sẽ dẫn thẳng tới phòng trùm đúng không?</font>
+
+116
+00:08:43,690 --> 00:08:47,940
+<font face="Segoe UI">Hóa ra đó là lý do cậu muốn bắt nó à?</font>
+
+117
+00:08:47,950 --> 00:08:50,700
+<font face="Segoe UI">Game là thứ duy nhất trên đời
+mà anh Yuu giỏi đấy.</font>
+
+118
+00:08:50,700 --> 00:08:52,490
+<font face="Segoe UI">Em bỏ chữ "duy nhất" đi thì chết ai à.</font>
+
+119
+00:08:59,710 --> 00:09:02,460
+<font face="Segoe UI">Konken, cậu sợ rồi à?</font>
+
+120
+00:09:02,460 --> 00:09:04,670
+<font face="Segoe UI">Ai mà sợ chứ!</font>
+
+121
+00:09:04,670 --> 00:09:08,130
+<font face="Segoe UI">Tớ chính là Bậc Thầy Hầm Ngục
+của Trường Tiểu học Yukihana đấy nhé!</font>
+
+122
+00:09:08,130 --> 00:09:09,210
+<font face="Segoe UI">Tớ vào đây!</font>
+
+123
+00:09:09,220 --> 00:09:11,260
+<font face="Segoe UI">Cậu phải đi phía sau bọn tớ chứ!</font>
+
+124
+00:09:16,220 --> 00:09:18,140
+<font face="Segoe UI">Khoan đã! Này!</font>
+
+125
+00:09:40,750 --> 00:09:41,920
+<font face="Segoe UI">Squeak, dừng lại.</font>
+
+126
+00:09:46,250 --> 00:09:48,250
+<font face="Segoe UI">Dễ thương quá à!</font>
+
+127
+00:09:49,010 --> 00:09:50,340
+<font face="Segoe UI">Được rồi, được rồi.</font>
+
+128
+00:09:51,300 --> 00:09:52,430
+<font face="Segoe UI">Cảm ơn mày nhé.</font>
+
+129
+00:09:53,760 --> 00:09:55,050
+<font face="Segoe UI">Tao sẽ lại gọi mày sau.</font>
+
+130
+00:09:57,760 --> 00:09:59,430
+<font face="Segoe UI">Clause.</font>
+
+131
+00:10:05,520 --> 00:10:07,810
+<font face="Segoe UI">{\an8}THỎ SỪNG KHỔNG LỒ</font>
+
+132
+00:10:26,500 --> 00:10:29,460
+<font face="Segoe UI">Này! Đợi bọn tớ với, Kondo!</font>
+
+133
+00:10:34,380 --> 00:10:35,840
+<font face="Segoe UI">Sugamo...</font>
+
+134
+00:10:44,770 --> 00:10:46,600
+<font face="Segoe UI">{\an8}CỔ THÀNH:
+ĐẠI ĐỊA ĐẠO DƯỚI LÒNG ĐẤT</font>
+
+135
+00:10:46,610 --> 00:10:48,360
+<font face="Segoe UI">{\an8}Kondo. Phòng trùm...</font>
+
+136
+00:10:48,360 --> 00:10:49,280
+<font face="Segoe UI">LUCIUS</font>
+
+137
+00:10:49,270 --> 00:10:50,190
+<font face="Segoe UI">RIA</font>
+
+138
+00:10:50,190 --> 00:10:52,110
+<font face="Segoe UI">Bọn tôi vào trước đây!</font>
+
+139
+00:10:52,110 --> 00:10:53,030
+<font face="Segoe UI">KAI</font>
+
+140
+00:10:53,030 --> 00:10:57,450
+<font face="Segoe UI">Nghe này, phòng trùm này là một phó... phó gì nhỉ?</font>
+
+141
+00:10:59,280 --> 00:11:00,870
+<font face="Segoe UI">Phó bản!</font>
+
+142
+00:11:01,450 --> 00:11:02,990
+<font face="Segoe UI">Là phó bản đấy!</font>
+
+143
+00:11:03,000 --> 00:11:05,540
+<font face="Segoe UI">Thế nên ai vào trước cũng chẳng quan trọng đâu, Gamo!</font>
+
+144
+00:11:05,540 --> 00:11:09,630
+<font face="Segoe UI">Mỗi đội đều chiến đấu với trùm riêng biệt
+trong không gian của mình!</font>
+
+145
+00:11:09,630 --> 00:11:13,420
+<font face="Segoe UI">Này! Tôi đã bảo cậu đừng có gọi tôi
+bằng cái tên đó từ lâu lắm rồi mà!</font>
+
+146
+00:11:13,420 --> 00:11:16,010
+<font face="Segoe UI">Phải đấy! Biệt danh kỳ quặc gì vậy hả?</font>
+
+147
+00:11:16,010 --> 00:11:19,180
+<font face="Segoe UI">Ở đây phải gọi cậu ấy là Lucius! Hiểu chưa hả?</font>
+
+148
+00:11:19,180 --> 00:11:21,470
+<font face="Segoe UI">Biết rồi, biết rồi. Tớ hiểu rồi, Miso.</font>
+
+149
+00:11:23,140 --> 00:11:25,730
+<font face="Segoe UI">Tôi đã bảo là không được gọi tôi như thế cơ mà!</font>
+
+150
+00:11:28,310 --> 00:11:29,850
+<font face="Segoe UI">Cậu cố tình chọc tức tôi đấy à?</font>
+
+151
+00:11:37,820 --> 00:11:40,070
+<font face="Segoe UI">Cậu định mua đôi này à?</font>
+
+152
+00:11:40,080 --> 00:11:41,710
+<font face="Segoe UI">Đôi này là mẫu mới nhất đấy!</font>
+
+153
+00:11:41,700 --> 00:11:43,490
+<font face="Segoe UI">Tớ vẫn đang phân vân đây.</font>
+
+154
+00:11:44,540 --> 00:11:47,000
+<font face="Segoe UI">Vẫn còn nhiều mẫu khác nữa mà.</font>
+
+155
+00:11:48,750 --> 00:11:51,210
+<font face="Segoe UI">Tớ thấy đôi nào cũng hợp với cậu hết.</font>
+
+156
+00:11:51,210 --> 00:11:53,380
+<font face="Segoe UI">Cậu thấy đôi nào là đẹp nhất?</font>
+
+157
+00:11:54,420 --> 00:11:55,500
+<font face="Segoe UI">Tớ...</font>
+
+158
+00:11:56,470 --> 00:11:59,140
+<font face="Segoe UI">Đôi này...</font>
+
+159
+00:12:00,430 --> 00:12:04,020
+<font face="Segoe UI">Cứ như cậu hiểu biết
+về các nhãn hiệu giày thể thao lắm vậy.</font>
+
+160
+00:12:07,850 --> 00:12:11,980
+<font face="Segoe UI">Tôi phải nhắc cậu bao nhiêu lần nữa đây hả?
+Vào game thì phải gọi tôi là Ria!</font>
+
+161
+00:12:11,980 --> 00:12:15,780
+<font face="Segoe UI">Không, không đâu... tớ không dám thất lễ thế đâu, tiểu thư Misono.</font>
+
+162
+00:12:20,620 --> 00:12:21,950
+<font face="Segoe UI">{\an8}CỔ THÀNH:
+ĐẠI ĐỊA ĐẠO DƯỚI LÒNG ĐẤT</font>
+
+163
+00:12:21,950 --> 00:12:23,290
+<font face="Segoe UI">{\an8}Watamaki.</font>
+
+164
+00:12:25,000 --> 00:12:26,290
+<font face="Segoe UI">SUMIKA</font>
+
+165
+00:12:28,210 --> 00:12:30,050
+<font face="Segoe UI">Sao cậu lại ở trong tổ đội của Gamo vậy?</font>
+
+166
+00:12:33,460 --> 00:12:37,090
+<font face="Segoe UI">Dĩ nhiên là Watamaki phải ở trong đội của tôi rồi.</font>
+
+167
+00:12:38,130 --> 00:12:42,970
+<font face="Segoe UI">Bọn tôi ở cái đẳng cấp hoàn toàn khác biệt
+so với cái nhóm chơi cho vui như các cậu.</font>
+
+168
+00:12:43,640 --> 00:12:46,230
+<font face="Segoe UI">Vậy nên tránh đường ra!</font>
+
+169
+00:12:46,220 --> 00:12:47,680
+<font face="Segoe UI">Đi thôi mọi người!</font>
+
+170
+00:12:48,520 --> 00:12:49,770
+<font face="Segoe UI">Này, đợi đã!</font>
+
+171
+00:12:49,770 --> 00:12:52,110
+<font face="Segoe UI">Không sao đâu. Cứ để họ vào trước đi.</font>
+
+172
+00:12:55,780 --> 00:12:57,950
+<font face="Segoe UI">Chúc các cậu may mắn với chặng đường còn lại nhé!</font>
+
+173
+00:13:02,530 --> 00:13:06,490
+<font face="Segoe UI">Đừng có quên vụ cược
+bánh pudding sô-cô-la đấy nhé, Kondo!</font>
+
+174
+00:13:09,040 --> 00:13:11,380
+<font face="Segoe UI">Thừa thãi năng lượng chỉ để đi chọc tức người khác.</font>
+
+175
+00:13:11,960 --> 00:13:15,510
+<font face="Segoe UI">Thiệt tình, ai lại cứ oang oang
+gọi tên thật người ta như thế bao giờ chứ?</font>
+
+176
+00:13:15,500 --> 00:13:17,460
+<font face="Segoe UI">Khoan, lúc nãy cậu cũng làm thế với tớ còn gì...</font>
+
+177
+00:13:20,300 --> 00:13:22,890
+<font face="Segoe UI">Bỏ qua chuyện đó đi, tiến lên thôi!</font>
+
+178
+00:13:22,890 --> 00:13:26,810
+<font face="Segoe UI">Phải rồi. Chúng ta sẽ tiêu diệt con trùm này
+và thắng vụ cá cược.</font>
+
+179
+00:13:26,810 --> 00:13:27,770
+<font face="Segoe UI">Quyết chiến nào!</font>
+
+180
+00:13:28,930 --> 00:13:31,680
+<font face="Segoe UI">Sao tự dưng lại cố làm ra vẻ ngầu thế?
+Chẳng giống cậu chút nào cả.</font>
+
+181
+00:13:37,440 --> 00:13:39,360
+<font face="Segoe UI">ĐUỐC</font>
+
+182
+00:13:51,080 --> 00:13:53,080
+<font face="Segoe UI">Rồng sao?</font>
+
+183
+00:13:53,080 --> 00:13:55,870
+<font face="Segoe UI">{\an8}Ngay tại hầm ngục đầu tiên này ư?</font>
+
+184
+00:13:55,880 --> 00:13:57,340
+<font face="Segoe UI">{\an8}RỒNG
+PHÒNG TRÙM SỐ 18</font>
+
+185
+00:13:57,340 --> 00:14:01,010
+<font face="Segoe UI">Xuất hiện với tư cách trùm thì cũng không lạ,
+nhưng mà...</font>
+
+186
+00:14:07,100 --> 00:14:09,060
+<font face="Segoe UI">Đòn hơi thở tới kìa! Sawa!</font>
+
+187
+00:14:09,060 --> 00:14:09,890
+<font face="Segoe UI">Rõ rồi ạ!</font>
+
+188
+00:14:10,560 --> 00:14:12,480
+<font face="Segoe UI">Aqua! Murum!</font>
+
+189
+00:14:13,730 --> 00:14:14,980
+<font face="Segoe UI">Ardougne!</font>
+
+190
+00:14:14,980 --> 00:14:16,650
+<font face="Segoe UI">Tường Nước!</font>
+
+191
+00:14:18,230 --> 00:14:20,360
+<font face="Segoe UI">Nagi, cường hóa cho Konken!</font>
+
+192
+00:14:20,360 --> 00:14:21,650
+<font face="Segoe UI">Konken, tấn công!</font>
+
+193
+00:14:24,740 --> 00:14:25,910
+<font face="Segoe UI">Lumen.</font>
+
+194
+00:14:26,490 --> 00:14:27,700
+<font face="Segoe UI">Nubes.</font>
+
+195
+00:14:28,990 --> 00:14:30,370
+<font face="Segoe UI">Fusione...</font>
+
+196
+00:14:31,540 --> 00:14:33,250
+<font face="Segoe UI">Cường Hóa Ánh Sáng!</font>
+
+197
+00:14:42,220 --> 00:14:44,890
+<font face="Segoe UI">Tớ sẽ chặn đòn hơi thở của nó! Xông lên đi, Yuu!</font>
+
+198
+00:14:44,880 --> 00:14:46,170
+<font face="Segoe UI">Được rồi!</font>
+
+199
+00:14:59,400 --> 00:15:00,820
+<font face="Segoe UI">SAWA</font>
+
+200
+00:15:10,120 --> 00:15:11,540
+<font face="Segoe UI">Chúng ta nắm chắc phần thắng rồi!</font>
+
+201
+00:15:11,540 --> 00:15:13,040
+<font face="Segoe UI">RỒNG</font>
+
+202
+00:15:13,040 --> 00:15:15,290
+<font face="Segoe UI">Đòn tấn công của nó không thể đơn giản thế này được.</font>
+
+203
+00:15:15,290 --> 00:15:19,170
+<font face="Segoe UI">Nếu nó không bay lượn, thì vũ khí chính
+khác của loài rồng sẽ là...</font>
+
+204
+00:15:19,170 --> 00:15:20,590
+<font face="Segoe UI">hơi thở, móng vuốt, và...</font>
+
+205
+00:15:22,760 --> 00:15:23,590
+<font face="Segoe UI">Cúi xuống mau!</font>
+
+206
+00:15:29,430 --> 00:15:30,350
+<font face="Segoe UI">Nagi!</font>
+
+207
+00:15:33,680 --> 00:15:37,230
+<font face="Segoe UI">Sawa! Konken, kéo khiêu khích mau! Nagi, yểm trợ tớ!</font>
+
+208
+00:15:37,940 --> 00:15:39,480
+<font face="Segoe UI">Đau quá...</font>
+
+209
+00:15:40,940 --> 00:15:41,940
+<font face="Segoe UI">Sawa!</font>
+
+210
+00:15:41,940 --> 00:15:42,940
+<font face="Segoe UI">Em không sao đâu!</font>
+
+211
+00:15:52,910 --> 00:15:55,160
+<font face="Segoe UI">Em lùi lại phía sau đi. Bọn anh sẽ lo phần còn lại.</font>
+
+212
+00:15:55,160 --> 00:15:57,540
+<font face="Segoe UI">Em đã bảo là em ổn mà!</font>
+
+213
+00:15:57,540 --> 00:15:59,630
+<font face="Segoe UI">Em vẫn còn vật phẩm hồi phục.</font>
+
+214
+00:15:59,630 --> 00:16:00,630
+<font face="Segoe UI">Không được!</font>
+
+215
+00:16:00,630 --> 00:16:02,470
+<font face="Segoe UI">Anh Yuuma?</font>
+
+216
+00:16:05,920 --> 00:16:08,130
+<font face="Segoe UI">Em thật sự không sao đâu mà.</font>
+
+217
+00:16:08,130 --> 00:16:09,170
+<font face="Segoe UI">Đi nào!</font>
+
+218
+00:16:14,890 --> 00:16:16,980
+<font face="Segoe UI">Nhát Chém Phẫn Nộ!</font>
+
+219
+00:16:17,520 --> 00:16:19,480
+<font face="Segoe UI">Tuyệt vời lắm, Lucius!</font>
+
+220
+00:16:19,480 --> 00:16:22,270
+<font face="Segoe UI">Đừng có gạt tôi ra rìa đấy... Tonitrus!</font>
+
+221
+00:16:23,020 --> 00:16:24,270
+<font face="Segoe UI">Sagitta!</font>
+
+222
+00:16:24,940 --> 00:16:25,980
+<font face="Segoe UI">Ignis!</font>
+
+223
+00:16:26,530 --> 00:16:28,070
+<font face="Segoe UI">Mũi Tên Sấm Sét!</font>
+
+224
+00:16:29,280 --> 00:16:31,950
+<font face="Segoe UI">RIA
+LUCIUS</font>
+
+225
+00:16:34,240 --> 00:16:35,990
+<font face="Segoe UI">Cảm ơn nhé, Watamaki!</font>
+
+226
+00:16:36,000 --> 00:16:40,050
+<font face="Segoe UI">Cố lên coi nào, Kai!
+Ít ra cũng phải làm được trò trống gì chứ!</font>
+
+227
+00:16:40,040 --> 00:16:41,250
+<font face="Segoe UI">Rõ rồi!</font>
+
+228
+00:16:44,550 --> 00:16:45,880
+<font face="Segoe UI">Kakeru, đòn hơi thở đấy.</font>
+
+229
+00:16:45,880 --> 00:16:46,840
+<font face="Segoe UI">Rõ!</font>
+
+230
+00:16:56,220 --> 00:16:57,640
+<font face="Segoe UI">Quả nhiên là dai sức thật.</font>
+
+231
+00:16:57,640 --> 00:17:01,770
+<font face="Segoe UI">Lẽ ra chúng ta nên lập tổ đội đông người hơn.</font>
+
+232
+00:17:02,860 --> 00:17:05,280
+<font face="Segoe UI">Chỉ hai đứa mình là đủ sức xử lý rồi.</font>
+
+233
+00:17:05,280 --> 00:17:06,780
+<font face="Segoe UI">Chẳng có gì khó khăn cả.</font>
+
+234
+00:17:07,690 --> 00:17:09,020
+<font face="Segoe UI">Nhất là nếu so với hồi đó.</font>
+
+235
+00:17:10,490 --> 00:17:12,120
+<font face="Segoe UI">Cũng đúng.</font>
+
+236
+00:17:12,120 --> 00:17:13,580
+<font face="Segoe UI">Lên nào, Haruki!</font>
+
+237
+00:17:13,580 --> 00:17:14,790
+<font face="Segoe UI">Ừ!</font>
+
+238
+00:17:26,380 --> 00:17:28,130
+<font face="Segoe UI">Sắp hạ được nó rồi!</font>
+
+239
+00:17:28,880 --> 00:17:30,800
+<font face="Segoe UI">Cả hai người, đồng loạt ra đòn!</font>
+
+240
+00:17:31,300 --> 00:17:33,970
+<font face="Segoe UI">Aqua. Sagitta.</font>
+
+241
+00:17:38,060 --> 00:17:41,230
+<font face="Segoe UI">Ignis. Mũi Tên Nước!</font>
+
+242
+00:17:42,310 --> 00:17:43,140
+<font face="Segoe UI">RỒNG</font>
+
+243
+00:17:57,790 --> 00:17:59,620
+<font face="Segoe UI">Tuyệt vời!</font>
+
+244
+00:17:59,620 --> 00:18:01,460
+<font face="Segoe UI">Chúng ta làm được rồi!</font>
+
+245
+00:18:10,550 --> 00:18:12,470
+<font face="Segoe UI">Bốn phút 33 giây.</font>
+
+246
+00:18:12,970 --> 00:18:14,810
+<font face="Segoe UI">Nhóm của Gamo đời nào đọ lại thời gian đó được!</font>
+
+247
+00:18:15,300 --> 00:18:17,380
+<font face="Segoe UI">Chưa chắc đâu nhé.</font>
+
+248
+00:18:17,390 --> 00:18:20,060
+<font face="Segoe UI">Trang bị của họ trông xịn hơn
+của chúng ta khá nhiều đấy.</font>
+
+249
+00:18:20,060 --> 00:18:24,270
+<font face="Segoe UI">VRMMO không phụ thuộc vào trang bị đâu.
+Kỹ năng mới là tất cả!</font>
+
+250
+00:18:24,810 --> 00:18:27,520
+<font face="Segoe UI">Một tên lính mới tò te mà mở mồm ra nói hay phết.</font>
+
+251
+00:18:27,520 --> 00:18:30,310
+<font face="Segoe UI">Chúng ta cũng mới chỉ chơi được có ba tiếng thôi mà.</font>
+
+252
+00:18:30,320 --> 00:18:34,490
+<font face="Segoe UI">Nhắc mới nhớ,
+đợt chơi thử sắp kết thúc rồi đấy.</font>
+
+253
+00:18:34,490 --> 00:18:37,120
+<font face="Segoe UI">Vậy chúng ta chỉ việc đứng đây chờ hay sao...?</font>
+
+254
+00:18:38,410 --> 00:18:43,290
+<font face="Segoe UI">Lúc phổ biến thông tin,
+họ đâu có nói gì về việc đăng xuất đâu nhỉ.</font>
+
+255
+00:18:44,960 --> 00:18:46,040
+<font face="Segoe UI">BẠN BÈ
+SAWA - NAGI - KONKEN</font>
+
+256
+00:18:46,040 --> 00:18:49,590
+<font face="Segoe UI">Ừ, trong thanh bảng chọn cũng chẳng có nút đăng xuất nào cả.</font>
+
+257
+00:18:50,090 --> 00:18:53,340
+<font face="Segoe UI">Có lẽ là do họ không muốn</font>
+
+258
+00:18:53,340 --> 00:18:55,300
+<font face="Segoe UI">những người chơi thử tự ý đăng xuất giữa chừng thôi.</font>
+
+259
+00:18:55,300 --> 00:18:57,260
+<font face="Segoe UI">Tớ hiểu điều đó, nhưng mà...</font>
+
+260
+00:18:57,260 --> 00:19:00,470
+<font face="Segoe UI">Nhưng vậy nghĩa là chúng ta không có cách nào
+để rời khỏi trò chơi này ư?</font>
+
+261
+00:19:00,470 --> 00:19:04,140
+<font face="Segoe UI">Tức là... chúng ta bị kẹt trong Actual Magic rồi sao?</font>
+
+262
+00:19:04,810 --> 00:19:08,100
+<font face="Segoe UI">Thôi nào, sao chúng mình không thử chờ thêm xem sao?</font>
+
+263
+00:19:08,110 --> 00:19:09,900
+<font face="Segoe UI">Dù sao thì cũng sắp hết giờ rồi.</font>
+
+264
+00:19:13,320 --> 00:19:14,660
+<font face="Segoe UI">Cái quái gì thế này?</font>
+
+265
+00:19:31,550 --> 00:19:32,760
+<font face="Segoe UI">Sawa!</font>
+
+266
+00:19:32,760 --> 00:19:34,220
+<font face="Segoe UI">Anh Yuuma!</font>
+
+267
+00:19:55,450 --> 00:19:56,580
+<font face="Segoe UI"><i>Anh Yuuma!</i></font>
+
+268
+00:20:10,080 --> 00:20:12,040
+<font face="Segoe UI">Sawa, Sawa!</font>
+
+269
+00:20:12,050 --> 00:20:14,010
+<font face="Segoe UI">Sawa, này!</font>
+
+270
+00:20:15,010 --> 00:20:16,800
+<font face="Segoe UI">Yuu, đè chặt vào vết thương mau!</font>
+
+271
+00:20:17,300 --> 00:20:18,180
+<font face="Segoe UI">Yuu!</font>
+
+272
+00:20:24,970 --> 00:20:25,930
+<font face="Segoe UI">Ai đó cứu với...</font>
+
+273
+00:20:33,570 --> 00:20:36,450
+<font face="Segoe UI">Tớ đi gọi thầy cô đây!</font>
+
+274
+00:20:41,070 --> 00:20:42,070
+<font face="Segoe UI">Sawa!</font>
+
+275
+00:20:42,830 --> 00:20:44,830
+<font face="Segoe UI">Anh Yuuma...</font>
+
+276
+00:20:45,410 --> 00:20:49,000
+<font face="Segoe UI">Sawa! Anh xin lỗi. Anh xin lỗi em!</font>
+
+277
+00:20:49,670 --> 00:20:50,960
+<font face="Segoe UI">Anh xin lỗi.</font>
+
+278
+00:20:51,580 --> 00:20:53,040
+<font face="Segoe UI">Anh thật lòng xin lỗi em!</font>
+
+279
+00:20:56,170 --> 00:20:57,460
+<font face="Segoe UI">Mình đang ở đâu thế này?</font>
+
+280
+00:21:09,230 --> 00:21:10,360
+<font face="Segoe UI">Sawa...</font>
+
+281
+00:21:19,450 --> 00:21:21,450
+<font face="Segoe UI">Mùi gì thế này?</font>
+
+282
+00:21:30,040 --> 00:21:30,870
+<font face="Segoe UI">Sawa?</font>
+
+283
+00:21:47,220 --> 00:21:49,720
+<font face="Segoe UI">Watamaki?</font>
+
+284
+00:23:27,990 --> 00:23:28,910
+<font face="Segoe UI">BIẾN DỊ</font>
+
+285
+00:23:28,910 --> 00:23:29,910
+<font face="Segoe UI"><i>Đừng giết cậu ấy!</i></font>
+
+286
+00:23:29,910 --> 00:23:31,080
+<font face="Segoe UI"><i>Đang tìm kiếm thứ gì à?</i></font>
+
+287
+00:23:31,080 --> 00:23:32,210
+<font face="Segoe UI"><i>Cậu đang nói cái gì vậy?</i></font>
+
+288
+00:23:32,200 --> 00:23:35,240
+<font face="Segoe UI"><i>Cho đến tận vừa rồi, nó còn không thể mở ra
+từ cả hai phía.</i></font>
+
+289
+00:23:35,250 --> 00:23:36,710
+<font face="Segoe UI"><i>Bên tôi cũng như thế.</i></font>
+
+290
+00:23:36,710 --> 00:23:38,250
+<font face="Segoe UI"><i>Không thể nào có chuyện đó được!</i></font>
+
+291
+00:23:38,250 --> 00:23:39,920
+<font face="Segoe UI"><i>Hiện thực chỉ toàn một màu đen kịt.</i></font>
+
+292
+00:23:40,800 --> 00:23:43,010
+<font face="Segoe UI"><i>Đang làm cái trò gì thế hả, đồ óc bã đậu?</i></font>
+
+293
+00:23:43,010 --> 00:23:45,010
+<font face="Segoe UI">Phụ đề tiếng Việt bởi Amtia(NOFACE)</font>
+
