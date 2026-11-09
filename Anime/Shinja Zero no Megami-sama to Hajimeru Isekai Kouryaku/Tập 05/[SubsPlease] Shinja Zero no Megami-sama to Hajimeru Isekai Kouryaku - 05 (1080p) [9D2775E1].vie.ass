@@ -1,0 +1,452 @@
+﻿[Script Info]
+Title: Vietnamese Fansub (VietSub by Amtia(NOFACE))
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 640
+PlayResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: top,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: italics,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: italicstop,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: flashback,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashback italics,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashbacktop,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: flashbackitalicstop,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: overlap,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: overlaptop,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: overlap italics,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: main,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.98,0:00:04.81,Default,Lucy,0,0,0,,Tớ lỡ uống hơi quá chén rồi.
+Dialogue: 0,0:00:04.81,0:00:06.32,Default,Lucy,0,0,0,,Đầu tớ đau như búa bổ ấy.
+Dialogue: 0,0:00:06.32,0:00:06.98,Default,Lucy,0,0,0,,Ợ...
+Dialogue: 0,0:00:07.50,0:00:09.73,flashback,Both,0,0,0,,Hoan hô!
+Dialogue: 0,0:00:10.10,0:00:10.88,Default,Makoto,0,0,0,,Cậu tính sao đây?
+Dialogue: 0,0:00:10.88,0:00:12.11,Default,Makoto,0,0,0,,Hôm nay nghỉ ngơi nhé?
+Dialogue: 0,0:00:12.59,0:00:13.73,Default,Lucy,0,0,0,,Tớ không sao đâu mà.
+Dialogue: 0,0:00:13.73,0:00:14.61,Default,Lucy,0,0,0,,Tớ sẽ đi cùng.
+Dialogue: 0,0:00:14.98,0:00:16.27,Default,Lucy,0,0,0,,Ọe.
+Dialogue: 0,0:00:16.27,0:00:17.74,Default,Makoto,0,0,0,,Cậu không cần phải gượng ép bản thân thế đâu.
+Dialogue: 0,0:00:17.74,0:00:19.16,Default,Lucy,0,0,0,,Không đời nào!
+Dialogue: 0,0:00:19.16,0:00:21.79,Default,Lucy,0,0,0,,Lỡ cậu lập tổ đội với Nina và cái gã kia rồi thấy vui hơn,\Nxong bỏ rơi tớ luôn thì sao chứ!
+Dialogue: 0,0:00:21.79,0:00:24.47,Default,Lucy,0,0,0,,và sau đó bỏ rơi tớ thì sao!
+Dialogue: 0,0:00:26.59,0:00:28.55,Default,Makoto,0,0,0,,Tớ đâu có làm thế đâu.
+Dialogue: 0,0:00:30.49,0:00:33.01,Default,Makoto,0,0,0,,Trông nó hệt như một hang động bình thường vậy.
+Dialogue: 0,0:00:33.01,0:00:35.38,Default,Fujiyan,0,0,0,,Tôi đã tìm hiểu sơ bộ trước rồi.
+Dialogue: 0,0:00:35.38,0:00:38.75,Default,Fujiyan,0,0,0,,Nơi này dường như là một mê cung nhân tạo.
+Dialogue: 0,0:00:38.75,0:00:43.77,Default,Nina,0,0,0,,Có lẽ một ma pháp sư thời xa xưa nào đó\Nđã dùng nơi này làm cơ sở nghiên cứu hay đại loại thế.
+Dialogue: 0,0:00:44.02,0:00:47.12,Default,Nina,0,0,0,,Bây giờ thì trông như đã bị bỏ hoang rồi.
+Dialogue: 0,0:00:47.12,0:00:48.27,Default,Makoto,0,0,0,,Hừm.
+Dialogue: 0,0:00:49.08,0:00:50.99,Default,Fujiyan,0,0,0,,Chúng ta vào trong thôi nào!
+Dialogue: 0,0:02:21.99,0:02:26.12,top,Screen,0,0,0,,TẬP 5\NTAKATSUKI MAKOTO\NTHÁM HIỂM MÊ CUNG
+Dialogue: 0,0:02:23.01,0:02:26.12,Default,Fujiyan,0,0,0,,Ồ, nơi này tuyệt mỹ thật đấy.
+Dialogue: 0,0:02:26.12,0:02:29.00,Default,Fujiyan,0,0,0,,Hiếm khi thấy một mê cung nào như thế này.
+Dialogue: 0,0:02:29.49,0:02:32.58,italics,MakotoM,0,0,0,,Mình cứ ngỡ mê cung phải u ám rùng rợn hơn nhiều chứ.
+Dialogue: 0,0:02:33.49,0:02:34.23,Default,Makoto,0,0,0,,Ô kìa!
+Dialogue: 0,0:02:35.00,0:02:36.55,Default,Lucy,0,0,0,,Là một rương kho báu!
+Dialogue: 0,0:02:36.55,0:02:37.26,Default,Fujiyan,0,0,0,,Oái!
+Dialogue: 0,0:02:37.26,0:02:40.49,Default,Fujiyan,0,0,0,,Lucy-dono! Coi chừng có cạm bẫy đấy!
+Dialogue: 0,0:02:44.39,0:02:45.92,Default,Lucy,0,0,0,,Trông có vẻ an toàn mà.
+Dialogue: 0,0:02:47.34,0:02:48.14,Default,Lucy,0,0,0,,Oa!
+Dialogue: 0,0:02:48.57,0:02:49.92,Default,Lucy,0,0,0,,Đẹp lộng lẫy quá đi!
+Dialogue: 0,0:02:49.92,0:02:51.89,Default,Lucy,0,0,0,,Thứ này chắc bán được giá lắm đây đúng không?
+Dialogue: 0,0:02:52.40,0:02:53.06,Default,Lucy,0,0,0,,Hở?
+Dialogue: 0,0:02:57.06,0:02:58.65,Default,Nina,0,0,0,,Kẻ địch đang tiếp cận.
+Dialogue: 0,0:02:59.36,0:03:01.16,Default,Lucy,0,0,0,,Là Golem Gỗ!
+Dialogue: 0,0:03:01.42,0:03:03.10,Default,Lucy,0,0,0,,Gỗ thì sẽ bắt lửa!
+Dialogue: 0,0:03:03.10,0:03:04.00,Default,Lucy,0,0,0,,Đến lượt tớ rồi!
+Dialogue: 0,0:03:04.00,0:03:05.72,Default,Makoto,0,0,0,,Này! Đừng có dùng ở trong này chứ!
+Dialogue: 0,0:03:05.72,0:03:06.91,Default,Lucy,0,0,0,,Hả?!
+Dialogue: 0,0:03:06.91,0:03:08.11,Default,Lucy,0,0,0,,Tại sao lại không được cơ chứ?!
+Dialogue: 0,0:03:08.11,0:03:11.20,Default,Makoto,0,0,0,,Nếu cậu thi triển ma thuật lửa ở đây,\Ntất cả chúng ta sẽ lại bị bỏng nặng cho mà xem!
+Dialogue: 0,0:03:12.04,0:03:13.74,Default,Nina,0,0,0,,Em lên đây ạ!
+Dialogue: 0,0:03:13.74,0:03:15.42,Default,Fujiyan,0,0,0,,Trông cậy cả vào cô đấy, Nina-dono!
+Dialogue: 0,0:03:20.05,0:03:21.11,Default,Makoto,0,0,0,,Tay không sao?
+Dialogue: 0,0:03:21.11,0:03:23.18,Default,Fujiyan,0,0,0,,Nina-dono vốn là một võ sư mà.
+Dialogue: 0,0:03:28.93,0:03:30.68,Default,Lucy,0,0,0,,Nina đỉnh thật đấy.
+Dialogue: 0,0:03:43.12,0:03:44.20,Default,Makoto,0,0,0,,Ma thuật Đất sao?
+Dialogue: 0,0:03:50.62,0:03:51.71,Default,Makoto,0,0,0,,Cô ấy sở hữu...
+Dialogue: 0,0:03:52.28,0:03:54.51,Default,Makoto,0,0,0,,năng lực của mạo hiểm giả Hạng Bạc sao?
+Dialogue: 0,0:03:56.10,0:03:58.84,Default,Makoto,0,0,0,,Hóa ra Nina-san cũng có thể dùng ma thuật\Nmà không cần niệm chú nhỉ?
+Dialogue: 0,0:03:58.84,0:03:59.90,Default,Fujiyan,0,0,0,,Không phải đâu, không phải đâu.
+Dialogue: 0,0:03:59.90,0:04:03.32,Default,Fujiyan,0,0,0,,Đó không phải ma pháp thông thường, mà là một kỹ thuật ma đấu thuật.
+Dialogue: 0,0:04:03.32,0:04:03.84,Default,Makoto,0,0,0,,Sao cơ?
+Dialogue: 0,0:04:04.29,0:04:08.92,Default,Fujiyan,0,0,0,,Học các kỹ thuật kết hợp tấn công vật lý và ma thuật\Nkhó hơn rất nhiều
+Dialogue: 0,0:04:08.92,0:04:11.10,Default,Fujiyan,0,0,0,,so với việc học các câu thần chú thông thường đấy.
+Dialogue: 0,0:04:12.02,0:04:14.05,Default,Nina,0,0,0,,Xong xuôi hết rồi ạ.
+Dialogue: 0,0:04:16.16,0:04:19.86,Default,MakotoM,0,0,0,,Golem, lại golem, toàn là golem...
+Dialogue: 0,0:04:20.53,0:04:22.56,Default,Makoto,0,0,0,,Toàn bộ đều là golem hết.
+Dialogue: 0,0:04:22.56,0:04:23.50,Default,Lucy,0,0,0,,Ừ.
+Dialogue: 0,0:04:26.37,0:04:28.58,Default,Makoto,0,0,0,,Có một con quái vật rất mạnh ở phía sâu bên kia!
+Dialogue: 0,0:04:33.71,0:04:34.75,Default,Makoto,0,0,0,,Nó ở đằng kia kìa.
+Dialogue: 0,0:04:35.62,0:04:36.75,Default,Lucy,0,0,0,,Là một con Chimera!
+Dialogue: 0,0:04:36.75,0:04:38.01,Default,Nina,0,0,0,,Đúng là nó rồi.
+Dialogue: 0,0:04:38.01,0:04:40.13,Default,Nina,0,0,0,,Chúng ta có nên thử chiến đấu với nó không ạ?
+Dialogue: 0,0:04:40.13,0:04:42.01,Default,Fujiyan,0,0,0,,Khoan đã, hãy đợi một chút.
+Dialogue: 0,0:04:42.28,0:04:45.26,Default,Fujiyan,0,0,0,,Trước tiên, tôi sẽ dùng kỹ năng Giám Định.
+Dialogue: 0,0:04:45.80,0:04:47.11,Default,Fujiyan,0,0,0,,Ừm...
+Dialogue: 0,0:04:47.11,0:04:49.34,Default,Fujiyan,0,0,0,,Tôi có thể xác nhận nó chính là Chimera.
+Dialogue: 0,0:04:49.34,0:04:51.02,Default,Fujiyan,0,0,0,,Có vẻ như nó có điểm yếu là lửa.
+Dialogue: 0,0:04:51.39,0:04:53.89,Default,Lucy,0,0,0,,Vậy thì đây chính là lúc để tớ tỏa sáng rồi!
+Dialogue: 0,0:04:52.61,0:04:53.89,top,Fujiyan,0,0,0,,Xin hãy đợi một chút đã nào!
+Dialogue: 0,0:04:54.48,0:04:55.89,Default,Lucy,0,0,0,,Lại chuyện gì nữa thế hả?!
+Dialogue: 0,0:04:56.58,0:04:59.68,Default,Fujiyan,0,0,0,,Thông tin ghi rằng nó được tạo ra\Nvào năm thứ 10 Trước Cứu Thế (Thần Lịch).
+Dialogue: 0,0:04:59.68,0:05:03.32,Default,Fujiyan,0,0,0,,Nói cách khác, con Chimera này\Nđã được tạo ra từ hơn một ngàn năm trước rồi đấy.
+Dialogue: 0,0:05:03.32,0:05:03.97,Default,Both,0,0,0,,Hả?!
+Dialogue: 0,0:05:03.97,0:05:04.90,Default,Lucy,0,0,0,,Thật thế sao?!
+Dialogue: 0,0:05:04.90,0:05:06.87,Default,Nina,0,0,0,,Suýt chút nữa thì nguy rồi.
+Dialogue: 0,0:05:06.87,0:05:08.95,Default,Lucy,0,0,0,,Trông nó cũng chẳng khác gì những con khác mà.
+Dialogue: 0,0:05:08.95,0:05:10.16,Default,Makoto,0,0,0,,Ý cậu là sao cơ?
+Dialogue: 0,0:05:10.77,0:05:12.37,Default,Nina,0,0,0,,Quái vật thời bấy giờ
+Dialogue: 0,0:05:12.37,0:05:14.70,Default,Nina,0,0,0,,đều chịu ảnh hưởng từ Đại Ma Vương,
+Dialogue: 0,0:05:14.70,0:05:17.88,Default,Nina,0,0,0,,khiến chúng mạnh mẽ và hung bạo hơn\Nquái vật thời nay rất nhiều.
+Dialogue: 0,0:05:18.70,0:05:22.55,Default,Lucy,0,0,0,,Rất nhiều mạo hiểm giả kỳ cựu từng khiêu chiến những con quái\Nmà họ cứ ngỡ là quái vật thông thường,
+Dialogue: 0,0:05:22.55,0:05:24.84,Default,Lucy,0,0,0,,để rồi bị tiêu diệt sạch không còn một manh giáp.
+Dialogue: 0,0:05:25.86,0:05:26.51,Default,Lucy,0,0,0,,Tuy nhiên!
+Dialogue: 0,0:05:26.51,0:05:29.75,Default,Lucy,0,0,0,,Tớ và Nina sẽ bảo vệ an toàn cho mọi người!
+Dialogue: 0,0:05:31.12,0:05:32.87,Default,Nina,0,0,0,,Hơn nữa, những con quái vật như thế này
+Dialogue: 0,0:05:32.87,0:05:35.93,Default,Nina,0,0,0,,thường không thể di chuyển quá xa khỏi cánh cổng mà chúng canh giữ.
+Dialogue: 0,0:05:36.49,0:05:39.69,Default,Nina,0,0,0,,Nếu sau khi giao chiến một lúc mà thấy không thể thắng được,\Nthì chúng ta lập tức rút lui ngay!
+Dialogue: 0,0:05:39.97,0:05:40.83,Default,Fujiyan,0,0,0,,Đúng vậy.
+Dialogue: 0,0:05:40.83,0:05:44.91,Default,Fujiyan,0,0,0,,Nếu tình thế nguy cấp, chúng ta có thể dùng vật phẩm Thẻ Tẩu Thoát của tôi.
+Dialogue: 0,0:05:44.91,0:05:46.57,Default,Makoto,0,0,0,,Nghe hợp lý đấy. Làm thôi nào.
+Dialogue: 0,0:05:51.00,0:05:53.08,Default,Makoto,0,0,0,,Tôi sẽ hỗ trợ Nina-san.
+Dialogue: 0,0:05:53.41,0:05:55.91,Default,Makoto,0,0,0,,Lucy, trông cậy vào đoạn niệm chú ma thuật lửa của cậu đấy.
+Dialogue: 0,0:05:55.91,0:05:57.30,Default,Lucy,0,0,0,,Được rồi.
+Dialogue: 0,0:05:57.30,0:06:01.59,Default,Lucy,0,0,0,,Hỡi Nữ thần Sol, Đấng bảo hộ sinh mệnh cai quản ngọn lửa thiêng...
+Dialogue: 0,0:05:57.30,0:05:59.58,top,Nina,0,0,0,,Vậy thì em sẽ tấn công trước.
+Dialogue: 0,0:06:00.08,0:06:01.59,top,Nina,0,0,0,,Em lên đây ạ!
+Dialogue: 0,0:06:13.88,0:06:14.89,Default,MakotoM,0,0,0,,Được rồi!
+Dialogue: 0,0:06:14.89,0:06:16.26,Default,MakotoM,0,0,0,,Chỉ cần bấy nhiêu là đủ rồi.
+Dialogue: 0,0:06:16.84,0:06:18.14,Default,MakotoM,0,0,0,,Thủy Ma Thuật:
+Dialogue: 0,0:06:18.14,0:06:19.40,Default,MakotoM,0,0,0,,Băng Tiễn (Ice Arrow)!
+Dialogue: 0,0:06:21.89,0:06:23.02,Default,Makoto,0,0,0,,Không ăn thua sao?
+Dialogue: 0,0:06:23.02,0:06:24.15,Default,Nina,0,0,0,,Một lần nữa nào!
+Dialogue: 0,0:06:32.16,0:06:35.31,Default,Nina,0,0,0,,Nó gần như chẳng hề hấn gì\Nsau ngần ấy đòn tấn công.
+Dialogue: 0,0:06:35.31,0:06:36.91,Default,Nina,0,0,0,,Mày cũng cứng đầu đấy nhỉ?
+Dialogue: 0,0:06:37.68,0:06:38.66,Default,Makoto,0,0,0,,Giờ làm sao đây?
+Dialogue: 0,0:06:38.66,0:06:40.53,Default,Nina,0,0,0,,Cậu có muốn tấn công thêm lần nữa không?
+Dialogue: 0,0:06:40.53,0:06:42.59,Default,Nina,0,0,0,,Hãy thử tấn công đồng thời xem sao.
+Dialogue: 0,0:06:42.59,0:06:43.22,Default,Makoto,0,0,0,,Được.
+Dialogue: 0,0:06:44.09,0:06:46.00,Default,Nina,0,0,0,,Xin hãy nhắm vào đầu của nó!
+Dialogue: 0,0:06:46.00,0:06:47.17,Default,Makoto,0,0,0,,Rõ rồi!
+Dialogue: 0,0:06:47.17,0:06:49.73,Default,Makoto,0,0,0,,Thủy Ma Thuật: Băng Đạn (Ice Bullet)!
+Dialogue: 0,0:06:58.75,0:06:59.81,Default,Makoto,0,0,0,,Trúng chưa vậy?
+Dialogue: 0,0:07:07.42,0:07:09.23,Default,Nina,0,0,0,,Chắc là chưa rồi.
+Dialogue: 0,0:07:09.23,0:07:10.32,Default,Makoto,0,0,0,,Ừ.
+Dialogue: 0,0:07:10.59,0:07:12.08,Default,Lucy,0,0,0,,Tới lượt tớ đây!
+Dialogue: 0,0:07:13.12,0:07:14.64,Default,Makoto,0,0,0,,Trông cậy cả vào cậu đấy, Lucy!
+Dialogue: 0,0:07:14.64,0:07:15.83,Default,Lucy,0,0,0,,Cứ giao cho tớ!
+Dialogue: 0,0:07:16.10,0:07:19.08,Default,Lucy,0,0,0,,Hỏa Cầu (Fireball)!
+Dialogue: 0,0:07:24.53,0:07:26.05,Default,Makoto,0,0,0,,Tạm thời lùi lại đã nào!
+Dialogue: 0,0:07:28.59,0:07:30.23,Default,Nina,0,0,0,,Bây giờ chúng ta phải làm gì đây?
+Dialogue: 0,0:07:30.23,0:07:33.34,Default,Fujiyan,0,0,0,,Tôi không nghĩ chúng ta có thể tiến xa hơn\Nvới tình hình này đâu.
+Dialogue: 0,0:07:33.62,0:07:34.77,Default,Makoto,0,0,0,,Hừm...
+Dialogue: 0,0:07:34.77,0:07:38.10,Default,Makoto,0,0,0,,Nhưng con Chimera đó không hề tấn công\Ncho đến khi chúng ta khiêu khích nó.
+Dialogue: 0,0:07:38.48,0:07:41.61,Default,Nina,0,0,0,,Tôi nghĩ chúng ta sẽ ổn chừng nào không tiến lại quá gần.
+Dialogue: 0,0:07:41.61,0:07:45.86,Default,Makoto,0,0,0,,Trong trường hợp đó, ma thuật của Lucy sẽ mang tính quyết định.
+Dialogue: 0,0:07:46.35,0:07:47.27,Default,Makoto,0,0,0,,Được rồi.
+Dialogue: 0,0:07:47.27,0:07:49.23,Default,Makoto,0,0,0,,Tôi sẽ chắn tầm nhìn của con Chimera,
+Dialogue: 0,0:07:49.23,0:07:50.97,Default,Makoto,0,0,0,,để cô thu hút sự chú ý của nó nhé, Nina.
+Dialogue: 0,0:07:50.97,0:07:52.36,Default,Nina,0,0,0,,Tôi hiểu rồi.
+Dialogue: 0,0:07:52.81,0:07:54.87,Default,Makoto,0,0,0,,Lucy, cậu có thể tung thêm một đòn nữa không?
+Dialogue: 0,0:07:55.28,0:07:56.87,Default,Lucy,0,0,0,,Đ-Được chứ.
+Dialogue: 0,0:07:57.44,0:07:59.37,Default,Makoto,0,0,0,,Fujiyan, chuẩn bị sẵn sàng đi.
+Dialogue: 0,0:07:59.37,0:08:00.89,Default,Fujiyan,0,0,0,,Cậu định dùng thứ đó luôn sao?
+Dialogue: 0,0:08:00.89,0:08:01.62,Default,Makoto,0,0,0,,Ừ!
+Dialogue: 0,0:08:01.90,0:08:03.28,Default,Lucy,0,0,0,,Dùng thứ gì cơ?
+Dialogue: 0,0:08:03.28,0:08:05.58,Default,Fujiyan,0,0,0,,Kho Chứa Đồ: Xuất Ra (Storage: Withdraw)!
+Dialogue: 0,0:08:14.56,0:08:15.27,Default,Lucy,0,0,0,,Hở?!
+Dialogue: 0,0:08:15.91,0:08:20.27,Default,Makoto,0,0,0,,Tôi đã nhờ Fujiyan mang theo một lượng nước khổng lồ\Nbằng kỹ năng Kho Chứa Đồ của cậu ấy.
+Dialogue: 0,0:08:20.69,0:08:21.87,Default,Lucy,0,0,0,,Nhiều thế này luôn á?!
+Dialogue: 0,0:08:21.87,0:08:23.02,Default,Lucy,0,0,0,,Tuyệt vời quá!
+Dialogue: 0,0:08:23.44,0:08:25.45,Default,Makoto,0,0,0,,Lucy, trông cậy cả vào cậu đấy.
+Dialogue: 0,0:08:25.45,0:08:27.02,Default,Lucy,0,0,0,,Ừ-Ừm.
+Dialogue: 0,0:08:27.02,0:08:30.00,Default,Lucy,0,0,0,,Mặc dù có khi tớ lại bắn trượt nữa thì sao.
+Dialogue: 0,0:08:30.00,0:08:31.44,Default,Makoto,0,0,0,,Tớ sẽ hỗ trợ cậu.
+Dialogue: 0,0:08:31.44,0:08:32.99,Default,Makoto,0,0,0,,Hãy tung hết sức mình đi!
+Dialogue: 0,0:08:35.76,0:08:36.95,Default,Lucy,0,0,0,,Được rồi!
+Dialogue: 0,0:08:38.03,0:08:40.04,Default,Nina,0,0,0,,Vậy thì xông lên nào!
+Dialogue: 0,0:08:41.09,0:08:43.70,Default,Makoto,0,0,0,,Thủy Ma Thuật: Màn Sương (Fog)!
+Dialogue: 0,0:09:00.17,0:09:01.18,Default,Makoto,0,0,0,,Lucy!
+Dialogue: 0,0:09:01.18,0:09:03.23,Default,Lucy,0,0,0,,Hỏa Tiễn (Fire Arrow)!
+Dialogue: 0,0:09:05.06,0:09:06.31,Default,Makoto,0,0,0,,Thủy Ma Thuật...
+Dialogue: 0,0:09:07.91,0:09:08.69,Default,Lucy,0,0,0,,Lại nữa sao?!
+Dialogue: 0,0:09:08.99,0:09:09.94,Default,Makoto,0,0,0,,Dòng Chảy (Flow)!
+Dialogue: 0,0:09:17.20,0:09:20.54,Default,Nina,0,0,0,,Thổ Ma Thuật: Cự Thạch (Huge Rock)!
+Dialogue: 0,0:09:21.95,0:09:23.95,Default,Nina,0,0,0,,Bắn!
+Dialogue: 0,0:09:42.47,0:09:43.97,Default,Lucy,0,0,0,,Chúng ta làm được rồi!
+Dialogue: 0,0:09:44.22,0:09:46.52,Default,Lucy,0,0,0,,Thắng rồi! Thắng rồi!
+Dialogue: 0,0:09:50.64,0:09:52.73,Default,Lucy,0,0,0,,Căn phòng này rộng thênh thang ghê.
+Dialogue: 0,0:09:52.98,0:09:55.74,Default,Fujiyan,0,0,0,,Nơi này dường như là phòng cung cấp năng lượng chính.
+Dialogue: 0,0:09:56.30,0:09:58.48,Default,Makoto,0,0,0,,Thứ duy nhất ở đây chỉ có tảng đá này thôi.
+Dialogue: 0,0:09:58.48,0:10:00.99,Default,Nina,0,0,0,,Đây là nguồn năng lượng chính sao ạ?
+Dialogue: 0,0:10:00.99,0:10:01.92,Default,Fujiyan,0,0,0,,Đúng vậy.
+Dialogue: 0,0:10:01.92,0:10:05.47,Default,Fujiyan,0,0,0,,Nghĩa là nó phải tích trữ một lượng năng lượng khổng lồ.
+Dialogue: 0,0:10:05.47,0:10:08.74,Default,Fujiyan,0,0,0,,Dù sao thì nó cũng đã cung cấp năng lượng cho cả mê cung\Nsuốt hơn một ngàn năm qua cơ mà.
+Dialogue: 0,0:10:08.74,0:10:10.00,Default,Lucy,0,0,0,,Chà.
+Dialogue: 0,0:10:11.36,0:10:14.22,Default,Lucy,0,0,0,,Ôi, nó làm tớ bị giật mình này.
+Dialogue: 0,0:10:14.22,0:10:16.88,Default,Makoto,0,0,0,,Lucy, tốt nhất là đừng có tùy tiện chạm vào nó.
+Dialogue: 0,0:10:17.38,0:10:19.26,Default,Fujiyan,0,0,0,,Trước tiên, tôi sẽ giám định nó xem sao.
+Dialogue: 0,0:10:20.42,0:10:22.08,Default,Fujiyan,0,0,0,,Thật không thể tin nổi!
+Dialogue: 0,0:10:22.08,0:10:26.02,Default,Fujiyan,0,0,0,,Thứ này có thể tạo ra toàn bộ năng lượng\Nmà cả thành phố Macallan cần đấy!
+Dialogue: 0,0:10:26.02,0:10:29.90,Default,Fujiyan,0,0,0,,Chưa kể, tảng đá tự nhiên khổng lồ này thực chất...
+Dialogue: 0,0:10:33.02,0:10:34.78,Default,Makoto,0,0,0,,Ủa sao tảng đá lại cử động thế kia?!
+Dialogue: 0,0:10:43.58,0:10:45.04,Default,Lucy,0,0,0,,M-Một tên khổng lồ sao?!
+Dialogue: 0,0:10:46.23,0:10:49.31,italicstop,MakotoM,0,0,0,,Tình hình nguy to rồi đây.
+Dialogue: 0,0:10:51.10,0:10:52.69,Default,Titanea,0,0,0,,Hỡi lũ con cái loài người...
+Dialogue: 0,0:10:53.34,0:10:57.01,Default,Titanea,0,0,0,,Kẻ nào đã giải trừ phong ấn cho ta?
+Dialogue: 0,0:10:57.70,0:10:58.51,Default,Makoto,0,0,0,,Hả?
+Dialogue: 0,0:10:59.51,0:11:01.72,Default,Fujiyan,0,0,0,,Là tôi.
+Dialogue: 0,0:11:02.51,0:11:06.00,Default,Fujiyan,0,0,0,,Tôi vừa dùng kỹ năng Giám Định lên người ngài.
+Dialogue: 0,0:11:06.00,0:11:09.52,Default,Titanea,0,0,0,,Ta vốn bị phong ấn hóa đá.
+Dialogue: 0,0:11:10.00,0:11:14.06,Default,Titanea,0,0,0,,Mắt trần của người phàm không thể nào nhìn thấu\Nphong ấn đã ngự trên thân ta.
+Dialogue: 0,0:11:14.62,0:11:18.24,Default,Titanea,0,0,0,,Ngươi phải có Thần Nhãn (Divine Eye)\Nnhìn thấu sự ngụy trang của các vị thần.
+Dialogue: 0,0:11:18.24,0:11:19.73,Default,Makoto,0,0,0,,Thần Nhãn sao?
+Dialogue: 0,0:11:19.73,0:11:21.53,Default,Makoto,0,0,0,,Cậu sở hữu kỹ năng đó sao hả Fujiyan?
+Dialogue: 0,0:11:22.03,0:11:25.03,Default,Fujiyan,0,0,0,,Không không, tôi đâu có sở hữu thứ gì như thế đâu.
+Dialogue: 0,0:11:25.03,0:11:27.00,Default,Titanea,0,0,0,,Ta hiểu rồi.
+Dialogue: 0,0:11:27.00,0:11:30.41,Default,Titanea,0,0,0,,Dù sao đi nữa, các ngươi cũng đã giải trừ phong ấn.
+Dialogue: 0,0:11:31.44,0:11:32.50,Default,Titanea,0,0,0,,Thật kỳ lạ.
+Dialogue: 0,0:11:32.50,0:11:35.05,Default,Titanea,0,0,0,,Ta cảm nhận được ý chí của ai đó đứng sau chuyện này.
+Dialogue: 0,0:11:36.62,0:11:38.30,Default,Titanea,0,0,0,,Giờ thì ta đói bụng rồi.
+Dialogue: 0,0:11:39.14,0:11:40.05,Default,Makoto,0,0,0,,Chạy mau!
+Dialogue: 0,0:11:40.86,0:11:42.30,Default,Titanea,0,0,0,,Các ngươi định đi đâu thế hả?
+Dialogue: 0,0:11:42.30,0:11:43.30,Default,Makoto,0,0,0,,Nguy hiểm quá rồi!
+Dialogue: 0,0:11:43.54,0:11:45.55,Default,Nina,0,0,0,,Chủ nhân, xin hãy chạy mau!
+Dialogue: 0,0:11:46.00,0:11:47.06,Default,Fujiyan,0,0,0,,Nina-dono!
+Dialogue: 0,0:11:57.23,0:11:58.57,Default,Fujiyan,0,0,0,,Nina-dono!
+Dialogue: 0,0:11:58.89,0:12:00.36,Default,Fujiyan,0,0,0,,Nina-dono, ráng gượng lên!
+Dialogue: 0,0:12:00.36,0:12:01.05,Default,Makoto,0,0,0,,Lucy!
+Dialogue: 0,0:12:01.05,0:12:02.40,Default,Makoto,0,0,0,,Tớ sẽ câu giờ cho cậu!
+Dialogue: 0,0:12:02.40,0:12:03.17,Default,Makoto,0,0,0,,Mau bắt đầu niệm chú đi!
+Dialogue: 0,0:12:03.17,0:12:04.07,Default,Lucy,0,0,0,,Tớ rõ rồi!
+Dialogue: 0,0:12:04.07,0:12:08.58,Default,Lucy,0,0,0,,Hỡi Nữ thần Sol, Đấng bảo hộ sinh mệnh cai quản ngọn lửa thiêng,
+Dialogue: 0,0:12:08.58,0:12:10.58,Default,Lucy,0,0,0,,hôm nay là ngày khởi đầu,
+Dialogue: 0,0:12:10.58,0:12:12.82,Default,Lucy,0,0,0,,ngày khai sinh khi Người cất tiếng phán,
+Dialogue: 0,0:12:12.82,0:12:16.24,Default,Lucy,0,0,0,,hãy để những ngọn lửa bùng cháy giữa thinh lặng và hỗn mang.
+Dialogue: 0,0:12:15.14,0:12:16.24,italicstop,MakotoM,0,0,0,,Mình phải làm sao bây giờ?
+Dialogue: 0,0:12:18.09,0:12:21.84,top,Screen,0,0,0,,CHIẾN ĐẤU VỚI TITANEA?
+Dialogue: 0,0:12:18.09,0:12:21.84,top,Screen,0,0,0,,CÓ
+Dialogue: 0,0:12:18.09,0:12:21.84,top,Screen,0,0,0,,KHÔNG
+Dialogue: 0,0:12:18.09,0:12:21.84,Default,Lucy,0,0,0,,Hỡi Nữ thần, xin hãy triệu hồi ngọn lửa thiêng\Nđược thắp sáng bởi giọng nói của Người ngay tại nơi đây.
+Dialogue: 0,0:12:18.39,0:12:19.99,overlap italics,MakotoM,0,0,0,,Hả? Titanea sao?
+Dialogue: 0,0:12:19.99,0:12:21.37,overlap italics,MakotoM,0,0,0,,Không phải là người khổng lồ sao?
+Dialogue: 0,0:12:22.77,0:12:25.34,italicstop,MakotoM,0,0,0,,Thần chú của Lucy sẽ mất khá nhiều thời gian.
+Dialogue: 0,0:12:25.90,0:12:28.10,italics,MakotoM,0,0,0,,Trông có vẻ như Fujiyan và Nina đều không thể cử động được.
+Dialogue: 0,0:12:21.84,0:12:25.34,Default,Lucy,0,0,0,,Xin hãy ban cho con ngọn lửa rực cháy của Người,\Nkhông phải để chiến đấu với bóng tối, mà để thắp sáng nó.
+Dialogue: 0,0:12:28.55,0:12:29.92,italics,MakotoM,0,0,0,,Xem ra mình sẽ phải tự mình làm
+Dialogue: 0,0:12:29.92,0:12:31.10,italics,MakotoM,0,0,0,,những gì có thể trong khả năng của bản thân thôi!
+Dialogue: 0,0:12:38.00,0:12:39.97,Default,Makoto,0,0,0,,Thủy Ma Thuật: Màn Sương (Fog)!
+Dialogue: 0,0:12:41.60,0:12:42.61,Default,Titanea,0,0,0,,Ồ?
+Dialogue: 0,0:12:42.96,0:12:45.66,italics,MakotoM,0,0,0,,Nữ thần ơi, ngài có lời khuyên nào không thế?
+Dialogue: 0,0:12:48.32,0:12:50.80,italics,Makoto,0,0,0,,Bình thường ngài hay lắm mồm lắm cơ mà.
+Dialogue: 0,0:12:50.80,0:12:51.62,Default,Makoto,0,0,0,,Ẩn Thân (Stealth)!
+Dialogue: 0,0:12:53.17,0:12:54.62,Default,Titanea,0,0,0,,Ngươi đang làm cái trò gì thế hả?
+Dialogue: 0,0:12:55.04,0:12:55.87,Default,Makoto,0,0,0,,Né Tránh (Dodge)!
+Dialogue: 0,0:12:56.80,0:12:57.88,italics,MakotoM,0,0,0,,Hắn có thể nhìn thấy mình sao?
+Dialogue: 0,0:13:02.15,0:13:03.00,italics,MakotoM,0,0,0,,Né Tránh!
+Dialogue: 0,0:13:09.48,0:13:12.86,Default,Titanea,0,0,0,,Ngươi lấy thanh đoản kiếm đó ở đâu ra thế?
+Dialogue: 0,0:13:14.22,0:13:16.40,Default,Titanea,0,0,0,,Thứ đó quá sức vĩ đại
+Dialogue: 0,0:13:16.40,0:13:17.90,Default,Titanea,0,0,0,,đối với một con người phàm trần để có thể sử dụng.
+Dialogue: 0,0:13:17.90,0:13:19.40,Default,Makoto,0,0,0,,Hả?! Né—
+Dialogue: 0,0:13:22.13,0:13:23.03,Default,Lucy,0,0,0,,Makoto!
+Dialogue: 0,0:13:27.22,0:13:28.53,italics,Noah,0,0,0,,Dừng tay lại.
+Dialogue: 0,0:13:29.28,0:13:30.84,Default,Titanea,0,0,0,,Giọng nói đó!
+Dialogue: 0,0:13:30.84,0:13:32.99,Default,Titanea,0,0,0,,Là ngài đó sao, Noah đại nhân?
+Dialogue: 0,0:13:32.99,0:13:34.72,italics,Noah,0,0,0,,Ông già, dừng lại đi.
+Dialogue: 0,0:13:34.72,0:13:36.85,italics,Noah,0,0,0,,Cậu nhóc đó là tín đồ của ta đấy.
+Dialogue: 0,0:13:37.44,0:13:39.79,Default,Titanea,0,0,0,,Ồ, là tín đồ của ngài sao?
+Dialogue: 0,0:13:40.12,0:13:41.34,Default,Makoto,0,0,0,,Ông già ư?
+Dialogue: 0,0:13:41.34,0:13:43.42,Default,Titanea,0,0,0,,Chà, vậy thì ta xin lỗi nhé.
+Dialogue: 0,0:13:44.34,0:13:46.32,Default,Makoto,0,0,0,,Ái da!
+Dialogue: 0,0:13:46.32,0:13:48.07,italics,Noah,0,0,0,,Biết ơn ta đi nhé, Makoto.
+Dialogue: 0,0:13:48.07,0:13:50.33,italics,Noah,0,0,0,,Lòng tin của nhóc dành cho ta đã cứu mạng nhóc đấy.
+Dialogue: 0,0:13:50.33,0:13:51.30,Default,Makoto,0,0,0,,Dạ sao cơ?
+Dialogue: 0,0:13:51.56,0:13:53.94,Default,Titanea,0,0,0,,Nếu cậu là tín đồ của Noah đại nhân,
+Dialogue: 0,0:13:53.94,0:13:55.95,Default,Titanea,0,0,0,,thì về cơ bản chúng ta là người một nhà rồi.
+Dialogue: 0,0:13:55.95,0:13:58.50,Default,Makoto,0,0,0,,Hai người biết nhau sao, Nữ thần Noah?
+Dialogue: 0,0:13:58.50,0:14:00.44,italics,Noah,0,0,0,,Nhóc đúng là đồ nhát gan mà Makoto.
+Dialogue: 0,0:14:00.44,0:14:02.97,italics,Noah,0,0,0,,Làm sao mà ông ấy lại đi ăn thịt người được chứ.
+Dialogue: 0,0:14:04.41,0:14:07.82,Default,Makoto,0,0,0,,Nhưng rõ ràng trông ông ta hệt như chuẩn bị nuốt chửng con đến nơi rồi ấy.
+Dialogue: 0,0:14:07.82,0:14:11.20,Default,Titanea,0,0,0,,Ta chỉ giật mình khi ngươi đột ngột tấn công ta thôi mà.
+Dialogue: 0,0:14:11.20,0:14:14.16,Default,Titanea,0,0,0,,Ta chỉ đang tự vệ chính đáng thôi.
+Dialogue: 0,0:14:14.16,0:14:16.33,italics,MakotoM,0,0,0,,Tên Titanea này đang cảm thấy có lỗi kìa.
+Dialogue: 0,0:14:16.58,0:14:18.80,italics,Noah,0,0,0,,À này Makoto, ông già,
+Dialogue: 0,0:14:18.80,0:14:20.66,italics,Noah,0,0,0,,có vẻ như thời gian của ta hết rồi.
+Dialogue: 0,0:14:20.66,0:14:22.67,italics,Noah,0,0,0,,Phần còn lại trông cậy vào hai người đấy nhé.
+Dialogue: 0,0:14:22.67,0:14:24.34,Default,Makoto,0,0,0,,Trông cậy vào chúng con sao?
+Dialogue: 0,0:14:26.18,0:14:27.85,Default,Makoto,0,0,0,,Dạ ừm, tôi xin lỗi...
+Dialogue: 0,0:14:27.85,0:14:29.59,Default,Makoto,0,0,0,,vì đã chém đứt ngón tay của ngài.
+Dialogue: 0,0:14:30.49,0:14:33.20,Default,Makoto,0,0,0,,Tôi đoán là ngài không thể gắn nó lại được đúng không?
+Dialogue: 0,0:14:33.20,0:14:34.38,Default,Titanea,0,0,0,,Ta không bận tâm đâu.
+Dialogue: 0,0:14:34.38,0:14:36.86,Default,Titanea,0,0,0,,Nó sẽ mọc lại sau một vạn năm nữa thôi mà.
+Dialogue: 0,0:14:37.35,0:14:39.48,Default,Makoto,0,0,0,,Nghe vậy thì tôi cũng yên tâm rồi.
+Dialogue: 0,0:14:39.48,0:14:40.60,Default,Makoto,0,0,0,,Chắc là thế.
+Dialogue: 0,0:14:41.63,0:14:42.94,Default,Lucy,0,0,0,,Ơ kìa...
+Dialogue: 0,0:14:42.94,0:14:44.11,Default,Lucy,0,0,0,,Rốt cuộc chuyện quái gì đang xảy ra thế này?
+Dialogue: 0,0:14:45.68,0:14:47.11,Default,Makoto,0,0,0,,Có vẻ như chúng ta ổn rồi.
+Dialogue: 0,0:14:48.61,0:14:52.12,Default,Fujiyan,0,0,0,,Nào nào, xin mời ngài hãy ăn thật nhiều thức ăn nhé!
+Dialogue: 0,0:14:52.12,0:14:54.61,Default,Titanea,0,0,0,,Ôi, cảm giác này hoài niệm thật đấy!
+Dialogue: 0,0:14:54.61,0:14:58.62,Default,Titanea,0,0,0,,Không thể tin nổi là ta lại có thể thưởng thức\Nnhững mỹ vị của đất mẹ thêm một lần nữa!
+Dialogue: 0,0:14:59.38,0:15:04.29,Default,Fujiyan,0,0,0,,Thật không thể tin nổi là vị này lại là bạn hữu\Nvới tà thần mà Tackie-dono phụng sự.
+Dialogue: 0,0:15:04.72,0:15:05.38,Default,Lucy,0,0,0,,Hả?!
+Dialogue: 0,0:15:05.38,0:15:07.14,Default,Lucy,0,0,0,,Makoto, cậu là tín đồ của một tà thần sao?!
+Dialogue: 0,0:15:07.14,0:15:08.56,Default,Lucy,0,0,0,,Tớ đâu có biết chuyện đó đâu!
+Dialogue: 0,0:15:08.56,0:15:10.13,Default,Makoto,0,0,0,,Bởi vì tớ chưa từng nói cho cậu biết mà.
+Dialogue: 0,0:15:10.13,0:15:16.72,Default,Titanea,0,0,0,,Chủng tộc Titanea chúng ta tồn tại để phụng sự như những hộ vệ\Ncho Noah đại nhân và các Titan khác.
+Dialogue: 0,0:15:16.72,0:15:20.00,Default,Titanea,0,0,0,,Tuy nhiên, ta đã bị đánh bại trong cuộc chiến mười lăm triệu năm trước
+Dialogue: 0,0:15:20.00,0:15:22.90,Default,Titanea,0,0,0,,và bị phong ấn hóa đá.
+Dialogue: 0,0:15:22.90,0:15:25.89,Default,Titanea,0,0,0,,Nhờ có các ngươi mà cuối cùng ta cũng đã được tự do.
+Dialogue: 0,0:15:26.51,0:15:29.78,Default,Titanea,0,0,0,,Hơn thế nữa, các ngươi còn thết đãi ta thức ăn ngon lành.
+Dialogue: 0,0:15:30.40,0:15:32.35,Default,Titanea,0,0,0,,Các ngươi có mong muốn điều gì không?
+Dialogue: 0,0:15:32.35,0:15:35.33,Default,Fujiyan,0,0,0,,Dạ? Điều mà chúng tôi mong muốn sao?
+Dialogue: 0,0:15:35.33,0:15:36.16,Default,Titanea,0,0,0,,Đúng vậy.
+Dialogue: 0,0:15:39.10,0:15:43.17,Default,Fujiyan,0,0,0,,Hỡi Titanea vĩ đại, liệu tôi có thể xin ngón tay bị đứt này của ngài được không?
+Dialogue: 0,0:15:43.17,0:15:43.86,Default,Both,0,0,0,,Hả?
+Dialogue: 0,0:15:43.86,0:15:46.17,Default,Fujiyan,0,0,0,,À, nếu không được thì cũng hoàn toàn không sao đâu ạ!
+Dialogue: 0,0:15:46.61,0:15:49.85,Default,Titanea,0,0,0,,Nếu một thứ như thế có thể khiến ngươi vui lòng,\Nthì cứ tự nhiên làm theo ý muốn.
+Dialogue: 0,0:15:49.85,0:15:51.47,Default,Fujiyan,0,0,0,,Tôi vô cùng cảm tạ ngài!
+Dialogue: 0,0:15:51.47,0:15:53.30,italics,MakotoM,0,0,0,,Cậu ta định làm cái gì với cái ngón tay đó thế nhỉ?
+Dialogue: 0,0:15:53.78,0:15:55.30,Default,Titanea,0,0,0,,Tiếp theo...
+Dialogue: 0,0:15:55.30,0:15:59.72,Default,Titanea,0,0,0,,Cô bé có vẻ gặp khó khăn trong việc kiểm soát ma thuật của mình nhỉ.
+Dialogue: 0,0:15:59.72,0:16:00.46,Default,Lucy,0,0,0,,Hở?
+Dialogue: 0,0:16:00.46,0:16:01.64,Default,Lucy,0,0,0,,Sao ngài lại nhận ra được?
+Dialogue: 0,0:16:01.64,0:16:04.14,Default,Titanea,0,0,0,,Đưa cây trượng của cô bé cho ta mượn nào.
+Dialogue: 0,0:16:12.14,0:16:15.12,Default,Titanea,0,0,0,,Thế này sẽ giúp cô bé dễ dàng sử dụng Thổ Ma Thuật hơn đấy.
+Dialogue: 0,0:16:15.12,0:16:15.97,Default,Lucy,0,0,0,,Hả?!
+Dialogue: 0,0:16:15.97,0:16:16.95,Default,Lucy,0,0,0,,Thật thế sao ạ?!
+Dialogue: 0,0:16:17.66,0:16:19.68,Default,Lucy,0,0,0,,Hỡi Nữ thần Đất Mẹ, Keres...
+Dialogue: 0,0:16:19.68,0:16:21.97,Default,Titanea,0,0,0,,Đứa trẻ người thú kia...
+Dialogue: 0,0:16:23.46,0:16:26.28,Default,Titanea,0,0,0,,Ta xin lỗi vì chuyện ban nãy nhé.
+Dialogue: 0,0:16:26.28,0:16:31.21,Default,Titanea,0,0,0,,Xem như một lời tạ lỗi, ta sẽ ban cho cô bé\Nphước lành của Titanea cai quản đất mẹ.
+Dialogue: 0,0:16:33.49,0:16:34.22,Default,Nina,0,0,0,,Dạ?
+Dialogue: 0,0:16:34.85,0:16:38.22,Default,Nina,0,0,0,,Oa! Tôi có thể cảm nhận được một luồng sức mạnh đang trào dâng trong cơ thể!
+Dialogue: 0,0:16:40.85,0:16:43.73,Default,Fujiyan,0,0,0,,Đ-Đó quả là một sức mạnh phi thường.
+Dialogue: 0,0:16:43.73,0:16:44.96,Default,Nina,0,0,0,,Oa!
+Dialogue: 0,0:16:44.96,0:16:46.35,Default,Lucy,0,0,0,,Tớ lên đây!
+Dialogue: 0,0:16:46.73,0:16:49.86,Default,Lucy,0,0,0,,Thổ Ma Thuật: Nham Đạn (Rock Bullet)!
+Dialogue: 0,0:16:50.63,0:16:51.36,Default,Lucy,0,0,0,,Á!
+Dialogue: 0,0:16:54.16,0:16:57.37,Default,Makoto,0,0,0,,Cô ấy hoàn toàn không thể dùng được thổ ma thuật\Ntrong suốt quá trình luyện tập của chúng tôi.
+Dialogue: 0,0:16:57.72,0:17:00.07,Default,Makoto,0,0,0,,Dù khả năng kiểm soát vẫn còn kém.
+Dialogue: 0,0:16:58.35,0:17:00.07,top,Lucy,0,0,0,,Em xin lỗi nhiều lắm ạ!
+Dialogue: 0,0:17:00.07,0:17:01.62,Default,Nina,0,0,0,,Không sao đâu mà.
+Dialogue: 0,0:17:01.62,0:17:03.08,italics,MakotoM,0,0,0,,Họ may mắn thật đấy.
+Dialogue: 0,0:17:03.08,0:17:05.12,italics,MakotoM,0,0,0,,Không biết mình có được nhận thứ gì không ta.
+Dialogue: 0,0:17:05.84,0:17:08.67,Default,Titanea,0,0,0,,Ngươi vốn đã nhận được phước lành từ Noah đại nhân rồi,
+Dialogue: 0,0:17:08.67,0:17:10.28,Default,Titanea,0,0,0,,và Người còn ban tặng cả thần khí cho ngươi nữa.
+Dialogue: 0,0:17:10.28,0:17:12.04,Default,Titanea,0,0,0,,Thế mà ngươi vẫn còn muốn nhiều hơn nữa sao?
+Dialogue: 0,0:17:12.04,0:17:15.20,Default,Titanea,0,0,0,,Lòng tham quá lớn sẽ chỉ chuốc lấy sự diệt vong thôi.
+Dialogue: 0,0:17:15.20,0:17:16.76,italics,MakotoM,0,0,0,,Ông ta cũng đọc được suy nghĩ của mình sao?
+Dialogue: 0,0:17:17.26,0:17:18.79,Default,Titanea,0,0,0,,Mà thôi, sao cũng được.
+Dialogue: 0,0:17:18.79,0:17:20.75,Default,Titanea,0,0,0,,Hãy nói ra điều ngươi mong muốn đi.
+Dialogue: 0,0:17:22.24,0:17:25.14,Default,Makoto,0,0,0,,Tôi muốn giải cứu Noah-sama khỏi Đền Đáy Biển (Thủy Đền).
+Dialogue: 0,0:17:26.05,0:17:28.00,Default,Titanea,0,0,0,,Ta không thể làm được điều đó.
+Dialogue: 0,0:17:28.00,0:17:32.16,Default,Titanea,0,0,0,,Tuy nhiên, việc cầu mong lợi ích cho chủ nhân của chúng ta\Ntrước cả những ham muốn của bản thân ngươi
+Dialogue: 0,0:17:32.16,0:17:33.86,Default,Titanea,0,0,0,,quả thực rất đáng khen ngợi.
+Dialogue: 0,0:17:33.86,0:17:36.28,Default,Titanea,0,0,0,,Để ta ban cho ngươi một lời khuyên nhé.
+Dialogue: 0,0:17:37.02,0:17:39.37,Default,Titanea,0,0,0,,Ngôn ngữ Elemantali mà ngươi đang sử dụng
+Dialogue: 0,0:17:40.02,0:17:43.62,Default,Titanea,0,0,0,,là một ngôn ngữ mà ngươi không được phép sử dụng một cách tùy tiện.
+Dialogue: 0,0:17:44.08,0:17:48.35,Default,Titanea,0,0,0,,Nếu ngươi muốn mượn sức mạnh của các Tinh linh với tư cách là một con người,
+Dialogue: 0,0:17:48.35,0:17:50.84,Default,Titanea,0,0,0,,thì ngươi phải nhìn thấy họ, trò chuyện với họ,
+Dialogue: 0,0:17:50.84,0:17:52.27,Default,Titanea,0,0,0,,và kết bạn với họ.
+Dialogue: 0,0:17:52.27,0:17:56.11,Default,Makoto,0,0,0,,Nói thì dễ lắm, nhưng tôi đâu có nhìn thấy được các Tinh linh đâu.
+Dialogue: 0,0:17:58.41,0:17:59.39,Default,Titanea,0,0,0,,Hãy nhìn xem này.
+Dialogue: 0,0:17:59.92,0:18:00.89,Default,Makoto,0,0,0,,Hở?
+Dialogue: 0,0:18:01.94,0:18:03.46,italics,Makoto,0,0,0,,Đây là mana sao?
+Dialogue: 0,0:18:04.56,0:18:05.74,italics,Makoto,0,0,0,,Tuyệt vời quá.
+Dialogue: 0,0:18:08.19,0:18:11.65,italics,Makoto,0,0,0,,Những đàn Tinh linh này chính là bản thân dòng chảy mana.
+Dialogue: 0,0:18:12.31,0:18:13.40,italics,Makoto,0,0,0,,Tôi hiểu rồi.
+Dialogue: 0,0:18:14.36,0:18:15.91,Default,Makoto,0,0,0,,Mình phải khẩn cầu sự giúp đỡ từ họ.
+Dialogue: 0,0:18:16.95,0:18:19.84,Default,Makoto,0,0,0,,Việc ra lệnh cho họ bấy lâu nay quả thực là quá đỗi ngạo mạn.
+Dialogue: 0,0:18:19.84,0:18:21.66,Default,Titanea,0,0,0,,Có vẻ như ngươi đã hiểu ra rồi đấy.
+Dialogue: 0,0:18:22.08,0:18:24.63,Default,Titanea,0,0,0,,Những kẻ không có thiên phú sẽ không thể nhìn thấy họ.
+Dialogue: 0,0:18:24.63,0:18:28.16,Default,Titanea,0,0,0,,Tuy nhiên, các Tinh linh dường như rất có thiện cảm với ngươi đấy.
+Dialogue: 0,0:18:28.67,0:18:30.28,Default,Titanea,0,0,0,,Hãy cố gắng tiến bộ hơn nữa nhé.
+Dialogue: 0,0:18:32.40,0:18:34.38,Default,Titanea,0,0,0,,Giờ thì, bảo trọng.
+Dialogue: 0,0:18:39.28,0:18:41.77,italics,MakotoM,0,0,0,,Cố gắng tiến bộ hơn sao?
+Dialogue: 0,0:18:46.55,0:18:48.43,italics,MakotoM,0,0,0,,Nói thì dễ hơn làm nhiều.
+Dialogue: 0,0:18:48.89,0:18:52.51,italics,MakotoM,0,0,0,,Mình đã chạm trần giới hạn rồi,\Nnên đâu còn làm thêm được điều gì mới mẻ nữa đâu.
+Dialogue: 0,0:18:52.98,0:18:55.82,italics,MakotoM,0,0,0,,Bây giờ mình phải làm gì đây chứ?
+Dialogue: 0,0:18:56.92,0:18:59.32,italics,MakotoM,0,0,0,,Độ Tinh Thông Ma Thuật đạt cấp 99...
+Dialogue: 0,0:19:00.54,0:19:03.15,italics,Makoto,0,0,0,,Lẽ ra mình phải vui mừng vì đã đạt mức tối đa mới phải.
+Dialogue: 0,0:19:03.15,0:19:04.19,italics,Makoto,0,0,0,,Vậy tại sao mình lại không thấy vui chứ?
+Dialogue: 0,0:19:08.07,0:19:09.99,italics,Makoto,0,0,0,,Chẳng lẽ mọi chuyện chỉ dừng lại ở đây thôi sao?
+Dialogue: 0,0:19:14.09,0:19:15.41,Default,Makoto,0,0,0,,Nữ thần?!
+Dialogue: 0,0:19:16.00,0:19:17.34,Default,Noah,0,0,0,,Này Makoto.
+Dialogue: 0,0:19:17.34,0:19:19.84,Default,Noah,0,0,0,,Nhóc là tín đồ của ta đúng không?
+Dialogue: 0,0:19:19.84,0:19:22.34,Default,Noah,0,0,0,,Nhóc có biết công việc của một nữ thần là gì không hả?
+Dialogue: 0,0:19:22.87,0:19:24.29,Default,Makoto,0,0,0,,Thu thập cống phẩm sao ạ?
+Dialogue: 0,0:19:24.29,0:19:25.46,Default,Noah,0,0,0,,Không phải thế đâu nhé!
+Dialogue: 0,0:19:25.46,0:19:26.75,Default,Noah,0,0,0,,Ta đâu có cần mấy thứ đó chứ!
+Dialogue: 0,0:19:26.75,0:19:27.47,Default,Noah,0,0,0,,Đồ ngốc này!
+Dialogue: 0,0:19:27.47,0:19:28.64,Default,Noah,0,0,0,,Nghe đây này!
+Dialogue: 0,0:19:28.64,0:19:32.28,Default,Noah,0,0,0,,Công việc của một nữ thần là dẫn lối cho những con cừu lạc lối!
+Dialogue: 0,0:19:32.28,0:19:33.12,Default,Makoto,0,0,0,,Dạ vâng...
+Dialogue: 0,0:19:33.12,0:19:35.93,Default,Noah,0,0,0,,Dạo này nhóc đang phiền muộn và chán nản đúng không?!
+Dialogue: 0,0:19:35.93,0:19:39.24,Default,Noah,0,0,0,,Những lúc như thế, nhóc phải tìm đến ta để xin lời khuyên chứ!
+Dialogue: 0,0:19:38.30,0:19:40.74,top,Makoto,0,0,0,,D-Dạ ừm, ngực của ngài đang chạm vào người con kìa.
+Dialogue: 0,0:19:40.74,0:19:42.24,Default,Noah,0,0,0,,Ta cố tình đấy.
+Dialogue: 0,0:19:43.92,0:19:46.24,Default,Noah,0,0,0,,Sao nhóc không chịu xin lời khuyên từ ta hả?
+Dialogue: 0,0:19:46.24,0:19:49.22,Default,Makoto,0,0,0,,Thì, việc dựa dẫm vào một nữ thần nghe có vẻ hơi...
+Dialogue: 0,0:19:49.22,0:19:51.25,Default,Noah,0,0,0,,Không sao đâu mà. Cứ tự nhiên mà dựa dẫm vào ta thật nhiều vào.
+Dialogue: 0,0:19:51.72,0:19:54.36,Default,Noah,0,0,0,,Nào, đưa Hồn Thư (Soul Book) của nhóc đây ta xem một chút nào.
+Dialogue: 0,0:19:54.36,0:19:55.13,Default,Makoto,0,0,0,,Dạ?
+Dialogue: 0,0:19:56.45,0:19:57.31,Default,Makoto,0,0,0,,Của ngài đây ạ.
+Dialogue: 0,0:19:58.28,0:20:00.38,Default,Noah,0,0,0,,Giờ thì chỉ cần chỉnh sửa một chút ở chỗ này...
+Dialogue: 0,0:20:03.52,0:20:04.27,Default,Noah,0,0,0,,Xong rồi đấy!
+Dialogue: 0,0:20:05.07,0:20:06.01,Default,Makoto,0,0,0,,Hả?!
+Dialogue: 0,0:20:06.31,0:20:08.74,Default,Makoto,0,0,0,,Độ Tinh Thông Ma Thuật đạt cấp 103?!
+Dialogue: 0,0:20:08.74,0:20:09.77,Default,Makoto,0,0,0,,Cái gì thế này?!
+Dialogue: 0,0:20:10.07,0:20:14.84,Default,Noah,0,0,0,,Makoto, nhóc thuộc kiểu người sẽ cày cấp lên 99 trong các game RPG đúng không?
+Dialogue: 0,0:20:14.84,0:20:18.78,Default,Noah,0,0,0,,Nên nhóc đang cảm thấy kiệt sức hụt hẫng sau khi chạm mức tối đa đúng không nào?
+Dialogue: 0,0:20:20.32,0:20:22.03,Default,Makoto,0,0,0,,Ngài nhìn thấu tâm can con luôn rồi sao?
+Dialogue: 0,0:20:23.43,0:20:25.76,Default,Noah,0,0,0,,Nhóc nghĩ ta là ai cơ chứ?
+Dialogue: 0,0:20:25.76,0:20:29.00,Default,Noah,0,0,0,,Ta sẽ chia sẻ cho nhóc một thông tin đặc biệt nhé.
+Dialogue: 0,0:20:29.00,0:20:33.04,Default,Noah,0,0,0,,Một khi độ tinh thông của nhóc vượt qua mốc 105,\Nnhóc sẽ có thể nhìn thấy được các Tinh linh đấy.
+Dialogue: 0,0:20:33.35,0:20:34.18,Default,Makoto,0,0,0,,Dạ sao cơ?
+Dialogue: 0,0:20:34.18,0:20:35.45,Default,Makoto,0,0,0,,Thật thế sao ạ?!
+Dialogue: 0,0:20:35.45,0:20:36.42,Default,Noah,0,0,0,,Đúng thế đấy!
+Dialogue: 0,0:20:36.42,0:20:39.03,Default,Noah,0,0,0,,Thấy chưa nào? Ngọn lửa nhiệt huyết trong nhóc đã bùng cháy trở lại chưa?
+Dialogue: 0,0:20:39.03,0:20:39.92,Default,Makoto,0,0,0,,Dạ rồi ạ!
+Dialogue: 0,0:20:39.92,0:20:41.35,Default,Makoto,0,0,0,,Con cảm ơn ngài nhiều lắm!
+Dialogue: 0,0:20:41.88,0:20:43.03,Default,Noah,0,0,0,,Chuyện nhỏ thôi mà.
+Dialogue: 0,0:20:43.03,0:20:44.78,Default,Noah,0,0,0,,Hãy tiếp tục nỗ lực chăm chỉ nhé.
+Dialogue: 0,0:20:44.78,0:20:45.80,Default,Noah,0,0,0,,Gặp lại sau nha.
+Dialogue: 0,0:20:46.67,0:20:48.05,Default,Noah,0,0,0,,À phải rồi.
+Dialogue: 0,0:20:48.55,0:20:51.13,Default,Noah,0,0,0,,Việc chỉnh sửa Hồn Thư vốn là điều cấm kỵ đấy nhé.
+Dialogue: 0,0:20:51.13,0:20:54.19,Default,Noah,0,0,0,,Nếu ai đó phát hiện ra,\Nnhóc sẽ bị các quan chấp pháp xét xử dị giáo treo cổ đấy.
+Dialogue: 0,0:20:54.62,0:20:56.96,Default,Makoto,0,0,0,,Ý ngài như thế là sao cơ chứ?!
+Dialogue: 0,0:20:56.96,0:21:01.25,Default,Noah,0,0,0,,Giáo hội đã tự tiện quyết định rằng giá trị tối đa trong Hồn Thư chỉ là 99.
+Dialogue: 0,0:21:01.25,0:21:04.14,Default,Noah,0,0,0,,Nhưng thực tế là độ tinh thông chẳng hề có giới hạn nào cả,
+Dialogue: 0,0:21:04.14,0:21:06.70,Default,Noah,0,0,0,,nên ta đã chỉnh lại sách của nhóc để hiển thị giá trị thực.
+Dialogue: 0,0:21:07.18,0:21:10.64,Default,Noah,0,0,0,,Tuy nhiên, nếu Vương quốc Highland hay Giáo Hội Hoa Hồng phát hiện ra,
+Dialogue: 0,0:21:10.64,0:21:12.88,Default,Noah,0,0,0,,họ sẽ gán nhóc tội dị giáo và xử tử nhóc đấy.
+Dialogue: 0,0:21:11.45,0:21:20.21,top,Screen,0,0,0,,XỬ TỬ
+Dialogue: 0,0:21:12.88,0:21:13.88,Default,Noah,0,0,0,,Hiểu chưa hả?
+Dialogue: 0,0:21:13.88,0:21:14.99,Default,Noah,0,0,0,,Ôi, hết giờ mất rồi.
+Dialogue: 0,0:21:14.99,0:21:15.96,Default,Noah,0,0,0,,Ta phải đi đây.
+Dialogue: 0,0:21:15.96,0:21:16.92,Default,Makoto,0,0,0,,Hả? Khoan đã ngài ơi!
+Dialogue: 0,0:21:16.92,0:21:17.69,Default,Noah,0,0,0,,Hửm?
+Dialogue: 0,0:21:17.69,0:21:18.61,Default,Noah,0,0,0,,Ồ?
+Dialogue: 0,0:21:18.61,0:21:20.21,Default,Noah,0,0,0,,Nhóc muốn trò chuyện thêm nữa sao?
+Dialogue: 0,0:21:20.75,0:21:24.64,Default,Makoto,0,0,0,,Dạ thì, con muốn được tâm sự lâu hơn với ngài một chút ạ.
+Dialogue: 0,0:21:25.12,0:21:27.22,Default,Noah,0,0,0,,Nhóc đang dần trở thành một cậu bé ngoan ngoãn hơn rồi đấy.
+Dialogue: 0,0:21:27.68,0:21:30.22,Default,Noah,0,0,0,,Cứ tiếp tục thế này rồi đổ ta luôn đi nhé, được không?
+Dialogue: 0,0:21:30.22,0:21:31.97,Default,Makoto,0,0,0,,Xin ngài đừng có nhìn con bằng ánh mắt đó nữa mà.
+Dialogue: 0,0:21:33.68,0:21:35.23,Default,Noah,0,0,0,,Một điều cuối cùng này.
+Dialogue: 0,0:21:36.17,0:21:39.23,Default,Noah,0,0,0,,Hãy tiến về đại mê cung Labyrinthos nhé.
+Dialogue: 0,0:21:41.29,0:21:43.92,Default,Noah,0,0,0,,Một cuộc hội ngộ định mệnh đang chờ đón nhóc ở nơi đó đấy.
+Dialogue: 0,0:21:45.97,0:21:49.54,Default,Makoto,0,0,0,,Nghe như một chỉ dẫn vô cùng cụ thể đến bất ngờ vậy.
+Dialogue: 0,0:21:49.54,0:21:51.84,Default,Makoto,0,0,0,,Liệu nữ thần có ổn không đấy?
+Dialogue: 0,0:21:54.20,0:21:57.77,Default,Noah,0,0,0,,Makoto, nhóc là sứ đồ tuyệt vời nhất của ta.
+Dialogue: 0,0:21:58.74,0:22:03.00,Default,Noah,0,0,0,,Dù sẽ còn phải mất một khoảng thời gian nữa\Ntrước khi ta thực sự tận dụng đến nhóc.
+Dialogue: 0,0:23:35.22,0:23:39.98,top,sign,0,0,0,,TẬP 6\NTAKATSUKI MAKOTO GẶP GỠ MỘT CHÚ RỒNG
+
