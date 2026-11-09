@@ -1,0 +1,311 @@
+﻿[Script Info]
+Title: Vietnamese Fansub (VietSub by Amtia(NOFACE))
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+ScaledBorderAndShadow: yes
+Video Aspect Ratio: 0
+Video Zoom: 8
+YCbCr Matrix: TV.601
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Top,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Italic,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Signs,Segoe UI,16,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,10,10,20,1
+Style: Italics Top,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback Top,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback Italics,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.68,0:00:06.35,Default,PANNA,0,0,0,,Tổ đội mới của cậu đã được đăng ký thành công.
+Dialogue: 0,0:00:08.02,0:00:09.65,Signs,SIGN,0,0,0,,{\fnSegoe UI\bord0\fs14\c&H000000&\frz10.87\pos(158,162)}Hạng Mạo Hiểm Giả: D
+Dialogue: 0,0:00:08.02,0:00:09.65,Signs,SIGN,0,0,0,,{\fnSegoe UI\bord0\fs13\c&H000000&\frz10.87\pos(142,208)}Tổ đội: Twice Exceptional
+Dialogue: 0,0:00:11.67,0:00:13.32,Default,LENT,0,0,0,,Tôi cảm ơn cô.
+Dialogue: 0,0:00:14.35,0:00:16.28,Default,PANNA,0,0,0,,Chúc hai người có một chuyến đi bình an.
+Dialogue: 0,0:00:16.28,0:00:17.36,Default,LENT,0,0,0,,Cảm ơn cô nhiều.
+Dialogue: 0,0:00:22.04,0:00:26.00,Signs,SIGN,0,0,0,,{\fad(400,000)\shad1\bord2\p1\alpha&H50&\c&HFFFFFF&\3c&H000000&\4c&HB7B7B7&\fscx76\fscy38\pos(321.527,188.054)}m 0 0 l 268 0 268 88 0 88
+Dialogue: 0,0:00:22.04,0:00:26.00,Signs,SIGN,0,0,0,,{\fad(400,000)\bord0\fs16\c&H151515&\fnSegoe UI\pos(320.804,189.497)}Twice Exceptional\N{\fs14}Hạng F - Lent & Linka
+Dialogue: 0,0:00:26.26,0:00:28.99,Italic,YGGDRASIL,0,0,0,,Đã gia nhập tổ đội thứ hai.
+Dialogue: 0,0:00:30.83,0:00:33.81,Italic,YGGDRASIL,0,0,0,,Đã đáp ứng đủ điều kiện\Nđể tiến hóa kỹ năng.
+Dialogue: 0,0:00:33.81,0:00:37.06,Italic,YGGDRASIL,0,0,0,,Cho Vay Ma Lực đã thăng lên cấp 2.
+Dialogue: 0,0:00:37.30,0:00:38.71,Default,LINKA,0,0,0,,Có chuyện gì thế anh?
+Dialogue: 0,0:00:39.73,0:00:42.06,Default,LENT,0,0,0,,Kỹ năng của anh vừa tiến hóa rồi.
+Dialogue: 0,0:00:42.06,0:00:45.69,Signs,SIGN,0,0,0,,{\fnSegoe UI\bord0\fs20\c&H000000&\frz15.79\move(290,87,292,92,23,3610)}Cho Vay Ma Lực
+Dialogue: 0,0:00:42.06,0:00:45.69,Signs,SIGN,0,0,0,,{\fnSegoe UI\bord0\fs17\c&H000000&\frz15.79\move(492,95,486,104,23,3610)}Cấp 1: Cho thành viên tổ đội vay MP
+Dialogue: 0,0:00:42.06,0:00:45.69,Signs,SIGN,0,0,0,,{\fnSegoe UI\bord0\fs17\c&H000000&\frz15.79\move(452,128,445,134,23,3610)}Cấp 2: Tự Động Nạp
+Dialogue: 0,0:00:42.37,0:00:45.68,Default,LENT,0,0,0,,"Tự Động Nạp" ư? Cái này có tác dụng gì thế?
+Dialogue: 0,0:00:45.68,0:00:49.31,Default,EMPEE,0,0,0,,Khi lượng MP của con nợ\Ntụt xuống dưới mức chỉ định,
+Dialogue: 0,0:00:49.31,0:00:52.69,Default,EMPEE,0,0,0,,họ sẽ tự động được cho vay thêm ma lực.
+Dialogue: 0,0:00:52.69,0:00:57.88,Default,EMPEE,0,0,0,,Nhờ có kỹ năng này, anh sẽ không cần phải\Nđể mắt kiểm tra lượng MP của đồng đội khi giao tranh nữa.
+Dialogue: 0,0:00:58.72,0:01:00.46,Default,LENT,0,0,0,,Nghe tiện lợi thật đấy.
+Dialogue: 0,0:01:00.46,0:01:02.68,Default,EMPEE,0,0,0,,Nhắc đến chuyện kiểm tra,
+Dialogue: 0,0:01:02.68,0:01:07.68,Default,EMPEE,0,0,0,,không biết lũ cặn bã đó có chịu kiểm tra\Nxem mình đã nợ bao nhiêu MP chưa nhỉ?
+Dialogue: 0,0:01:22.35,0:01:23.41,Signs,EMPEE,0,0,0,,{\fad(500,200)\fnSegoe UI\bord2\blur5\pos(108.445,114.222)\c&H98905C&\3c&HFFED6A&}Cho Vay\NMa Lực
+Dialogue: 0,0:01:22.35,0:01:23.41,Signs,EMPEE,0,0,0,,{\fad(500,200)\fnSegoe UI\bord2\blur5\c&H98905C&\3c&HFFED6A&\pos(343.445,112.222)}Bị Tổ Đội Ruồng Bỏ, Tôi Thu Nợ Cùng Bé Tinh Linh\NĐể Trở Thành Kẻ Mạnh Nhất!
+Dialogue: 0,0:01:23.41,0:01:24.98,Signs,EMPEE,0,0,0,,{\fad(200,000)\fnSegoe UI\pos(108.445,114.222)}Cho Vay\N{\c&H1D1EFF&}Ma Lực {\c&HFFFFFF&}Trả Góp
+Dialogue: 0,0:01:23.41,0:01:24.98,Signs,EMPEE,0,0,0,,{\fad(200,000)\fnSegoe UI\c&H1D1EFF&\pos(356.132,115.838)}Bị Tổ Đội {\c&HFFFFFF&}Ruồng Bỏ, Tôi Thu Nợ {\c&H1D1EFF&}Cùng\NBé Tinh Linh {\c&HFFFFFF&}Để Trở Thành Kẻ {\c&H1D1EFF&}Mạnh Nhất!
+Dialogue: 0,0:02:39.28,0:02:42.71,Default,SHOPKEEPER,0,0,0,,Của cô đây. Hai mươi bình Thuốc Hồi Phục MP.
+Dialogue: 0,0:02:43.41,0:02:45.20,Default,SHOPKEEPER,0,0,0,,Mà này cô em...
+Dialogue: 0,0:02:43.55,0:02:48.52,Signs,EPTITLE,0,0,0,,{\fad(700,500)\blur1\3c&H2E2E2E&\4c&H848487&\fnSegoe UI\alpha20\bord1\pos(553,275)}"Lời Nguyền"
+Dialogue: 0,0:02:45.20,0:02:46.27,Default,MISA,0,0,0,,Có chuyện gì thế?
+Dialogue: 0,0:02:46.54,0:02:49.76,Default,SHOPKEEPER,0,0,0,,Đáng lẽ tôi không nên nói điều này với khách quen đâu,
+Dialogue: 0,0:02:49.76,0:02:54.10,Default,SHOPKEEPER,0,0,0,,nhưng mấy cái thứ thuốc hồi phục đó sẽ làm giảm tuổi thọ đấy.
+Dialogue: 0,0:02:54.10,0:02:55.78,Default,SHOPKEEPER,0,0,0,,Nếu cô nốc quá nhiều, dần dần...
+Dialogue: 0,0:02:55.78,0:02:57.93,Default,MISA,0,0,0,,Biết rồi, biết rồi. Tôi rõ quá rồi.
+Dialogue: 0,0:02:57.93,0:03:00.79,Default,MISA,0,0,0,,Thuốc Hồi Phục MP có độc tố.
+Dialogue: 0,0:03:00.79,0:03:04.43,Default,MISA,0,0,0,,Dùng quá liều có thể gây buồn nôn và chóng mặt,
+Dialogue: 0,0:03:04.43,0:03:07.32,Default,MISA,0,0,0,,và khuyến cáo không nên uống quá năm bình mỗi ngày.
+Dialogue: 0,0:03:07.32,0:03:08.90,Default,MISA,0,0,0,,Ting ting ting!\NTôi trả lời đúng rồi chứ gì?
+Dialogue: 0,0:03:08.90,0:03:10.04,Default,SHOPKEEPER,0,0,0,,T-Ting ting ting á?
+Dialogue: 0,0:03:10.32,0:03:13.33,Default,MISA,0,0,0,,Tôi không có rảnh rỗi để ngồi nghe ông giảng đạo đâu.
+Dialogue: 0,0:03:13.33,0:03:15.29,Default,MISA,0,0,0,,Lỡ tôi bị trễ chuyến xe ngựa thì sao hả?
+Dialogue: 0,0:03:18.49,0:03:20.66,Default,SHOPKEEPER,0,0,0,,Ơ kìa, rốt cuộc "ting ting ting" là cái quái gì chứ?
+Dialogue: 0,0:03:23.67,0:03:28.11,Default,ATTENDANT,0,0,0,,Chuyến xe ngựa tốc hành đi Melva\Nsẽ khởi hành trong chốc lát nữa!
+Dialogue: 0,0:03:33.82,0:03:36.98,Default,PASSENGER A,0,0,0,,Này, mấy người ngồi đằng sau kia...
+Dialogue: 0,0:03:37.56,0:03:41.44,Default,PASSENGER B,0,0,0,,Chẳng phải họ là nhóm Hai Đầu Ngân Lang sao?
+Dialogue: 0,0:03:41.74,0:03:43.95,Signs,SIGN,0,0,0,,{\fad(400,270)\shad1\bord2\p1\alpha&H50&\c&HFFFFFF&\3c&H000000&\4c&HB7B7B7&\fscx54\fscy45\pos(513.527,297.054)}m 0 0 l 268 0 268 88 0 88
+Dialogue: 0,0:03:41.74,0:03:43.95,Signs,SIGN,0,0,0,,{\fad(400,270)\bord0\fs16\c&H151515&\fnSegoe UI\pos(513.804,300.497)}Destra\N{\fs13}Thiên phú: Song Kiếm Sĩ (Hạng S)
+Dialogue: 0,0:03:43.99,0:03:46.45,Signs,SIGN,0,0,0,,{\fad(400,270)\shad1\bord2\p1\alpha&H50&\c&HFFFFFF&\3c&H000000&\4c&HB7B7B7&\fscx54\fscy45\pos(513.527,297.054)}m 0 0 l 268 0 268 88 0 88
+Dialogue: 0,0:03:43.99,0:03:46.45,Signs,SIGN,0,0,0,,{\fad(400,270)\bord0\fs16\c&H151515&\fnSegoe UI\pos(513.804,301.497)}Sinistra\N{\fs13}Thiên phú: Song Kiếm Sĩ (Hạng S)
+Dialogue: 0,0:03:46.49,0:03:48.83,Signs,SIGN,0,0,0,,{\fad(400,270)\shad1\bord2\p1\alpha&H50&\c&HFFFFFF&\3c&H000000&\4c&HB7B7B7&\fscx54\fscy45\pos(513.527,295.054)}m 0 0 l 268 0 268 88 0 88
+Dialogue: 0,0:03:46.49,0:03:48.83,Signs,SIGN,0,0,0,,{\fad(400,270)\bord0\fs16\c&H151515&\fnSegoe UI\pos(512.804,299.497)}Rory\N{\fs11}Thiên phú: Trinh Sát Siêu Cấp (Hạng A)
+Dialogue: 0,0:03:48.87,0:03:51.46,Signs,SIGN,0,0,0,,{\fad(400,270)\shad1\bord2\p1\alpha&H50&\c&HFFFFFF&\3c&H000000&\4c&HB7B7B7&\fscx54\fscy45\pos(520.527,298.054)}m 0 0 l 268 0 268 88 0 88
+Dialogue: 0,0:03:48.87,0:03:51.46,Signs,SIGN,0,0,0,,{\fad(400,270)\bord0\fs16\c&H151515&\fnSegoe UI\pos(519.804,302.497)}Celica\N{\fs13}Thiên phú: Trị Liệu Sư Cao Cấp (Hạng B)
+Dialogue: 0,0:03:51.50,0:03:53.96,Signs,SIGN,0,0,0,,{\fad(400,000)\shad1\bord2\p1\alpha&H50&\c&HFFFFFF&\3c&H000000&\4c&HB7B7B7&\fscx54\fscy45\pos(523.527,294.054)}m 0 0 l 268 0 268 88 0 88
+Dialogue: 0,0:03:51.50,0:03:53.96,Signs,SIGN,0,0,0,,{\fad(400,000)\bord0\fs16\c&H151515&\fnSegoe UI\pos(522.804,298.497)}Shannon\N{\fs11}Thiên phú: Pháp Sư Siêu Cấp (Hạng A)
+Dialogue: 0,0:03:54.17,0:03:56.95,Default,PASSENGER A,0,0,0,,Họ là tổ đội hạng B đúng không?
+Dialogue: 0,0:03:56.95,0:04:00.84,Default,PASSENGER B,0,0,0,,Ừ. Chuyến đi này chúng ta an toàn rồi.
+Dialogue: 0,0:04:03.47,0:04:06.63,Default,GUY,0,0,0,,Này mấy người kia.
+Dialogue: 0,0:04:06.63,0:04:09.11,Default,GUY,0,0,0,,Đổi chỗ ngồi cho bọn tao được không?
+Dialogue: 0,0:04:11.59,0:04:15.89,Default,ELLE,0,0,0,,Bọn tôi ghen tị với mấy cái ghế đệm êm ái của mấy người lắm đấy.
+Dialogue: 0,0:04:16.11,0:04:19.89,Default,MISA,0,0,0,,Ghế của bọn tôi ngồi khó chịu chết đi được.
+Dialogue: 0,0:04:19.89,0:04:23.29,Default,GUY,0,0,0,,Nói tóm lại là, nhấc cái mông lên và biến đi chỗ khác.
+Dialogue: 0,0:04:23.91,0:04:25.74,Default,DESTRA,0,0,0,,Chẳng phải các người là...
+Dialogue: 0,0:04:25.74,0:04:28.66,Default,SINISTRA,0,0,0,,...tổ đội đạt hạng B nhanh nhất lịch sử sao?
+Dialogue: 0,0:04:29.10,0:04:30.66,Default,DESTRA & SINISTRA,0,0,0,,Tổ đội Skypiercers.
+Dialogue: 0,0:04:31.79,0:04:35.11,Default,GUY,0,0,0,,Còn các người là Hai Đầu Ngân Lang,
+Dialogue: 0,0:04:35.11,0:04:37.66,Default,GUY,0,0,0,,lũ thất bại cứ mãi giẫm chân tại chỗ ở hạng B.
+Dialogue: 0,0:04:37.66,0:04:39.29,Default,RORY,0,0,0,,Ăn nói cẩn thận cái mồm đấy.
+Dialogue: 0,0:04:39.29,0:04:41.79,Default,GUY,0,0,0,,Ồ, tao nói trúng tim đen rồi à?
+Dialogue: 0,0:04:41.79,0:04:44.13,Default,RORY,0,0,0,,Đừng có mà coi thường bọn này.
+Dialogue: 0,0:04:47.33,0:04:49.39,Default,DESTRA,0,0,0,,Nhân tiện, Lent đâu rồi?
+Dialogue: 0,0:04:49.39,0:04:53.25,Default,GUY,0,0,0,,Sao cơ? Bọn tao tống khứ cái gánh nặng đó đi rồi.
+Dialogue: 0,0:04:53.25,0:04:56.18,Default,GUY,0,0,0,,Hắn ta là đồ vô dụng chẳng làm nên trò trống gì.
+Dialogue: 0,0:05:05.36,0:05:09.98,Flashback,ROGER,0,0,0,,Lent là một cậu nhóc thú vị\Nsở hữu thiên phú rất độc đáo đấy.
+Dialogue: 0,0:05:09.98,0:05:11.91,Flashback,ROGER,0,0,0,,Đối xử tốt với cậu ấy vào.
+Dialogue: 0,0:05:11.91,0:05:16.66,Flashback,LENT,0,0,0,,D-Dạ em là Lent thuộc tổ đội Skypiercers.
+Dialogue: 0,0:05:16.66,0:05:22.42,Flashback,LENT,0,0,0,,Em chỉ có thể cho vay MP thôi, nhưng ba người còn lại\Nđều đang nỗ lực chiến đấu hết mình.
+Dialogue: 0,0:05:22.69,0:05:26.52,Flashback,LENT,0,0,0,,Rất mong mọi người sẽ tiếp tục ủng hộ bọn em ạ.
+Dialogue: 0,0:05:44.10,0:05:47.35,Default,DESTRA,0,0,0,,Nhường ghế cho họ đi.
+Dialogue: 0,0:05:47.35,0:05:48.41,Default,SINISTRA,0,0,0,,Đúng vậy.
+Dialogue: 0,0:05:48.41,0:05:49.56,Default,RORY & SHANNON,0,0,0,,Cái gì cơ?
+Dialogue: 0,0:05:53.91,0:05:56.03,Default,CELICA,0,0,0,,Này, Đội trưởng!
+Dialogue: 0,0:05:57.45,0:06:01.83,Default,DESTRA,0,0,0,,Giờ trông cậy cả vào các người đấy, Skypiercers.
+Dialogue: 0,0:06:02.57,0:06:03.97,Default,GUY,0,0,0,,Lũ hèn nhát.
+Dialogue: 0,0:06:03.97,0:06:05.05,Default,MISA,0,0,0,,Biến đi cho khuất mắt.
+Dialogue: 0,0:06:05.05,0:06:07.61,Default,ELLE,0,0,0,,Ghế này êm thật đấy.
+Dialogue: 0,0:06:10.83,0:06:13.05,Default,ALL,0,0,0,,Cạn ly nào!
+Dialogue: 0,0:06:15.92,0:06:17.91,Default,CELICA,0,0,0,,Tức chết đi được mà.
+Dialogue: 0,0:06:18.19,0:06:21.47,Default,CELICA,0,0,0,,Đội trưởng chắc chắn đó là lựa chọn đúng đắn chứ?
+Dialogue: 0,0:06:21.47,0:06:23.59,Default,DESTRA,0,0,0,,Đây là xe ngựa tốc hành.
+Dialogue: 0,0:06:23.59,0:06:27.68,Default,DESTRA,0,0,0,,Nó đến đích nhanh gấp đôi xe ngựa thông thường,
+Dialogue: 0,0:06:27.94,0:06:33.70,Default,DESTRA,0,0,0,,bởi vì nó đi qua lối tắt vô cùng nguy hiểm\Nmà xe ngựa tiêu chuẩn không dám đi.
+Dialogue: 0,0:06:33.70,0:06:37.96,Default,SINISTRA,0,0,0,,Có một luật bất thành văn rằng bất kỳ ai
+Dialogue: 0,0:06:37.96,0:06:42.15,Default,SINISTRA,0,0,0,,ngồi ở hàng ghế sau của xe ngựa tốc hành\Nsẽ phải gánh vác trách nhiệm bảo vệ xe.
+Dialogue: 0,0:06:43.40,0:06:46.61,Default,DESTRA,0,0,0,,Họ đã tự nguyện nhận lấy công việc đó.
+Dialogue: 0,0:06:46.61,0:06:49.56,Default,SINISTRA,0,0,0,,Bọn tôi rất vui lòng\Nnhường lại cơ hội này cho họ.
+Dialogue: 0,0:06:49.56,0:06:54.35,Default,CELICA,0,0,0,,Khoan đã nào, rõ ràng bọn họ chỉ muốn ngồi chỗ êm hơn thôi.
+Dialogue: 0,0:06:55.98,0:06:57.85,Default,CELICA,0,0,0,,Thậm chí họ còn đang nốc rượu kìa!
+Dialogue: 0,0:06:58.15,0:07:00.05,Default,DESTRA,0,0,0,,Đừng thô lỗ thế chứ.
+Dialogue: 0,0:07:00.05,0:07:04.86,Default,SINISTRA,0,0,0,,Chắc chắn không có tổ đội hạng B nào\Nlại ngốc nghếch đến mức ấy đâu.
+Dialogue: 0,0:07:05.08,0:07:08.49,Default,CELICA,0,0,0,,Nhưng họ đã đá Lent đi\Nmà chẳng thèm đắn đo suy nghĩ một giây nào.
+Dialogue: 0,0:07:08.49,0:07:13.28,Default,DESTRA,0,0,0,,Chắc là vì không cần có cậu ấy họ vẫn đủ mạnh thôi.
+Dialogue: 0,0:07:14.98,0:07:17.31,Default,SHANNON,0,0,0,,Mong là Len-Len vẫn bình an.
+Dialogue: 0,0:07:23.25,0:07:25.73,Default,GUARD A,0,0,0,,Khu rừng này lúc nào cũng âm u rợn người ghê.
+Dialogue: 0,0:07:25.73,0:07:26.79,Default,GUARD B,0,0,0,,Ừ.
+Dialogue: 0,0:07:30.79,0:07:33.92,Default,GUARD B,0,0,0,,Dừng xe lại mau! Phía trước có High Orc!
+Dialogue: 0,0:07:33.92,0:07:34.92,Default,GUARD A,0,0,0,,Cái gì cơ?!
+Dialogue: 0,0:07:37.17,0:07:38.82,Default,DESTRA,0,0,0,,Chúng xuất hiện rồi.
+Dialogue: 0,0:07:38.82,0:07:39.68,Default,SINISTRA,0,0,0,,Ừ.
+Dialogue: 0,0:07:43.51,0:07:45.16,Default,GUARD A,0,0,0,,Chết tiệt. Chúng đã phá nát một cỗ xe rồi.
+Dialogue: 0,0:07:45.16,0:07:46.56,Default,GUARD B,0,0,0,,Kinh khủng thật đấy.
+Dialogue: 0,0:07:48.59,0:07:51.69,Default,GUARD A,0,0,0,,Có ba con High Orc! Cần chi viện khẩn cấp ngay!
+Dialogue: 0,0:07:52.53,0:07:53.77,Default,DESTRA,0,0,0,,Đi thôi nào.
+Dialogue: 0,0:07:53.77,0:07:55.19,Default,SINISTRA,0,0,0,,Chúng ta có việc phải làm rồi.
+Dialogue: 0,0:07:57.70,0:08:00.70,Default,RORY,0,0,0,,Mấy người ngồi sau kia, đừng có mà ngủ gật nữa!
+Dialogue: 0,0:08:02.53,0:08:04.41,Default,GUY,0,0,0,,Đã tới nơi rồi à?
+Dialogue: 0,0:08:04.71,0:08:06.96,Default,RORY,0,0,0,,Có lũ High Orc cần phải xử lý kìa!
+Dialogue: 0,0:08:06.96,0:08:09.13,Default,DESTRA,0,0,0,,Bọn tôi nhường lại cho các người đấy.
+Dialogue: 0,0:08:09.13,0:08:10.83,Default,SINISTRA,0,0,0,,Mệnh lệnh của anh là gì?
+Dialogue: 0,0:08:13.47,0:08:15.85,Default,GUY,0,0,0,,Misa, Elle, dậy mau lên!
+Dialogue: 0,0:08:19.55,0:08:21.59,Default,GUY,0,0,0,,Có High Orc xuất hiện rồi.
+Dialogue: 0,0:08:21.88,0:08:26.31,Default,GUY,0,0,0,,Đối với tổ đội hạng B như bọn mình thì\Nchuyện này chỉ là muỗi thôi!
+Dialogue: 0,0:08:27.15,0:08:28.94,Default,GUY,0,0,0,,Lũ Ngân Lang kia, nhận con bên phải đi.
+Dialogue: 0,0:08:29.68,0:08:32.03,Default,GUY,0,0,0,,Bọn tao sẽ xử con bên trái.
+Dialogue: 0,0:08:32.03,0:08:34.19,Default,GUY,0,0,0,,Lính canh, chặn con ở giữa lại.
+Dialogue: 0,0:08:34.19,0:08:35.03,Default,GUARD A,0,0,0,,Rõ, thưa ngài!
+Dialogue: 0,0:08:35.32,0:08:37.55,Default,GUY,0,0,0,,Chúng ta đang bị bao vây giữa rừng rậm.
+Dialogue: 0,0:08:37.55,0:08:40.42,Default,GUY,0,0,0,,Mau kết liễu nhanh trước khi có thêm quái vật kéo đến!
+Dialogue: 0,0:08:40.71,0:08:42.37,Default,DESTRA,0,0,0,,Vậy thì, như thường lệ...
+Dialogue: 0,0:08:42.37,0:08:44.31,Default,SINISTRA,0,0,0,,hãy tấn công với tốc độ tối đa.
+Dialogue: 0,0:08:47.42,0:08:48.92,Default,CELICA,0,0,0,,Gia Tốc (Speed Up)!
+Dialogue: 0,0:09:05.82,0:09:07.30,Default,DESTRA & SINISTRA,0,0,0,,Trói Buộc Kép (Double Bind)!
+Dialogue: 0,0:09:10.85,0:09:13.69,Default,SHANNON,0,0,0,,Lôi Kích Xuyên Thấu (Lightning Pierce)!
+Dialogue: 0,0:09:23.63,0:09:26.29,Default,CELICA,0,0,0,,Ba mươi chín giây để tiêu diệt.
+Dialogue: 0,0:09:26.29,0:09:28.49,Default,CELICA,0,0,0,,Tiếc là chưa phá được kỷ lục mới.
+Dialogue: 0,0:09:34.89,0:09:35.88,Default,GUARD B,0,0,0,,Đỡ lấy đòn này!
+Dialogue: 0,0:09:49.65,0:09:51.43,Default,DESTRA & SINISTRA,0,0,0,,Ngân Kéo Đoạt Mạng (Silver Scissors)!
+Dialogue: 0,0:09:56.70,0:09:58.28,Default,GUARD A,0,0,0,,Cảm ơn hai vị rất nhiều.
+Dialogue: 0,0:09:58.28,0:10:00.08,Default,GUARD B,0,0,0,,Một màn phối hợp thật ấn tượng.
+Dialogue: 0,0:10:00.35,0:10:02.97,Default,DESTRA,0,0,0,,Các anh đã cầm cự rất tốt.
+Dialogue: 0,0:10:03.56,0:10:05.20,Default,RORY,0,0,0,,Trong khi đó...
+Dialogue: 0,0:10:08.75,0:10:12.33,Default,GUY,0,0,0,,Elle, mau buff cho anh đi chứ!
+Dialogue: 0,0:10:12.58,0:10:15.90,Default,ELLE,0,0,0,,Em không làm được. Em chưa uống thuốc hồi phục.
+Dialogue: 0,0:10:15.90,0:10:19.97,Default,MISA,0,0,0,,Em cũng chịu thôi. Chỉ uống một bình thôi\Ncũng khiến em buồn nôn muốn chết rồi.
+Dialogue: 0,0:10:19.97,0:10:23.13,Default,GUY,0,0,0,,Hai đứa chúng mày thật là thảm hại quá mà.
+Dialogue: 0,0:10:29.39,0:10:32.13,Default,RORY,0,0,0,,Họ đang làm cái trò gì thế kia?
+Dialogue: 0,0:10:32.13,0:10:33.10,Default,CELICA,0,0,0,,Thảm hại thật sự.
+Dialogue: 0,0:10:35.10,0:10:37.06,Default,MISA,0,0,0,,Nó lại lao tới kìa!
+Dialogue: 0,0:10:37.06,0:10:39.47,Default,ELLE,0,0,0,,Anh Guy, làm gì đi chứ!
+Dialogue: 0,0:10:39.47,0:10:42.36,Default,GUY,0,0,0,,Câm mồm hết đi, lũ vô tích sự ăn hại này!
+Dialogue: 0,0:10:44.11,0:10:49.18,Italic,GUY/ID,0,0,0,,Chết tiệt thật. Trong tình huống bất ngờ này,\Nkhông thể hồi phục MP kịp bằng thuốc được.
+Dialogue: 0,0:10:49.18,0:10:51.11,Italic,GUY/ID,0,0,0,,Chưa kể mình vừa mới ngủ dậy nữa.
+Dialogue: 0,0:10:52.34,0:10:56.09,Default,GUY,0,0,0,,Mặc kệ! Tao sẽ giết chết mày\Nmà không cần dùng đến kỹ năng!
+Dialogue: 0,0:11:11.59,0:11:13.48,Default,MISA,0,0,0,,Anh đang làm cái gì thế hả tên đại ngốc kia?
+Dialogue: 0,0:11:13.48,0:11:17.29,Default,MISA,0,0,0,,Bọn mình đã hạ gục High Orc biết bao nhiêu lần rồi mà!
+Dialogue: 0,0:11:17.29,0:11:20.19,Default,GUY,0,0,0,,Câm mồm đi! Tao biết rồi!
+Dialogue: 0,0:11:29.93,0:11:34.72,Italic,GUY/ID,0,0,0,,Cái thứ rác rưởi này sẽ chẳng có cửa\Nnếu mình có đủ MP để thi triển kỹ năng...
+Dialogue: 0,0:11:43.47,0:11:45.65,Default,DESTRA & SINISTRA,0,0,0,,Hành Quyết Song Song (Parallel Execution).
+Dialogue: 0,0:11:51.59,0:11:53.52,Default,DESTRA,0,0,0,,Trận chiến kết thúc rồi.
+Dialogue: 0,0:11:53.52,0:11:55.06,Default,SINISTRA,0,0,0,,Giờ có thể thư giãn được rồi đấy.
+Dialogue: 0,0:11:59.24,0:12:01.35,Default,DESTRA,0,0,0,,Thành thật xin lỗi vì đã xen vào.
+Dialogue: 0,0:12:02.94,0:12:06.57,Default,SINISTRA,0,0,0,,Chính anh đã bảo là phải giải quyết thật nhanh mà.
+Dialogue: 0,0:12:08.88,0:12:11.12,Default,GUY,0,0,0,,Bớt xía mũi vào chuyện của người khác đi.
+Dialogue: 0,0:12:11.12,0:12:13.54,Default,GUY,0,0,0,,Bọn tao đâu có cần các người giúp đỡ.
+Dialogue: 0,0:12:14.47,0:12:18.67,Default,DESTRA,0,0,0,,Không có Lent, các người chẳng thể chiến đấu ra hồn được, đúng chứ?
+Dialogue: 0,0:12:18.96,0:12:21.99,Default,SINISTRA,0,0,0,,Tôi thực sự thất vọng về Skypiercers đấy.
+Dialogue: 0,0:12:21.99,0:12:24.35,Default,SINISTRA,0,0,0,,Các người hoàn toàn không xứng với danh tiếng của mình.
+Dialogue: 0,0:12:24.35,0:12:26.19,Default,GUY,0,0,0,,Mày vừa nói cái gì cơ?!
+Dialogue: 0,0:12:26.72,0:12:27.83,Default,GUY,0,0,0,,Ái da...
+Dialogue: 0,0:12:28.63,0:12:31.51,Default,DESTRA,0,0,0,,Celica, trị thương cho họ đi.
+Dialogue: 0,0:12:31.51,0:12:34.89,Default,CELICA,0,0,0,,Sao cơ? Nhưng thế thì phí phạm MP lắm.
+Dialogue: 0,0:12:34.89,0:12:37.11,Default,DESTRA,0,0,0,,Chỉ cần mức tối thiểu thôi là được.
+Dialogue: 0,0:12:39.12,0:12:40.26,Default,GUARD B,0,0,0,,Thật không thể tin nổi.
+Dialogue: 0,0:12:40.26,0:12:42.80,Default,GUARD A,0,0,0,,Tình trạng như thế mà cũng lên được hạng B sao?
+Dialogue: 0,0:12:42.80,0:12:45.59,Default,RORY,0,0,0,,Có vẻ như tin đồn là có thật rồi.
+Dialogue: 0,0:12:45.59,0:12:46.48,Default,GUARD A,0,0,0,,Tin đồn gì cơ?
+Dialogue: 0,0:12:46.75,0:12:51.50,Default,RORY,0,0,0,,Tôi nghe nói họ không thể dùng kỹ năng được nữa\Ndo dính phải một lời nguyền.
+Dialogue: 0,0:12:51.50,0:12:57.12,Default,GUARD B,0,0,0,,Nhưng nếu đã là hạng B thì cho dù không có kỹ năng\Nhọ vẫn phải chiến đấu được chứ?
+Dialogue: 0,0:12:57.38,0:12:59.82,Default,CELICA,0,0,0,,Nào, đứng dậy đi.
+Dialogue: 0,0:12:59.82,0:13:02.26,Default,CELICA,0,0,0,,Chúng ta phải rời khỏi đây trước khi có thêm quái vật kéo tới.
+Dialogue: 0,0:13:12.08,0:13:14.88,Default,PASSENGERS,0,0,0,,Mấy tên đó tệ hại thật đấy.
+Dialogue: 0,0:13:14.88,0:13:16.36,Default,PASSENGERS,0,0,0,,Thật là một trò hề xấu hổ.
+Dialogue: 0,0:13:25.74,0:13:29.98,Default,GUY,0,0,0,,Nếu không phải vì dính lời nguyền thì con quái đó xong đời với tao rồi.
+Dialogue: 0,0:13:29.98,0:13:34.13,Default,MISA,0,0,0,,Phải đấy, tất cả đều là tại thằng ngu đó hết.
+Dialogue: 0,0:13:34.43,0:13:37.49,Default,ELLE,0,0,0,,Khi nào tìm thấy nó, bọn mình sẽ giết chết nó.
+Dialogue: 0,0:13:38.12,0:13:41.30,Default,GUY,0,0,0,,Mày sẽ phải trả giá đắt cho chuyện này, Lent.
+Dialogue: 0,0:13:48.46,0:13:50.88,Default,EMPEE,0,0,0,,Nhắc đến chuyện kiểm tra,
+Dialogue: 0,0:13:50.88,0:13:55.85,Default,EMPEE,0,0,0,,không biết lũ cặn bã đó có chịu kiểm tra\Nxem mình đã nợ bao nhiêu MP chưa nhỉ?
+Dialogue: 0,0:13:55.85,0:14:01.45,Default,LENT,0,0,0,,Cho dù có kiểm tra, tôi cũng không nghĩ\Nhọ có ý định trả lại đâu.
+Dialogue: 0,0:14:01.93,0:14:06.24,Default,LINKA,0,0,0,,Nhân tiện, món đồ anh cho em mượn tối qua...
+Dialogue: 0,0:14:06.90,0:14:09.24,Signs,SIGN,0,0,0,,{\fad(400,000)\shad1\bord2\p1\alpha&H50&\c&HFFFFFF&\3c&H000000&\4c&HB7B7B7&\fscx61\fscy26\pos(320.527,240.054)}m 0 0 l 268 0 268 88 0 88
+Dialogue: 0,0:14:06.90,0:14:09.24,Signs,SIGN,0,0,0,,{\fad(400,000)\bord0\fs13\c&H151515&\fnSegoe UI\pos(318.804,237.497)}\NDung Dịch Sửa Chữa
+Dialogue: 0,0:14:09.47,0:14:13.34,Default,LINKA,0,0,0,,Em thoa nó lên bộ giáp của mình,\Nvà nó đã trở lại như mới tinh luôn rồi.
+Dialogue: 0,0:14:13.74,0:14:16.26,Default,LENT,0,0,0,,Anh rất vui vì nó có ích cho em.
+Dialogue: 0,0:14:16.26,0:14:20.00,Default,LENT,0,0,0,,À phải rồi. Món đó chắc cũng xong rồi đấy nhỉ.
+Dialogue: 0,0:14:20.32,0:14:21.25,Default,LINKA,0,0,0,,Món gì xong cơ ạ?
+Dialogue: 0,0:14:21.25,0:14:23.13,Default,LENT,0,0,0,,Đi theo anh nào.
+Dialogue: 0,0:14:23.13,0:14:24.83,Default,LINKA,0,0,0,,Dạ? Vâng ạ.
+Dialogue: 0,0:14:30.42,0:14:31.61,Default,GOROU,0,0,0,,Kính chào quý khách.
+Dialogue: 0,0:14:31.61,0:14:32.76,Default,GOROU,0,0,0,,Ô, Lent đấy à.
+Dialogue: 0,0:14:33.77,0:14:36.02,Default,LENT,0,0,0,,Xong chưa cậu?
+Dialogue: 0,0:14:36.02,0:14:39.83,Default,GOROU,0,0,0,,Sư phụ đang hoàn thiện những khâu cuối cùng.
+Dialogue: 0,0:14:39.83,0:14:42.02,Default,GOROU,0,0,0,,Kia là Linka đấy à?
+Dialogue: 0,0:14:42.02,0:14:46.59,Default,LENT,0,0,0,,Ừ. Linka, đây là Gorou, thợ rèn học việc.
+Dialogue: 0,0:14:46.59,0:14:49.27,Default,LENT,0,0,0,,Cậu ấy cũng đến từ Làng Alto giống anh.
+Dialogue: 0,0:14:55.82,0:15:00.03,Default,GOROU,0,0,0,,Hôm nọ tớ mới tình cờ gặp lại cậu ấy\Nlần đầu tiên sau năm năm đấy.
+Dialogue: 0,0:15:00.03,0:15:04.58,Default,GOROU,0,0,0,,Cậu ấy ở quán rượu. Cậu đoán xem lúc đó cậu ấy đang làm gì?
+Dialogue: 0,0:15:05.09,0:15:09.58,Default,GOROU,0,0,0,,Vừa lẩm bẩm một mình vừa tập hôn đấy.
+Dialogue: 0,0:15:09.58,0:15:12.47,Default,LENT,0,0,0,,N-Này, tớ cá là thanh kiếm xong rồi đấy!
+Dialogue: 0,0:15:12.87,0:15:14.99,Default,GOROU,0,0,0,,Đúng là tên biến thái.
+Dialogue: 0,0:15:13.41,0:15:14.99,Top,LENT,0,0,0,,Dừng lại đi, Gorou!
+Dialogue: 0,0:15:14.99,0:15:16.41,Default,ZAROCK,0,0,0,,Cảm ơn vì đã chờ đợi.
+Dialogue: 0,0:15:19.99,0:15:21.48,Default,LINKA,0,0,0,,Đây là thứ gì thế ạ?
+Dialogue: 0,0:15:24.85,0:15:27.96,Default,LENT,0,0,0,,Kiếm của em bị gãy rồi đúng không?
+Dialogue: 0,0:15:27.96,0:15:32.74,Default,LENT,0,0,0,,Nên anh đã nhờ họ rèn một thanh kiếm mới\Ntừ vũ khí của con Dị Biến Quad Skeleton.
+Dialogue: 0,0:15:34.24,0:15:37.50,Default,ZAROCK,0,0,0,,Đó quả thực là một món vũ khí tuyệt hảo.
+Dialogue: 0,0:15:37.79,0:15:40.50,Default,ZAROCK,0,0,0,,Nó khiến cho công sức rèn thanh kiếm này thật bõ bèn.
+Dialogue: 0,0:15:45.25,0:15:46.29,Default,LENT,0,0,0,,Thế nào em?
+Dialogue: 0,0:15:47.34,0:15:49.64,Default,LINKA,0,0,0,,Em có cảm giác như mình có thể\Nchém đứt bất cứ thứ gì với thanh kiếm này vậy.
+Dialogue: 0,0:15:49.64,0:15:51.89,Default,LINKA,0,0,0,,Em nóng lòng muốn thử nghiệm nó quá.
+Dialogue: 0,0:15:52.44,0:15:56.85,Default,LINKA,0,0,0,,Em cảm ơn anh rất nhiều. Em thật không xứng đáng nhận món quà này.
+Dialogue: 0,0:15:57.61,0:16:03.26,Default,GOROU,0,0,0,,Lent bảo với tôi rằng cô đang gặp khó khăn với thiên phú của mình.
+Dialogue: 0,0:16:06.46,0:16:11.37,Default,GOROU,0,0,0,,Ban đầu, tôi cũng chẳng hề thích việc mình mang thiên phú Thợ Rèn đâu.
+Dialogue: 0,0:16:11.69,0:16:16.39,Default,GOROU,0,0,0,,Nhưng giờ đây, tôi không thể tưởng tượng ra một thiên phú nào\Nvui vẻ và đáng giá hơn thế nữa.
+Dialogue: 0,0:16:17.28,0:16:23.54,Default,GOROU,0,0,0,,Rồi một ngày nào đó, cô cũng sẽ yêu thích thiên phú của chính mình thôi.
+Dialogue: 0,0:16:25.84,0:16:27.36,Default,LINKA,0,0,0,,Anh nói đúng lắm.
+Dialogue: 0,0:16:28.51,0:16:30.32,Default,LENT,0,0,0,,Cảm ơn bác vì thanh kiếm nhé.
+Dialogue: 0,0:16:30.32,0:16:31.28,Default,ZAROCK,0,0,0,,Không có gì.
+Dialogue: 0,0:16:31.28,0:16:32.56,Default,GOROU,0,0,0,,Lúc nào rảnh lại ghé qua nhé.
+Dialogue: 0,0:16:36.06,0:16:38.05,Italic,ZAROCK/ID,0,0,0,,Liệu có phải do mình tưởng tượng không nhỉ?
+Dialogue: 0,0:16:38.27,0:16:42.56,Italic,ZAROCK/ID,0,0,0,,Vừa rồi, trong một khoảnh khắc ngắn ngủi,\Nmình đã cảm nhận được một sát khí bí ẩn toát ra từ cô gái đó.
+Dialogue: 0,0:16:43.10,0:16:47.56,Signs,SIGN,0,0,0,,{\fad(400,000)\shad1\bord2\p1\alpha&H50&\c&HFFFFFF&\3c&H000000&\4c&HB7B7B7&\fscx92\fscy46\pos(318.527,205.054)}m 0 0 l 268 0 268 88 0 88
+Dialogue: 0,0:16:43.10,0:16:47.56,Signs,SIGN,0,0,0,,{\fad(400,000)\bord0\fs16\c&H151515&\fnSegoe UI\pos(318.804,210.497)}Mê Cung Melva\N{\fs13}Tầng 2 "Khu Rừng Goblin"
+Dialogue: 0,0:16:48.06,0:16:51.67,Default,LINKA,0,0,0,,Để em giải thích lại về năng lực của mình một lần nữa nhé.
+Dialogue: 0,0:16:52.30,0:16:55.30,Default,LINKA,0,0,0,,Kỹ năng mà em có thể sử dụng\Nđược gọi là Đòn Đánh Khởi Đầu (First Strike).
+Dialogue: 0,0:16:55.68,0:16:58.60,Default,LINKA,0,0,0,,Nó cho phép em cường hóa bản thân bằng cách sử dụng MP.
+Dialogue: 0,0:16:59.37,0:17:02.43,Default,LINKA,0,0,0,,Một khi đã kích hoạt, nó không thể bị hủy bỏ\Ncho đến khi em cạn kiệt MP
+Dialogue: 0,0:17:02.43,0:17:05.54,Default,LINKA,0,0,0,,hoặc tiêu diệt sạch lũ quái vật trước mắt.
+Dialogue: 0,0:17:05.96,0:17:08.99,Default,LINKA,0,0,0,,Nó tiêu tốn 7 MP để kích hoạt,
+Dialogue: 0,0:17:08.99,0:17:13.50,Default,LINKA,0,0,0,,và cứ sau mỗi mười giây sẽ tốn thêm 1 MP nữa.
+Dialogue: 0,0:17:14.59,0:17:22.35,Signs,SIGN,0,0,0,,{\fnSegoe UI\bord0\fs20\c&H000000&\frz13.62\move(95,229,88,244,26,7742)}Linka\NTu La Đạo\NHạng Mạo Hiểm Giả: F\NTổ đội: Twice Exceptional
+Dialogue: 0,0:17:15.17,0:17:18.19,Default,LINKA,0,0,0,,Nhưng lượng MP tối đa của em chỉ có mười thôi,
+Dialogue: 0,0:17:18.19,0:17:22.34,Default,LINKA,0,0,0,,nên em chỉ có thể duy trì nó trong vỏn vẹn bốn mươi giây.
+Dialogue: 0,0:17:25.33,0:17:28.97,Default,EMPEE,0,0,0,,Nhưng miễn là em không bị cạn sạch MP,
+Dialogue: 0,0:17:28.97,0:17:32.49,Default,EMPEE,0,0,0,,thì hiệu ứng cường hóa sẽ không bao giờ biến mất, đúng không?
+Dialogue: 0,0:17:32.75,0:17:33.85,Default,LINKA,0,0,0,,Dạ vâng.
+Dialogue: 0,0:17:33.85,0:17:36.80,Default,LENT,0,0,0,,Các kỹ năng của anh sẽ biến điều đó thành hiện thực:
+Dialogue: 0,0:17:36.80,0:17:41.02,Default,LENT,0,0,0,,Cho Vay Ma Lực, và kỹ năng hoàn toàn mới của anh, Tự Động Nạp.
+Dialogue: 0,0:17:41.48,0:17:43.71,Default,LINKA,0,0,0,,Liệu có thực sự làm được không anh?
+Dialogue: 0,0:17:50.47,0:17:52.08,Default,LINKA,0,0,0,,Tiếng tù và của goblin sao?
+Dialogue: 0,0:17:52.79,0:17:55.71,Default,EMPEE,0,0,0,,Chúng ta đã bị lính gác của chúng phát hiện rồi.
+Dialogue: 0,0:17:55.71,0:17:57.99,Default,EMPEE,0,0,0,,Nhưng chẳng phải đây chính xác là những gì chúng ta muốn sao?
+Dialogue: 0,0:17:58.37,0:17:59.30,Default,LENT,0,0,0,,Ừ.
+Dialogue: 0,0:17:59.69,0:18:02.67,Default,LENT,0,0,0,,Anh sẽ thử cho em vay MP nhé.
+Dialogue: 0,0:18:02.67,0:18:03.62,Default,LINKA,0,0,0,,Dạ sao cơ?!
+Dialogue: 0,0:18:03.97,0:18:06.74,Default,LENT,0,0,0,,Không sao đâu. Hãy tin tưởng ở anh.
+Dialogue: 0,0:18:06.74,0:18:09.22,Default,LENT,0,0,0,,Không, hãy tin vào chính bản thân em.
+Dialogue: 0,0:18:10.81,0:18:11.85,Default,LINKA,0,0,0,,Vâng ạ.
+Dialogue: 0,0:18:12.85,0:18:14.05,Default,LENT,0,0,0,,Chúng đang kéo tới rồi kìa.
+Dialogue: 0,0:18:24.36,0:18:26.84,Default,LINKA,0,0,0,,Đòn đánh đầu tiên cũng chính là đòn kết liễu.
+Dialogue: 0,0:18:27.40,0:18:30.40,Default,LINKA,0,0,0,,Những nhát chém của ta sẽ là địa ngục trần gian của các ngươi.
+Dialogue: 0,0:18:31.48,0:18:33.20,Default,LINKA,0,0,0,,Hãy bước một chân...
+Dialogue: 0,0:18:33.72,0:18:35.13,Default,LINKA,0,0,0,,vào cõi Tu La đi!
+Dialogue: 0,0:18:36.51,0:18:38.44,Default,EMPEE,0,0,0,,Ngay bây giờ, thưa Chủ nhân!
+Dialogue: 0,0:18:38.44,0:18:39.21,Default,LENT,0,0,0,,Được!
+Dialogue: 0,0:18:39.69,0:18:41.06,Default,LENT,0,0,0,,Tự Động Nạp (Auto Charge)!
+Dialogue: 0,0:19:15.66,0:19:19.17,Default,LENT,0,0,0,,Hóa ra đây chính là Đòn Đánh Khởi Đầu.
+Dialogue: 0,0:19:36.89,0:19:39.78,Default,LENT,0,0,0,,Thiên phú của cô bé đúng là không phải trò đùa.
+Dialogue: 0,0:19:40.57,0:19:42.90,Default,LENT,0,0,0,,Sức mạnh này khủng khiếp thật sự.
+Dialogue: 0,0:19:42.90,0:19:46.57,Default,EMPEE,0,0,0,,Điểm yếu duy nhất của nó\Nchính là việc tiêu hao quá nhiều tài nguyên.
+Dialogue: 0,0:19:46.83,0:19:51.76,Default,EMPEE,0,0,0,,Thảo nào một tổ đội tầm thường\Nlại chẳng thể nào khai phá hết sức mạnh của cô bé.
+Dialogue: 0,0:19:52.83,0:19:56.85,Default,EMPEE,0,0,0,,Nhưng em đã đoán đúng rồi!
+Dialogue: 0,0:19:56.85,0:20:00.23,Default,EMPEE,0,0,0,,Cô bé vay 1 MP cứ sau mỗi mười giây!
+Dialogue: 0,0:20:00.23,0:20:05.25,Default,EMPEE,0,0,0,,Con số đó có thể sẽ còn tăng lên khi cô bé trưởng thành hơn!\NChủ nhân sẽ ngập trong biển MP cho mà xem!
+Dialogue: 0,0:20:06.98,0:20:08.59,Default,LENT,0,0,0,,Dù sao đi nữa,
+Dialogue: 0,0:20:09.37,0:20:12.36,Default,LENT,0,0,0,,tôi sẽ không gọi đó đơn thuần là sự cường hóa đâu.
+Dialogue: 0,0:20:12.36,0:20:15.07,Default,LENT,0,0,0,,Cứ như thể cô bé đã biến thành một con người hoàn toàn khác vậy.
+Dialogue: 0,0:20:49.18,0:20:50.60,Default,LENT,0,0,0,,Chà...
+Dialogue: 0,0:20:51.15,0:20:53.39,Default,EMPEE,0,0,0,,Nhiều Ma Thạch quá đi mất.
+Dialogue: 0,0:20:55.37,0:20:56.94,Default,LENT,0,0,0,,Em làm tuyệt lắm, Linka!
+Dialogue: 0,0:20:57.22,0:21:00.76,Default,LENT,0,0,0,,Em đã quét sạch toàn bộ đàn goblin đó\Nchỉ trong vỏn vẹn vài phút!
+Dialogue: 0,0:21:00.76,0:21:02.21,Default,LENT,0,0,0,,Em thực sự là...
+Dialogue: 0,0:21:13.45,0:21:14.66,Default,LENT,0,0,0,,Linka!
+
