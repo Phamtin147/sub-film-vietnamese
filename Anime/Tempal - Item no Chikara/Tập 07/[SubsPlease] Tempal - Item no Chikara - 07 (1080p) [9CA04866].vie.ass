@@ -1,0 +1,454 @@
+﻿[Script Info]
+Title: Vietnamese Fansub (VietSub by Amtia(NOFACE))
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+YCbCr Matrix: TV.601
+LayoutResX: 640
+LayoutResY: 360
+
+[Aegisub Project Garbage]
+Last Style Storage: Overgeared
+Audio File: CR_Overgeared_S1.0E7.0_OGRSIM0007_384832_video_ja-jp_J10474866.mp4
+Video File: CR_Overgeared_S1.0E7.0_OGRSIM0007_384832_video_ja-jp_J10474866.mp4
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 1.000000
+Scroll Position: 328
+Active Line: 330
+Video Position: 26547
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: italics,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: main,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: top,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: italicstop,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: flashback,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashback italics,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashbacktop,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: flashbackitalicstop,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: overlap,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: overlaptop,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: overlap italics,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: sign_generic,Segoe UI,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,18,1
+Style: high,Segoe UI,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,50,1
+Style: highitalics,Segoe UI,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,50,1
+Style: screen_text,Segoe UI,20,&H00F0E8E4,&H000000FF,&H006F635C,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.89,0:00:05.65,Default,Cultist,0,0,0,,Chào mừng các đồng đạo mới gia nhập!
+Dialogue: 0,0:00:06.17,0:00:10.53,Default,Cultist,0,0,0,,Hãy dâng hiến lòng trung thành cho vị thần Yatan vĩ đại của chúng ta!
+Dialogue: 0,0:00:14.33,0:00:15.48,Default,Players,0,0,0,,Các cậu cũng về phe Yatan à?
+Dialogue: 0,0:00:15.48,0:00:17.20,Default,Players,0,0,0,,Vậy là chúng ta sẽ đối đầu với liên quân sao?
+Dialogue: 0,0:00:17.20,0:00:19.29,Default,Players,0,0,0,,Làm kẻ phản diện cũng thú vị phết,\Nanh em thấy đúng không?
+Dialogue: 0,0:00:21.73,0:00:26.01,Default,Yuta,0,0,0,,Gia nhập Giáo hội Yatan sẽ được\Ntăng thêm 20% điểm kinh nghiệm.
+Dialogue: 0,0:00:26.71,0:00:30.05,Default,Yuta,0,0,0,,Bảo sao mà có biết bao nhiêu người chơi\Nđổ xô đi theo bọn chúng.
+Dialogue: 0,0:00:30.71,0:00:32.42,Default,Yuta,0,0,0,,Không biết liệu phe liên quân
+Dialogue: 0,0:00:33.30,0:00:35.89,Default,Yuta,0,0,0,,sẽ làm gì để ngăn chặn chúng ta đây?
+Dialogue: 0,0:00:59.26,0:01:00.79,sign_generic,Sign,0,0,0,,{\fad(51,0)\bord3\blur2\an1\fs17\b1\fnSegoe UI\c&H095DF8&\3c&HBFBEC1&\t(0,1469,\fs16)\move(365.999,253.999,359.333,248.667,0,1450)}O{\c&H0A27EB&}v{\c&H1828CE&}e{\c&H1026F3&\}r{\c&H1705C3&}g{\c&H1306A0&}e{\c&H0F028F&}a{\c&H090544&}r{\c&H211D2F&}e{\c&H000000&}d
+Dialogue: 0,0:01:00.79,0:01:03.89,sign_generic,Sign,0,0,0,,{\fad(0,1080)\bord3\blur2\an1\fs16\b1\fnSegoe UI\c&H095DF8&\3c&HBFBEC1&\t(0,273,\3c&HFEFEFE&)\t(0,273,\c&H252525&)\pos(359.333,248.667)}O{\c&H0A27EB&\t(0,273,\c&H666767&)}v{\c&H1828CE&\t(0,273,\c&H363636&)}e{\c&H1026F3&\t(0,273,\c&H7E7E7E&)}r{\c&H1705C3&\t(0,273,\c&H5E5E5E&)}g{\c&H1306A0&\t(0,273,\c&H252525&)}e{\c&H0F028F&\t(0,273,\c&H666767&)}a{\c&H090544&\t(0,273,\c&H363636&)}r{\c&H211D2F&\t(0,273,\c&H7E7E7E&)}e{\c&H000000&\t(0,273,\c&H5E5E5E&)}d
+Dialogue: 0,0:02:10.10,0:02:13.65,Default,Grid,0,0,0,,Dù sao thì mình cũng sống sót qua\Nlần đầu tiên tham gia săn boss,
+Dialogue: 0,0:02:14.00,0:02:17.39,Default,Grid,0,0,0,,nhưng lại không kiếm đủ hai mươi chiếc vảy Sylphid.
+Dialogue: 0,0:02:17.72,0:02:19.11,screen_text,Sign,0,0,0,,{\fad(126,0)\frz9.569\3c&H656463&\move(248,121.333,257,121.333,0,1377)}Vảy Sylphid
+Dialogue: 0,0:02:19.11,0:02:22.66,Default,Grid,0,0,0,,Chắc phải từ bỏ vụ chế tạo\Náo choàng tàng hình rồi...
+Dialogue: 0,0:02:23.51,0:02:26.97,Default,Grid,0,0,0,,Nhưng bù lại mình vơ được cả đống chiến lợi phẩm ngon nghẻ.
+Dialogue: 0,0:02:24.31,0:02:27.37,screen_text,Sign,0,0,0,,{\fs10\fad(125,0)\c&H5D48BC&\3c&H464B76&\frx18\fry8\move(472.666,92.667,402,-8,42,3045)}Mũ Thủ Lĩnh Frost Orc
+Dialogue: 0,0:02:26.31,0:02:27.50,screen_text,Sign,0,0,0,,{\fad(127,0)\fs10\frz2\move(242,227.999,214,188,0,1170)}Hạt Triệu Hồi Xích Lôi
+Dialogue: 0,0:02:27.81,0:02:30.46,screen_text,Sign,0,0,0,,{\fs12\fad(129,0)\frz359.4\frx4\fry354\pos(454.667,93.333)}Đá Cường Hóa Vũ Khí Được Ban Phước
+Dialogue: 0,0:02:29.56,0:02:30.46,screen_text,Sign,0,0,0,,{\fs14\fad(129,0)\frz357.2\frx12\fry354\pos(186.667,182.666)}Đá Cường Hóa Vũ Khí Được Ban Phước
+Dialogue: 0,0:02:30.46,0:02:34.63,Default,Grid,0,0,0,,Mấy tấm da orc này vứt đi cũng được,\Nchả đáng bao nhiêu tiền.
+Dialogue: 0,0:02:35.32,0:02:39.30,Default,Grid,0,0,0,,Nhưng mấy viên Đá Cường Hóa Được Ban Phước này\Nthì đúng là món hời lớn!
+Dialogue: 0,0:02:39.66,0:02:43.44,Default,Grid,0,0,0,,Bình thường mà đập xịt thì bị phạt trừ hẳn 3 cấp cường hóa.
+Dialogue: 0,0:02:43.44,0:02:46.02,Default,Grid,0,0,0,,Nhưng dùng viên này thì nếu xịt chỉ bị trừ 1 cấp thôi.
+Dialogue: 0,0:02:46.02,0:02:48.37,Default,Grid,0,0,0,,Bán mớ này đi chắc kiếm được bộn tiền đấy.
+Dialogue: 0,0:02:49.06,0:02:53.06,Default,Grid,0,0,0,,Không có Huroi thì đời nào\Nmình kiếm được mấy thứ này.
+Dialogue: 0,0:02:53.61,0:02:56.13,Default,Grid,0,0,0,,Tiếc cho mày quá nha, Huroi ơi là Huroi!
+Dialogue: 0,0:02:56.13,0:02:59.17,Default,Grid,0,0,0,,Tao thấy hơi tội nghiệp cho mày rồi đấy! Cơ mà chỉ một chút thôi!
+Dialogue: 0,0:03:00.09,0:03:03.74,italics,Grid,0,0,0,,Đá Cường Hóa Được Ban Phước thì cứ để dành đã,
+Dialogue: 0,0:03:03.74,0:03:08.54,italics,Grid,0,0,0,,nhưng muốn đến Hẻm Núi Kesan thì\Nnhất định phải có vũ khí xịn hơn.
+Dialogue: 0,0:03:08.97,0:03:11.70,Default,Grid,0,0,0,,Bán cho tôi mười viên Đá Cường Hóa Vũ Khí thường với.
+Dialogue: 0,0:03:11.70,0:03:13.03,top,Woman,0,0,0,,Của quý khách hết 1.000 vàng ạ.
+Dialogue: 0,0:03:12.50,0:03:13.83,screen_text,Sign,0,0,0,,{\fs13\frz16.92\frx0\fry8\pos(346.666,220.667)\c&HDBDCD5&\3c&H5D5B51&}Đá Cường Hóa Vũ Khí
+Dialogue: 0,0:03:12.50,0:03:14.96,screen_text,Sign,0,0,0,,{\fs13\frz16.92\frx0\fry8\c&HDBDCD5&\3c&H5D5B51&\pos(275.999,297.334)}Giá Bán
+Dialogue: 0,0:03:13.83,0:03:13.96,screen_text,Sign,0,0,0,,{\fs13\frz16.92\frx0\fry8\pos(346.666,220.667)\c&HDBDCD5&\3c&H5D5B51&\clip(m 246 242 l 351 218 367 229 381 235 393 235 230 278)}Đá Cường Hóa Vũ Khí
+Dialogue: 0,0:03:13.96,0:03:14.04,screen_text,Sign,0,0,0,,{\fs13\frz16.92\frx0\fry8\pos(346.666,220.667)\c&HDBDCD5&\3c&H5D5B51&\clip(m 246 242 l 373 207 388 212 410 209 430 198 462 278 224 261)}Đá Cường Hóa Vũ Khí
+Dialogue: 0,0:03:14.04,0:03:14.13,screen_text,Sign,0,0,0,,{\fs13\frz16.92\frx0\fry8\pos(346.666,220.667)\c&HDBDCD5&\3c&H5D5B51&\clip(m 246 242 l 391 209 400 218 420 211 436 202 462 278 224 261)}Đá Cường Hóa Vũ Khí
+Dialogue: 0,0:03:14.13,0:03:14.21,screen_text,Sign,0,0,0,,{\fs13\frz16.92\frx0\fry8\pos(346.666,220.667)\c&HDBDCD5&\3c&H5D5B51&\clip(m 246 242 l 391 209 426 178 432 198 420 216 462 278 224 261)}Đá Cường Hóa Vũ Khí
+Dialogue: 0,0:03:14.21,0:03:14.96,screen_text,Sign,0,0,0,,{\fs13\frz16.92\frx0\fry8\pos(346.666,220.667)\c&HDBDCD5&\3c&H5D5B51&}Đá Cường Hóa Vũ Khí
+Dialogue: 0,0:03:16.92,0:03:19.06,Default,Grid,0,0,0,,Đắt đỏ thật đấy...
+Dialogue: 0,0:03:19.06,0:03:23.10,Default,Grid,0,0,0,,Mình đang phải cày tiền trả nợ cho bố\Nvà gánh vác cả gia đình...
+Dialogue: 0,0:03:24.03,0:03:26.40,italics,Grid,0,0,0,,Lúc này không nên phung phí\Ndù chỉ là một xu.
+Dialogue: 0,0:03:26.40,0:03:28.62,italics,Grid,0,0,0,,Liệu bỏ tiền ra đập đồ lúc này có ổn không?
+Dialogue: 0,0:03:29.43,0:03:31.53,italics,Grid,0,0,0,,Không, đây gọi là đầu tư!
+Dialogue: 0,0:03:31.53,0:03:32.81,italics,Grid,0,0,0,,Mình đâu có tiêu hoang phí đâu!
+Dialogue: 0,0:03:32.81,0:03:33.73,Default,Grid,0,0,0,,Lên nào!
+Dialogue: 0,0:03:34.02,0:03:34.87,Default,Grid,0,0,0,,Cường hóa!
+Dialogue: 0,0:03:44.18,0:03:47.58,screen_text,Sign,0,0,0,,{\an5\fad(127,0)\frx12\fry6\frz5.711\move(314,83.333,304,94,127,3380)}Đoản Kiếm Của Lý Tưởng\N{\b0}Cường Hóa +1 Thành Công{\b1}
+Dialogue: 0,0:03:44.39,0:03:47.58,italics,System,0,0,0,,[Hệ thống] Bạn đã cường hóa thành công\NĐoản Kiếm Của Lý Tưởng lên +1.
+Dialogue: 0,0:03:48.14,0:03:50.29,italicstop,System,0,0,0,,[Hệ thống] Đã tiêu hao 1 Đá Cường Hóa Vũ Khí.
+Dialogue: 0,0:03:48.49,0:03:50.29,italics,Grid,0,0,0,,Ngon rồi! Tiếp tục nào!
+Dialogue: 0,0:03:50.29,0:03:50.60,screen_text,Sign,0,0,0,,{\fad(0,79)\an5\pos(301.333,95.334)\frx12\fry6\frz5.711}Đoản Kiếm Của Lý Tưởng\N{\b0}Cường Hóa +1 Thành Công{\b1}
+Dialogue: 0,0:03:51.21,0:03:53.27,italics,System,0,0,0,,[Hệ thống] Cường hóa +2 thành công.
+Dialogue: 0,0:03:51.35,0:03:53.35,screen_text,Sign,0,0,0,,{\frx12\fry6\frz5.711\an5\fad(131,79)\pos(312.667,94)}Đoản Kiếm Của Lý Tưởng\N{\b0}Cường Hóa +2 Thành Công{\b1}
+Dialogue: 0,0:03:53.85,0:03:56.00,screen_text,Sign,0,0,0,,{\frx12\fry6\frz5.711\an5\fad(131,0)\pos(312.667,94)}Đoản Kiếm Của Lý Tưởng\N{\b0}Cường Hóa +3 Thành Công{\b1}
+Dialogue: 0,0:03:53.95,0:03:56.00,italics,System,0,0,0,,[Hệ thống] Cường hóa +3 thành công.
+Dialogue: 0,0:03:57.05,0:03:59.46,italics,System,0,0,0,,[Hệ thống] Cường hóa +4 thành công.
+Dialogue: 0,0:04:01.76,0:04:03.68,italics,System,0,0,0,,[Hệ thống] Cường hóa +5 thành công.
+Dialogue: 0,0:04:04.57,0:04:07.01,Default,Grid,0,0,0,,Hôm nay vận đỏ thế nhỉ!
+Dialogue: 0,0:04:07.33,0:04:09.22,screen_text,Sign,0,0,0,,{\fs18\fad(125,0)\c&H7151CA&\3c&H292356&\frx14\fry14\pos(348.667,70)\frz350.7}Đoản Kiếm Của Lý Tưởng
+Dialogue: 0,0:04:09.51,0:04:13.35,italics,Grid,0,0,0,,Từ mốc +6 trở đi, tỉ lệ thành công tụt dốc thảm hại.
+Dialogue: 0,0:04:13.35,0:04:16.25,italics,Grid,0,0,0,,Mà nếu xịt là trang bị bị hạ cấp liền.
+Dialogue: 0,0:04:16.25,0:04:18.75,italics,Grid,0,0,0,,Thôi, thử vận may đến đây là đủ rồi.
+Dialogue: 0,0:04:22.28,0:04:24.17,Default,Grid,0,0,0,,Nhưng mà... thêm một lần nữa thì sao nhỉ?
+Dialogue: 0,0:04:24.17,0:04:28.12,Default,Grid,0,0,0,,Lên được +6 là\Nvũ khí sẽ phát sáng lấp lánh đấy!
+Dialogue: 0,0:04:28.81,0:04:33.36,Default,Grid,0,0,0,,Một lần nữa thôi... Chỉ đúng một lần nữa...
+Dialogue: 0,0:04:34.71,0:04:36.34,Default,Grid,0,0,0,,Mình đang nghĩ cái quái gì thế này?
+Dialogue: 0,0:04:36.34,0:04:38.41,Default,Grid,0,0,0,,Cả cơ nghiệp gia đình đang đè nặng lên vai mình đấy!
+Dialogue: 0,0:04:38.78,0:04:41.35,Default,Grid,0,0,0,,Bán thêm mười viên đá cường hóa nữa đi!
+Dialogue: 0,0:04:41.71,0:04:43.84,italics,Grid,0,0,0,,Liều một phen xem sao, sợ gì chứ?
+Dialogue: 0,0:04:44.30,0:04:45.44,italics,System,0,0,0,,[Hệ thống] Cường hóa thất bại.
+Dialogue: 0,0:04:45.44,0:04:47.30,italics,System,0,0,0,,[Hệ thống] Phạt trừ 3 cấp cường hóa.
+Dialogue: 0,0:04:47.30,0:04:49.56,Default,Grid,0,0,0,,Rớt về +2 luôn rồi!
+Dialogue: 0,0:04:49.56,0:04:52.03,Default,Grid,0,0,0,,Bất công vãi! Chết tiệt! Chết tiệt thật!
+Dialogue: 0,0:04:52.03,0:04:54.60,italics,System,0,0,0,,[Hệ thống] Đã tiêu hao 1 Đá Cường Hóa Vũ Khí.
+Dialogue: 0,0:04:54.60,0:04:56.81,italics,System,0,0,0,,[Hệ thống] Cường hóa +3 thành công.
+Dialogue: 0,0:04:57.27,0:04:59.89,italics,System,0,0,0,,[Hệ thống] Đã tiêu hao 1 Đá Cường Hóa Vũ Khí.
+Dialogue: 0,0:05:00.28,0:05:01.43,italics,System,0,0,0,,[Hệ thống] Cường hóa thất bại.
+Dialogue: 0,0:05:01.43,0:05:03.55,italics,System,0,0,0,,[Hệ thống] Phạt trừ 3 cấp cường hóa.
+Dialogue: 0,0:05:03.55,0:05:07.78,Default,Grid,0,0,0,,Khốn kiếp! Dù tốn bao nhiêu tiền\Ntao cũng phải đập lên +6 bằng được!
+Dialogue: 0,0:05:10.35,0:05:11.48,Default,Crowd,0,0,0,,Đỉnh chóp thật sự!
+Dialogue: 0,0:05:11.48,0:05:14.13,Default,Crowd,0,0,0,,Lần đầu tiên thấy tận mắt luôn đấy! Ghen tị ghê!
+Dialogue: 0,0:05:14.13,0:05:17.15,Default,Crowd,0,0,0,,Oa! Vũ khí đó ít nhất cũng phải +6 trở lên rồi!
+Dialogue: 0,0:05:17.15,0:05:19.23,italics,Grid,0,0,0,,Thành công rồi! Cuối cùng cũng lên!
+Dialogue: 0,0:05:19.67,0:05:23.32,italics,Grid,0,0,0,,2.000 vàng bỏ ra đúng là không hề uổng phí!
+Dialogue: 0,0:05:24.66,0:05:27.63,Default,Roy,0,0,0,,Gì cơ, tưởng thế là ghê gớm lắm à?
+Dialogue: 0,0:05:27.63,0:05:29.84,Default,Roy,0,0,0,,Đúng là lũ bần nông chẳng biết trời cao đất dày là gì.
+Dialogue: 0,0:05:30.41,0:05:31.37,Default,Crowd,0,0,0,,Đó chẳng phải là...
+Dialogue: 0,0:05:31.37,0:05:34.20,italics,Grid,0,0,0,,Tên này từng lên bản tin rồi thì phải.
+Dialogue: 0,0:05:34.20,0:05:36.08,italics,Grid,0,0,0,,Hắn ta sở hữu chức nghiệp cấp Sử thi.
+Dialogue: 0,0:05:36.08,0:05:36.65,Default,Crowd,0,0,0,,Là Roy kìa!
+Dialogue: 0,0:05:36.65,0:05:37.52,Default,Crowd,0,0,0,,Thật luôn hả?
+Dialogue: 0,0:05:37.93,0:05:40.98,Default,Roy,0,0,0,,Mới lên được +6 mà đã tưởng mình ghê gớm sao?
+Dialogue: 0,0:05:40.98,0:05:42.69,Default,Roy,0,0,0,,Nhìn thảm hại thật đấy.
+Dialogue: 0,0:05:42.69,0:05:46.11,Default,Grid,0,0,0,,Cái gì? Mày có ý kiến gì với vũ khí của tao à?
+Dialogue: 0,0:05:47.67,0:05:49.81,Default,Roy,0,0,0,,Thấy bộ dạng mày hớn hở đắc chí
+Dialogue: 0,0:05:49.81,0:05:52.32,Default,Roy,0,0,0,,trong khi đang khoác cái bộ giẻ rách bẩn thỉu kia\Nnhìn buồn cười vãi chưởng.
+Dialogue: 0,0:05:54.02,0:05:55.87,Default,Roy,0,0,0,,Đã là cường hóa...
+Dialogue: 0,0:05:59.92,0:06:02.96,Default,Roy,0,0,0,,thì ít nhất cũng phải đạt tới đẳng cấp này!
+Dialogue: 0,0:06:03.95,0:06:04.79,Default,Crowd,0,0,0,,Luồng sáng đó!
+Dialogue: 0,0:06:04.79,0:06:05.90,Default,Crowd,0,0,0,,Là cấp +8!
+Dialogue: 0,0:06:05.90,0:06:07.76,Default,Crowd,0,0,0,,Vũ khí +8 kìa!
+Dialogue: 0,0:06:09.37,0:06:10.51,Default,Grid,0,0,0,,Thì đã sao chứ?
+Dialogue: 0,0:06:11.62,0:06:14.80,Default,Grid,0,0,0,,Mày đập vũ khí lên cấp bao nhiêu\Ntao đách thèm quan tâm.
+Dialogue: 0,0:06:15.11,0:06:20.10,Default,Grid,0,0,0,,Với tao, thanh đoản kiếm tự tay tao đổ mồ hôi\Nchế tạo ra này ngầu hơn gấp vạn lần!
+Dialogue: 0,0:06:21.02,0:06:23.44,Default,Grid,0,0,0,,Cái loại chỉ biết vung tiền mua đồ
+Dialogue: 0,0:06:23.44,0:06:26.01,Default,Grid,0,0,0,,thì chẳng bao giờ cảm nhận được sự thỏa mãn này đâu.
+Dialogue: 0,0:06:26.39,0:06:30.05,Default,Grid,0,0,0,,Lũ nhà giàu nứt vách cả đời chưa từng phải lao động chân tay\Nnhư tụi mày thì biết cái quái gì chứ!
+Dialogue: 0,0:06:31.99,0:06:34.36,flashback,Roy's Brother,0,0,0,,Cả đời mày chưa từng phải làm lụng vất vả,
+Dialogue: 0,0:06:34.36,0:06:37.69,flashback,Roy's Brother,0,0,0,,nên mày chẳng hiểu được gì đâu.\NĐừng có cản đường tao.
+Dialogue: 0,0:06:42.73,0:06:45.44,Default,Roy,0,0,0,,Được thôi, cứ việc tận hưởng sự thỏa mãn rác rưởi của mày đi.
+Dialogue: 0,0:06:45.80,0:06:46.96,Default,Roy,0,0,0,,Đồ mạt rệp rách rưới.
+Dialogue: 0,0:06:48.13,0:06:49.98,Default,Crowd,0,0,0,,Đúng là tên hống hách.
+Dialogue: 0,0:06:49.98,0:06:51.46,Default,Crowd,0,0,0,,Kiêu ngạo ra mặt luôn kìa.
+Dialogue: 0,0:06:51.46,0:06:52.85,Default,Crowd,0,0,0,,Hắn phải nạp bao nhiêu tiền mới lên được món đó nhỉ?
+Dialogue: 0,0:06:53.79,0:06:55.07,Default,Grid,0,0,0,,Cho mày sáng mắt ra.
+Dialogue: 0,0:06:57.81,0:07:01.02,italics,Grid,0,0,0,,Tao đâu có trẻ con đến mức\Nphải đi ghen tị với loại như Roy.
+Dialogue: 0,0:07:03.12,0:07:06.98,italics,Grid,0,0,0,,Mấy viên Đá Ban Phước này tao quyết không thèm dùng!
+Dialogue: 0,0:07:08.32,0:07:10.82,Default,Khan,0,0,0,,Cháu vừa quay về là bắt tay vào làm việc ngay đấy à?
+Dialogue: 0,0:07:11.04,0:07:15.28,Default,Grid,0,0,0,,Cháu đang rèn thêm ít đồ để mai mang tới Hẻm Núi Kesan bác ạ.
+Dialogue: 0,0:07:15.28,0:07:17.53,Default,Khan,0,0,0,,Thế thì đúng lúc lắm.
+Dialogue: 0,0:07:17.96,0:07:23.46,Default,Khan,0,0,0,,Bác nghĩ mấy tấm da orc cháu vứt đi có thể dùng làm lớp đệm giáp,
+Dialogue: 0,0:07:23.46,0:07:25.50,Default,Khan,0,0,0,,nên bác đã quay lại lò rèn.
+Dialogue: 0,0:07:28.45,0:07:31.43,Default,Khan,0,0,0,,Có lẽ đây là kiệt tác tuyệt vời nhất\Nmà cả đời bác từng tạo ra đấy.
+Dialogue: 0,0:07:31.85,0:07:33.93,Default,Khan,0,0,0,,Hy vọng nó sẽ giúp ích cho cháu.
+Dialogue: 0,0:07:33.93,0:07:35.89,Default,Grid,0,0,0,,O-Oa!
+Dialogue: 0,0:07:35.89,0:07:37.58,Default,Grid,0,0,0,,Bác làm cháu có thêm động lực để cày cuốc rồi!
+Dialogue: 0,0:07:37.58,0:07:39.10,Default,Grid,0,0,0,,Cháu cảm ơn bác nhiều lắm!
+Dialogue: 0,0:07:40.60,0:07:42.89,italics,Grid,0,0,0,,Kệ cha cái thanh vũ khí +8 vớ vẩn của hắn đi!
+Dialogue: 0,0:07:42.89,0:07:44.90,italics,Grid,0,0,0,,Bố mày chả thèm ghen tị tí nào hết!
+Dialogue: 0,0:07:45.88,0:07:48.65,italics,Grid,0,0,0,,Ngẩng cao đầu mà tiến bước nào!
+Dialogue: 0,0:08:03.50,0:08:06.96,Default,Grid,0,0,0,,Đoản kiếm +8! Quá ngầu luôn!
+Dialogue: 0,0:08:10.07,0:08:14.18,Default,Grid,0,0,0,,Cơ mà rốt cuộc mình cũng xài nhẵn\Nmớ Đá Cường Hóa Ban Phước kia rồi...
+Dialogue: 0,0:08:14.97,0:08:17.77,Default,Grid,0,0,0,,Nhất định mình phải tìm ra bức bích họa\NKiếm Vũ Pagma trên vách hẻm núi
+Dialogue: 0,0:08:17.77,0:08:19.92,Default,Grid,0,0,0,,bằng mọi giá!
+Dialogue: 0,0:08:28.18,0:08:30.32,italics,Grid,0,0,0,,Nếu sẩy chân rơi xuống dưới là toi đời ngay.
+Dialogue: 0,0:08:30.32,0:08:32.74,italics,Grid,0,0,0,,Mình chưa kịp chế tạo áo choàng tàng hình,
+Dialogue: 0,0:08:32.74,0:08:35.95,italics,Grid,0,0,0,,nhưng nếu nhẹ nhàng di chuyển để quái không phát hiện ra...
+Dialogue: 0,0:08:39.28,0:08:41.37,Default,Grid,0,0,0,,Số mình đen như chó mực vậy!
+Dialogue: 0,0:08:43.31,0:08:45.71,screen_text,Sign,0,0,0,,{\fs28\fad(129,0)\t(0,2400,\fs27)\frz357.4\move(350,116,345.143,117.143,0,2381)}Thằn Lằn Hẻm Núi
+Dialogue: 0,0:08:43.31,0:08:45.71,screen_text,Sign,0,0,0,,{\b0\fs28\fad(129,0)\t(0,2400,\fs27)\frz357.4\move(284.953,237.714,282.857,236.571,0,2381)}Cấp độ
+Dialogue: 0,0:08:43.42,0:08:45.27,italics,System,0,0,0,,[Hệ thống] Giám định thành công.
+Dialogue: 0,0:08:49.13,0:08:52.80,italics,System,0,0,0,,[Hệ thống] Kiệt Tác Của Khan.\NSát thương vật lý gánh chịu giảm 20%.
+Dialogue: 0,0:08:53.54,0:08:56.13,italics,Grid,0,0,0,,Phù! May mà mình có bộ giáp Sử thi của bác Khan!
+Dialogue: 0,0:08:58.47,0:08:59.47,Default,Grid,0,0,0,,Đao Phong!
+Dialogue: 0,0:09:05.70,0:09:07.64,italicstop,System,0,0,0,,[Hệ thống] Đã tiêu diệt Thằn Lằn Hẻm Núi.
+Dialogue: 0,0:09:05.93,0:09:10.25,Default,Grid,0,0,0,,Mình mới cấp 85 mà hạ quái cấp 162\Ndễ như ăn cháo thế này sao...
+Dialogue: 0,0:09:07.86,0:09:10.55,italicstop,System,0,0,0,,[Hệ thống] Bạn nhận được 329.000 điểm kinh nghiệm.
+Dialogue: 0,0:09:10.55,0:09:12.41,Default,Grid,0,0,0,,Tất cả là nhờ vũ khí đã được cường hóa của mình đấy!
+Dialogue: 0,0:09:14.67,0:09:15.82,screen_text,Sign,0,0,0,,{\fs28\fad(134,0)\frx346\fry0\pos(324,144)}Người Thằn Lằn Hẻm Núi
+Dialogue: 0,0:09:14.67,0:09:15.82,screen_text,Sign,0,0,0,,{\fs28\fad(134,0)\frx346\fry0\b0\pos(276,236)}Cấp độ
+Dialogue: 0,0:09:16.71,0:09:18.41,Default,Grid,0,0,0,,Lại mò tới nữa à?
+Dialogue: 0,0:09:18.41,0:09:20.53,Default,Grid,0,0,0,,Nhào vô, lũ thằn lằn não phẳng!
+Dialogue: 0,0:09:28.42,0:09:29.41,italics,Grid,0,0,0,,Chết tiệt!
+Dialogue: 0,0:09:29.41,0:09:31.79,italics,Grid,0,0,0,,Bọn này mạnh hơn con lúc nãy nhiều!
+Dialogue: 0,0:09:33.15,0:09:36.02,italics,Grid,0,0,0,,Trước tiên phải bẻ gãy đòn tấn công của chúng đã!
+Dialogue: 0,0:09:36.02,0:09:37.43,Default,Grid,0,0,0,,Chính Nghĩa Bất Khuất!
+Dialogue: 0,0:09:38.55,0:09:39.43,italics,Grid,0,0,0,,Ngay bây giờ!
+Dialogue: 0,0:09:39.43,0:09:40.68,Default,Grid,0,0,0,,Đao Phong!
+Dialogue: 0,0:09:42.19,0:09:43.96,Default,Grid,0,0,0,,Và tiếp theo là combo kỹ năng!
+Dialogue: 0,0:09:43.96,0:09:45.69,Default,Grid,0,0,0,,Phản Xạ Nhanh!
+Dialogue: 0,0:09:46.34,0:09:49.02,italics,System,0,0,0,,[Hệ thống] Kích hoạt Cơn Thịnh Nộ Của Thợ Rèn.
+Dialogue: 0,0:09:49.02,0:09:52.29,italics,System,0,0,0,,[Hệ thống] Kích hoạt hiệu ứng trang bị của Găng Tay Tuyệt Hảo.
+Dialogue: 0,0:09:52.29,0:09:54.23,italics,System,0,0,0,,[Hệ thống] Mục tiêu sẽ phải chịu đòn tấn công kép.
+Dialogue: 0,0:09:55.35,0:09:57.20,italics,Grid,0,0,0,,Vận may cũng đang mỉm cười với mình!
+Dialogue: 0,0:10:16.17,0:10:17.77,Default,Grid,0,0,0,,Cuối cùng cũng xoay xở hạ được bọn chúng.
+Dialogue: 0,0:10:17.77,0:10:20.06,italics,System,0,0,0,,[Hệ thống] Đã tiêu diệt Người Thằn Lằn Hẻm Núi.
+Dialogue: 1,0:10:20.51,0:10:23.53,screen_text,Sign,0,0,0,,{\fs18\fad(151,74)\frx2\fry4\frz348.5\c&HD8CEC8&\pos(216,143.333)}Grid
+Dialogue: 1,0:10:20.51,0:10:23.53,screen_text,Sign,0,0,0,,{\b0\fs18\fad(151,74)\frx2\fry4\frz348.5\c&HD8CEC8&\pos(167.333,152.666)}Nghề nghiệp
+Dialogue: 1,0:10:20.51,0:10:23.53,screen_text,Sign,0,0,0,,{\b0\fs15\fad(151,74)\frx2\fry4\frz348.5\c&H35A9D5&\pos(250,172)}Hậu Duệ Của Pagma
+Dialogue: 1,0:10:20.51,0:10:23.53,screen_text,Sign,0,0,0,,{\b0\fs18\fad(151,74)\frx2\fry4\frz348.5\c&HD8CEC8&\pos(159.333,167.333)}Phẩm cấp
+Dialogue: 1,0:10:20.51,0:10:23.53,screen_text,Sign,0,0,0,,{\b0\fs15\fad(151,74)\frx2\fry4\frz348.5\c&H35A9D5&\pos(222,182.667)}Huyền Thoại
+Dialogue: 1,0:10:20.51,0:10:23.53,screen_text,Sign,0,0,0,,{\b0\fs18\fad(151,74)\frx2\fry4\frz348.5\c&HD8CEC8&\pos(157.333,184.666)}Danh hiệu
+Dialogue: 1,0:10:20.51,0:10:23.53,screen_text,Sign,0,0,0,,{\b0\fs15\fad(151,74)\frx2\fry4\frz348.5\c&H35A9D5&\pos(233.333,202.667)}Kẻ Huyền Thoại
+Dialogue: 0,0:10:20.51,0:10:23.53,screen_text,Sign,0,0,0,,{\b0\fs15\fad(151,74)\frx2\fry4\frz348.5\blur2\an7\bord0\p1\alpha&H5&\c&H947767&\pos(193.999,139.999)}m 0 0 l 57 0 57 18 0 18
+Dialogue: 0,0:10:20.51,0:10:23.53,screen_text,Sign,0,0,0,,{\b0\fs15\fad(151,74)\frx2\fry4\frz348.5\blur2\an7\bord0\p1\alpha&H5&\c&H947767&\pos(144.665,183.333)}m 0 0 l 30 0 30 18 0 18
+Dialogue: 0,0:10:20.51,0:10:23.53,screen_text,Sign,0,0,0,,{\b0\fs15\fad(151,74)\frx2\fry4\frz348.5\blur2\an7\bord0\p1\alpha&H5&\c&H947767&\pos(152.665,152)}m 0 0 l 30 0 30 18 0 18
+Dialogue: 0,0:10:20.51,0:10:23.53,screen_text,Sign,0,0,0,,{\b0\fs15\fad(151,74)\frx2\fry4\frz348.5\blur2\an7\bord0\p1\alpha&H5&\c&H947767&\pos(149.332,166.666)}m 0 0 l 30 0 30 18 0 18
+Dialogue: 0,0:10:20.51,0:10:23.53,screen_text,Sign,0,0,0,,{\b0\fs15\fad(151,74)\frx2\fry4\frz348.5\blur2\an7\bord0\p1\alpha&H5&\c&H947767&\pos(185.999,191.332)}m 0 0 l 100 0 100 18 0 18
+Dialogue: 0,0:10:20.51,0:10:23.53,screen_text,Sign,0,0,0,,{\b0\fs15\fad(151,74)\frx2\fry4\frz348.5\blur2\an7\bord0\p1\alpha&H5&\c&H947767&\pos(189.332,159.999)}m 0 0 l 100 0 100 18 0 18
+Dialogue: 0,0:10:20.51,0:10:23.53,screen_text,Sign,0,0,0,,{\b0\fs15\fad(151,74)\frx2\fry4\frz348.5\blur2\an7\bord0\p1\alpha&H5&\c&H947767&\pos(187.999,175.332)}m 0 0 l 100 0 100 18 0 18
+Dialogue: 0,0:10:20.78,0:10:23.99,italics,System,0,0,0,,[Hệ thống] Bạn nhận được 948.000 điểm kinh nghiệm.
+Dialogue: 0,0:10:24.89,0:10:28.39,Default,Grid,0,0,0,,Xả đống kỹ năng xong cạn sạch mana rồi.
+Dialogue: 0,0:10:28.70,0:10:31.21,Default,Grid,0,0,0,,Lên cấp thì mana sẽ tự hồi phục đầy lại, nhưng mà...
+Dialogue: 0,0:10:33.24,0:10:34.82,italics,Grid,0,0,0,,Cơ mà thôi kệ...
+Dialogue: 0,0:10:37.25,0:10:41.24,italics,Grid,0,0,0,,Miễn là không đụng độ Nhện Hẻm Núi\Nthì chắc vẫn ổn áp thôi.
+Dialogue: 0,0:10:41.55,0:10:45.74,italics,Grid,0,0,0,,Đó là thứ cuối cùng mình muốn chạm mặt lúc này!
+Dialogue: 0,0:10:49.18,0:10:52.25,Default,Pairo,0,0,0,,Chuỗi combo kỹ năng kết hợp cùng trang bị uy lực...
+Dialogue: 0,0:10:53.59,0:10:56.54,Default,Pairo,0,0,0,,Lại còn cẩn trọng từng li từng tí nữa.
+Dialogue: 0,0:10:58.52,0:10:59.93,Default,Pairo,0,0,0,,Asmophel...
+Dialogue: 0,0:11:01.09,0:11:04.29,Default,Pairo,0,0,0,,Cuối cùng ta cũng tìm được kẻ\Ncó thể giúp ta rửa mối hận này!
+Dialogue: 0,0:11:07.15,0:11:09.43,Default,Grid,0,0,0,,Kiếm Vũ Pagma...
+Dialogue: 0,0:11:09.79,0:11:12.44,Default,Grid,0,0,0,,Rốt cuộc bức bích họa đó nằm ở đâu nhỉ?
+Dialogue: 0,0:11:12.68,0:11:13.54,Default,Otogi,0,0,0,,Chết tiệt!
+Dialogue: 0,0:11:15.98,0:11:18.82,Default,Minowa,0,0,0,,Biết thế chúng ta chả dại gì mò tới Hẻm Núi Kesan.
+Dialogue: 0,0:11:18.82,0:11:21.41,Default,Otogi,0,0,0,,Minowa! Mày vừa lảm nhảm cái gì đấy?
+Dialogue: 0,0:11:21.41,0:11:23.00,Default,Minowa,0,0,0,,K-Không có gì đâu...
+Dialogue: 0,0:11:23.00,0:11:25.89,Default,Otogi,0,0,0,,Đừng có tinh tướng chỉ vì\Ntao cho mày vào tổ đội đấy nhé!
+Dialogue: 0,0:11:25.89,0:11:27.57,Default,Otogi,0,0,0,,Tao tẩn cho một trận bây giờ!
+Dialogue: 0,0:11:27.57,0:11:30.87,Default,Minowa,0,0,0,,X-Xin lỗi mà! Tao chỉ đùa thôi!
+Dialogue: 0,0:11:30.87,0:11:32.33,Default,Ueno,0,0,0,,Này, nhìn đằng kia kìa.
+Dialogue: 0,0:11:33.35,0:11:35.17,Default,Minowa,0,0,0,,Có đứa đi solo ở chỗ này á?
+Dialogue: 0,0:11:35.17,0:11:37.80,Default,Minowa,0,0,0,,Chắc chắn phải là người chơi cấp cao rồi!
+Dialogue: 0,0:11:37.80,0:11:40.76,Default,Otogi,0,0,0,,Chào đằng ấy! Giúp tụi tôi với được không?
+Dialogue: 0,0:11:41.31,0:11:42.47,italics,Grid,0,0,0,,Hả?
+Dialogue: 0,0:11:42.47,0:11:43.86,Default,Otogi,0,0,0,,Làm ơn cứu tụi tôi với!
+Dialogue: 0,0:11:43.86,0:11:45.93,Default,Otogi,0,0,0,,Bọn tôi bị một con nhện khổng lồ tóm dính rồi!
+Dialogue: 0,0:11:46.46,0:11:47.43,italics,Grid,0,0,0,,Mình biết tên này!
+Dialogue: 0,0:11:49.32,0:11:50.88,Default,Otogi,0,0,0,,Cứu tụi tôi với.
+Dialogue: 0,0:11:52.52,0:11:54.05,Default,Otogi,0,0,0,,Này!
+Dialogue: 0,0:11:54.05,0:11:55.52,italics,Grid,0,0,0,,Otogi Atsushi!
+Dialogue: 0,0:11:55.76,0:11:58.69,italics,Grid,0,0,0,,Sao bọn chúng lại ở đây?
+Dialogue: 0,0:12:01.00,0:12:04.03,italics,Grid,0,0,0,,Mấy thằng khốn nạn từng bắt nạt mình\Nsuốt những năm cấp ba!
+Dialogue: 0,0:12:04.70,0:12:07.29,italics,Grid,0,0,0,,Vào trong game mà cũng phải đụng mặt bọn chúng nữa sao!
+Dialogue: 0,0:12:08.19,0:12:11.33,italics,Grid,0,0,0,,Khoan đã, sao mình lại phải chạy trốn chứ?
+Dialogue: 0,0:12:12.16,0:12:14.89,italics,Grid,0,0,0,,Mình đâu còn là thằng hèn nhát của ngày xưa nữa.
+Dialogue: 0,0:12:17.39,0:12:18.34,Default,Otogi,0,0,0,,Khốn kiếp thật!
+Dialogue: 0,0:12:18.71,0:12:21.33,Default,Otogi,0,0,0,,Chẳng lẽ bọn mình đành phải đăng xuất sao?
+Dialogue: 0,0:12:22.02,0:12:22.97,Default,Grid,0,0,0,,Yo.
+Dialogue: 0,0:12:25.25,0:12:26.51,Default,Grid,0,0,0,,Cần giúp một tay không?
+Dialogue: 0,0:12:26.51,0:12:29.31,Default,Minowa,0,0,0,,T-Thật á? Làm ơn giúp bọn tôi với!
+Dialogue: 0,0:12:32.49,0:12:34.97,italics,Grid,0,0,0,,Chúng nó không nhìn thấy mặt mình\Nnhờ chiếc mũ này.
+Dialogue: 0,0:12:34.97,0:12:36.97,italics,Grid,0,0,0,,Cơ hội trả thù nghìn năm có một đây rồi!
+Dialogue: 0,0:12:37.42,0:12:39.13,Default,Grid,0,0,0,,Tự mình không thoát ra được à?
+Dialogue: 0,0:12:39.13,0:12:41.30,Default,Grid,0,0,0,,Lạ thật đấy nha.
+Dialogue: 0,0:12:42.79,0:12:45.07,Default,Grid,0,0,0,,Mấy cái tơ này chém đứt dễ ẹc mà.
+Dialogue: 0,0:12:45.57,0:12:48.28,Default,Minowa,0,0,0,,Luồng sáng đó... Đoản kiếm đó là cấp +8!
+Dialogue: 0,0:12:48.28,0:12:52.08,Default,Otogi,0,0,0,,Này, kiếm xịn vãi!\NCậu chém đứt tơ cứu bọn tôi ra được không?
+Dialogue: 0,0:12:54.50,0:12:56.29,Default,Grid,0,0,0,,Được thôi, chuyện nhỏ.
+Dialogue: 0,0:12:56.29,0:12:58.61,Default,Grid,0,0,0,,Miễn là tụi mày giao nộp hết tiền ra đây.
+Dialogue: 0,0:12:59.21,0:13:00.79,Default,Grid,0,0,0,,Có bao nhiêu nôn ra hết xem nào.
+Dialogue: 0,0:13:00.79,0:13:02.49,Default,Grid,0,0,0,,Thử nhảy lên một cái xem sao.
+Dialogue: 0,0:13:03.13,0:13:03.63,Default,Grid,0,0,0,,Ồ!
+Dialogue: 0,0:13:04.30,0:13:06.97,Default,Grid,0,0,0,,Bị trói chặt thế thì nhảy bằng niềm tin à!
+Dialogue: 0,0:13:07.86,0:13:09.89,Default,Otogi,0,0,0,,Mày... thằng khốn nạn này!
+Dialogue: 0,0:13:10.45,0:13:14.47,Default,Grid,0,0,0,,Ủa, cái ánh mắt đó là sao?\NCó ý kiến gì với tao à?
+Dialogue: 0,0:13:14.47,0:13:17.60,Default,Grid,0,0,0,,Muốn nói cái gì thì cứ việc nói to lên xem nào!
+Dialogue: 0,0:13:17.82,0:13:19.93,Default,Grid,0,0,0,,Ngon thì nhào vô! Nhào vô xem nào!
+Dialogue: 0,0:13:18.72,0:13:20.57,Default,Otogi,0,0,0,,Mẹ kiếp mày!
+Dialogue: 0,0:13:20.57,0:13:25.70,Default,Otogi,0,0,0,,Tao biết tỏng rồi. Ngoài đời chắc mày\Nchỉ là thằng otaku thất bại hèn nhát chứ gì!
+Dialogue: 0,0:13:26.33,0:13:29.06,Default,Otogi,0,0,0,,Nói địa chỉ nhà mày ra đây!
+Dialogue: 0,0:13:29.45,0:13:31.75,Default,Otogi,0,0,0,,Tao tới tận nơi đập mày nhừ tử ngay bây giờ!
+Dialogue: 0,0:13:33.41,0:13:36.46,Default,Grid,0,0,0,,Muốn biết tao sống ở đâu à?
+Dialogue: 0,0:13:36.46,0:13:37.98,Default,Grid,0,0,0,,Argentina!
+Dialogue: 0,0:13:37.98,0:13:40.46,Default,Grid,0,0,0,,Có giỏi thì mò sang đó mà tìm tao!
+Dialogue: 0,0:13:44.25,0:13:47.70,Default,Minowa,0,0,0,,Dừng lại đi! Mày nghĩ mày\Ncó thể muốn làm gì thì làm sao hả?!
+Dialogue: 0,0:13:47.70,0:13:48.91,Default,Grid,0,0,0,,Câm mồm lại!
+Dialogue: 0,0:13:49.40,0:13:51.20,Default,Minowa,0,0,0,,Eo ơi, nhìn buồn nôn quá!
+Dialogue: 0,0:13:53.37,0:13:56.01,italics,Grid,0,0,0,,{\i0}Satisfy{\i1} đúng là tuyệt vời ông mặt trời!
+Dialogue: 0,0:13:56.49,0:13:58.56,Default,Ueno,0,0,0,,Này, thôi đi.
+Dialogue: 0,0:13:59.81,0:14:02.55,Default,Ueno,0,0,0,,Nếu cậu không định giúp\Nthì cứ việc rời đi cho rảnh nợ.
+Dialogue: 0,0:14:03.26,0:14:04.23,italics,Grid,0,0,0,,Ueno...
+Dialogue: 0,0:14:05.72,0:14:07.50,italics,Grid,0,0,0,,Cậu ta không giống như những kẻ khác.
+Dialogue: 0,0:14:07.50,0:14:10.17,italics,Grid,0,0,0,,Đôi khi cậu ta còn khuyên can bọn chúng dừng lại.
+Dialogue: 0,0:14:11.37,0:14:13.86,italics,Grid,0,0,0,,Nhưng dù sao thì cậu ta vẫn đàn đúm với tụi nó.
+Dialogue: 0,0:14:14.83,0:14:16.71,Default,Grid,0,0,0,,Tao không cần tiền nữa.
+Dialogue: 0,0:14:16.71,0:14:21.22,Default,Grid,0,0,0,,Quỳ xuống van xin tao cứu đi.
+Dialogue: 0,0:14:21.88,0:14:22.97,Default,Ueno,0,0,0,,Tôi từ chối.
+Dialogue: 0,0:14:23.63,0:14:27.75,Default,Ueno,0,0,0,,Tôi thà chết chứ nhất quyết không\Nhạ mình van xin kẻ như cậu.
+Dialogue: 0,0:14:28.05,0:14:30.24,Default,Ueno,0,0,0,,Thà chết còn hơn.
+Dialogue: 0,0:14:31.53,0:14:32.76,Default,Minowa,0,0,0,,Đúng thế!
+Dialogue: 0,0:14:32.76,0:14:35.11,Default,Otogi,0,0,0,,Bọn tao đách thèm cho mày\Ncái cảm giác hả hê đó đâu!
+Dialogue: 0,0:14:35.11,0:14:36.47,Default,Otogi,0,0,0,,Đồ tâm thần biến thái!
+Dialogue: 0,0:14:37.35,0:14:39.15,italics,Grid,0,0,0,,Chết tiệt thật...
+Dialogue: 0,0:14:39.15,0:14:41.06,italics,Grid,0,0,0,,Tại sao lại như thế này?
+Dialogue: 0,0:14:41.53,0:14:43.98,italics,Grid,0,0,0,,Mình chẳng cảm thấy hả dạ chút nào cả!
+Dialogue: 0,0:14:48.16,0:14:48.95,Default,Minowa,0,0,0,,Này!
+Dialogue: 0,0:14:48.95,0:14:50.53,Default,Minowa,0,0,0,,Mày bỏ đi thật đấy à?
+Dialogue: 0,0:14:52.07,0:14:54.66,Default,Otogi,0,0,0,,Biết ngay thằng đó là thằng otaku thất bại mà!
+Dialogue: 0,0:15:02.85,0:15:04.02,italics,Grid,0,0,0,,Rốt cuộc mình bị làm sao thế này?
+Dialogue: 0,0:15:04.02,0:15:06.99,italics,Grid,0,0,0,,Khốn kiếp! Đúng là nhảm nhí hết sức!
+Dialogue: 0,0:15:08.73,0:15:12.56,italics,Grid,0,0,0,,Ngoài đời thực chúng nó bắt nạt mình tối ngày.
+Dialogue: 0,0:15:12.56,0:15:17.43,italics,Grid,0,0,0,,Giờ vào trong game lại để chúng nó sỉ nhục tiếp sao?
+Dialogue: 0,0:15:19.25,0:15:21.87,italics,Grid,0,0,0,,Không, tao nhất định phải bắt tụi mày trả giá.
+Dialogue: 0,0:15:30.51,0:15:32.99,Default,Grid,0,0,0,,Tao dẫn Nhện Hẻm Núi tới cho tụi mày đây!
+Dialogue: 0,0:15:32.99,0:15:36.26,Default,Grid,0,0,0,,Cứ việc nếm trải đau đớn rồi chết đi!
+Dialogue: 0,0:15:38.58,0:15:40.14,italics,Grid,0,0,0,,Hở?
+Dialogue: 0,0:15:40.88,0:15:43.85,italics,Grid,0,0,0,,Bọn chúng chọn đăng xuất trước rồi à?
+Dialogue: 0,0:15:47.85,0:15:50.81,Default,Grid,0,0,0,,Oa, đúng là Nhện Hẻm Núi rồi!
+Dialogue: 0,0:15:51.58,0:15:55.44,Default,Grid,0,0,0,,Chết tiệt! Đâu có tính tới nước này đâu chứ!
+Dialogue: 0,0:15:55.95,0:15:57.10,Default,Grid,0,0,0,,Đao Phong!
+Dialogue: 0,0:16:02.19,0:16:03.77,Default,Grid,0,0,0,,Không xi nhê gì cả!
+Dialogue: 0,0:16:05.48,0:16:07.62,italics,Grid,0,0,0,,Phòng thủ của nó trâu bò quá!
+Dialogue: 0,0:16:07.62,0:16:12.45,italics,Grid,0,0,0,,Mình muốn tung đòn Chính Nghĩa Bất Khuất\N300% uy lực, nhưng mà...
+Dialogue: 0,0:16:17.61,0:16:19.44,italics,Grid,0,0,0,,Chết tiệt! Không thể áp sát lại gần nó được!
+Dialogue: 0,0:16:19.44,0:16:21.50,italics,Grid,0,0,0,,Phải dùng Đao Phong tấn công từ xa thôi.
+Dialogue: 0,0:16:21.90,0:16:22.96,italics,Grid,0,0,0,,Khoan đã...
+Dialogue: 0,0:16:23.95,0:16:26.92,italics,Grid,0,0,0,,Trò chơi này cho phép tự do đến mức đó cơ mà...
+Dialogue: 0,0:16:27.69,0:16:29.84,italics,Grid,0,0,0,,Liệu mình có thể kết hợp...
+Dialogue: 0,0:16:31.98,0:16:33.74,italics,Grid,0,0,0,,kỹ năng này với kỹ năng khác được không nhỉ!
+Dialogue: 0,0:16:36.70,0:16:37.92,Default,Grid,0,0,0,,Đao Phong!
+Dialogue: 0,0:16:45.71,0:16:47.45,italics,Grid,0,0,0,,Mục tiêu là chỗ này!
+Dialogue: 0,0:16:47.78,0:16:49.85,Default,Grid,0,0,0,,Chính Nghĩa Bất Khuất!
+Dialogue: 0,0:17:08.59,0:17:10.55,Default,Grid,0,0,0,,M-Mình làm được rồi...
+Dialogue: 1,0:17:10.55,0:17:12.96,italics,System,0,0,0,,[Hệ thống] Hợp nhất kỹ năng thành công.
+Dialogue: 0,0:17:10.59,0:17:12.96,screen_text,Sign,0,0,0,,{\3c&H8A775E&\blur1\fs32\fad(148,58)\c&HC5BAA8&\frz4.377\t(314,523,\c&HE0D9D2&\3c&H8A7C70&)\pos(210.667,71.619)}Kỹ Năng
+Dialogue: 0,0:17:10.59,0:17:10.80,screen_text,Sign,0,0,0,,{\an1\b0\fs18\3c&H8A775E&\blur1\fad(148,50)\c&HC5BAA8&\t(314,523,\c&HE0D9D2&\3c&H8A7C70&)\frz6.756\pos(155.239,211.619)}Chính Nghĩa Bất Khuất
+Dialogue: 0,0:17:10.90,0:17:12.96,screen_text,Sign,0,0,0,,{\an1\b0\fs18\3c&H8A775E&\blur1\fad(50,58)\c&HC5BAA8&\t(0,193,\c&HE4DFE0&\3c&H635B52&)\frz9.449\pos(172.954,320.761)}Chính Nghĩa Bất Khuất
+Dialogue: 0,0:17:10.94,0:17:11.09,screen_text,Sign,0,0,0,,{\an1\b0\fs18\3c&H8A775E&\blur1\fad(131,0)\c&HE9DCD2&\pos(175.239,208.19)\frz7.952}Ngọn Gió Chính Nghĩa
+Dialogue: 0,0:17:11.09,0:17:12.96,screen_text,Sign,0,0,0,,{\an1\b0\fs18\3c&HFFFC5B&\blur2\fad(0,50)\c&HFBFEBE&\t(0,523,\c&HE4DFE0&\3c&H635B52&)\frz7.952\pos(155.81,211.619)}Ngọn Gió Chính Nghĩa
+Dialogue: 1,0:17:12.96,0:17:16.51,italics,System,0,0,0,,[Hệ thống] Đã tạo thành công\NKỹ Năng Hợp Nhất "Ngọn Gió Chính Nghĩa".
+Dialogue: 0,0:17:13.21,0:17:16.51,screen_text,Sign,0,0,0,,{\fs15\fad(113,0)\frz4.167\frx4\fry14\pos(409.143,71.429)}Ngọn Gió Chính Nghĩa
+Dialogue: 0,0:17:13.21,0:17:16.51,screen_text,Sign,0,0,0,,{\an7\b0\fs12\fad(113,0)\frz6.768\frx6\fry4\pos(243.714,192.857)}Tấn công diện rộng 320% lên mục tiêu\Ntrong phạm vi bán kính tối đa 6m.
+Dialogue: 0,0:17:13.21,0:17:16.51,screen_text,Sign,0,0,0,,{\an7\b0\fs12\fad(113,0)\frx6\fry4\pos(257.428,263.143)\frz8.218}Điều kiện: Trang bị \"Đoản Kiếm Của Lý Tưởng\"\NThời gian hồi chiêu: 100 giây
+Dialogue: 0,0:17:16.95,0:17:18.91,italicstop,System,0,0,0,,[Hệ thống] Bạn đã tiêu diệt Nhện Hẻm Núi.
+Dialogue: 0,0:17:17.80,0:17:19.86,Default,Grid,0,0,0,,Mình nhận được kỹ năng mới sao?
+Dialogue: 0,0:17:18.91,0:17:22.76,italicstop,System,0,0,0,,[Hệ thống] Bạn nhận được 387.500 điểm kinh nghiệm.
+Dialogue: 0,0:17:22.76,0:17:25.17,italicstop,System,0,0,0,,[Hệ thống] Bạn đã đạt cấp độ 86.
+Dialogue: 0,0:17:24.50,0:17:26.30,Default,Grid,0,0,0,,Tuyệt cú mèo!
+Dialogue: 0,0:17:27.40,0:17:28.69,Default,Pairo,0,0,0,,Khá đấy.
+Dialogue: 0,0:17:30.10,0:17:32.96,italics,Grid,0,0,0,,Ai thế này? Nhìn thì giống NPC,
+Dialogue: 0,0:17:32.96,0:17:34.79,italics,Grid,0,0,0,,nhưng bộ dạng đó...
+Dialogue: 0,0:17:34.24,0:17:35.09,sign_generic,Sign,0,0,0,,{\fad(0,203)\c&H09D9DD&\blur2\fnArial Black\fs25\3c&H0887A7&\move(398,-22,387,9.333,0,814)}Pairo
+Dialogue: 0,0:17:35.11,0:17:37.97,Default,Grid,0,0,0,,Ăn xin đấy à?\NTôi không có tiền bố thí đâu nhé.
+Dialogue: 0,0:17:39.06,0:17:41.33,Default,Pairo,0,0,0,,Dám nói năng như thế với ta, to gan đấy.
+Dialogue: 0,0:17:44.01,0:17:45.50,italics,Grid,0,0,0,,Ông ta mạnh quá!
+Dialogue: 0,0:17:46.32,0:17:48.14,italics,Grid,0,0,0,,Rốt cuộc người này là ai chứ?
+Dialogue: 0,0:17:48.14,0:17:50.18,Default,Pairo,0,0,0,,Ta không muốn tốn thời gian vòng vo.
+Dialogue: 0,0:17:50.57,0:17:52.21,Default,Pairo,0,0,0,,Ta sẽ nói thẳng điều ta muốn.
+Dialogue: 0,0:17:52.73,0:17:54.30,Default,Pairo,0,0,0,,Hãy giúp ta.
+Dialogue: 1,0:17:55.26,0:18:06.87,screen_text,Sign,0,0,0,,{\b0\c&HD8D2CF&\bord1\3c&H524A44&\blur0.5\fs9\an8\pos(530,12.667)}Nhiệm vụ\N{\b1}Trừng Trị Kẻ Phản Bội Thực Sự Của Xích Kỵ Sĩ Đoàn (S){\b0}\NXích Kỵ Sĩ Đoàn của Đế Quốc Saharan là lực lượng\Nmạnh nhất đại lục. Đội trưởng kỵ sĩ hiện tại, Asmophel,\Nbị bắt gặp lén lút tư thông với hoàng hậu và\Nđổ tội cho cựu đội trưởng kỵ sĩ,\NPairo. Pairo hiện đang phải lẩn trốn\Nvà yêu cầu bạn giúp ông ta báo thù.\N\NĐiều kiện hoàn thành: Trừng trị Asmophel\NPhần thưởng hoàn thành: Danh hiệu "Kẻ Báo Thù Thay Thế"\N{\c&H765FAF&}*Kẻ Báo Thù Thay Thế: Mở khóa chỉ số "Tàn Nhẫn".\N\N{\c&HD8D2CF&}Tấn công +100\NHọc kỹ năng: Xung Động Sát Ý
+Dialogue: 0,0:17:55.26,0:18:06.87,screen_text,Sign,0,0,0,,{\an9\bord0\p1\fscy220\alpha&H20&\c&H886754&}m 0 0 l 200 0 200 66 0 66
+Dialogue: 0,0:17:55.61,0:17:56.95,italics,System,0,0,0,,[Hệ thống] Chỉ dẫn hệ thống.
+Dialogue: 0,0:17:56.95,0:18:01.94,italics,System,0,0,0,,[Hệ thống] Đã kích hoạt nhiệm vụ\N"Trừng Trị Kẻ Phản Bội Thực Sự Của Xích Kỵ Sĩ Đoàn" (S).
+Dialogue: 0,0:18:02.40,0:18:06.51,italics,System,0,0,0,,[Hệ thống] Điều kiện hoàn thành: Trừng trị đội trưởng\Nkỵ sĩ đương nhiệm, Asmophel.
+Dialogue: 0,0:18:06.51,0:18:08.09,Default,Grid,0,0,0,,Asmophel...
+Dialogue: 0,0:18:08.41,0:18:12.17,Default,Pairo,0,0,0,,Hắn từng là phó chỉ huy của Xích Kỵ Sĩ Đoàn\Nthuộc Đế Quốc Saharan,
+Dialogue: 0,0:18:12.17,0:18:14.61,Default,Pairo,0,0,0,,lực lượng hùng mạnh nhất trên toàn cõi đại lục này.
+Dialogue: 0,0:18:15.79,0:18:20.10,Default,Pairo,0,0,0,,Dù kiếm thuật xuất chúng nhưng nhân phẩm\Ncủa hắn lại đê hèn vô sỉ.
+Dialogue: 0,0:18:20.80,0:18:25.20,Default,Pairo,0,0,0,,Hắn lén lút tư thông cùng hoàng hậu,\Nnhưng lại đổ hết mọi tội lỗi lên đầu ta!
+Dialogue: 0,0:18:27.23,0:18:32.03,Default,Pairo,0,0,0,,Vì hắn mà ta bị đuổi khỏi hoàng thành,\Nphải mai danh ẩn tích sống chui lủi như thế này.
+Dialogue: 0,0:18:34.05,0:18:36.55,Default,Pairo,0,0,0,,Ta nhất định phải trả mối thù này!
+Dialogue: 0,0:18:36.55,0:18:38.21,italics,Grid,0,0,0,,Báo thù hả?
+Dialogue: 0,0:18:40.59,0:18:42.51,Default,Grid,0,0,0,,Xin lỗi nhé, tôi từ chối.
+Dialogue: 0,0:18:42.81,0:18:45.03,Default,Grid,0,0,0,,Tôi không đủ mạnh, mà cũng chẳng rảnh rỗi.
+Dialogue: 0,0:18:45.86,0:18:47.33,Default,Pairo,0,0,0,,Ngươi chê phần thưởng không xứng đáng sao?
+Dialogue: 0,0:18:48.00,0:18:49.96,Default,Pairo,0,0,0,,Vậy ta sẽ trao cho ngươi thanh kiếm này.
+Dialogue: 0,0:18:50.02,0:18:51.69,screen_text,Sign,0,0,0,,{\fs18\fad(150,0)\c&H6047BD&\3c&H3B3A50&\frz351.7\frx2\fry356\pos(316,108.666)}Trường Kiếm Của Pairo
+Dialogue: 1,0:18:50.02,0:18:51.69,screen_text,Sign,0,0,0,,{\fs12\b0\fad(150,0)\pos(299.333,152)\c&H9C9F9A&\3c&H484437&\frz351.7\frx2\fry356}Phẩm cấp: {\c&H6047BD&\3c&H3B3A50&}Độc Nhất
+Dialogue: 0,0:18:50.02,0:18:51.69,screen_text,Sign,0,0,0,,{\fad(150,0)\blur2\an7\bord0\p1\fscy220\alpha&H5&\c&H6D6651&\b0\frz350.1\pos(255.999,143.999)}m 0 0 l 105 0 105 8 0 8
+Dialogue: 1,0:18:50.02,0:18:51.69,screen_text,Sign,0,0,0,,{\c&HABA8A3&\3c&H484437&\fs15\frz351.7\frx2\fry356\b0\fad(150,0)\pos(245.333,178.667)}Độ bền
+Dialogue: 0,0:18:50.02,0:18:51.69,screen_text,Sign,0,0,0,,{\fad(150,0)\blur2\an7\bord0\p1\fscy220\alpha&H5&\c&H605C47&\b0\frz350.1\pos(215.333,169.332)}m 0 0 l 65 0 65 11 0 11
+Dialogue: 1,0:18:50.02,0:18:51.69,screen_text,Sign,0,0,0,,{\c&HABA8A3&\3c&H484437&\fs15\frz351.7\frx2\fry356\b0\fad(150,0)\pos(280,210.667)}Sức tấn công
+Dialogue: 0,0:18:50.02,0:18:51.69,screen_text,Sign,0,0,0,,{\fad(150,0)\blur2\an7\bord0\p1\fscy220\alpha&H5&\c&H5F5843&\b0\frz350.1\pos(238.666,198.665)}m 0 0 l 65 0 65 11 0 11
+Dialogue: 1,0:18:50.02,0:18:51.69,screen_text,Sign,0,0,0,,{\c&HABA8A3&\3c&H484437&\fs15\frx2\fry356\b0\fad(150,0)\frz350.6\pos(304,238)}Kỹ năng \"{\b1}Cường Hóa Ác Ý{\b0}\"
+Dialogue: 0,0:18:50.02,0:18:51.69,screen_text,Sign,0,0,0,,{\fad(150,0)\blur2\an7\bord0\p1\fscy220\alpha&H5&\c&H59533B&\b0\frz350.1\pos(239.333,223.332)}m 0 0 l 155 0 155 11 0 11
+Dialogue: 1,0:18:50.02,0:18:51.69,screen_text,Sign,0,0,0,,{\fs15\frx2\fry356\b0\fad(150,0)\frz349.1\pos(292,258.666)\c&HABA8A3&\3c&H484437&}Thể lực -100
+Dialogue: 0,0:18:50.02,0:18:51.69,screen_text,Sign,0,0,0,,{\fad(150,0)\blur2\an7\bord0\p1\fscy220\alpha&H5&\c&H544D33&\b0\frz350.1\pos(248.666,247.332)}m 0 0 l 100 0 100 11 0 11
+Dialogue: 0,0:18:50.82,0:18:53.10,italics,Grid,0,0,0,,Đ-Đúng là thanh kiếm tuyệt phẩm!
+Dialogue: 0,0:18:53.10,0:18:54.65,italics,Grid,0,0,0,,Thèm thật đấy, nhưng mà...
+Dialogue: 0,0:18:54.65,0:18:57.40,Default,Pairo,0,0,0,,Nếu ngươi vẫn khăng khăng từ chối, ta sẽ lấy mạng ngươi.
+Dialogue: 0,0:19:00.02,0:19:01.61,Default,Grid,0,0,0,,Muốn giết thì cứ việc.
+Dialogue: 0,0:19:01.61,0:19:02.61,Default,Pairo,0,0,0,,Sao cơ?
+Dialogue: 0,0:19:02.61,0:19:08.33,Default,Grid,0,0,0,,Bị ông giết ở đây còn hơn là nhận nhiệm vụ\Nrồi thất bại bị phạt tụt cấp.
+Dialogue: 0,0:19:09.17,0:19:10.29,Default,Grid,0,0,0,,Hơn nữa...
+Dialogue: 0,0:19:14.46,0:19:19.17,Default,Grid,0,0,0,,Báo thù cũng chẳng có gì hay ho cả, theo tôi là vậy.
+Dialogue: 0,0:19:21.21,0:19:22.16,Default,Pairo,0,0,0,,Cút đi.
+Dialogue: 0,0:19:23.39,0:19:25.91,Default,Grid,0,0,0,,Ông vừa bảo tôi từ chối thì sẽ giết tôi cơ mà.
+Dialogue: 0,0:19:25.91,0:19:28.33,Default,Pairo,0,0,0,,Ta không bao giờ ra tay với kẻ vô tội.
+Dialogue: 0,0:19:30.32,0:19:31.68,italics,Grid,0,0,0,,Lão này bị dở hơi à?
+Dialogue: 0,0:19:31.68,0:19:34.00,italics,Grid,0,0,0,,Ít ra cũng phải để lại thanh kiếm chứ.
+Dialogue: 0,0:19:41.22,0:19:46.08,Default,Grid,0,0,0,,Đây là Thác Nước Loran,\Nnơi hẻo lánh nhất của hẻm núi này.
+Dialogue: 0,0:19:46.62,0:19:48.49,Default,Grid,0,0,0,,Nhưng chuyện đó không quan trọng!
+Dialogue: 0,0:19:48.49,0:19:51.77,Default,Grid,0,0,0,,Bích họa Kiếm Vũ Pagma đâu rồi?!\NBức tranh rốt cuộc ở đâu?!
+Dialogue: 0,0:19:58.09,0:20:00.08,Default,Grid,0,0,0,,Sau làn thác nước!
+Dialogue: 0,0:20:00.08,0:20:02.54,Default,Grid,0,0,0,,Mấy game kiểu này hay giấu đồ ở đây lắm!
+Dialogue: 0,0:20:07.43,0:20:10.98,italics,Grid,0,0,0,,Cuối cùng mình cũng tìm thấy Kiếm Vũ Pagma rồi!
+Dialogue: 0,0:20:12.06,0:20:13.63,italics,Grid,0,0,0,,Hóa ra đây là Pagma sao?
+Dialogue: 0,0:20:14.44,0:20:16.97,italics,Grid,0,0,0,,Ngay cả trong tranh vẽ mà\Nông ta cũng đẹp trai quá mức quy định rồi đấy.
+Dialogue: 0,0:20:17.29,0:20:20.55,Default,Grid,0,0,0,,Ủa, sao nhiệm vụ vẫn chưa hoàn thành?
+Dialogue: 0,0:20:20.55,0:20:23.12,Default,Grid,0,0,0,,Chẳng lẽ bắt mình phải học thuộc hết đống này?
+Dialogue: 0,0:20:23.72,0:20:25.41,Default,Grid,0,0,0,,Phiền phức thật đấy.
+Dialogue: 0,0:20:26.96,0:20:29.34,Default,Grid,0,0,0,,Sao vẫn chưa nhận được kỹ năng nữa?!
+Dialogue: 0,0:20:29.34,0:20:32.12,Default,Grid,0,0,0,,Mình đứng múa may bắt chước suốt ba tiếng đồng hồ rồi đấy!
+Dialogue: 0,0:20:35.24,0:20:36.29,Default,Grid,0,0,0,,Ở đây cũng có một hình vẽ nữa à?
+Dialogue: 0,0:20:36.65,0:20:38.54,screen_text,Sign,0,0,0,,{\fad(127,0)\c&HEEEDEB&\bord0\blur2\t(127,294,\bord1\blur0)\pos(322,114)\3c&H69625D&}Đã Học Được Kiếm Vũ Pagma
+Dialogue: 0,0:20:36.65,0:20:38.54,screen_text,Sign,0,0,0,,{\fs15\b0\fad(127,0)\c&HEEEDEB&\bord0\blur2\t(127,294,\bord1\blur0)\3c&H69625D&\pos(322,168)}Nhiệm Vụ Nghề Nghiệp
+Dialogue: 0,0:20:36.65,0:20:38.54,screen_text,Sign,0,0,0,,{\fad(127,0)\c&HEEEDEB&\bord0\blur2\t(127,294,\bord1\blur0)\3c&H69625D&\pos(322,270)}Chứng Minh Huyền Thoại 1 {\b0}hoàn thành!{\b1}
+Dialogue: 0,0:20:37.14,0:20:38.54,italics,System,0,0,0,,[Hệ thống] Nhiệm vụ hoàn thành.
+Dialogue: 0,0:20:38.54,0:20:41.88,Default,Grid,0,0,0,,Ch-Chỉ cần tìm ra nó là xong thôi á?
+Dialogue: 0,0:20:43.32,0:20:57.23,screen_text,Sign,0,0,0,,{\fad(130,183)\pos(234.667,101.333)\c&HD1C7BF&}Kỹ Năng
+Dialogue: 0,0:20:43.32,0:20:43.51,screen_text,Sign,0,0,0,,{\fad(130,30)\fs10\an1\pos(190,186)\c&HE2C8B5&\3c&HA7907D&}Ngọn Gió Chính Nghĩa
+Dialogue: 0,0:20:43.63,0:20:57.23,screen_text,Sign,0,0,0,,{\fad(70,183)\fs10\an1\c&HEBD9BC&\3c&HBE9671&\pos(190,254)}Ngọn Gió Chính Nghĩa
+Dialogue: 0,0:20:43.78,0:20:43.93,screen_text,Sign,0,0,0,,{\fad(129,0)\fs10\an1\pos(205.333,182.667)\c&HE7CFAE&\3c&HAB896C&}Kiếm Vũ Pagma
+Dialogue: 0,0:20:43.93,0:20:57.23,screen_text,Sign,0,0,0,,{\fad(62,183)\fs10\blur4\an1\pos(193.333,184.667)\c&HDCE0C6&\3c&HE6E957&\t(271,771,\c&HDBC9B6&\3c&H9F8468&\blur0)}Kiếm Vũ Pagma
+Dialogue: 0,0:20:45.01,0:20:47.25,italics,System,0,0,0,,[Hệ thống] Kiếm Vũ Pagma, Cấp 1.
+Dialogue: 0,0:20:47.25,0:20:51.70,italics,System,0,0,0,,[Hệ thống] Tăng 20% sức tấn công\Nkhi kỹ năng không ở trạng thái kích hoạt.
+Dialogue: 0,0:20:51.70,0:20:54.44,italics,System,0,0,0,,[Hệ thống] Tăng 10% tỉ lệ đòn chí mạng.
+Dialogue: 0,0:20:54.77,0:20:56.85,italics,System,0,0,0,,[Hệ thống] Chỉ áp dụng khi đang trang bị kiếm.
+Dialogue: 0,0:20:59.05,0:21:00.19,italics,System,0,0,0,,[Hệ thống] Khi kỹ năng được kích hoạt,
+Dialogue: 0,0:21:00.19,0:21:00.92,screen_text,Sign,0,0,0,,{\frx6\fry14\pos(170.666,94.666)\frz2.614\c&HE3DACF&}Ba
+Dialogue: 0,0:21:00.19,0:21:03.74,italics,System,0,0,0,,[Hệ thống] có thể sử dụng năm chiêu thức kiếm vũ:
+Dialogue: 0,0:21:00.92,0:21:01.61,screen_text,Sign,0,0,0,,{\c&HE3DACF&\pos(137.999,118.666)\frx20\fry338\frz359.4}Tĩnh
+Dialogue: 0,0:21:01.61,0:21:02.34,screen_text,Sign,0,0,0,,{\c&HE3DACF&\pos(169.332,107.332)\frx356\fry332\frz355.4}Liên
+Dialogue: 0,0:21:02.34,0:21:03.03,screen_text,Sign,0,0,0,,{\c&HE3DACF&\frx348\fry14\frz6.061\pos(167.333,133.333)}Sát
+Dialogue: 0,0:21:03.03,0:21:03.74,screen_text,Sign,0,0,0,,{\c&HE3DACF&\pos(192.666,68.666)\frx26\fry22\frz350.7}Siêu
+Dialogue: 0,0:21:03.74,0:21:06.58,italics,System,0,0,0,,[Hệ thống] "Ba", "Tĩnh", "Liên", "Sát" và "Siêu".
+Dialogue: 0,0:21:06.58,0:21:08.08,Default,Grid,0,0,0,,Các chiêu thức kiếm vũ!
+Dialogue: 0,0:21:13.67,0:21:15.08,Default,Grid,0,0,0,,Thật không thể tin nổi!
+Dialogue: 0,0:21:15.08,0:21:17.92,Default,Grid,0,0,0,,Giờ thì mình mạnh ngang ngửa\Ncác chức nghiệp chiến đấu rồi!
+Dialogue: 0,0:21:18.18,0:21:21.65,Default,Grid,0,0,0,,Hiện tại mình chưa thể thi triển Sát hay Siêu được.
+Dialogue: 0,0:21:21.65,0:21:25.85,Default,Grid,0,0,0,,Chắc phải nâng chỉ số trí tuệ\Nđể tăng lượng mana lên đã.
+Dialogue: 0,0:21:29.64,0:21:33.04,Default,Grid,0,0,0,,Nhưng Kiếm Vũ Pagma quả thực mạnh bá cháy!
+Dialogue: 0,0:21:41.69,0:21:46.49,Default,Phoenix,0,0,0,,Tôi e rằng quân đoàn Yatan\Nsẽ tiến sát pháo đài trong vài ngày tới.
+Dialogue: 0,0:21:46.78,0:21:48.40,Default,Irene,0,0,0,,Bọn chúng hành quân thần tốc quá...
+Dialogue: 0,0:21:48.97,0:21:51.76,Default,Irene,0,0,0,,Liệu đây có phải là kế sách của Huyết Phù Thủy không?
+Dialogue: 0,0:21:51.76,0:21:55.29,Default,Phoenix,0,0,0,,Không, cô ta thích hành sự độc lập hơn.
+Dialogue: 0,0:21:55.29,0:21:57.78,Default,Phoenix,0,0,0,,Kẻ vạch ra mưu đồ này\Nnhiều khả năng chính là...
+Dialogue: 0,0:22:00.06,0:22:02.51,Default,Phoenix,0,0,0,,Đại Tội Đồ Thứ Sáu của Giáo hội Yatan,
+Dialogue: 0,0:22:04.27,0:22:07.35,Default,Phoenix,0,0,0,,Đại Tế Ty Malaxus.
+
