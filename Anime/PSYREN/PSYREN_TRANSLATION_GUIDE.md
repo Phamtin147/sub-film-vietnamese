@@ -8,7 +8,7 @@
 - **Tên tác phẩm**: PSYREN (サイレン)
 - **Tác giả**: Toshiaki Iwashiro (Weekly Shonen Jump / Shueisha)
 - **Thể loại**: Hành động Siêu năng lực, Du hành thời gian, Sinh tồn, Hậu tận thế, Shounen.
-- **Dịch giả & Kỹ thuật**: **Phamtin147**
+- **Dịch giả & Kỹ thuật**: **Amtia(NOFACE)**
 - **Chuẩn Font**: **Segoe UI** (Unicode UTF-8 with BOM, Anti-Tofu 100%).
 
 ---
