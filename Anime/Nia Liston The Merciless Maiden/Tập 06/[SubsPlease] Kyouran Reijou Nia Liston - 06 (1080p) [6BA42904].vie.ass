@@ -1,0 +1,493 @@
+﻿[Script Info]
+Title: Vietnamese Fansub (VietSub by Amtia(NOFACE))
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1280
+PlayResY: 720
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Segoe UI,40,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0,2,20,20,20,1
+Style: Q0,Segoe UI,52,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: Q1,Segoe UI,44,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: Q2,Segoe UI,44,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: Q3,Segoe UI,52,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: Q4,Segoe UI,44,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: Q5,Segoe UI,52,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: Q6,Segoe UI,44,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: Q7,Segoe UI,52,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: Q8,Segoe UI,44,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+Style: Q9,Segoe UI,52,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.6,0,2,20,20,46,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:00:02.50,0:00:06.00,Q0,,0,0,0,,Chúng ta sẽ tổ chức một Đại hội Võ thuật\Nmở rộng cho khán giả cùng tham gia!
+Dialogue: 1,0:00:07.17,0:00:09.08,Q0,,0,0,0,,Đại hội Võ thuật sao?!
+Dialogue: 1,0:00:09.08,0:00:10.50,Q0,,0,0,0,,Ý cậu là...
+Dialogue: 1,0:00:10.50,0:00:15.13,Q0,,0,0,0,,các dũng sĩ trên khắp vương quốc sẽ tỷ thí,\Nchém giết nhau đến máu chảy đầu rơi ư?
+Dialogue: 1,0:00:15.13,0:00:16.38,Q0,,0,0,0,,Không đời nào có chuyện đó đâu.
+Dialogue: 1,0:00:16.38,0:00:19.50,Q0,,0,0,0,,Chúng ta sẽ kêu gọi các học viên\Ncủa Học viện Altoire...
+Dialogue: 1,0:00:19.50,0:00:21.54,Q0,,0,0,0,,...cùng tham gia vào một Đại hội Võ thuật.
+Dialogue: 1,0:00:21.75,0:00:23.17,Q0,,0,0,0,,Ra vậy...
+Dialogue: 1,0:00:23.58,0:00:26.92,Q0,,0,0,0,,Thế thì làm gì có cảnh\Nđầu rơi máu chảy nào chứ.
+Dialogue: 1,0:00:27.17,0:00:29.67,Q0,,0,0,0,,Ơ, sao cậu lại mong chờ cái cảnh đó thế hả?
+Dialogue: 1,0:00:29.67,0:00:36.17,Q0,,0,0,0,,Nói toạc ra thì, kế hoạch của cậu là lợi dụng tình thương con của phụ huynh\Nđể dụ họ biết tới truyền hình ma pháp chứ gì.
+Dialogue: 1,0:00:36.17,0:00:38.21,Q0,,0,0,0,,Quả không hổ danh là Hilde, thâm sâu thật đấy.
+Dialogue: 1,0:00:38.21,0:00:39.79,Q0,,0,0,0,,Nia! Cậu lựa lời mà nói chứ!
+Dialogue: 1,0:00:39.79,0:00:40.79,Q0,,0,0,0,,Không sao đâu mà.
+Dialogue: 1,0:00:40.79,0:00:45.42,Q0,,0,0,0,,Ngay cả nhân viên đài truyền hình\Ncòn bảo mình là "gian thương bất chấp" nữa kìa.
+Dialogue: 1,0:00:45.71,0:00:46.21,Q1,,0,0,0,,Sao họ lại nỡ nói thế với một đứa trẻ tám tuổi chứ?
+Dialogue: 1,0:00:46.21,0:00:48.29,Q1,,0,0,0,,Sao họ lại nỡ nói thế với một đứa trẻ tám tuổi chứ?
+Dialogue: 1,0:00:46.21,0:00:48.29,Q0,,0,0,0,,Một sự kiện cấp trường\Nthì toàn là mấy đứa con nít tham gia thôi.
+Dialogue: 1,0:00:48.29,0:00:49.50,Q1,,0,0,0,,Thật tình luôn đấy!
+Dialogue: 1,0:00:48.29,0:00:49.50,Q0,,0,0,0,,Một sự kiện cấp trường\Nthì toàn là mấy đứa con nít tham gia thôi.
+Dialogue: 1,0:00:49.50,0:00:52.13,Q0,,0,0,0,,Chắc chẳng có đối thủ nào xứng tầm\Nxuất đầu lộ diện đâu.
+Dialogue: 1,0:00:56.29,0:00:57.75,Q2,,0,0,0,,Yeah!! RESPAWN!!
+Dialogue: 1,0:00:57.92,0:00:59.33,Q2,,0,0,0,,Yeah!! RESPAWN!!
+Dialogue: 1,0:00:59.50,0:01:01.00,Q2,,0,0,0,,Yeah!! RESPAWN!!
+Dialogue: 1,0:01:01.00,0:01:02.71,Q2,,0,0,0,,Nice to SEE YA!!
+Dialogue: 1,0:01:02.71,0:01:04.00,Q2,,0,0,0,,Yeah!! RESPAWN!!
+Dialogue: 1,0:01:04.17,0:01:05.67,Q2,,0,0,0,,Yeah!! RESPAWN!!
+Dialogue: 1,0:01:05.83,0:01:07.42,Q2,,0,0,0,,Yeah!! RESPAWN!!
+Dialogue: 1,0:01:07.42,0:01:09.08,Q2,,0,0,0,,Nice to SEE YA!!
+Dialogue: 1,0:01:16.29,0:01:19.50,Q2,,0,0,0,,Kinosei ni shita uchigawa no koe ga
+Dialogue: 1,0:01:19.50,0:01:21.79,Q2,,0,0,0,,Shinzou o knock shiteru
+Dialogue: 1,0:01:22.25,0:01:23.83,Q2,,0,0,0,,Are, mou juubunkai?
+Dialogue: 1,0:01:23.83,0:01:25.75,Q2,,0,0,0,,Yarinokoshita koto
+Dialogue: 1,0:01:25.75,0:01:28.29,Q2,,0,0,0,,Yararenokoshita koto
+Dialogue: 1,0:01:28.54,0:01:31.83,Q2,,0,0,0,,Kutakuta ni iro aseta sugata ni
+Dialogue: 1,0:01:31.83,0:01:34.46,Q2,,0,0,0,,Nani o hajirae to yuu
+Dialogue: 1,0:01:34.46,0:01:35.79,Q2,,0,0,0,,Hokoreba ii
+Dialogue: 1,0:01:35.79,0:01:37.54,Q2,,0,0,0,,Okoreba ii
+Dialogue: 1,0:01:37.54,0:01:40.67,Q2,,0,0,0,,Abare tsukusenakatta kinou!
+Dialogue: 1,0:01:41.79,0:01:46.25,Q2,,0,0,0,,White lily muku na ashita o
+Dialogue: 1,0:01:46.25,0:01:49.21,Q2,,0,0,0,,Bloody na hitofude de buchisomeyou
+Dialogue: 1,0:01:49.21,0:01:50.96,Q2,,0,0,0,,Sorette, sorette!
+Dialogue: 1,0:01:50.96,0:01:52.21,Q2,,0,0,0,,Ikiru koto
+Dialogue: 1,0:01:52.46,0:01:54.75,Q2,,0,0,0,,Nankai umaretatte kitto
+Dialogue: 1,0:01:54.75,0:01:57.83,Q2,,0,0,0,,Tarinai watashi yo tsuzuite yuke
+Dialogue: 1,0:01:57.83,0:02:00.83,Q2,,0,0,0,,Kega shitatte "kigashita" tte
+Dialogue: 1,0:02:00.83,0:02:03.21,Q2,,0,0,0,,Karada wa suttoboketeru zo
+Dialogue: 1,0:02:03.21,0:02:04.75,Q2,,0,0,0,,Omae wa dou?
+Dialogue: 1,0:02:04.96,0:02:07.08,Q2,,0,0,0,,Joudan mitaina finale
+Dialogue: 1,0:02:07.08,0:02:10.38,Q2,,0,0,0,,Watashi dake ga waratte nai
+Dialogue: 1,0:02:10.38,0:02:11.79,Q2,,0,0,0,,Warae naindayo
+Dialogue: 1,0:02:11.79,0:02:13.29,Q2,,0,0,0,,Ikerundayo
+Dialogue: 1,0:02:13.29,0:02:15.71,Q2,,0,0,0,,Inochi de bokore!
+Dialogue: 1,0:02:15.71,0:02:17.29,Q2,,0,0,0,,Hoho to isshou
+Dialogue: 1,0:02:17.46,0:02:18.96,Q2,,0,0,0,,Yeah!! RESPAWN!!
+Dialogue: 1,0:02:18.96,0:02:21.00,Q2,,0,0,0,,Yeah yeah yeah yeah yeah
+Dialogue: 1,0:02:23.67,0:02:26.13,Q3,,0,0,0,,Kẻ Lén Lút Trong Bóng Tối
+Dialogue: 1,0:02:26.33,0:02:27.83,Q0,,0,0,0,,Ủa, con nhóc ranh này làm gì ở đây—
+Dialogue: 1,0:02:27.83,0:02:30.54,Q0,,0,0,0,,Suỵt! Đừng có nhìn, không là bị con bé\Nđập cho ra bã bây giờ!
+Dialogue: 1,0:02:30.54,0:02:32.42,Q0,,0,0,0,,Chào mừng em, Lily.
+Dialogue: 1,0:02:33.46,0:02:34.79,Q0,,0,0,0,,Lâu lắm không gặp rồi nhỉ.
+Dialogue: 1,0:02:35.71,0:02:38.29,Q0,,0,0,0,,Cảm ơn chị nhé, chu đáo thật đấy.
+Dialogue: 1,0:02:40.96,0:02:42.29,Q0,,0,0,0,,Không phải rượu đâu đấy.
+Dialogue: 1,0:02:42.29,0:02:43.88,Q0,,0,0,0,,Tất nhiên rồi.
+Dialogue: 1,0:02:43.88,0:02:46.08,Q0,,0,0,0,,Sao lại không chứ? Em cũng là khách quen ở đây mà.
+Dialogue: 1,0:02:46.08,0:02:49.96,Q0,,0,0,0,,Thế chị đã tìm được ai\Nsẵn sàng đấu với em chưa?
+Dialogue: 1,0:02:49.96,0:02:52.17,Q0,,0,0,0,,Chưa, em dọa cho mọi người chạy sạch rồi còn đâu.
+Dialogue: 1,0:02:52.17,0:02:54.00,Q0,,0,0,0,,Thế còn chị thì sao?
+Dialogue: 1,0:02:54.00,0:02:55.71,Q0,,0,0,0,,Chị xin kiếu.
+Dialogue: 1,0:02:55.71,0:02:58.67,Q0,,0,0,0,,Chị thử đủ nhiều rồi,\Nvà chị biết mình chẳng đời nào thắng nổi em đâu.
+Dialogue: 1,0:02:58.67,0:03:02.17,Q0,,0,0,0,,Vả lại giờ việc chính của chị là quản lý quán bar này rồi.
+Dialogue: 1,0:03:02.17,0:03:04.08,Q0,,0,0,0,,Haiz, chị đừng làm em cụt hứng thế chứ.
+Dialogue: 1,0:03:04.08,0:03:07.00,Q0,,0,0,0,,Sao chúng ta không thể cùng nhau bước trên con đường đẫm máu để xưng bá nhỉ?
+Dialogue: 1,0:03:07.00,0:03:09.71,Q0,,0,0,0,,Con đường hủy diệt đó thì em tự đi một mình đi nhé.
+Dialogue: 1,0:03:09.71,0:03:12.13,Q0,,0,0,0,,Chẳng lẽ không còn ai biết đánh nhau sao?
+Dialogue: 1,0:03:12.13,0:03:14.71,Q0,,0,0,0,,Giờ này đến quái vật em cũng chẳng chê đâu đấy.
+Dialogue: 1,0:03:14.71,0:03:17.17,Q0,,0,0,0,,Chị có một chuyện này,\Nchắc em sẽ thấy hứng thú đấy.
+Dialogue: 1,0:03:17.17,0:03:19.58,Q0,,0,0,0,,Em đã nghe nói về Đấu Trường Hắc Ám bao giờ chưa?
+Dialogue: 1,0:03:19.58,0:03:21.21,Q0,,0,0,0,,"Đấu Trường Hắc Ám"?!
+Dialogue: 1,0:03:21.21,0:03:24.46,Q0,,0,0,0,,Đúng như tên gọi của nó,\Nđó là một võ đài ngầm phi pháp.
+Dialogue: 1,0:03:24.46,0:03:26.96,Q0,,0,0,0,,Họ sắp tổ chức một sự kiện lớn ở đó.
+Dialogue: 1,0:03:27.08,0:03:33.42,Q0,,0,0,0,,Mấy kẻ giàu rửng mỡ muốn xem những trận đấu\Nmà người ta phải đem cả mạng sống ra đặt cược,
+Dialogue: 1,0:03:33.42,0:03:35.21,Q0,,0,0,0,,nên các đấu thủ sẽ tử chiến để giành lấy vinh quang.
+Dialogue: 1,0:03:35.71,0:03:37.33,Q0,,0,0,0,,Nghe tuyệt quá đi mất!
+Dialogue: 1,0:03:37.33,0:03:41.33,Q0,,0,0,0,,Tuyệt đến mức em phát hờn\Nvì chị chưa từng nhắc tới nó trước đây đấy.
+Dialogue: 1,0:03:41.33,0:03:43.29,Q0,,0,0,0,,Bởi vì chị biết thừa em sẽ đòi tham gia chứ sao.
+Dialogue: 1,0:03:43.29,0:03:45.29,Q0,,0,0,0,,Nhưng tất nhiên là em muốn tham gia rồi!
+Dialogue: 1,0:03:47.29,0:03:48.33,Q0,,0,0,0,,Không đời nào.
+Dialogue: 1,0:03:48.33,0:03:50.38,Q0,,0,0,0,,Người ta sẽ nhận ra em ngay tắp lự,
+Dialogue: 1,0:03:50.54,0:03:52.75,Q0,,0,0,0,,tiểu thư bé bỏng nhà Liston ạ.
+Dialogue: 1,0:03:52.75,0:03:54.88,Q0,,0,0,0,,Đúng rồi, thế thì hỏng bét.
+Dialogue: 1,0:03:55.08,0:03:57.13,Q0,,0,0,0,,Chị kể cho em là để cảnh báo đấy nhé.
+Dialogue: 1,0:03:57.13,0:04:01.88,Q0,,0,0,0,,Nếu em nghe ngóng từ chỗ khác rồi tự tiện mò tới đó mà không suy nghĩ,
+Dialogue: 1,0:04:01.88,0:04:04.63,Q0,,0,0,0,,chị cá là bê bối đó sẽ hủy hoại cả thanh danh gia tộc em đấy.
+Dialogue: 1,0:04:04.79,0:04:08.75,Q0,,0,0,0,,Cũng đúng, nhất là trong thời điểm\Nmình đang dốc sức quảng bá truyền hình ma pháp.
+Dialogue: 1,0:04:08.75,0:04:11.04,Q0,,0,0,0,,Mình không thể làm ảnh hưởng tới việc đó được.
+Dialogue: 1,0:04:11.96,0:04:14.17,Q0,,0,0,0,,Nhưng mà mình muốn tham chiến quá! Thèm lắm rồi ấy!
+Dialogue: 1,0:04:14.17,0:04:16.38,Q0,,0,0,0,,Đừng bảo là chị không cảnh báo em trước đấy.
+Dialogue: 1,0:04:16.58,0:04:17.96,Q0,,0,0,0,,Mà này, chị Fressa.
+Dialogue: 1,0:04:17.96,0:04:18.88,Q0,,0,0,0,,Hửm?
+Dialogue: 1,0:04:24.25,0:04:26.42,Q0,,0,0,0,,Ơ kìa. Em đang làm trò gì đấy?
+Dialogue: 1,0:04:26.42,0:04:28.88,Q0,,0,0,0,,Em đã hứa một chuyện\Nđể cắt đuôi hầu gái của mình.
+Dialogue: 1,0:04:29.33,0:04:31.13,Q0,,0,0,0,,Tiểu thư định đi đâu thế ạ?
+Dialogue: 1,0:04:31.13,0:04:32.54,Q0,,0,0,0,,Em sẽ đi cùng người.
+Dialogue: 1,0:04:32.54,0:04:33.54,Q0,,0,0,0,,Không cần đâu!
+Dialogue: 1,0:04:33.54,0:04:36.63,Q0,,0,0,0,,Ta muốn đi một mình để xem\Nmấy bộ đồ lót khêu gợi!
+Dialogue: 1,0:04:36.63,0:04:37.63,Q0,,0,0,0,,Gì cơ chứ?
+Dialogue: 1,0:04:38.17,0:04:40.63,Q0,,0,0,0,,Nhưng đồ của chị lại chẳng hề khêu gợi như em tưởng.
+Dialogue: 1,0:04:40.63,0:04:42.79,Q0,,0,0,0,,Không ngờ trông nó lại dễ thương thế đấy.
+Dialogue: 1,0:04:42.79,0:04:43.79,Q0,,0,0,0,,Cảm ơn em quá cơ.
+Dialogue: 1,0:04:44.17,0:04:46.58,Q0,,0,0,0,,Khoan, cái đó chẳng giải thích được chuyện gì cả!
+Dialogue: 1,0:04:46.58,0:04:49.50,Q0,,0,0,0,,Này, đừng có làm hoen ố danh tiếng quán bar của chị đấy nhé.
+Dialogue: 1,0:04:49.50,0:04:51.67,Q0,,0,0,0,,Em xin lỗi. Vậy em xin phép về đây.
+Dialogue: 1,0:04:55.96,0:04:58.42,Q0,,0,0,0,,Tiểu thư... người vừa nói cái gì cơ?!
+Dialogue: 1,0:04:58.42,0:05:00.42,Q0,,0,0,0,,Ta sẽ thượng đài ở võ đài ngầm!
+Dialogue: 1,0:05:00.42,0:05:02.54,Q0,,0,0,0,,Hình như tai em nghe nhầm rồi.
+Dialogue: 1,0:05:02.54,0:05:04.42,Q0,,0,0,0,,Người nói lại lần nữa được không ạ?
+Dialogue: 1,0:05:04.42,0:05:07.25,Q0,,0,0,0,,Ta bảo là ta sẽ tham gia sự kiện\Nở Đấu Trường Hắc Ám!
+Dialogue: 1,0:05:07.25,0:05:08.92,Q0,,0,0,0,,Ta đã giải thích tới ba lần rồi đấy.
+Dialogue: 1,0:05:08.92,0:05:12.50,Q0,,0,0,0,,Nếu bây giờ em khóc lóc van xin,\Nliệu người có nghĩ lại không ạ?
+Dialogue: 1,0:05:12.50,0:05:15.29,Q0,,0,0,0,,Ta đã quyết là sẽ thi đấu, miễn bàn.
+Dialogue: 1,0:05:15.29,0:05:17.33,Q0,,0,0,0,,Nếu em mách chuyện này với Lão gia thì sao?
+Dialogue: 1,0:05:17.33,0:05:19.46,Q0,,0,0,0,,Ta sẽ chối phăng và khăng khăng bảo con không đời nào làm thế.
+Dialogue: 1,0:05:19.46,0:05:22.88,Q0,,0,0,0,,Người đâu phải con nít nữa, làm ơn biết điều chút đi ạ!
+Dialogue: 1,0:05:22.88,0:05:24.96,Q0,,0,0,0,,Ta hoàn toàn là một đứa con nít mà, nhìn ta xem này.
+Dialogue: 1,0:05:27.38,0:05:31.58,Q0,,0,0,0,,Hơn nữa, rốt cuộc người nghe ngóng về cái võ đài ngầm đó ở đâu ra vậy hả?!
+Dialogue: 1,0:05:31.58,0:05:33.71,Q0,,0,0,0,,Kênh truyền hình Liston hiện nay phụ thuộc
+Dialogue: 1,0:05:33.71,0:05:37.71,Q0,,0,0,0,,vào độ nổi tiếng của người như một tiểu thư ngọt ngào,\Nngây thơ trong sáng đấy!
+Dialogue: 1,0:05:38.83,0:05:40.58,Q0,,0,0,0,,Người có ý thức được điều đó không hả?!
+Dialogue: 1,0:05:40.58,0:05:45.96,Q0,,0,0,0,,Cũng đúng, nhưng ta chưa sẵn sàng từ bỏ sức hút khó cưỡng của võ đài ngầm đâu!
+Dialogue: 1,0:05:46.21,0:05:47.50,Q0,,0,0,0,,Thôi được rồi, chịu người luôn.
+Dialogue: 1,0:05:47.50,0:05:49.46,Q0,,0,0,0,,Ta biết ngay là em sẽ hiểu mà!
+Dialogue: 1,0:05:49.46,0:05:51.42,Q0,,0,0,0,,Ta thề là ta sẽ không thi đấu đâu!
+Dialogue: 1,0:05:51.42,0:05:53.21,Q0,,0,0,0,,Ta chỉ đến đó xem thôi.
+Dialogue: 1,0:05:58.25,0:05:59.38,Q0,,0,0,0,,Vấn đề...
+Dialogue: 1,0:05:59.38,0:06:00.50,Q0,,0,0,0,,...ở đây...
+Dialogue: 1,0:06:00.50,0:06:03.13,Q0,,0,0,0,,...không phải là chuyện người thi đấu hay\N"chỉ đến xem" đâu ạ!
+Dialogue: 1,0:06:05.88,0:06:08.50,Q0,,0,0,0,,Chỉ xem thôi mà. Ta hứa đấy, được chưa?
+Dialogue: 1,0:06:11.58,0:06:12.67,Q0,,0,0,0,,Nia!
+Dialogue: 1,0:06:13.67,0:06:16.13,Q0,,0,0,0,,Chúng ta phải chuẩn bị cho\NĐại hội Võ thuật Học viện thôi!
+Dialogue: 1,0:06:16.13,0:06:19.38,Q0,,0,0,0,,Chúng ta cần tập hợp các thí sinh\Nvà quảng bá cho chương trình nữa.
+Dialogue: 1,0:06:19.38,0:06:21.08,Q0,,0,0,0,,Đến giờ họp rồi đấy!
+Dialogue: 1,0:06:22.54,0:06:27.08,Q5,,0,0,0,,Đại hội Võ thuật Học viện Chính thức Bắt đầu!
+Dialogue: 1,0:06:22.54,0:06:27.08,Q4,,0,0,0,,Tập 6\N{\fs26\c&H00FFFF&}Phụ đề Việt ngữ: Amtia(NOFACE)
+Dialogue: 1,0:06:29.00,0:06:33.42,Q0,,0,0,0,,Hai tuần nữa, chúng ta sẽ tổ chức\Nmột Đại hội Võ thuật
+Dialogue: 1,0:06:33.42,0:06:35.75,Q0,,0,0,0,,để tìm ra người mạnh nhất toàn Học viện.
+Dialogue: 1,0:06:36.25,0:06:40.54,Q0,,0,0,0,,Học viên từ khối tiểu học tới trung học\Nđều được chào đón tham gia.
+Dialogue: 1,0:06:40.67,0:06:44.08,Q0,,0,0,0,,Sau đó, chúng ta sẽ phát sóng giải đấu này
+Dialogue: 1,0:06:44.08,0:06:46.17,Q0,,0,0,0,,qua truyền hình ma pháp tới khắp Vương quốc Altoire.
+Dialogue: 1,0:06:46.42,0:06:50.83,Q0,,0,0,0,,Một đội ngũ sản xuất gồm các học viên\Ncũng sẽ tự tay thực hiện chương trình này.
+Dialogue: 1,0:06:50.83,0:06:53.38,Q0,,0,0,0,,Rất mong các bạn sẽ chung tay góp sức\Ntạo nên một sự kiện thật bùng nổ!
+Dialogue: 1,0:06:53.38,0:06:54.92,Q0,,0,0,0,,Chúng ta phải cố hết sức thôi.
+Dialogue: 1,0:06:55.92,0:07:00.92,Q0,,0,0,0,,Dù không đúng ý mình lắm,\Nnhưng mình phải đảm bảo kế hoạch này thành công.
+Dialogue: 1,0:07:00.92,0:07:02.88,Q3,,0,0,0,,Học viện Altoire: Đạo trường Tật Kiếm Phái Satomi
+Dialogue: 1,0:07:01.58,0:07:04.75,Q0,,0,0,0,,Đây là đội ngũ sản xuất mà cậu nói đấy hả?
+Dialogue: 1,0:07:05.17,0:07:07.50,Q0,,0,0,0,,Ủa, chắc là chỉnh thế này...
+Dialogue: 1,0:07:08.17,0:07:09.33,Q0,,0,0,0,,Cậu không sao chứ?
+Dialogue: 1,0:07:09.33,0:07:10.21,Q0,,0,0,0,,Ái chà!
+Dialogue: 1,0:07:10.21,0:07:11.92,Q0,,0,0,0,,Xin lỗi nhé! Cậu có sao không?!
+Dialogue: 1,0:07:11.92,0:07:13.58,Q0,,0,0,0,,Liệu có ổn thật không đấy?
+Dialogue: 1,0:07:13.58,0:07:14.67,Q0,,0,0,0,,Mọi người nghe này.
+Dialogue: 1,0:07:16.38,0:07:19.71,Q0,,0,0,0,,Như một đạo diễn với gương mặt đặc trưng\Nmà mình biết từng nói...
+Dialogue: 1,0:07:19.92,0:07:22.46,Q0,,0,0,0,,Cứ bình tĩnh nào mọi người. Cứ thoải mái đi!
+Dialogue: 1,0:07:22.46,0:07:24.83,Q0,,0,0,0,,N-Nhưng ngộ nhỡ tụi mình làm hỏng thì sao?
+Dialogue: 1,0:07:24.83,0:07:29.21,Q0,,0,0,0,,Khâu hậu kỳ có thể xử lý được hết,\Nnên lỡ có hỏng cũng chẳng sao đâu.
+Dialogue: 1,0:07:29.38,0:07:31.83,Q0,,0,0,0,,Thực ra, cứ chuẩn bị tinh thần là mọi chuyện\Nsẽ có sai sót đi.
+Dialogue: 1,0:07:31.83,0:07:33.83,Q0,,0,0,0,,Đó mới là những trải nghiệm quý giá.
+Dialogue: 1,0:07:34.04,0:07:35.83,Q0,,0,0,0,,Nia nói đúng đấy.
+Dialogue: 1,0:07:36.08,0:07:38.25,Q0,,0,0,0,,Chúng ta có thể học hỏi qua nhiều lần thử mà.
+Dialogue: 1,0:07:38.25,0:07:39.42,Q0,,0,0,0,,Được rồi!
+Dialogue: 1,0:07:45.79,0:07:48.42,Q0,,0,0,0,,Anh nghe bảo các em định phỏng vấn\Ncác thí sinh tham gia giải đấu à.
+Dialogue: 1,0:07:48.42,0:07:49.58,Q0,,0,0,0,,Anh hai.
+Dialogue: 1,0:07:50.46,0:07:52.83,Q0,,0,0,0,,Tụi em định phát sóng trước khi giải đấu diễn ra ạ.
+Dialogue: 1,0:07:52.83,0:07:56.96,Q0,,0,0,0,,A-Anh Neal cũng sẽ tham gia thi đấu chứ ạ?
+Dialogue: 1,0:07:58.00,0:08:00.42,Q0,,0,0,0,,Thực ra anh cũng chưa rõ nữa.
+Dialogue: 1,0:08:00.42,0:08:02.38,Q0,,0,0,0,,Em có thi đấu không đấy, Nia?
+Dialogue: 1,0:08:02.38,0:08:04.00,Q0,,0,0,0,,Không, em không tham gia đâu.
+Dialogue: 1,0:08:05.13,0:08:07.63,Q0,,0,0,0,,Thế thì có khi anh sẽ thử sức xem sao.
+Dialogue: 1,0:08:07.63,0:08:09.88,Q0,,0,0,0,,Vì anh biết mình chẳng đời nào thắng nổi em.
+Dialogue: 1,0:08:09.88,0:08:13.71,Q0,,0,0,0,,Đừng lo,\Nmặt anh trông dễ thương hơn em nhiều mà.
+Dialogue: 1,0:08:13.96,0:08:16.13,Q0,,0,0,0,,Có ai nói về nhan sắc đâu chứ.
+Dialogue: 1,0:08:16.13,0:08:19.63,Q0,,0,0,0,,Nếu vậy, chi bằng chúng ta phỏng vấn\Nanh trai cậu luôn đi?!
+Dialogue: 1,0:08:19.63,0:08:20.63,Q0,,0,0,0,,Phỏng vấn anh á?
+Dialogue: 1,0:08:20.63,0:08:25.54,Q0,,0,0,0,,Đúng rồi, có một người như anh xuất hiện sẽ\Ngiúp quảng bá sức hút của truyền hình ma pháp đấy.
+Dialogue: 1,0:08:25.54,0:08:26.38,Q0,,0,0,0,,Hả?
+Dialogue: 1,0:08:27.54,0:08:30.71,Q0,,0,0,0,,Thôi, anh xin phép từ chối.\NMấy việc này không hợp với anh đâu.
+Dialogue: 1,0:08:30.71,0:08:32.58,Q0,,0,0,0,,Anh hai kính yêu ơi, đi mà!
+Dialogue: 1,0:08:32.58,0:08:36.13,Q0,,0,0,0,,Đây là bước khởi đầu để tụi em\Nghi hình thành công ở học viện đấy!
+Dialogue: 1,0:08:36.46,0:08:37.83,Q0,,0,0,0,,Xin anh hãy đồng ý đi mà!
+Dialogue: 1,0:08:39.96,0:08:42.08,Q0,,0,0,0,,Đ-Được rồi, chịu em luôn.
+Dialogue: 1,0:08:42.92,0:08:46.42,Q0,,0,0,0,,Tôi là Neal Liston.\NHiện đang theo học Tật Kiếm Phái Satomi.
+Dialogue: 1,0:08:46.42,0:08:49.50,Q0,,0,0,0,,Tôi hiểu rồi, vậy quê hương của cậu là ở đâu?
+Dialogue: 1,0:08:49.50,0:08:50.92,Q0,,0,0,0,,Là lãnh địa Liston.
+Dialogue: 1,0:08:50.92,0:08:54.88,Q0,,0,0,0,,Tôi lớn lên trên một hòn đảo bay\Ndo cha tôi, Hầu tước Ornitt Liston cai quản.
+Dialogue: 1,0:08:54.88,0:08:55.38,Q0,,0,0,0,,Ái chà! Cái gì thế?
+Dialogue: 1,0:08:55.38,0:08:56.21,Q1,,0,0,0,,Cậu có thể miêu tả đôi nét\Nvề Tật Kiếm Phái Satomi được không?
+Dialogue: 1,0:08:55.38,0:08:56.21,Q0,,0,0,0,,Ái chà! Cái gì thế?
+Dialogue: 1,0:08:56.21,0:08:57.92,Q1,,0,0,0,,Cậu có thể miêu tả đôi nét\Nvề Tật Kiếm Phái Satomi được không?
+Dialogue: 1,0:08:56.21,0:08:57.92,Q0,,0,0,0,,Cậu thấy sao hả Relia?
+Dialogue: 1,0:08:57.92,0:08:58.92,Q1,,0,0,0,,Cậu có thể miêu tả đôi nét\Nvề Tật Kiếm Phái Satomi được không?
+Dialogue: 1,0:08:57.92,0:08:58.92,Q0,,0,0,0,,Ý cậu là sao?
+Dialogue: 1,0:08:58.92,0:09:02.33,Q1,,0,0,0,,Đây là kiếm phái coi trọng tốc độ và sự chuẩn xác,
+Dialogue: 1,0:08:58.92,0:09:02.33,Q0,,0,0,0,,Cả điện hạ Hilde lẫn anh Neal\Nđều đang đối đáp rất suôn sẻ mà.
+Dialogue: 1,0:09:02.33,0:09:03.63,Q1,,0,0,0,,đòi hỏi phải tận dụng sơ hở bằng cách\Nvung kiếm theo quỹ đạo ngắn nhất tới mục tiêu.
+Dialogue: 1,0:09:02.33,0:09:03.63,Q0,,0,0,0,,Ừ, "suôn sẻ".
+Dialogue: 1,0:09:03.63,0:09:05.67,Q1,,0,0,0,,đòi hỏi phải tận dụng sơ hở bằng cách\Nvung kiếm theo quỹ đạo ngắn nhất tới mục tiêu.
+Dialogue: 1,0:09:03.63,0:09:05.67,Q0,,0,0,0,,Nó tạm ổn thôi, nhưng cậu có nghĩ\Ntụi mình nên khuấy động không khí thêm chút không?
+Dialogue: 1,0:09:05.67,0:09:08.79,Q1,,0,0,0,,Có đối thủ nào mà cậu khao khát\Nđánh bại trong giải đấu này không?
+Dialogue: 1,0:09:05.67,0:09:08.79,Q0,,0,0,0,,Nó tạm ổn thôi, nhưng cậu có nghĩ\Ntụi mình nên khuấy động không khí thêm chút không?
+Dialogue: 1,0:09:08.79,0:09:10.08,Q1,,0,0,0,,Có đối thủ nào mà cậu khao khát\Nđánh bại trong giải đấu này không?
+Dialogue: 1,0:09:08.79,0:09:10.08,Q0,,0,0,0,,Hả, thật á?
+Dialogue: 1,0:09:10.08,0:09:11.46,Q6,,0,0,0,,Ừm, để xem nào...
+Dialogue: 1,0:09:16.58,0:09:18.38,Q0,,0,0,0,,Anh Neal đỉnh thật đấy!
+Dialogue: 1,0:09:20.50,0:09:24.83,Q0,,0,0,0,,Ý tưởng lóe sáng của Nia\Nđã mang về cho chúng ta những cảnh quay tuyệt vời!
+Dialogue: 1,0:09:25.17,0:09:26.38,Q0,,0,0,0,,Anh hai.
+Dialogue: 1,0:09:27.17,0:09:30.83,Q0,,0,0,0,,Chiêu thức của anh tiến bộ vượt bậc\Nso với lần trước em thấy đấy.
+Dialogue: 1,0:09:30.83,0:09:35.38,Q0,,0,0,0,,Thì anh phải bảo vệ đứa em gái\Nvừa mới nhập học chứ sao.
+Dialogue: 1,0:09:36.38,0:09:38.50,Q0,,0,0,0,,Ôi chao, em thấy anh cưng xỉu luôn đó.
+Dialogue: 1,0:09:38.50,0:09:40.83,Q0,,0,0,0,,Em sẽ cổ vũ nhiệt tình\Nđể anh giành chiến thắng nhé.
+Dialogue: 1,0:09:40.83,0:09:42.38,Q0,,0,0,0,,Ừ-Ừm...
+Dialogue: 1,0:09:42.38,0:09:46.83,Q0,,0,0,0,,Sao cảm giác như em đang trịch thượng với anh thế nhỉ,\Nnhưng anh sẽ cố hết sức.
+Dialogue: 1,0:09:47.13,0:09:50.21,Q0,,0,0,0,,Vậy buổi phỏng vấn Thiếu gia Neal\Ndiễn ra suôn sẻ chứ ạ?
+Dialogue: 1,0:09:50.21,0:09:51.33,Q0,,0,0,0,,Ừ.
+Dialogue: 1,0:09:51.33,0:09:53.75,Q0,,0,0,0,,Ta chắc chắn việc này sẽ thu hút\Nthêm nhiều người hâm mộ mới.
+Dialogue: 1,0:09:54.00,0:09:58.21,Q0,,0,0,0,,À phải rồi, em nên báo cho Lão gia và Phu nhân\Nbiết chuyện anh ấy tham gia.
+Dialogue: 1,0:09:58.46,0:10:03.42,Q0,,0,0,0,,Mà thấy người háo hức mong chờ giải đấu như vậy,\Nem mừng lắm đấy ạ.
+Dialogue: 1,0:10:03.42,0:10:04.29,Q0,,0,0,0,,Hử?
+Dialogue: 1,0:10:04.29,0:10:05.13,Q0,,0,0,0,,Dạ?
+Dialogue: 1,0:10:07.79,0:10:09.25,Q0,,0,0,0,,Có chuyện gì sao ạ?
+Dialogue: 1,0:10:09.25,0:10:14.33,Q0,,0,0,0,,Đừng bảo là em nghĩ cái giải đấu cỏn con của học viện này\Nđủ để thỏa mãn ta đấy nhé.
+Dialogue: 1,0:10:14.63,0:10:15.75,Q0,,0,0,0,,Cái gì cơ ạ?
+Dialogue: 1,0:10:16.75,0:10:18.38,Q0,,0,0,0,,Ý người là nó không đủ sao?!
+Dialogue: 1,0:10:18.38,0:10:21.13,Q0,,0,0,0,,Em cứ tưởng người đã từ bỏ ý định\Nđến Đấu Trường Hắc Ám rồi chứ!
+Dialogue: 1,0:10:21.13,0:10:22.75,Q0,,0,0,0,,Sao em lại nghĩ thế được nhỉ?
+Dialogue: 1,0:10:23.00,0:10:25.75,Q0,,0,0,0,,Em không nhớ là mình từng cho phép người đi đâu đấy!
+Dialogue: 1,0:10:25.75,0:10:29.33,Q0,,0,0,0,,Nhưng ta đã nhượng bộ bảo là\Nta chỉ xem chứ không thi đấu rồi còn gì!
+Dialogue: 1,0:10:29.33,0:10:31.63,Q0,,0,0,0,,Sao đệ tử của ta lại bướng bỉnh thế hả?!
+Dialogue: 1,0:10:31.63,0:10:32.71,Q0,,0,0,0,,Có lẽ đã đến lúc...
+Dialogue: 1,0:10:34.00,0:10:35.29,Q0,,0,0,0,,...ta phải dùng tới uy quyền của mình rồi.
+Dialogue: 1,0:10:36.13,0:10:38.79,Q0,,0,0,0,,Là đệ tử thì cấm có được chống đối\Nquyết định của sư phụ nghe chưa!
+Dialogue: 1,0:10:38.79,0:10:42.54,Q0,,0,0,0,,Sư phụ hay không thì trước hết người vẫn là\Ntiểu thư của gia tộc Liston đấy ạ!
+Dialogue: 1,0:10:42.54,0:10:45.25,Q0,,0,0,0,,Em tuyệt đối không cho phép người\Nbén mảng tới những nơi bất nhã như thế đâu!
+Dialogue: 1,0:10:48.17,0:10:50.33,Q0,,0,0,0,,Đúng là con bé đệ tử này cứng đầu thật.
+Dialogue: 1,0:10:50.79,0:10:51.71,Q0,,0,0,0,,Vả lại...
+Dialogue: 1,0:10:52.21,0:10:55.50,Q0,,0,0,0,,...người định lén chui vào một võ đài ngầm...
+Dialogue: 1,0:10:55.50,0:10:56.83,Q0,,0,0,0,,...rõ ràng là phi pháp bằng cách nào cơ chứ?
+Dialogue: 1,0:10:56.83,0:10:58.96,Q0,,0,0,0,,Thì ta cải trang chứ sao nữa.
+Dialogue: 1,0:10:58.96,0:11:03.29,Q0,,0,0,0,,Dù người có cải trang thì họ cũng\Nchẳng đời nào cho một đứa con nít vào đâu!
+Dialogue: 1,0:11:03.29,0:11:05.63,Q0,,0,0,0,,Thì... ta sẽ tự có cách!
+Dialogue: 1,0:11:05.83,0:11:07.38,Q0,,0,0,0,,Dù thế nào đi nữa, người cũng không được đi!
+Dialogue: 1,0:11:08.33,0:11:09.25,Q0,,0,0,0,,Ta cứ đi đấy!
+Dialogue: 1,0:11:09.25,0:11:10.04,Q0,,0,0,0,,Người không được đi!
+Dialogue: 1,0:11:10.04,0:11:11.21,Q0,,0,0,0,,Ta đi, mặc kệ em có thích hay không!
+Dialogue: 1,0:11:11.21,0:11:12.58,Q0,,0,0,0,,Không được là không được mà!
+Dialogue: 1,0:11:24.21,0:11:26.75,Q0,,0,0,0,,Tôi nghĩ cậu nên xin lỗi đi, Nia.
+Dialogue: 1,0:11:26.75,0:11:27.67,Q0,,0,0,0,,Tại sao chứ?
+Dialogue: 1,0:11:27.67,0:11:30.25,Q0,,0,0,0,,Biết tính cậu rồi,\Nchắc chắn cậu lại nói ra điều gì kỳ quặc chứ gì.
+Dialogue: 1,0:11:30.25,0:11:32.33,Q0,,0,0,0,,Relia, cậu coi mình là loại người gì thế hả?
+Dialogue: 1,0:11:32.33,0:11:33.33,Q0,,0,0,0,,Relia!
+Dialogue: 1,0:11:34.04,0:11:38.04,Q0,,0,0,0,,Relia, bỏ cái phái Thiên Phá vớ vẩn đó đi\Nrồi gia nhập đạo trường kiếm thuật của tụi này đi!
+Dialogue: 1,0:11:38.04,0:11:39.04,Q0,,0,0,0,,Cậu quen hắn ta à?
+Dialogue: 1,0:11:39.04,0:11:42.04,Q0,,0,0,0,,Chẳng thân thiết gì,\Nnhưng tên đó cứ bám theo làm phiền tôi suốt.
+Dialogue: 1,0:11:42.04,0:11:44.29,Q0,,0,0,0,,Còn cô đi cùng Nia Liston nhỉ.
+Dialogue: 1,0:11:44.29,0:11:47.79,Q0,,0,0,0,,Tiện quá, cô cũng vào đạo trường của tụi này luôn đi!
+Dialogue: 1,0:11:47.79,0:11:49.54,Q0,,0,0,0,,Hôm nay tha cho tụi này đi được không?
+Dialogue: 1,0:11:49.54,0:11:52.04,Q0,,0,0,0,,Chuyện này chẳng liên quan gì đến Nia cả!
+Dialogue: 1,0:11:52.04,0:11:55.00,Q0,,0,0,0,,Chao ôi, nhìn cậu ấy đứng ra bênh mình kìa.\NĐáng thưởng thêm tiền tiêu vặt ghê.
+Dialogue: 1,0:11:55.00,0:11:58.00,Q0,,0,0,0,,Cô phải hiểu tụi này làm thế là muốn tốt cho cô thôi!
+Dialogue: 1,0:11:58.00,0:12:00.42,Q0,,0,0,0,,Đừng có dính dáng gì tới con nhỏ Nia đó!
+Dialogue: 1,0:12:01.67,0:12:03.33,Q0,,0,0,0,,Con nhỏ đó nguy hiểm lắm!
+Dialogue: 1,0:12:03.33,0:12:04.17,Q0,,0,0,0,,Relia?
+Dialogue: 1,0:12:04.17,0:12:06.00,Q0,,0,0,0,,Nó là rắc rối to đấy, hiểu chưa?!
+Dialogue: 1,0:12:06.00,0:12:06.42,Q0,,0,0,0,,Biến đi cho khuất mắt tôi!
+Dialogue: 1,0:12:06.42,0:12:07.58,Q0,,0,0,0,,Biến đi cho khuất mắt tôi!
+Dialogue: 1,0:12:06.42,0:12:07.58,Q7,,0,0,0,,Này, Relia?
+Dialogue: 1,0:12:07.58,0:12:09.46,Q0,,0,0,0,,Tôi cũng chẳng hiểu lắm, cơ mà...
+Dialogue: 1,0:12:09.46,0:12:12.00,Q0,,0,0,0,,Phái Thiên Phá chắc chắn là yếu nhớt rồi.
+Dialogue: 1,0:12:12.00,0:12:15.58,Q0,,0,0,0,,Rõ ràng là cầm vũ khí thì mạnh hơn\Ndùng tay không là cái chắc.
+Dialogue: 1,0:12:16.21,0:12:17.71,Q0,,0,0,0,,Ngươi vừa nói cái gì cơ?
+Dialogue: 1,0:12:17.71,0:12:19.42,Q0,,0,0,0,,Khoan đã, ê! Đừng có dại!
+Dialogue: 1,0:12:19.42,0:12:22.75,Q0,,0,0,0,,Ngươi vừa bảo cầm vũ khí\Nthì mạnh hơn đúng không?
+Dialogue: 1,0:12:22.75,0:12:24.17,Q0,,0,0,0,,Rút kiếm của ngươi ra xem nào?
+Dialogue: 1,0:12:24.17,0:12:25.08,Q0,,0,0,0,,Hả?
+Dialogue: 1,0:12:25.08,0:12:26.17,Q0,,0,0,0,,Rút ra đi.
+Dialogue: 1,0:12:35.25,0:12:37.33,Q0,,0,0,0,,Giờ thì vũ khí đã bay mất rồi...
+Dialogue: 1,0:12:37.33,0:12:39.25,Q0,,0,0,0,,...ngươi định làm gì tiếp đây?
+Dialogue: 1,0:12:42.00,0:12:43.17,Q0,,0,0,0,,Giờ thì tụi mình đi được chưa?
+Dialogue: 1,0:12:43.17,0:12:44.00,Q0,,0,0,0,,Khoan đã!
+Dialogue: 1,0:12:45.00,0:12:47.08,Q0,,0,0,0,,Cú đá vừa rồi của cô thật phi thường.
+Dialogue: 1,0:12:47.08,0:12:48.92,Q0,,0,0,0,,Ồ, hắn nhìn thấu được chiêu của mình sao?
+Dialogue: 1,0:12:48.92,0:12:51.13,Q0,,0,0,0,,Tôi xin lỗi vì sự thô lỗ của bọn họ.
+Dialogue: 1,0:12:51.58,0:12:55.75,Q0,,0,0,0,,Tôi là Sanowil Badr.\NLiệu cô có phiền nếu giao thủ với tôi một trận không?
+Dialogue: 1,0:12:55.75,0:12:56.71,Q0,,0,0,0,,Sanowil!
+Dialogue: 1,0:12:56.71,0:12:57.63,Q0,,0,0,0,,Tuyệt quá!
+Dialogue: 1,0:12:57.63,0:12:58.88,Q0,,0,0,0,,Hai tên này xấc xược thật đấy.
+Dialogue: 1,0:12:58.88,0:12:59.17,Q0,,0,0,0,,Đúng rồi, đập cho con nhỏ đó một trận đi!
+Dialogue: 1,0:12:59.17,0:13:00.17,Q0,,0,0,0,,Đúng rồi, đập cho con nhỏ đó một trận đi!
+Dialogue: 1,0:12:59.17,0:13:00.17,Q7,,0,0,0,,Mấy tên này...
+Dialogue: 1,0:13:00.17,0:13:01.67,Q0,,0,0,0,,Học cách tôn trọng người khác đi.
+Dialogue: 1,0:13:02.42,0:13:03.83,Q0,,0,0,0,,Tôi sẽ không làm mất nhiều thời gian đâu.
+Dialogue: 1,0:13:03.83,0:13:06.25,Q0,,0,0,0,,Tôi chỉ muốn xem thực lực\Ncủa cô mạnh đến mức nào.
+Dialogue: 1,0:13:06.25,0:13:07.50,Q0,,0,0,0,,Tùy ngươi thôi.
+Dialogue: 1,0:13:07.92,0:13:10.33,Q0,,0,0,0,,Nhưng nếu đã sẵn sàng chịu nhục\Ntrước mặt các đàn em,
+Dialogue: 1,0:13:10.33,0:13:12.25,Q0,,0,0,0,,thì nhào vô đây ngay và luôn đi.
+Dialogue: 1,0:13:12.67,0:13:14.00,Q0,,0,0,0,,Nia, không nên đâu.
+Dialogue: 1,0:13:14.00,0:13:18.46,Q0,,0,0,0,,Sanowil từng vô địch giải đấu liên câu lạc bộ\Ncủa học viện vào mùa thu năm ngoái đấy!
+Dialogue: 1,0:13:32.83,0:13:35.75,Q0,,0,0,0,,Tụi mình còn phải đi ghi hình nữa.
+Dialogue: 1,0:13:35.75,0:13:36.92,Q0,,0,0,0,,Xin phép nhé.
+Dialogue: 1,0:13:46.46,0:13:49.04,Q0,,0,0,0,,Xin cậu hãy chia sẻ về quyết tâm chiến thắng của mình.
+Dialogue: 1,0:13:49.04,0:13:50.42,Q0,,0,0,0,,Chiến thắng sao?
+Dialogue: 1,0:13:50.42,0:13:53.83,Q0,,0,0,0,,Khi mà tôi biết mình còn chẳng phải là đối thủ\Ncủa một người nhỏ tuổi hơn rất nhiều...
+Dialogue: 1,0:13:53.83,0:13:55.58,Q0,,0,0,0,,Cậu nói vậy là có ý gì cơ chứ?
+Dialogue: 1,0:13:55.58,0:13:58.04,Q0,,0,0,0,,Nia, xin hãy cho tôi giao thủ với cô\Nthêm một lần nữa!
+Dialogue: 1,0:13:58.04,0:13:59.92,Q0,,0,0,0,,Lần này tôi thề là sẽ nhìn thấu được nó!
+Dialogue: 1,0:13:59.92,0:14:01.29,Q0,,0,0,0,,Làm ơn đi, chỉ một trận nữa thôi!
+Dialogue: 1,0:14:01.29,0:14:03.58,Q0,,0,0,0,,Lần này ở một đạo trường đàng hoàng!
+Dialogue: 1,0:14:01.29,0:14:03.58,Q7,,0,0,0,,Nia, cậu đã làm gì cậu ta thế hả?!
+Dialogue: 1,0:14:03.58,0:14:04.54,Q0,,0,0,0,,Ngay bây giờ cũng được mà!
+Dialogue: 1,0:14:06.79,0:14:10.13,Q0,,0,0,0,,Và thế là, những ngày tiếp theo chúng tôi tiếp tục ghi hình...
+Dialogue: 1,0:14:13.21,0:14:16.29,Q0,,0,0,0,,...và cảm nhận được bầu không khí sục sôi\Nhướng về Đại hội Võ thuật.
+Dialogue: 1,0:14:18.92,0:14:20.58,Q0,,0,0,0,,Không ngờ là ngày mai đã khai mạc rồi nhỉ?
+Dialogue: 1,0:14:22.71,0:14:26.21,Q0,,0,0,0,,Khâu chuẩn bị đã xong xuôi,\Ngiờ mọi chuyện phụ thuộc vào các thí sinh thôi.
+Dialogue: 1,0:14:26.58,0:14:28.58,Q0,,0,0,0,,Phản hồi nhận được vô cùng bùng nổ đấy.
+Dialogue: 1,0:14:28.58,0:14:32.46,Q0,,0,0,0,,Đúng như mình mong đợi, rất nhiều phụ huynh\Ncủa học viên đã gửi thư hỏi thăm.
+Dialogue: 1,0:14:32.46,0:14:35.83,Q0,,0,0,0,,Nghe bảo doanh số bán MagiPad ở lãnh địa của bọn mình\Ncũng tăng nhẹ nữa đấy.
+Dialogue: 1,0:14:35.83,0:14:40.21,Q0,,0,0,0,,Thật mừng khi thấy mưu kế lợi dụng trẻ con để\Ntruyền bá truyền hình ma pháp diễn ra đúng như dự tính.
+Dialogue: 1,0:14:40.21,0:14:41.38,Q0,,0,0,0,,Nia, lựa lời mà nói chứ...
+Dialogue: 1,0:14:41.38,0:14:42.54,Q0,,0,0,0,,Đúng vậy.
+Dialogue: 1,0:14:42.54,0:14:45.67,Q0,,0,0,0,,Các bậc cha mẹ chiều con sẵn sàng\Nchi ra cả một gia tài
+Dialogue: 1,0:14:45.67,0:14:48.04,Q0,,0,0,0,,để được thấy con cái mình\Nnăng động và tỏa sáng.
+Dialogue: 1,0:14:48.04,0:14:49.71,Q0,,0,0,0,,Cả điện hạ Hilde cũng hùa theo nữa...
+Dialogue: 1,0:14:52.21,0:14:55.71,Q0,,0,0,0,,Phải rồi,\Ncha mẹ tôi cũng gửi thư tới nữa đấy.
+Dialogue: 1,0:14:58.50,0:15:00.96,Q0,,0,0,0,,Ôi, mong sao Thiếu gia Neal sẽ giành chiến thắng!
+Dialogue: 1,0:15:03.38,0:15:06.58,Q3,,0,0,0,,Học viện Altoire: Đại Lễ đường
+Dialogue: 1,0:15:12.38,0:15:14.38,Q0,,0,0,0,,Oa, là Thiếu gia Neal kìa!
+Dialogue: 1,0:15:14.38,0:15:18.08,Q0,,0,0,0,,Hôm nay là ngày trọng đại rồi, nhưng mọi người\Nđừng căng thẳng mà hãy "cứ thoải mái đi" nhé!
+Dialogue: 1,0:15:18.08,0:15:19.25,Q0,,0,0,0,,Rõ rồi ạ!
+Dialogue: 1,0:15:19.25,0:15:21.88,Q0,,0,0,0,,Xin quý vị và các bạn thứ lỗi\Nvì đã để chờ lâu!
+Dialogue: 1,0:15:21.88,0:15:26.38,Q0,,0,0,0,,Đại hội Võ thuật Học viện Altoire\Nchính thức bắt đầu!
+Dialogue: 1,0:15:29.13,0:15:31.88,Q0,,0,0,0,,Tại đây, các thí sinh đang ở vị trí chuẩn bị,
+Dialogue: 1,0:15:32.17,0:15:34.63,Q0,,0,0,0,,tất cả đều toát lên khí thế hừng hực sẵn sàng xung trận!
+Dialogue: 1,0:15:35.33,0:15:38.58,Q0,,0,0,0,,Chúng ta sẽ mở màn với trận đầu tiên\Ncủa bảng đấu có vũ khí!
+Dialogue: 1,0:15:44.13,0:15:45.33,Q0,,0,0,0,,Trên đó làm tốt lắm đấy.
+Dialogue: 1,0:15:45.33,0:15:47.17,Q0,,0,0,0,,Cố lên, Thiếu gia Neal!
+Dialogue: 1,0:15:47.83,0:15:50.25,Q0,,0,0,0,,Mà anh trai tôi tốt nhất là\Nđừng có thua hắn đấy nhé.
+Dialogue: 1,0:15:51.71,0:15:52.42,Q0,,0,0,0,,Bắt đầu!
+Dialogue: 1,0:16:00.25,0:16:01.13,Q0,,0,0,0,,Lên nào!
+Dialogue: 1,0:16:01.13,0:16:02.17,Q0,,0,0,0,,Dừng trận!
+Dialogue: 1,0:16:02.17,0:16:03.75,Q0,,0,0,0,,Người chiến thắng: Neal Liston!
+Dialogue: 1,0:16:04.92,0:16:07.67,Q0,,0,0,0,,Hừm, đúng như dự đoán.
+Dialogue: 1,0:16:08.08,0:16:09.92,Q0,,0,0,0,,Tiếp theo là bảng đấu tay không,
+Dialogue: 1,0:16:09.92,0:16:12.92,Q0,,0,0,0,,với sự góp mặt của cao thủ lừng danh\NRirimi Silver!
+Dialogue: 1,0:16:12.92,0:16:14.25,Q0,,0,0,0,,A, Nia ơi!
+Dialogue: 1,0:16:14.46,0:16:15.67,Q0,,0,0,0,,Cậu dễ thương quá đi mất!
+Dialogue: 1,0:16:17.96,0:16:20.33,Q0,,0,0,0,,Hứ, sao lại là Nia mà không phải tôi chứ?
+Dialogue: 1,0:16:21.08,0:16:22.83,Q0,,0,0,0,,Sẵn sàng chưa?! Ra sân đấu ngay đi!
+Dialogue: 1,0:16:22.83,0:16:23.92,Q0,,0,0,0,,Rõ!
+Dialogue: 1,0:16:25.92,0:16:27.04,Q0,,0,0,0,,Dừng trận!
+Dialogue: 1,0:16:28.42,0:16:29.83,Q0,,0,0,0,,Rõ!
+Dialogue: 1,0:16:29.83,0:16:31.83,Q0,,0,0,0,,Đúng là em gái tôi có khác!
+Dialogue: 1,0:16:39.50,0:16:40.46,Q0,,0,0,0,,Dừng trận!
+Dialogue: 1,0:16:40.46,0:16:42.17,Q0,,0,0,0,,Người chiến thắng: Neal Liston!
+Dialogue: 1,0:16:43.71,0:16:46.21,Q0,,0,0,0,,Ôi trời! Đỉnh quá!
+Dialogue: 1,0:16:49.63,0:16:50.71,Q0,,0,0,0,,Nia!
+Dialogue: 1,0:16:51.04,0:16:53.08,Q0,,0,0,0,,Em thấy trận vừa rồi của anh thế nào?
+Dialogue: 1,0:16:53.08,0:16:55.21,Q0,,0,0,0,,Thành thật mà nói thì vượt ngoài kỳ vọng của em đấy.
+Dialogue: 1,0:16:55.21,0:16:58.17,Q0,,0,0,0,,Nhưng trận tiếp theo sẽ không dễ dàng thế đâu.
+Dialogue: 1,0:16:59.00,0:17:03.00,Q0,,0,0,0,,Nhưng có một điều em từng bảo\Nmà anh luôn khắc ghi trong lòng.
+Dialogue: 1,0:17:08.00,0:17:10.50,Q0,,0,0,0,,Tiếp theo đây là trận Tứ kết.
+Dialogue: 1,0:17:10.50,0:17:14.25,Q0,,0,0,0,,Đại diện cho đạo trường Tật Kiếm Phái Satomi:\NNeal Liston,
+Dialogue: 1,0:17:14.25,0:17:18.38,Q0,,0,0,0,,đối đầu với nhà vô địch giải liên câu lạc bộ năm ngoái:\NSanowil Badr!
+Dialogue: 1,0:17:21.00,0:17:22.75,Q0,,0,0,0,,Nia, dõi theo anh nhé.
+Dialogue: 1,0:17:28.75,0:17:30.25,Q0,,0,0,0,,Cả hai vào vị trí chuẩn bị...
+Dialogue: 1,0:17:39.58,0:17:40.42,Q0,,0,0,0,,Bắt đầu!
+Dialogue: 1,0:17:57.83,0:18:00.04,Q0,,0,0,0,,Ban đầu anh ấy nhập cuộc khá ổn,
+Dialogue: 1,0:17:57.83,0:18:00.04,Q7,,0,0,0,,Cố lên anh ơi!
+Dialogue: 1,0:18:00.04,0:18:01.00,Q0,,0,0,0,,...nhưng mà...
+Dialogue: 1,0:18:03.29,0:18:06.71,Q0,,0,0,0,,...cứ đà này thì anh ấy sẽ tự vắt kiệt sức mình mất.
+Dialogue: 1,0:18:25.08,0:18:26.17,Q0,,0,0,0,,Anh ấy vẫn vững vàng trụ lại.
+Dialogue: 1,0:18:26.17,0:18:28.58,Q0,,0,0,0,,Được rồi, thời khắc quyết định đến rồi.
+Dialogue: 1,0:18:31.17,0:18:35.83,Q0,,0,0,0,,Anh hai, kiếm sinh ra là để chém\Nbằng lực đẩy và kéo lưỡi kiếm.
+Dialogue: 1,0:18:36.50,0:18:38.67,Q0,,0,0,0,,Đừng dùng sức đập...
+Dialogue: 1,0:18:39.71,0:18:40.58,Q0,,0,0,0,,...mà hãy chém!
+Dialogue: 1,0:18:45.46,0:18:47.46,Q0,,0,0,0,,Không được đập...
+Dialogue: 1,0:18:47.46,0:18:48.50,Q0,,0,0,0,,...mà phải chém!
+Dialogue: 1,0:18:59.71,0:19:00.83,Q0,,0,0,0,,Dừng trận!
+Dialogue: 1,0:19:01.17,0:19:03.25,Q0,,0,0,0,,Người chiến thắng: Sanowil Badr!
+Dialogue: 1,0:19:03.75,0:19:06.29,Q0,,0,0,0,,Sanowil Badr đã giành chiến thắng chung cuộc!
+Dialogue: 1,0:19:06.63,0:19:09.38,Q0,,0,0,0,,Nhưng anh ấy đã cố gắng hết sức rồi mà...
+Dialogue: 1,0:19:09.88,0:19:12.13,Q0,,0,0,0,,Nhưng Neal Liston quả là một đối thủ vô cùng xứng tầm!
+Dialogue: 1,0:19:12.13,0:19:14.25,Q0,,0,0,0,,Xin quý vị hãy dành một tràng pháo tay cho cả hai đấu thủ!
+Dialogue: 1,0:19:15.83,0:19:19.63,Q0,,0,0,0,,Quán quân bảng đấu tay không\Nthuộc về Ririmi Silver,
+Dialogue: 1,0:19:19.63,0:19:23.63,Q0,,0,0,0,,trong khi quán quân bảng đấu có vũ khí\Nthuộc về Sanowil Badr!
+Dialogue: 1,0:19:33.92,0:19:37.88,Q0,,0,0,0,,Anh đã muốn chứng tỏ bản thân cho em thấy...\NAnh xin lỗi nhé.
+Dialogue: 1,0:19:39.13,0:19:42.25,Q0,,0,0,0,,Em thấy anh đã làm rất tốt rồi.\NNhững chiêu thức đó rất ấn tượng.
+Dialogue: 1,0:19:45.63,0:19:50.08,Q0,,0,0,0,,Thật tình, đôi khi em cứ nói chuyện\Ntrịch thượng một cách kỳ lạ.
+Dialogue: 1,0:19:54.71,0:19:56.54,Q0,,0,0,0,,Đường kiếm vừa rồi đẹp lắm.
+Dialogue: 1,0:19:56.54,0:19:59.67,Q0,,0,0,0,,Em rất mong chờ được thấy anh mạnh mẽ hơn nữa đấy.
+Dialogue: 1,0:20:01.38,0:20:02.42,Q0,,0,0,0,,Ừ!
+Dialogue: 1,0:20:08.67,0:20:10.54,Q0,,0,0,0,,Giải đấu thế nào rồi ạ?
+Dialogue: 1,0:20:10.54,0:20:12.92,Q0,,0,0,0,,Em thở phào vì tụi mình đã hoàn thành trọn vẹn rồi.
+Dialogue: 1,0:20:12.92,0:20:14.92,Q0,,0,0,0,,Anh trai tôi đã thi đấu tuyệt vời lắm đấy.
+Dialogue: 1,0:20:14.92,0:20:19.67,Q0,,0,0,0,,Ôi, đừng tiết lộ kết quả chứ!\NTôi muốn xem lúc phát sóng cơ.
+Dialogue: 1,0:20:20.13,0:20:22.54,Q0,,0,0,0,,Thế còn tiểu thư thì thấy sao ạ?
+Dialogue: 1,0:20:22.54,0:20:24.17,Q0,,0,0,0,,Hả, ta á?
+Dialogue: 1,0:20:24.54,0:20:27.79,Q0,,0,0,0,,Đại hội Võ thuật Học viện đó.\NNó có làm người hài lòng không?
+Dialogue: 1,0:20:28.04,0:20:29.54,Q0,,0,0,0,,Chắc là có.
+Dialogue: 1,0:20:29.54,0:20:31.71,Q0,,0,0,0,,Ta thấy vui hơn mình tưởng nhiều.
+Dialogue: 1,0:20:36.17,0:20:37.75,Q0,,0,0,0,,Nhưng bấy nhiêu đó vẫn chưa đủ.
+Dialogue: 1,0:20:42.71,0:20:44.96,Q0,,0,0,0,,Cô nghe ngóng chuyện đó ở đâu ra?!
+Dialogue: 1,0:20:44.96,0:20:47.88,Q0,,0,0,0,,Ta nghĩ ngươi chắc hẳn phải biết\Nvề Đấu Trường Hắc Ám chứ.
+Dialogue: 1,0:20:47.88,0:20:49.71,Q0,,0,0,0,,Ta muốn ngươi dẫn ta tới đó.
+Dialogue: 1,0:20:49.71,0:20:51.96,Q0,,0,0,0,,Yêu cầu liều lĩnh thế sao tôi đồng ý được!
+Dialogue: 1,0:20:52.21,0:20:54.17,Q0,,0,0,0,,Quan trọng hơn, con hầu gái của cô đâu rồi?
+Dialogue: 1,0:20:54.17,0:20:56.21,Q0,,0,0,0,,Tôi nhất định phải phục thù nó!
+Dialogue: 1,0:20:56.21,0:20:58.00,Q0,,0,0,0,,Hôm nay em ấy không đi cùng ta.
+Dialogue: 1,0:20:58.00,0:21:00.71,Q0,,0,0,0,,Mà kể cả có đi,\Nngươi cũng thừa biết mình chẳng có cửa rồi còn gì.
+Dialogue: 1,0:21:01.21,0:21:07.29,Q0,,0,0,0,,Nhưng nếu ngươi dẫn ta đi, ta sẽ chỉ cho ngươi cách vươn tới một cảnh giới sức mạnh hoàn toàn mới.
+Dialogue: 1,0:21:07.29,0:21:08.21,Q0,,0,0,0,,Thủ thế đi.
+Dialogue: 1,0:21:08.21,0:21:10.46,Q0,,0,0,0,,Khoan, vấn đề đâu phải là chuyện đó...
+Dialogue: 1,0:21:10.46,0:21:14.17,Q0,,0,0,0,,Ngươi không muốn mạnh hơn sao?\NNgươi không hề khao khát sức mạnh à?
+Dialogue: 1,0:21:15.63,0:21:17.38,Q0,,0,0,0,,Để ta cho ngươi mở rộng tầm mắt, một lần duy nhất.
+Dialogue: 1,0:21:17.38,0:21:19.71,Q0,,0,0,0,,Hãy nếm trải điều ta sắp làm này,
+Dialogue: 1,0:21:19.71,0:21:22.25,Q0,,0,0,0,,rồi nếu ngươi muốn có được nó,\Nhãy đồng ý với lời đề nghị của ta.
+Dialogue: 1,0:21:22.25,0:21:24.54,Q0,,0,0,0,,Nếu không, ta sẽ từ bỏ.
+Dialogue: 1,0:21:25.13,0:21:26.79,Q0,,0,0,0,,Được rồi, chơi luôn!
+Dialogue: 1,0:21:26.79,0:21:28.75,Q0,,0,0,0,,Nhưng cô phải giữ lời từ bỏ đấy nhé.
+Dialogue: 1,0:21:29.04,0:21:31.50,Q0,,0,0,0,,Còn nếu tôi thắng, tôi yêu cầu được tái đấu với con hầu—
+Dialogue: 1,0:21:39.42,0:21:43.67,Q0,,0,0,0,,Giờ thì dẫn ta tới Đấu Trường Hắc Ám đi.
+Dialogue: 1,0:21:55.54,0:21:58.79,Q0,,0,0,0,,Cô không nói cho tiểu thư biết đấy chứ?
+Dialogue: 1,0:22:00.38,0:22:02.92,Q0,,0,0,0,,Tôi chỉ nói những gì con bé cần biết thôi.
+Dialogue: 1,0:22:03.17,0:22:05.92,Q0,,0,0,0,,Vậy rốt cuộc Lily vẫn mò tới Đấu Trường Hắc Ám à...
+Dialogue: 1,0:22:05.92,0:22:06.92,Q0,,0,0,0,,Hả?!
+Dialogue: 1,0:22:10.08,0:22:13.42,Q0,,0,0,0,,Thật tình, tôi phải làm sao với tiểu thư đây chứ?
+Dialogue: 1,0:22:14.00,0:22:17.46,Q0,,0,0,0,,Mình đành phải chuẩn bị hạ sách cuối cùng thôi.
+Dialogue: 1,0:22:22.25,0:22:24.04,Q2,,0,0,0,,Jinsei wa ichido kiri?
+Dialogue: 1,0:22:24.04,0:22:26.08,Q2,,0,0,0,,Nara ajiwai tsukusanakya!
+Dialogue: 1,0:22:26.08,0:22:28.21,Q2,,0,0,0,,Sukikirai nante dame
+Dialogue: 1,0:22:28.21,0:22:29.96,Q2,,0,0,0,,Try, Try, Try!!
+Dialogue: 1,0:22:30.29,0:22:34.33,Q2,,0,0,0,,Gamen goshi no kirameku sekai
+Dialogue: 1,0:22:34.33,0:22:38.08,Q2,,0,0,0,,Chotto nozoite mimasenka?
+Dialogue: 1,0:22:38.08,0:22:42.17,Q2,,0,0,0,,Taikutsu na hibi nante
+Dialogue: 1,0:22:42.17,0:22:46.13,Q2,,0,0,0,,Sora tobu fune de tobidasou
+Dialogue: 1,0:22:46.38,0:22:47.75,Q2,,0,0,0,,"Ii an wa nai?"
+Dialogue: 1,0:22:47.75,0:22:49.29,Q2,,0,0,0,,"Ketsuu no shitou kashira?"
+Dialogue: 1,0:22:49.29,0:22:52.21,Q2,,0,0,0,,"Bussou yo! Motto yuuga ni tanoshimeru..."
+Dialogue: 1,0:22:52.21,0:22:53.33,Q2,,0,0,0,,"Nara kou shimashou!"
+Dialogue: 1,0:22:53.33,0:22:54.46,Q2,,0,0,0,,"Butoukai!"
+Dialogue: 1,0:22:54.46,0:22:58.42,Q2,,0,0,0,,Maru batsu sankaku kimeru no wa
+Dialogue: 1,0:22:58.42,0:23:02.88,Q2,,0,0,0,,Dareka janai watashi tachi
+Dialogue: 1,0:23:04.79,0:23:06.13,Q2,,0,0,0,,One, two, three! One, two, three!
+Dialogue: 1,0:23:06.13,0:23:08.96,Q2,,0,0,0,,Saa, rhythm ni awasete
+Dialogue: 1,0:23:08.96,0:23:10.13,Q2,,0,0,0,,Un, deux, trois! Un, deux, trois!
+Dialogue: 1,0:23:10.13,0:23:13.00,Q2,,0,0,0,,Sou, ippo fumidase ba
+Dialogue: 1,0:23:13.00,0:23:16.67,Q2,,0,0,0,,Madamada shiranai dokidoki wakuwaku
+Dialogue: 1,0:23:16.83,0:23:21.04,Q2,,0,0,0,,Takusan deaechau ne
+Dialogue: 1,0:23:21.04,0:23:22.38,Q2,,0,0,0,,One, two, three! One, two, three!
+Dialogue: 1,0:23:22.38,0:23:25.25,Q2,,0,0,0,,Saa, heart o kasanete
+Dialogue: 1,0:23:25.25,0:23:26.50,Q2,,0,0,0,,Un, deux, trois! Un, deux, trois!
+Dialogue: 1,0:23:26.50,0:23:29.00,Q2,,0,0,0,,Hora, odotte michaeba
+Dialogue: 1,0:23:29.00,0:23:33.04,Q2,,0,0,0,,Unmei mo sekai mo kawaridasu
+Dialogue: 1,0:23:33.04,0:23:36.46,Q2,,0,0,0,,Tokimeki waltz de shall we dance?
+Dialogue: 1,0:23:37.46,0:23:39.25,Q2,,0,0,0,,Jinsei wa ichido kiri?
+Dialogue: 1,0:23:39.25,0:23:41.29,Q2,,0,0,0,,Nara ajiwai tsukusanakya
+Dialogue: 1,0:23:41.29,0:23:44.83,Q2,,0,0,0,,Dokidoki wakuwaku o motto motto!
+Dialogue: 1,0:23:51.50,0:23:55.29,Q0,,0,0,0,,Tập tiếp theo:\N"Đột nhập Đấu Trường Hắc Ám"
+Dialogue: 1,0:23:51.50,0:23:55.63,Q9,,0,0,0,,Đột nhập Đấu Trường Hắc Ám
+Dialogue: 1,0:23:51.50,0:23:55.63,Q8,,0,0,0,,Tập tiếp theo
+
