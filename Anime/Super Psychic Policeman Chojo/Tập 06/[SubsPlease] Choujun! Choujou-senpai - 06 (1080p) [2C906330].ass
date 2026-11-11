@@ -1,0 +1,469 @@
+﻿[Script Info]
+Title: Vietnamese Fansub (VietSub by Amtia(NOFACE))
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 640
+PlayResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Italics,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Top,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Top Italics,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback Italics,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Narrator,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.22,0:00:04.10,Default,Chojo,0,0,0,,Cô thấy mấy hàng cây\Nngoài đường chưa?
+Dialogue: 0,0:00:04.10,0:00:05.98,Default,Chojo,0,0,0,,Đang đúng độ hoa anh đào nở rộ nhất đấy.
+Dialogue: 0,0:00:06.49,0:00:08.23,Default,Chojo,0,0,0,,Vào một ngày đẹp trời thế này...
+Dialogue: 0,0:00:08.58,0:00:10.90,Default,Chojo,0,0,0,,chẳng gì sướng bằng ngồi cặm cụi lắp ráp mô hình.
+Dialogue: 0,0:00:10.90,0:00:12.24,Default,Nao,0,0,0,,Bộ mấy ngày khác anh không làm thế chắc?
+Dialogue: 0,0:00:12.49,0:00:20.75,Default,Sign,0,0,0,,{\an8}HÍ HÍ HÍ
+Dialogue: 0,0:00:14.05,0:00:17.28,Default,Chojo,0,0,0,,Hôm nay tôi hết ca rồi,\Nngày mai lại được nghỉ phép nữa.
+Dialogue: 0,0:00:17.28,0:00:19.67,Default,Chojo,0,0,0,,Tôi sẽ cày mô hình thâu đêm suốt sáng,\Nchẳng biết lúc nào mới ngủ đây.
+Dialogue: 0,0:00:19.67,0:00:20.75,Default,Nao,0,0,0,,Thật là cạn lời.
+Dialogue: 0,0:00:21.36,0:00:24.50,Default,Nao,0,0,0,,A chết tiệt, tôi phải đến Tổng bộ gấp.
+Dialogue: 0,0:00:24.84,0:00:27.34,Default,Chojo,0,0,0,,Trông bận rộn ghê ta,\Nbé Pon nhóc của tôi.
+Dialogue: 0,0:00:27.34,0:00:29.88,Default,Chojo,0,0,0,,Làm việc thật chăm chỉ gánh luôn phần của bọn này nhé.
+Dialogue: 0,0:00:30.28,0:00:32.43,Default,Nao,0,0,0,,Làm như dễ dàng như cái mồm anh nói ấy!
+Dialogue: 0,0:00:32.43,0:00:36.21,Default,Nao,0,0,0,,Ngày mai là Lễ hội hoa anh đào\NChinjuku rồi đấy.
+Dialogue: 0,0:00:33.01,0:00:36.76,Default,Sign,0,0,0,,{\an8}LỄ HỘI HOA ANH ĐÀO CHINJUKU
+Dialogue: 0,0:00:37.11,0:00:39.20,Narrator,Narrator,0,0,0,,Lễ hội hoa anh đào Chinjuku.
+Dialogue: 0,0:00:39.73,0:00:42.17,Narrator,Narrator,0,0,0,,Được tổ chức tại Vườn quốc gia Chinjuku,
+Dialogue: 0,0:00:42.17,0:00:45.27,Narrator,Narrator,0,0,0,,đây là một sự kiện thường niên trọng đại,\Nthu hút đông đảo du khách ghé thăm.
+Dialogue: 0,0:00:45.93,0:00:50.03,Narrator,Narrator,0,0,0,,Lễ hội lâu đời với bề dày lịch sử 100 năm này
+Dialogue: 0,0:00:50.03,0:00:54.15,Narrator,Narrator,0,0,0,,vốn là thỏi nam châm hút rắc rối\Nbởi bản tính hiếu chiến của cư dân Chinjuku.
+Dialogue: 0,0:00:56.00,0:00:58.48,Narrator,Narrator,0,0,0,,Vì lẽ đó, nó còn được mệnh danh\Nlà "Lễ hội hỗn chiến".
+Dialogue: 0,0:00:58.48,0:01:02.30,Narrator,Narrator,0,0,0,,Đối với lực lượng cảnh sát chịu trách nhiệm an ninh,\Nđây thực sự là một cơn đau đầu kinh niên.
+Dialogue: 0,0:02:29.17,0:02:33.01,Default,Sign,0,0,0,,{\an8}CẢNH SÁT SIÊU NĂNG LỰC CHOJO
+Dialogue: 0,0:02:33.63,0:02:36.01,Default,Sign,0,0,0,,{\an8}TẬP 6: TIỀN BỐI Ở LỄ HỘI
+Dialogue: 0,0:02:33.00,0:02:36.01,Narrator,Narrator,0,0,0,,Tập 6: Tiền bối ở lễ hội.
+Dialogue: 0,0:02:37.78,0:02:42.25,Default,Nao,0,0,0,,Cứ thấy kỳ kỳ sao ấy\Nkhi phải làm việc tách rời tiền bối Chojo.
+Dialogue: 0,0:02:42.25,0:02:44.01,Default,Maruyama,0,0,0,,Ô kìa, Pon này!
+Dialogue: 0,0:02:44.48,0:02:47.02,Default,Maruyama,0,0,0,,Cậu cũng đến họp triển khai\NLễ hội hoa anh đào hả?
+Dialogue: 0,0:02:45.01,0:02:47.10,Default,Sign,0,0,0,,{\an8}BẠN CÙNG KHÓA VỚI PON Ở HỌC VIỆN: MARUYAMA
+Dialogue: 0,0:02:47.02,0:02:49.14,Default,Sumikawa,0,0,0,,Tụi này cũng nhận được lệnh triệu tập nè.
+Dialogue: 0,0:02:47.10,0:02:49.14,Default,Sign,0,0,0,,{\an8}TƯƠNG TỰ: SUMIKAWA
+Dialogue: 0,0:02:49.14,0:02:51.21,Default,Nao,0,0,0,,Maru! Sumi!
+Dialogue: 0,0:02:51.21,0:02:52.90,Default,Maruyama,0,0,0,,Đúng là buổi hội ngộ cùng khóa rồi!
+Dialogue: 0,0:02:53.40,0:02:55.70,Default,Sumikawa,0,0,0,,Thế ở đồn Tây rốt cuộc là {\i1}thế nào hả{\i0}?
+Dialogue: 0,0:02:55.70,0:02:58.04,Default,Maruyama,0,0,0,,Tên cảnh sát tâm linh đó không ăn hiếp cậu chứ?
+Dialogue: 0,0:02:58.04,0:02:59.99,Default,Nao,0,0,0,,T-Tớ vẫn ổn mà.
+Dialogue: 0,0:02:59.99,0:03:04.24,Default,Maru,0,0,0,,Mà thôi, làm sự kiện này là cậu có thể\Nquẳng cái tên quái đản đó ra sau đầu rồi.
+Dialogue: 0,0:03:04.24,0:03:07.00,Default,Sumikawa,0,0,0,,Đặc biệt là khi biết ai là người chỉ huy sự kiện này.
+Dialogue: 0,0:03:07.00,0:03:07.97,Default,Nao,0,0,0,,Ý cậu là sao?
+Dialogue: 0,0:03:07.97,0:03:09.16,Default,Maruyama,0,0,0,,Ủa, cậu chưa nghe gì à?
+Dialogue: 0,0:03:09.75,0:03:12.78,Default,Maruyama,0,0,0,,Người chịu trách nhiệm an ninh\Ncho Lễ hội hoa anh đào lần này là...
+Dialogue: 0,0:03:12.78,0:03:16.42,Default,Sumikawa,0,0,0,,...một nhân vật siêu tinh anh. Vị sĩ quan\Ntừ Đội điều tra tinh nhuệ Chinjuku.
+Dialogue: 0,0:03:16.92,0:03:19.67,Default,Classmates,0,0,0,,Cảnh thị Inukai Yuki!
+Dialogue: 0,0:03:20.01,0:03:23.12,Default,Nao,0,0,0,,Hả? Vậy là tớ vừa thoát hang hùm\Nlại sa chân vào miệng cọp sao?
+Dialogue: 0,0:03:20.72,0:03:25.94,Default,Sign,0,0,0,,{\an8}BỆNH HOẠN BỰA BẨN NGANG NHAU
+Dialogue: 0,0:03:23.12,0:03:25.94,Flashback,Inukai,0,0,0,,Đây là cân nặng lúc lọt lòng\Ncủa Meguru nè.
+Dialogue: 0,0:03:25.94,0:03:27.23,Default,Nao,0,0,0,,Nghe c-có vẻ...
+Dialogue: 0,0:03:27.23,0:03:29.28,Default,Classmates,0,0,0,,Tuyệt vời ông mặt trời đúng không?
+Dialogue: 0,0:03:30.07,0:03:34.17,Default,Maruyama,0,0,0,,Không chỉ đẹp trai ngời ngời và thông minh xuất chúng,\Nnghe đồn anh ấy còn là tay súng thiện xạ cấp Olympic nữa đấy.
+Dialogue: 0,0:03:34.17,0:03:37.15,Default,Maruyama,0,0,0,,Chúa đúng là ưu ái ban cho anh ấy đủ mọi ân huệ.
+Dialogue: 0,0:03:37.15,0:03:40.35,Italics,Nao,0,0,0,,Cái tính bám đuôi biến thái kinh dị của ổng\Nchính là cái giá phải trả cho mớ ân huệ đó sao?
+Dialogue: 0,0:03:37.49,0:03:41.95,Flashback,Inukai,0,0,0,,{\an8}Me... Megu... Me... Meguru!
+Dialogue: 0,0:03:42.38,0:03:45.29,Default,Sumikawa,0,0,0,,Cấp dưới của anh ấy, Keinain,\Ncũng đẹp trai rụng rời luôn.
+Dialogue: 0,0:03:45.29,0:03:47.25,Default,Sumikawa,0,0,0,,Nhìn thế thôi chứ không ai ngờ\Nanh ấy lại là kiếm thủ bậc thầy đâu.
+Dialogue: 0,0:03:47.25,0:03:51.12,Default,Sumikawa,0,0,0,,Cảm giác cứ như Cảnh thị Inukai\Nđang thuần hóa một chú sói đơn độc hoang dã vậy.
+Dialogue: 0,0:03:51.52,0:03:52.71,Italics,Nao,0,0,0,,Thuần hóa á?
+Dialogue: 0,0:03:52.71,0:03:54.46,Flashback,Keinain,0,0,0,,Sếp đang bệnh hoạn lắm rồi đấy, Cảnh thị.
+Dialogue: 0,0:03:54.46,0:03:57.35,Default,Nao,0,0,0,,Tôi thì quen với cái phiên bản này\Ncủa hai người họ hơn.
+Dialogue: 0,0:03:57.35,0:03:59.33,Flashback,Keinain,0,0,0,,Cảnh thị hư này.
+Dialogue: 0,0:03:59.87,0:04:02.76,Default,Nao,0,0,0,,Bộ họ chỉnh sửa lại hình tượng nhân vật\Ncho bản anime rồi à?
+Dialogue: 0,0:04:02.76,0:04:04.47,Default,Sign,0,0,0,,{\an8}PHIÊN BẢN QUEN THUỘC: \NHÌNH TƯỢNG CẢNH THỊ ĐƯỢC MIÊU TẢ TRONG MANGA
+Dialogue: 0,0:04:02.76,0:04:04.47,Default,Maruyama,0,0,0,,Cậu lảm nhảm gì thế hả Pon?
+Dialogue: 0,0:04:04.72,0:04:07.55,Default,Sumikawa,0,0,0,,Khoan đã, chẳng lẽ Pon từng gặp\NCảnh thị rồi sao?
+Dialogue: 0,0:04:07.55,0:04:12.17,Default,Sumikawa,0,0,0,,Mà thôi làm gì có chuyện đó. Mấy quan chức tinh anh cấp cao\Nthuộc về một thế giới khác xa bọn mình rồi.
+Dialogue: 0,0:04:12.17,0:04:13.23,Default,Keinain,0,0,0,,Ippongi phải không?
+Dialogue: 0,0:04:14.09,0:04:15.73,Default,Keinain,0,0,0,,Về buổi đánh giá hôm trước...
+Dialogue: 0,0:04:15.73,0:04:17.49,Top,Classmates,0,0,0,,L-L-Là Keinain kìa!
+Dialogue: 0,0:04:17.49,0:04:19.28,Top,Classmates,0,0,0,,Cảnh bộ phó Keinain!
+Dialogue: 0,0:04:16.21,0:04:20.12,Default,Keinain,0,0,0,,Tôi thấy áy náy vì đã ra tay hơi mạnh bạo\Nvới một cô gái. Lỡ làm cô bị thương thì tệ quá.
+Dialogue: 0,0:04:20.12,0:04:22.49,Default,Nao,0,0,0,,Ơ-Ơ không sao đâu, anh đừng bận tâm.
+Dialogue: 0,0:04:22.89,0:04:25.86,Default,Nao,0,0,0,,Tôi chắc kèo là mình khỏe hơn,\Nnên khó mà chấn thương được lắm.
+Dialogue: 0,0:04:26.27,0:04:30.25,Default,Keinain,0,0,0,,Được rồi, lát nữa tôi sẽ cần cô hỗ trợ đấy,\Nhẹn gặp lại sau nhé.
+Dialogue: 0,0:04:31.98,0:04:33.01,Default,Nao,0,0,0,,Hỗ trợ anh á?
+Dialogue: 0,0:04:33.62,0:04:37.67,Default,Sign,0,0,0,,{\an8}CUỘC HỌP CHIẾN LƯỢC\NLỄ HỘI HOA ANH ĐÀO CHINJUKU
+Dialogue: 0,0:04:34.27,0:04:37.67,Default,Chief,0,0,0,,Lễ hội hoa anh đào xưa nay\Nluôn là nguồn cơn rắc rối,
+Dialogue: 0,0:04:38.00,0:04:41.32,Default,Chief,0,0,0,,và năm nay, chúng ta có\Nmột người mới tiếp quản vị trí chỉ huy.
+Dialogue: 0,0:04:41.32,0:04:42.38,Default,Chief,0,0,0,,Mời cậu.
+Dialogue: 0,0:04:43.47,0:04:45.20,Default,Inukai,0,0,0,,Tôi là Inukai, thuộc Đội điều tra tinh nhuệ.
+Dialogue: 0,0:04:45.20,0:04:48.93,Default,Inukai,0,0,0,,Khi lễ hội diễn ra,\Ntôi sẽ trực tiếp có mặt tại hiện trường để phát lệnh.
+Dialogue: 0,0:04:49.31,0:04:52.23,Default,Inukai,0,0,0,,Tài liệu đã phát cho các đồng chí\Nbao gồm sơ đồ bố trí nhân sự và các khâu liên quan.
+Dialogue: 0,0:04:53.03,0:04:54.44,Default,Inukai,0,0,0,,Có ai thắc mắc gì không?
+Dialogue: 0,0:04:54.80,0:04:55.86,Default,Classmates,0,0,0,,Anh ấy ngầu quá đi mất thôi.
+Dialogue: 0,0:04:55.86,0:04:57.65,Italics,Nao,0,0,0,,Mình không ngờ ổng lại nổi tiếng đến thế.
+Dialogue: 0,0:04:57.65,0:05:00.57,Italics,Nao,0,0,0,,Nhưng để cái tên bám đuôi biến thái này chỉ huy\Nliệu có ổn thật không đấy?
+Dialogue: 0,0:05:01.99,0:05:04.01,Default,Cop 1,0,0,0,,Cái thằng nhóc vô danh tiểu tốt này\Nmà đòi làm chỉ huy sao?
+Dialogue: 0,0:05:04.01,0:05:05.27,Default,Cop 2,0,0,0,,Nếu sếp đã hỏi...
+Dialogue: 0,0:05:05.27,0:05:08.05,Default,Cop 2,0,0,0,,Tôi thấy sự phân bổ quân số có vẻ hơi bất hợp lý.
+Dialogue: 0,0:05:08.05,0:05:11.08,Default,Cop 3,0,0,0,,Với lại có quá trời người\Nbị tách khỏi cộng sự quen thuộc.
+Dialogue: 0,0:05:11.08,0:05:13.00,Default,Cop 3,0,0,0,,Rốt cuộc sếp tính toán kiểu gì vậy?
+Dialogue: 0,0:05:13.00,0:05:17.46,Default,Inukai,0,0,0,,Dữ liệu chỉ ra rằng tại khu vực nghỉ ngơi\Nthường xuyên tập trung một lượng lớn sâu rượu say xỉn.
+Dialogue: 0,0:05:18.01,0:05:22.20,Default,Inukai,0,0,0,,Điều đó kết hợp với những lần phản ứng khẩn cấp\Nchậm trễ trong quá khứ
+Dialogue: 0,0:05:22.20,0:05:24.97,Default,Inukai,0,0,0,,là lý do tôi tăng cường quân số\Ntúc trực để kiểm soát đám đông.
+Dialogue: 0,0:05:24.97,0:05:29.17,Default,Inukai,0,0,0,,Lễ hội hoa anh đào còn đón tiếp\Nrất nhiều du khách quốc tế.
+Dialogue: 0,0:05:29.17,0:05:33.47,Default,Inukai,0,0,0,,Do đó tôi ưu tiên bố trí tối đa các sĩ quan\Nbiết ngoại ngữ vào các vị trí trọng điểm.
+Dialogue: 0,0:05:33.47,0:05:37.44,Default,Inukai,0,0,0,,Nếu trong ngày diễn ra cần điều chỉnh nhân sự,\Nchính tôi sẽ có mặt để trực tiếp xử lý.
+Dialogue: 0,0:05:38.17,0:05:40.86,Default,Inukai,0,0,0,,Báo cáo hết. Còn câu hỏi nào nữa không?
+Dialogue: 0,0:05:41.18,0:05:43.23,Italics,Nao,0,0,0,,Ủa, ổng không hề giở chứng biến thái sao?
+Dialogue: 0,0:05:43.23,0:05:45.29,Top,Maruyama,0,0,0,,Ôi, ngầu xỉu luôn á!
+Dialogue: 0,0:05:44.32,0:05:49.10,Italics,Nao,0,0,0,,K-Không thể tin nổi. Đây thực sự là\NCảnh thị Inukai mà mình biết sao trời?
+Dialogue: 0,0:05:48.45,0:05:49.62,Default,Sign,0,0,0,,{\an8}TAYUYA TRONG NARUTO
+Dialogue: 0,0:05:50.05,0:05:52.23,Default,Inukai,0,0,0,,Tôi cũng chỉ là người mới ở cương vị này.
+Dialogue: 0,0:05:52.23,0:05:56.25,Default,Inukai,0,0,0,,Kinh nghiệm của tôi còn thua kém các sĩ quan tuần tra\Nđã gắn bó và hiểu rõ Chinjuku.
+Dialogue: 0,0:05:56.84,0:06:00.88,Default,Inukai,0,0,0,,Vì vậy trong nhiệm vụ lần này,\Ntôi rất cần sự tương trợ từ tất cả các đồng chí.
+Dialogue: 0,0:06:01.76,0:06:03.63,Default,Inukai,0,0,0,,Rất mong được mọi người giúp đỡ.
+Dialogue: 0,0:06:03.63,0:06:04.88,Italics,Nao,0,0,0,,Hoàn hảo không tì vết luôn.
+Dialogue: 0,0:06:03.63,0:06:04.88,Default,Sign,0,0,0,,{\an8}HOÀN HẢO
+Dialogue: 0,0:06:04.88,0:06:09.22,Italics,Nao,0,0,0,,Hóa ra cứ tách tiền bối Chojo ra\Nlà ổng lại tài giỏi, đĩnh đạc đến mức này sao?
+Dialogue: 0,0:06:09.22,0:06:11.39,Default,Inukai,0,0,0,,Giờ thì, đối với đồn Tây Chinjuku...
+Dialogue: 0,0:06:12.24,0:06:14.69,Default,Inukai,0,0,0,,Do quân số của các bạn cực kỳ ít ỏi,
+Dialogue: 0,0:06:14.69,0:06:17.64,Default,Inukai,0,0,0,,nên vào ngày diễn ra sự kiện,\Ncô sẽ nhận mệnh lệnh trực tiếp từ tôi.
+Dialogue: 0,0:06:17.96,0:06:19.52,Default,Classmates,0,0,0,,Bất công quá nha Pon!
+Dialogue: 0,0:06:19.52,0:06:23.15,Italics,Nao,0,0,0,,C-Cái lễ hội này rồi sẽ đi về đâu đây?
+Dialogue: 0,0:06:23.15,0:06:26.78,Default,Sign,0,0,0,,{\an8}NGÀY DIỄN RA LỄ HỘI
+Dialogue: 0,0:06:23.96,0:06:28.36,Narrator,Narrator,0,0,0,,Và rồi ngày hội cũng đến,\Nôm theo bao nỗi bất an còn lơ lửng của cô.
+Dialogue: 0,0:06:28.86,0:06:30.68,Default,Inukai,0,0,0,,Toàn trạm, báo cáo tình hình.
+Dialogue: 0,0:06:30.68,0:06:32.32,Italics,Radio,0,0,0,,Khu vực Cổng Chinjuku không có gì bất thường.
+Dialogue: 0,0:06:32.32,0:06:33.91,Italics,Radio,0,0,0,,Phía trước công viên hoàn toàn yên tĩnh.
+Dialogue: 0,0:06:33.91,0:06:36.08,Default,Inukai,0,0,0,,Rõ. Tiếp tục mở to mắt cảnh giác.
+Dialogue: 0,0:06:37.03,0:06:40.08,Narrator,Narrator,0,0,0,,Thế nhưng tài năng lãnh đạo của Inukai\Nquả thực vô cùng ấn tượng.
+Dialogue: 0,0:06:40.42,0:06:42.63,Default,Nao,0,0,0,,Đ-Đỉnh thật đấy chứ đùa.
+Dialogue: 0,0:06:42.63,0:06:45.96,Default,Nao,0,0,0,,Mình chưa từng thấy Lễ hội hoa anh đào\Nlại trật tự, quy củ đến thế này bao giờ.
+Dialogue: 0,0:06:46.32,0:06:49.02,Default,Nao,0,0,0,,Là dân bản địa ở đây, tôi thực sự nể phục sếp đấy.
+Dialogue: 0,0:06:49.02,0:06:52.71,Default,Inukai,0,0,0,,Bao nhiêu con mắt đang đổ dồn vào tôi,\Ntôi không thể để lộ màn thể hiện tệ hại được.
+Dialogue: 0,0:06:52.71,0:06:53.72,Default,Nao,0,0,0,,Đổ dồn gì cơ ạ?
+Dialogue: 0,0:06:54.28,0:06:57.22,Default,Inukai,0,0,0,,Từng sĩ quan ở đây đều đang dòm ngó,\Nđánh giá năng lực của tôi,
+Dialogue: 0,0:06:57.22,0:06:59.23,Default,Inukai,0,0,0,,âu cũng bởi cái danh tiếng lẫy lừng của tôi mà ra.
+Dialogue: 0,0:06:59.79,0:07:04.59,Default,Inukai,0,0,0,,Nếu tôi phá hỏng mọi chuyện, không chỉ người dân\Nmất niềm tin vào cảnh sát,
+Dialogue: 0,0:07:04.59,0:07:06.66,Default,Inukai,0,0,0,,mà uy tín của bộ máy chỉ huy Tổng bộ cũng bị bôi tro trát trấu,
+Dialogue: 0,0:07:06.66,0:07:09.24,Default,Inukai,0,0,0,,và các băng đảng tội phạm có tổ chức sẽ thừa cơ trục lợi.
+Dialogue: 0,0:07:09.56,0:07:13.22,Default,Inukai,0,0,0,,Hậu quả đối với trật tự ở Chinjuku\Nsẽ còn kéo dài vượt xa ngày hôm nay.
+Dialogue: 0,0:07:13.22,0:07:14.49,Default,Keinain,0,0,0,,Chính vì lẽ đó,
+Dialogue: 0,0:07:14.79,0:07:18.74,Default,Keinain,0,0,0,,hôm nay sếp đang cố đè nén cái thói bệnh hoạn\Nthường ngày của mình xuống mức tối đa đấy.
+Dialogue: 0,0:07:18.74,0:07:20.50,Default,Keinain,0,0,0,,Sếp nghiêm túc với chuyện này ghê ha?
+Dialogue: 0,0:07:18.74,0:07:23.00,Top Italics,Inukai,0,0,0,,Meguru! Cộng sự! Vương vấn! Yêu đương! Bám riết!
+Dialogue: 0,0:07:20.50,0:07:23.00,Default,Nao,0,0,0,,Bất ngờ là cái thứ đó\Ncũng có thể đè nén lại được cơ đấy.
+Dialogue: 0,0:07:23.41,0:07:26.59,Default,Nao,0,0,0,,Tôi không ngờ sếp lại nghiêm túc với nhiệm vụ này\Nđến nhường vậy.
+Dialogue: 0,0:07:26.59,0:07:28.51,Default,Nao,0,0,0,,Không có ý thất lễ đâu, nhưng tôi phải nhìn sếp\Nbằng con mắt khác rồi.
+Dialogue: 0,0:07:28.51,0:07:31.04,Default,Nao,0,0,0,,Có việc gì cần, sếp cứ việc ra lệnh.
+Dialogue: 0,0:07:31.04,0:07:33.52,Default,Inukai,0,0,0,,Ừm. À mà này, Sĩ quan Ippongi...
+Dialogue: 0,0:07:33.52,0:07:34.26,Default,Nao,0,0,0,,Dạ?
+Dialogue: 0,0:07:34.87,0:07:38.65,Default,Inukai,0,0,0,,Dạo gần đây Meguru có ăn uống đàng hoàng không?
+Dialogue: 0,0:07:38.65,0:07:40.27,Default,Nao,0,0,0,,Rồi, thói bệnh hoạn lại lòi đuôi ra rồi.
+Dialogue: 0,0:07:40.58,0:07:44.21,Default,Keinain,0,0,0,,Cảnh thị, giao kèo của chúng ta là\Nsếp phải kiềm chế cả ngày hôm nay cơ mà.
+Dialogue: 0,0:07:44.21,0:07:46.77,Default,Keinain,0,0,0,,Lờ cái bóng ma trung niên\Nđằng sau cô gái trẻ kia đi giùm tôi cái.
+Dialogue: 0,0:07:46.77,0:07:49.78,Default,Sign,0,0,0,,{\an8}CÁI BÓNG MA
+Dialogue: 0,0:07:46.77,0:07:49.78,Default,Keinain,0,0,0,,Bám riết người ta cũng phải có {\i1}giới hạn{\i0} thôi chứ.\NDẹp giùm tôi đi!
+Dialogue: 0,0:07:50.64,0:07:55.84,Default,Keinain,0,0,0,,Cô thấy rồi đấy, Ippongi, độ bệnh hoạn của sếp\Ntừ sau khi gặp lại người cộng sự cũ
+Dialogue: 0,0:07:55.84,0:07:57.82,Default,Keinain,0,0,0,,đã vượt quá khả năng kiềm chế của một mình tôi.
+Dialogue: 0,0:07:57.82,0:08:00.41,Default,Keinain,0,0,0,,Sếp không thể hành xử như thế này được.\NĐặc biệt là vào một ngày như hôm nay.
+Dialogue: 0,0:08:00.86,0:08:04.31,Default,Keinain,0,0,0,,Thế nên vì cô đã quá rõ cái độ biến thái của sếp,\Ntôi muốn nhờ cô một chuyện.
+Dialogue: 0,0:08:04.31,0:08:07.84,Default,Keinain,0,0,0,,Cô giúp tôi trông chừng lão cẩu này,\Nđừng để ổng lộng hành mất kiểm soát được không?
+Dialogue: 0,0:08:07.84,0:08:11.92,Italics,Nao,0,0,0,,Mình tự hỏi nếu mấy đứa bạn cùng khóa ở học viện\Nthấy cảnh này thì chúng nó sẽ nghĩ cái gì nữa.
+Dialogue: 0,0:08:11.92,0:08:14.93,Top,Inukai,0,0,0,,Meguru... Meguru... Meguru... Meguru!
+Dialogue: 0,0:08:11.92,0:08:14.93,Default,Keinain,0,0,0,,Trước mắt, tôi muốn cô đi tuần tra\Nquanh khu vực lễ hội một vòng.
+Dialogue: 0,0:08:15.24,0:08:19.06,Default,Keinain,0,0,0,,Việc cô đứng quá gần hình như đang kích hoạt\Ncái thói bệnh hoạn của ổng đấy.
+Dialogue: 0,0:08:19.06,0:08:21.05,Default,Inukai,0,0,0,,Không được kén ăn đâu đấy, Meguru à.
+Dialogue: 0,0:08:21.05,0:08:23.12,Italics,Nao,0,0,0,,Cái nắp đậy thói bệnh hoạn của ổng\Ncó vẻ lỏng lẻo dễ sợ.
+Dialogue: 0,0:08:23.12,0:08:26.71,Default,Keinain,0,0,0,,Hôm nay tôi sẽ không thể để mắt\Nđến toàn bộ diễn biến khác được.
+Dialogue: 0,0:08:26.71,0:08:28.45,Default,Keinain,0,0,0,,Nên tôi trông cậy hết vào cô đấy.
+Dialogue: 0,0:08:28.45,0:08:30.44,Default,Nao,0,0,0,,R-Rõ rồi ạ.
+Dialogue: 0,0:08:32.24,0:08:35.24,Italics,Nao,0,0,0,,May mà hôm nay tiền bối Chojo được nghỉ phép.
+Dialogue: 0,0:08:35.24,0:08:38.70,Italics,Nao,0,0,0,,Chứ nếu anh ấy mà ở đây thì chẳng biết\Nông Cảnh thị này sẽ phát rồ lên đến mức nào nữa.
+Dialogue: 0,0:08:35.20,0:08:39.76,Top,Chojo,0,0,0,,Rồi, một trà, một nước cam,\Nvới một cola của cô này.
+Dialogue: 0,0:08:39.76,0:08:41.70,Default,Chojo,0,0,0,,A phiền phức quá đi mất!
+Dialogue: 0,0:08:42.08,0:08:44.63,Default,Chojo,0,0,0,,Tôi đọc tâm trí hết rồi,\Nkhỏi cần mở miệng gọi món làm gì!
+Dialogue: 0,0:08:41.70,0:08:51.21,Default,Sign,0,0,0,,{\an8}ĐỒ UỐNG
+Dialogue: 0,0:08:44.63,0:08:46.07,Default,Chojo,0,0,0,,Nè! Cầm lấy biến giùm đi!
+Dialogue: 0,0:08:46.07,0:08:48.30,Default,Copbot,0,0,0,,Tụi tôi có cả đồ ăn vặt nóng sốt nữa nha.
+Dialogue: 0,0:08:48.30,0:08:51.21,Default,Nao,0,0,0,,Tiền bối Chojo! Copbot! Hai người làm {\i1}cái gì{\i0} ở đây thế hả?!
+Dialogue: 0,0:08:51.59,0:08:54.77,Default,Chojo,0,0,0,,Tôi còn chẳng biết cô đang hỏi cái quái gì nữa,\NIppongi à.
+Dialogue: 0,0:08:54.77,0:08:57.36,Default,Copbot,0,0,0,,Chị Erika tóm được tụi tôi rồi...
+Dialogue: 0,0:08:58.24,0:09:01.81,Default,Chojo,0,0,0,,Bà già chằn lửa đó ép bọn tôi\Nphải đứng bán quầy cho Kabuki Mart.
+Dialogue: 0,0:09:01.81,0:09:02.98,Flashback,Erika,0,0,0,,Lại đây cho bà!
+Dialogue: 0,0:09:01.73,0:09:02.98,Default,Sign,0,0,0,,{\an8}LẠI ĐÂY CHO BÀ
+Dialogue: 0,0:09:02.98,0:09:06.73,Default,Chojo,0,0,0,,Bả làm như chẳng thèm quan tâm chuyện con Ez-8\Nở nhà của tôi đang cần sơn hiệu ứng cũ ấy.
+Dialogue: 0,0:09:06.73,0:09:08.23,Default,Nao,0,0,0,,T-Thôi toang thật rồi.
+Dialogue: 0,0:09:08.23,0:09:11.11,Italics,Nao,0,0,0,,Nếu hai người đó mà chạm mặt nhau,\Nmình biết chắc chuyện gì sẽ xảy ra luôn.
+Dialogue: 0,0:09:11.11,0:09:12.26,Flashback,Inukai,0,0,0,,Meguruuu!
+Dialogue: 0,0:09:12.26,0:09:16.86,Flashback,Keinain,0,0,0,,{\an8}Cảnh thị! Cảnh thị! Sếp vẫn đang là\Nchỉ huy trưởng an ninh đấy nhé!
+Dialogue: 0,0:09:14.44,0:09:16.86,Italics,Nao,0,0,0,,Toàn bộ chiến dịch sẽ sụp đổ tan tành mất!
+Dialogue: 0,0:09:17.40,0:09:19.49,Italics,Nao,0,0,0,,Tuyệt đối không thể để ổng giương cao ngọn cờ bệnh hoạn được.
+Dialogue: 0,0:09:19.87,0:09:22.49,Default,Nao,0,0,0,,Mình sẽ để Keinain lo liệu ông Cảnh thị,
+Dialogue: 0,0:09:22.49,0:09:24.38,Default,Nao,0,0,0,,còn mình thì canh chừng—
+Dialogue: 0,0:09:24.00,0:09:26.00,Default,Sign,0,0,0,,{\an8}ĐỒ UỐNG: 120 YÊN
+Dialogue: 0,0:09:26.00,0:09:29.75,Default,Chojo,0,0,0,,Nghỉ khỏe, dẹp đi.\NTôi đi dạo duỗi chân duỗi cẳng đây.
+Dialogue: 0,0:09:29.75,0:09:32.92,Default,Nao,0,0,0,,Không được! Anh phải ngồi yên trông quầy đi chứ!
+Dialogue: 0,0:09:32.92,0:09:35.26,Default,Chojo,0,0,0,,Gì? Bà già đó phái cô tới bắt tôi à?
+Dialogue: 0,0:09:35.26,0:09:36.56,Default,Nao,0,0,0,,Đọc. Suy. Nghĩ. Của. Tôi. Mau.
+Dialogue: 0,0:09:36.56,0:09:38.22,Default,Chojo,0,0,0,,Cô bị cái—
+Dialogue: 0,0:09:38.22,0:09:40.27,Default,Nao,0,0,0,,Câm mồm và làm ngay đi!
+Dialogue: 0,0:09:40.26,0:09:43.27,Default,Sign,0,0,0,,{\an8}ĐANG ĐỌC TÂM TRÍ...
+Dialogue: 0,0:09:45.84,0:09:50.27,Default,Chojo,0,0,0,,Rồi sao? Cô muốn tôi né mặt Yuki\Nvà biết điều an phận thủ thường chứ gì?
+Dialogue: 0,0:09:50.27,0:09:51.43,Default,Nao,0,0,0,,Đúng thế.
+Dialogue: 0,0:09:51.43,0:09:53.35,Default,Chojo,0,0,0,,Đúng là cái nỗi lo vớ va vớ vẩn.
+Dialogue: 0,0:09:53.35,0:09:56.95,Default,Nao,0,0,0,,Chẳng vớ vẩn tí nào đâu!\NTrật tự của Chinjuku đang ngàn cân treo sợi tóc đấy!
+Dialogue: 0,0:09:56.95,0:09:58.65,Default,Chojo,0,0,0,,Cái đó không phải phần vớ vẩn.
+Dialogue: 0,0:09:59.60,0:10:02.33,Default,Lily,0,0,0,,Đến cả cái sự kiện như thế này\Nmà hai người cũng dính như sam vậy à?
+Dialogue: 0,0:10:02.33,0:10:03.33,Default,Nao,0,0,0,,Bé Lily?
+Dialogue: 0,0:10:03.33,0:10:06.32,Default,Hosaka,0,0,0,,Ê, đông đủ hội bạn bè tụ tập rồi nè.
+Dialogue: 0,0:10:06.32,0:10:07.54,Default,Nao,0,0,0,,Cả bác Ho nữa sao?!
+Dialogue: 0,0:10:07.89,0:10:10.77,Default,Hosaka,0,0,0,,Thế nào, anh bạn? Muốn làm vài ve bia\Ndưới tán hoa anh đào không?
+Dialogue: 0,0:10:10.77,0:10:11.65,Default,Chojo,0,0,0,,Nghe chí lý đấy.
+Dialogue: 0,0:10:11.65,0:10:14.59,Italics,Nao,0,0,0,,Cái hội phá làng phá xóm quen thuộc\Nđang tụ tập đông đủ rồi.
+Dialogue: 0,0:10:15.87,0:10:18.32,Default,Ban,0,0,0,,Ối, chẳng phải Sư phụ đây sao!
+Dialogue: 0,0:10:18.32,0:10:20.30,Italics,Nao,0,0,0,,Và cái thằng loi choi nhất cũng vừa trồi lên!
+Dialogue: 0,0:10:20.78,0:10:24.88,Default,Chojo,0,0,0,,Ê, liệu hồn đừng có vác xác tới đây\Nđể xin xỏ siêu năng lực đấy nhé.
+Dialogue: 0,0:10:25.71,0:10:29.31,Default,Ban,0,0,0,,Đâu có đâu ạ. Vào những dịp thế này\Nphải là lúc thực hành chứ đâu phải chỉ bảo suông.
+Dialogue: 0,0:10:29.74,0:10:31.99,Default,Ban,0,0,0,,Nhất là trong công cuộc săn lùng tình yêu của em!
+Dialogue: 0,0:10:32.75,0:10:33.82,Default,Chojo,0,0,0,,Cái quái gì thế không biết?
+Dialogue: 0,0:10:33.82,0:10:37.53,Default,Ban,0,0,0,,Thôi nào, lễ hội mà.\NThư giãn chút đi Sư phụ.
+Dialogue: 0,0:10:37.53,0:10:40.32,Default,Chojo,0,0,0,,Đối với tôi thì lúc nào chú mày\Ncũng thư giãn {\i1}quá mức cần thiết{\i0} rồi đấy.
+Dialogue: 0,0:10:40.32,0:10:42.31,Default,Nao,0,0,0,,Hai người bớt cái mồm lại giùm tôi được không?!
+Dialogue: 0,0:10:42.31,0:10:44.65,Default,Nao,0,0,0,,Hôm nay cộng sự của tôi mà nổi bật quá\Nlà toang đấy—
+Dialogue: 0,0:10:44.65,0:10:46.03,Default,Inukai,0,0,0,,Sĩ quan Ippongi.
+Dialogue: 0,0:10:46.45,0:10:50.63,Default,Nao,0,0,0,,Ơ-Ơ, cơn gió nào đưa Cảnh thị tới tận đây thế ạ?\NLại còn đột ngột thế này nữa!
+Dialogue: 0,0:10:50.63,0:10:52.34,Default,Inukai,0,0,0,,Tôi đang đi tuần tra một vòng để kiểm tra tình hình thôi.
+Dialogue: 0,0:10:52.64,0:10:57.43,Default,Inukai,0,0,0,,Với lại hình như tôi tưởng tượng ra hay sao ấy,\Nnhưng tôi vừa nghe cô nói chữ "cộng sự của tôi"?
+Dialogue: 0,0:10:59.20,0:11:03.47,Default,Nao,0,0,0,,C-Cảnh thị tưởng tượng {\i1}thật đấy ạ{\i0}.\NDù sao hôm nay anh ấy cũng được nghỉ phép mà.
+Dialogue: 0,0:11:04.62,0:11:06.51,Default,Nao,0,0,0,,C-Có chuyện gì không ổn sao Cảnh thị?
+Dialogue: 0,0:11:06.51,0:11:07.35,Default,Inukai,0,0,0,,Là do tôi...
+Dialogue: 0,0:11:08.02,0:11:09.84,Default,Inukai,0,0,0,,hay là ở đây thoang thoảng mùi hương của Meguru vậy?
+Dialogue: 0,0:11:09.84,0:11:11.10,Italics,Nao,0,0,0,,Giờ biến thành chó luôn rồi hả trời?
+Dialogue: 0,0:11:11.10,0:11:14.24,Default,Nao,0,0,0,,T-Tôi nghĩ chắc Cảnh thị nhầm lẫn ở đâu rồi.
+Dialogue: 0,0:11:14.24,0:11:17.93,Default,Inukai,0,0,0,,Không. Mùi hương của Meguru thì không bao giờ\Ntôi có thể nhầm lẫn với thứ khác được!
+Dialogue: 0,0:11:17.93,0:11:19.57,Italics,Nao,0,0,0,,Lại còn là loài chó cuồng dại nữa chứ.
+Dialogue: 0,0:11:20.40,0:11:22.39,Default,Inukai,0,0,0,,Ở đâu? Mùi hương đó bốc ra từ đâu?
+Dialogue: 0,0:11:22.39,0:11:25.42,Default,Keinain,0,0,0,,Cảnh thị.\NLàm miếng mực nướng không sếp?
+Dialogue: 0,0:11:25.42,0:11:28.58,Default,Inukai,0,0,0,,Keinain, cậu bị sao thế hả?\NChúng ta đang trong giờ làm việc đấy.
+Dialogue: 0,0:11:29.38,0:11:32.76,Default,Keinain,0,0,0,,Tôi thấy quanh đây chẳng có rắc rối gì đâu.\NĐi tiếp thôi sếp.
+Dialogue: 0,0:11:32.76,0:11:34.97,Default,Inukai,0,0,0,,Chắc là mùi mực nướng\Nđã ảnh hưởng đến khứu giác của tôi rồi.
+Dialogue: 0,0:11:34.97,0:11:35.84,Default,Inukai,0,0,0,,Ngon đấy.
+Dialogue: 0,0:11:36.47,0:11:38.40,Default,Nao,0,0,0,,Phù, thoát nạn rồi.
+Dialogue: 0,0:11:38.40,0:11:40.72,Default,Chojo,0,0,0,,Khốn kiếp cái con bé Pon này.\NCô tưởng cô thích đá tôi là—
+Dialogue: 0,0:11:40.72,0:11:42.72,Default,Nao,0,0,0,,Chúng ta phải chuồn ra xa hơn nữa!
+Dialogue: 0,0:11:40.72,0:11:42.72,Top,Chojo,0,0,0,,Ê-Ê này!
+Dialogue: 0,0:11:42.72,0:11:44.81,Default,Lily,0,0,0,,Ủa, hai người đi đâu thế?
+Dialogue: 0,0:11:49.10,0:11:51.23,Default,Nao,0,0,0,,Anh phải ở yên trong khu nghỉ ngơi này!
+Dialogue: 0,0:11:51.62,0:11:54.62,Default,Nao,0,0,0,,Cần cái gì thì cứ bảo,\Ntôi sẽ đi lấy cho anh.
+Dialogue: 0,0:11:54.62,0:11:58.23,Default,Chojo,0,0,0,,Hả? Cái thú vị của lễ hội là được lượn lờ,\Nmua sắm đồ ăn thức uống chứ—
+Dialogue: 0,0:11:58.23,0:11:59.32,Default,Nao,0,0,0,,Câm mồm lại.
+Dialogue: 0,0:11:59.32,0:12:00.13,Default,Chojo,0,0,0,,Dạ vâng.
+Dialogue: 0,0:12:00.13,0:12:03.41,Default,Nao,0,0,0,,Tuyệt đối không thể để anh đụng độ Cảnh thị được.
+Dialogue: 0,0:12:03.41,0:12:05.37,Default,Myturn,0,0,0,,Ê, kia chẳng phải là ông anh cảnh sát tâm linh sao?
+Dialogue: 0,0:12:05.87,0:12:08.89,Default,Kid 1,0,0,0,,Đi lễ hội mà cũng phải dòm cái bản mặt gợi đòn\Ncủa chú mày nữa hả?
+Dialogue: 0,0:12:08.89,0:12:11.62,Default,Chojo,0,0,0,,Mặt ba đứa tụi mày trông cũng ủ dột\Nchua lè như giấm rồi kìa.
+Dialogue: 0,0:12:11.97,0:12:14.76,Default,Chojo,0,0,0,,Lại cái kiểu "trẻ con thời nay mê game\Nhơn đi chơi lễ hội" chứ gì?
+Dialogue: 0,0:12:14.76,0:12:18.03,Default,Chojo,0,0,0,,Nếu chơi CurseMon mà mặt như đưa đám thế kia\Nthì về nhà cho lành đi.
+Dialogue: 0,0:12:18.03,0:12:19.84,Default,Kid 1,0,0,0,,Im đi. Bộ bọn cháu muốn thế chắc?
+Dialogue: 0,0:12:19.84,0:12:23.05,Default,Kid 2,0,0,0,,Bọn họ lột sạch tiền tiêu vặt của bọn cháu rồi!
+Dialogue: 0,0:12:23.05,0:12:24.38,Default,Chojo,0,0,0,,Có kẻ "lột sạch" á?
+Dialogue: 0,0:12:25.03,0:12:28.71,Default,Myturn,0,0,0,,Quầy bắn súng hội chợ ấy.\NCái trò đó chắc chắn là bịp bợm rồi!
+Dialogue: 0,0:12:28.71,0:12:31.21,Default,Myturn,0,0,0,,Bắn trúng bôm bốp bao nhiêu phát\Nmà chúng nó chẳng thèm nhúc nhích.
+Dialogue: 0,0:12:31.21,0:12:35.40,Default,Kid 2,0,0,0,,Nhưng phần thưởng là thẻ bài cực hiếm,\Nbọn cháu không kiềm lòng nổi.
+Dialogue: 0,0:12:35.80,0:12:38.38,Default,Kid 1,0,0,0,,Ngoảnh đi ngoảnh lại,\Nbọn cháu đã rỗng túi sạch bách.
+Dialogue: 0,0:12:38.98,0:12:43.15,Default,Chojo,0,0,0,,Nghe thấy chưa hỡi Sĩ quan Pon? Có kẻ mở trò\Nlừa gạt vặt tiền của trẻ con kìa.
+Dialogue: 0,0:12:44.84,0:12:47.20,Default,Chojo,0,0,0,,Chúng ta đâu thể nhắm mắt làm ngơ được, đúng chứ?
+Dialogue: 0,0:12:47.95,0:12:50.02,Default,Chojo,0,0,0,,Đội cảnh sát dẹp quầy hội chợ xuất kích!
+Dialogue: 0,0:12:50.02,0:12:51.66,Default,Nao,0,0,0,,Làm ơn giữ chừng mực giùm cái.
+Dialogue: 0,0:12:51.66,0:12:53.66,Default,Sign,0,0,0,,{\an8}QUẦY BẮN SÚNG HỘI CHỢ
+Dialogue: 0,0:12:53.95,0:12:55.68,Default,Mytrun,0,0,0,,Chính là chỗ này đấy, cảnh sát tâm linh.
+Dialogue: 0,0:12:55.68,0:12:58.42,Default,Vendor,0,0,0,,Muốn thử vận may làm vài phát súng\Nvui vẻ không quý khách?
+Dialogue: 0,0:12:58.94,0:13:02.17,Default,Chojo,0,0,0,,Ồ? Mục tiêu là mấy lá bài đựng trong hộp nhựa này hả?
+Dialogue: 0,0:13:02.74,0:13:04.20,Default,Chojo,0,0,0,,Làm sao mà nặng cho nổi.
+Dialogue: 0,0:13:04.20,0:13:06.93,Default,Vendor,0,0,0,,Quý khách cứ thoải mái bắn bao nhiêu phát tùy thích.
+Dialogue: 0,0:13:08.14,0:13:12.18,Italics,Vendor,0,0,0,,Thằng ngu. Từng cái phần thưởng kia\Nđều đã được nhồi chì gia tải cả rồi.
+Dialogue: 0,0:13:12.18,0:13:14.77,Italics,Vendor,0,0,0,,Cỡ cái súng nút bần thì có bắn đến tết Tây\Ncũng đừng hòng làm nó lung lay!
+Dialogue: 0,0:13:18.09,0:13:20.09,Default,Myturn,0,0,0,,Bắn chuẩn đấy, cảnh sát tâm linh!
+Dialogue: 0,0:13:20.09,0:13:24.23,Default,Chojo,0,0,0,,Pha này kể cả mình có hãm bớt\Nlực xoay viễn di thì vẫn êm ru.
+Dialogue: 0,0:13:24.23,0:13:25.74,Italics,Vendor,0,0,0,,C-Cái thằng này vừa làm trò gì thế?!
+Dialogue: 0,0:13:26.20,0:13:29.44,Italics,Vendor,0,0,0,,Cơ mà phần thưởng đặc biệt\Nđã được bắt vít chặt vào bàn rồi!
+Dialogue: 0,0:13:29.44,0:13:31.74,Default,Chojo,0,0,0,,Chà, ông chơi bẩn tới mức đó luôn cơ à?
+Dialogue: 0,0:13:34.60,0:13:37.83,Default,Chojo,0,0,0,,Vậy thì lát nữa tôi làm gì\Nông cũng không có quyền càm ràm đâu nhé.
+Dialogue: 0,0:13:42.46,0:13:44.28,Default,Vendor,0,0,0,,K-Không thể nào!
+Dialogue: 0,0:13:44.28,0:13:46.55,Default,Vendor,0,0,0,,Toàn bộ số phần thưởng của mình... bay sạch bách rồi!
+Dialogue: 0,0:13:46.96,0:13:50.43,Default,Chojo,0,0,0,,Muốn lừa đảo con nít ở cái thị trấn này\Nthì khắc cốt ghi tâm điều này cho tôi:
+Dialogue: 0,0:13:50.99,0:13:53.96,Default,Chojo,0,0,0,,Không một ai được phép làm lũ trẻ Chinjuku phải khóc!
+Dialogue: 0,0:13:53.96,0:13:56.40,Default,Chojo,0,0,0,,Ngoại trừ ta! Độc quyền {\i1}duy nhất{\i0} luôn!
+Dialogue: 0,0:13:56.40,0:13:57.94,Default,Nao,0,0,0,,Đúng là vua hải tặc cặn bã.
+Dialogue: 0,0:13:58.34,0:14:02.01,Default,Chojo,0,0,0,,Xong, đống thẻ bài này là của tụi mày hết.\NChia chác thế nào tùy thích.
+Dialogue: 0,0:14:02.01,0:14:04.32,Default,Kid 1,0,0,0,,Chuẩn tiền bối cảnh sát tâm linh của tụi mình!\NHiểu chuyện ghê luôn á!
+Dialogue: 0,0:14:04.32,0:14:07.43,Default,Nao,0,0,0,,Giờ thì thỏa mãn rồi chứ gì, làm ơn trật tự giùm—
+Dialogue: 0,0:14:07.43,0:14:08.95,Default,Inukai,0,0,0,,Vừa có ai nhắc đến "cảnh sát tâm linh" phải không?
+Dialogue: 0,0:14:09.47,0:14:11.12,Default,Inukai,0,0,0,,Có khi nào Meguru thực sự {\i1}đang ở đây{\i0}?
+Dialogue: 0,0:14:11.12,0:14:13.20,Default,Nao,0,0,0,,Cảnh thị tưởng tượng thôi ạ! Thật đấy! Tôi thề luôn!
+Dialogue: 0,0:14:13.53,0:14:15.16,Default,Nao,0,0,0,,Biến nhanh giùm tôi cái!
+Dialogue: 0,0:14:16.52,0:14:18.61,Default,Inukai,0,0,0,,Vừa rồi có phải là tiếng bước chân của Meguru không?
+Dialogue: 0,0:14:18.61,0:14:20.92,Default,Nao,0,0,0,,Ổng như một con cẩu cuồng chủ vậy.
+Dialogue: 0,0:14:20.92,0:14:22.94,Default,Nao,0,0,0,,Tôi đã bảo là anh ấy không có ở đây mà!
+Dialogue: 0,0:14:22.94,0:14:23.92,Default,Inukai,0,0,0,,Vô lý.
+Dialogue: 0,0:14:24.24,0:14:27.90,Default,Inukai,0,0,0,,Giai điệu tinh tế từ từng bước chân của cậu ấy\Nđang truyền đến tai tôi vô cùng rõ ràng!
+Dialogue: 0,0:14:27.90,0:14:30.99,Default,Keinain,0,0,0,,Cảnh thị.\NSếp là fan của Yorushika đấy à?
+Dialogue: 0,0:14:30.99,0:14:33.43,Default,Inukai,0,0,0,,Đúng là vậy nhưng giờ không phải lúc đâu, Keinain.
+Dialogue: 0,0:14:34.27,0:14:35.61,Default,Inukai,0,0,0,,Bài đó hay thật đấy.
+Dialogue: 0,0:14:36.50,0:14:40.69,Default,Inukai,0,0,0,,Chắc hẳn hơi ấm vương vấn của Meguru\Nchỉ là ảo ảnh do giai điệu Yorushika mang lại thôi.
+Dialogue: 0,0:14:42.23,0:14:44.65,Default,Nao,0,0,0,,Lại may mắn né được một kiếp nạn nữa rồi.
+Dialogue: 0,0:14:44.65,0:14:46.45,Default,Chojo,0,0,0,,Bố mày chịu hết nổi rồi!
+Dialogue: 0,0:14:46.45,0:14:48.77,Default,Nao,0,0,0,,Khoan đã! Anh lại đi đâu đấy?!
+Dialogue: 0,0:14:50.48,0:14:52.29,Default,Man,0,0,0,,Có biến lớn ở quảng trường trung tâm kìa!
+Dialogue: 0,0:14:52.29,0:14:52.99,Default,Woman,0,0,0,,Đánh nhau hả?
+Dialogue: 0,0:14:52.99,0:14:55.56,Default,Man,0,0,0,,Không, giống bạo loạn hơn!
+Dialogue: 0,0:14:55.56,0:14:56.39,Default,Woman,0,0,0,,Bạo loạn á?
+Dialogue: 0,0:14:56.39,0:14:57.79,Default,Inukai,0,0,0,,Sĩ quan Ippongi!
+Dialogue: 0,0:14:58.12,0:15:00.88,Default,Nao,0,0,0,,Cảnh thị Inukai! Có chuyện gì thế ạ?
+Dialogue: 0,0:15:00.88,0:15:03.29,Default,Inukai,0,0,0,,Có một vụ gây rối trật tự.\NChúng ta mau đến đó ngay.
+Dialogue: 0,0:15:03.97,0:15:06.46,Default,Nao,0,0,0,,Đích... đích thân sếp cũng đến đó sao?
+Dialogue: 0,0:15:07.36,0:15:09.28,Default,Inukai,0,0,0,,Ở Chinjuku này mà ngồi bàn giấy chỉ đạo thì không ăn thua đâu.
+Dialogue: 0,0:15:09.28,0:15:13.01,Default,Inukai,0,0,0,,Tôi đã nói rồi, tôi sẽ trực tiếp chỉ huy\Ntại hiện trường. Đừng lo lắng!
+Dialogue: 0,0:15:13.76,0:15:16.73,Italics,Nao,0,0,0,,Sếp hiểu sai bét rồi.\NCái tôi lo đâu phải là chuyện đó!
+Dialogue: 0,0:15:16.73,0:15:19.90,Italics,Nao,0,0,0,,Tính tiền bối Chojo đang bực bội thế kia\Nthì đời nào chịu bỏ qua vụ hóng hớt náo nhiệt này chứ!
+Dialogue: 0,0:15:19.90,0:15:22.06,Default,Chojo,0,0,0,,Không biết có vụ gì vui ta.
+Dialogue: 0,0:15:22.06,0:15:24.23,Italics,Nao,0,0,0,,Chắc chắn ảnh cũng sẽ tự mò đến đó cho xem!
+Dialogue: 0,0:15:25.04,0:15:27.03,Italics,Nao,0,0,0,,Và nếu hai người đó mà chạm mặt nhau...
+Dialogue: 0,0:15:27.75,0:15:29.75,Italics,Nao/K9,0,0,0,,...thì ông Cảnh thị sẽ giở trò bệnh hoạn ngay!
+Dialogue: 0,0:15:30.24,0:15:32.99,Default,Sign,0,0,0,,{\an8}SĨ QUAN CẢNH SÁT BÍ ẨN, HAJIME KEINAIN\NMỘT ANH CHÀNG CỰC NGẦU ĐÃ XUẤT HIỆN!
+Dialogue: 0,0:15:30.24,0:15:32.99,Narrator,Narrator,0,0,0,,Cảnh sát siêu năng lực Chojo.
+Dialogue: 0,0:15:33.82,0:15:34.85,Default,Inukai,0,0,0,,Nhanh lên!
+Dialogue: 0,0:15:36.21,0:15:39.28,Default,Nao,0,0,0,,Nếu trong lúc xảy ra sự cố mà Cảnh thị giở thói bệnh hoạn\Nthì toang chắc luôn.
+Dialogue: 0,0:15:39.28,0:15:42.55,Default,Nao,0,0,0,,Phải giải quyết êm xuôi vụ này\Ntrước khi cộng sự của mình mò tới mới được!
+Dialogue: 0,0:15:43.79,0:15:45.98,Default,Maruyama,0,0,0,,C-Các anh xin hãy bình tĩnh lại đã!
+Dialogue: 0,0:15:46.65,0:15:48.00,Default,Yakuza 1,0,0,0,,Câm cái mồm mày lại!
+Dialogue: 0,0:15:48.00,0:15:51.28,Default,Yakuza 2,0,0,0,,Bọn tao đến đây mục đích chính\Nlà để xả stress đấy!
+Dialogue: 0,0:15:51.28,0:15:54.01,Default,Yakuza 2,0,0,0,,Tụi này không ngại quậy cho tanh bành\Nhơn nữa đâu nhé!
+Dialogue: 0,0:15:54.01,0:15:58.26,Default,Boss,0,0,0,,Mấy đứa thấy đấy, bọn tao chẳng có mấy kỷ niệm đẹp đẽ gì\Nvới mấy cô ả cớm cái đâu.
+Dialogue: 0,0:15:58.71,0:16:01.73,Top,Boss,0,0,0,,Liệu hồn mà đừng có giỡn mặt với băng Shuei!
+Dialogue: 0,0:15:59.77,0:16:03.52,Default,Sign,0,0,0,,{\an8\pos(177,204.5)}BĂNG SHUEI
+Dialogue: 0,0:16:01.73,0:16:03.52,Top,Nao,0,0,0,,Mấy khứa này không gặp lại\Nkể từ tập một rồi nè.
+Dialogue: 0,0:16:03.84,0:16:07.63,Default,Nao,0,0,0,,Dám bén mảng tới đây quậy phá à.\NMình sẽ quật cho chúng nó tơi bời hoa lá đến khi—
+Dialogue: 0,0:16:07.63,0:16:09.47,Default,Inukai,0,0,0,,Khoan đã, Sĩ quan Ippongi.
+Dialogue: 0,0:16:10.61,0:16:12.96,Default,Inukai,0,0,0,,Tôi đã yêu cầu chi viện rồi.
+Dialogue: 0,0:16:12.96,0:16:15.91,Default,Inukai,0,0,0,,Hãy án binh bất động cho đến khi đủ quân số\Nđể đảm bảo không một tên nào trốn thoát.
+Dialogue: 0,0:16:15.91,0:16:17.95,Default,Inukai,0,0,0,,Đừng vội kích động chúng vào lúc này.
+Dialogue: 0,0:16:18.88,0:16:19.91,Default,Nao,0,0,0,,Kia chẳng phải là...
+Dialogue: 0,0:16:19.91,0:16:21.52,Default,Nao,0,0,0,,Bác Ho và mọi người sao?!
+Dialogue: 0,0:16:21.52,0:16:23.71,Default,Boss,0,0,0,,Trông ông già quen quen, tao gặp ở đâu rồi nhỉ?
+Dialogue: 0,0:16:23.71,0:16:25.54,Default,Hosaka,0,0,0,,Tôi là con hạc được các chú cứu hôm trước đây.
+Dialogue: 0,0:16:25.54,0:16:30.55,Default,Boss,0,0,0,,Tao nhớ ra rồi! Mày là cái lão già nát rượu\Năn nói bố láo hôm nọ!
+Dialogue: 0,0:16:30.55,0:16:33.26,Default,Boss,0,0,0,,Đừng có hòng vờ vịt là mày không nhớ nhé!
+Dialogue: 0,0:16:33.95,0:16:35.74,Default,Hosaka,0,0,0,,Tôi e là tôi chẳng nhớ gì thật mà.
+Dialogue: 0,0:16:35.74,0:16:39.14,Default,Hosaka,0,0,0,,Tôi hoàn toàn không nhớ phân đoạn số 209\Ntrong tập một đâu đấy.
+Dialogue: 0,0:16:39.14,0:16:40.60,Default,Nao,0,0,0,,Nghe là biết nhớ rành rành rồi còn gì.
+Dialogue: 0,0:16:40.60,0:16:41.81,Default,Ban,0,0,0,,D-Dừng tay lại mau!
+Dialogue: 0,0:16:42.21,0:16:43.64,Default,Hosaka,0,0,0,,Nhóc con?
+Dialogue: 0,0:16:43.64,0:16:45.31,Default,Ban,0,0,0,,Nếu không thì phải bước qua xác tao đấy!
+Dialogue: 0,0:16:45.61,0:16:48.53,Default,Nao,0,0,0,,Đừng mà Ban! Nguy hiểm lắm!
+Dialogue: 0,0:16:48.53,0:16:52.10,Default,Ban,0,0,0,,Dù tôi vẫn còn non nớt,\Nnhưng tôi vẫn là đại đồ đệ của Sư phụ!
+Dialogue: 0,0:16:52.10,0:16:54.03,Default,Lily,0,0,0,,Tự mày ảo tưởng trong đầu thôi.
+Dialogue: 0,0:16:55.02,0:16:57.00,Default,Ban,0,0,0,,Đã đến lúc tiềm năng đang ngủ say của mình...
+Dialogue: 0,0:16:57.00,0:16:58.53,Default,Ban,0,0,0,,được thức tỉnh!
+Dialogue: 0,0:16:58.99,0:17:00.29,Default,Ban,0,0,0,,Đỡ này!
+Dialogue: 0,0:17:00.29,0:17:05.50,Default,Ban,0,0,0,,Viễn di thức!
+Dialogue: 0,0:17:10.06,0:17:11.80,Default,Shuei Gang 1,0,0,0,,Thằng nhãi ranh này tính lừa ai đấy?
+Dialogue: 0,0:17:11.80,0:17:13.69,Default,Shuei Gang 2,0,0,0,,Não nó bị lỏng ốc à?
+Dialogue: 0,0:17:13.69,0:17:16.47,Default,Shuei Gang 2,0,0,0,,Chọn chỗ mà chơi nếu không muốn\Nbị ăn đòn nhừ tử nhé nhãi con—
+Dialogue: 0,0:17:20.00,0:17:21.66,Default,Ban,0,0,0,,Mình... thức tỉnh rồi sao?!
+Dialogue: 0,0:17:21.66,0:17:23.59,Default,Chojo,0,0,0,,Không có chuyện đó đâu cưng.
+Dialogue: 0,0:17:23.59,0:17:26.73,Default,Chojo,0,0,0,,Cơ mà lần này chú mày cũng có gan đấy.
+Dialogue: 0,0:17:26.73,0:17:27.91,Default,Lily/Hosaka,0,0,0,,Tên cảnh sát...
+Dialogue: 0,0:17:27.91,0:17:28.73,Default,Shuei gang,0,0,0,,...tâm linh!
+Dialogue: 0,0:17:29.29,0:17:30.00,Default,Chojo,0,0,0,,Giờ thì lùi lại hết đi.
+Dialogue: 0,0:17:30.00,0:17:31.25,Default,Hosaka,0,0,0,,Rõ rồi!
+Dialogue: 0,0:17:31.25,0:17:34.74,Default,Chojo,0,0,0,,Hử? Toàn gương mặt thân quen không ta.
+Dialogue: 0,0:17:35.85,0:17:36.99,Default,Chojo,0,0,0,,Cả Yuki nữa à?
+Dialogue: 0,0:17:37.60,0:17:38.53,Default,Inukai,0,0,0,,Meguru?
+Dialogue: 0,0:17:38.53,0:17:40.99,Italics,Nao,0,0,0,,Cuối cùng chuyện gì đến cũng phải đến.
+Dialogue: 0,0:17:40.99,0:17:43.81,Italics,Nao,0,0,0,,Đáng lẽ hai người họ phải bị cách ly tuyệt đối chứ.
+Dialogue: 0,0:17:43.81,0:17:46.75,Italics,Nao,0,0,0,,Bao nhiêu công sức đổ sông đổ biển thế này sao?
+Dialogue: 0,0:17:46.75,0:17:49.25,Default,Nao,0,0,0,,Không thể tin nổi luôn!
+Dialogue: 0,0:17:50.81,0:17:52.75,Default,Inukai,0,0,0,,Chỉ huy an ninh gửi toàn thể lực lượng!
+Dialogue: 0,0:17:53.15,0:17:55.63,Default,Inukai,0,0,0,,Lập tức sơ tán toàn bộ dân thường đến nơi an toàn!
+Dialogue: 0,0:17:56.01,0:17:59.39,Default,Inukai,0,0,0,,Quân số của chúng ta đủ sức tóm gọn bọn chúng.\NChỉ cần vài người này là đủ trấn áp vụ bạo loạn!
+Dialogue: 0,0:17:59.91,0:18:02.39,Default,Inukai,0,0,0,,Ưu tiên hàng đầu là ngăn chặn hỗn loạn lan rộng!
+Dialogue: 0,0:18:02.80,0:18:06.14,Default,Inukai,0,0,0,,Ngăn ngừa thương vong thứ cấp\Ndo hoảng loạn dây chuyền gây ra!
+Dialogue: 0,0:18:08.86,0:18:10.30,Default,Inukai,0,0,0,,Tình hình là như vậy.
+Dialogue: 0,0:18:11.36,0:18:14.57,Default,Inukai,0,0,0,,Tóm gọn không chừa một tên nào,\NSĩ quan Chojo!
+Dialogue: 0,0:18:15.12,0:18:16.28,Default,Chojo,0,0,0,,Rõ lệnh.
+Dialogue: 0,0:18:16.78,0:18:17.53,Default,Nao,0,0,0,,Cái...
+Dialogue: 0,0:18:18.42,0:18:20.16,Default,Nao,0,0,0,,Sếp bị làm sao thế, Cảnh thị?!
+Dialogue: 0,0:18:20.16,0:18:23.00,Default,Nao,0,0,0,,Sếp ra lệnh dứt khoát rõ ràng quá vậy!\NKhông hề biến thái tí nào luôn! Não sếp bị chập mạch rồi à?!
+Dialogue: 0,0:18:23.00,0:18:23.66,Default,Keinain,0,0,0,,Không bị sốt.
+Dialogue: 0,0:18:24.08,0:18:26.26,Default,Chojo,0,0,0,,Thiệt tình, mấy người chẳng việc gì phải xoắn—
+Dialogue: 0,0:18:26.26,0:18:27.29,Default,Copbot,0,0,0,,Tiền bối Chojo!
+Dialogue: 0,0:18:27.63,0:18:31.58,Default,Chojo,0,0,0,,Copbot hả? Đi hỗ trợ mọi người\Nsơ tán giùm tôi cái được không?
+Dialogue: 0,0:18:31.58,0:18:35.30,Default,Copbot,0,0,0,,Rõ ạ! Và nhân tiện khi cả hai chúng ta\Nđều đã quay lại làm đúng bổn phận...
+Dialogue: 0,0:18:35.75,0:18:38.30,Default,Copbot,0,0,0,,Tôi nghĩ mình nên hoàn trả thứ này cho anh.
+Dialogue: 0,0:18:39.62,0:18:40.93,Default,Chojo,0,0,0,,Chú mày chu đáo ghê ta.
+Dialogue: 0,0:18:41.78,0:18:45.81,Default,Chojo,0,0,0,,Ngày nghỉ phép mà phải tiếp mấy con tép riu như các người,\Nnhưng mà...
+Dialogue: 0,0:18:48.04,0:18:50.06,Default,Chojo,0,0,0,,Chắc cũng làm được một tiết mục giải khuây cho lễ hội đấy!
+Dialogue: 0,0:18:56.61,0:18:58.45,Top,Shuei Gang,0,0,0,,T-Thằng chó đẻ này!
+Dialogue: 0,0:18:57.57,0:19:01.24,Default,Boss,0,0,0,,Đừng có nhát cáy! Đừng quên nỗi đau\Nbị cái quả cầu sắt đập nát hôm nọ—
+Dialogue: 0,0:19:01.24,0:19:02.99,Default,Chojo,0,0,0,,Ồ, tao nhớ ra mày rồi.
+Dialogue: 0,0:19:02.99,0:19:04.99,Default,Chojo,0,0,0,,Đúng là từng có vụ đó thật nhỉ?
+Dialogue: 0,0:19:05.62,0:19:07.75,Default,Chojo,0,0,0,,Mà biết sao không, tao cũng thấy hơi cắn rứt lương tâm vụ đó đấy.
+Dialogue: 0,0:19:07.75,0:19:09.58,Default,Chojo,0,0,0,,Không phải cắn rứt với lũ tụi mày đâu.
+Dialogue: 0,0:19:11.84,0:19:15.84,Default,Chojo,0,0,0,,Mà là vì có một con khỉ đột còn ngứa ngáy tay chân\Nmuốn xông pha hành động hơn cả tao nữa kìa.
+Dialogue: 0,0:19:15.84,0:19:19.00,Default,Nao,0,0,0,,Thôi thì trông Cảnh thị có vẻ vẫn ổn.
+Dialogue: 0,0:19:21.04,0:19:24.51,Default,Nao,0,0,0,,Vậy coi như bọn mình có thể an tâm quay lại làm việc rồi.
+Dialogue: 0,0:19:24.51,0:19:27.52,Default,Shuei Gang 4,0,0,0,,Tụi tao sẽ dạy cho mày một bài học cay đắng\Nvề độ máu mặt ở Chinjuku này!
+Dialogue: 0,0:19:27.52,0:19:28.77,Default,Inukai,0,0,0,,Lên đi, Keinain.
+Dialogue: 0,0:19:35.80,0:19:37.78,Default,Shuei gang 4,0,0,0,,N-Nửa thân trên của mình còn dính liền không vậy trời?
+Dialogue: 0,0:19:38.58,0:19:40.24,Default,Shuei Gang 7,0,0,0,,T-Thằng cha này là quái vật phương nào thế?!
+Dialogue: 0,0:19:40.24,0:19:42.18,Default,Shuei Gang 7,0,0,0,,T-Tất cả lùi lại mau!
+Dialogue: 0,0:19:42.18,0:19:43.24,Default,Shuei Gang 7,0,0,0,,Đừng có xô đẩy, thằng ngu này!
+Dialogue: 0,0:19:43.54,0:19:45.60,Default,Nao,0,0,0,,Tính chuồn đi {\i1}đâu{\i0} đấy hả?
+Dialogue: 0,0:19:54.04,0:19:54.82,Default,Boss,0,0,0,,Rốt cuộc...
+Dialogue: 0,0:19:55.21,0:19:57.68,Default,Boss,0,0,0,,Rốt cuộc lũ này là {\i1}thần thánh phương nào{\i0} vậy trời?!
+Dialogue: 0,0:19:58.17,0:20:00.11,Default,Boss,0,0,0,,Bố mày chuồn đây!
+Dialogue: 0,0:20:01.48,0:20:04.82,Default,Chojo,0,0,0,,Ối giời ơi, đại ca đầu sỏ mà lại đi thó con xe đạp\Nrồi phóng mất tích thế kia à?
+Dialogue: 0,0:20:04.82,0:20:05.60,Default,Inukai,0,0,0,,Meguru.
+Dialogue: 0,0:20:06.44,0:20:07.81,Default,Inukai,0,0,0,,Tên đó để tôi lo.
+Dialogue: 0,0:20:08.86,0:20:10.06,Default,Inukai,0,0,0,,Cho tôi lực phóng đi!
+Dialogue: 0,0:20:11.37,0:20:12.81,Default,Chojo,0,0,0,,Rõ rồi.
+Dialogue: 0,0:20:30.03,0:20:31.86,Default,Chojo,0,0,0,,Bắn đẹp lắm.
+Dialogue: 0,0:20:31.86,0:20:35.50,Default,Chojo,0,0,0,,Tay nghề chẳng hề lục nghề tí nào.\NCơ mà đúng hơn là cậu chẳng bao giờ thay đổi, Yuki à.
+Dialogue: 0,0:20:36.02,0:20:41.26,Default,Keinain,0,0,0,,Dù đụng độ người cộng sự cũ,\Nnhưng Cảnh thị vẫn giữ được cái đầu lạnh.
+Dialogue: 0,0:20:41.77,0:20:44.86,Default,Keinain,0,0,0,,Có lẽ mình đã đánh giá thấp sếp rồi.
+Dialogue: 0,0:20:48.48,0:20:49.60,Default,Nao,0,0,0,,Có khi cả hai chúng ta đều đánh giá thấp ổng.
+Dialogue: 0,0:20:50.51,0:20:52.77,Default,Inukai,0,0,0,,Keinain. Sĩ quan Ippongi.
+Dialogue: 0,0:20:53.35,0:20:56.06,Default,Inukai,0,0,0,,Hôm nay hai người đã hoàn thành xuất sắc nhiệm vụ.
+Dialogue: 0,0:20:56.06,0:20:58.77,Default,Nao,0,0,0,,Cảnh thị cũng vậy ạ.\NSếp chỉ huy mọi việc trông dễ như trở bàn tay vậy.
+Dialogue: 0,0:20:59.07,0:21:01.81,Default,Inukai,0,0,0,,À thì, lâu lắm rồi tôi mới lại được sát cánh chiến đấu\Ncùng với Meguru mà lị.
+Dialogue: 0,0:21:01.81,0:21:05.35,Default,Inukai,0,0,0,,Ký ức của ngày hôm nay sẽ là nguồn sống\Nnuôi dưỡng tâm hồn tôi trong suốt mười năm tới!
+Dialogue: 0,0:21:05.35,0:21:08.53,Italics,Nao,0,0,0,,Hóa ra ổng vẫn biến thái như cũ.\NChỉ là không để nó ảnh hưởng tới công việc thôi.
+Dialogue: 0,0:21:08.81,0:21:11.28,Default,Inukai,0,0,0,,Chúng ta lại cùng nhau xích cổ bọn chúng rồi nhỉ, Meguru?
+Dialogue: 0,0:21:11.28,0:21:12.94,Default,Chojo,0,0,0,,Thôi khỏi, đừng lôi tôi vào.
+Dialogue: 0,0:21:13.79,0:21:18.13,Default,Chojo,0,0,0,,Đang yên đang lành ngồi ngắm hoa anh đào\Nai rảnh đâu đi viết báo cáo giải trình sự cố.
+Dialogue: 0,0:21:18.13,0:21:20.16,Default,Chojo,0,0,0,,Công lao đó cho cậu ẵm trọn hết đấy.
+Dialogue: 0,0:21:20.16,0:21:21.55,Default,Inukai,0,0,0,,N-Nhưng mà...
+Dialogue: 0,0:21:21.55,0:21:24.01,Default,Inukai,0,0,0,,Đây đáng lẽ phải là màn tái hợp huy hoàng\Ncủa đôi ta cơ mà—
+Dialogue: 0,0:21:24.01,0:21:24.96,Default,Keinain,0,0,0,,Đứng lại đó.
+Dialogue: 0,0:21:26.62,0:21:28.18,Default,Keinain,0,0,0,,Về Tổng bộ thôi sếp.
+Dialogue: 0,0:21:24.96,0:21:28.18,Top,Inukai,0,0,0,,Keinain! Nghẹt thở... Nghẹt thở rồi!
+Dialogue: 0,0:21:28.18,0:21:30.31,Top,Inukai,0,0,0,,Keinain! Kei...
+Dialogue: 0,0:21:28.69,0:21:30.31,Default,Keinain,0,0,0,,Hẹn gặp lại sau nhé, Ippongi.
+Dialogue: 0,0:21:30.91,0:21:34.39,Default,Keinain,0,0,0,,Giờ thì quay về làm bảo mẫu\Ncho cộng sự của mình thôi nào.
+Dialogue: 0,0:21:34.81,0:21:36.41,Default,Everyone,0,0,0,,Cạn ly nào!
+Dialogue: 0,0:21:37.28,0:21:41.19,Top,Inukai,0,0,0,,Meguru! Meguru? Meguruuu!
+Dialogue: 0,0:21:37.90,0:21:38.69,Default,Keinain,0,0,0,,Đi mau.
+Dialogue: 0,0:21:39.42,0:21:42.57,Default,Nao,0,0,0,,Tiền bối có thể {\i1}đừng{\i0} say xỉn theo cái kiểu\Ndọa người ta gặp ác mộng được không hả?!
+Dialogue: 0,0:21:42.57,0:21:45.03,Default,Keinain,0,0,0,,Nhanh lên! Bước đi coi!
+Dialogue: 0,0:23:15.08,0:23:16.75,Default,Sign,0,0,0,,{\pos(300,186)\an8}GIỚI THIỆU TẬP TIẾP THEO
+Dialogue: 0,0:23:16.75,0:23:23.21,Default,Sign,0,0,0,,{\an8\pos(383,45)}MỘT PHẦN ĐOẠN GIỚI THIỆU ĐÃ ĐƯỢC CHỈNH SỬA\NĐỂ TRÁNH TIẾT LỘ NỘI DUNG.
+Dialogue: 0,0:23:23.21,0:23:30.09,Default,Sign,0,0,0,,{\an8\pos(383,45)}HÃY ĐÓN XEM TẬP PHIM TUẦN TỚI NHÉ!
+Dialogue: 0,0:23:15.90,0:23:16.62,Default,Nao,0,0,0,,Nao đây.
+Dialogue: 0,0:23:16.62,0:23:19.37,Default,Nao,0,0,0,,Ủa, che mosaic à? Chẳng thấy cái gì hết trơn.
+Dialogue: 0,0:23:19.37,0:23:21.38,Default,Nao,0,0,0,,Tuần sau bị cấm sóng hả?\NTự kiểm duyệt sao?
+Dialogue: 0,0:23:21.38,0:23:25.25,Default,Nao,0,0,0,,À, hiểu rồi. Có khi đây lại là tập phim\Nthanh xuân lành mạnh nhất từ trước tới nay cũng nên.
+Dialogue: 0,0:23:25.25,0:23:28.09,Default,Nao,0,0,0,,Tuần tới, nghe đồn sẽ là một câu chuyện\Nbí mật chưa từng kể về tiền bối Chojo.
+
