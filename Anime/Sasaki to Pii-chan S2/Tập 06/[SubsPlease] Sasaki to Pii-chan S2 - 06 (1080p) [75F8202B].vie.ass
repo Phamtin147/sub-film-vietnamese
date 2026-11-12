@@ -1,0 +1,366 @@
+﻿[Script Info]
+Title: Vietnamese Fansub (VietSub by Amtia(NOFACE))
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+
+[Aegisub Project Garbage]
+Last Style Storage: Default
+Audio File: CR_SasakiAndPeeps_S2E6_SPESIM0018_328104_video_ja-jp_J11069625.mp4
+Video File: CR_SasakiAndPeeps_S2E6_SPESIM0018_328104_video_ja-jp_J11069625.mp4
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 2.500000
+Scroll Position: 45
+Active Line: 73
+Video Position: 8762
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Italics,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback_Italics,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Main - Top,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Italics - Top,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback - Top,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback_Italics - Top,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:12.99,0:00:18.37,Italics,Sasaki,0,0,0,,Futari Shizuka đã sắp xếp\Nmột bữa tiệc chào mừng cho Tiểu thư Elsa.
+Dialogue: 0,0:00:18.37,0:00:20.14,Default,Shizuka,0,0,0,,Nào, vậy thì.
+Dialogue: 0,0:00:20.14,0:00:23.34,Default,Shizuka,0,0,0,,Để chào mừng vị khách quý hiếm có,
+Dialogue: 0,0:00:23.34,0:00:24.57,Default,Shizuka,0,0,0,,nâng ly nào!
+Dialogue: 0,0:00:24.94,0:00:26.13,Default,Sasaki,0,0,0,,Cạn ly!
+Dialogue: 0,0:00:26.13,0:00:27.23,Default,Peeps,0,0,0,,Cạn ly!
+Dialogue: 0,0:00:30.13,0:00:31.37,Default,Elsa,0,0,0,,Cạn ly!
+Dialogue: 0,0:02:02.14,0:02:06.27,Default,sign,0,0,0,,{\an3\fad(830,440)\fnArial\fs12\an1\i0\bord1\b1\shad1\blur2\c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\pos(605,310)}TẬP 6{\3c&H93CC2E&\4c&H93CC2E&\c&HFFFFFF&}\h\h\h\hYến Tiệc Và Mối Liên Kết
+Dialogue: 0,0:02:05.40,0:02:10.86,Italics - Top,Sasaki,0,0,0,,Ôi, hương vị cua thơm ngát hòa cùng\Nvị ngọt thanh của nhím biển tươi sống...
+Dialogue: 0,0:02:10.86,0:02:14.26,Italics,Sasaki,0,0,0,,Lại còn được tô điểm bởi món trứng cá muối xa hoa nữa chứ!
+Dialogue: 0,0:02:15.00,0:02:16.39,Default,Shizuka,0,0,0,,Có hợp khẩu vị của ngươi không?
+Dialogue: 0,0:02:16.39,0:02:19.42,Default,Shizuka,0,0,0,,Thực đơn thịnh soạn ra phết đấy chứ?
+Dialogue: 0,0:02:19.42,0:02:22.08,Default,Sasaki,0,0,0,,Tất nhiên rồi ạ. Quá tuyệt vời luôn.
+Dialogue: 0,0:02:22.08,0:02:24.15,Default,Shizuka,0,0,0,,Được, được lắm...
+Dialogue: 0,0:02:26.00,0:02:28.55,Default,Sasaki,0,0,0,,Tiểu thư Elsa thấy thế nào ạ?
+Dialogue: 0,0:02:29.94,0:02:33.63,Default,Elsa,0,0,0,,Văn hóa ẩm thực của thế giới này\Ncũng phát triển ghê gớm thật đấy!
+Dialogue: 0,0:02:33.96,0:02:38.35,Default,Elsa,0,0,0,,Vừa đã mắt lại vừa ngon miệng.\NQuả thực là mỹ vị nhân gian!
+Dialogue: 0,0:02:38.35,0:02:40.67,Default,Sasaki,0,0,0,,Tôi rất vui khi tiểu thư thích nó.
+Dialogue: 0,0:02:41.40,0:02:44.46,Default,Shizuka,0,0,0,,Thứ lỗi nhé. Cho ta hỏi con bé vừa nói gì vậy?
+Dialogue: 0,0:02:44.46,0:02:47.65,Default,Sasaki,0,0,0,,Tiểu thư Elsa cũng thấy bữa tiệc vô cùng ngon miệng ạ.
+Dialogue: 0,0:02:47.65,0:02:50.92,Default,Shizuka,0,0,0,,Ồ? Nghe được câu đó ta mừng lắm...
+Dialogue: 0,0:02:50.92,0:02:54.07,Default,Shizuka,0,0,0,,Cứ tự nhiên thưởng thức cho thỏa thích đi nhé.
+Dialogue: 0,0:02:55.41,0:02:56.61,Default,Shizuka,0,0,0,,Cơ mà ta phải hỏi câu này...
+Dialogue: 0,0:02:58.57,0:03:06.37,Default,sign,0,0,0,,{\shad0\fs14\bord1\fnArial\b1\3c&H343835&\pos(320,315)}*Tuyệt đối không cho chim sẻ không phải chuyển sinh từ Đại Hiền Giả ăn thịt!
+Dialogue: 0,0:03:00.79,0:03:04.20,Main - Top,Shizuka,0,0,0,,Con chim sẻ của ngươi phát điên rồi đấy à?
+Dialogue: 0,0:03:04.20,0:03:06.37,Main - Top,Sasaki,0,0,0,,Không đâu ạ, đó là hành vi bình thường của ngài ấy thôi.
+Dialogue: 0,0:03:07.88,0:03:09.86,Default,Peeps,0,0,0,,Ngon tuyệt cú mèo! Mỹ vị đệ nhất trần gian!
+Dialogue: 0,0:03:09.86,0:03:11.96,Default,Peeps,0,0,0,,Hương vị tuyệt đỉnh của món thịt bò Chateaubriand,
+Dialogue: 0,0:03:11.96,0:03:13.84,Default,Peeps,0,0,0,,lại được nâng tầm bởi độ cháy xém\Nvà lượng muối hoàn hảo không tì vết!
+Dialogue: 0,0:03:14.21,0:03:17.18,Default,Peeps,0,0,0,,Dám dâng lên cho ta món cao lương mỹ vị thế này...
+Dialogue: 0,0:03:17.55,0:03:20.89,Default,Peeps,0,0,0,,Ngươi quả thực là một kẻ\Nkhông thể xem thường được!
+Dialogue: 0,0:03:20.89,0:03:24.74,Default,Shizuka,0,0,0,,Rốt cuộc ngươi cũng tìm được điều\Nđể khen ngợi ta rồi đấy à?
+Dialogue: 0,0:03:24.74,0:03:26.60,Default,Shizuka,0,0,0,,Với lại, ngươi dính nước sốt tèm lem trên mặt kìa.
+Dialogue: 0,0:03:28.81,0:03:30.88,Italics,Sasaki,0,0,0,,D-Dễ thương xỉu!
+Dialogue: 0,0:03:32.86,0:03:35.50,Default,Elsa,0,0,0,,Thịt đó thực sự ngon đến thế sao?
+Dialogue: 0,0:03:35.50,0:03:38.10,Default,Peeps,0,0,0,,Chính xác. Món này được gọi là Chateaubriand.
+Dialogue: 0,0:03:38.10,0:03:41.30,Default,Peeps,0,0,0,,Nó là một trong những báu vật của thế giới này,\Nngang hàng với Internet đấy.
+Dialogue: 0,0:03:48.51,0:03:52.07,Default,Peeps,0,0,0,,Có vẻ như con bé đã nếm trải\Nhương vị cấm kỵ mất rồi.
+Dialogue: 0,0:03:52.07,0:03:54.37,Default,Peeps,0,0,0,,Từ nay về sau, con bé sẽ chẳng bao giờ\Nquay trở lại cuộc sống bình thường được nữa đâu.
+Dialogue: 0,0:03:56.40,0:04:01.40,Default,Sasaki,0,0,0,,Tiểu thư cứ nhúng đồ ăn vào tháp sô-cô-la này\Nrồi thưởng thức nhé.
+Dialogue: 0,0:04:02.38,0:04:04.10,Default,Elsa,0,0,0,,Nghe thú vị thật đấy!
+Dialogue: 0,0:04:14.56,0:04:18.28,Default,Elsa,0,0,0,,K-Kỳ diệu quá đi mất!
+Dialogue: 0,0:04:21.78,0:04:26.94,Default,Shizuka,0,0,0,,Này, ngươi cũng phải công nhận mối quan hệ đối tác\Ncủa chúng ta đem lại nhiều điều thú vị đấy chứ hả?
+Dialogue: 0,0:04:26.94,0:04:31.21,Default,Shizuka,0,0,0,,Hay là đôi bên chúng ta thử dành cho nhau\Nnhiều sự tin tưởng hơn một chút xem sao?
+Dialogue: 0,0:04:31.95,0:04:33.42,Default,Peeps,0,0,0,,Ngươi đang muốn đòi hỏi điều gì?
+Dialogue: 0,0:04:33.42,0:04:34.92,Default,Shizuka,0,0,0,,Lời nguyền đó của ngươi...
+Dialogue: 0,0:04:35.32,0:04:37.97,Default,Shizuka,0,0,0,,Ta muốn ngươi hóa giải nó đi.
+Dialogue: 0,0:04:37.97,0:04:39.41,Default,Peeps,0,0,0,,Ta từ chối.
+Dialogue: 0,0:04:40.12,0:04:42.95,Default,Peeps,0,0,0,,Hãy tự nhìn lại những việc ngươi từng làm trong quá khứ đi.
+Dialogue: 0,0:04:43.72,0:04:47.56,Default,Shizuka,0,0,0,,Xem ra con chim sẻ này vẫn còn mang bụng thù hằn với ta nhỉ.
+Dialogue: 0,0:04:48.84,0:04:51.31,Default,Shizuka,0,0,0,,Món gà xiên que yakitori này ngon thật đấy!
+Dialogue: 0,0:04:51.31,0:04:53.49,Default,Shizuka,0,0,0,,Miếng này ăn cũng đã miệng ghê!
+Dialogue: 0,0:04:53.49,0:04:55.94,Default,Shizuka,0,0,0,,Thịt cái giống {\i1}chim{\i0} này đúng là ngon ngọt làm sao!
+Dialogue: 0,0:04:55.94,0:04:57.99,Default,Peeps,0,0,0,,Ngươi đang làm cho lời nguyền nặng thêm đấy.
+Dialogue: 0,0:05:02.61,0:05:05.80,Default,Shizuka,0,0,0,,Thấy con bé vui vẻ thế này ta cũng mừng lây.
+Dialogue: 0,0:05:05.80,0:05:08.58,Default,Shizuka,0,0,0,,Lại đây, để dì bóc cua cho cháu ăn nhé.
+Dialogue: 0,0:05:10.47,0:05:11.35,Default,Shizuka,0,0,0,,Này.
+Dialogue: 0,0:05:11.35,0:05:13.04,Default,Elsa,0,0,0,,Cháu cảm ơn dì ạ!
+Dialogue: 0,0:05:16.40,0:05:18.21,Default,Shizuka,0,0,0,,Cua chấm sô-cô-la á?!
+Dialogue: 0,0:05:20.29,0:05:22.22,Default,Shizuka,0,0,0,,Mà biết đâu lại ngon bất ngờ thì sao...
+Dialogue: 0,0:05:24.43,0:05:27.31,Default,Peeps,0,0,0,,Cuộc chiến ủy nhiệm giữa thiên sứ và ác ma sao?
+Dialogue: 0,0:05:27.31,0:05:29.52,Default,Peeps,0,0,0,,Quả thực là một chuyện vô cùng ly kỳ...
+Dialogue: 0,0:05:29.52,0:05:32.73,Default,Peeps,0,0,0,,Dù thế nào đi nữa, ta cũng rất mừng\Nkhi thấy ngươi bình an vô sự trở về.
+Dialogue: 0,0:05:32.73,0:05:34.81,Default,Sasaki,0,0,0,,Cảm ơn ngài, ngài Peeps.
+Dialogue: 0,0:05:34.81,0:05:36.66,Default,Peeps,0,0,0,,Cho ta hỏi ngươi đang uống thứ gì thế?
+Dialogue: 0,0:05:36.66,0:05:39.56,Default,Sasaki,0,0,0,,À, đây là rượu sake của Nhật Bản ạ.
+Dialogue: 0,0:05:39.56,0:05:41.57,Default,Sasaki,0,0,0,,Một loại rượu được ủ từ gạo.
+Dialogue: 0,0:05:41.57,0:05:42.70,Default,Sasaki,0,0,0,,Ngài có muốn nếm thử một chút không?
+Dialogue: 0,0:05:47.53,0:05:49.66,Default,Peeps,0,0,0,,Được, loại này uống khá thanh tao đấy.
+Dialogue: 0,0:05:49.66,0:05:51.66,Default,Peeps,0,0,0,,Vị êm dịu mà lại không bị cay nồng gắt cổ.
+Dialogue: 0,0:05:51.66,0:05:53.46,Default,Sasaki,0,0,0,,Ngài thích là tốt rồi ạ.
+Dialogue: 0,0:05:53.46,0:05:58.25,Default,Sasaki,0,0,0,,Được ngồi nhâm nhi rượu cùng ngài thế này,\Nđổi gió một chút cũng thích thật.
+Dialogue: 0,0:06:03.14,0:06:05.41,Default,Shizuka,0,0,0,,Ngươi sở hữu một chiêu trò\Ntiện lợi phết đấy chứ.
+Dialogue: 0,0:06:05.41,0:06:08.14,Default,Sasaki,0,0,0,,Dù trước giờ tôi chưa từng dùng nó như thế này bao giờ.
+Dialogue: 0,0:06:09.14,0:06:11.10,Italics,Sasaki,0,0,0,,À, phải rồi.
+Dialogue: 0,0:06:11.60,0:06:13.31,Italics,Sasaki,0,0,0,,Đã đến giờ này rồi sao?
+Dialogue: 0,0:06:13.31,0:06:17.80,Italics,Sasaki,0,0,0,,Mình không thể say khướt quỵt ngủ\Ntrước khi sang dị giới được.
+Dialogue: 0,0:06:19.01,0:06:22.05,Default,Peeps,0,0,0,,Internet quả thực là một phát minh vĩ đại.
+Dialogue: 0,0:06:22.05,0:06:23.57,Default,Sasaki,0,0,0,,Ơ, ngài Peeps?
+Dialogue: 0,0:06:24.24,0:06:27.48,Default,Sasaki,0,0,0,,Hôm nay tôi dự định sẽ sang dị giới đấy ạ...
+Dialogue: 0,0:06:27.48,0:06:30.64,Default,Peeps,0,0,0,,Thứ lỗi nhé. Ngươi có thể cho ta\Nxin một lát được không?
+Dialogue: 0,0:06:30.64,0:06:34.52,Default,Peeps,0,0,0,,Ta đang giảng giải cho con bé hiểu về\Nsự kỳ diệu của Internet.
+Dialogue: 0,0:06:34.52,0:06:37.62,Default,Sasaki,0,0,0,,À, vâng, nếu ngài muốn thì cứ tự nhiên ạ.
+Dialogue: 0,0:06:37.62,0:06:39.63,Default,Peeps,0,0,0,,Khi nào xong xuôi ta sẽ gọi ngươi.
+Dialogue: 0,0:06:39.63,0:06:40.71,Default,Sasaki,0,0,0,,Vâng, vậy thì tốt quá.
+Dialogue: 0,0:06:41.87,0:06:46.77,Default,Peeps,0,0,0,,Internet không đơn thuần chỉ phục vụ\Ncho nghệ thuật biểu diễn đâu.
+Dialogue: 0,0:06:47.70,0:06:48.97,Default,Peeps,0,0,0,,Người ta còn có thể tra cứu bản đồ,
+Dialogue: 0,0:06:48.97,0:06:50.39,Default,Peeps,0,0,0,,mua sắm các loại hàng hóa...
+Dialogue: 0,0:06:52.02,0:06:56.33,Default,Peeps,0,0,0,,và thậm chí đăng tải cả những đoạn video\Ndo chính mình tự quay nữa đấy!
+Dialogue: 0,0:06:56.89,0:06:58.36,Italics - Top,Guy,0,0,0,,Xin chào các anh em bạn dì!
+Dialogue: 0,0:06:56.89,0:06:58.36,Default,Elsa,0,0,0,,Có thể làm được điều kỳ diệu đó sao?!
+Dialogue: 0,0:06:58.50,0:07:01.48,Default,sign,0,0,0,,{\fnArial Black\fs18\shad0\3c&H1B1E10&\c&H2615CA&\pos(255,218.308)}Nợ ngập đầu thêm rồi!!
+Dialogue: 0,0:06:58.71,0:07:03.32,Italics - Top,Guy,0,0,0,,Nợ ngập đầu thêm rồi! Đúng là thằng ngu mà!
+Dialogue: 0,0:07:01.48,0:07:03.32,Default,sign,0,0,0,,{\fnArial Black\\shad0\3c&H1B1E10&\c&H2615CA&\pos(255,203.154)}Đúng là thằng ngu mà!
+Dialogue: 0,0:07:04.57,0:07:09.65,Italics - Top,Guy,0,0,0,,Một thằng nợ 100 triệu yên như tôi\Nliệu có được phép sử dụng công trình công cộng không?
+Dialogue: 0,0:07:10.18,0:07:13.14,Italics - Top,Guy,0,0,0,,Chúng tôi không được phép uống\Nnước ở công viên đúng không ạ?
+Dialogue: 0,0:07:13.14,0:07:17.23,Italics - Top,Guy,0,0,0,,Một kẻ mang món nợ 100 triệu\Nthì làm gì còn nhân quyền nữa đúng không?
+Dialogue: 0,0:07:04.57,0:07:07.03,Default,Elsa,0,0,0,,Người đàn ông này là ai thế ạ?
+Dialogue: 0,0:07:07.38,0:07:11.03,Default,Peeps,0,0,0,,Trông hắn ta có vẻ đang phát điên vì món nợ ngày càng phình to.
+Dialogue: 0,0:07:11.03,0:07:12.49,Default,Elsa,0,0,0,,Tội nghiệp người đàn ông này quá...
+Dialogue: 0,0:07:12.81,0:07:13.90,Default,Peeps,0,0,0,,Nhắc mới nhớ.
+Dialogue: 0,0:07:13.90,0:07:17.23,Default,Peeps,0,0,0,,Tiểu thư có muốn quay một đoạn video tương tự\Nđể gửi cho Julius không?
+Dialogue: 0,0:07:17.23,0:07:19.71,Default,Elsa,0,0,0,,Vâng ạ! Cháu rất muốn làm điều đó.
+Dialogue: 0,0:07:19.71,0:07:23.55,Italics - Top,Guy,0,0,0,,Ai đó làm ơn bố thí cho tôi ít tiền với!
+Dialogue: 0,0:07:19.71,0:07:22.71,Default,sign,0,0,0,,{\fnArial Black\fs18\shad0\3c&H1B1E10&\c&H2615CA&\pos(255.154,218.308)}Ai đó làm ơn bố thí cho tôi ít tiền với!
+Dialogue: 0,0:07:26.78,0:07:28.24,Default,Shizuka,0,0,0,,Chẳng mấy chốc mà xong thôi.
+Dialogue: 0,0:07:28.24,0:07:30.72,Default,Sasaki,0,0,0,,Tôi không muốn phá hỏng cuộc vui của họ.
+Dialogue: 0,0:07:31.06,0:07:36.31,Default,Shizuka,0,0,0,,Tùy ngươi thôi. Ta rất sẵn lòng\Ntiếp đãi ngươi chén rượu này.
+Dialogue: 0,0:07:36.58,0:07:39.13,Default,Sasaki,0,0,0,,Được vậy thì tôi đội ơn tiểu thư quá.
+Dialogue: 0,0:07:41.14,0:07:43.28,Default,Shizuka,0,0,0,,Chuyện nhỏ như con thỏ ấy mà.
+Dialogue: 0,0:07:43.67,0:07:46.74,Italics,Sasaki,0,0,0,,Ồ, cô nàng này đang tính chuốc say mình đây.
+Dialogue: 0,0:07:47.27,0:07:51.45,Italics,Sasaki,0,0,0,,Nhưng ngài Peeps bảo lát nữa sẽ gọi mình dậy...
+Dialogue: 0,0:07:51.94,0:07:55.20,Italics,Sasaki,0,0,0,,Có lẽ buông thả một chút hôm nay cũng chẳng sao.
+Dialogue: 0,0:07:59.41,0:08:03.75,Default,Shizuka,0,0,0,,Nào, cho ta tò mò chút nhé.\NNgươi chỉ có thể tạo ra được lửa thôi sao?
+Dialogue: 0,0:08:04.93,0:08:06.72,Default,Sasaki,0,0,0,,Dạ không, đâu chỉ có thế...
+Dialogue: 0,0:08:06.72,0:08:09.78,Default,Shizuka,0,0,0,,Vậy ngươi pha loãng rượu giúp ta một chút được không?
+Dialogue: 0,0:08:09.78,0:08:12.83,Default,Sasaki,0,0,0,,T-Tôi không dám đảm bảo nước này có uống được không đâu nhé, nhưng...
+Dialogue: 0,0:08:19.69,0:08:21.08,Default,Shizuka,0,0,0,,Đã khát thật đấy!
+Dialogue: 0,0:08:21.08,0:08:22.27,Default,Sasaki,0,0,0,,Đúng là sảng khoái thật!
+Dialogue: 0,0:08:22.63,0:08:24.29,Default,Shizuka,0,0,0,,Làm thêm chén nữa nào!
+Dialogue: 0,0:08:24.29,0:08:25.23,Default,Sasaki,0,0,0,,Vâng ạ!
+Dialogue: 0,0:08:31.84,0:08:33.58,Default,Shizuka,0,0,0,,Tuyệt vời ông mặt trời luôn!
+Dialogue: 0,0:08:33.58,0:08:34.74,Default,Sasaki,0,0,0,,Đúng thế thật!
+Dialogue: 0,0:08:34.74,0:08:37.08,Default,Shizuka,0,0,0,,Được rồi, thêm một hiệp nữa nào!
+Dialogue: 0,0:08:37.08,0:08:38.17,Default,Sasaki,0,0,0,,Tiếp chiêu luôn ạ!
+Dialogue: 0,0:08:38.17,0:08:41.93,Italics,Sasaki,0,0,0,,Không sao cả. Lát nữa ngài Peeps sẽ đánh thức mình dậy.
+Dialogue: 0,0:08:44.24,0:08:47.05,Italics,Sasaki,0,0,0,,Chẳng sao hết vì đã có ngài Peeps ở đây.
+Dialogue: 0,0:08:47.59,0:08:49.85,Italics,Sasaki,0,0,0,,Ngài Peeps đang ở đây...
+Dialogue: 0,0:08:51.31,0:08:52.64,Italics,Sasaki,0,0,0,,Ngài Peeps...
+Dialogue: 0,0:08:52.64,0:08:55.87,Italics,Sasaki,0,0,0,,dễ thương chết đi được! Nên chắc chắn sẽ ổn thôi!
+Dialogue: 0,0:09:01.52,0:09:05.93,Default,Shizuka,0,0,0,,Ngươi gục ngã nhanh thế cơ à?
+Dialogue: 0,0:09:06.77,0:09:10.49,Default,Shizuka,0,0,0,,Uống thêm một hiệp nữa nào...
+Dialogue: 0,0:09:10.82,0:09:13.07,Default,Sasaki,0,0,0,,C-Cho tôi nghỉ giải lao một lát đã.
+Dialogue: 0,0:09:14.74,0:09:20.07,Default,Shizuka,0,0,0,,Dám để bản thân mất cảnh giác hoàn toàn\Ntrước mặt ta thế này sao?
+Dialogue: 0,0:09:21.30,0:09:25.66,Default,Shizuka,0,0,0,,Lỡ như xảy ra chuyện ngoài ý muốn thì sao...
+Dialogue: 0,0:09:25.66,0:09:28.51,Default,Sasaki,0,0,0,,Đừng có nói nhăng nói cuội thế chứ...
+Dialogue: 0,0:09:28.51,0:09:30.13,Default,Shizuka,0,0,0,,Thấy chưa?
+Dialogue: 0,0:09:33.22,0:09:36.20,Default,Shizuka,0,0,0,,Ơ kìa? Này, ngươi lăn ra ngủ thật đấy à?
+Dialogue: 0,0:09:43.35,0:09:44.60,Default,Sasaki,0,0,0,,Đùa nhau đấy à?
+Dialogue: 0,0:09:51.78,0:09:55.18,Default,Sasaki,0,0,0,,Ngài Peeps! Ngài Peeps ơi, mau dậy đi!
+Dialogue: 0,0:09:58.13,0:09:59.41,Default,Peeps,0,0,0,,T-Thứ lỗi cho ta!
+Dialogue: 0,0:09:59.41,0:10:03.43,Default,Peeps,0,0,0,,Ta trót say sưa quá chén trong men rượu...
+Dialogue: 0,0:10:03.43,0:10:06.54,Default,Sasaki,0,0,0,,Không sao đâu ạ. Tôi cũng bị y hệt như ngài thôi.
+Dialogue: 0,0:10:06.87,0:10:09.36,Default,Peeps,0,0,0,,Ta thực sự vô cùng hối hận.
+Dialogue: 0,0:10:09.36,0:10:13.90,Default,Peeps,0,0,0,,Chỉ vì sai sót của ta mà khoảng thời gian\Nrảnh rỗi quý báu của ngươi bị lãng phí mất.
+Dialogue: 0,0:10:15.22,0:10:18.80,Default,Sasaki,0,0,0,,Không đâu ạ, tôi không nên phó mặc tất cả lên vai ngài mới phải.
+Dialogue: 0,0:10:18.80,0:10:21.71,Default,Sasaki,0,0,0,,Giờ thì, về những bước tiếp theo...
+Dialogue: 0,0:10:22.99,0:10:27.00,Italics,Sasaki,0,0,0,,Tôi quyết định gửi gắm Futari Shizuka-san\Nvà Tiểu thư Elsa cho ngài Peeps chăm sóc,
+Dialogue: 0,0:10:27.00,0:10:28.65,Italics,Sasaki,0,0,0,,rồi lập tức lên đường tới Cục Quản lý.
+Dialogue: 0,0:10:29.46,0:10:32.97,Italics,Sasaki,0,0,0,,Đồng thời tự nhắc nhở bản thân tối nay\Nnhất định phải sang dị giới cho bằng được.
+Dialogue: 0,0:10:38.77,0:10:39.79,Default,Hoshizaki,0,0,0,,Anh Sasaki.
+Dialogue: 0,0:10:41.20,0:10:43.66,Default,Sasaki,0,0,0,,Chào buổi sáng, cô Hoshizaki.
+Dialogue: 0,0:10:43.66,0:10:47.34,Default,Hoshizaki,0,0,0,,Tôi vừa kiểm tra định vị trên điện thoại công vụ của anh.
+Dialogue: 0,0:10:47.34,0:10:51.05,Default,Hoshizaki,0,0,0,,Hôm qua anh lảng vảng quanh trường tôi học\Nđúng không?
+Dialogue: 0,0:10:51.35,0:10:54.44,Default,Sasaki,0,0,0,,À-Ừm... cũng đại loại là thế?
+Dialogue: 0,0:10:54.44,0:10:56.29,Default,Hoshizaki,0,0,0,,Tôi có thể hỏi lý do vì sao anh lại làm vậy không?
+Dialogue: 0,0:10:56.29,0:10:59.63,Default,Sasaki,0,0,0,,À thì, chuyện là thế này...
+Dialogue: 0,0:11:01.32,0:11:05.37,Default,Sasaki,0,0,0,,Khoan đã, sao cô lại đi kiểm tra định vị của tôi?
+Dialogue: 0,0:11:06.44,0:11:08.88,Default,Hoshizaki,0,0,0,,C-Chuyện đó không quan trọng!
+Dialogue: 0,0:11:08.88,0:11:11.22,Default,Hoshizaki,0,0,0,,Huống hồ, tôi là người hỏi anh trước cơ mà!
+Dialogue: 0,0:11:12.00,0:11:14.95,Default,Hoshizaki,0,0,0,,C-Chẳng lẽ anh đang bám đuôi t—
+Dialogue: 0,0:11:13.36,0:11:14.95,Main - Top,Akutsu,0,0,0,,Chào buổi sáng, cậu Sasaki.
+Dialogue: 0,0:11:15.29,0:11:18.03,Default,Sasaki,0,0,0,,A, chào buổi sáng, Sếp.
+Dialogue: 0,0:11:18.03,0:11:21.20,Default,Sasaki,0,0,0,,Tôi đang định vào báo cáo công việc đây ạ.
+Dialogue: 0,0:11:21.20,0:11:22.46,Default,Hoshizaki,0,0,0,,Báo cáo công việc sao?
+Dialogue: 0,0:11:23.43,0:11:29.17,Italics,Sasaki,0,0,0,,Tôi chỉ báo cáo những điều tối thiểu nhất\Nvề các sự việc diễn ra vào ngày hôm trước.
+Dialogue: 0,0:11:29.51,0:11:32.88,Italics,Sasaki,0,0,0,,Dĩ nhiên là tôi giấu nhẹm chuyện về bé hàng xóm rồi.
+Dialogue: 0,0:11:33.18,0:11:36.77,Default,Akutsu,0,0,0,,Năng lực tạo ra không gian cách ly sao?
+Dialogue: 0,0:11:37.38,0:11:42.40,Default,Akutsu,0,0,0,,Trước tiên, tôi muốn cậu nộp một bản báo cáo\Nbằng văn bản chính thức về chuyện này.
+Dialogue: 0,0:11:42.40,0:11:45.96,Default,Akutsu,0,0,0,,Có lẽ chúng ta sẽ phải thay đổi\Nphương án tiếp cận đối với vụ án này đấy.
+Dialogue: 0,0:11:45.96,0:11:47.25,Default,Sasaki,0,0,0,,Tôi đã rõ rồi ạ.
+Dialogue: 0,0:11:50.41,0:11:51.77,Default,Sasaki,0,0,0,,Giờ thì...
+Dialogue: 0,0:11:52.90,0:11:56.21,Default,Sasaki,0,0,0,,Lúc nãy cô định nói điều gì thế,\Ncô Hoshizaki?
+Dialogue: 0,0:11:56.21,0:11:57.45,Default,Hoshizaki,0,0,0,,Lúc nãy á?
+Dialogue: 0,0:11:57.45,0:11:59.57,Default,Sasaki,0,0,0,,Ngay trước khi Sếp gọi chúng ta vào ấy.
+Dialogue: 0,0:11:59.91,0:12:03.62,Default,Sasaki,0,0,0,,Nếu cô muốn thì chúng ta có thể\Nvào phòng họp nói chuyện riêng.
+Dialogue: 0,0:12:04.62,0:12:08.86,Default,Hoshizaki,0,0,0,,K-Không có gì đâu! Anh đừng bận tâm làm gì!
+Dialogue: 0,0:12:08.86,0:12:10.28,Default,Sasaki,0,0,0,,Thật thế sao?
+Dialogue: 0,0:12:10.28,0:12:12.84,Default,Hoshizaki,0,0,0,,Vâng, thực sự không có gì đâu ạ!
+Dialogue: 0,0:12:12.84,0:12:15.54,Default,Sasaki,0,0,0,,Đ-Được rồi...
+Dialogue: 0,0:12:17.09,0:12:20.75,Italics,Elsa,0,0,0,,Tạm biệt cha nhé! Cha nhớ giữ gìn sức khỏe đấy!
+Dialogue: 0,0:12:22.72,0:12:25.87,Default,Müller,0,0,0,,Không ngờ cậu lại có những món ma cụ\Ntuyệt diệu đến mức này...
+Dialogue: 0,0:12:26.86,0:12:30.55,Default,Sasaki,0,0,0,,Lẽ ra tôi nên mang thứ này tới sớm hơn.
+Dialogue: 0,0:12:30.55,0:12:33.65,Default,Sasaki,0,0,0,,Thành thật xin lỗi vì đã để ngài phải đợi lâu.
+Dialogue: 0,0:12:33.65,0:12:38.36,Default,Sasaki,0,0,0,,Thú thực là đêm qua tôi lỡ chén chú chén anh\Nhơi quá chén một chút.
+Dialogue: 0,0:12:39.59,0:12:41.11,Default,Peeps,0,0,0,,Thứ lỗi cho ta.
+Dialogue: 0,0:12:41.84,0:12:43.78,Default,Peeps,0,0,0,,Tất cả là do sơ suất của ta mà ra.
+Dialogue: 0,0:12:44.13,0:12:47.98,Default,Müller,0,0,0,,Không sao đâu, cậu đã cho ta được nhìn thấy\Nhình bóng của con gái rượu thế này.
+Dialogue: 0,0:12:47.98,0:12:49.56,Default,Müller,0,0,0,,Ta chẳng còn mong ước gì hơn nữa.
+Dialogue: 0,0:12:50.01,0:12:57.06,Default,Müller,0,0,0,,Ngài Sasaki này, cậu có thể quay một bức \"thư video\"\Ntương tự của ta được không?
+Dialogue: 0,0:12:57.06,0:12:58.37,Default,Sasaki,0,0,0,,Ôi, tất nhiên là được chứ ạ!
+Dialogue: 0,0:12:58.37,0:13:00.16,Default,Sasaki,0,0,0,,Tôi sẽ thiết lập máy quay ngay bây giờ.
+Dialogue: 0,0:13:00.16,0:13:04.30,Default,Müller,0,0,0,,Không, để khi khác ta sẽ nhờ cậu sau.
+Dialogue: 0,0:13:04.97,0:13:09.43,Default,Müller,0,0,0,,Thực ra, có một chuyện vô cùng khẩn cấp\Nmà ta cần phải thông báo cho cậu ngay.
+Dialogue: 0,0:13:20.38,0:13:25.55,Italics,Sasaki,0,0,0,,Yêu cầu dự án mới chỉ được đưa ra\Ncách đây hai tháng theo thời gian của thế giới này.
+Dialogue: 0,0:13:25.55,0:13:30.96,Italics,Sasaki,0,0,0,,Dự định ban đầu của tôi là nhân cơ hội này\Nđể ẩn cư tại lãnh địa của mình suốt vài năm, nhưng...
+Dialogue: 0,0:13:35.78,0:13:40.81,Default,Sasaki,0,0,0,,Tôi đoán người đang trực tiếp chỉ đạo mọi việc ở đây\Nchắc hẳn là Marc-san đúng không ạ?
+Dialogue: 0,0:13:40.81,0:13:44.86,Default,Müller,0,0,0,,Phải, cậu ta vẫn đang giám sát toàn bộ dự án.
+Dialogue: 0,0:13:44.86,0:13:47.14,Default,Müller,0,0,0,,Tuy nhiên, dạo gần đây cậu ta vô cùng bận rộn.
+Dialogue: 0,0:13:47.56,0:13:50.73,Default,Müller,0,0,0,,Hiện tại đang có một người khác làm đốc công tại công trường.
+Dialogue: 0,0:13:50.73,0:13:52.65,Default,Sasaki,0,0,0,,Một người khác sao?
+Dialogue: 0,0:13:58.73,0:14:01.06,Default,Sasaki,0,0,0,,Xin phép...
+Dialogue: 0,0:14:01.06,0:14:02.53,Default,French,0,0,0,,Ngài Bá tước!
+Dialogue: 0,0:14:02.53,0:14:05.49,Default,Sasaki,0,0,0,,French-san? Sao anh lại ở đây?
+Dialogue: 0,0:14:06.08,0:14:08.04,Default,French,0,0,0,,Ngài đã tới rồi!
+Dialogue: 0,0:14:08.04,0:14:10.85,Default,French,0,0,0,,Chính ngài là người đã nói với tôi rằng
+Dialogue: 0,0:14:10.85,0:14:14.08,Default,French,0,0,0,,một công trình xây dựng quan trọng\Nsẽ sớm được khởi công tại vùng đất này cơ mà.
+Dialogue: 0,0:14:14.08,0:14:16.01,Default,Sasaki,0,0,0,,Đ-Đúng là vậy...
+Dialogue: 0,0:14:16.01,0:14:20.33,Italics,Sasaki,0,0,0,,French-san vốn có quen biết với Marc-san,
+Dialogue: 0,0:14:20.33,0:14:22.26,Italics,Sasaki,0,0,0,,nên tôi có lỡ buột miệng kể cho anh ấy nghe, nhưng...
+Dialogue: 0,0:14:22.26,0:14:26.48,Default,French,0,0,0,,Sau tất cả những chuyện đã xảy ra,\Ntôi chỉ muốn làm chút gì đó có ích để giúp đỡ ngài,
+Dialogue: 0,0:14:26.48,0:14:28.82,Default,French,0,0,0,,nên tôi không thể cứ ngồi yên khoanh tay đứng nhìn được.
+Dialogue: 0,0:14:29.31,0:14:31.92,Default,French,0,0,0,,Hơn nữa đám bếp phó của tôi giờ đã có thể\Ntự mình quán xuyến nhà hàng ngon lành rồi,
+Dialogue: 0,0:14:31.92,0:14:34.27,Default,French,0,0,0,,nên tôi quyết định tới đây góp một tay giúp ngài.
+Dialogue: 0,0:14:34.64,0:14:37.20,Default,Müller,0,0,0,,Kể từ khi French-dono tới đây giúp sức,
+Dialogue: 0,0:14:37.20,0:14:40.72,Default,Müller,0,0,0,,rất nhiều khách quen của cậu ấy\Ncũng bắt đầu kéo tới đề nghị giúp đỡ.
+Dialogue: 0,0:14:40.72,0:14:42.65,Default,Sasaki,0,0,0,,Khách quen sao ạ?
+Dialogue: 0,0:14:44.20,0:14:46.41,Default,Carpenter,0,0,0,,Chào đằng ấy nhé, French-san.
+Dialogue: 0,0:14:46.41,0:14:49.09,Default,Carpenter,0,0,0,,Tôi nghe đồn Nam tước Sasaki đang ở trong thị trấn.
+Dialogue: 0,0:14:49.09,0:14:50.16,Default,French,0,0,0,,Mọi người tới đông đủ cả rồi!
+Dialogue: 0,0:14:50.49,0:14:54.29,Default,Carpenter,0,0,0,,Chắc ngài đây là ngài Nam tước rồi.
+Dialogue: 0,0:14:54.29,0:14:58.49,Default,French,0,0,0,,K-Khoan đã nào. Đây là bậc quý tộc đấy.
+Dialogue: 0,0:14:58.49,0:14:59.88,Default,French,0,0,0,,Các anh phải tỏ ra tôn kính một chút—
+Dialogue: 0,0:15:00.23,0:15:03.84,Default,Sasaki,0,0,0,,Rất hân hạnh được gặp mọi người. Tôi là Sasaki.
+Dialogue: 0,0:15:09.25,0:15:12.52,Default,Carpenter,0,0,0,,Sao nào? Công trường của chúng tôi đỉnh đấy chứ?
+Dialogue: 0,0:15:12.52,0:15:15.11,Default,Carpenter,0,0,0,,Ở đây quy tụ toàn những bậc thầy thợ thủ công\Nkhét tiếng nhất vùng đấy nhé.
+Dialogue: 0,0:15:20.19,0:15:23.14,Default,Sasaki,0,0,0,,Tôi đã được tận mắt chứng kiến mọi người làm việc rồi.
+Dialogue: 0,0:15:23.14,0:15:28.53,Default,Sasaki,0,0,0,,Tôi thực sự vô cùng biết ơn khi tất cả các anh\Nđã không quản ngại đường xá xa xôi lặn lội tới đây.
+Dialogue: 0,0:15:28.53,0:15:32.05,Default,Sasaki,0,0,0,,Và tôi rất mong chờ được chiêm ngưỡng thêm nhiều tuyệt tác từ bàn tay của các anh.
+Dialogue: 0,0:15:32.73,0:15:35.37,Default,Sasaki,0,0,0,,Như mọi người thấy đấy, tôi vốn là một người ngoại quốc.
+Dialogue: 0,0:15:35.73,0:15:40.34,Default,Sasaki,0,0,0,,Hơn nữa, mảnh đất này trước đây vốn thuộc về\Nnhững thần dân của Vương quốc Herz.
+Dialogue: 0,0:15:40.74,0:15:44.23,Default,Sasaki,0,0,0,,Dù hiện tại nơi này có là Lãnh địa Nam tước Sasaki đi chăng nữa,
+Dialogue: 0,0:15:44.23,0:15:48.18,Default,Sasaki,0,0,0,,thì trong mắt tôi, tôi cũng chỉ như một kẻ\Nđang thuê lại mảnh đất của mọi người mà thôi.
+Dialogue: 0,0:15:48.18,0:15:51.26,Default,Carpenter,0,0,0,,N-Ngài nói thật lòng đấy chứ?
+Dialogue: 0,0:15:51.55,0:15:52.78,Default,Sasaki,0,0,0,,Vâng.
+Dialogue: 0,0:15:52.78,0:15:56.18,Default,Sasaki,0,0,0,,Hơn nữa, French-san là người bạn chí cốt của tôi.
+Dialogue: 0,0:15:56.60,0:16:02.69,Default,Sasaki,0,0,0,,Bất kỳ ai là bạn bè của anh ấy\Ncũng đều là những người bạn đáng quý của tôi.
+Dialogue: 0,0:16:03.10,0:16:07.40,Default,Sasaki,0,0,0,,Ngoài những dịp lễ nghi công cộng ra,\Nchúng ta không cần phải câu nệ tiểu tiết làm gì.
+Dialogue: 0,0:16:07.89,0:16:12.98,Italics,Sasaki,0,0,0,,Nếu họ có ấn tượng xấu về mình,\Nbiết đâu tiến độ công việc sẽ bị chậm lại mất.
+Dialogue: 0,0:16:13.37,0:16:15.73,Default,Carpenter,0,0,0,,French-san nói quả không sai chút nào!
+Dialogue: 0,0:16:15.73,0:16:18.15,Default,French,0,0,0,,Đ-Đã bảo với các người rồi mà lại?!
+Dialogue: 0,0:16:18.15,0:16:20.52,Default,French,0,0,0,,Ngài ấy là một người vô cùng độ lượng và hào hiệp!
+Dialogue: 0,0:16:20.52,0:16:22.95,Default,French,0,0,0,,K-Khoan đã, ừm...
+Dialogue: 0,0:16:25.91,0:16:28.54,Default,Carpenter,0,0,0,,Xin ngài thứ lỗi cho sự thất lễ vừa rồi của chúng tôi!
+Dialogue: 0,0:16:28.54,0:16:30.05,Default,Worker A/B,0,0,0,,Bọn tôi vô cùng xin lỗi ngài ạ!
+Dialogue: 0,0:16:32.05,0:16:35.31,Default,Carpenter,0,0,0,,Tôi làm bên ngành xây dựng,
+Dialogue: 0,0:16:35.68,0:16:39.60,Default,Carpenter,0,0,0,,và tôi trở thành bạn thân của French-san\Ntrong những lần ghé quán ăn của cậu ấy.
+Dialogue: 0,0:16:39.95,0:16:42.91,Default,Carpenter,0,0,0,,Rồi bỗng một ngày, French-san nói với tôi rằng:
+Dialogue: 0,0:16:42.91,0:16:47.86,Default,Carpenter,0,0,0,,\"Tôi sẽ đi giúp xây dựng bức tường thành\Ncho người ân nhân đã cứu mạng tôi.\"
+Dialogue: 0,0:16:48.55,0:16:51.61,Default,Carpenter,0,0,0,,Tôi từng lo lắng sợ rằng cậu ấy\Nbị kẻ xấu lừa gạt dắt mũi.
+Dialogue: 0,0:16:52.53,0:16:55.86,Default,Carpenter,0,0,0,,Nhưng giờ thì tôi thấy rõ ràng không phải như vậy rồi.
+Dialogue: 0,0:16:55.86,0:16:59.29,Default,Carpenter,0,0,0,,Giờ thì anh em chúng tôi có thể toàn tâm toàn ý cống hiến hết mình cho công việc rồi!
+Dialogue: 0,0:16:59.29,0:17:02.49,Default,Sasaki,0,0,0,,K-Không cần phải vội vã quá đâu ạ...
+Dialogue: 0,0:17:02.49,0:17:09.01,Default,Sasaki,0,0,0,,Tôi nhất định sẽ tìm cách trả công xứng đáng cho các anh,\Nnên hy vọng mọi người cứ thong thả làm cho thật chuẩn chỉ nhé.
+Dialogue: 0,0:17:09.01,0:17:10.40,Default,Carpenter,0,0,0,,Mọi người có nghe thấy gì không?!
+Dialogue: 0,0:17:10.40,0:17:14.22,Default,Carpenter,0,0,0,,Nam tước Sasaki quả thực là một đấng trượng phu nghĩa hiệp!
+Dialogue: 0,0:17:14.22,0:17:15.52,Default,Worker A,0,0,0,,Tuyệt vời ông mặt trời!
+Dialogue: 0,0:17:15.52,0:17:17.27,Default,Worker B,0,0,0,,Anh em ơi, quẩy hết mình làm cho thật chuẩn chỉ nào!
+Dialogue: 0,0:17:21.92,0:17:24.98,Default,Sasaki,0,0,0,,Tôi thành thật xin lỗi vì đã gây ra nhiều phiền phức cho mọi người.
+Dialogue: 0,0:17:24.98,0:17:26.93,Default,Marc,0,0,0,,Không có gì đâu ạ.
+Dialogue: 0,0:17:26.93,0:17:30.77,Default,Marc,0,0,0,,French-san và những người khác\Nở công trường đều rất hợp tác và nhiệt tình...
+Dialogue: 0,0:17:33.54,0:17:35.23,Default,Joseph,0,0,0,,Tôi thành thật xin lỗi vì đã để ngài phải đợi lâu.
+Dialogue: 0,0:17:35.23,0:17:38.79,Default,Joseph,0,0,0,,Mức thanh toán lần này liệu có làm ngài hài lòng không ạ?
+Dialogue: 0,0:17:38.79,0:17:45.88,Default,Sasaki,0,0,0,,Tôi có thể chuyển toàn bộ số tiền này\Nvào ngân sách dành cho công trường xây dựng được không?
+Dialogue: 0,0:17:47.07,0:17:48.84,Default,Joseph,0,0,0,,Ngài có chắc chắn về quyết định đó không?
+Dialogue: 0,0:17:49.15,0:17:51.63,Default,Sasaki,0,0,0,,Tôi đã làm phiền mọi người quá nhiều rồi,
+Dialogue: 0,0:17:51.63,0:17:54.89,Default,Sasaki,0,0,0,,nên ít nhất tôi muốn bảo đảm\Nphần tài chính được chu toàn đầy đủ.
+Dialogue: 0,0:17:57.00,0:17:58.44,Default,Marc,0,0,0,,Chúng tôi đã hiểu rồi ạ.
+Dialogue: 0,0:17:58.44,0:18:02.56,Default,Joseph,0,0,0,,Trong trường hợp đó, chúng tôi xin phép giữ lại toàn bộ số tiền này.
+Dialogue: 0,0:18:02.89,0:18:05.53,Default,Marc,0,0,0,,Cảm ơn ngài rất nhiều, ngài Sasaki.
+Dialogue: 0,0:18:08.27,0:18:10.59,Italics,Sasaki,0,0,0,,Sau khi kết thúc công việc làm ăn với Joseph-san,
+Dialogue: 0,0:18:10.59,0:18:13.05,Italics,Sasaki,0,0,0,,chúng tôi lập tức quay trở lại Baytrium,
+Dialogue: 0,0:18:13.05,0:18:17.34,Italics,Sasaki,0,0,0,,để rồi phát hiện Bá tước Müller\Nđang có một tin tức khẩn cấp hơn muốn báo cho chúng tôi.
+Dialogue: 0,0:18:18.49,0:18:21.12,Default,Sasaki,0,0,0,,Xin... phép...
+Dialogue: 0,0:18:21.49,0:18:27.38,Default,Müller,0,0,0,,Ngài Sasaki, đây là Tử tước Ohm,\Nđại diện cho Công tước Einhart tới đây.
+Dialogue: 0,0:18:33.47,0:18:40.18,Default,Ohm,0,0,0,,Công tước Einhart ghi nhận những nỗ lực của cậu\Ntrong việc xây dựng bức tường thành.
+Dialogue: 0,0:18:40.51,0:18:43.57,Default,Ohm,0,0,0,,Với tư cách là người khởi xướng dự án này,
+Dialogue: 0,0:18:43.57,0:18:48.02,Default,Ohm,0,0,0,,ngài ấy đã hào phóng quyết định\Nsẽ viện trợ cho nỗ lực của cậu.
+Dialogue: 0,0:18:50.61,0:18:53.19,Default,Ohm,0,0,0,,Với tư cách là những người có cùng chí hướng tin tưởng vào tương lai
+Dialogue: 0,0:18:53.19,0:18:56.23,Default,Ohm,0,0,0,,của Vương quốc Herz\Ndưới sự trị vì của Hoàng tử Adonis,
+Dialogue: 0,0:18:56.23,0:18:58.95,Default,Ohm,0,0,0,,Công tước Einhart hy vọng rằng sự hỗ trợ của ngài ấy
+Dialogue: 0,0:18:58.95,0:19:03.94,Main - Top,Ohm,0,0,0,,sẽ càng khích lệ lòng trung kiên của cậu\Ndành cho vương quốc của chúng ta...
+Dialogue: 0,0:18:59.23,0:19:01.77,Italics,Sasaki,0,0,0,,Ban đầu thì đùn đẩy công việc khó nhằn này cho mình,
+Dialogue: 0,0:19:01.77,0:19:06.04,Italics,Sasaki,0,0,0,,giờ thấy mọi chuyện êm xuôi trót lọt\Nlại muốn nhảy vào húp trọn công lao đây mà.
+Dialogue: 0,0:19:06.04,0:19:11.25,Default,Ohm,0,0,0,,Vì vậy, đích thân ta sẽ tiếp quản quyền lãnh đạo công trường này.
+Dialogue: 0,0:19:12.79,0:19:15.16,Default,Ohm,0,0,0,,Ta đã sắp xếp đầy đủ nhân lực đâu vào đấy rồi.
+Dialogue: 0,0:19:15.16,0:19:19.55,Default,Ohm,0,0,0,,Ta sẽ tập hợp những người thợ thủ công tinh anh nhất\Ntừ lãnh địa của ta tới đây.
+Dialogue: 0,0:19:19.98,0:19:23.35,Default,Ohm,0,0,0,,Đám thợ mộc ô hợp của cậu chẳng đủ tư cách đâu.
+Dialogue: 0,0:19:23.35,0:19:24.77,Default,Ohm,0,0,0,,Chúng ta sẽ chỉ giao công việc này cho những ai
+Dialogue: 0,0:19:24.77,0:19:29.00,Default,Ohm,0,0,0,,đã vượt qua quy trình tuyển chọn gắt gao nhất.
+Dialogue: 0,0:19:29.00,0:19:31.11,Italics,Sasaki,0,0,0,,Nếu chuyện đó xảy ra, họ sẽ...
+Dialogue: 0,0:19:31.45,0:19:36.74,Default,Ohm,0,0,0,,Ta sẽ điều động cả công binh tham chiến\Nnhằm đẩy nhanh tiến độ hoàn thành hơn nữa.
+Dialogue: 0,0:19:36.74,0:19:37.58,Default,Ohm,0,0,0,,Rốt cuộc thì—
+Dialogue: 0,0:19:37.58,0:19:39.13,Default,Sasaki,0,0,0,,Nếu ngài cho phép...
+Dialogue: 0,0:19:39.95,0:19:43.41,Default,Sasaki,0,0,0,,Tôi xin phép được kính cẩn từ chối lời đề nghị của ngài.
+Dialogue: 0,0:19:46.41,0:19:48.33,Default,Ohm,0,0,0,,C-Cái gì cơ?!
+Dialogue: 0,0:19:48.33,0:19:52.10,Default,Sasaki,0,0,0,,Tôi vốn chỉ được giao phó một nhiệm vụ cỏn con là dựng bức tường
+Dialogue: 0,0:19:52.10,0:19:55.05,Default,Sasaki,0,0,0,,ở vùng biên giới tiếp giáp với Đế quốc Ohgen.
+Dialogue: 0,0:19:55.05,0:19:59.79,Default,Sasaki,0,0,0,,Nó hoàn toàn không đáng để Công tước Einhart phải bận tâm đâu ạ.
+Dialogue: 0,0:20:01.18,0:20:02.14,Default,Ohm,0,0,0,,To gan thật đấy!
+Dialogue: 0,0:20:02.14,0:20:05.73,Default,Ohm,0,0,0,,Ngươi dám chống lại mệnh lệnh của Công tước sao?!
+Dialogue: 0,0:20:07.52,0:20:13.79,Default,Sasaki,0,0,0,,Ngài cho rằng khoản viện trợ của ngài Công tước\Nvượt trội hơn những gì Thương hội Kepler có thể cung cấp sao?
+Dialogue: 0,0:20:17.01,0:20:19.07,Default,Ohm,0,0,0,,Ch-Chuyện đó...
+Dialogue: 0,0:20:19.53,0:20:23.79,Italics,Sasaki,0,0,0,,Joseph-san là một nhân vật có tầm ảnh hưởng vô cùng lớn.\NDanh tiếng của ông ấy sẽ rất hữu ích ở đây.
+Dialogue: 0,0:20:24.25,0:20:28.00,Italics,Sasaki,0,0,0,,Dù rằng số tiền đó trên thực tế\Nđều là từ túi của tôi và ngài Peeps móc ra cả...
+Dialogue: 0,0:20:28.00,0:20:29.76,Default,Sasaki,0,0,0,,Ngài không cần phải lo lắng đâu ạ.
+Dialogue: 0,0:20:29.76,0:20:34.21,Default,Sasaki,0,0,0,,Tôi sẽ không bao giờ đặt chân tới vương đô\Ncho tới khi bức tường thành này được hoàn tất.
+Dialogue: 0,0:20:34.48,0:20:39.80,Default,Sasaki,0,0,0,,Tôi kính xin Công tước Einhart\Nhãy có cái nhìn bao dung và lâu dài đối với dự án của chúng tôi.
+Dialogue: 0,0:20:40.18,0:20:42.75,Default,Sasaki,0,0,0,,Liệu ngài có thể vui lòng chuyển lại lời nhắn đó giúp tôi được không ạ?
+Dialogue: 0,0:20:48.70,0:20:53.00,Default,Sasaki,0,0,0,,Tôi thành thật xin lỗi vì đã làm khó ngài thế này.
+Dialogue: 0,0:20:53.00,0:20:54.10,Default,Müller,0,0,0,,Không sao đâu.
+Dialogue: 0,0:20:54.10,0:20:56.89,Default,Müller,0,0,0,,Mối quan hệ với Công tước Einhart tuy rằng quan trọng,
+Dialogue: 0,0:20:56.89,0:20:59.17,Default,Müller,0,0,0,,nhưng ta tin rằng cậu đã đưa ra quyết định hoàn toàn đúng đắn.
+Dialogue: 0,0:20:59.92,0:21:01.53,Default,Sasaki,0,0,0,,Tôi xin chân thành cảm ơn ngài.
+Dialogue: 0,0:21:01.53,0:21:05.13,Default,Müller,0,0,0,,Nhân tiện, có một chuyện này ta muốn nhắc nhở cậu...
+Dialogue: 0,0:21:05.13,0:21:06.33,Default,Sasaki,0,0,0,,Chuyện gì thế ạ?
+Dialogue: 0,0:21:06.33,0:21:09.62,Default,Müller,0,0,0,,Chà... Phải nói thế nào cho phải nhỉ?
+Dialogue: 0,0:21:10.32,0:21:14.14,Default,Müller,0,0,0,,Ngài Đại Hiền Giả không hề biết uống rượu đâu.
+Dialogue: 0,0:21:14.14,0:21:16.00,Default,Sasaki,0,0,0,,Thật thế sao ạ?
+Dialogue: 0,0:21:16.00,0:21:19.41,Default,Müller,0,0,0,,Có thể từ lời nói và hành động của ngài ấy thì khó mà nhận ra,
+Dialogue: 0,0:21:19.41,0:21:21.56,Default,Müller,0,0,0,,nhưng ngài ấy rất dễ bị say xỉn quắc cần câu đấy.
+Dialogue: 0,0:21:21.56,0:21:25.63,Default,Müller,0,0,0,,Có những lúc, ngài ấy còn mất sạch\Ntoàn bộ ký ức xung quanh việc đó nữa cơ.
+Dialogue: 0,0:21:25.63,0:21:27.35,Default,Sasaki,0,0,0,,Tôi thực sự không hề hay biết chuyện đó đấy.
+Dialogue: 0,0:21:28.31,0:21:31.44,Italics,Sasaki,0,0,0,,Hiếm khi mới được nghe về khuyết điểm của ngài Peeps.
+Dialogue: 0,0:21:32.14,0:21:37.11,Italics,Sasaki,0,0,0,,Chính vì bình thường ngài ấy quá đỗi toàn năng,\Nnên điểm này lại càng làm ngài ấy thêm muôn phần đáng yêu!
+Dialogue: 0,0:21:46.32,0:21:47.37,Default,Sasaki,0,0,0,,Alo. Sasaki xin ng—
+Dialogue: 0,0:21:47.37,0:21:51.46,Italics,Shizuka,0,0,0,,Con chim sẻ của ngươi rốt cuộc đã làm cái quái gì thế hả?!
+Dialogue: 0,0:21:53.86,0:21:58.08,Italics,Sasaki,0,0,0,,Những chuỗi ngày êm đềm bình yên của tôi lại một lần nữa chấm dứt.
+Dialogue: 0,0:22:00.35,0:22:03.55,Italics,Shizuka,0,0,0,,Lũ chúng mày tiêu đời thật rồi!
+Dialogue: 0,0:22:05.73,0:22:08.63,Italics,Shizuka,0,0,0,,Toi mạng rồi! Chết chắc rồi!!
+
