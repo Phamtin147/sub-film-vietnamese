@@ -1,0 +1,836 @@
+﻿1
+00:01:33,140 --> 00:01:34,020
+<font face="Segoe UI">Nó tới rồi.</font>
+
+2
+00:01:37,850 --> 00:01:40,310
+<font face="Segoe UI">GIẾT</font>
+
+3
+00:01:48,610 --> 00:01:50,070
+<font face="Segoe UI"><i>Sát khí này...</i></font>
+
+4
+00:03:23,950 --> 00:03:27,240
+<font face="Segoe UI">GIẾT</font>
+
+5
+00:03:27,250 --> 00:03:28,540
+<font face="Segoe UI"><i>Sát khí này...</i></font>
+
+6
+00:03:30,670 --> 00:03:32,010
+<font face="Segoe UI"><i>không phải của Shizuka...</i></font>
+
+7
+00:03:34,010 --> 00:03:34,890
+<font face="Segoe UI"><i>Đây là...</i></font>
+
+8
+00:03:42,310 --> 00:03:43,730
+<font face="Segoe UI">Ô! Anh Nagi.</font>
+
+9
+00:03:49,520 --> 00:03:51,150
+<font face="Segoe UI">Việc anh tỉnh lại có nghĩa là</font>
+
+10
+00:03:51,270 --> 00:03:52,650
+<font face="Segoe UI">vừa rồi anh cũng cảm nhận được nó đúng không?</font>
+
+11
+00:03:53,320 --> 00:03:54,200
+<font face="Segoe UI">Ừ...</font>
+
+12
+00:03:57,530 --> 00:03:58,410
+<font face="Segoe UI">Chúng ta đang ở đâu thế này?</font>
+
+13
+00:03:59,870 --> 00:04:01,660
+<font face="Segoe UI">Một căn cứ an toàn ở Khu Heishi.</font>
+
+14
+00:04:02,330 --> 00:04:06,040
+<font face="Segoe UI">Kể từ khi bị anh em Kurosaka lần ra,
+chúng ta phải chuyển chỗ cứ mỗi 12 tiếng một lần.</font>
+
+15
+00:04:10,580 --> 00:04:11,620
+<font face="Segoe UI">Anh hiểu rồi...</font>
+
+16
+00:04:13,340 --> 00:04:14,260
+<font face="Segoe UI">Xin lỗi em nhé.</font>
+
+17
+00:04:14,460 --> 00:04:16,050
+<font face="Segoe UI">Không sao đâu ạ.</font>
+
+18
+00:04:16,840 --> 00:04:19,380
+<font face="Segoe UI">Quan trọng hơn là,
+luồng sát khí vừa rồi</font>
+
+19
+00:04:19,390 --> 00:04:20,850
+<font face="Segoe UI">có phải là của kẻ truy đuổi từ Học viện không?</font>
+
+20
+00:04:21,180 --> 00:04:22,850
+<font face="Segoe UI">Chẳng lẽ chúng đã tìm ra chỗ này rồi sao?</font>
+
+21
+00:04:23,350 --> 00:04:27,650
+<font face="Segoe UI">Không. Anh dám chắc đó là kẻ truy bắt,</font>
+
+22
+00:04:28,560 --> 00:04:31,480
+<font face="Segoe UI">nhưng anh không nghĩ chúng đã biết
+vị trí của chúng ta.</font>
+
+23
+00:04:33,520 --> 00:04:37,400
+<font face="Segoe UI">Luồng sát khí đó không hề nhắm vào riêng cá nhân anh.</font>
+
+24
+00:04:38,990 --> 00:04:39,910
+<font face="Segoe UI">Mà giống như là...</font>
+
+25
+00:04:42,700 --> 00:04:44,910
+<font face="Segoe UI">Nó đang được phóng thích
+bừa bãi ra khắp xung quanh...</font>
+
+26
+00:04:52,250 --> 00:04:54,420
+<font face="Segoe UI">Ý anh là... như một lời cảnh báo sao?</font>
+
+27
+00:04:55,500 --> 00:04:56,380
+<font face="Segoe UI">Ừ.</font>
+
+28
+00:04:57,840 --> 00:05:00,590
+<font face="Segoe UI">Nó như muốn nói: \"Dù có ở đâu,
+ta cũng sẽ tìm ra và giết bằng được các ngươi.\"</font>
+
+29
+00:05:07,640 --> 00:05:08,520
+<font face="Segoe UI">Shizuka này.</font>
+
+30
+00:05:09,690 --> 00:05:10,570
+<font face="Segoe UI">Dạ?</font>
+
+31
+00:05:12,060 --> 00:05:13,480
+<font face="Segoe UI">Anh muốn nhắc lại chuyện này một lần nữa.</font>
+
+32
+00:05:15,070 --> 00:05:18,070
+<font face="Segoe UI">Em hãy tự mình rời khỏi hòn đảo này
+khi vẫn còn có thể đi.</font>
+
+33
+00:05:21,570 --> 00:05:22,740
+<font face="Segoe UI">Lại nữa sao?</font>
+
+34
+00:05:23,740 --> 00:05:25,580
+<font face="Segoe UI">Chúng ta đã thống nhất chuyện này rồi mà.</font>
+
+35
+00:05:26,790 --> 00:05:28,210
+<font face="Segoe UI">Vừa rồi em cũng cảm nhận được đúng không?</font>
+
+36
+00:05:29,040 --> 00:05:33,340
+<font face="Segoe UI">Kẻ truy đuổi cố tình để lộ sự hiện diện
+cho chúng ta biết chúng đang ở đây</font>
+
+37
+00:05:34,080 --> 00:05:36,540
+<font face="Segoe UI">trông thì có vẻ như
+một kẻ tự phụ trẻ con, nhưng...</font>
+
+38
+00:05:37,210 --> 00:05:40,210
+<font face="Segoe UI">Anh cảm nhận được một sự quyết tâm
+và mức độ tàn bạo từ kẻ đó</font>
+
+39
+00:05:40,800 --> 00:05:42,220
+<font face="Segoe UI">mà trước giờ anh chưa từng thấy ở bất kỳ ai.</font>
+
+40
+00:05:43,720 --> 00:05:45,350
+<font face="Segoe UI">Hơn nữa luồng sát khí lúc nãy</font>
+
+41
+00:05:46,310 --> 00:05:48,350
+<font face="Segoe UI">lại mang một cảm giác quen thuộc đến kỳ lạ.</font>
+
+42
+00:05:49,890 --> 00:05:51,060
+<font face="Segoe UI">Rốt cuộc là ai...</font>
+
+43
+00:05:54,520 --> 00:05:56,770
+<font face="Segoe UI">Em không thể cứ mãi chạy trốn cùng một kẻ như anh được.</font>
+
+44
+00:05:57,690 --> 00:06:00,740
+<font face="Segoe UI">Nhưng nếu đi một mình,
+em vẫn có cơ hội thoát thân.</font>
+
+45
+00:06:04,240 --> 00:06:06,410
+<font face="Segoe UI">Lúc nào anh cũng như vậy hết.</font>
+
+46
+00:06:06,870 --> 00:06:07,750
+<font face="Segoe UI">Hả?</font>
+
+47
+00:06:08,330 --> 00:06:10,670
+<font face="Segoe UI">Lúc nào cũng tự mình ôm đồm mọi thứ...</font>
+
+48
+00:06:11,540 --> 00:06:15,420
+<font face="Segoe UI">Rồi mở miệng ra là lại:
+\"Nguy hiểm lắm, em hãy lùi lại đi.\"</font>
+
+49
+00:06:17,630 --> 00:06:19,380
+<font face="Segoe UI">Khó chịu chết đi được ấy.</font>
+
+50
+00:06:19,670 --> 00:06:21,960
+<font face="Segoe UI">Hả? Khó chịu sao...?</font>
+
+51
+00:06:23,880 --> 00:06:27,050
+<font face="Segoe UI">{\an8}BA NĂM TRƯỚC</font>
+
+52
+00:06:28,510 --> 00:06:31,050
+<font face="Segoe UI">{\an8}TIẾP XÚC KÉM, HÃY ẤN MẠNH</font>
+
+53
+00:06:45,490 --> 00:06:48,240
+<font face="Segoe UI">Em vốn dĩ không có tài năng gì cả...</font>
+
+54
+00:06:49,910 --> 00:06:52,500
+<font face="Segoe UI">Nếu hồi đó anh không liều mình cứu em,</font>
+
+55
+00:06:53,160 --> 00:06:55,790
+<font face="Segoe UI">Thầy đã bắt em phải \"tốt nghiệp\" từ lâu rồi...</font>
+
+56
+00:06:58,210 --> 00:07:00,630
+<font face="Segoe UI">Và lý do khiến anh ra nông nỗi này</font>
+
+57
+00:07:02,090 --> 00:07:04,090
+<font face="Segoe UI">cũng là vì đã đỡ đòn thay cho em.</font>
+
+58
+00:07:06,260 --> 00:07:08,800
+<font face="Segoe UI">Giờ là lúc tới lượt em cứu anh!</font>
+
+59
+00:07:09,260 --> 00:07:13,100
+<font face="Segoe UI">Nên lần này, anh cứ ngồi yên đó mà dựa vào em đi!</font>
+
+60
+00:07:18,060 --> 00:07:23,150
+<font face="Segoe UI">Huống hồ, sát khí của Thầy
+biết đâu còn có thể chữa lành cơ thể cho anh.</font>
+
+61
+00:07:23,860 --> 00:07:27,780
+<font face="Segoe UI">Nếu kẻ đó tự mò tới tìm chúng ta,
+chẳng phải lại quá hoàn hảo cho đôi ta sao.</font>
+
+62
+00:07:43,050 --> 00:07:45,970
+<font face="Segoe UI">Em có hiểu mình đang nói gì không đấy?</font>
+
+63
+00:07:47,050 --> 00:07:49,890
+<font face="Segoe UI">Dù chúng ta có kích phát được
+sát khí của Thầy đi chăng nữa,</font>
+
+64
+00:07:51,220 --> 00:07:53,140
+<font face="Segoe UI">thì cũng sẽ bị giết nếu không đánh bại được người đó.</font>
+
+65
+00:07:54,100 --> 00:07:55,560
+<font face="Segoe UI">Đó là Thầy đấy...</font>
+
+66
+00:08:01,480 --> 00:08:03,270
+<font face="Segoe UI"><i>Hai đứa chúng nó đã ở đây được năm năm rồi.</i></font>
+
+67
+00:08:04,940 --> 00:08:08,570
+<font face="Segoe UI"><i>Người anh, Nagi, vốn dĩ là một trong những
+học viên xuất sắc nhất chúng ta từng có,</i></font>
+
+68
+00:08:09,160 --> 00:08:11,330
+<font face="Segoe UI"><i>nhưng con bé em gái thì vô phương cứu chữa.</i></font>
+
+69
+00:08:12,120 --> 00:08:14,960
+<font face="Segoe UI"><i>Chỉ là một món phế phẩm vô dụng.</i></font>
+
+70
+00:08:15,910 --> 00:08:16,830
+<font face="Segoe UI"><i>Hừ.</i></font>
+
+71
+00:08:18,620 --> 00:08:19,500
+<font face="Segoe UI"><i>Thế thì...</i></font>
+
+72
+00:08:29,470 --> 00:08:32,850
+<font face="Segoe UI"><i>Ta không cần thứ này nữa.</i></font>
+
+73
+00:08:52,320 --> 00:08:54,280
+<font face="Segoe UI">Em... em có kế hoạch rồi.</font>
+
+74
+00:08:54,580 --> 00:08:57,960
+<font face="Segoe UI">Ồ? Vậy thì nói anh nghe xem...</font>
+
+75
+00:09:00,830 --> 00:09:01,960
+<font face="Segoe UI">- Cúi xuống!
+- Hả?</font>
+
+76
+00:09:02,250 --> 00:09:03,170
+<font face="Segoe UI">Cúi xuống mau!</font>
+
+77
+00:09:43,130 --> 00:09:48,220
+<font face="Segoe UI">Bọn mình nhận được mật báo về một đứa con gái
+đi cùng tên ngồi xe lăn.</font>
+
+78
+00:09:49,010 --> 00:09:50,680
+<font face="Segoe UI">Đúng là trúng số độc đắc rồi!</font>
+
+79
+00:09:51,300 --> 00:09:56,640
+<font face="Segoe UI">Này, cậu không nghĩ bọn mình nên báo lại
+cho đàn anh Kurosaka trước sao?</font>
+
+80
+00:09:58,390 --> 00:10:01,230
+<font face="Segoe UI">Đây là nhiệm vụ nhận trực tiếp từ Thầy đấy.</font>
+
+81
+00:10:01,520 --> 00:10:02,730
+<font face="Segoe UI">Cơ hội ngàn năm có một của chúng ta.</font>
+
+82
+00:10:03,310 --> 00:10:08,150
+<font face="Segoe UI">Nếu lập công ở đây,
+bọn mình có thể nhảy vọt thẳng lên Lớp A.</font>
+
+83
+00:10:09,650 --> 00:10:14,570
+<font face="Segoe UI">Đám học viên Lớp C bọn mình đến quyền tự do
+chọn kiểu tóc còn chẳng có.</font>
+
+84
+00:10:15,200 --> 00:10:17,790
+<font face="Segoe UI">Nếu muốn được sống như một con người
+ở Học viện này,</font>
+
+85
+00:10:18,040 --> 00:10:20,670
+<font face="Segoe UI">chúng ta buộc phải leo lên
+những lớp cao hơn.</font>
+
+86
+00:10:20,660 --> 00:10:21,540
+<font face="Segoe UI">Ừ.</font>
+
+87
+00:10:21,910 --> 00:10:23,330
+<font face="Segoe UI">Tớ biết, nhưng mà...</font>
+
+88
+00:10:23,870 --> 00:10:26,330
+<font face="Segoe UI">Đối thủ là Tahira Nagi đấy,
+cậu biết chứ...?</font>
+
+89
+00:10:26,590 --> 00:10:29,840
+<font face="Segoe UI">Đừng có ngớ ngẩn thế.
+Dù hắn có là \"kẻ mạnh nhất lịch sử\",</font>
+
+90
+00:10:30,050 --> 00:10:32,510
+<font face="Segoe UI">thì hiện tại cũng chỉ là kẻ sống thực vật bất tỉnh thôi.</font>
+
+91
+00:10:33,760 --> 00:10:35,680
+<font face="Segoe UI">Giờ chắc người hắn đã bị bắn nát bấy rồi.</font>
+
+92
+00:10:36,760 --> 00:10:39,720
+<font face="Segoe UI">Nào nào, cái xác bé nhỏ của hắn...</font>
+
+93
+00:10:40,140 --> 00:10:41,810
+<font face="Segoe UI">đang ở xó xỉnh nào rồi nhỉ?</font>
+
+94
+00:11:18,600 --> 00:11:21,940
+<font face="Segoe UI">Anh Nagi, chúng ta phải khử bọn chúng
+trước khi chúng kịp liên lạc với anh em Kurosaka!</font>
+
+95
+00:11:22,220 --> 00:11:23,100
+<font face="Segoe UI">Anh biết,</font>
+
+96
+00:11:23,730 --> 00:11:25,570
+<font face="Segoe UI">nhưng xe lăn bị hỏng mất rồi.</font>
+
+97
+00:11:26,060 --> 00:11:27,480
+<font face="Segoe UI">Làm sao mà đuổi theo bọn chúng được đây?</font>
+
+98
+00:11:28,150 --> 00:11:29,030
+<font face="Segoe UI">Ơ.</font>
+
+99
+00:11:31,900 --> 00:11:33,900
+<font face="Segoe UI"><i>Chết tiệt! Chết tiệt!</i></font>
+
+100
+00:11:34,490 --> 00:11:35,370
+<font face="Segoe UI"><i>Sợ vãi đái!</i></font>
+
+101
+00:11:35,950 --> 00:11:40,370
+<font face="Segoe UI"><i>Mình đã quá coi thường Lớp A rồi.
+Quái vật kiểu quái gì thế này?!</i></font>
+
+102
+00:11:40,910 --> 00:11:42,160
+<font face="Segoe UI"><i>Mình không muốn chết đâu!</i></font>
+
+103
+00:11:42,160 --> 00:11:43,120
+<font face="Segoe UI">Á!</font>
+
+104
+00:11:43,120 --> 00:11:44,540
+<font face="Segoe UI">Hả?! "Á" là sao?</font>
+
+105
+00:11:46,960 --> 00:11:49,630
+<font face="Segoe UI">Chế độ khẩn cấp của Tank Chair.</font>
+
+106
+00:11:54,590 --> 00:11:55,630
+<font face="Segoe UI">"Bánh Lăn Caster".</font>
+
+107
+00:11:58,050 --> 00:12:00,470
+<font face="Segoe UI">Anh... nặng như quỷ vậy...!</font>
+
+108
+00:12:00,930 --> 00:12:04,060
+<font face="Segoe UI">Em vừa bảo muốn giúp anh mà đúng không?
+Nào nào, đẩy đi, đẩy mạnh lên!</font>
+
+109
+00:12:05,640 --> 00:12:09,520
+<font face="Segoe UI">Cái đồ... đáng ghét...</font>
+
+110
+00:12:37,220 --> 00:12:38,220
+<font face="Segoe UI">Anh buồn ngủ rồi à?</font>
+
+111
+00:12:39,510 --> 00:12:40,470
+<font face="Segoe UI">Cũng gần như vậy...</font>
+
+112
+00:12:43,390 --> 00:12:46,140
+<font face="Segoe UI">Đến cả Lớp C mà chúng cũng huy động,</font>
+
+113
+00:12:46,980 --> 00:12:48,820
+<font face="Segoe UI">thì khả năng cao là</font>
+
+114
+00:12:49,640 --> 00:12:52,310
+<font face="Segoe UI">mọi lối thoát khỏi Đảo Quỷ Thành
+đều đã bị phong tỏa giám sát.</font>
+
+115
+00:12:54,520 --> 00:12:56,650
+<font face="Segoe UI">Xem ra chúng ta bị kẹt cứng trên hòn đảo này rồi...</font>
+
+116
+00:13:09,250 --> 00:13:10,540
+<font face="Segoe UI">Được rồi, anh chịu thua em rồi.</font>
+
+117
+00:13:12,830 --> 00:13:14,750
+<font face="Segoe UI">Chúng ta sẽ nghênh chiến với Học viện.
+À không...</font>
+
+118
+00:13:16,300 --> 00:13:17,720
+<font face="Segoe UI">Chúng ta sẽ đối đầu với Thầy.</font>
+
+119
+00:13:19,170 --> 00:13:20,050
+<font face="Segoe UI">Shizuka,</font>
+
+120
+00:13:21,550 --> 00:13:22,590
+<font face="Segoe UI">anh trông cậy cả vào em đấy.</font>
+
+121
+00:13:36,110 --> 00:13:37,570
+<font face="Segoe UI">Dù nói vậy,</font>
+
+122
+00:13:38,490 --> 00:13:40,780
+<font face="Segoe UI">nhưng nếu đối đầu trực diện
+thì chúng ta không có lấy một phần trăm cơ hội nào đâu.</font>
+
+123
+00:13:41,530 --> 00:13:43,030
+<font face="Segoe UI">Chắc chắn chúng ta sẽ bị giết.</font>
+
+124
+00:13:43,700 --> 00:13:44,660
+<font face="Segoe UI">Vậy chúng ta phải làm gì đây anh?</font>
+
+125
+00:13:47,830 --> 00:13:49,830
+<font face="Segoe UI">Hãy hoàn thiện "No Mark".</font>
+
+126
+00:13:50,540 --> 00:13:53,210
+<font face="Segoe UI">Nếu còn bất kỳ tia hy vọng nào để đánh bại Thầy,</font>
+
+127
+00:13:54,380 --> 00:13:55,550
+<font face="Segoe UI">thì đó là cơ hội duy nhất của chúng ta.</font>
+
+128
+00:13:58,130 --> 00:14:00,760
+<font face="Segoe UI">Em hiểu rồi. Vậy tức là...</font>
+
+129
+00:14:01,130 --> 00:14:02,010
+<font face="Segoe UI">Ừ.</font>
+
+130
+00:14:04,550 --> 00:14:06,590
+<font face="Segoe UI">Chúng ta phải đi gặp...</font>
+
+131
+00:14:08,470 --> 00:14:10,720
+<font face="Segoe UI">người thiết kế ra Tank Chair, Tiến sĩ Radio.</font>
+
+132
+00:14:44,590 --> 00:14:45,630
+<font face="Segoe UI"><i>Về đi.</i></font>
+
+133
+00:14:46,800 --> 00:14:49,300
+<font face="Segoe UI">Thôi nào, đừng có lạnh lùng thế chứ.</font>
+
+134
+00:14:49,310 --> 00:14:51,770
+<font face="Segoe UI">KHU KIGAI, ĐẢO QUỶ THÀNH (GUICHENG)</font>
+
+135
+00:14:51,770 --> 00:14:55,610
+<font face="Segoe UI">Bọn cháu đã lặn lội tới tận đây rồi.
+Mở cửa cho bọn cháu vào đi.</font>
+
+136
+00:14:55,600 --> 00:14:57,940
+<font face="Segoe UI">Tắt hết bẫy rập các thứ đi đã.</font>
+
+137
+00:14:59,650 --> 00:15:03,400
+<font face="Segoe UI">Chuyện này quan trọng lắm.
+Bọn cháu muốn nói chuyện trực tiếp với bác.</font>
+
+138
+00:15:03,950 --> 00:15:05,160
+<font face="Segoe UI"><i>Xin kiếu nhé.</i></font>
+
+139
+00:15:05,490 --> 00:15:08,490
+<font face="Segoe UI"><i>Ta sẽ không tiếp tay cho việc
+khai chiến với Học viện đâu.</i></font>
+
+140
+00:15:08,700 --> 00:15:10,240
+<font face="Segoe UI"><i>Làm vậy là tự sát đấy!</i></font>
+
+141
+00:15:10,990 --> 00:15:14,660
+<font face="Segoe UI">Bác vẫn nhanh nhạy như ngày nào nhỉ, Tiến sĩ Radio.</font>
+
+142
+00:15:17,670 --> 00:15:21,630
+<font face="Segoe UI"><i>Ta có mắt tai ở khắp Đảo Quỷ Thành này.</i></font>
+
+143
+00:15:22,630 --> 00:15:25,420
+<font face="Segoe UI"><i>Ta thừa biết lý do hai đứa mò tới đây.</i></font>
+
+144
+00:15:26,510 --> 00:15:30,770
+<font face="Segoe UI"><i>Đừng có làm trò ngu ngốc.
+Mau tìm chỗ nào mà trốn đi.</i></font>
+
+145
+00:15:35,100 --> 00:15:38,270
+<font face="Segoe UI">Vâng, cháu biết ngay mà...</font>
+
+146
+00:15:47,530 --> 00:15:48,620
+<font face="Segoe UI"><i>Như vậy là tốt nhất cho chúng nó.</i></font>
+
+147
+00:15:49,370 --> 00:15:54,630
+<font face="Segoe UI"><i>Làm thế này thì cơ hội sống sót của chúng sẽ cao hơn.</i></font>
+
+148
+00:16:05,880 --> 00:16:06,710
+<font face="Segoe UI">GIẾT</font>
+
+149
+00:16:11,930 --> 00:16:12,810
+<font face="Segoe UI"><i>Hửm?</i></font>
+
+150
+00:16:16,140 --> 00:16:16,850
+<font face="Segoe UI"><i>Cái gì?!</i></font>
+
+151
+00:16:25,280 --> 00:16:27,660
+<font face="Segoe UI">Tank Chair Mark VI.</font>
+
+152
+00:16:28,820 --> 00:16:29,860
+<font face="Segoe UI">{\an8}\"Tốc Độ Mach\".</font>
+
+153
+00:16:29,860 --> 00:16:31,320
+<font face="Segoe UI">{\an8}TANK CHAIR MARK VI: \"TỐC ĐỘ MACH\"</font>
+
+154
+00:16:31,570 --> 00:16:34,870
+<font face="Segoe UI"><i>Mark VI á?! Không thể nào...</i></font>
+
+155
+00:16:35,200 --> 00:16:38,620
+<font face="Segoe UI">Bọn cháu biết thừa bác sẽ từ chối,
+nên đã chuẩn bị sẵn từ trước rồi.</font>
+
+156
+00:16:38,620 --> 00:16:40,250
+<font face="Segoe UI">Con bé đã đánh thức cháu dậy...</font>
+
+157
+00:16:40,670 --> 00:16:42,710
+<font face="Segoe UI">Xin phép xông vào nhé!</font>
+
+158
+00:16:42,710 --> 00:16:43,710
+<font face="Segoe UI"><i>Này! Dừng lại ngay!</i></font>
+
+159
+00:16:44,750 --> 00:16:46,130
+<font face="Segoe UI"><i>Lũ ngốc này!</i></font>
+
+160
+00:16:58,810 --> 00:17:00,980
+<font face="Segoe UI">Tháp radio cũ nằm ở phía trước
+ba cây số nữa.</font>
+
+161
+00:17:01,520 --> 00:17:02,900
+<font face="Segoe UI">Rõ rồi.</font>
+
+162
+00:17:40,770 --> 00:17:43,480
+<font face="Segoe UI">KẺ XÂM NHẬP
+ĐÁNH CHẶN VÀ TIÊU DIỆT</font>
+
+163
+00:17:49,530 --> 00:17:51,620
+<font face="Segoe UI">Bọn chúng tới rồi kìa!</font>
+
+164
+00:18:12,680 --> 00:18:13,560
+<font face="Segoe UI">Ồ?</font>
+
+165
+00:18:15,300 --> 00:18:16,430
+<font face="Segoe UI">Hả? Có chuyện gì thế anh?</font>
+
+166
+00:18:38,030 --> 00:18:39,320
+<font face="Segoe UI">Shizuka! Đi đường nào?</font>
+
+167
+00:18:40,500 --> 00:18:41,380
+<font face="Segoe UI">TUYẾN ĐƯỜNG KHÔNG KHUYẾN NGHỊ</font>
+
+168
+00:18:42,750 --> 00:18:43,880
+<font face="Segoe UI">Lao vào đó đi!</font>
+
+169
+00:18:44,960 --> 00:18:45,840
+<font face="Segoe UI">Vâng!</font>
+
+170
+00:19:07,190 --> 00:19:09,940
+<font face="Segoe UI">ĐI QUA ĐƯỜNG HẦM ĐỂ TỚI CHỖ
+TIẾN SĨ RADIO.</font>
+
+171
+00:19:10,320 --> 00:19:13,490
+<font face="Segoe UI">Chúng ta chỉ cần đi thẳng
+và sẽ tới được nơi thôi...</font>
+
+172
+00:19:14,280 --> 00:19:15,160
+<font face="Segoe UI">Hả?</font>
+
+173
+00:19:33,380 --> 00:19:36,340
+<font face="Segoe UI">Trời đất, tài bắn súng của em đúng là tệ hại thật đấy!</font>
+
+174
+00:19:36,510 --> 00:19:38,010
+<font face="Segoe UI">Này, lũ quái quỷ này là sao thế?</font>
+
+175
+00:19:38,470 --> 00:19:40,060
+<font face="Segoe UI">Anh có chắc bọn mình đang đi đúng đường không?</font>
+
+176
+00:19:40,600 --> 00:19:43,100
+<font face="Segoe UI">Trước đây chúng không có ở đây.</font>
+
+177
+00:19:43,770 --> 00:19:47,070
+<font face="Segoe UI">Chắc là \"hệ thống an ninh\" mới
+của Tiến sĩ Radio rồi.</font>
+
+178
+00:19:47,600 --> 00:19:50,350
+<font face="Segoe UI">Tính nết lão già đó vẫn quái đản như mọi khi!</font>
+
+179
+00:19:52,110 --> 00:19:58,070
+<font face="Segoe UI"><i>Hừ. Ta chỉ đang tái chế đống rác rưởi
+dám bén mảng vào sân nhà ta thôi.</i></font>
+
+180
+00:19:58,620 --> 00:20:01,540
+<font face="Segoe UI"><i>Ta chưa bao giờ để lãng phí một cái xác nào cả.</i></font>
+
+181
+00:20:06,410 --> 00:20:07,290
+<font face="Segoe UI">Tệ rồi.</font>
+
+182
+00:20:08,460 --> 00:20:10,130
+<font face="Segoe UI">Anh Nagi, nhanh hơn nữa đi!</font>
+
+183
+00:20:10,420 --> 00:20:11,960
+<font face="Segoe UI">Khoan đã! Phía trước còn cả một bầy nhung nhúc kìa!</font>
+
+184
+00:20:12,670 --> 00:20:14,210
+<font face="Segoe UI">Ghê tởm quá!</font>
+
+185
+00:20:16,630 --> 00:20:18,090
+<font face="Segoe UI">- Bám chắc vào!
+- Dạ?</font>
+
+186
+00:20:40,280 --> 00:20:43,030
+<font face="Segoe UI">- C... Cổ của em...
+- Mới thế mà đã kêu à?</font>
+
+187
+00:20:44,160 --> 00:20:48,120
+<font face="Segoe UI">Em đâu có như anh, em chỉ là người bình thường thôi đấy!</font>
+
+188
+00:20:53,500 --> 00:20:57,420
+<font face="Segoe UI">{\an8}TRUNG TÂM PHÁT THANH SỐ 3 ĐẢO QUỶ THÀNH</font>
+
+189
+00:21:01,010 --> 00:21:02,300
+<font face="Segoe UI">D... Dù sao thì</font>
+
+190
+00:21:02,720 --> 00:21:04,140
+<font face="Segoe UI">chúng ta cũng may mắn tới được nơi rồi!</font>
+
+191
+00:21:11,100 --> 00:21:12,350
+<font face="Segoe UI">Bọn chúng không chịu bỏ cuộc đâu.</font>
+
+192
+00:21:21,570 --> 00:21:24,200
+<font face="Segoe UI">Bác ghét gặp bọn cháu
+đến mức đó cơ à?</font>
+
+193
+00:21:24,830 --> 00:21:25,710
+<font face="Segoe UI">Anh Nagi!</font>
+
+194
+00:21:26,490 --> 00:21:27,490
+<font face="Segoe UI">Anh biết rồi.</font>
+
+195
+00:21:55,150 --> 00:21:58,610
+<font face="Segoe UI">B... Bọn cháu tới rồi đây.</font>
+
+196
+00:22:11,250 --> 00:22:12,170
+<font face="Segoe UI">Chậc.</font>
+
+197
+00:22:17,460 --> 00:22:18,880
+<font face="Segoe UI">Đúng là một đôi ngốc xít.</font>
+
+198
+00:23:58,020 --> 00:24:01,020
+<font face="Segoe UI">{\an8}PHỤ ĐỀ TIẾNG VIỆT BỞI PHAMTIN147</font>
+
