@@ -1,0 +1,1158 @@
+﻿1
+00:00:29,140 --> 00:00:30,240
+<font face="Segoe UI" size="26">Ủa?</font>
+
+2
+00:00:30,930 --> 00:00:32,880
+<font face="Segoe UI" size="26">Cửa mở sẵn rồi kìa.</font>
+
+3
+00:00:32,050 --> 00:00:35,260
+<font face="Segoe UI" size="26">Lão già kia, ông chẳng hiểu chuyện gì cả.</font>
+
+4
+00:00:35,260 --> 00:00:37,660
+<font face="Segoe UI" size="26">Tôi đâu có bảo ông phải bố thí không công cho tôi.</font>
+
+5
+00:00:37,660 --> 00:00:40,230
+<font face="Segoe UI" size="26">Tôi bảo ông hãy bán thanh kiếm đó cho tôi cơ mà.</font>
+
+6
+00:00:40,230 --> 00:00:42,840
+<font face="Segoe UI" size="26">Ta không có bất kỳ thứ vũ khí nào để bán cho cô nhóc cả.</font>
+
+7
+00:00:42,340 --> 00:00:43,880
+<font face="Segoe UI" size="26">{\an8}Nghe chừng tình hình căng thẳng rồi đây.</font>
+
+8
+00:00:42,840 --> 00:00:45,230
+<font face="Segoe UI" size="26">Huống hồ, thanh kiếm này là tác phẩm do khách hàng đặt làm riêng.</font>
+
+9
+00:00:43,880 --> 00:00:44,710
+<font face="Segoe UI" size="26">{\an8}Dạ vâng.</font>
+
+10
+00:00:46,210 --> 00:00:47,530
+<font face="Segoe UI" size="26">Bác có sao không ạ, bác Veruga?</font>
+
+11
+00:00:47,530 --> 00:00:50,220
+<font face="Segoe UI" size="26">Ta chịu hết nổi rồi đấy, Ma Kiếm Sĩ.</font>
+
+12
+00:00:50,220 --> 00:00:53,070
+<font face="Segoe UI" size="26">Ồ? Cậu là khách đặt làm thanh kiếm đó đấy à?</font>
+
+13
+00:00:56,510 --> 00:00:58,760
+<font face="Segoe UI" size="26">Tôi đang tự hỏi không biết vị khách đó là ai đây.</font>
+
+14
+00:00:58,760 --> 00:01:04,120
+<font face="Segoe UI" size="26">Lão già, ông cất công rèn một thanh Ngân Kiếm
+cho cái tên trông ẻo lả yếu nhớt này sao?</font>
+
+15
+00:01:01,540 --> 00:01:04,120
+<font face="Segoe UI" size="26"><i>{\an8}Mình nghe thấy tiếng cô ta, nhưng lại chẳng thấy bóng dáng đâu cả.</i></font>
+
+16
+00:01:04,120 --> 00:01:07,550
+<font face="Segoe UI" size="26">Lẽ nào ông túng thiếu tiền bạc
+đến mức mất trí rồi hả Veruga?</font>
+
+17
+00:01:07,550 --> 00:01:08,550
+<font face="Segoe UI" size="26"><i>Cô ta đang dùng kỹ năng ẩn thân sao?</i></font>
+
+18
+00:01:08,550 --> 00:01:10,770
+<font face="Segoe UI" size="26">Anh Elymas, nhìn xuống dưới kìa anh!</font>
+
+19
+00:01:11,180 --> 00:01:12,570
+<font face="Segoe UI" size="26">Ở dưới chân anh kìa!</font>
+
+20
+00:01:18,030 --> 00:01:22,480
+<font face="Segoe UI" size="26">Này thằng khốn kia. Mày đang cười cợt chế giễu tao đấy à?</font>
+
+21
+00:01:22,480 --> 00:01:25,820
+<font face="Segoe UI" size="26">C-Con nhóc này bị làm sao thế không biết?</font>
+
+22
+00:02:58,160 --> 00:03:02,620
+<font face="Segoe UI" size="20"><b><font face="Segoe UI">{\an7}<font color="#fdfcfe"><font size="18">Tập 20\h\h\h\h\hMa Kiếm Sĩ Hilde</font></font></font></b></font>
+
+23
+00:02:58,660 --> 00:03:03,120
+<font face="Segoe UI" size="26">{\an8}Này thằng khốn kia. Mày đang cười cợt chế giễu tao đấy à?</font>
+
+24
+00:03:03,120 --> 00:03:05,370
+<font face="Segoe UI" size="26">Nếu có lời nào muốn sủa
+thì phọt ra lẹ đi.</font>
+
+25
+00:03:05,840 --> 00:03:09,300
+<font face="Segoe UI" size="26">Trẻ con à? Không, cô ta đã sở hữu chức nghiệp.</font>
+
+26
+00:03:09,300 --> 00:03:11,550
+<font face="Segoe UI" size="26">Nếu đã trải qua nghi thức chúc phúc rồi,
+vậy là năm nay mười lăm tuổi sao?</font>
+
+27
+00:03:11,550 --> 00:03:13,100
+<font face="Segoe UI" size="26">Tôi mười bảy tuổi rồi đấy.</font>
+
+28
+00:03:14,100 --> 00:03:15,750
+<font face="Segoe UI" size="26"><i>Cô ta còn lớn tuổi hơn mình á? Đùa nhau chắc.</i></font>
+
+29
+00:03:15,750 --> 00:03:18,220
+<font face="Segoe UI" size="26">Trông cậu có vẻ chẳng mảy may ấn tượng gì về tôi nhỉ.</font>
+
+30
+00:03:18,530 --> 00:03:24,230
+<font face="Segoe UI" size="26">Thế cậu đã từng nghe danh Ma Kiếm Sĩ
+được xưng tụng là Hắc Diệm Kiếm chưa?</font>
+
+31
+00:03:27,170 --> 00:03:30,730
+<font face="Segoe UI" size="26"><i>Mình từng nghe qua biệt danh đó
+khi thu thập thông tin ở Lacoryna.</i></font>
+
+32
+00:03:31,260 --> 00:03:32,720
+<font face="Segoe UI" size="26"><i>Hắc Diệm Kiếm.</i></font>
+
+33
+00:03:33,170 --> 00:03:38,700
+<font face="Segoe UI" size="26"><i>Đó là một trong số ít những mạo hiểm giả
+hạng A hiếm hoi tại Lacoryna.</i></font>
+
+34
+00:03:42,390 --> 00:03:48,870
+<font face="Segoe UI" size="26">Thật ra thì, tôi chính là truyền nhân của
+mạo hiểm giả lừng danh Hắc Diệm Kiếm đó...</font>
+
+35
+00:03:51,120 --> 00:03:54,000
+<font face="Segoe UI" size="26">...là đại đệ tử xuất sắc nhất của ngài ấy đấy!</font>
+
+36
+00:03:58,630 --> 00:04:02,220
+<font face="Segoe UI" size="26">R-Ra vậy. Nghe quả thực rất oách.</font>
+
+37
+00:04:03,180 --> 00:04:06,380
+<font face="Segoe UI" size="26">Chính chủ thanh kiếm đã xuất hiện thì nói chuyện
+cho nhanh gọn vậy.</font>
+
+38
+00:04:06,380 --> 00:04:09,760
+<font face="Segoe UI" size="26">Chắc chắn cậu sẽ dễ nói chuyện hơn
+lão già bảo thủ kia nhiều.</font>
+
+39
+00:04:10,780 --> 00:04:13,470
+<font face="Segoe UI" size="26">Tôi chỉ muốn nói đúng một điều thôi.</font>
+
+40
+00:04:13,830 --> 00:04:16,070
+<font face="Segoe UI" size="26">Hãy bán thanh Ngân Kiếm đó cho tôi.</font>
+
+41
+00:04:16,380 --> 00:04:20,860
+<font face="Segoe UI" size="26">Không. Tôi thuê bác ấy rèn nó
+vì chính tôi đang cần dùng.</font>
+
+42
+00:04:20,860 --> 00:04:23,490
+<font face="Segoe UI" size="26">Nghĩ lại đi nào, Trọng Kỵ Sĩ.</font>
+
+43
+00:04:23,490 --> 00:04:29,240
+<font face="Segoe UI" size="26">Một chức nghiệp khiếm khuyết như cậu
+cầm thanh kiếm đó cũng chẳng có ích gì đâu.</font>
+
+44
+00:04:29,240 --> 00:04:32,100
+<font face="Segoe UI" size="26">Cậu nghĩ mình làm được trò trống gì
+với một thanh kiếm xịn chứ?</font>
+
+45
+00:04:32,100 --> 00:04:34,500
+<font face="Segoe UI" size="26">Cậu đúng là chẳng hiểu quy luật của thế giới này gì cả.</font>
+
+46
+00:04:34,780 --> 00:04:37,650
+<font face="Segoe UI" size="26">Tôi đâu có bảo cậu bán rẻ mạt cho tôi đâu.</font>
+
+47
+00:04:37,650 --> 00:04:40,510
+<font face="Segoe UI" size="26">Ba mươi triệu vàng chắc là đủ rồi chứ.</font>
+
+48
+00:04:40,840 --> 00:04:44,100
+<font face="Segoe UI" size="26">Chừng đó chắc hẳn là số tiền
+lớn hơn sức tưởng tượng của cậu nhiều đấy.</font>
+
+49
+00:04:44,100 --> 00:04:45,510
+<font face="Segoe UI" size="26">Tôi đã nói là không rồi mà.</font>
+
+50
+00:04:45,890 --> 00:04:48,520
+<font face="Segoe UI" size="26">Chỉ vỏn vẹn ba mươi triệu thôi thì chưa đủ đâu.</font>
+
+51
+00:04:49,570 --> 00:04:55,780
+<font face="Segoe UI" size="26">N-Này nhóc. Con bé kia trông thì giống nhãi ranh thật,
+nhưng thực lực của nó là hàng thật đấy.</font>
+
+52
+00:04:55,780 --> 00:04:57,030
+<font face="Segoe UI" size="26">Lão già thối tha kia, ông vừa lầm bầm cái gì thế hả?</font>
+
+53
+00:04:57,340 --> 00:05:02,010
+<font face="Segoe UI" size="26">Nó là mạo hiểm giả hạng B và đang giữ kỷ lục
+săn đơn Chúa Tể Mộng Cảnh đấy.</font>
+
+54
+00:05:03,110 --> 00:05:04,530
+<font face="Segoe UI" size="26">Ừ-Ừm, cũng đúng là thế thật.</font>
+
+55
+00:05:05,110 --> 00:05:09,480
+<font face="Segoe UI" size="26">Cơ mà cái nết của nó thối như cứt,
+nên tốt nhất cậu đừng có chọc giận nó.</font>
+
+56
+00:05:09,480 --> 00:05:10,500
+<font face="Segoe UI" size="26">Này lão kia!</font>
+
+57
+00:05:10,790 --> 00:05:16,380
+<font face="Segoe UI" size="26">Cháu tưởng bác từ chối nhận việc
+vì bác ghét hạng người như cô ta chứ.</font>
+
+58
+00:05:16,690 --> 00:05:18,950
+<font face="Segoe UI" size="26">Chà, cháu cũng chả ưa nổi cô ta đâu.</font>
+
+59
+00:05:18,950 --> 00:05:20,470
+<font face="Segoe UI" size="26">Tôi không có hứng thú thương lượng.</font>
+
+60
+00:05:20,470 --> 00:05:21,380
+<font face="Segoe UI" size="26">Này!</font>
+
+61
+00:05:21,380 --> 00:05:26,480
+<font face="Segoe UI" size="26">Thân già này chuẩn bị sẵn tâm lý gánh hậu quả rồi,
+nhưng hai đứa còn trẻ.</font>
+
+62
+00:05:26,480 --> 00:05:29,820
+<font face="Segoe UI" size="26">Đừng có tự chuốc thêm kẻ thù phiền phức
+trong Hội nếu không cần thiết.</font>
+
+63
+00:05:29,820 --> 00:05:32,140
+<font face="Segoe UI" size="26">Cứ để lão này tự giải quyết.</font>
+
+64
+00:05:32,140 --> 00:05:33,900
+<font face="Segoe UI" size="26"><i>Xem ra ông bác này bên trong cũng mềm lòng ghê nhỉ.</i></font>
+
+65
+00:05:34,200 --> 00:05:36,020
+<font face="Segoe UI" size="26">Bác đừng lo cho tụi cháu.</font>
+
+66
+00:05:36,020 --> 00:05:37,880
+<font face="Segoe UI" size="26">Tụi cháu là mạo hiểm giả mà.</font>
+
+67
+00:05:37,880 --> 00:05:41,280
+<font face="Segoe UI" size="26">Cùng lắm nếu có chuyện,
+tụi cháu chuyển sang thành phố khác là xong.</font>
+
+68
+00:05:42,520 --> 00:05:45,490
+<font face="Segoe UI" size="26">Hơn nữa cháu cũng không nghĩ mình yếu hơn cô ta đâu.</font>
+
+69
+00:06:02,520 --> 00:06:05,220
+<font face="Segoe UI" size="26">Ồ? Phản xạ cũng khá phết nhỉ.</font>
+
+70
+00:06:05,220 --> 00:06:07,900
+<font face="Segoe UI" size="26">Nhưng chỉ số của cậu thảm hại quá đấy.</font>
+
+71
+00:06:07,900 --> 00:06:10,340
+<font face="Segoe UI" size="26">Đúng là giới hạn của Trọng Kỵ Sĩ có khác.</font>
+
+72
+00:06:10,340 --> 00:06:15,410
+<font face="Segoe UI" size="26">Cậu may mắn đấy. Nếu tôi mà cáu thêm chút nữa,
+tôi đã lấy mạng cậu luôn rồi.</font>
+
+73
+00:06:15,410 --> 00:06:18,480
+<font face="Segoe UI" size="26">Vung vẩy thứ vũ khí quá tầm với
+sẽ chẳng cứu nổi cậu khỏi cái chết đâu.</font>
+
+74
+00:06:19,290 --> 00:06:21,990
+<font face="Segoe UI" size="26">Giờ thì mau bán thanh kiếm cho tôi đi.</font>
+
+75
+00:06:21,990 --> 00:06:24,800
+<font face="Segoe UI" size="26">A-Anh Elymas, anh có sao không ạ?</font>
+
+76
+00:06:24,800 --> 00:06:28,620
+<font face="Segoe UI" size="26">C-C-Cô định làm cái quái gì thế hả?!</font>
+
+77
+00:06:28,620 --> 00:06:32,250
+<font face="Segoe UI" size="26">Tôi chỉ vừa cho hắn nếm thử xem hắn yếu ớt tới mức nào thôi.</font>
+
+78
+00:06:32,610 --> 00:06:36,380
+<font face="Segoe UI" size="26">Đánh úp bất ngờ đâu có chứng minh được
+cô mạnh hơn tôi.</font>
+
+79
+00:06:36,380 --> 00:06:37,080
+<font face="Segoe UI" size="26">Cái gì cơ?</font>
+
+80
+00:06:37,400 --> 00:06:40,560
+<font face="Segoe UI" size="26">Thế sao hả? Muốn quyết đấu tay đôi không?</font>
+
+81
+00:06:40,560 --> 00:06:45,130
+<font face="Segoe UI" size="26">Nếu cậu dám đem thanh Ngân Kiếm kia ra đặt cược,
+tôi sẵn sàng tiếp chiêu cậu đấy.</font>
+
+82
+00:06:45,130 --> 00:06:47,090
+<font face="Segoe UI" size="26">Vậy cô định đặt cược cái gì?</font>
+
+83
+00:06:47,770 --> 00:06:50,600
+<font face="Segoe UI" size="26">Làm gì có chuyện <i>tôi</i> thua nổi chứ,</font>
+
+84
+00:06:50,880 --> 00:06:54,980
+<font face="Segoe UI" size="26">nhưng nếu thua, tôi sẽ từ bỏ thanh kiếm đó
+và trả cho cậu đúng bằng giá thị trường của nó.</font>
+
+85
+00:06:55,280 --> 00:06:59,110
+<font face="Segoe UI" size="26">Thế nào? Giờ cậu hết cớ
+để thoái thác rồi nhé.</font>
+
+86
+00:06:59,110 --> 00:07:01,500
+<font face="Segoe UI" size="26">Đừng có dại dột nhận lời nó, nhóc ơi.</font>
+
+87
+00:07:01,500 --> 00:07:04,860
+<font face="Segoe UI" size="26">Ma Kiếm Sĩ cực kỳ thiện chiến
+trong các trận solo một chọi một.</font>
+
+88
+00:07:04,860 --> 00:07:09,070
+<font face="Segoe UI" size="26">Đấu tay đôi với nó
+thì chẳng công bằng với cậu chút nào đâu.</font>
+
+89
+00:07:10,630 --> 00:07:14,870
+<font face="Segoe UI" size="26">Cô chấp nhận điều kiện đó chứ?
+Vậy thì tôi vui vẻ nhận lời.</font>
+
+90
+00:07:17,290 --> 00:07:19,910
+<font face="Segoe UI" size="26">K-Không ổn chút nào đâu anh ơi.</font>
+
+91
+00:07:19,910 --> 00:07:22,300
+<font face="Segoe UI" size="26">Cô ta là Ma Kiếm Sĩ hạng B đấy.</font>
+
+92
+00:07:22,300 --> 00:07:26,300
+<font face="Segoe UI" size="26">Ngay cả em còn biết bọn họ là những kẻ vô đối khi quyết đấu mà.</font>
+
+93
+00:07:26,610 --> 00:07:31,190
+<font face="Segoe UI" size="26">Vốn dĩ anh định xử lý chuyện này khéo léo hơn,
+nhưng tự dưng thấy hơi nóng máu rồi đấy.</font>
+
+94
+00:07:31,190 --> 00:07:32,310
+<font face="Segoe UI" size="26">Anh Elymas?</font>
+
+95
+00:07:32,310 --> 00:07:35,900
+<font face="Segoe UI" size="26">Tự dưng có 30.000.000 vàng dâng tận miệng
+thì dại gì mà anh để tuột mất.</font>
+
+96
+00:07:35,900 --> 00:07:38,560
+<font face="Segoe UI" size="26">Chắc anh phải dạy cho cô một bài học nhớ đời mới được,
+Hilde ạ.</font>
+
+97
+00:07:38,560 --> 00:07:41,090
+<font face="Segoe UI" size="26">Cậu ngu ngốc thế này đúng là may cho tôi quá.</font>
+
+98
+00:07:41,090 --> 00:07:45,840
+<font face="Segoe UI" size="26">Tôi sẽ gọi nhân viên hội tới làm chứng trận đấu
+để cậu khỏi giở trò chuồn lẹ.</font>
+
+99
+00:07:45,840 --> 00:07:47,570
+<font face="Segoe UI" size="26">Cậu đừng có mà hối hận đấy nhé.</font>
+
+100
+00:08:02,570 --> 00:08:05,490
+<font face="Segoe UI" size="26"><i>Chắc Hilde sắp quay lại rồi.</i></font>
+
+101
+00:08:08,550 --> 00:08:10,020
+<font face="Segoe UI" size="26">Khiên Sinh Mệnh!</font>
+
+102
+00:08:08,970 --> 00:08:10,470
+<font face="Segoe UI" size="20"><font color="#fee768"><b>{\an8}Khiên Sinh Mệnh <font size="13"><font color="#e6eef0">[Kỹ Năng Chung]
+ Tiêu hao 20% HP tối đa để kích hoạt
+ Tạo lớp khiên bao bọc người thi triển
+với độ bền bằng lượng HP đã mất</font></font></b></font></font>
+
+103
+00:08:13,990 --> 00:08:17,980
+<font face="Segoe UI" size="26">Này nhóc, cậu đang làm trò gì vậy?</font>
+
+104
+00:08:17,980 --> 00:08:22,480
+<font face="Segoe UI" size="26">Kích hoạt rồi lại tự giải trừ kỹ năng
+thì có tác dụng khỉ gì đâu?</font>
+
+105
+00:08:22,780 --> 00:08:24,260
+<font face="Segoe UI" size="26">Ta chẳng hiểu mô tê gì hết.</font>
+
+106
+00:08:24,730 --> 00:08:26,310
+<font face="Segoe UI" size="26">Cháu đang căn chỉnh lượng HP của mình ạ.</font>
+
+107
+00:08:26,310 --> 00:08:27,990
+<font face="Segoe UI" size="26">Nghe thế ta lại càng mù tịt hơn.</font>
+
+108
+00:08:28,420 --> 00:08:30,990
+<font face="Segoe UI" size="26">Anh Elymas, liệu anh có thắng nổi cô ta không?</font>
+
+109
+00:08:31,240 --> 00:08:35,160
+<font face="Segoe UI" size="26">Anh định trông cậy vào Long Nộ Tử Nhãn
+để giành chiến thắng trận đấu này đúng không ạ?</font>
+
+110
+00:08:36,250 --> 00:08:40,460
+<font face="Segoe UI" size="26">Em không nghĩ Xả Bỏ Phòng Ngự
+sẽ giúp ích được gì trong kèo này đâu.</font>
+
+111
+00:08:40,460 --> 00:08:41,500
+<font face="Segoe UI" size="26">Em nói đúng đấy.</font>
+
+112
+00:08:43,070 --> 00:08:45,040
+<font face="Segoe UI" size="26">Xả Bỏ Phòng Ngự!</font>
+
+113
+00:08:57,520 --> 00:09:03,080
+<font face="Segoe UI" size="26">Sức tấn công tăng gấp sáu lần chẳng bõ bèn gì
+so với lượng sát thương phải gánh thêm đâu.</font>
+
+114
+00:09:03,740 --> 00:09:08,000
+<font face="Segoe UI" size="26">Tự hạ Phòng Ngự về không trước đối thủ
+có đòn đánh tầm xa</font>
+
+115
+00:09:07,150 --> 00:09:11,030
+<font face="Segoe UI" size="20"><b><font color="#d7f5fc">Phòng Ngự 0</font></b></font>
+
+116
+00:09:08,000 --> 00:09:10,150
+<font face="Segoe UI" size="26">thì đúng là tự sát không hơn không kém.</font>
+
+117
+00:09:11,520 --> 00:09:15,030
+<font face="Segoe UI" size="26">Ma Kiếm Sĩ thậm chí còn là đối thủ khó nhằn hơn
+cả Đại Kiếm Sư nữa cơ.</font>
+
+118
+00:09:15,570 --> 00:09:18,040
+<font face="Segoe UI" size="26">Bên cạnh khả năng bộc phát sức mạnh
+và kiếm kỹ,</font>
+
+119
+00:09:18,390 --> 00:09:21,430
+<font face="Segoe UI" size="26">họ còn sở hữu ma pháp tầm xa
+vô cùng thực dụng.</font>
+
+120
+00:09:24,540 --> 00:09:28,060
+<font face="Segoe UI" size="26">Giờ chuồn vẫn chưa muộn đâu nhóc.</font>
+
+121
+00:09:28,060 --> 00:09:29,700
+<font face="Segoe UI" size="26">Tất nhiên, tôi vẫn có cách để giành chiến thắng.</font>
+
+122
+00:09:30,500 --> 00:09:33,400
+<font face="Segoe UI" size="26">Dù bản thân tôi cũng không thích lối chơi hơi hèn hạ này cho lắm,</font>
+
+123
+00:09:33,400 --> 00:09:36,050
+<font face="Segoe UI" size="26">nhưng Ma Kiếm Sĩ thường mắc một thói quen
+suy nghĩ khá phiến diện.</font>
+
+124
+00:09:36,050 --> 00:09:39,310
+<font face="Segoe UI" size="26">N-Nụ cười đó nhìn gian tà quá anh ơi.</font>
+
+125
+00:09:43,020 --> 00:09:45,610
+<font face="Segoe UI" size="26">Tôi dẫn người tới rồi đây, Trọng Kỵ Sĩ!</font>
+
+126
+00:09:46,430 --> 00:09:49,150
+<font face="Segoe UI" size="26">Cậu mà dám giở trò gì với thanh kiếm của tôi
+thì biết tay tôi đấy!</font>
+
+127
+00:09:50,490 --> 00:09:53,910
+<font face="Segoe UI" size="26">Tôi bị lôi xềnh xệch tới đây vì nghe bảo
+cần xử lý một \"tên Trọng Kỵ Sĩ láo xược\".</font>
+
+128
+00:09:53,910 --> 00:09:58,500
+<font face="Segoe UI" size="26">Tôi biết ngay thế nào cũng là hai người mà,
+anh Elymas và cô Ruche.</font>
+
+129
+00:10:08,250 --> 00:10:10,930
+<font face="Segoe UI" size="26">Bắt đầu thôi nào, Trọng Kỵ Sĩ.</font>
+
+130
+00:10:13,430 --> 00:10:15,920
+<font face="Segoe UI" size="26"><i>Ma Kiếm Sĩ đối đầu Trọng Kỵ Sĩ.</i></font>
+
+131
+00:10:16,690 --> 00:10:19,140
+<font face="Segoe UI" size="26"><i>Đây là kèo đấu khắc chế mình tệ nhất trong một trận quyết đấu.</i></font>
+
+132
+00:10:19,140 --> 00:10:22,060
+<font face="Segoe UI" size="26"><i>Nếu đánh tầm xa, cô ta sẽ rỉa sạch HP của mình
+bằng ma pháp.</i></font>
+
+133
+00:10:22,060 --> 00:10:24,630
+<font face="Segoe UI" size="26"><i>Còn nếu mình áp sát, cô ta sẽ chém gục mình
+bằng kiếm kỹ.</i></font>
+
+134
+00:10:26,420 --> 00:10:30,360
+<font face="Segoe UI" size="26"><i>Thế nhưng Ma Kiếm Sĩ vốn dĩ mang
+một lối tư duy khá phiến diện.</i></font>
+
+135
+00:10:30,920 --> 00:10:34,660
+<font face="Segoe UI" size="26"><i>Và khả năng cao Hilde mắc bệnh này rất nặng.</i></font>
+
+136
+00:10:47,710 --> 00:10:51,670
+<font face="Segoe UI" size="26">Cô làm chứng ơi, trước khi bắt đầu
+tôi muốn xác nhận một chuyện.</font>
+
+137
+00:10:51,670 --> 00:10:53,650
+<font face="Segoe UI" size="26">Có chuyện gì thế, anh Elymas?</font>
+
+138
+00:10:53,650 --> 00:10:57,050
+<font face="Segoe UI" size="26">Vì tụi tôi sẽ giao đấu bằng kỹ năng,
+nên trường hợp xấu nhất hoàn toàn có thể xảy ra.</font>
+
+139
+00:10:57,740 --> 00:11:00,510
+<font face="Segoe UI" size="26">Lỡ như đánh nhau đến mức bị thương hoặc mất mạng thì sao?</font>
+
+140
+00:11:01,390 --> 00:11:06,200
+<font face="Segoe UI" size="26">Hai bên đều đã lường trước rủi ro đó
+khi chấp nhận lời quyết đấu rồi.</font>
+
+141
+00:11:06,200 --> 00:11:09,770
+<font face="Segoe UI" size="26">Đó là quy tắc ngầm mà chúng tôi luôn hiểu rõ
+mỗi khi đứng ra làm nhân chứng.</font>
+
+142
+00:11:09,770 --> 00:11:12,540
+<font face="Segoe UI" size="26">Nếu anh cảm thấy bất an,
+vậy chúng ta hủy trận đấu nhé?</font>
+
+143
+00:11:12,540 --> 00:11:15,410
+<font face="Segoe UI" size="26">Không, cô xác nhận rõ như vậy là tôi yên tâm rồi.</font>
+
+144
+00:11:15,410 --> 00:11:17,660
+<font face="Segoe UI" size="26">Bắt đầu thôi nào, Hilde.</font>
+
+145
+00:11:18,870 --> 00:11:21,200
+<font face="Segoe UI" size="26">Cậu đang định khiêu khích tôi đấy à?</font>
+
+146
+00:11:21,200 --> 00:11:23,500
+<font face="Segoe UI" size="26">Thích thế thì tôi chiều cậu luôn.</font>
+
+147
+00:11:28,210 --> 00:11:30,130
+<font face="Segoe UI" size="26"><i>Khoảng cách giữa hai bên khá xa.</i></font>
+
+148
+00:11:30,130 --> 00:11:32,880
+<font face="Segoe UI" size="26"><i>Cũng dễ hiểu thôi vì cô ta là
+chức nghiệp thiên về thi triển phép thuật.</i></font>
+
+149
+00:11:35,870 --> 00:11:38,390
+<font face="Segoe UI" size="26">Bắt đầu!</font>
+
+150
+00:11:43,130 --> 00:11:44,650
+<font face="Segoe UI" size="26">Khiên Sinh Mệnh!</font>
+
+151
+00:11:43,350 --> 00:11:45,310
+<font face="Segoe UI" size="20"><font face="Segoe UI"><b><font color="#34fffd">Khiên Sinh Mệnh</font></b></font></font>
+
+152
+00:12:23,550 --> 00:12:26,140
+<font face="Segoe UI" size="26">Cái gì thế kia? Kỹ năng quái dị gì vậy?</font>
+
+153
+00:12:42,280 --> 00:12:47,300
+<font face="Segoe UI" size="26">A-Anh vừa mới bảo kỹ năng đó
+quá nguy hiểm để dùng khi quyết đấu mà!</font>
+
+154
+00:12:48,120 --> 00:12:50,170
+<font face="Segoe UI" size="20"><b><font color="#9d7f85">Xả Bỏ Phòng Ngự <font size="13"><font color="#e6eef0">[Kỹ Năng Chung]
+ Chỉ dùng được khi HP dưới 50%
+ Giảm Phòng Ngự về 0 và
+tăng Công kích bằng lượng Phòng Ngự đã mất
+ Tiêu hao MP khi duy trì</font></font></font></b></font>
+
+155
+00:12:51,150 --> 00:12:53,080
+<font face="Segoe UI" size="26"><i>Lại thêm một kỹ năng bí ẩn nữa.</i></font>
+
+156
+00:12:53,410 --> 00:12:56,560
+<font face="Segoe UI" size="26"><i>Cộng thêm phản ứng hoảng hốt của con bé kia nữa.</i></font>
+
+157
+00:12:57,880 --> 00:12:59,050
+<font face="Segoe UI" size="26"><i>Tạm thời cứ...</i></font>
+
+158
+00:13:15,230 --> 00:13:17,320
+<font face="Segoe UI" size="26"><i>giữ khoảng cách quan sát hành động của hắn xem sao.</i></font>
+
+159
+00:13:57,220 --> 00:14:00,210
+<font face="Segoe UI" size="26">Được rồi, trông ổn phết đấy.</font>
+
+160
+00:14:04,670 --> 00:14:06,300
+<font face="Segoe UI" size="26">Khoan, khoan, khoan đã!</font>
+
+161
+00:14:06,300 --> 00:14:08,840
+<font face="Segoe UI" size="26">T-Tạm dừng! Hủy trận quyết đấu mau!</font>
+
+162
+00:14:09,290 --> 00:14:10,620
+<font face="Segoe UI" size="26">Dừng lại!</font>
+
+163
+00:14:10,940 --> 00:14:11,870
+<font face="Segoe UI" size="26">Dừng lại đi mà!</font>
+
+164
+00:14:11,870 --> 00:14:13,950
+<font face="Segoe UI" size="26">Tôi buông vũ khí rồi đây này!</font>
+
+165
+00:14:13,950 --> 00:14:15,330
+<font face="Segoe UI" size="26">Cậu bị điếc hay sao thế hả?!</font>
+
+166
+00:14:15,330 --> 00:14:16,880
+<font face="Segoe UI" size="26">Dừng lại, dừng lại ngay!</font>
+
+167
+00:14:17,460 --> 00:14:19,390
+<font face="Segoe UI" size="26">Làm ơn đấy, dừng lại đi!</font>
+
+168
+00:14:20,160 --> 00:14:23,380
+<font face="Segoe UI" size="26">T-Tôi bỏ cuộc! Tôi đầu hàng!</font>
+
+169
+00:14:23,380 --> 00:14:26,390
+<font face="Segoe UI" size="26">Tôi nhận thua! Tôi thua rồi được chưa?!</font>
+
+170
+00:14:27,230 --> 00:14:31,960
+<font face="Segoe UI" size="26"><i>Ma Kiếm Sĩ luôn có xu hướng
+đánh đấm quá đỗi an toàn.</i></font>
+
+171
+00:14:32,820 --> 00:14:38,430
+<font face="Segoe UI" size="26"><i>Vì độ bền thấp mà lại phụ thuộc vào các kỹ năng
+hỏa lực cao kèm tác dụng phụ đánh đổi,</i></font>
+
+172
+00:14:38,880 --> 00:14:42,900
+<font face="Segoe UI" size="26"><i>nên Ma Kiếm Sĩ rất dễ mất mạng
+nếu bị kéo vào cuộc chiến giằng co quá lâu.</i></font>
+
+173
+00:14:42,900 --> 00:14:47,410
+<font face="Segoe UI" size="26"><i>Mình biết chắc chắn cô ta sẽ đầu hàng
+nếu mình cứ áp sát uy hiếp như thế.</i></font>
+
+174
+00:14:48,710 --> 00:14:50,630
+<font face="Segoe UI" size="26">Tuyên bố người thắng cuộc đi chứ.</font>
+
+175
+00:14:50,630 --> 00:14:51,910
+<font face="Segoe UI" size="26">V-Vâng ạ.</font>
+
+176
+00:14:52,220 --> 00:14:55,100
+<font face="Segoe UI" size="26">Ng-Người chiến thắng là anh Elymas!</font>
+
+177
+00:14:58,180 --> 00:15:00,480
+<font face="Segoe UI" size="26">K-Không đời nào có chuyện đó!</font>
+
+178
+00:15:00,480 --> 00:15:02,670
+<font face="Segoe UI" size="26">Tôi chỉ vừa mới bảo tạm hoãn trận đấu thôi mà!</font>
+
+179
+00:15:03,010 --> 00:15:07,260
+<font face="Segoe UI" size="26">Tôi buột miệng nói đầu hàng chỉ tại vì
+cậu cứ sấn tới không chịu dừng đấy chứ!</font>
+
+180
+00:15:07,260 --> 00:15:09,220
+<font face="Segoe UI" size="26">Dù sao đi nữa, chính miệng cô cũng đã thốt ra rồi.</font>
+
+181
+00:15:09,540 --> 00:15:16,240
+<font face="Segoe UI" size="26">Cô Hilde, Hội Mạo Hiểm Giả không công nhận
+việc đổi ý giữa chừng</font>
+
+182
+00:15:16,240 --> 00:15:21,230
+<font face="Segoe UI" size="26">chỉ vì choáng ngợp trước kỹ năng của đối thủ
+là lý do chính đáng để hủy bỏ quyết đấu.</font>
+
+183
+00:15:21,600 --> 00:15:23,860
+<font face="Segoe UI" size="26">Vì chính cô đã gọi tôi tới làm nhân chứng,</font>
+
+184
+00:15:23,860 --> 00:15:28,760
+<font face="Segoe UI" size="26">Hội sẽ áp dụng biện pháp chế tài thích đáng
+nếu cô không tuân thủ đúng quy định.</font>
+
+185
+00:15:28,760 --> 00:15:31,660
+<font face="Segoe UI" size="26">T-Tôi biết rồi mà.</font>
+
+186
+00:15:31,660 --> 00:15:36,330
+<font face="Segoe UI" size="26">Tôi đâu phải loại keo kiệt bủn xỉn.
+Có đời nào tôi lại lật kèo nuốt lời chứ.</font>
+
+187
+00:15:36,660 --> 00:15:40,500
+<font face="Segoe UI" size="26">Nghe này, Elymas. Là do tôi tự hủy trận đấu.</font>
+
+188
+00:15:40,820 --> 00:15:45,510
+<font face="Segoe UI" size="26">Xét theo tình hình đó, liệu cậu có chịu
+chấp nhận mức 20.000.000 vàng không?</font>
+
+189
+00:15:47,770 --> 00:15:50,260
+<font face="Segoe UI" size="26">Quả thực 30.000.000 vàng hơi bị chát quá.</font>
+
+190
+00:15:50,720 --> 00:15:51,760
+<font face="Segoe UI" size="26">Không.</font>
+
+191
+00:15:51,760 --> 00:15:55,390
+<font face="Segoe UI" size="26">Ki bo kiệt sỉ ghê. Mà công nhận cũng hiểu được phần nào.</font>
+
+192
+00:15:55,660 --> 00:16:00,400
+<font face="Segoe UI" size="26">T-Tôi chỉ đang thực sự rất cần một món vũ khí
+xứng tầm với cấp độ của mình thôi.</font>
+
+193
+00:16:00,760 --> 00:16:03,050
+<font face="Segoe UI" size="26">Sự trưởng thành của một mạo hiểm giả cấp cao</font>
+
+194
+00:16:03,050 --> 00:16:07,150
+<font face="Segoe UI" size="26">cũng góp phần bảo vệ thành phố và
+giảm thiểu thiệt hại do quái vật gây ra mà.</font>
+
+195
+00:16:07,150 --> 00:16:10,280
+<font face="Segoe UI" size="26">Tôi xin nhận lỗi vì phương pháp của mình sai trái.</font>
+
+196
+00:16:10,280 --> 00:16:12,990
+<font face="Segoe UI" size="26">Tôi hứa sẽ không bao giờ làm chuyện như vậy nữa đâu.</font>
+
+197
+00:16:13,340 --> 00:16:14,640
+<font face="Segoe UI" size="26">Miễn là cô đã hiểu ra điều đó.</font>
+
+198
+00:16:15,830 --> 00:16:19,500
+<font face="Segoe UI" size="26">V-Vậy cậu có bằng lòng nhận lấy
+20.000.000 vàng không?</font>
+
+199
+00:16:19,960 --> 00:16:21,000
+<font face="Segoe UI" size="26">Không.</font>
+
+200
+00:16:25,970 --> 00:16:28,190
+<font face="Segoe UI" size="26">N-Nghe này, chàng trai.</font>
+
+201
+00:16:30,220 --> 00:16:33,440
+<font face="Segoe UI" size="26">Lúc nãy ta còn hơi lưỡng lự chưa tiện nói ra,</font>
+
+202
+00:16:33,440 --> 00:16:38,000
+<font face="Segoe UI" size="26">nhưng giá thị trường của thanh kiếm này
+không phải là 30.000.000 vàng đâu.</font>
+
+203
+00:16:39,270 --> 00:16:40,790
+<font face="Segoe UI" size="26">Thật sao bác?</font>
+
+204
+00:16:40,790 --> 00:16:43,360
+<font face="Segoe UI" size="26">Hóa ra là hàng giả à?</font>
+
+205
+00:16:44,700 --> 00:16:48,860
+<font face="Segoe UI" size="26">Tôi đã cược đúng bằng giá thị trường của thanh kiếm đó.</font>
+
+206
+00:16:50,100 --> 00:16:52,370
+<font face="Segoe UI" size="26">Làm tôi hú vía cả buổi nãy giờ.</font>
+
+207
+00:16:52,370 --> 00:16:56,370
+<font face="Segoe UI" size="26">Hai đứa tự nhìn đi thì biết.</font>
+
+208
+00:16:56,580 --> 00:17:09,380
+<font face="Segoe UI" size="20"><b><font color="#723644">{\an7}Ngân Kiếm <font size="13"><font color="#d5feff">Cấp độ đề xuất: 70
+ Sức tấn công: +46
+ Giá thị trường: 51.500.000G
+ Một thanh ma kiếm tỏa sáng rực rỡ với ma lực
+ Đã được khảm Cổ Tự Hủy Diệt</font></font></font></b></font>
+
+209
+00:16:57,030 --> 00:16:58,370
+<font face="Segoe UI" size="26"><i>[Hệ thống] Ngân Kiếm.</i></font>
+
+210
+00:16:58,370 --> 00:17:00,870
+<font face="Segoe UI" size="26"><i>[Hệ thống] Sức tấn công: +46.</i></font>
+
+211
+00:17:00,870 --> 00:17:04,090
+<font face="Segoe UI" size="26"><i>[Hệ thống] Giá thị trường: 51.500.000 vàng.</i></font>
+
+212
+00:17:04,090 --> 00:17:07,010
+<font face="Segoe UI" size="26"><i>[Hệ thống] Một thanh ma kiếm tỏa sáng rực rỡ
+với nguồn ma lực dồi dào.</i></font>
+
+213
+00:17:07,010 --> 00:17:09,380
+<font face="Segoe UI" size="26"><i>[Hệ thống] Đã được khảm Cổ Tự Hủy Diệt.</i></font>
+
+214
+00:17:10,230 --> 00:17:14,640
+<font face="Segoe UI" size="26">N-N-Năm mươi mốt triệu vàng cơ á?!</font>
+
+215
+00:17:14,640 --> 00:17:18,150
+<font face="Segoe UI" size="26">À phải rồi. Mình quên tính luôn cả giá trị
+của viên cổ tự khảm vào nữa.</font>
+
+216
+00:17:18,150 --> 00:17:20,190
+<font face="Segoe UI" size="26">Đoảng quá đi mất.</font>
+
+217
+00:17:20,190 --> 00:17:21,020
+<font face="Segoe UI" size="26">Hilde này.</font>
+
+218
+00:17:21,020 --> 00:17:24,690
+<font face="Segoe UI" size="26">Giá thị trường của nó là 51.500.000 vàng đấy.</font>
+
+219
+00:17:25,060 --> 00:17:28,030
+<font face="Segoe UI" size="26">Mẹ kiếp chứ! Tôi đào đâu ra số tiền đó!</font>
+
+220
+00:17:28,470 --> 00:17:31,400
+<font face="Segoe UI" size="26">Đừng có ép người quá đáng thế chứ!</font>
+
+221
+00:17:31,670 --> 00:17:35,910
+<font face="Segoe UI" size="26">Làm ơn đi mà! Ít nhất cũng giảm xuống còn
+40.000.000 vàng giùm tôi đi!</font>
+
+222
+00:17:35,910 --> 00:17:39,910
+<font face="Segoe UI" size="26">Cô chọn một kiểu thôi được không,
+hoặc là gào thét, hoặc là cúi đầu xin xỏ?</font>
+
+223
+00:17:36,350 --> 00:17:39,910
+<font face="Segoe UI" size="26">{\an8}Xin tha mạng, tha cho tôi đi!</font>
+
+224
+00:17:40,300 --> 00:17:43,260
+<font face="Segoe UI" size="26">{\an8}Xin tha mạng, làm ơn đấy!</font>
+
+225
+00:17:40,480 --> 00:17:43,930
+<font face="Segoe UI" size="26">T-Tự dưng em thấy hơi tội nghiệp cho chị ta rồi đấy.</font>
+
+226
+00:17:43,930 --> 00:17:45,170
+<font face="Segoe UI" size="26">Anh cũng thấy vậy.</font>
+
+227
+00:17:45,490 --> 00:17:50,920
+<font face="Segoe UI" size="26">Nói thật là lý do lớn nhất để tôi nhận lời quyết đấu
+là để dạy cho cô một bài học.</font>
+
+228
+00:17:46,070 --> 00:17:50,920
+<font face="Segoe UI" size="26">{\an8}Xin rủ lòng thương!</font>
+
+229
+00:17:52,290 --> 00:17:56,040
+<font face="Segoe UI" size="26">Tôi sẽ giảm giá cho cô 1.500.000 vàng
+và nhận chẵn 50.000.000 vàng vậy.</font>
+
+230
+00:18:12,990 --> 00:18:17,580
+<font face="Segoe UI" size="26">Chúng tôi có cung cấp gói vay dành cho mạo hiểm giả hạng B đấy ạ.</font>
+
+231
+00:19:05,330 --> 00:19:06,890
+<font face="Segoe UI" size="26">Phải anh Elymas đấy không ạ?</font>
+
+232
+00:19:06,890 --> 00:19:13,090
+<font face="Segoe UI" size="26">Anh vừa nhận được khoản thanh toán 50.000.000 vàng
+từ cô Hilde cho trận quyết đấu vừa qua.</font>
+
+233
+00:19:13,450 --> 00:19:15,360
+<font face="Segoe UI" size="26">Cô ta xoay sở được đống tiền đó thật luôn á?</font>
+
+234
+00:19:15,360 --> 00:19:17,390
+<font face="Segoe UI" size="26">Mới trôi qua có hai ngày thôi đấy.</font>
+
+235
+00:19:17,690 --> 00:19:21,260
+<font face="Segoe UI" size="26">Chúng tôi quen xử lý mấy vụ tranh chấp
+giữa các mạo hiểm giả rồi mà.</font>
+
+236
+00:19:21,660 --> 00:19:24,120
+<font face="Segoe UI" size="26">Chỉ cần phía Hội thấy hợp tình hợp lý...</font>
+
+237
+00:19:25,530 --> 00:19:29,150
+<font face="Segoe UI" size="26">B-Bốn mươi triệu—không, bốn lăm triệu thì sao?</font>
+
+238
+00:19:31,150 --> 00:19:35,400
+<font face="Segoe UI" size="26">Đ-Được rồi, năm mươi triệu!
+Tôi trả đủ năm mươi triệu là được chứ gì!</font>
+
+239
+00:19:40,330 --> 00:19:42,950
+<font face="Segoe UI" size="26">Đứng lại kia, cái lũ khốn nạn này!</font>
+
+240
+00:19:42,950 --> 00:19:47,210
+<font face="Segoe UI" size="26">Mau trả lại 50.000.000 vàng
+mà chúng mày đã cuỗm mất của tao đây!</font>
+
+241
+00:19:51,220 --> 00:19:53,640
+<font face="Segoe UI" size="26">Hiểu rồi. Xem ra cô đã phải bán cả vũ khí đi nhỉ.</font>
+
+242
+00:19:53,640 --> 00:19:54,880
+<font face="Segoe UI" size="26">Chạy lẹ đi, Ruche!</font>
+
+243
+00:19:54,880 --> 00:19:55,670
+<font face="Segoe UI" size="26">Vâng ạ!</font>
+
+244
+00:19:57,640 --> 00:19:58,680
+<font face="Segoe UI" size="26">Đừng hòng chạy thoát!</font>
+
+245
+00:20:05,230 --> 00:20:06,230
+<font face="Segoe UI" size="26">Hilde.</font>
+
+246
+00:20:16,890 --> 00:20:19,200
+<font face="Segoe UI" size="26">Đó là Trọng Kỵ Sĩ sao?</font>
+
+247
+00:20:31,380 --> 00:20:34,320
+<font face="Segoe UI" size="26"><i>Khí chất này, uy áp bức người này.</i></font>
+
+248
+00:20:39,010 --> 00:20:44,010
+<font face="Segoe UI" size="26"><i>Đây đích thị là Hắc Diệm Kiếm
+hàng thật giá thật rồi.</i></font>
+
+249
+00:20:49,880 --> 00:20:52,020
+<font face="Segoe UI" size="26">Chính là bọn chúng đấy, Sư phụ!</font>
+
+250
+00:20:52,390 --> 00:20:56,920
+<font face="Segoe UI" size="26">Chúng đã giở thủ đoạn bỉ ổi
+để lột sạch tiền của con!</font>
+
+251
+00:21:03,790 --> 00:21:04,920
+<font face="Segoe UI" size="26"><i>Biết ngay mà.</i></font>
+
+252
+00:21:06,550 --> 00:21:08,130
+<font face="Segoe UI" size="26">Chức nghiệp của ta là Ma Kiếm Sĩ.</font>
+
+253
+00:21:09,090 --> 00:21:11,320
+<font face="Segoe UI" size="26">Ta là mạo hiểm giả hạng A.
+Tên ta là Carlos.</font>
+
+254
+00:21:12,600 --> 00:21:16,710
+<font face="Segoe UI" size="26">Ta rất muốn được gặp cậu một lần
+sau khi nghe Hilde kể lại mọi chuyện.</font>
+
+255
+00:21:21,800 --> 00:21:23,720
+<font face="Segoe UI" size="26">Trọng Kỵ Sĩ Elymas.</font>
+
+256
+00:21:49,950 --> 00:21:56,590
+<font face="Segoe UI" size="20">{\an9}<font size="15"><b><font color="#ebeaed">Phụ đề Việt ngữ:
+Amtia(NOFACE)
+
+<font size="15">Dịch thuật & Biên tập:
+Amtia(NOFACE)
+
+<font size="15">Hiệu đính & QC:
+Amtia(NOFACE)</font></font></font></b></font></font>
+
+257
+00:23:11,450 --> 00:23:15,800
+<font face="Segoe UI" size="26"><i>Ma Kiếm Sĩ Carlos đã bất ngờ
+xuất hiện trước mặt tụi mình.</i></font>
+
+258
+00:23:15,800 --> 00:23:19,760
+<font face="Segoe UI" size="26"><i>Ông ấy là sư phụ của Hilde và là một trong những
+mạo hiểm giả hạng A ở Lacoryna.</i></font>
+
+259
+00:23:20,380 --> 00:23:22,800
+<font face="Segoe UI" size="26"><i>Ông ấy còn nổi danh với biệt hiệu
+Hắc Diệm Kiếm.</i></font>
+
+260
+00:23:23,750 --> 00:23:27,820
+<font face="Segoe UI" size="26"><i>Ban đầu mình cứ ngỡ Carlos tìm đến là vì chuyện của Hilde,</i></font>
+
+261
+00:23:27,820 --> 00:23:32,520
+<font face="Segoe UI" size="26"><i>nhưng thực chất ông ấy lại mang đến một đề nghị
+quan trọng hơn nhiều: một ủy thác không thể chối từ.</i></font>
+
+262
+00:23:33,190 --> 00:23:35,440
+<font face="Segoe UI" size="26"><i>Tập tiếp theo, "Hắc Diệm Kiếm".</i></font>
+
+263
+00:23:35,980 --> 00:23:38,860
+<font face="Segoe UI" size="26"><i>Trận chiến lớn nhất từ trước tới nay của tụi mình sắp sửa mở màn.</i></font>
+

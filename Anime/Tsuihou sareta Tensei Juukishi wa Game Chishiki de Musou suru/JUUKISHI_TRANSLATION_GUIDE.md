@@ -17,7 +17,10 @@
   - **No Defense Spared**: Xả Bỏ Phòng Ngự (tuyệt kỹ đánh đổi phòng thủ lấy sát thương chí mạng của Trọng Kỵ Sĩ)
   - **Fang of Smoldering Insanity**: Nanh Cuồng Loạn Âm Ỉ
   - **Blacksteel equipment**: Trang bị Hắc Thiết
+  - **Mythril Sword**: Ngân Kiếm / Kiếm Ma Ngân
+  - **Rune of Destruction**: Cổ Tự Hủy Diệt
   - **Life Shield**: Khiên Sinh Mệnh
+  - **Dragonrage Deathgaze**: Long Nộ Tử Nhãn
   - **Multi-hit Acrobatics**: Liên Hoàn Nhào Lộn
   - **Death Needle**: Tử Châm
   - **Upsetter (Title)**: Danh hiệu Kẻ Lật Kèo
@@ -28,16 +31,26 @@
 - **Elymas Edvaughn** (Nam chính, Trọng Kỵ Sĩ cấp D):
   - Nội tâm (`ELYMAS/ID`, `ELYMAS/NA`): Xưng *mình*.
   - Với Ruche: Xưng *anh*, gọi *Ruche / em* (điềm đạm, ân cần, đáng tin cậy).
+  - Với Veruga: Xưng *cháu*, gọi *bác Veruga / bác* (kính trọng bậc trưởng bối).
+  - Với Hilde: Xưng *tôi*, gọi *cô / Hilde* (giữ phong thái điềm tĩnh, dạy dỗ kẻ ngạo mạn).
   - Với Matilda & Hailenn: Xưng *tôi / chúng tôi*, gọi *cô / Hội trưởng Hailenn / ngài* (lịch thiệp, giữ phong thái quý tộc nhưng thận trọng).
 - **Ruche** (Nữ chính đồng hành, Pierrot cấp D):
   - Với Elymas: Xưng *em*, gọi *anh Elymas* (ngưỡng mộ, lễ phép, đôi lúc hoảng loạn đáng yêu vì vận may rớt đồ hiếm quá khủng).
-  - Với Matilda: Xưng *tôi / bọn tôi*, gọi *cô*.
+  - Với Matilda & Hilde: Xưng *tôi / bọn tôi*, gọi *cô / chị ta*.
+- **Veruga** (Thợ rèn bậc thầy):
+  - Xưng *ta*, gọi Elymas là *nhóc / chàng trai*, gọi Hilde là *cô nhóc*. Tính tình cộc cằn nhưng mềm lòng, trọng chữ tín.
+- **Hilde** (Nữ Ma Kiếm Sĩ hạng B, 17 tuổi, đệ tử của Hắc Diệm Kiếm):
+  - Kiêu ngạo, nóng tính, nhạy cảm về chiều cao thấp bé.
+  - Bình thường xưng *tôi*, gọi *cậu / lão già (Veruga)*. Khi nổi cáu hoặc la hét chuyển sang *tao - mày*. Khi khuất phục/xin giảm nợ chuyển sang cầu xin hoảng loạn (*tôi / xin tha mạng*). Với sư phụ Carlos xưng *con*, gọi *Sư phụ*.
+- **Carlos (Blackened Flameblade / Hắc Diệm Kiếm)** (Nam Ma Kiếm Sĩ hạng A, sư phụ của Hilde):
+  - Phong thái cao thủ chững chạc. Xưng *ta*, gọi Elymas là *cậu / Trọng Kỵ Sĩ Elymas*.
 - **Hailenn Howlrodde** (Nữ Hội trưởng Hội Mạo Hiểm Giả Lacoryna, thuộc phân gia Howlrodde):
   - Phong thái quyền lực, sắc sảo, nhìn thấu tâm can người đối diện.
   - Xưng *ta*, gọi Elymas và Ruche là *các ngươi / hai ngươi / cậu nhóc*.
 - **Matilda** (Lễ tân Hội Mạo Hiểm Giả Lacoryna):
   - Điệu bộ kiêu căng với mạo hiểm giả tỉnh lẻ nhưng lập tức niềm nở khi thấy giao dịch 10 triệu vàng.
-  - Với Elymas & Ruche: Xưng *tôi / chúng tôi*, gọi *hai người / quý khách*.
+  - Với Elymas & Ruche: Xưng *tôi*, gọi *anh Elymas / cô Ruche / hai người*.
+  - Với Hilde: Xưng *tôi*, gọi *cô Hilde* (đúng mực công vụ Hội).
   - Với Hailenn: Xưng *tôi*, gọi *tiểu thư Hailenn / Hội trưởng*.
 - **Giọng Hệ thống (SYSTEM VOICE)**: Trang trọng, chuẩn thông báo RPG.
 
