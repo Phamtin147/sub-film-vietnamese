@@ -403,28 +403,28 @@ Dialogue: 0,0:21:54.30,0:21:56.97,Default,Nag,0,0,0,,Chuyện dài dòng lắm..
 Dialogue: 0,0:21:58.18,0:22:02.31,Default,Sun,0,0,0,,Tao nghĩ là bọn chúng đang hiểu lầm tai hại trầm trọng rồi.
 Dialogue: 0,0:22:02.31,0:22:03.51,Default,Oka,0,0,0,,Có vẻ là vậy đấy.
 Dialogue: 0,0:22:05.81,0:22:09.77,Signs,,0,0,0,,{\fad(400,0)\4c&H000000&\shad3\pos(1459.999969,840)\bord0.75\3c&H000000&\blur0.5}Còn tiếp
-Dialogue: 0,0:22:18.70,0:22:26.20,ED Romaji,,0,0,0,,{\be1}Tôi từng ngắm nhìn những áng mây bồng bềnh trôi.
-Dialogue: 0,0:22:18.70,0:22:26.20,ED English,,0,0,0,,{\be1}{\kf24}mi{\kf32}tsu{\kf23}me{\kf23}te {\kf19}i{\kf137}ta {\kf29}na{\kf28}ga{\kf21}re{\kf69}ru {\kf60}ku{\kf61}mo {\kf230}wo
-Dialogue: 0,0:22:26.20,0:22:33.25,ED Romaji,,0,0,0,,{\be1\fad(0,250)}Từng cảm nhận sắc màu bầu trời đang dần chuyển mình.
-Dialogue: 0,0:22:26.20,0:22:33.25,ED English,,0,0,0,,{\be1\fad(0,250)}{\kf40}ka{\kf11}n{\kf24}ji{\kf21}te {\kf30}i{\kf135}ta {\kf28}ka{\kf23}wa{\kf19}ru {\kf68}so{\kf63}ra {\kf37}no {\kf45}i{\kf26}ro {\kf130}wo
-Dialogue: 0,0:22:33.75,0:22:41.30,ED Romaji,,0,0,0,,{\be1}Khi dừng bước, chúng ta mới nhận ra
-Dialogue: 0,0:22:33.75,0:22:41.30,ED English,,0,0,0,,{\be1}{\kf25}ta{\kf31}chi {\kf20}to{\kf27}ma{\kf21}t{\kf142}ta {\kf22}bo{\kf23}ku{\kf26}ra {\kf66}wa {\kf63}ki{\kf59}zu{\kf229}ku
-Dialogue: 0,0:22:41.30,0:22:48.39,ED Romaji,,0,0,0,,{\be1}khúc ca mà thế giới đang chuyển dời thêu dệt nên.
-Dialogue: 0,0:22:41.30,0:22:48.39,ED English,,0,0,0,,{\be1}{\kf24}u{\kf32}tsu{\kf25}ro{\kf21}i {\kf20}yu{\kf143}ku {\kf24}se{\kf25}ka{\kf23}i {\kf65}ga {\kf73}tsu{\kf26}mu{\kf49}gu {\kf18}u{\kf32}ta {\kf113}ni
-Dialogue: 0,0:22:48.39,0:22:55.69,ED Romaji,,0,0,0,,{\be1}Tựa như vươn những ngón tay để lần tìm,
-Dialogue: 0,0:22:48.39,0:22:55.69,ED English,,0,0,0,,{\be1}{\kf91}no{\kf35}ba{\kf38}shi{\kf139}ta {\kf48}yu{\kf25}bi {\kf44}de {\kf29}ta{\kf90}gu{\kf24}ru {\kf44}yo{\kf24}u {\kf98}ni
-Dialogue: 0,0:22:55.69,0:23:04.33,ED Romaji,,0,0,0,,{\be1}tôi tìm kiếm một điều duy nhất chẳng hề đổi thay.
-Dialogue: 0,0:22:55.69,0:23:04.33,ED English,,0,0,0,,{\be1}{\kf26}ta{\kf92}da {\kf34}hi{\kf38}to{\kf87}tsu {\kf55}ka{\kf44}wa{\kf23}ra{\kf48}na{\kf29}i {\kf44}mo{\kf47}no {\kf22}sa{\kf95}ga{\kf177}su
-Dialogue: 0,0:23:04.37,0:23:11.92,ED Romaji,,0,0,0,,{\be1\fad(250,0)}Hãy thắp sáng ngọn đuốc trên bàn tay em đang giơ cao.
-Dialogue: 0,0:23:04.37,0:23:11.92,ED English,,0,0,0,,{\be1\fad(250,0)}{\kf59}ka{\kf41}za{\kf74}su {\kf72}te {\kf138}ni {\kf46}to{\kf45}mo{\kf75}shi{\kf73}bi {\kf136}wo
-Dialogue: 0,0:23:11.92,0:23:19.47,ED Romaji,,0,0,0,,{\be1}Đó sẽ là dấu chỉ nhỏ nhoi dẫn lối tới ngày mai.
-Dialogue: 0,0:23:11.92,0:23:19.47,ED English,,0,0,0,,{\be1}{\kf46}a{\kf52}su {\kf72}he {\kf24}to {\kf46}tsu{\kf25}zu{\kf108}ku {\kf44}chi{\kf33}i{\kf26}sa{\kf61}na {\kf78}shi{\kf71}ru{\kf73}be
-Dialogue: 0,0:23:19.47,0:23:27.01,ED Romaji,,0,0,0,,{\be1}Những lời em từng nói vào ngày hôm ấy...
-Dialogue: 0,0:23:19.47,0:23:27.01,ED English,,0,0,0,,{\be1}{\kf44}i{\kf52}ma {\kf70}mo {\kf67}ma{\kf144}da {\kf45}ko{\kf46}da{\kf63}ma {\kf80}su{\kf140}ru
-Dialogue: 0,0:23:27.01,0:23:34.52,ED Romaji,,0,0,0,,{\be1}...vẫn còn vang vọng mãi, hãy cùng khắc ghi thành lời nguyện thề.
-Dialogue: 0,0:23:27.01,0:23:34.52,ED English,,0,0,0,,{\be1}{\kf48}a{\kf46}no {\kf70}hi {\kf27}no {\kf44}ko{\kf26}to{\kf104}ba {\kf51}chi{\kf30}ka{\kf27}i {\kf93}ni {\kf71}ka{\kf113}e
-Dialogue: 0,0:23:34.52,0:23:39.78,ED Romaji,,0,0,0,,{\be1}Tôi sẽ bước tiếp cùng lời thề ấy.
-Dialogue: 0,0:23:34.52,0:23:39.78,ED English,,0,0,0,,{\be1}{\kf42}bo{\kf34}ku {\kf18}wa {\kf166}yu{\kf266}ku
+Dialogue: 0,0:22:18.70,0:22:26.20,ED Romaji,,0,0,0,,{\be1}{\kf24}mi{\kf32}tsu{\kf23}me{\kf23}te {\kf19}i{\kf137}ta {\kf29}na{\kf28}ga{\kf21}re{\kf69}ru {\kf60}ku{\kf61}mo {\kf230}wo
+Dialogue: 0,0:22:18.70,0:22:26.20,ED English,,0,0,0,,{\be1}Tôi từng ngắm nhìn những áng mây bồng bềnh trôi.
+Dialogue: 0,0:22:26.20,0:22:33.25,ED Romaji,,0,0,0,,{\be1\fad(0,250)}{\kf40}ka{\kf11}n{\kf24}ji{\kf21}te {\kf30}i{\kf135}ta {\kf28}ka{\kf23}wa{\kf19}ru {\kf68}so{\kf63}ra {\kf37}no {\kf45}i{\kf26}ro {\kf130}wo
+Dialogue: 0,0:22:26.20,0:22:33.25,ED English,,0,0,0,,{\be1\fad(0,250)}Từng cảm nhận sắc màu bầu trời đang dần chuyển mình.
+Dialogue: 0,0:22:33.75,0:22:41.30,ED Romaji,,0,0,0,,{\be1}{\kf25}ta{\kf31}chi {\kf20}to{\kf27}ma{\kf21}t{\kf142}ta {\kf22}bo{\kf23}ku{\kf26}ra {\kf66}wa {\kf63}ki{\kf59}zu{\kf229}ku
+Dialogue: 0,0:22:33.75,0:22:41.30,ED English,,0,0,0,,{\be1}Khi dừng bước, chúng ta mới nhận ra
+Dialogue: 0,0:22:41.30,0:22:48.39,ED Romaji,,0,0,0,,{\be1}{\kf24}u{\kf32}tsu{\kf25}ro{\kf21}i {\kf20}yu{\kf143}ku {\kf24}se{\kf25}ka{\kf23}i {\kf65}ga {\kf73}tsu{\kf26}mu{\kf49}gu {\kf18}u{\kf32}ta {\kf113}ni
+Dialogue: 0,0:22:41.30,0:22:48.39,ED English,,0,0,0,,{\be1}khúc ca mà thế giới đang chuyển dời thêu dệt nên.
+Dialogue: 0,0:22:48.39,0:22:55.69,ED Romaji,,0,0,0,,{\be1}{\kf91}no{\kf35}ba{\kf38}shi{\kf139}ta {\kf48}yu{\kf25}bi {\kf44}de {\kf29}ta{\kf90}gu{\kf24}ru {\kf44}yo{\kf24}u {\kf98}ni
+Dialogue: 0,0:22:48.39,0:22:55.69,ED English,,0,0,0,,{\be1}Tựa như vươn những ngón tay để lần tìm,
+Dialogue: 0,0:22:55.69,0:23:04.33,ED Romaji,,0,0,0,,{\be1}{\kf26}ta{\kf92}da {\kf34}hi{\kf38}to{\kf87}tsu {\kf55}ka{\kf44}wa{\kf23}ra{\kf48}na{\kf29}i {\kf44}mo{\kf47}no {\kf22}sa{\kf95}ga{\kf177}su
+Dialogue: 0,0:22:55.69,0:23:04.33,ED English,,0,0,0,,{\be1}tôi tìm kiếm một điều duy nhất chẳng hề đổi thay.
+Dialogue: 0,0:23:04.37,0:23:11.92,ED Romaji,,0,0,0,,{\be1\fad(250,0)}{\kf59}ka{\kf41}za{\kf74}su {\kf72}te {\kf138}ni {\kf46}to{\kf45}mo{\kf75}shi{\kf73}bi {\kf136}wo
+Dialogue: 0,0:23:04.37,0:23:11.92,ED English,,0,0,0,,{\be1\fad(250,0)}Hãy thắp sáng ngọn đuốc trên bàn tay em đang giơ cao.
+Dialogue: 0,0:23:11.92,0:23:19.47,ED Romaji,,0,0,0,,{\be1}{\kf46}a{\kf52}su {\kf72}he {\kf24}to {\kf46}tsu{\kf25}zu{\kf108}ku {\kf44}chi{\kf33}i{\kf26}sa{\kf61}na {\kf78}shi{\kf71}ru{\kf73}be
+Dialogue: 0,0:23:11.92,0:23:19.47,ED English,,0,0,0,,{\be1}Đó sẽ là dấu chỉ nhỏ nhoi dẫn lối tới ngày mai.
+Dialogue: 0,0:23:19.47,0:23:27.01,ED Romaji,,0,0,0,,{\be1}{\kf44}i{\kf52}ma {\kf70}mo {\kf67}ma{\kf144}da {\kf45}ko{\kf46}da{\kf63}ma {\kf80}su{\kf140}ru
+Dialogue: 0,0:23:19.47,0:23:27.01,ED English,,0,0,0,,{\be1}Những lời em từng nói vào ngày hôm ấy...
+Dialogue: 0,0:23:27.01,0:23:34.52,ED Romaji,,0,0,0,,{\be1}{\kf48}a{\kf46}no {\kf70}hi {\kf27}no {\kf44}ko{\kf26}to{\kf104}ba {\kf51}chi{\kf30}ka{\kf27}i {\kf93}ni {\kf71}ka{\kf113}e
+Dialogue: 0,0:23:27.01,0:23:34.52,ED English,,0,0,0,,{\be1}...vẫn còn vang vọng mãi, hãy cùng khắc ghi thành lời nguyện thề.
+Dialogue: 0,0:23:34.52,0:23:39.78,ED Romaji,,0,0,0,,{\be1}{\kf42}bo{\kf34}ku {\kf18}wa {\kf166}yu{\kf266}ku
+Dialogue: 0,0:23:34.52,0:23:39.78,ED English,,0,0,0,,{\be1}Tôi sẽ bước tiếp cùng lời thề ấy.
 Dialogue: 0,0:23:39.78,0:23:43.74,Signs,,0,0,0,,{\fs99.999996\fad(0,400)\4c&H000000&\shad3\pos(960,470.000015)\blur0.5\bord0.75\3c&H000000&}Xem trước tập sau
 Dialogue: 0,0:23:43.24,0:23:46.62,Default,Oka,0,0,0,,Anh trai cậu không biết chuyện gì đang xảy ra sao?
 Dialogue: 0,0:23:46.91,0:23:50.58,Default,Oka,0,0,0,,Dù có nằm viện thì anh ấy vẫn có thể gọi điện khuyên can Sudou và mọi người qua điện thoại mà?

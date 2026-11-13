@@ -1534,91 +1534,91 @@ dính líu đến đám người nguy hiểm như họ thế hả?</font>
 
 381
 00:22:18,700 --> 00:22:26,200
-<font face="Segoe UI" size="81"><b>{\an8}Tôi từng ngắm nhìn những áng mây bồng bềnh trôi.</b></font>
+<font face="Segoe UI" size="81"><b>{\an8}mitsumete ita nagareru kumo wo</b></font>
 
 382
 00:22:18,700 --> 00:22:26,200
-<font face="Segoe UI" size="81"><b>mitsumete ita nagareru kumo wo</b></font>
+<font face="Segoe UI" size="81"><b>Tôi từng ngắm nhìn những áng mây bồng bềnh trôi.</b></font>
 
 383
 00:22:26,200 --> 00:22:33,250
-<font face="Segoe UI" size="81"><b>{\an8}Từng cảm nhận sắc màu bầu trời đang dần chuyển mình.</b></font>
+<font face="Segoe UI" size="81"><b>{\an8}kanjite ita kawaru sora no iro wo</b></font>
 
 384
 00:22:26,200 --> 00:22:33,250
-<font face="Segoe UI" size="81"><b>kanjite ita kawaru sora no iro wo</b></font>
+<font face="Segoe UI" size="81"><b>Từng cảm nhận sắc màu bầu trời đang dần chuyển mình.</b></font>
 
 385
 00:22:33,750 --> 00:22:41,300
-<font face="Segoe UI" size="81"><b>{\an8}Khi dừng bước, chúng ta mới nhận ra</b></font>
+<font face="Segoe UI" size="81"><b>{\an8}tachi tomatta bokura wa kizuku</b></font>
 
 386
 00:22:33,750 --> 00:22:41,300
-<font face="Segoe UI" size="81"><b>tachi tomatta bokura wa kizuku</b></font>
+<font face="Segoe UI" size="81"><b>Khi dừng bước, chúng ta mới nhận ra</b></font>
 
 387
 00:22:41,300 --> 00:22:48,390
-<font face="Segoe UI" size="81"><b>{\an8}khúc ca mà thế giới đang chuyển dời thêu dệt nên.</b></font>
+<font face="Segoe UI" size="81"><b>{\an8}utsuroi yuku sekai ga tsumugu uta ni</b></font>
 
 388
 00:22:41,300 --> 00:22:48,390
-<font face="Segoe UI" size="81"><b>utsuroi yuku sekai ga tsumugu uta ni</b></font>
+<font face="Segoe UI" size="81"><b>khúc ca mà thế giới đang chuyển dời thêu dệt nên.</b></font>
 
 389
 00:22:48,390 --> 00:22:55,690
-<font face="Segoe UI" size="81"><b>{\an8}Tựa như vươn những ngón tay để lần tìm,</b></font>
+<font face="Segoe UI" size="81"><b>{\an8}nobashita yubi de taguru you ni</b></font>
 
 390
 00:22:48,390 --> 00:22:55,690
-<font face="Segoe UI" size="81"><b>nobashita yubi de taguru you ni</b></font>
+<font face="Segoe UI" size="81"><b>Tựa như vươn những ngón tay để lần tìm,</b></font>
 
 391
 00:22:55,690 --> 00:23:04,330
-<font face="Segoe UI" size="81"><b>{\an8}tôi tìm kiếm một điều duy nhất chẳng hề đổi thay.</b></font>
+<font face="Segoe UI" size="81"><b>{\an8}tada hitotsu kawaranai mono sagasu</b></font>
 
 392
 00:22:55,690 --> 00:23:04,330
-<font face="Segoe UI" size="81"><b>tada hitotsu kawaranai mono sagasu</b></font>
+<font face="Segoe UI" size="81"><b>tôi tìm kiếm một điều duy nhất chẳng hề đổi thay.</b></font>
 
 393
 00:23:04,370 --> 00:23:11,920
-<font face="Segoe UI" size="81"><b>{\an8}Hãy thắp sáng ngọn đuốc trên bàn tay em đang giơ cao.</b></font>
+<font face="Segoe UI" size="81"><b>{\an8}kazasu te ni tomoshibi wo</b></font>
 
 394
 00:23:04,370 --> 00:23:11,920
-<font face="Segoe UI" size="81"><b>kazasu te ni tomoshibi wo</b></font>
+<font face="Segoe UI" size="81"><b>Hãy thắp sáng ngọn đuốc trên bàn tay em đang giơ cao.</b></font>
 
 395
 00:23:11,920 --> 00:23:19,470
-<font face="Segoe UI" size="81"><b>{\an8}Đó sẽ là dấu chỉ nhỏ nhoi dẫn lối tới ngày mai.</b></font>
+<font face="Segoe UI" size="81"><b>{\an8}asu he to tsuzuku chiisana shirube</b></font>
 
 396
 00:23:11,920 --> 00:23:19,470
-<font face="Segoe UI" size="81"><b>asu he to tsuzuku chiisana shirube</b></font>
+<font face="Segoe UI" size="81"><b>Đó sẽ là dấu chỉ nhỏ nhoi dẫn lối tới ngày mai.</b></font>
 
 397
 00:23:19,470 --> 00:23:27,010
-<font face="Segoe UI" size="81"><b>{\an8}Những lời em từng nói vào ngày hôm ấy...</b></font>
+<font face="Segoe UI" size="81"><b>{\an8}ima mo mada kodama suru</b></font>
 
 398
 00:23:19,470 --> 00:23:27,010
-<font face="Segoe UI" size="81"><b>ima mo mada kodama suru</b></font>
+<font face="Segoe UI" size="81"><b>Những lời em từng nói vào ngày hôm ấy...</b></font>
 
 399
 00:23:27,010 --> 00:23:34,520
-<font face="Segoe UI" size="81"><b>{\an8}...vẫn còn vang vọng mãi, hãy cùng khắc ghi thành lời nguyện thề.</b></font>
+<font face="Segoe UI" size="81"><b>{\an8}ano hi no kotoba chikai ni kae</b></font>
 
 400
 00:23:27,010 --> 00:23:34,520
-<font face="Segoe UI" size="81"><b>ano hi no kotoba chikai ni kae</b></font>
+<font face="Segoe UI" size="81"><b>...vẫn còn vang vọng mãi, hãy cùng khắc ghi thành lời nguyện thề.</b></font>
 
 401
 00:23:34,520 --> 00:23:39,780
-<font face="Segoe UI" size="81"><b>{\an8}Tôi sẽ bước tiếp cùng lời thề ấy.</b></font>
+<font face="Segoe UI" size="81"><b>{\an8}boku wa yuku</b></font>
 
 402
 00:23:34,520 --> 00:23:39,780
-<font face="Segoe UI" size="81"><b>boku wa yuku</b></font>
+<font face="Segoe UI" size="81"><b>Tôi sẽ bước tiếp cùng lời thề ấy.</b></font>
 
 403
 00:23:39,780 --> 00:23:43,740
