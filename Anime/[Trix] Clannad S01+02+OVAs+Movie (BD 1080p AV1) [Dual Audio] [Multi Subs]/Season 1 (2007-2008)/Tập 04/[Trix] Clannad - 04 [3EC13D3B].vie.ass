@@ -75,13 +75,13 @@ Dialogue: 0,0:01:48.96,0:01:55.63,OP Romaji,,0,0,0,,{\fad(250,0)\be1}{\kf119}hi{
 Dialogue: 0,0:01:55.63,0:02:02.01,OP English,,0,0,0,,{\fad(250,0)\be1}Từng lời nói, từng tâm tư đều lay động khôn nguôi.
 Dialogue: 0,0:01:55.63,0:02:02.01,OP Romaji,,0,0,0,,{\fad(250,0)\be1}{\kf114}ko{\kf25}to{\kf21}ba {\kf78}mo {\kf64}o{\kf40}mo{\kf54}i {\kf46}mo {\kf30}ze{\kf16}n{\kf121}bu
 Dialogue: 0,0:02:02.01,0:02:08.44,OP English,,0,0,0,,{\fad(250,250)\be1}Nhất định tôi sẽ gửi đến em, dẫu xa xôi muôn trùng...
-Dialogue: 0,0:02:02.01,0:02:08.44,OP Romaji,,0,0,0,,{\fad(250,250)\be1}{\kf113}to{\kf23}do{\kf20}ke{\kf130}ni {\kf21}yu{\kf140}ku {\kf31}ka{\kf22}ra
-Dialogue: 0,0:02:08.44,0:02:20.86,OP English,,0,0,0,,{\fad(250,250)\be1}Tôi vẫn hằng đợi chờ ngày ấy,
-Dialogue: 0,0:02:08.44,0:02:20.86,OP Romaji,,0,0,0,,{\fad(250,250)\be1}{\kf45}ma{\kf25}tte{\kf47}i{\kf47}ru {\kf158}ka{\kf19}ra
-Dialogue: 0,0:02:26.50,0:02:30.08,Default,Sun,0,0,0,,{\fad(250,250)\be1}Dưới bầu trời lộng gió rực rỡ sắc màu...
-Dialogue: 0,0:02:30.08,0:02:31.75,Default,Oka,0,0,0,,{\fad(250,250)\be1}{\kf52}ka{\kf23}ze {\kf42}no {\kf40}a{\kf165}shi{\kf13}ta {\kf47}ka{\kf22}to{\kf40}na{\kf25}ri {\kf20}a{\kf58}u {\kf41}te{\kf22}to{\kf30}ra
-Dialogue: 0,0:02:31.75,0:02:36.71,Default,Sun,0,0,0,,{\fad(250,250)\be1}Và tôi vẫn hằng cất tiếng hát nơi đây.
-Dialogue: 0,0:02:39.72,0:02:42.09,Default,Oka,0,0,0,,{\fad(250,250)\be1}{\kf114}u{\kf30}ta{\kf23}tte{\kf136}ru {\kf28}ka{\kf355}ra
+Dialogue: 0,0:02:02.01,0:02:08.44,OP Romaji,,0,0,0,,{\fad(250,250)\be1}{\kf35}ha{\kf43}ru{\kf19}ka{\kf226}na {\kf27}ki{\kf61}mi {\kf21}ma{\kf168}de
+Dialogue: 0,0:02:08.44,0:02:20.86,OP English,,0,0,0,,{\fad(250,250)\be1}Không giữ lại cho riêng mình dẫu chỉ một chút thôi.
+Dialogue: 0,0:02:08.44,0:02:20.86,OP Romaji,,0,0,0,,{\fad(250,250)\be1}{\kf48}no{\kf42}ko{\kf29}sa{\kf210}zu {\kf52}tsu{\kf49}ta{\kf22}e{\kf183}te {\kf64}ki{\kf491}tto
+Dialogue: 0,0:02:26.50,0:02:30.08,Default,Sun,0,0,0,,Mày đang hẹn hò với cô nàng bên câu lạc bộ kịch à?
+Dialogue: 0,0:02:30.08,0:02:31.75,Default,Oka,0,0,0,,Hả?
+Dialogue: 0,0:02:31.75,0:02:36.71,Default,Sun,0,0,0,,Chuyện mày dính dáng tới mấy câu lạc bộ kể cũng lạ thật đấy,\Nnhưng nếu là vì lý do đó thì tao hiểu được.
+Dialogue: 0,0:02:39.72,0:02:42.09,Default,Oka,0,0,0,,Nói thật với mày nhé, nhà cậu ấy mở tiệm bánh mì.
 Dialogue: 0,0:02:43.01,0:02:46.64,Default,Oka,0,0,0,,Bánh mì mẹ cậu ấy làm ngon đỉnh lắm.
 Dialogue: 0,0:02:46.64,0:02:49.06,Default,Oka,0,0,0,,Chỉ cần cắn một miếng thôi là nghiện luôn đấy.
 Dialogue: 0,0:02:49.06,0:02:52.73,Default,Oka,0,0,0,,Chỉ cần làm bạn với cậu ấy,\Nmày tha hồ mà ăn bánh mì miễn phí.
