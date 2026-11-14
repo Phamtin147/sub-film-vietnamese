@@ -61,9 +61,23 @@
 ### 3.7. Nhóm thiếu nhi Lisblanc (Ren / Child A, Child B, Child C)
 * **Vai trò**: Nhóm bạn đường phố của Sona, biết Sona là công chúa nhưng luôn giữ kín bí mật cho cô.
 
-### 3.8. Mok (モック - Xuất hiện từ Tập 3)
+### 3.8. Mok Sharib (モック - Xuất hiện từ Tập 3)
 * **Giới tính**: Nam | **Độ tuổi**: Thanh niên.
-* **Vai trò**: Nhân vật bí ẩn gặp tại Cornbloom. Tính khí lông bông, khó đoán, cợt nhả, khả nghi.
+* **Vai trò**: Nhân vật bí ẩn gặp tại Cornbloom, từng làm "Đại ca" giới ngầm trước đây (được Gianni gọi là *Boss*), bị kẹt trong Mặt Nạ Khói phải hút thuốc mỗi 2 giờ. Tính khí lông bông, cợt nhả nhưng thực tế trượng nghĩa và lanh lợi.
+
+### 3.9. Arc Gallofano & Gia tộc Strega (Tập 4–5)
+* **Marlon Strega**: **Nữ** — Bà trùm (*Don*) của gia tộc mafia **Strega** tại Gallofano, mẹ của ba anh em (Con cả, Con thứ, Con út). Nhẫn tâm, tham vọng, lợi dụng sức mạnh đọc suy nghĩ của Tina để kiểm soát thành phố.
+* **Tina (ティナ)**: Thiếu nữ xuất thân quý tộc sa sút, vô tình đeo phải **Mặt Nạ Đọc Tâm** (di vật của cha) nên nghe hết suy nghĩ xấu xa của người xung quanh.
+* **Moreno**: Mẹ của Tina, góa phụ hết lòng tìm cách giải cứu con gái.
+* **Clown (Ngài Hề)**: Nhân vật đeo mặt nạ hề bí ẩn chuyên săn lùng và thu thập các chiếc mặt nạ của Gaston Roux (dùng *Mặt Nạ Binh Sĩ*, *Mặt Nạ Bóng Bay*, *Mặt Nạ Đại Bác*). Lịch thiệp giả tạo, tàn nhẫn.
+* **Lasgarl**: **Nữ** kiếm sĩ đồng hành cùng Clown, dùng kiếm tạo sóng âm định vị mục tiêu; tính tình nóng nảy, mê đọc sách, thù dai Sona (*"Ả đàn bà tóc hồng!"*).
+* **Gianni**: Đàn em cũ của Mok ở Gallofano.
+
+### 3.10. Hồi ức Thị trấn Iris (Tập 6)
+* **Zent**: Đệ tử lớn xuất sắc và ngỗ nghịch của sư phụ Gaston, đàn anh thân thiết nhưng hay trêu chọc Peru (*"thằng mít ướt"*).
+* **Tannan**: Đệ tử cùng lứa tại xưởng của Gaston, hay hóng hớt nhưng tốt bụng.
+* **Kanna**: Cô bé thiên tài trẻ tuổi nhất làm phát sáng mặt nạ tại xưởng Gaston, đồng trang lứa với Peru.
+* **Akane**: Người chị hiền hậu làm việc tại thị trấn Iris, luôn quan tâm chăm sóc đám trẻ học việc.
 
 ---
 
@@ -92,6 +106,19 @@
 | **Peru** | **Nhóm trẻ** | Anh | Mấy đứa / Mấy nhóc / Bọn em | Người anh đi trước nhắc nhở. |
 | **Mẹ của Ren** | **Ren** | Mẹ | Con / Ren | Giọng bà mẹ nghiêm khắc lo lắng. |
 | **Mẹ của Ren** | **Sona** | Dì / Ta | Cháu | Người lớn nói với đứa trẻ xa lạ. |
+| **Mok** | **Peru / Sona** | Tôi | Cậu / Sona / Hai cô cậu | Cợt nhả, thân mật, tự nhiên. |
+| **Mok** | **Gianni** | Tôi / Tao | Gianni / Cậu / Mày | Đàn anh cũ nhắc nhở đàn em. |
+| **Gianni** | **Mok** | Em | Đại ca | Kính nể cấp trên cũ. |
+| **Marlon** | **Clown / Tina / Địch thủ** | Tôi / Ta | Ngài Hề / Cháu / Ngươi | Bà trùm cao ngạo, giả tạo ngọt nhạt rồi tàn nhẫn. |
+| **Ba con trai Strega** | **Marlon** | Con | Mẹ / Thưa Mẹ | Phục tùng nhưng sợ hãi bà mẹ trùm mafia. |
+| **Tina** | **Moreno (Mẹ)** | Con | Mẹ | Tổn thương, tự ti, sau được chữa lành. |
+| **Moreno** | **Tina** | Mẹ | Con / Tina | Ân hận, yêu thương hết mực. |
+| **Moreno** | **Peru / Sona / Mok** | Tôi | Cậu Peru / Mọi người | Lịch thiệp, biết ơn ân nhân. |
+| **Clown** | **Marlon / Peru / Tina** | Tôi | Bà Strega / Cậu / Cô Tina | Nhã nhặn rùng rợn, toan tính. |
+| **Lasgarl** | **Sona / Peru / Clown** | Ta / Tôi | Ả tóc hồng / Ngươi / Tên hề | Cộc cằn, khát máu, cáu bẳn. |
+| **Zent** | **Peru / Tannan / Kanna** | Tao / Anh | Mày / Peru / Tannan / Kanna | Đàn anh bá đạo, miệng mắng nhưng âm thầm che chở. |
+| **Peru (nhỏ) / Kanna** | **Zent / Tannan / Nhóm bạn** | Tớ | Cậu / Zent / Tannan | Bạn đồng môn cùng xưởng. |
+| **Akane** | **Peru / Kanna** | Chị | Em / Hai đứa | Người chị dịu dàng chăm sóc lũ trẻ. |
 
 ---
 
@@ -105,10 +132,24 @@
 * **Mask of the Warrior (戦士の仮面)**: Mặt Nạ Chiến Binh
 * **Mask of Smiles (笑顔の仮面)**: Mặt Nạ Nụ Cười
 * **Mask of Smoke (煙の仮面)**: Mặt Nạ Khói *(Tập 3)*
+* **Mask of Telepathy**: Mặt Nạ Đọc Tâm *(Tập 4–5)*
+* **Mask of the Chameleon**: Mặt Nạ Tắc Kè Hoa *(Tập 4)*
+* **Mask of Disguise**: Mặt Nạ Ngụy Trang *(Tập 5)*
+* **Mask of the Mole**: Mặt Nạ Chuột Chũi *(Tập 5)*
+* **Mask of Soldiers**: Mặt Nạ Binh Sĩ *(Tập 5)*
+* **Mask of Balloons**: Mặt Nạ Bóng Bay *(Tập 5)*
+* **Mask of Cannons**: Mặt Nạ Đại Bác *(Tập 5)*
+* **Mask of the Cat / Kite**: Mặt Nạ Mèo / Mặt Nạ Diều *(Tập 6)*
+* **Mask of Spirits / Necromancy**: Mặt Nạ Vong Linh *(Preview Tập 7)*
 
 ### 5.2. Địa Danh & Tổ Chức
 * **Lisblanc (リスブラン)**: Vương quốc Lisblanc
 * **Cornbloom (コーンブルーム)**: Thị trấn Cornbloom (đầu mối giao thông phương nam)
+* **Gallofano**: Thành phố Gallofano (nơi hoạt động của gia tộc Strega)
+* **Iris**: Thị trấn Iris (quê hương Peru, nơi đặt xưởng của Gaston Roux)
+* **Strega Museum**: Bảo tàng Strega
+* **Mask Remover**: Thợ gỡ mặt nạ
+* **The Three Great Mask Makers (Darma, Gaston Roux...)**: Tam Đại Nghệ Nhân Mặt Nạ (`Darma`, `Gaston Roux`)
 * **Governing Corps**: Đội Thống Trị
   * *First / Second / Third Governing Corps*: Đội Thống Trị Số 1 / Số 2 / Số 3
 * **Captain (隊長)**: Đội trưởng (Ví dụ: *Đội trưởng Đội Thống Trị Số 3: Kougyoku*)
