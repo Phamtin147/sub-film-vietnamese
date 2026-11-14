@@ -1,0 +1,325 @@
+﻿[Script Info]
+Title: Vietnamese Fansub (VietSub by Amtia(NOFACE))
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+ScaledBorderAndShadow: yes
+Video Aspect Ratio: 0
+Video Zoom: 8
+YCbCr Matrix: TV.601
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: top,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: italics,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: italicstop,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: flashback,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashback italics,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashbacktop,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: flashbackitalicstop,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: overlap,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: overlaptop,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: overlap italics,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: main,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:14.37,0:00:17.74,Default,SONA,0,0,0,,Anh Mok, anh tháo hết băng gạc\Nra rồi đấy à?
+Dialogue: 0,0:00:17.74,0:00:21.12,Default,MOK,0,0,0,,Ngay từ đầu tôi cũng có bị thương\Nnặng nề gì cho cam đâu.
+Dialogue: 0,0:00:21.12,0:00:22.71,Default,MOK,0,0,0,,Giờ tôi khỏe re rồi.
+Dialogue: 0,0:00:23.89,0:00:25.08,Default,SONA,0,0,0,,Peru!
+Dialogue: 0,0:00:26.31,0:00:29.68,Default,SONA,0,0,0,,Này Peru, cậu làm sao thế?
+Dialogue: 0,0:00:29.68,0:00:32.39,Default,SONA,0,0,0,,Ờ, nơi đó tên là gì nhỉ?
+Dialogue: 0,0:00:32.39,0:00:33.66,Default,PERU,0,0,0,,Iris.
+Dialogue: 0,0:00:33.66,0:00:35.54,Default,SONA,0,0,0,,Ý tớ là, chuyện đó...
+Dialogue: 0,0:00:35.54,0:00:38.58,Default,MOK,0,0,0,,Rõ ràng là cái bẫy rành rành ra đấy.
+Dialogue: 0,0:00:38.58,0:00:41.13,Default,MOK,0,0,0,,Tôi chẳng hứng thú đánh đấm\Nvới bọn chúng thêm lần nào nữa đâu.
+Dialogue: 0,0:00:41.53,0:00:46.35,Default,PERU,0,0,0,,Nếu bọn chúng thật sự muốn lấy mạng ta,\Nthì đâu cần phải giăng bẫy làm gì.
+Dialogue: 0,0:00:47.04,0:00:49.06,Default,MOK,0,0,0,,Cũng phải nhỉ.
+Dialogue: 0,0:00:51.04,0:00:52.95,Default,PERU,0,0,0,,Tôi được sinh ra ở đó.
+Dialogue: 0,0:00:53.69,0:00:56.25,Default,MOK,0,0,0,,Thế thì càng có lý do để không tới.
+Dialogue: 0,0:00:56.25,0:00:59.15,Default,MOK,0,0,0,,Tôi chẳng rõ bọn chúng muốn cho cậu thấy gì,\Nnhưng mà vẫn cứ thấy bất an.
+Dialogue: 0,0:00:59.15,0:01:01.99,Default,PERU,0,0,0,,Xin lỗi. Tôi hơi mất bình tĩnh.
+Dialogue: 0,0:01:01.99,0:01:05.73,Default,PERU,0,0,0,,Anh nói đúng. Cũng có khả năng\Nchẳng có chuyện gì xảy ra cả.
+Dialogue: 0,0:01:05.73,0:01:07.94,Default,MOK,0,0,0,,Giờ đổi hướng đi chỗ khác vẫn còn kịp đấy.
+Dialogue: 0,0:01:07.94,0:01:10.48,Default,MOK,0,0,0,,Ta có thể tới chỗ\Nthợ gỡ mặt nạ mà cậu biết...
+Dialogue: 0,0:01:10.48,0:01:13.15,Default,WOMAN,0,0,0,,Xin lỗi, chỗ này có ai ngồi chưa ạ?
+Dialogue: 0,0:01:13.15,0:01:15.67,Default,WOMAN,0,0,0,,Thằng bé nhà tôi bị say tàu xe quá.
+Dialogue: 0,0:01:15.67,0:01:18.80,Default,SONA,0,0,0,,Cô cứ ngồi đi ạ. Cô ngồi phía cạnh cửa sổ nhé.
+Dialogue: 0,0:01:18.80,0:01:20.52,Default,WOMAN,0,0,0,,Cảm ơn cháu nhiều nhé.
+Dialogue: 0,0:01:20.52,0:01:22.60,Default,WOMAN,0,0,0,,Nào, cảm ơn hai anh chị đi con.
+Dialogue: 0,0:01:22.60,0:01:24.31,Default,CHILD,0,0,0,,Em cảm ơn ạ.
+Dialogue: 0,0:01:32.80,0:01:35.03,Default,MOK,0,0,0,,Tôi ra ngoài hút điếu thuốc đây.
+Dialogue: 0,0:01:35.39,0:01:39.18,Default,WOMAN,0,0,0,,Ơ nhưng mà... Xin lỗi anh nhé. Cảm ơn nhiều lắm ạ.
+Dialogue: 0,0:01:39.18,0:01:42.81,Default,WOMAN,0,0,0,,Hai cô cậu cũng tới dự\Nlễ hội ở Iris à?
+Dialogue: 0,0:01:42.81,0:01:43.90,Default,MOK,0,0,0,,Lễ hội sao?
+Dialogue: 0,0:01:44.13,0:01:48.91,Default,WOMAN,0,0,0,,Vâng, lễ hội mừng sinh nhật ngài Gaston,\Nmột trong Tam Đại Nghệ Nhân Mặt Nạ đấy.
+Dialogue: 0,0:01:48.91,0:01:50.77,Default,MOK,0,0,0,,Ồ, thế à?
+Dialogue: 0,0:01:51.34,0:01:53.45,Default,SONA,0,0,0,,Lễ hội đó diễn ra thế nào vậy ạ?
+Dialogue: 0,0:01:53.45,0:01:56.13,Default,WOMAN,0,0,0,,Mọi người cùng nhau đeo mặt nạ rồi vui chơi náo nhiệt lắm.
+Dialogue: 0,0:01:56.13,0:01:58.97,Default,WOMAN,0,0,0,,Thằng bé nhà tôi năm nào cũng mong chờ mãi.
+Dialogue: 0,0:02:02.04,0:02:03.43,flashback,ZENT,0,0,0,,Nó phát sáng rồi kìa.
+Dialogue: 0,0:02:03.75,0:02:05.15,flashback,APPRENTICES,0,0,0,,Ồ!
+Dialogue: 0,0:02:07.69,0:02:09.87,flashback,TANNAN,0,0,0,,Mặt nạ của Kanna phát sáng rồi!
+Dialogue: 0,0:02:10.35,0:02:13.56,flashback,TANNAN,0,0,0,,Con bé là thiên tài làm mặt nạ\Ntrẻ tuổi nhất từ trước tới nay luôn đấy!
+Dialogue: 0,0:02:14.11,0:02:19.58,flashback,ZENT,0,0,0,,Kanna à, biết đâu em sẽ được chọn đi cùng\Nsư phụ tới lễ hội sinh nhật năm nay đấy.
+Dialogue: 0,0:02:23.32,0:02:25.53,italics,PERU/NA,0,0,0,,Đã lâu lắm rồi tôi không nhớ tới chuyện đó...
+Dialogue: 0,0:02:27.03,0:02:30.86,italics,PERU/NA,0,0,0,,nhưng đó từng là một ký ức vô cùng quan trọng với tôi.
+Dialogue: 0,0:04:04.63,0:04:07.97,top,EPTITLE; sign,0,0,0,,TẬP 6\NBÓNG HÌNH HOA TUYẾT ĐIỂM
+Dialogue: 0,0:04:08.22,0:04:10.68,top,SIGN,0,0,0,,IRIS
+Dialogue: 0,0:04:20.09,0:04:22.73,Default,PERU,0,0,0,,Xin lỗi vì cuối cùng lại kéo mọi người tới đây.
+Dialogue: 0,0:04:22.73,0:04:26.52,Default,SONA,0,0,0,,Không sao đâu. Cậu cũng muốn nhìn lại\Nquê hương mình một lần nữa mà, đúng không?
+Dialogue: 0,0:04:28.20,0:04:29.56,Default,PERU,0,0,0,,Tớ cũng chẳng chắc nữa.
+Dialogue: 0,0:04:30.56,0:04:33.50,Default,SONA,0,0,0,,Peru này, đây chính là nơi...
+Dialogue: 0,0:04:33.50,0:04:34.42,Default,PERU,0,0,0,,Phải.
+Dialogue: 0,0:04:35.12,0:04:39.33,Default,PERU,0,0,0,,Chính tại nơi này, tôi đã đeo lên\NMặt Nạ Võ Thần
+Dialogue: 0,0:04:39.33,0:04:42.98,Default,PERU,0,0,0,,và xuống tay giết chết sư phụ cùng\Ncác sư huynh đệ đồng môn của mình.
+Dialogue: 0,0:04:44.01,0:04:49.14,Default,MOK,0,0,0,,Tôi đi hỏi thăm khắp nơi rồi, dạo gần đây\Nchẳng có biến cố gì lớn xảy ra cả.
+Dialogue: 0,0:04:49.14,0:04:52.47,Default,PERU,0,0,0,,Vậy à? Trước hết mình cứ tìm nhà trọ đã.
+Dialogue: 0,0:04:52.47,0:04:54.23,Default,PERU,0,0,0,,Ngày mai hãy bắt đầu điều tra.
+Dialogue: 0,0:04:56.59,0:04:59.37,Default,SONA,0,0,0,,Trông Peru có vẻ vẫn canh cánh chuyện gì đó nhỉ.
+Dialogue: 0,0:04:59.37,0:05:01.46,Default,MOK,0,0,0,,Thằng nhóc đó sống nghiêm túc quá mức mà.
+Dialogue: 0,0:05:03.08,0:05:05.75,Default,MOK,0,0,0,,Biết đâu được trong đầu cậu ta đang nghĩ gì.
+Dialogue: 0,0:05:08.99,0:05:12.74,top,sign,0,0,0,,MỘT TRONG TAM ĐẠI NGHỆ NHÂN MẶT NẠ\NGASTON ROUX
+Dialogue: 0,0:05:09.10,0:05:12.75,flashback,GASTON,0,0,0,,Quả nhiên chiếc mặt nạ này mang theo sức mạnh rồi.
+Dialogue: 0,0:05:13.09,0:05:17.46,flashback,GASTON,0,0,0,,Con làm tốt lắm, Kanna,\Nnhất là khi con vẫn còn nhỏ tuổi như vậy.
+Dialogue: 0,0:05:17.75,0:05:19.92,top,sign,0,0,0,,ĐỆ TỬ CỦA GASTON\NKANNA
+Dialogue: 0,0:05:19.91,0:05:21.99,flashback,GASTON,0,0,0,,Nhưng thử thách thật sự bây giờ mới bắt đầu.
+Dialogue: 0,0:05:22.47,0:05:27.39,flashback,GASTON,0,0,0,,Để tạo ra những chiếc mặt nạ mang năng lực\Nsẽ đòi hỏi rèn luyện nhiều hơn nữa đấy.
+Dialogue: 0,0:05:27.69,0:05:29.67,flashback,GASTON,0,0,0,,Con hiểu rõ chứ, Tannan?
+Dialogue: 0,0:05:29.64,0:05:29.68,top,SIGN LEFT,0,0,0,,ĐỆ TỬ CỦA GASTON: ZENT
+Dialogue: 0,0:05:29.64,0:05:29.68,top,SIGN RIGHT,0,0,0,,ĐỆ TỬ CỦA GASTON: TANNAN
+Dialogue: 0,0:05:29.67,0:05:34.42,flashback,GASTON,0,0,0,,Thầy hiểu các con đang háo hức,\Nnhưng Kanna vẫn chưa thành nghệ nhân thực thụ đâu.
+Dialogue: 0,0:05:34.42,0:05:36.34,flashback,GASTON,0,0,0,,Con bé mới chỉ chạm tới ngưỡng cửa thôi.
+Dialogue: 0,0:05:36.34,0:05:38.06,flashback,TANNAN,0,0,0,,Con xin lỗi ạ!
+Dialogue: 0,0:05:38.46,0:05:45.19,flashback,GASTON,0,0,0,,Như các con đã biết, lễ hội sinh nhật năm nay\Nsẽ có đôi chút khác biệt.
+Dialogue: 0,0:05:45.19,0:05:50.79,flashback,GASTON,0,0,0,,Ngài thị trưởng đã ngỏ lời nhờ thầy\Ngiới thiệu các học trò tại buổi triển lãm.
+Dialogue: 0,0:05:50.79,0:05:52.12,flashback,TANNAN,0,0,0,,Thưa thầy Gaston!
+Dialogue: 0,0:05:52.12,0:05:56.62,flashback,GASTON,0,0,0,,Tuy nhiên, thầy chỉ có thể\Ndẫn theo một vài đứa thôi.
+Dialogue: 0,0:05:56.62,0:05:59.38,flashback,TANNAN,0,0,0,,Thầy định chọn ai thế ạ? Anh Zent phải không?
+Dialogue: 0,0:05:59.38,0:06:01.73,flashback,GASTON,0,0,0,,Bình tĩnh nào, Tannan.
+Dialogue: 0,0:06:01.73,0:06:03.43,flashback,GASTON,0,0,0,,Thầy vẫn chưa quyết định đâu.
+Dialogue: 0,0:06:03.71,0:06:11.01,flashback,GASTON,0,0,0,,Nhưng thầy dự định sẽ chọn những đứa\Nchăm chỉ rèn luyện nhất.
+Dialogue: 0,0:06:11.65,0:06:15.06,flashback,GASTON,0,0,0,,Đây là lần đầu tiên thầy ra mắt các đệ tử\Nvới thiên hạ bên ngoài.
+Dialogue: 0,0:06:15.63,0:06:19.15,flashback,GASTON,0,0,0,,Thầy hy vọng các con sẽ khiến thầy tự hào.
+Dialogue: 0,0:06:20.44,0:06:23.02,flashback,TANNAN,0,0,0,,Chà, kiểu gì Peru cũng chẳng được chọn đâu.
+Dialogue: 0,0:06:23.02,0:06:25.27,flashback,TANNAN,0,0,0,,Mặt nạ của nó chưa từng phát sáng lấy một cái mà.
+Dialogue: 0,0:06:27.71,0:06:31.31,flashback,GASTON,0,0,0,,Thôi đủ rồi, Tannan. Peru vẫn còn nhỏ mà.
+Dialogue: 0,0:06:31.31,0:06:32.85,flashback,GASTON,0,0,0,,Nó vẫn còn nhiều thời gian để học hỏi.
+Dialogue: 0,0:06:36.97,0:06:39.93,flashback,MALE STUDENT,0,0,0,,Hẹn tuần sau gặp lại thầy ạ.
+Dialogue: 0,0:06:39.93,0:06:41.72,flashback,GASTON,0,0,0,,Ừ, hẹn gặp lại con.
+Dialogue: 0,0:06:45.49,0:06:50.13,flashback,TANNAN,0,0,0,,Mày định chạy đi xin sư phụ\Ncho cái mới nữa hả? Chơi ăn gian thế.
+Dialogue: 0,0:06:50.13,0:06:50.99,flashback,YOUNG PERU,0,0,0,,Đâu có, em đâu—
+Dialogue: 0,0:06:50.99,0:06:55.97,flashback,TANNAN,0,0,0,,Chắc chắn dù không được chọn\Nmày vẫn được thầy dắt tới lễ hội thôi.
+Dialogue: 0,0:06:55.97,0:06:59.92,flashback,TANNAN,0,0,0,,Ước gì tao cũng bị bỏ rơi rồi được\Nsư phụ nhặt về nuôi như mày nhỉ.
+Dialogue: 0,0:07:00.62,0:07:04.68,flashback,ZENT,0,0,0,,Đồ ngu, mẹ mày mà nghe thấy câu đó\Nlà đánh cho nhừ tử đấy.
+Dialogue: 0,0:07:04.68,0:07:06.31,flashback,TANNAN,0,0,0,,Anh Zent...
+Dialogue: 0,0:07:06.31,0:07:09.90,flashback,ZENT,0,0,0,,Peru, lúc nào trông mày cũng ủ rũ thế hả.
+Dialogue: 0,0:07:10.27,0:07:13.27,flashback,YOUNG PERU,0,0,0,,Tại em làm kém quá mà.
+Dialogue: 0,0:07:15.52,0:07:18.41,flashback,ZENT,0,0,0,,Cái này mày đẽo khéo đấy chứ. Giỏi lắm.
+Dialogue: 0,0:07:18.82,0:07:20.43,flashback,ZENT,0,0,0,,Tannan, mày nên học hỏi nó đi.
+Dialogue: 0,0:07:20.43,0:07:22.05,flashback,TANNAN,0,0,0,,Nghiêm túc đấy à?
+Dialogue: 0,0:07:23.03,0:07:25.79,flashback,ZENT,0,0,0,,Mặt nạ làm sao hưởng ứng được\Nvới cái bản mặt xị ra thế kia chứ.
+Dialogue: 0,0:07:25.79,0:07:27.21,flashback,YOUNG PERU,0,0,0,,Mặt em á?
+Dialogue: 0,0:07:28.97,0:07:31.94,flashback,ZENT,0,0,0,,Ngẩng mặt lên đi, đồ mít ướt.
+Dialogue: 0,0:07:32.42,0:07:34.72,flashback,ZENT,0,0,0,,Nghệ nhân mặt nạ không được phép khóc nhè đâu.
+Dialogue: 0,0:07:35.76,0:07:39.06,flashback,ZENT,0,0,0,,Đừng để người khác bắt nạt mình mãi thế.
+Dialogue: 0,0:07:39.06,0:07:43.03,flashback,ZENT,0,0,0,,Đứa nào dám coi thường mày\Nthì cứ trừng mắt nhìn thẳng lại cho anh.
+Dialogue: 0,0:07:47.31,0:07:50.35,flashback,ZENT,0,0,0,,Bị sốc vì mặt nạ của Kanna\Nphát sáng trước rồi hả?
+Dialogue: 0,0:07:50.84,0:07:53.77,flashback,YOUNG PERU,0,0,0,,Tụi em bằng tuổi nhau mà.
+Dialogue: 0,0:07:53.77,0:07:57.16,flashback,YOUNG PERU,0,0,0,,Thậm chí em còn bắt đầu học nghề sớm hơn cậu ấy.
+Dialogue: 0,0:07:58.60,0:08:01.06,flashback,ZENT,0,0,0,,Mày có biết ở thị trấn kế bên đang trưng bày\Nmặt nạ của Darma,
+Dialogue: 0,0:08:01.06,0:08:04.75,flashback,ZENT,0,0,0,,một trong Tam Đại Nghệ Nhân Mặt Nạ,\Nkhông hả?
+Dialogue: 0,0:08:04.75,0:08:07.76,flashback,ZENT,0,0,0,,Mấy đứa tụi anh đang tính bắt tàu\Nsang đó xem thử đấy.
+Dialogue: 0,0:08:07.76,0:08:09.08,flashback,ZENT,0,0,0,,Có muốn đi cùng không?
+Dialogue: 0,0:08:09.08,0:08:11.57,flashback,TANNAN,0,0,0,,Hả? Anh nói thật đấy à, Zent?
+Dialogue: 0,0:08:11.57,0:08:14.92,flashback,ZENT,0,0,0,,Sư phụ bảo nó vẫn đang trong lúc học hỏi mà.
+Dialogue: 0,0:08:14.92,0:08:17.58,flashback,YOUNG PERU,0,0,0,,Nhưng em làm gì có tiền mua vé tàu.
+Dialogue: 0,0:08:17.58,0:08:23.78,flashback,ZENT,0,0,0,,Khỏi lo. Góp tiền chung lại là đủ mua vé ngay.\NĐược chứ?
+Dialogue: 0,0:08:25.31,0:08:28.37,flashback,ZENT,0,0,0,,Vậy chốt kèo nhé. Tuyệt đối giữ bí mật với sư phụ đấy.
+Dialogue: 0,0:08:30.77,0:08:32.84,flashback,TANNAN,0,0,0,,Anh tính cho cả Peru đi cùng thật à?
+Dialogue: 0,0:08:32.84,0:08:36.75,flashback,ZENT,0,0,0,,Không rủ thêm thằng Peru thì đào đâu ra\Nđủ tiền góp chứ.
+Dialogue: 0,0:08:36.75,0:08:38.72,flashback,ZENT,0,0,0,,Mày cũng đi rủ thêm vài đứa nữa đi.
+Dialogue: 0,0:08:38.72,0:08:39.46,flashback,TANNAN,0,0,0,,Cái gì cơ?!
+Dialogue: 0,0:08:40.51,0:08:44.30,italics,PERU/NA,0,0,0,,Zent là một môn đồ sở hữu\Ntài năng xuất chúng hiếm có.
+Dialogue: 0,0:08:44.91,0:08:49.96,italics,PERU/NA,0,0,0,,Anh ấy vừa được mọi người quý mến,\Nvừa tinh quái lại hay trêu người đến phát sợ...
+Dialogue: 0,0:08:50.63,0:08:52.27,italics,PERU/NA,0,0,0,,nhưng đôi khi anh ấy cũng dịu dàng lắm.
+Dialogue: 0,0:08:56.01,0:08:58.09,flashback,KANNA,0,0,0,,Cậu định đi đâu thế, Peru?
+Dialogue: 0,0:08:58.57,0:09:01.80,flashback,YOUNG PERU,0,0,0,,Ủa, Kanna? Tớ có đi đâu đâu.
+Dialogue: 0,0:09:01.80,0:09:04.53,flashback,KANNA,0,0,0,,Nói xạo. Tớ nghe lén hết chuyện hai người bàn rồi nhé.
+Dialogue: 0,0:09:04.53,0:09:06.69,flashback,KANNA,0,0,0,,Tớ cũng muốn đi cùng. Khai mau đi.
+Dialogue: 0,0:09:06.69,0:09:07.61,flashback,YOUNG PERU,0,0,0,,Không đời nào đâu.
+Dialogue: 0,0:09:07.61,0:09:08.76,flashback,KANNA,0,0,0,,Tớ đi đấy!
+Dialogue: 0,0:09:08.76,0:09:11.02,flashback,KANNA,0,0,0,,Tớ. Cũng. Đi. Nữa!
+Dialogue: 0,0:09:56.44,0:09:58.68,flashback,YOUNG PERU,0,0,0,,Nào, tỉnh táo lại đi chứ.
+Dialogue: 0,0:09:58.68,0:10:00.58,flashback,YOUNG PERU,0,0,0,,Vấp ngã một cái là bị thương bây giờ.
+Dialogue: 0,0:10:02.27,0:10:05.36,flashback,AKANE,0,0,0,,Peru hả? Cả bé Kanna nữa sao...
+Dialogue: 0,0:10:05.36,0:10:08.34,flashback,AKANE,0,0,0,,Hai đứa dậy sớm thế. Định đi đâu vậy?
+Dialogue: 0,0:10:08.34,0:10:10.16,flashback,YOUNG PERU,0,0,0,,Dạ, ừm...
+Dialogue: 0,0:10:10.16,0:10:11.48,flashback,KANNA,0,0,0,,Chị Akane!
+Dialogue: 0,0:10:11.48,0:10:16.22,flashback,KANNA,0,0,0,,Tụi em sắp đi tàu sang thị trấn bên cạnh\Nvới anh Zent và anh Tannan đấy!
+Dialogue: 0,0:10:16.22,0:10:18.90,flashback,AKANE,0,0,0,,Chỉ có bốn đứa thôi sao?\NKhông có người lớn nào đi kèm à?
+Dialogue: 0,0:10:18.90,0:10:21.05,flashback,KANNA,0,0,0,,Tụi em giấu thầy Gaston đấy. Bí mật nhé chị.
+Dialogue: 0,0:10:28.54,0:10:30.32,flashback,AKANE,0,0,0,,Đúng là mấy đứa nhóc tinh nghịch quá đi.
+Dialogue: 0,0:10:32.49,0:10:34.66,flashback,AKANE,0,0,0,,Xòe tay ra nào.
+Dialogue: 0,0:10:35.60,0:10:36.49,flashback,AKANE,0,0,0,,Cầm lấy này.
+Dialogue: 0,0:10:38.04,0:10:39.90,flashback,KANNA,0,0,0,,Em cảm ơn chị Akane ạ!
+Dialogue: 0,0:10:40.18,0:10:43.71,flashback,AKANE,0,0,0,,Nhớ đừng để bị thương, đi rồi về bình an đấy.
+Dialogue: 0,0:10:43.71,0:10:48.50,flashback,AKANE,0,0,0,,Peru, em là con trai đấy.\NPhải có trách nhiệm bảo vệ Kanna nghe chưa.
+Dialogue: 0,0:10:52.28,0:10:53.55,Default,SONA,0,0,0,,Cậu định đi đâu thế?
+Dialogue: 0,0:10:53.93,0:10:56.37,Default,PERU,0,0,0,,Đi thăm mộ một lát.\NCô không hứng thú đâu nhỉ?
+Dialogue: 0,0:10:56.95,0:10:59.56,Default,SONA,0,0,0,,Peru này, cậu ổn chứ?
+Dialogue: 0,0:10:59.56,0:11:01.89,Default,SONA,0,0,0,,Nếu thấy đau lòng quá thì\Nkhông cần gượng đi đâu.
+Dialogue: 0,0:11:02.32,0:11:08.35,Default,PERU,0,0,0,,Ngày trước đêm nào tôi cũng mơ thấy\Nkhuôn mặt của mọi người. Ám ảnh tới mức mất ngủ.
+Dialogue: 0,0:11:08.68,0:11:11.19,Default,PERU,0,0,0,,Nhưng dạo gần đây, giấc mơ đó ngừng hẳn rồi.
+Dialogue: 0,0:11:12.73,0:11:14.82,Default,PERU,0,0,0,,Đã cất công quay về đây thì tôi bắt buộc phải đi thăm.
+Dialogue: 0,0:11:14.82,0:11:17.01,Default,PERU,0,0,0,,Không ra thăm là mọi người giận chết mất.
+Dialogue: 0,0:11:17.70,0:11:18.74,Default,PERU,0,0,0,,Tôi đi rồi về.
+Dialogue: 0,0:11:19.58,0:11:22.19,Default,SONA,0,0,0,,Ừ. Lát gặp lại nhé.
+Dialogue: 0,0:11:23.90,0:11:26.05,flashback,ZENT,0,0,0,,Gì cơ? Có bấy nhiêu đây thôi á?
+Dialogue: 0,0:11:26.05,0:11:28.45,flashback,KANNA,0,0,0,,Chừng này thì làm sao đủ tiền đi tàu được.
+Dialogue: 0,0:11:28.77,0:11:31.51,flashback,ZENT,0,0,0,,Tannan, chẳng còn đứa nào khác tới nữa à?
+Dialogue: 0,0:11:31.51,0:11:34.48,flashback,TANNAN,0,0,0,,Chịu thôi Zent, tụi nó đều bảo bận hết rồi.
+Dialogue: 0,0:11:35.30,0:11:37.51,flashback,TANNAN,0,0,0,,Giờ tính sao đây? Quay về nhà nhé?
+Dialogue: 0,0:11:38.35,0:11:39.99,flashback,YOUNG PERU,0,0,0,,Tụi mình đi bộ sang đó đi.
+Dialogue: 0,0:11:41.40,0:11:43.11,flashback,TANNAN,0,0,0,,Mày nói nhảm gì thế hả?
+Dialogue: 0,0:11:43.11,0:11:45.34,flashback,TANNAN,0,0,0,,Mày có biết đường xa tới mức nào không đấy?
+Dialogue: 0,0:11:48.52,0:11:50.73,flashback,ZENT,0,0,0,,Không, đi thôi.
+Dialogue: 0,0:11:50.73,0:11:52.52,flashback,ZENT,0,0,0,,Thằng Peru nói chí lý đấy.
+Dialogue: 0,0:11:52.52,0:11:55.02,flashback,ZENT,0,0,0,,Men theo đường ray xe lửa đi bộ\Nthì chỉ mất nửa ngày là tới nơi.
+Dialogue: 0,0:11:55.02,0:11:56.90,flashback,ZENT,0,0,0,,Tối nay tụi mình kịp quay về ngay ấy mà.
+Dialogue: 0,0:11:56.90,0:11:58.30,flashback,TANNA,0,0,0,,Thật không đấy?
+Dialogue: 0,0:11:59.08,0:12:00.78,flashback,ZENT,0,0,0,,Được rồi, xuất phát thôi!
+Dialogue: 0,0:12:15.58,0:12:17.96,top,sign,0,0,0,,MẶT NẠ MÈO
+Dialogue: 0,0:12:20.59,0:12:22.97,top,sign,0,0,0,,MẶT NẠ DIỀU
+Dialogue: 0,0:12:24.12,0:12:26.93,flashback,TANNAN,0,0,0,,Peru này, mày đã bao giờ thấy chị ta chưa?
+Dialogue: 0,0:12:27.13,0:12:31.85,flashback,TANNAN,0,0,0,,Ở quán cà phê dưới chân đồi\Ncó một bà chị ngực bự lắm luôn ấy.
+Dialogue: 0,0:12:32.19,0:12:36.43,flashback,YOUNG PERU,0,0,0,,Em chưa thấy bao giờ. Em ít khi ra ngoài lắm.
+Dialogue: 0,0:12:36.43,0:12:39.13,flashback,TANNAN,0,0,0,,Sư phụ không dắt mày đi đâu chơi à?
+Dialogue: 0,0:12:39.13,0:12:42.93,flashback,YOUNG PERU,0,0,0,,Thầy Gaston vào ngày nghỉ lúc nào cũng\Nbận việc đi đâu đó mất hút ạ.
+Dialogue: 0,0:12:42.93,0:12:47.49,flashback,TANNAN,0,0,0,,Ồ, vậy à? Thế hôm nào anh em mình\Ncùng lén đi thử một chuyến đi.
+Dialogue: 0,0:12:47.77,0:12:49.94,flashback,TANNAN,0,0,0,,Thật ra thì anh cũng chưa từng vào quán đó bao giờ.
+Dialogue: 0,0:12:50.58,0:12:54.38,italics,PERU/NA,0,0,0,,Tôi nhớ hồi ấy cứ nghĩ Tannan chỉ là\Nmột gã sư huynh hay cà khịa khó ưa,
+Dialogue: 0,0:12:54.38,0:12:57.41,italics,PERU/NA,0,0,0,,nhưng thỉnh thoảng lại cảm thấy\Nhình như anh ấy không xấu tính đến vậy.
+Dialogue: 0,0:12:57.67,0:13:00.13,flashback,ZENT,0,0,0,,Cái gì? Mấy đứa đụng độ chị Akane à?
+Dialogue: 0,0:13:00.13,0:13:00.75,flashback,KANNA,0,0,0,,Vâng ạ.
+Dialogue: 0,0:13:01.04,0:13:03.49,flashback,ZENT,0,0,0,,Thôi bỏ mẹ rồi. Chị ấy sẽ mách sư phụ mất.
+Dialogue: 0,0:13:03.49,0:13:05.14,flashback,ZENT,0,0,0,,Phải mau chóng quay về thôi.
+Dialogue: 0,0:13:37.51,0:13:38.71,flashback,ZENT,0,0,0,,Thi chạy nào!
+Dialogue: 0,0:13:39.33,0:13:41.40,flashback,KANNA,0,0,0,,Này, đợi tớ với!
+Dialogue: 0,0:13:48.72,0:13:49.81,flashback,YOUNG PERU,0,0,0,,Kanna!
+Dialogue: 0,0:13:56.19,0:13:58.24,flashback,KANNA,0,0,0,,Ái!
+Dialogue: 0,0:14:21.43,0:14:24.43,italics,PERU/NA,0,0,0,,Vì Zent sợ bị người lớn mắng,
+Dialogue: 0,0:14:24.43,0:14:29.37,italics,PERU/NA,0,0,0,,nên anh ấy quyết định rời khỏi đường ray\Nvà đi đường tắt sang thị trấn bên cạnh.
+Dialogue: 0,0:14:33.86,0:14:35.79,flashback,TANNAN,0,0,0,,Mặt Nạ Hỏa Long!
+Dialogue: 0,0:14:37.84,0:14:40.18,flashback,TANNAN,0,0,0,,Hay quá! Bén lửa rồi kìa!
+Dialogue: 0,0:14:40.18,0:14:43.74,flashback,KANNA,0,0,0,,Mặt Nạ Hỏa Long của thầy Gaston\Ncòn uy lực hơn thế nhiều.
+Dialogue: 0,0:14:44.03,0:14:47.69,flashback,ZENT,0,0,0,,Xin lỗi nhé, anh tính nhầm rồi.\NKhông ngờ tụi mình lại bị lạc đường.
+Dialogue: 0,0:14:48.51,0:14:52.35,flashback,ZENT,0,0,0,,Đợi trời sáng, tụi mình lần theo dấu cũ\Nquay lại thị trấn Iris vậy.
+Dialogue: 0,0:14:52.35,0:14:53.15,flashback,YOUNG PERU,0,0,0,,Vâng.
+Dialogue: 0,0:14:54.62,0:14:56.44,flashback,KANNA,0,0,0,,Tớ đói bụng quá.
+Dialogue: 0,0:14:58.11,0:14:59.60,flashback,YOUNG PERU,0,0,0,,Cậu ăn cái này đi.
+Dialogue: 0,0:14:59.60,0:15:00.54,flashback,KANNA,0,0,0,,Tớ không ăn đâu.
+Dialogue: 0,0:15:00.54,0:15:01.11,flashback,YOUNG PERU,0,0,0,,Hả?
+Dialogue: 0,0:15:01.11,0:15:02.70,flashback,KANNA,0,0,0,,Cậu tự ăn đi.
+Dialogue: 0,0:15:04.23,0:15:06.40,flashback,ZENT,0,0,0,,Tannan, mày kiếm đâu ra ổ bánh mì đấy?
+Dialogue: 0,0:15:06.40,0:15:10.00,flashback,TANNAN,0,0,0,,Hả? Tao mang từ nhà theo\Nphòng lúc giữa đường đói bụng thôi.
+Dialogue: 0,0:15:10.00,0:15:11.52,flashback,ZENT,0,0,0,,Chia cho tao một miếng đi!
+Dialogue: 0,0:15:11.52,0:15:12.47,flashback,TANNAN,0,0,0,,Còn lâu nhé!
+Dialogue: 0,0:15:12.97,0:15:15.23,flashback,TANNAN,0,0,0,,Mơ đi cưng!
+Dialogue: 0,0:15:23.57,0:15:26.28,flashback,ZENT,0,0,0,,Kanna này, em sống ở ký túc xá đúng không?
+Dialogue: 0,0:15:26.65,0:15:27.90,flashback,ZENT,0,0,0,,Nhà em có xa đây lắm không?
+Dialogue: 0,0:15:27.90,0:15:30.53,flashback,KANNA,0,0,0,,Vâng, đi tàu mất tận hai ngày lận ạ.
+Dialogue: 0,0:15:30.53,0:15:34.20,flashback,ZENT,0,0,0,,Thật á? Không thể tin nổi\Nbố mẹ em lại đồng ý cho đi xa thế.
+Dialogue: 0,0:15:34.20,0:15:40.72,flashback,KANNA,0,0,0,,Bố em ngày xưa từng muốn làm nghệ nhân mặt nạ,\Nnên ông mong em thực hiện thay.
+Dialogue: 0,0:15:40.72,0:15:42.22,flashback,ZENT,0,0,0,,Tương lai của em rộng mở lắm đấy.
+Dialogue: 0,0:15:44.59,0:15:45.66,flashback,TANNAN,0,0,0,,Tiếng gì thế?
+Dialogue: 0,0:15:45.66,0:15:46.84,flashback,ZENT,0,0,0,,Chắc là chó hoang thôi.
+Dialogue: 0,0:15:46.84,0:15:48.70,flashback,ZENT,0,0,0,,Lũ đó sợ lửa lắm.
+Dialogue: 0,0:15:48.70,0:15:50.34,flashback,ZENT,0,0,0,,Chỉ cần giữ cho đống lửa cháy mãi là tụi mình an toàn.
+Dialogue: 0,0:15:54.78,0:15:59.47,flashback,ZENT,0,0,0,,Chuyện này anh chưa từng kể cho ai nghe.\NCấm hé răng với mấy đứa khác đấy nhé?
+Dialogue: 0,0:15:59.76,0:16:00.92,flashback,TANNAN,0,0,0,,Chuyện gì thế anh?
+Dialogue: 0,0:16:00.92,0:16:04.91,flashback,ZENT,0,0,0,,Ước mơ của anh là trở thành\Nnghệ nhân mặt nạ giỏi nhất thế giới.
+Dialogue: 0,0:16:04.91,0:16:06.76,flashback,YOUNG PERU,0,0,0,,Giống như thầy Gaston ấy ạ?
+Dialogue: 0,0:16:06.76,0:16:09.59,flashback,ZENT,0,0,0,,Đồ ngốc. Thế thì sao gọi là giỏi nhất được.
+Dialogue: 0,0:16:11.12,0:16:13.17,flashback,ZENT,0,0,0,,Anh sẽ vượt qua cả thầy ấy.
+Dialogue: 0,0:16:13.17,0:16:18.23,flashback,ZENT,0,0,0,,Anh sẽ vượt mặt toàn bộ Tam Đại Nghệ Nhân\Nvà trở thành người đứng đầu thiên hạ.
+Dialogue: 0,0:16:18.23,0:16:22.68,flashback,TANNAN,0,0,0,,Đỉnh thật đấy. Chắc chắn chưa từng có ai\Ndám nghĩ lớn tới vậy luôn.
+Dialogue: 0,0:16:23.94,0:16:28.34,italics,PERU/NA,0,0,0,,Bắt đầu từ anh Zent, cả đám tụi tôi\Nlần lượt chia sẻ ước mơ của riêng mình.
+Dialogue: 0,0:16:28.67,0:16:32.19,italics,PERU/NA,0,0,0,,Trước giờ tôi chưa từng nghe ai tâm sự ước mơ cả,
+Dialogue: 0,0:16:32.19,0:16:36.30,italics,PERU/NA,0,0,0,,nên tôi chỉ mong khoảnh khắc này\Ncó thể kéo dài mãi mãi.
+Dialogue: 0,0:16:36.83,0:16:40.38,flashback,TANNAN,0,0,0,,Ước gì tao chế ra được một con rồng\Nrồi cưỡi nó bay lượn trên trời.
+Dialogue: 0,0:16:40.38,0:16:42.48,flashback,YOUNG PERU,0,0,0,,Nghe ngầu quá đi, anh Tannan!
+Dialogue: 0,0:16:42.48,0:16:45.46,flashback,TANNAN,0,0,0,,Lúc ấy cứ hễ mẹ tao nổi trận lôi đình\Nlà tao bay vọt đi trốn luôn.
+Dialogue: 0,0:16:45.46,0:16:48.65,flashback,ZENT,0,0,0,,Với cái lý do củ chuối đó thì có mơ một trăm năm\Nmày cũng chẳng làm nổi đâu.
+Dialogue: 0,0:16:49.10,0:16:50.02,flashback,ZENT,0,0,0,,Còn mày thì sao, Peru?
+Dialogue: 0,0:16:50.02,0:16:51.00,flashback,YOUNG PERU,0,0,0,,Hả?
+Dialogue: 0,0:16:55.57,0:16:58.16,flashback,YOUNG PERU,0,0,0,,Ước mơ của em thật ra cũng giống anh, Zent ạ.
+Dialogue: 0,0:16:58.16,0:17:02.37,flashback,YOUNG PERU,0,0,0,,Em muốn vượt qua sư phụ để trở thành\Nnghệ nhân mặt nạ giỏi nhất thế giới.
+Dialogue: 0,0:17:02.37,0:17:03.65,flashback,TANNAN,0,0,0,,Thật hả mày?
+Dialogue: 0,0:17:03.65,0:17:05.29,flashback,ZENT,0,0,0,,Thế thì hai anh em mình là đối thủ rồi.
+Dialogue: 0,0:17:09.99,0:17:12.01,flashback,ZENT,0,0,0,,Ba đứa mình sẽ thay phiên nhau\Nthức canh chừng.
+Dialogue: 0,0:17:12.88,0:17:14.00,flashback,ZENT,0,0,0,,Làm được chứ hả?
+Dialogue: 0,0:17:14.34,0:17:15.38,flashback,YOUNG PERU,0,0,0,,Vâng.
+Dialogue: 0,0:17:25.72,0:17:28.00,flashback,YOUNG PERU,0,0,0,,Anh Zent, anh thức chưa?
+Dialogue: 0,0:17:28.00,0:17:29.80,flashback,ZENT,0,0,0,,Không ngủ được à?
+Dialogue: 0,0:17:29.80,0:17:33.05,flashback,YOUNG PERU,0,0,0,,Đầu em cứ ong ong sao ấy.
+Dialogue: 0,0:17:36.61,0:17:40.19,flashback,ZENT,0,0,0,,Xin lỗi nhé. Mày cũng háo hức được xem\Nmặt nạ của Darma lắm mà, đúng không?
+Dialogue: 0,0:17:42.65,0:17:46.56,flashback,YOUNG PERU,0,0,0,,Lúc làm mặt nạ thì trong đầu anh\Nnghĩ về điều gì thế?
+Dialogue: 0,0:17:46.56,0:17:49.13,flashback,ZENT,0,0,0,,Muốn hỏi bí quyết của anh à?
+Dialogue: 0,0:17:49.33,0:17:51.16,flashback,ZENT,0,0,0,,Chẳng có đường tắt nào hết.
+Dialogue: 0,0:17:51.16,0:17:54.64,flashback,ZENT,0,0,0,,Đơn giản là tại anh quá thiên tài thôi.
+Dialogue: 0,0:17:55.05,0:17:59.51,flashback,ZENT,0,0,0,,Với lại, chắc là vì anh luôn quan sát\Nmọi sinh vật xung quanh thật kỹ.
+Dialogue: 0,0:17:59.51,0:18:01.64,flashback,ZENT,0,0,0,,Làm vậy giúp việc hình dung ra chúng dễ dàng hơn.
+Dialogue: 0,0:18:01.64,0:18:04.82,flashback,YOUNG PERU,0,0,0,,Anh Zent giỏi thật đấy.
+Dialogue: 0,0:18:04.82,0:18:07.19,flashback,YOUNG PERU,0,0,0,,Hôm trước sư phụ cũng hết lời khen ngợi anh nữa.
+Dialogue: 0,0:18:15.64,0:18:16.70,flashback,YOUNG PERU,0,0,0,,Anh Zent!
+Dialogue: 0,0:18:46.06,0:18:47.50,flashback,ZENT,0,0,0,,Phù.
+Dialogue: 0,0:18:47.50,0:18:48.78,flashback,YOUNG PERU,0,0,0,,Anh Zent...
+Dialogue: 0,0:18:48.78,0:18:52.79,flashback,ZENT,0,0,0,,Con vật này chỉ được cái sủa ầm ĩ thôi.
+Dialogue: 0,0:18:52.79,0:18:54.77,flashback,ZENT,0,0,0,,Chứ nó mà lao vào cắn thật là cả đám bỏ mạng rồi.
+Dialogue: 0,0:18:57.23,0:19:00.02,flashback,ZENT,0,0,0,,N-Này, tự dưng sao lại khóc thế?
+Dialogue: 0,0:19:00.02,0:19:05.58,flashback,YOUNG PERU,0,0,0,,Thật ra em chẳng hề muốn\Nlàm nghệ nhân giỏi nhất gì hết.
+Dialogue: 0,0:19:05.58,0:19:07.77,flashback,YOUNG PERU,0,0,0,,Em làm gì có ước mơ lớn lao nào chứ.
+Dialogue: 0,0:19:07.77,0:19:10.59,flashback,YOUNG PERU,0,0,0,,Em chỉ muốn được thầy Gaston công nhận thôi!
+Dialogue: 0,0:19:10.59,0:19:11.90,flashback,ZENT,0,0,0,,Peru.
+Dialogue: 0,0:19:11.90,0:19:14.64,flashback,YOUNG PERU,0,0,0,,Em chẳng làm được tích sự gì ra hồn cả.
+Dialogue: 0,0:19:15.04,0:19:21.18,flashback,YOUNG PERU,0,0,0,,Chắc cũng vì thế nên bố mẹ mới bỏ rơi em.
+Dialogue: 0,0:19:23.34,0:19:27.29,flashback,ZENT,0,0,0,,Rồi mày cũng sẽ làm được mặt nạ thôi.\NAnh tin là ngày đó sắp tới rồi.
+Dialogue: 0,0:19:28.05,0:19:30.41,flashback,ZENT,0,0,0,,Vậy nên đừng khóc nữa, đồ mít ướt.
+Dialogue: 0,0:19:32.02,0:19:37.19,flashback,ZENT,0,0,0,,Thật ra anh với mẹ chẳng hợp nhau.\NHai mẹ con ít nói chuyện lắm.
+Dialogue: 0,0:19:37.77,0:19:41.95,flashback,ZENT,0,0,0,,Nhưng có lần bà ấy đã khen anh\Nkhi thấy anh đang đẽo mặt nạ.
+Dialogue: 0,0:19:42.86,0:19:46.70,flashback,ZENT,0,0,0,,Nghiêm túc đấy, cấm kể với ai nhé.\NMày mà hé răng là tao giết đấy.
+Dialogue: 0,0:19:48.49,0:19:50.70,flashback,ZENT,0,0,0,,Cầm lấy này. Cái của mày gãy rồi đúng không?
+Dialogue: 0,0:19:53.01,0:19:54.19,Default,YOUNG PERU,0,0,0,,Thật không vậy anh?
+Dialogue: 0,0:19:54.75,0:20:00.09,flashback,ZENT,0,0,0,,Sau giờ học mày toàn lén lôi mặt nạ của sư phụ\Nra tập đục đẽo theo, đúng không?
+Dialogue: 0,0:20:00.94,0:20:05.20,flashback,ZENT,0,0,0,,Trong số tất cả học trò,\Nmày là đứa nghiền ngẫm mặt nạ của thầy kỹ nhất đấy.
+Dialogue: 0,0:20:05.20,0:20:08.01,flashback,ZENT,0,0,0,,Thế nên mặt nạ của mày rồi cũng sẽ phát sáng thôi.
+Dialogue: 0,0:20:08.64,0:20:10.80,flashback,ZENT,0,0,0,,Anh bảo đảm với mày đấy.
+Dialogue: 0,0:20:12.62,0:20:13.74,flashback,YOUNG PERU,0,0,0,,Vâng.
+Dialogue: 0,0:20:19.43,0:20:24.27,italics,PERU/NA,0,0,0,,Cuối cùng, cả bọn mới đi được vài cây số\Nra khỏi thị trấn đã phải lếch thếch quay về.
+Dialogue: 0,0:20:24.65,0:20:26.42,italics,PERU/NA,0,0,0,,Đó chỉ là một chuyến phiêu lưu cỏn con.
+Dialogue: 0,0:20:27.09,0:20:32.63,italics,PERU/NA,0,0,0,,Nhưng ngày hôm ấy đã thay đổi hoàn toàn cuộc đời tôi.
+Dialogue: 0,0:20:33.04,0:20:35.59,italics,PERU/NA,0,0,0,,Sư phụ đã nổi trận lôi đình với chúng tôi.
+Dialogue: 0,0:20:36.22,0:20:41.41,italics,PERU/NA,0,0,0,,Đó là lần duy nhất tôi thấy thầy\Ngiận dữ đến nhường vậy.
+Dialogue: 0,0:20:44.46,0:20:47.93,italics,PERU/NA,0,0,0,,Ngẫm lại thì có lẽ Zent ngày ấy chỉ coi tôi
+Dialogue: 0,0:20:47.93,0:20:51.52,italics,PERU/NA,0,0,0,,như một thằng sư đệ nhỏ tuổi bình thường thôi.
+Dialogue: 0,0:20:52.31,0:20:56.43,italics,PERU/NA,0,0,0,,Thế nhưng, chính Zent là người đã tìm thấy tôi ngày hôm đó.
+Dialogue: 0,0:21:02.52,0:21:03.93,flashback,YOUNG PERU,0,0,0,,Anh Zent!
+Dialogue: 0,0:21:13.35,0:21:15.50,Default,PERU,0,0,0,,Mình nên đi mua chút hoa.
+Dialogue: 0,0:21:17.20,0:21:18.71,Default,PERU,0,0,0,,Chết tiệt thật.
+Dialogue: 0,0:21:19.46,0:21:23.22,Default,PERU,0,0,0,,Ngẩng mặt lên đi, đồ mít ướt.
+Dialogue: 0,0:21:43.52,0:21:45.78,Default,MASTER,0,0,0,,Lại có thêm người nữa tới kìa.
+Dialogue: 0,0:21:47.44,0:21:49.09,Default,MASTER,0,0,0,,Không biết là ai đây nhỉ.
+Dialogue: 0,0:23:20.80,0:23:23.02,italics,SONA/NA,0,0,0,,Chúng tôi đã đặt chân tới Iris.
+Dialogue: 0,0:23:23.02,0:23:27.46,italics,SONA/NA,0,0,0,,Lễ hội sinh nhật Gaston khiến cả thị trấn\Nđều ngập tràn không khí náo nhiệt,
+Dialogue: 0,0:23:27.46,0:23:30.33,italics,SONA/NA,0,0,0,,nhưng trong lòng Peru dường như đang mang nặng tâm sự.
+Dialogue: 0,0:23:30.82,0:23:35.28,italics,SONA/NA,0,0,0,,Một nhóm người mặc đồ đen bí ẩn\Nbất ngờ xuất hiện trước mặt chúng tôi,
+Dialogue: 0,0:23:35.28,0:23:37.59,italics,SONA/NA,0,0,0,,nhưng đằng sau những chiếc mặt nạ ấy...
+Dialogue: 0,0:23:37.59,0:23:40.93,italics,SONA/NA,0,0,0,,Hả? Peru, cậu quen người phụ nữ đó à?
+Dialogue: 0,0:23:41.31,0:23:45.59,italics,SONA/NA,0,0,0,,Tập tiếp theo của {\i0}Mặt Nạ Chu Sa{\i1}:\NTập 7, "Mặt Nạ Vong Linh."
+Dialogue: 0,0:23:46.61,0:23:49.98,top,sign,0,0,0,,TẬP 7\NMẶT NẠ VONG LINH\N{\fs14\i1}Phụ đề Việt ngữ: Amtia(NOFACE){\i0}
+Dialogue: 0,0:23:46.03,0:23:48.47,italics,SONA/NA,0,0,0,,Hành trình mặt nạ chính thức bắt đầu!
+
