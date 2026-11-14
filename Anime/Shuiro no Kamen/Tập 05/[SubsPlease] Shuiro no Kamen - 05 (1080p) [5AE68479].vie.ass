@@ -1,0 +1,359 @@
+﻿[Script Info]
+Title: Vietnamese Fansub (VietSub by Amtia(NOFACE))
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+ScaledBorderAndShadow: yes
+Video Aspect Ratio: 0
+Video Zoom: 8
+YCbCr Matrix: TV.601
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: top,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: italics,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: italicstop,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: flashback,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashback italics,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashbacktop,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: flashbackitalicstop,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: overlap,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: overlaptop,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: overlap italics,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: main,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.32,0:00:03.50,Default,LASGARL,0,0,0,,Khốn kiếp, con ả tóc hồng kia!
+Dialogue: 0,0:00:07.27,0:00:10.37,Default,MARLON,0,0,0,,Bọn chúng chạy cũng nhanh chân phết nhỉ?
+Dialogue: 0,0:00:10.65,0:00:12.85,Default,LASGARL,0,0,0,,Ta nhất định sẽ giết con ả tóc hồng đó.
+Dialogue: 0,0:00:13.12,0:00:18.61,Default,CLOWN,0,0,0,,Những kẻ đột nhập chắc chắn sẽ quay lại.\NChúng ta chỉ việc ngồi đợi thôi.
+Dialogue: 0,0:00:19.32,0:00:21.79,Default,MARLON,0,0,0,,Dựa vào đâu mà ngài chắc chắn vậy?
+Dialogue: 0,0:00:21.79,0:00:25.21,Default,CLOWN,0,0,0,,Một trong những kẻ đột nhập đó\Nlà thiếu niên tên Peru.
+Dialogue: 0,0:00:25.83,0:00:32.30,Default,CLOWN,0,0,0,,Cậu ta đang dùng mặt nạ tàng hình để đi khắp nơi\Nphá hủy những chiếc mặt nạ của Gaston.
+Dialogue: 0,0:00:32.61,0:00:35.78,Default,MARLON,0,0,0,,Tức là mục tiêu của cậu ta là mặt nạ của Tina.
+Dialogue: 0,0:00:35.78,0:00:39.39,Default,MARLON,0,0,0,,Sẽ rất rắc rối nếu cậu ta\Nlại tàng hình thêm lần nữa đấy.
+Dialogue: 0,0:00:39.39,0:00:42.11,Default,CLOWN,0,0,0,,Tôi nghĩ cậu ta sẽ không dùng lại chiêu cũ đâu.
+Dialogue: 0,0:00:42.11,0:00:46.97,Default,CLOWN,0,0,0,,Mặt nạ tàng hình hoàn toàn bất lợi\Nkhi đối đầu với Mặt Nạ Đọc Tâm mà.
+Dialogue: 0,0:00:46.97,0:00:49.38,Default,LASGARL,0,0,0,,Ta nhất định sẽ giết con ả tóc hồng đó.
+Dialogue: 0,0:00:50.19,0:00:52.33,flashback italics,MEMBER A,0,0,0,,Đúng là đứa nhóc quái dị.
+Dialogue: 0,0:00:52.33,0:00:54.40,flashback italics,MEMBER B,0,0,0,,Nhưng nó lại là công cụ đắc lực đấy.
+Dialogue: 0,0:00:54.40,0:00:56.83,italics,TINA,0,0,0,,Im đi, câm miệng lại hết đi.
+Dialogue: 0,0:02:36.51,0:02:40.01,top,EPTITLE; sign,0,0,0,,TẬP 5\NMẶT NẠ ĐỌC TÂM
+Dialogue: 0,0:02:46.07,0:02:48.77,Default,SONA,0,0,0,,Đám mafia mò tới tận nhà trọ của bọn mình luôn rồi.
+Dialogue: 0,0:02:49.06,0:02:51.70,Default,MOK,0,0,0,,Thấy chưa? Chuyển chỗ đi là sáng suốt quá còn gì?
+Dialogue: 0,0:02:51.70,0:02:54.18,Default,GIANNI,0,0,0,,Nhưng sao mấy người lại kéo tới chỗ {\i1}của tôi{\i0} hả?!
+Dialogue: 0,0:02:54.18,0:02:55.94,Default,MOK,0,0,0,,Ủa, có bánh pizza kìa.
+Dialogue: 0,0:02:54.96,0:02:55.94,top,GIANNI,0,0,0,,Này!
+Dialogue: 0,0:02:55.94,0:02:57.40,Default,SONA,0,0,0,,Hay quá!
+Dialogue: 0,0:02:57.40,0:02:58.98,Default,SONA,0,0,0,,Trông ngon quá đi!
+Dialogue: 0,0:02:59.26,0:03:02.11,Default,GIANNI,0,0,0,,B-Bữa tối của tôi...
+Dialogue: 0,0:03:02.95,0:03:05.65,Default,MOK,0,0,0,,Chà, bọn chúng đông quân thật đấy.
+Dialogue: 0,0:03:05.65,0:03:07.33,Default,MOK,0,0,0,,Liệu mình có đưa Tina ra khỏi đó được không?
+Dialogue: 0,0:03:07.72,0:03:10.03,Default,PERU,0,0,0,,Đám tay chân của Marlon thì không đáng ngại,
+Dialogue: 0,0:03:10.62,0:03:13.91,Default,PERU,0,0,0,,nhưng tên hề và ả đeo mặt nạ kia\Nlại là chuyện hoàn toàn khác.
+Dialogue: 0,0:03:14.25,0:03:16.39,Default,PERU,0,0,0,,Phải tách bọn chúng ra khỏi Tina trước đã.
+Dialogue: 0,0:03:17.66,0:03:19.09,Default,SONA,0,0,0,,Nhưng bằng cách nào mới được?
+Dialogue: 0,0:03:19.35,0:03:20.94,Default,PERU,0,0,0,,Ta sẽ dùng chiếc mặt nạ này.
+Dialogue: 0,0:03:24.61,0:03:27.07,Default,SONA,0,0,0,,Cậu biến thành ông già luôn rồi kìa!
+Dialogue: 0,0:03:27.47,0:03:29.64,Default,PERU,0,0,0,,Mặt Nạ Ngụy Trang.
+Dialogue: 0,0:03:29.64,0:03:34.19,Default,PERU,0,0,0,,Nó cho phép người đeo và vật chạm vào\Nthay đổi thành diện mạo khác.
+Dialogue: 0,0:03:34.19,0:03:36.96,Default,MOK,0,0,0,,Cậu chế tạo được cả thứ thế này luôn à?
+Dialogue: 0,0:03:37.79,0:03:39.02,Default,MOK & SONA,0,0,0,,Hả?
+Dialogue: 0,0:03:39.02,0:03:41.19,Default,PERU,0,0,0,,Hễ chạm trực tiếp vào lớp ngụy trang là nó biến mất ngay.
+Dialogue: 0,0:03:41.19,0:03:43.42,Default,MOK,0,0,0,,Điểm yếu chí mạng quá vậy.
+Dialogue: 0,0:03:43.80,0:03:46.94,Default,PERU,0,0,0,,Nhưng bù lại, chiếc mặt nạ này\Ncó thể đeo trong thời gian rất dài.
+Dialogue: 0,0:03:47.24,0:03:50.24,Default,PERU,0,0,0,,Tên hề kia từng bảo hắn đang thu thập mặt nạ.
+Dialogue: 0,0:03:50.24,0:03:54.38,Default,PERU,0,0,0,,Hắn có thể sẽ nghi ngờ một nghệ nhân mặt nạ ghé thăm,\Nnhưng chắc chắn không thể làm ngơ được.
+Dialogue: 0,0:03:54.38,0:03:58.33,Default,SONA,0,0,0,,Vậy kế hoạch là cậu cải trang thành nghệ nhân\Nđể thu hút sự chú ý của hắn đúng không?
+Dialogue: 0,0:03:58.33,0:04:02.45,Default,PERU,0,0,0,,Ừ. Anh Mok, nhân lúc hắn mất cảnh giác,\Nanh hãy đưa Tina ra ngoài.
+Dialogue: 0,0:04:02.45,0:04:04.17,Default,MOK,0,0,0,,Hả, tôi á?
+Dialogue: 0,0:04:04.17,0:04:07.55,Default,PERU,0,0,0,,Tôi sẽ giới thiệu thợ gỡ mặt nạ cho anh.\NChuyện cỏn con này anh làm được mà.
+Dialogue: 0,0:04:07.55,0:04:08.63,Default,MOK,0,0,0,,Còn lâu nhé.
+Dialogue: 0,0:04:08.63,0:04:10.68,Default,MORENO,0,0,0,,Tôi hứa nhất định sẽ hậu tạ anh xứng đáng.
+Dialogue: 0,0:04:11.01,0:04:14.04,Default,MOK,0,0,0,,À, thế thì lại là chuyện khác.\NTôi muốn nhận tiền công trước.
+Dialogue: 0,0:04:14.04,0:04:16.26,Default,SONA,0,0,0,,Cô Moreno, cô không cần trả tiền cho bọn cháu đâu!
+Dialogue: 0,0:04:16.26,0:04:17.22,Default,MOK,0,0,0,,Có chứ, trả đi!
+Dialogue: 0,0:04:17.22,0:04:18.12,Default,SONA,0,0,0,,Không cần mà!
+Dialogue: 0,0:04:18.12,0:04:18.81,Default,MOK,0,0,0,,Cần chứ sao không!
+Dialogue: 0,0:04:18.81,0:04:19.60,Default,SONA,0,0,0,,Đã bảo không cần!
+Dialogue: 0,0:04:19.60,0:04:21.72,Default,PERU,0,0,0,,Tôi vẫn chưa nói xong đâu đấy!
+Dialogue: 0,0:04:21.72,0:04:23.35,Default,SONA,0,0,0,,Nhưng mà anh Mok...
+Dialogue: 0,0:04:21.72,0:04:23.35,top,MOK,0,0,0,,Cơ mà Sona này...
+Dialogue: 0,0:04:24.98,0:04:26.68,Default,MORENO,0,0,0,,Cô xin lỗi.
+Dialogue: 0,0:04:26.68,0:04:29.86,Default,MORENO,0,0,0,,Hai đứa làm cô nhớ tới chuyện ngày xưa quá.
+Dialogue: 0,0:04:30.64,0:04:33.62,Default,MORENO,0,0,0,,Con bé ngày trước chơi đùa với bạn bè vui vẻ lắm.
+Dialogue: 0,0:04:34.43,0:04:37.91,Default,MORENO,0,0,0,,Sau này các cháu cũng làm bạn với Tina được không?
+Dialogue: 0,0:04:38.20,0:04:42.33,Default,SONA,0,0,0,,Tất nhiên rồi ạ. Lâu lắm rồi cháu chưa có\Nbạn thân là con gái đấy.
+Dialogue: 0,0:04:42.33,0:04:44.21,Default,MOK,0,0,0,,Khổ thân chưa kìa.
+Dialogue: 0,0:04:44.83,0:04:47.28,Default,SONA,0,0,0,,Ý anh nói thế là sao hả?!
+Dialogue: 0,0:04:46.57,0:04:48.19,top,PERU,0,0,0,,Bạn bè sao...
+Dialogue: 0,0:04:47.28,0:04:48.57,Default,MOK,0,0,0,,Tôi nói đúng sự thật chứ sao.
+Dialogue: 0,0:04:48.57,0:04:49.62,Default,SONA,0,0,0,,Cái gì cơ?!
+Dialogue: 0,0:04:56.98,0:04:58.39,Default,SONA,0,0,0,,Có chuyện gì thế?
+Dialogue: 0,0:04:59.23,0:05:01.90,Default,PERU,0,0,0,,Cứ nằm trên giường nghỉ ngơi đi.
+Dialogue: 0,0:05:03.43,0:05:04.87,Default,SONA,0,0,0,,Ừ.
+Dialogue: 0,0:05:12.88,0:05:15.28,Default,MOK,0,0,0,,Tay phải cậu vẫn còn đau à?
+Dialogue: 0,0:05:15.63,0:05:17.30,Default,MOK,0,0,0,,Thấy cậu mà thương thay luôn ấy.
+Dialogue: 0,0:05:17.30,0:05:18.74,Default,PERU,0,0,0,,Cũng không hẳn.
+Dialogue: 0,0:05:18.74,0:05:23.39,Default,MOK,0,0,0,,Không cần phải giấu giếm đâu.\NÝ tôi là với Sona ấy, không phải tôi.
+Dialogue: 0,0:05:24.70,0:05:26.26,Default,MOK,0,0,0,,Tôi cứ tưởng hai đứa thân nhau tới mức
+Dialogue: 0,0:05:26.26,0:05:28.69,Default,MOK,0,0,0,,có thể để đối phương thấy lúc mình\Nchật vật khổ sở rồi chứ.
+Dialogue: 0,0:05:29.17,0:05:33.92,Default,PERU,0,0,0,,Anh Mok, anh chủ động chuyển chỗ ẩn náu.\NAnh rất rành mấy chuyện này nhỉ.
+Dialogue: 0,0:05:33.92,0:05:35.94,Default,PERU,0,0,0,,Trước đây anh từng sống cuộc đời thế nào vậy?
+Dialogue: 0,0:05:40.21,0:05:44.90,Default,MOK,0,0,0,,Tôi chỉ là một gã bồi bàn quèn thôi.\NChẳng có quá khứ nặng nề gì đâu.
+Dialogue: 0,0:05:45.41,0:05:49.62,Default,MOK,0,0,0,,Quá khứ của cậu nghe còn kịch tính\Nhơn tôi gấp vạn lần ấy.
+Dialogue: 0,0:05:51.87,0:05:54.82,Default,PERU,0,0,0,,Anh đã nghe đồn rồi, đúng không?
+Dialogue: 0,0:05:56.36,0:06:01.80,Default,PERU,0,0,0,,Chuyện ngài Gaston cùng các đệ tử\Nbị chính học trò của mình thảm sát.
+Dialogue: 0,0:06:02.79,0:06:05.34,Default,MOK,0,0,0,,Ờ, tôi có nghe lời đồn đó.
+Dialogue: 0,0:06:05.93,0:06:07.14,Default,PERU,0,0,0,,Kẻ đó chính là tôi.
+Dialogue: 0,0:06:07.14,0:06:08.13,Default,MOK,0,0,0,,Thật hả trời?!
+Dialogue: 0,0:06:08.50,0:06:10.14,Default,PERU,0,0,0,,Anh biết thừa rồi còn gì?
+Dialogue: 0,0:06:12.48,0:06:13.68,Default,MOK,0,0,0,,Lộ liễu thế cơ à?
+Dialogue: 0,0:06:14.34,0:06:18.32,Default,PERU,0,0,0,,Đôi lúc trên đường lữ hành,\Ntôi lỡ thả lỏng cảnh giác.
+Dialogue: 0,0:06:18.57,0:06:21.98,Default,PERU,0,0,0,,Mỗi lần như thế, bọn họ đều chỉ thẳng\Ntay vào mặt tôi
+Dialogue: 0,0:06:22.69,0:06:25.16,Default,PERU,0,0,0,,và nhắc tôi đừng bao giờ quên tội ác của mình.
+Dialogue: 0,0:06:26.71,0:06:28.06,Default,PERU,0,0,0,,Họ căm hận tôi.
+Dialogue: 0,0:06:28.56,0:06:30.23,Default,MOK,0,0,0,,Đồ ngốc.
+Dialogue: 0,0:06:31.06,0:06:33.70,Default,MOK,0,0,0,,Người chết thì làm sao biết căm hận ai được.
+Dialogue: 0,0:06:34.17,0:06:36.80,Default,MOK,0,0,0,,Chỉ là tự cậu không tha thứ nổi cho bản thân thôi.
+Dialogue: 0,0:06:37.62,0:06:40.06,Default,MOK,0,0,0,,Vậy để tôi thay mặt họ tha thứ cho cậu trước nhé.
+Dialogue: 0,0:06:40.54,0:06:42.42,Default,MOK,0,0,0,,Giờ thì ngoan ngoãn leo lên giường ngủ đi nhóc.
+Dialogue: 0,0:06:42.81,0:06:47.22,Default,MOK,0,0,0,,Cơ mà đôi khi, dù thừa biết là thế,\Nngười ta vẫn chẳng thể chịu đựng nổi.
+Dialogue: 0,0:06:51.94,0:06:54.93,Default,FEMALE EMPLOYEE,0,0,0,,Vị tiên sinh này muốn tới giám định mặt nạ ạ.
+Dialogue: 0,0:06:55.34,0:06:59.08,Default,OLD MAN,0,0,0,,Nghe nói quý phủ đang sở hữu một kiệt tác\Nvô cùng tinh xảo.
+Dialogue: 0,0:07:01.14,0:07:03.45,Default,CLOWN,0,0,0,,Mời đi lối này.
+Dialogue: 0,0:07:09.03,0:07:10.48,Default,TINA,0,0,0,,A-Anh là ai vậy?
+Dialogue: 0,0:07:10.48,0:07:12.04,Default,MOK,0,0,0,,Nhóc là Tina phải không?
+Dialogue: 0,0:07:12.04,0:07:15.35,Default,MOK,0,0,0,,Nhóc đang bị băng mafia lợi dụng\Nvì chiếc Mặt Nạ Đọc Tâm đấy.
+Dialogue: 0,0:07:15.35,0:07:16.71,Default,TINA,0,0,0,,Mấy người rốt cuộc là ai?
+Dialogue: 0,0:07:17.30,0:07:19.50,Default,MOK,0,0,0,,Không còn thời gian để lấy lòng nhóc đâu.
+Dialogue: 0,0:07:19.50,0:07:20.78,Default,MOK,0,0,0,,Mau rời khỏi đây thôi.
+Dialogue: 0,0:07:26.98,0:07:30.21,Default,MARLON,0,0,0,,Ngươi định mang con bé kia đi đâu thế?
+Dialogue: 0,0:07:30.53,0:07:33.12,Default,MOK,0,0,0,,Chết tiệt. Bị phát hiện mất rồi.
+Dialogue: 0,0:07:34.58,0:07:39.06,Default,OLD MAN,0,0,0,,Ủa? Chìa khóa chiếc rương hành lý\Ntôi để đâu mất tiêu rồi nhỉ?
+Dialogue: 0,0:07:40.98,0:07:45.28,Default,CLOWN,0,0,0,,Xem ra cậu không chỉ là nghệ nhân tài hoa,\Nmà diễn xuất cũng cừ khôi ra trò đấy.
+Dialogue: 0,0:07:46.05,0:07:52.34,Default,CLOWN,0,0,0,,Tôi cố tình hùa theo màn câu giờ của cậu\Nvì muốn được trò chuyện với cậu một lát.
+Dialogue: 0,0:07:53.57,0:07:59.41,Default,CLOWN,0,0,0,,Mặt Nạ Võ Thần của ngài Gaston\Nđang nằm trong chiếc rương đó, đúng không?
+Dialogue: 0,0:08:01.37,0:08:05.83,Default,CLOWN,0,0,0,,Hãy cùng tôi dùng sức mạnh của mặt nạ\Nthay đổi thế giới nhỏ bé tầm thường này đi.
+Dialogue: 0,0:08:10.33,0:08:12.65,Default,MARLON,0,0,0,,Cô gái à, trước hết ta nên ưu tiên—
+Dialogue: 0,0:08:12.65,0:08:14.23,Default,LASGARL,0,0,0,,Con ả tóc hồng kia!
+Dialogue: 0,0:08:14.60,0:08:17.34,Default,MARLON,0,0,0,,Cô thật sự nên biết nghe lời tôi một chút đi.
+Dialogue: 0,0:08:17.34,0:08:19.02,Default,MARLON,0,0,0,,Lên đi, các con!
+Dialogue: 0,0:08:28.48,0:08:30.01,Default,MOK,0,0,0,,Sona, chạy đi!
+Dialogue: 0,0:08:31.48,0:08:32.45,Default,MOK,0,0,0,,Sona!
+Dialogue: 0,0:08:36.02,0:08:37.50,Default,MOK,0,0,0,,Đùa chút thôi mà.
+Dialogue: 0,0:08:41.45,0:08:44.76,Default,LASGARL,0,0,0,,Ả tóc hồng giả mạo à?!
+Dialogue: 0,0:08:45.16,0:08:47.67,Default,MOK,0,0,0,,Cảm ơn vì đã hăng hái lao vào đánh thế nhé.
+Dialogue: 0,0:08:53.85,0:08:56.35,Default,PERU,0,0,0,,Tôi không nhập bọn với ngươi đâu.
+Dialogue: 0,0:08:58.63,0:09:00.06,Default,CLOWN,0,0,0,,Cái gì đây?
+Dialogue: 0,0:09:01.52,0:09:03.43,Default,SECOND SON,0,0,0,,H-Hắn lún thẳng xuống đất rồi kìa?!
+Dialogue: 0,0:09:03.43,0:09:04.65,Default,PERU,0,0,0,,Mặt Nạ Chuột Chũi!
+Dialogue: 0,0:09:06.57,0:09:08.39,Default,THIRD SON,0,0,0,,N-Này!
+Dialogue: 0,0:09:14.03,0:09:17.53,Default,SECOND SON,0,0,0,,Cái quái gì thế này? Cứu con với, Mẹ ơi!
+Dialogue: 0,0:09:19.01,0:09:20.35,Default,SONA,0,0,0,,Sợ muốn thót tim luôn.
+Dialogue: 0,0:09:20.35,0:09:22.10,Default,PERU,0,0,0,,Làm tốt lắm, Sona.
+Dialogue: 0,0:09:23.50,0:09:26.93,Default,PERU,0,0,0,,Tôi đoán trước được hắn có thể cảm nhận\Nđược Mặt Nạ Võ Thần.
+Dialogue: 0,0:09:26.93,0:09:30.51,Default,PERU,0,0,0,,Nhờ vậy hắn không mảy may nghi ngờ tôi đóng giả ông lão,\Nvà để lộ sơ hở.
+Dialogue: 0,0:09:30.77,0:09:33.35,Default,SONA,0,0,0,,Đỉnh thật đấy. Mình mau đi hội ngộ với anh Mok thôi.
+Dialogue: 0,0:09:38.48,0:09:40.39,Default,PERU,0,0,0,,Sao ngươi lại quay trở lại được?
+Dialogue: 0,0:09:40.39,0:09:44.34,Default,CLOWN,0,0,0,,Tất nhiên là tôi giấu sẵn khối mánh khóe\Ntrong tay áo rồi.
+Dialogue: 0,0:09:45.02,0:09:47.48,Default,CLOWN,0,0,0,,Nhưng đời nào tôi lại tiết lộ cho cậu biết được.
+Dialogue: 0,0:09:48.04,0:09:50.01,Default,CLOWN,0,0,0,,Mặt Nạ Binh Sĩ.
+Dialogue: 0,0:09:53.37,0:09:55.65,italics,PERU/ID,0,0,0,,Hắn biến bài tây thành binh sĩ được sao?
+Dialogue: 0,0:09:55.65,0:09:57.10,Default,PERU,0,0,0,,Mặt Nạ Nhện!
+Dialogue: 0,0:09:59.33,0:10:01.84,Default,PERU,0,0,0,,Sona, chạy tới chỗ anh Mok đi!
+Dialogue: 0,0:10:01.84,0:10:02.66,Default,SONA,0,0,0,,Biết rồi!
+Dialogue: 0,0:10:04.52,0:10:05.95,Default,CLOWN,0,0,0,,Đuổi theo cô ta đi.
+Dialogue: 0,0:10:11.09,0:10:13.38,Default,PERU,0,0,0,,Tôi sẽ chặn đứng các ngươi tại đây!
+Dialogue: 0,0:10:20.45,0:10:23.79,Default,MOK,0,0,0,,Chà chà. Cái năng lực này phiền toái thật đấy.
+Dialogue: 0,0:10:23.79,0:10:25.14,Default,TINA,0,0,0,,Vậy thì bỏ mặc tôi lại đây đi.
+Dialogue: 0,0:10:25.41,0:10:28.14,Default,TINA,0,0,0,,Tôi đâu có nhờ mấy người lôi tôi khỏi chỗ đó.
+Dialogue: 0,0:10:28.14,0:10:31.91,Default,MOK,0,0,0,,Không được đâu.\NMẹ nhóc đang chờ nhóc ngoài kia đấy.
+Dialogue: 0,0:10:35.27,0:10:37.24,italics,MOK/ID,0,0,0,,Thôi chết tiệt!
+Dialogue: 0,0:10:37.53,0:10:38.77,Default,MEMBER C,0,0,0,,Vừa nghe thấy tiếng nói phát ra đấy.
+Dialogue: 0,0:10:39.22,0:10:40.67,Default,MOK,0,0,0,,Chạy lẹ thôi!
+Dialogue: 0,0:10:44.66,0:10:47.04,top,SIGN,0,0,0,,MẶT NẠ CHUỘT CHŨI
+Dialogue: 0,0:10:49.66,0:10:52.04,top,SIGN,0,0,0,,MẶT NẠ BINH SĨ
+Dialogue: 0,0:10:52.04,0:10:53.59,Default,GUEST,0,0,0,,Chuyện gì đang xảy ra thế?
+Dialogue: 0,0:10:53.59,0:10:54.55,Default,GUEST,0,0,0,,Thật luôn hả trời?
+Dialogue: 0,0:10:54.55,0:10:56.44,italics,GUEST A/ID,0,0,0,,Toàn lũ khách khứa chướng tai gai mắt.
+Dialogue: 0,0:10:56.44,0:10:58.26,Default,GUEST A,0,0,0,,Mình vừa buột miệng nói ra thật à?
+Dialogue: 0,0:10:58.26,0:11:00.57,italics,GUEST B/ID,0,0,0,,Cái quái gì thế này? Rợn cả người.
+Dialogue: 0,0:11:00.57,0:11:01.83,Default,MOK,0,0,0,,Ra là vậy.
+Dialogue: 0,0:11:02.23,0:11:04.47,italics,MOK/ID,0,0,0,,Cũng chẳng dễ chịu chút nào nhỉ?
+Dialogue: 0,0:11:07.43,0:11:11.40,italics,MOK/ID,0,0,0,,Khi con bé bình tĩnh lại thì phạm vi tác dụng\Nsẽ thu hẹp đi, đúng không?
+Dialogue: 0,0:11:11.40,0:11:13.72,italics,MOK/ID,0,0,0,,Hay mình nấp ở cầu thang đợi\Ncon bé bình tĩnh lại nhỉ?
+Dialogue: 0,0:11:13.72,0:11:15.29,Default,MEMBER C,0,0,0,,Nghe thấy rồi! Bọn chúng ở ngoài cầu thang!
+Dialogue: 0,0:11:15.29,0:11:16.75,Default,MEMBER D,0,0,0,,Đánh úp hai đầu đi!
+Dialogue: 0,0:11:15.92,0:11:18.84,top,MOK,0,0,0,,Ờ quên mất. Đứng gần quá bọn nó cũng nghe được.
+Dialogue: 0,0:11:19.18,0:11:20.94,Default,MOK,0,0,0,,Này, đừng có chạy một mình thế chứ!
+Dialogue: 0,0:11:22.25,0:11:23.50,italics,SONA/ID,0,0,0,,Coi chừng!
+Dialogue: 0,0:11:25.61,0:11:26.57,Default,TINA,0,0,0,,Hả?
+Dialogue: 0,0:11:26.96,0:11:30.24,italics,SONA/ID,0,0,0,,Chà, đúng là suy nghĩ trong đầu bị lộ sạch thật luôn.
+Dialogue: 0,0:11:30.70,0:11:32.41,italics,SONA/ID,0,0,0,,Chắc đây là Tina rồi.
+Dialogue: 0,0:11:33.53,0:11:34.63,Default,SONA,0,0,0,,Cậu có sao không?
+Dialogue: 0,0:11:34.99,0:11:37.84,Default,SONA,0,0,0,,Tớ là Sona. Rất vui được làm quen.
+Dialogue: 0,0:11:37.84,0:11:39.96,italics,SONA/ID,0,0,0,,Mong là chúng mình có thể làm bạn.
+Dialogue: 0,0:11:41.54,0:11:43.14,Default,SONA,0,0,0,,Ngại chết mất thôi!
+Dialogue: 0,0:11:44.33,0:11:45.33,Default,MOK,0,0,0,,Peru đâu rồi?
+Dialogue: 0,0:11:45.33,0:11:47.09,Default,SONA,0,0,0,,Cậu ấy đang cầm chân tên hề kia rồi.
+Dialogue: 0,0:11:47.09,0:11:50.80,italics,SONA/ID,0,0,0,,Nhưng tên đó nguy hiểm lắm. Lo cho cậu ấy quá.
+Dialogue: 0,0:11:50.80,0:11:53.02,italics,MOK/ID,0,0,0,,Phải quay lại giúp cậu ta mới được.
+Dialogue: 0,0:11:53.02,0:11:54.61,Default,SONA,0,0,0,,Anh tốt bụng thật đấy.
+Dialogue: 0,0:11:54.61,0:11:55.61,Default,MOK,0,0,0,,Im đi.
+Dialogue: 0,0:11:57.63,0:11:59.92,Default,LASGARL,0,0,0,,Con ả tóc hồng kia!
+Dialogue: 0,0:12:01.85,0:12:02.89,Default,MOK,0,0,0,,Nằm xuống!
+Dialogue: 0,0:12:05.52,0:12:06.66,Default,MORENO,0,0,0,,Tina!
+Dialogue: 0,0:12:06.66,0:12:09.13,Default,GIANNI,0,0,0,,Này, cô chạy đi đâu thế hả?!
+Dialogue: 0,0:12:11.05,0:12:13.48,Default,PERU,0,0,0,,Tôi sẽ không để ngươi tới gần Tina đâu!
+Dialogue: 0,0:12:13.48,0:12:16.08,Default,CLOWN,0,0,0,,Tiếc quá, tôi buộc phải đi thôi.
+Dialogue: 0,0:12:16.08,0:12:20.26,Default,CLOWN,0,0,0,,Tôi vẫn còn khối kế hoạch dành cho\NMặt Nạ Đọc Tâm lắm.
+Dialogue: 0,0:12:23.80,0:12:25.96,Default,CLOWN,0,0,0,,Mặt Nạ Bóng Bay.
+Dialogue: 0,0:12:25.96,0:12:27.54,Default,PERU,0,0,0,,Lại một chiếc mặt nạ khác sao?
+Dialogue: 0,0:12:47.90,0:12:50.88,Default,MEMBER,0,0,0,,Ch-Chuyện quái gì xảy ra ở đây vậy?
+Dialogue: 0,0:12:51.82,0:12:53.80,Default,CLOWN,0,0,0,,Vẫn còn sức để đánh tiếp cơ à?
+Dialogue: 0,0:13:00.71,0:13:01.92,Default,MEMBER,0,0,0,,Ngươi đang làm cái gì thế hả?!
+Dialogue: 0,0:13:02.55,0:13:03.75,Default,MEMBER A,0,0,0,,Cứu với!
+Dialogue: 0,0:13:03.75,0:13:05.77,Default,MEMBER B,0,0,0,,Đ-Đừng làm thế mà!
+Dialogue: 0,0:13:05.77,0:13:07.13,Default,PERU,0,0,0,,Chẳng lẽ nào?
+Dialogue: 0,0:13:07.13,0:13:09.06,Default,CLOWN,0,0,0,,Mặt Nạ Đại Bác!
+Dialogue: 0,0:13:14.67,0:13:16.40,Default,PERU,0,0,0,,Bọn họ chẳng phải phe của ngươi sao?!
+Dialogue: 0,0:13:16.71,0:13:19.35,Default,CLOWN,0,0,0,,Mặt nạ còn đáng giá hơn cả mạng người.
+Dialogue: 0,0:13:19.61,0:13:23.31,Default,CLOWN,0,0,0,,Thật ra tôi là người hâm mộ của cậu đấy nhé.
+Dialogue: 0,0:13:23.31,0:13:24.55,Default,PERU,0,0,0,,Hả?
+Dialogue: 0,0:13:24.55,0:13:28.59,Default,CLOWN,0,0,0,,Cậu từng dùng Mặt Nạ Võ Thần để giết người,\Nđúng không nào?
+Dialogue: 0,0:13:28.59,0:13:29.84,Default,PERU,0,0,0,,Cái gì?
+Dialogue: 0,0:13:38.21,0:13:42.04,Default,PERU,0,0,0,,Không ngờ lại có kẻ sử dụng thành thạo\Nnhiều mặt nạ đến mức này.
+Dialogue: 0,0:13:47.63,0:13:52.00,Default,PERU,0,0,0,,Đúng thế. Tôi đã gây ra tội lỗi\Nkhông thể nào vãn hồi được.
+Dialogue: 0,0:13:52.77,0:13:57.59,Default,PERU,0,0,0,,Chính vì vậy, tôi không muốn thấy thêm ai\Nphải chịu đau khổ vì mặt nạ nữa.
+Dialogue: 0,0:13:57.93,0:14:01.05,Default,PERU,0,0,0,,Tôi tuyệt đối không để cô bé trở thành\Nnạn nhân của chiếc mặt nạ đó đâu!
+Dialogue: 0,0:14:02.36,0:14:03.32,Default,PERU,0,0,0,,Mặt Nạ Chuột Chũi!
+Dialogue: 0,0:14:41.22,0:14:43.19,Default,CLOWN,0,0,0,,Tôi đọc vị hết trò của cậu rồi.
+Dialogue: 0,0:14:57.17,0:14:59.89,Default,GASTON,0,0,0,,Quá khứ chẳng thể nào thay đổi được đâu.
+Dialogue: 0,0:15:05.58,0:15:07.08,Default,SONA,0,0,0,,Mau lên, đi lối này!
+Dialogue: 0,0:15:07.08,0:15:09.56,Default,LASGARL,0,0,0,,Con ả tóc hồng kia, ta sẽ giết ngươi!
+Dialogue: 0,0:15:15.02,0:15:17.44,italics,SONA/ID,0,0,0,,N-Nguy hiểm suýt chết.
+Dialogue: 0,0:15:17.44,0:15:20.26,italics,SONA/ID,0,0,0,,Suýt chút nữa mất mạng chỉ vì\Nlỡ đánh rơi ít sơn lên người ả ta.
+Dialogue: 0,0:15:20.26,0:15:22.21,italics,LASGARL/ID,0,0,0,,Phải rồi, chết đi!
+Dialogue: 0,0:15:22.21,0:15:23.81,Default,MOK,0,0,0,,Mau thoát khỏi đây đi!
+Dialogue: 0,0:15:23.81,0:15:24.81,Default,SONA,0,0,0,,Vâng!
+Dialogue: 0,0:15:25.77,0:15:27.15,italics,LASGARL/ID,0,0,0,,Đừng hòng chạy thoát!
+Dialogue: 0,0:15:32.82,0:15:33.90,Default,LASGARL,0,0,0,,Cái gì?!
+Dialogue: 0,0:15:35.67,0:15:38.75,Default,MOK,0,0,0,,Nào. Chọn xem đâu là ả tóc hồng yêu thích của cô đi.
+Dialogue: 0,0:15:43.76,0:15:46.80,italics,SONA/ID,0,0,0,,Sắp ra ngoài được rồi!\NChờ bọn cháu với, cô Moreno!
+Dialogue: 0,0:15:46.80,0:15:48.12,Default,TINA,0,0,0,,Không!
+Dialogue: 0,0:15:48.42,0:15:50.72,Default,TINA,0,0,0,,Tất cả đều vô ích thôi!
+Dialogue: 0,0:15:50.72,0:15:52.85,Default,TINA,0,0,0,,Dù có ra khỏi đây, tôi cũng chẳng còn nơi nào để về!
+Dialogue: 0,0:15:52.85,0:15:56.17,Default,TINA,0,0,0,,Chỉ có nơi này mới chịu dung chứa tôi thôi!
+Dialogue: 0,0:15:56.51,0:15:59.19,Default,SONA,0,0,0,,Đừng tự dối lòng nữa.
+Dialogue: 0,0:16:02.23,0:16:07.57,italics,SONA/ID,0,0,0,,Gần đây tớ mới nhận ra thế giới này\Nrộng lớn hơn tớ tưởng rất nhiều.
+Dialogue: 0,0:16:07.57,0:16:08.74,Default,TINA,0,0,0,,Gì cơ?
+Dialogue: 0,0:16:08.74,0:16:13.22,italics,SONA/ID,0,0,0,,Chắc chắn ngoài kia cũng có một thế giới\Nsẵn sàng đón nhận cậu đấy.
+Dialogue: 0,0:16:13.22,0:16:15.53,italics,SONA/ID,0,0,0,,Tớ muốn trở thành một phần trong thế giới đó cùng cậu.
+Dialogue: 0,0:16:15.53,0:16:16.91,Default,TINA,0,0,0,,Cậu nói dối.
+Dialogue: 0,0:16:17.24,0:16:20.41,italics,SONA/ID,0,0,0,,Suy nghĩ trong đầu sao mà nói dối được chứ? Kỳ cục ghê.
+Dialogue: 0,0:16:22.07,0:16:23.24,Default,MORENO,0,0,0,,Tina!
+Dialogue: 0,0:16:26.38,0:16:29.94,Default,MORENO,0,0,0,,Con bình an vô sự rồi. Mẹ nhớ con lắm.
+Dialogue: 0,0:16:34.13,0:16:35.38,Default,TINA,0,0,0,,Đừng lại gần đây!
+Dialogue: 0,0:16:37.20,0:16:39.43,Default,MARLON,0,0,0,,Quay lại đây nào, Tina.
+Dialogue: 0,0:16:39.82,0:16:40.86,Default,TINA,0,0,0,,Bà Marlon!
+Dialogue: 0,0:16:40.86,0:16:45.76,Default,MARLON,0,0,0,,Chẳng phải người đàn bà đó từng ước gì\Ncháu chưa từng tồn tại trên đời sao?
+Dialogue: 0,0:16:46.04,0:16:47.22,Default,MORENO,0,0,0,,D-Dừng lại đi!
+Dialogue: 0,0:16:47.22,0:16:50.71,Default,MARLON,0,0,0,,Ngay cả mẹ ruột mà còn nhẫn tâm với cháu như vậy đấy.
+Dialogue: 0,0:16:50.71,0:16:55.60,Default,MARLON,0,0,0,,Nhưng bọn ta thì khác. Về nhà với ta đi.
+Dialogue: 0,0:16:55.60,0:16:59.06,Default,MARLON,0,0,0,,Cháu không thể sống cuộc đời bình thường được đâu.
+Dialogue: 0,0:17:00.52,0:17:02.56,Default,MARLON,0,0,0,,Đúng là chiếc mặt nạ phiền phức!
+Dialogue: 0,0:17:06.19,0:17:07.48,Default,SONA,0,0,0,,Buông ra!
+Dialogue: 0,0:17:07.88,0:17:09.38,Default,MORENO,0,0,0,,Không được tới gần con bé!
+Dialogue: 0,0:17:09.38,0:17:10.92,Default,MARLON,0,0,0,,Bắt lấy ả.
+Dialogue: 0,0:17:14.75,0:17:16.47,Default,ELDEST SON,0,0,0,,Đừng chống cự vô ích!
+Dialogue: 0,0:17:16.47,0:17:18.17,Default,MARLON,0,0,0,,Tránh ra khỏi đường ta!
+Dialogue: 0,0:17:19.08,0:17:21.07,Default,MORENO,0,0,0,,Ch-Chạy đi!
+Dialogue: 0,0:17:21.07,0:17:22.89,italics,MORENO/ID,0,0,0,,Chạy mau lên đi con!
+Dialogue: 0,0:17:23.63,0:17:25.06,Default,TINA,0,0,0,,Mẹ ơi!
+Dialogue: 0,0:17:26.40,0:17:31.16,Default,CLOWN,0,0,0,,Nếu ta tước đi người mà con bé yêu thương nhất,\Nnó sẽ đánh mất tia hy vọng cuối cùng
+Dialogue: 0,0:17:31.16,0:17:34.61,Default,CLOWN,0,0,0,,và thật tâm tin rằng chỉ có chiếc mặt nạ\Nmới là chốn dung thân duy nhất của mình.
+Dialogue: 0,0:17:41.85,0:17:42.94,Default,MORENO,0,0,0,,Cậu Peru!
+Dialogue: 0,0:17:42.94,0:17:43.82,Default,SONA,0,0,0,,Peru!
+Dialogue: 0,0:17:43.82,0:17:45.18,italics,PERU/ID,0,0,0,,Đau quá.
+Dialogue: 0,0:17:45.54,0:17:46.93,italics,PERU/ID,0,0,0,,Đau thật đấy.
+Dialogue: 0,0:17:47.73,0:17:49.20,italics,PERU/ID,0,0,0,,Đau quá đi!
+Dialogue: 0,0:17:49.44,0:17:50.66,italics,PERU/ID,0,0,0,,Đau chết mất!
+Dialogue: 0,0:17:51.73,0:17:55.79,italics,PERU/ID,0,0,0,,Tina à, tôi hiểu nỗi đau của em.
+Dialogue: 0,0:17:56.64,0:17:59.19,italics,PERU/ID,0,0,0,,Nhưng đừng bao giờ quên.
+Dialogue: 0,0:17:59.67,0:18:02.73,italics,PERU/ID,0,0,0,,Chính em là người đã tự tay đeo chiếc mặt nạ đó.
+Dialogue: 0,0:18:03.15,0:18:05.88,italics,PERU/ID,0,0,0,,Vậy nên em phải gánh lấy\Ntrách nhiệm cho lựa chọn ấy.
+Dialogue: 0,0:18:06.63,0:18:11.38,italics,PERU/ID,0,0,0,,Em phải tin vào ngày mai\Nvà tiếp tục bước tới.
+Dialogue: 0,0:18:15.60,0:18:19.89,Default,TINA,0,0,0,,Mẹ ơi, con thật sự có thể về nhà với mẹ sao?
+Dialogue: 0,0:18:19.89,0:18:21.35,Default,MORENO,0,0,0,,Đương nhiên rồi.
+Dialogue: 0,0:18:20.61,0:18:21.78,italicstop,MORENO/ID,0,0,0,,Mẹ yêu con.
+Dialogue: 0,0:18:22.13,0:18:23.25,italics,MORENO/ID,0,0,0,,Mẹ yêu con.
+Dialogue: 0,0:18:22.51,0:18:25.29,top,MORENO,0,0,0,,Con là báu vật quý giá nhất đời mẹ.
+Dialogue: 0,0:18:26.00,0:18:27.61,Default,MORENO,0,0,0,,Mình cùng nhau về nhà nhé.
+Dialogue: 0,0:18:28.25,0:18:30.87,Default,MORENO,0,0,0,,Mẹ yêu con, Tina.
+Dialogue: 0,0:18:28.25,0:18:30.87,italicstop,MORENO/ID,0,0,0,,Mẹ yêu con, Tina.
+Dialogue: 0,0:18:41.18,0:18:43.16,Default,MARLON,0,0,0,,Giết ta thì giải quyết được tích sự gì chứ.
+Dialogue: 0,0:18:43.16,0:18:46.97,Default,MARLON,0,0,0,,Chừng nào mày còn đeo chiếc mặt nạ đó,\Nmày sẽ mãi mãi bị lợi dụng thôi!
+Dialogue: 0,0:18:46.97,0:18:48.26,Default,CLOWN,0,0,0,,Chẳng lẽ nào?
+Dialogue: 0,0:18:55.69,0:18:57.69,Default,MARLON,0,0,0,,S-Sao ngươi dám làm thế?
+Dialogue: 0,0:18:56.65,0:18:57.69,top,MORENO,0,0,0,,Tina!
+Dialogue: 0,0:19:00.16,0:19:01.29,Default,MORENO,0,0,0,,Tina...
+Dialogue: 0,0:19:01.99,0:19:04.04,Default,MARLON,0,0,0,,Vơ vét những gì có thể mang theo đi!
+Dialogue: 0,0:19:04.04,0:19:05.32,Default,THIRD SON,0,0,0,,Vâng, thưa Mẹ!
+Dialogue: 0,0:19:05.32,0:19:08.67,Default,MARLON,0,0,0,,Ra đây mau, Hề! Ngươi có thể\Nsửa lại chuyện này được, đúng không?
+Dialogue: 0,0:19:08.67,0:19:11.62,Default,MOK,0,0,0,,Mặt nạ của Masquerader vỡ nát rồi.
+Dialogue: 0,0:19:12.14,0:19:13.25,Default,MOK,0,0,0,,Tên Hề kia!
+Dialogue: 0,0:19:13.71,0:19:17.68,Default,CLOWN,0,0,0,,Ở đây hết việc để làm rồi. Đi thôi.
+Dialogue: 0,0:19:17.68,0:19:20.30,Default,LASGARL,0,0,0,,Ít nhất cũng phải cho ta giết con ả tóc hồng đã chứ.
+Dialogue: 0,0:19:21.82,0:19:23.55,Default,LASGARL,0,0,0,,Lát nữa ngươi nhớ mua cho ta một quyển sách đấy.
+Dialogue: 0,0:19:28.34,0:19:32.38,top,MARLON,0,0,0,,Hề, Lasgarl! Hai người biến đi đâu rồi?!
+Dialogue: 0,0:19:29.15,0:19:31.67,Default,MOK,0,0,0,,Mọi chuyện êm xuôi cả rồi à?
+Dialogue: 0,0:19:31.67,0:19:34.58,Default,PERU,0,0,0,,Chết tiệt, đau quá. Cứ để nguyên thế này ổn không nhỉ?
+Dialogue: 0,0:19:34.58,0:19:35.81,Default,SONA,0,0,0,,Tớ cũng không biết nữa.
+Dialogue: 0,0:19:48.14,0:19:49.70,Default,PERU,0,0,0,,Đừng giật ra đấy.
+Dialogue: 0,0:19:49.98,0:19:51.91,Default,MOK,0,0,0,,Nhỡ đâu nó tuột ra được thì sao.
+Dialogue: 0,0:19:51.91,0:19:53.78,Default,PERU,0,0,0,,Nếu mới dính vài tháng thôi thì may ra,
+Dialogue: 0,0:19:53.78,0:19:57.30,Default,PERU,0,0,0,,gặp hên còn tháo được chứ\Ntrường hợp của anh thì vô phương.
+Dialogue: 0,0:19:57.30,0:20:00.05,Default,PERU,0,0,0,,Làm liều nhỡ hỏng luôn thì ngay cả\Nthợ gỡ mặt nạ cũng bó tay đấy.
+Dialogue: 0,0:20:06.07,0:20:07.64,Default,PERU,0,0,0,,Mọi người đều bình an là tốt rồi.
+Dialogue: 0,0:20:13.35,0:20:15.73,top,SIGN,0,0,0,,CẢNH SÁT TRƯỞNG BẮT TAY NGẦM VỚI GIA TỘC STREGA\NVÀ BIỂN THỦ TIỀN QUYÊN GÓP
+Dialogue: 0,0:20:15.73,0:20:18.86,top,SIGN,0,0,0,,GIA TỘC STREGA ĐỨNG BÊN BỜ VỰC DIỆT VONG
+Dialogue: 0,0:20:19.09,0:20:22.27,Default,MORENO,0,0,0,,Chân thành cảm ơn mọi người rất nhiều.
+Dialogue: 0,0:20:22.27,0:20:24.37,Default,MORENO,0,0,0,,Xin lỗi vì để mọi người bị thương nặng thế này.
+Dialogue: 0,0:20:24.58,0:20:27.20,Default,PERU & MOK,0,0,0,,Cô nàng này đúng là lang băm dởm mà.
+Dialogue: 0,0:20:27.20,0:20:28.68,Default,SONA,0,0,0,,Này nhé!
+Dialogue: 0,0:20:28.68,0:20:30.57,Default,MORENO,0,0,0,,Nào, Tina. Cảm ơn mọi người đi con.
+Dialogue: 0,0:20:30.87,0:20:35.09,Default,TINA,0,0,0,,T-Tớ quên mất ngày trước\Nmình nói chuyện với bạn bè thế nào rồi.
+Dialogue: 0,0:20:35.09,0:20:39.26,Default,SONA,0,0,0,,Cứ nói thật lòng là được. Tớ thích kiểu thẳng thắn vậy hơn.
+Dialogue: 0,0:20:40.52,0:20:43.33,Default,TINA,0,0,0,,Cảm ơn mọi người vì đã cứu tớ.
+Dialogue: 0,0:20:44.45,0:20:48.17,Default,MOK,0,0,0,,Ái da. Sao lại thành ra thân tàn ma dại thế này chứ?
+Dialogue: 0,0:20:48.17,0:20:51.57,Default,SONA,0,0,0,,Công nhận anh Mok nhìn vậy mà tốt bụng bất ngờ luôn đấy.
+Dialogue: 0,0:20:51.57,0:20:55.33,Default,MOK,0,0,0,,Tại cậu ta hứa giới thiệu thợ gỡ mặt nạ cho tôi thôi.
+Dialogue: 0,0:20:55.33,0:20:56.38,Default,PERU,0,0,0,,Có chuyện gì thế?
+Dialogue: 0,0:20:56.38,0:21:00.17,Default,SONA,0,0,0,,Anh Mok đang lo lắng cho cậu đấy, Peru ạ.
+Dialogue: 0,0:21:00.17,0:21:02.02,Default,MOK,0,0,0,,Đừng nói linh tinh.
+Dialogue: 0,0:21:12.01,0:21:13.46,Default,PERU,0,0,0,,Hả?
+Dialogue: 0,0:21:14.38,0:21:15.69,Default,SONA,0,0,0,,Không có gì đâu.
+Dialogue: 0,0:21:16.06,0:21:19.91,Default,PERU,0,0,0,,Sona, anh Mok. Cảm ơn hai người.
+Dialogue: 0,0:21:22.57,0:21:24.38,Default,SONA,0,0,0,,Trong mấy trang sách có kẹp gì kìa.
+Dialogue: 0,0:21:27.85,0:21:30.48,Default,LASGARL,0,0,0,,Ngươi để lại gì trên đó à?
+Dialogue: 0,0:21:30.48,0:21:34.35,Default,CLOWN,0,0,0,,Tái sinh, tha thứ, và\Nhòa giải với quá khứ.
+Dialogue: 0,0:21:34.93,0:21:40.56,Default,CLOWN,0,0,0,,Nếu cậu ta là một mắt xích quan trọng trong thế giới của chúng ta,
+Dialogue: 0,0:21:40.56,0:21:43.78,Default,CLOWN,0,0,0,,vậy chắc chắn ta sắp được chứng kiến\Nmột màn vô cùng thú vị đấy.
+Dialogue: 0,0:21:43.57,0:21:46.07,top,SIGN,0,0,0,,ĐỊNH MỆNH CỦA CẬU ĐANG CHỜ ĐỢI TẠI "IRIS"
+Dialogue: 0,0:23:20.90,0:23:24.64,italics,PERU/NA,0,0,0,,Từ "Iris" trong lời nhắn của tên Hề\Nlà tên thị trấn nơi sư phụ đã nhặt tôi về
+Dialogue: 0,0:23:24.64,0:23:30.42,italics,PERU/NA,0,0,0,,và nuôi dạy tôi trưởng thành\Ncùng các đồng môn khác.
+Dialogue: 0,0:23:31.17,0:23:34.35,italics,PERU/NA,0,0,0,,Đó cũng chính là nơi\Ntôi đã gây ra tội ác tày trời.
+Dialogue: 0,0:23:35.41,0:23:40.52,italics,PERU/NA,0,0,0,,Trên chuyến tàu rung lắc, tôi chợt nhớ về Zent,\Nmột người sư huynh năm xưa.
+Dialogue: 0,0:23:41.33,0:23:45.83,italics,PERU/NA,0,0,0,,Tập tiếp theo của {\i0}Mặt Nạ Chu Sa{\i1}:\NTập 6, "Bóng Hình Hoa Tuyết Điểm."
+Dialogue: 0,0:21:52.99,0:21:56.71,top,credits,0,0,0,,Dịch thuật: Amtia(NOFACE)
+Dialogue: 0,0:21:59.29,0:22:04.21,top,credits,0,0,0,,Timing: Amtia(NOFACE)
+Dialogue: 0,0:22:06.55,0:22:09.72,top,credits,0,0,0,,Biên tập: Amtia(NOFACE)
+Dialogue: 0,0:22:09.72,0:22:12.81,top,credits,0,0,0,,Kiểm định (QC): Amtia(NOFACE)
+Dialogue: 0,0:22:13.06,0:22:16.06,top,credits,0,0,0,,Hoàn thiện: Amtia(NOFACE)
+Dialogue: 0,0:23:46.21,0:23:48.58,italics,PERU/NA,0,0,0,,Hành trình mặt nạ chính thức bắt đầu!
+Dialogue: 0,0:23:46.65,0:23:49.99,top,sign,0,0,0,,TẬP 6\NBÓNG HÌNH HOA TUYẾT ĐIỂM
+
