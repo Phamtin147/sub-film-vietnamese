@@ -17,7 +17,10 @@
 | **Elle (エル)** | Cựu đồng đội | Nữ (~17) | Trẻ con, tính tình bướng bỉnh, lười uống thuốc hồi phục vì sợ đắng. |
 | **Yggdrasil (Thế Giới Thụ)** | Giọng hệ thống | Vô tính | Lạnh lùng, trung lập, thông báo thăng cấp chỉ số và mở khóa kỹ năng. |
 | **Panna (パンナ)** | Tiếp tân Guild Melva | Nữ (~20) | Chuyên nghiệp, nhã nhặn, ân cần hướng dẫn mạo hiểm giả. |
-| **Linka (リンカ)** | Mạo hiểm giả mới | Nữ (~16) | Nhút nhát, bị đồng đội ức hiếp coi thường (tương tự hoàn cảnh của Lent ngày xưa). |
+| **Linka (リンカ)** | Đồng đội mới của Lent (`Twice Exceptional`) | Nữ (~16) | Ban đầu nhút nhát, nay tự tin tiến bộ nhanh (`Em - Anh Lent`). Thiên phú *Tu La Đạo (Asura Realm)*, kỹ năng *Đòn Đánh Khởi Đầu*. |
+| **Roger (ロジャー)** | Đội trưởng `Meteor Shower` | Nam (~25) | Hào sảng, trượng nghĩa, từng mời Lent gia nhập đội. Gọi Lent: `Tôi/Anh - Cậu`; Lent gọi `Anh Roger - Em`. |
+| **Namilia (ナミリア)** | Hỗ trợ pháp sư (`Meteor Shower`) | Nữ (~23) | Quyến rũ, hay trêu chọc Lent, rất nể trọng tinh thần hỗ trợ của Lent (`Chị - Em / Lent`). |
+| **Jin / Fuuga / Comet** | Thành viên `Meteor Shower` | Jin (Tank, càu nhàu Roger), Fuuga (Thương thủ), Comet (Phong pháp sư ít nói) | Tập trung chinh phục Tầng 8 "Dãy Núi Wyvern" của Mê cung Melva. |
 
 ---
 
@@ -51,8 +54,14 @@
 * **Seal of Necrosis**: Phong ấn Hoại tử
 * **Seal of Binding**: Phong ấn Trói buộc
 * **Melva Labyrinth**: Mê cung Melva
+  * *Asura Realm*: Tu La Đạo *(Thiên phú của Linka)*
+  * *First Strike*: Đòn Đánh Khởi Đầu *(Kỹ năng của Linka)*
+  * *Meteor Shower*: Tổ đội Meteor Shower *(Roger, Namilia, Jin, Fuuga, Comet)*
+  * *Melvian Dog*: Xúc Xích Chiên Melva
 * **Great Plains**: Đại Thảo Nguyên (Tầng 1 Mê cung)
+* **Goblinoid Forest**: Khu Rừng Goblin (Tầng 2 Mê cung)
+* **Wyvern Mountains**: Dãy Núi Wyvern (Tầng 8 Mê cung)
 * **Long-Eared Jumping Rat**: Chuột nhảy tai dài
 * **Magic Stone**: Ma thạch
 * **Gol**: Đơn vị tiền tệ (gol)
-* **Translator / Timer / QC**: **Phamtin147**
+* **Translator / Timer / QC**: **Amtia(NOFACE)**
