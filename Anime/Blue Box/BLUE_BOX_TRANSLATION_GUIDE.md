@@ -32,6 +32,11 @@
    - *Vai trò*: Bạn thân và đồng đội cầu lông của Taiki.
    - *Tính cách*: Điềm tĩnh, tinh ý, luôn là người đưa ra lời khuyên xác đáng cho Taiki.
    - *Xưng hô*: Tao - Mày / Tôi - Cậu.
+5. **Yumeka (夢佳)**:
+   - *Vai trò*: Bạn thân kiêm kỳ phùng địch thủ bóng rổ thuở nhỏ của Chinatsu (hơn Taiki 1 khóa).
+   - *Xưng hô*: Với Chinatsu (`Natsu`): Tôi - Cậu / Bà; Với Taiki: Tôi - Cậu (`Taiki` gọi `Chị Yumeka - Em`).
+6. **Mẹ Taiki (Bà Inomata)**:
+   - *Xưng hô*: Mẹ - Con (với Taiki), Cô - Cháu / Con bé (khi nhắc tới Chinatsu).
 
 ---
 
