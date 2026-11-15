@@ -1,0 +1,277 @@
+﻿[Script Info]
+Title: Vietnamese Fansub (VietSub by Amtia(NOFACE))
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: italics,Segoe UI,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: main,Segoe UI,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: flashback,Segoe UI,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: flashback italics,Segoe UI,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: Ep Title,Segoe UI,24,&H0065A7CE,&H000000FF,&H64070805,&H000D1728,-1,-1,0,0,100,100,0,0,1,1,0,8,30,30,75,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:15.00,0:00:18.25,flashback,YOUNG NOZEL (FB),0,0,0,,Mẹ ơi!
+Dialogue: 0,0:01:48.56,0:01:53.97,Ep Title,EP TITLE,0,0,0,,{\c&HF7F8FF&}Vượt Qua Sự Ngoan Cường\N{\fs14\i1}Phụ đề Việt ngữ: Amtia(NOFACE){\i0}
+Dialogue: 0,0:01:57.50,0:01:59.97,main,MEGICULA,0,0,0,,Một khi Thánh Vực của ngươi đã kết thúc,
+Dialogue: 0,0:02:00.27,0:02:02.98,main,MEGICULA,0,0,0,,ngươi chẳng còn cách nào đánh bại nổi ta đâu.
+Dialogue: 0,0:02:03.19,0:02:09.48,main,MEGICULA,0,0,0,,Dù ngươi có tung ra thêm đòn Thánh Vực nào nữa,\Ncũng không tài nào chạm tới được ta đâu.
+Dialogue: 0,0:02:09.78,0:02:14.49,main,MEGICULA,0,0,0,,Toàn bộ khu vực này giờ đã ngập tràn\Nma pháp Thế Giới Mục Nát của ta rồi.
+Dialogue: 0,0:02:15.17,0:02:17.58,main,MEGICULA,0,0,0,,Chẳng có ai tới cứu nổi các ngươi đâu,
+Dialogue: 0,0:02:17.58,0:02:20.24,main,MEGICULA,0,0,0,,mà dẫu có kẻ tới đi chăng nữa,\Ncũng đành bất lực đứng nhìn thôi.
+Dialogue: 0,0:02:20.72,0:02:23.00,main,MEGICULA,0,0,0,,Bấy nhiêu lý do đã quá đủ để ngươi\Nbỏ cuộc rồi nhỉ?
+Dialogue: 0,0:02:23.41,0:02:25.85,main,MEGICULA,0,0,0,,Nhưng trận vừa rồi thú vị lắm đấy, con người à.
+Dialogue: 0,0:02:32.31,0:02:33.21,italics,NOELLE (INT),0,0,0,,Ngài Gaja?!
+Dialogue: 0,0:02:36.46,0:02:37.28,main,UNDINE,0,0,0,,Gaja!
+Dialogue: 0,0:02:40.81,0:02:45.69,main,GAJA,0,0,0,,Sẽ không đau đâu, xin hãy thứ lỗi cho thần,\NNữ vương Loropechika.
+Dialogue: 0,0:02:46.18,0:02:48.98,italics,GAJA (INT),0,0,0,,Lôi Ma Pháp: Pulsaranta.
+Dialogue: 0,0:02:54.60,0:02:57.16,italics,GAJA (INT),0,0,0,,Chiêu này sẽ khóa chặt cử động của Người\Ntrong vài giây.
+Dialogue: 0,0:03:01.43,0:03:02.91,italics,GAJA (INT),0,0,0,,Vào ngày hôm ấy…
+Dialogue: 0,0:03:03.67,0:03:08.23,italics,GAJA (INT),0,0,0,,Thần đã thề sẽ thay Người tiêu diệt kẻ thù\Nvà bảo vệ vương quốc này.
+Dialogue: 0,0:03:09.16,0:03:10.84,italics,GAJA (INT),0,0,0,,Thế nhưng, sáu tháng trước…
+Dialogue: 0,0:03:11.65,0:03:16.42,italics,GAJA (INT),0,0,0,,Thần đã thất bại trong việc ngăn chặn đòn tấn công của\NMegicula và Vanica, khiến Người phải gánh chịu lời nguyền.
+Dialogue: 0,0:03:17.63,0:03:21.85,flashback,GAJA (FB),0,0,0,,Thần muôn phần tạ tội! Thần thật sự\Nkhông xứng làm Tinh Linh Thủ Hộ!
+Dialogue: 0,0:03:21.85,0:03:25.10,flashback,LOROPECHIKA (FB),0,0,0,,Không, không, không! Em vẫn còn sống mà!
+Dialogue: 0,0:03:25.47,0:03:28.10,flashback,LOROPECHIKA (FB),0,0,0,,Nếu không có anh ở đó,\Nchắc chắn em đã chết rồi.
+Dialogue: 0,0:03:28.34,0:03:33.61,flashback,LOROPECHIKA (FB),0,0,0,,Vả lại việc không một người dân nào bị thương\Nkhiến em hạnh phúc hơn bao giờ hết.
+Dialogue: 0,0:03:33.96,0:03:35.61,flashback,LOROPECHIKA (FB),0,0,0,,Tất cả là nhờ có anh đấy, Gaja!
+Dialogue: 0,0:03:38.01,0:03:43.73,italics,GAJA (INT),0,0,0,,Chỉ vì thần mải mê bảo vệ thần dân,\Nvương quốc… bảo vệ tất cả mọi thứ,
+Dialogue: 0,0:03:43.73,0:03:45.64,italics,GAJA (INT),0,0,0,,mà rốt cuộc Người lại ra nông nỗi này.
+Dialogue: 0,0:03:46.71,0:03:49.37,italics,GAJA (INT),0,0,0,,Người bị ép phải làm đúng điều mà\NNgười căm ghét nhất.
+Dialogue: 0,0:03:50.49,0:03:54.55,italics,GAJA (INT),0,0,0,,Thần thật sự đã thất bại với tư cách Tinh Linh Thủ Hộ.
+Dialogue: 0,0:03:55.15,0:03:58.80,italics,GAJA (INT),0,0,0,,Chứ chẳng phải vì vương quốc…\Ntâm nguyện của thần là bảo vệ chính Người.
+Dialogue: 0,0:03:59.71,0:04:01.53,italics,GAJA (INT),0,0,0,,Thần tuyệt đối không để chúng giết Người.
+Dialogue: 0,0:04:01.97,0:04:03.79,italics,GAJA (INT),0,0,0,,Thần cũng không để Người phải ra tay sát hại ai.
+Dialogue: 0,0:04:04.38,0:04:08.39,italics,GAJA (INT),0,0,0,,Thần sẽ không gục ngã bởi bất kỳ\Nvết thương nào ngươi gây ra cho ta đâu.
+Dialogue: 0,0:04:08.93,0:04:13.82,italics,GAJA (INT),0,0,0,,Ta sẽ chuyển hóa toàn bộ sinh mạng này thành\Nma lực… để tiêu diệt con ác ma nhà ngươi!
+Dialogue: 0,0:04:13.82,0:04:15.07,italics,GAJA (INT),0,0,0,,Ngay tại đây, ngay lúc này…
+Dialogue: 0,0:04:15.76,0:04:18.46,italics,GAJA (INT),0,0,0,,Lần này nhất định thần sẽ cứu được Người!
+Dialogue: 0,0:04:19.05,0:04:25.19,italics,GAJA (INT),0,0,0,,Tuyệt Kỹ Lôi Ma Pháp:\NApocalypra Astrauza!
+Dialogue: 0,0:04:29.57,0:04:32.62,italics,MEGICULA (INT),0,0,0,,Thế Giới Mục Nát không xóa sạch hết được—
+Dialogue: 0,0:04:47.25,0:04:48.67,italics,NOELLE (INT),0,0,0,,Chỉ cần thêm một đòn nữa thôi!
+Dialogue: 0,0:04:49.15,0:04:50.71,italics,NOELLE (INT),0,0,0,,Dù yếu ớt thế nào cũng được!
+Dialogue: 0,0:04:50.71,0:04:55.49,italics,NOELLE (INT),0,0,0,,Mình chỉ cần đủ sức mạnh Thánh Vực\Nđể đâm xuyên trái tim đang lộ ra của hắn!
+Dialogue: 0,0:04:58.19,0:05:00.90,main,MEGICULA,0,0,0,,Hóa ra đây là ma pháp thiêu đốt chính\Nsinh mạng của người thi triển sao.
+Dialogue: 0,0:05:04.30,0:05:06.54,main,MEGICULA,0,0,0,,Uy lực của nó vượt xa dự tính của ta đấy.
+Dialogue: 0,0:05:07.70,0:05:11.16,main,MEGICULA,0,0,0,,Tráng lệ lắm, con người à.
+Dialogue: 0,0:05:11.81,0:05:13.08,main,MEGICULA,0,0,0,,Nhưng đáng tiếc thay,
+Dialogue: 0,0:05:13.08,0:05:18.16,main,MEGICULA,0,0,0,,cơ thể ta đang được bảo hộ bởi\Nmột lời nguyền hồi phục siêu tốc.
+Dialogue: 0,0:05:18.55,0:05:19.61,main,UNDINE,0,0,0,,Ngài Gaja!
+Dialogue: 0,0:05:23.30,0:05:24.47,main,NOELLE,0,0,0,,Ngài Undine!
+Dialogue: 0,0:05:25.30,0:05:27.67,main,MEGICULA,0,0,0,,Giống hệt lần giao chiến trước của chúng ta nhỉ.
+Dialogue: 0,0:05:28.76,0:05:32.32,main,MEGICULA,0,0,0,,Giờ ngươi chẳng thể thi triển sức mạnh\NThánh Vực được nữa rồi.
+Dialogue: 0,0:05:32.66,0:05:34.73,main,MEGICULA,0,0,0,,Lần này… thật sự đặt dấu chấm hết rồi.
+Dialogue: 0,0:05:42.45,0:05:43.49,main,NOELLE,0,0,0,,Vẫn chưa xong đâu!
+Dialogue: 0,0:05:50.74,0:05:51.66,main,MEGICULA,0,0,0,,"Vẫn chưa" sao?
+Dialogue: 0,0:05:52.64,0:05:55.39,main,MEGICULA,0,0,0,,Rõ ràng là ngươi không còn cửa thắng nào nữa mà.
+Dialogue: 0,0:05:55.75,0:05:57.98,main,MEGICULA,0,0,0,,Vậy tại sao ngươi vẫn cứ ngoan cố vùng vẫy?
+Dialogue: 0,0:05:57.98,0:06:03.13,main,MEGICULA,0,0,0,,Phải chăng đó là cách con người thi thoảng\Nvượt qua kỳ vọng để sáng tạo ra ma pháp mới?
+Dialogue: 0,0:06:04.13,0:06:06.90,main,MEGICULA,0,0,0,,Nhưng trên đời này chẳng có phàm nhân nào tạo nổi
+Dialogue: 0,0:06:06.90,0:06:10.95,main,MEGICULA,0,0,0,,thứ ma pháp đủ sức đánh bại ta\Nbên trong Thế Giới Mục Nát đâu.
+Dialogue: 0,0:06:11.30,0:06:15.41,main,MEGICULA,0,0,0,,Ác ma không bao giờ trái lệnh kẻ có\Ncấp bậc cao hơn mình.
+Dialogue: 0,0:06:15.41,0:06:17.05,main,MEGICULA,0,0,0,,Bởi làm vậy hoàn toàn vô ích.
+Dialogue: 0,0:06:17.05,0:06:18.89,main,MEGICULA,0,0,0,,Thế mà lũ con người các ngươi lại bám víu vào
+Dialogue: 0,0:06:18.89,0:06:23.52,main,MEGICULA,0,0,0,,những lý tưởng nực cười và liều mạng vì những thứ vô nghĩa.
+Dialogue: 0,0:06:24.41,0:06:28.41,main,MEGICULA,0,0,0,,Acier Silva chiến đấu với tình yêu thương\Ndành cho con cái làm vũ khí.
+Dialogue: 0,0:06:28.41,0:06:29.89,main,MEGICULA,0,0,0,,Gã đàn ông kia chiến đấu bằng
+Dialogue: 0,0:06:29.89,0:06:33.41,main,MEGICULA,0,0,0,,lòng trung thành với vị nữ vương mà hắn đã thề nguyện phò tá.
+Dialogue: 0,0:06:33.86,0:06:38.17,main,MEGICULA,0,0,0,,Còn ngươi lại chiến đấu với thứ hy vọng\Nhão huyền chẳng hề tồn tại.
+Dialogue: 0,0:06:38.17,0:06:40.19,main,MEGICULA,0,0,0,,Chỉ vì mấy thứ nhỏ nhặt tầm thường như thế…
+Dialogue: 0,0:06:40.19,0:06:44.34,main,MEGICULA,0,0,0,,Sao cứ phải cố chấp bám lấy làm gì\Nkhi đầu hàng chẳng phải nhẹ nhõm hơn sao?
+Dialogue: 0,0:06:47.71,0:06:52.63,italics,NOELLE (INT),0,0,0,,Không còn cửa thắng sao?\NChuyện đó ta biết thừa rồi.
+Dialogue: 0,0:06:55.46,0:06:59.28,main,NOELLE,0,0,0,,Đúng thế… Nhưng đó là chuyện của riêng ta,
+Dialogue: 0,0:06:59.28,0:07:01.94,main,NOELLE,0,0,0,,vậy nên ngươi có hiểu hay không\Nta cũng chẳng thèm bận tâm.
+Dialogue: 0,0:07:03.22,0:07:06.93,italics,NOELLE (INT),0,0,0,,Rốt cuộc con ác ma này bị làm sao vậy?\NĐúng là điên rồ hết chỗ nói.
+Dialogue: 0,0:07:09.27,0:07:13.50,main,NOELLE,0,0,0,,Nghe đây, cho dù cơ hội chiến thắng\Ncủa bọn ta có mong manh tới đâu,
+Dialogue: 0,0:07:13.50,0:07:15.85,main,NOELLE,0,0,0,,vẫn có những lúc con người\Nbuộc phải đứng lên hành động!
+Dialogue: 0,0:07:16.66,0:07:20.71,italics,NOELLE (INT),0,0,0,,Thật lòng mà nói, ngay cả lúc này đây,\Nmình chỉ muốn khuỵu gối xuống mà bật khóc thôi…
+Dialogue: 0,0:07:21.28,0:07:23.89,main,NOELLE,0,0,0,,Không hẳn cứ không bỏ cuộc\Nlà chắc chắn sẽ thắng.
+Dialogue: 0,0:07:24.34,0:07:27.56,main,NOELLE,0,0,0,,Thế nhưng nếu bỏ cuộc ngay lúc này,\Nthì ngay cả một tia hy vọng thắng cũng chẳng còn!
+Dialogue: 0,0:07:27.87,0:07:30.06,italics,NOELLE (INT),0,0,0,,Dẫu vậy đi chăng nữa…
+Dialogue: 0,0:07:30.51,0:07:33.93,main,NOELLE,0,0,0,,Sức mạnh của bọn ta nằm ở chỗ không bao giờ đầu hàng!
+Dialogue: 0,0:07:35.63,0:07:36.57,main,MEGICULA,0,0,0,,Hừm.
+Dialogue: 0,0:07:37.31,0:07:39.64,main,MEGICULA,0,0,0,,Ta vẫn chẳng tài nào hiểu nổi.
+Dialogue: 0,0:07:39.64,0:07:44.65,main,MEGICULA,0,0,0,,Khá là thú vị đấy… nhưng ta không thể\Nlãng phí thêm thời gian cho chuyện này nữa.
+Dialogue: 0,0:07:47.80,0:07:52.41,main,MEGICULA,0,0,0,,Chú Thuật Ma Pháp: Sinh Mệnh Bùng Nổ.
+Dialogue: 0,0:07:54.15,0:07:59.46,main,MEGICULA,0,0,0,,Ta sẽ kích nổ Loropechika rồi tiễn toàn bộ\Ncon người trong tòa lâu đài này lên đường cùng lúc.
+Dialogue: 0,0:07:59.95,0:08:02.13,main,MEGICULA,0,0,0,,Và sau đó…
+Dialogue: 0,0:08:02.13,0:08:04.89,main,MEGICULA,0,0,0,,Ta sẽ giáng lâm hoàn toàn tại nơi đây.
+Dialogue: 0,0:08:13.44,0:08:17.59,main,NOELLE,0,0,0,,Loropechika!
+Dialogue: 0,0:08:31.17,0:08:32.87,main,ASTA,0,0,0,,Chà, suýt chút nữa thì toang rồi!
+Dialogue: 0,0:08:34.15,0:08:35.54,main,ASTA,0,0,0,,Tớ vừa kịp lúc luôn!
+Dialogue: 0,0:08:36.32,0:08:37.54,italics,NOELLE (INT),0,0,0,,Đúng rồi…
+Dialogue: 0,0:08:37.54,0:08:40.73,main,ASTA,0,0,0,,Bọn mình lại được gặp nhau bình an vô sự rồi!\NĐúng không, Noelle?!
+Dialogue: 0,0:08:41.09,0:08:43.00,italics,NOELLE (INT),0,0,0,,Chính cậu đã dạy cho tớ điều đó mà!
+Dialogue: 0,0:08:44.92,0:08:48.43,main,NOELLE,0,0,0,,Còn lâu mới bình an vô sự ấy, đồ Ngốksta!
+Dialogue: 0,0:08:53.49,0:08:55.14,main,MEGICULA,0,0,0,,Tên con người đó là gì vậy?
+Dialogue: 0,0:08:55.91,0:08:57.59,main,ASTA,0,0,0,,Nữ vương Loropechika…
+Dialogue: 0,0:08:57.90,0:09:01.94,main,ASTA,0,0,0,,Ta đã chặn được vụ nổ rồi, nhưng trên người\Ncô ấy vẫn còn đầy rẫy đủ loại lời nguyền.
+Dialogue: 0,0:09:02.26,0:09:05.44,main,LIEBE,0,0,0,,Cổng địa ngục mới mở có một tầng thôi mà…
+Dialogue: 0,0:09:05.84,0:09:08.44,main,LIEBE,0,0,0,,Sao lại có con ác ma tối thượng chui ra được đây chứ?!
+Dialogue: 0,0:09:08.80,0:09:14.04,main,LIEBE,0,0,0,,Nói thẳng luôn là mình chẳng có cửa thắng đâu\Nnếu không bật nổi Hợp Thể Ác Ma!
+Dialogue: 0,0:09:14.94,0:09:18.41,main,MEGICULA,0,0,0,,Hắn xoay xở làm được từng ấy chuyện\Nbên trong Thế Giới Mục Nát sao?
+Dialogue: 0,0:09:18.85,0:09:24.41,main,MEGICULA,0,0,0,,Ra vậy. Hắn hẳn là gã phàm nhân Phản Ma Pháp\Nmà Vanica và đồng bọn từng nhắc tới.
+Dialogue: 0,0:09:25.27,0:09:26.78,italics,MEGICULA (INT),0,0,0,,Ta thấy tò mò lắm đấy,
+Dialogue: 0,0:09:26.78,0:09:30.62,italics,MEGICULA (INT),0,0,0,,nhưng tên này hoàn toàn có khả năng gây ra\Ntình huống khó lường nhất.
+Dialogue: 0,0:09:31.50,0:09:33.72,main,MEGICULA,0,0,0,,Đùa giỡn thế đủ rồi.
+Dialogue: 0,0:09:35.30,0:09:40.58,main,MEGICULA,0,0,0,,Trước tiên, ta sẽ kết liễu dứt điểm\NVanica và Loropechika…
+Dialogue: 0,0:09:40.58,0:09:42.98,main,MEGICULA,0,0,0,,rồi giáng lâm hoàn toàn ngay bây giờ.
+Dialogue: 0,0:09:45.22,0:09:46.21,main,MEGICULA,0,0,0,,Cái gì?
+Dialogue: 0,0:09:46.21,0:09:47.73,italics,MEGICULA (INT),0,0,0,,Các ấn ký nguyền rủa biến mất rồi sao?
+Dialogue: 0,0:09:56.38,0:09:58.17,main,CHARLOTTE,0,0,0,,Tôi vẫn còn…
+Dialogue: 0,0:09:59.01,0:10:01.00,main,CHARLOTTE,0,0,0,,đứng sừng sững ngay tại đây đấy!
+Dialogue: 0,0:10:01.31,0:10:03.23,main,MEGICULA,0,0,0,,Con ả đó… Làm thế nào vậy?
+Dialogue: 0,0:10:03.23,0:10:05.58,main,MEGICULA,0,0,0,,Đáng lẽ ả phải kiệt quệ không gượng dậy nổi rồi chứ.
+Dialogue: 0,0:10:06.04,0:10:08.84,italics,MEGICULA (INT),0,0,0,,Không những vậy, ma lực của ả còn tăng vọt lên nữa!
+Dialogue: 0,0:10:10.57,0:10:14.76,main,RILL,0,0,0,,Đây không phải loại ma pháp tôi hay dùng\Nnên mất hơi nhiều thời gian để kích hoạt đấy.
+Dialogue: 0,0:10:22.09,0:10:24.55,italics,RILL (INT),0,0,0,,Khi Thánh Điện Hoàng Hôn Valhalla còn hiệu lực,
+Dialogue: 0,0:10:24.55,0:10:26.97,italics,RILL (INT),0,0,0,,nó sẽ cường hóa ma lực cho toàn bộ\Nđồng minh trong phạm vi
+Dialogue: 0,0:10:26.97,0:10:31.29,italics,RILL (INT),0,0,0,,và giúp mọi người không thể gục ngã,\Ndù phải gánh chịu bao nhiêu sát thương đi nữa!
+Dialogue: 0,0:10:31.29,0:10:33.03,main,RILL,0,0,0,,Bọn ta sẽ bất tử trong vài phút ngắn ngủi đấy!
+Dialogue: 0,0:10:33.72,0:10:36.40,italics,RILL (INT),0,0,0,,Hết thời gian thì toàn bộ thương tích sẽ dội ngược lại.
+Dialogue: 0,0:10:36.40,0:10:38.62,italics,RILL (INT),0,0,0,,Cơ mà lúc này ai thèm quan tâm chuyện đó chứ?
+Dialogue: 0,0:10:38.62,0:10:41.81,main,ASTA,0,0,0,,Uầy! Đỉnh quá đi, Rill!
+Dialogue: 0,0:10:41.81,0:10:44.46,main,ASTA,0,0,0,,Mà may quá cậu vẫn còn sống!
+Dialogue: 0,0:10:44.46,0:10:48.92,italics,RILL (INT),0,0,0,,Nếu Asta không xuất hiện kịp, mình đã không\Nthi triển xong trước khi vụ nổ ập tới rồi.
+Dialogue: 0,0:10:49.38,0:10:52.38,main,RILL,0,0,0,,Nhờ vậy mà có khi tôi sắp hoàn thành được\Nkiệt tác tối thượng của đời mình đấy!
+Dialogue: 0,0:10:52.89,0:10:56.77,italics,MEGICULA (INT),0,0,0,,Đơn lẻ từng tên một thì hoàn toàn\Nvô hại tầm thường,
+Dialogue: 0,0:10:56.77,0:10:59.59,italics,MEGICULA (INT),0,0,0,,nhưng khi hợp sức lại với nhau,\Nchúng lại làm được đến mức này sao…
+Dialogue: 0,0:11:00.26,0:11:03.33,main,MEGICULA,0,0,0,,Loài người các ngươi đúng là kỳ thú thật đấy!
+Dialogue: 0,0:11:08.75,0:11:14.53,main,MEGICULA,0,0,0,,Những Hắc Sứ Đồ đã bỏ mạng để mua vui cho ta\Nvà Vanica đang yên giấc dưới tòa tháp này.
+Dialogue: 0,0:11:14.90,0:11:16.84,main,MEGICULA,0,0,0,,Ta sẽ truyền vào xác chúng\Nsức mạnh của ác ma,
+Dialogue: 0,0:11:16.84,0:11:22.63,main,MEGICULA,0,0,0,,cũng như linh hồn của Acier Silva và Vanica\Nmà ta đang nắm giữ trong tay.
+Dialogue: 0,0:11:24.54,0:11:27.85,main,MEGICULA,0,0,0,,Những xác sống của máu và thép…
+Dialogue: 0,0:11:32.13,0:11:34.60,main,MEGICULA,0,0,0,,Tổng cộng một trăm tên.
+Dialogue: 0,0:11:53.68,0:11:56.22,main,ASTA,0,0,0,,Ối giời! Người ngợm tôi đau nhừ hết cả rồi!
+Dialogue: 0,0:11:56.22,0:11:58.36,main,ASTA,0,0,0,,Á! Bọn mình sắp bị cuốn vào theo mất!
+Dialogue: 0,0:12:04.76,0:12:07.21,main,UNDINE,0,0,0,,Cảm ơn cậu vì đã cứu Loropechika!
+Dialogue: 0,0:12:07.21,0:12:09.88,main,ASTA,0,0,0,,Không có chi! Mà cảm ơn ngài đã cứu tụi cháu nhé!
+Dialogue: 0,0:12:10.14,0:12:14.05,main,ASTA,0,0,0,,Xin lỗi nhé! Giờ tớ tàn phế hoàn toàn luôn rồi!
+Dialogue: 0,0:12:14.51,0:12:16.00,main,ASTA,0,0,0,,Phần còn lại trông cậy hết vào cậu đấy!
+Dialogue: 0,0:12:16.00,0:12:19.53,main,NOELLE,0,0,0,,Này nhé?! Cậu vừa mới tới nơi thôi mà!\NCậu đang lảm nhảm cái gì thế hả?!
+Dialogue: 0,0:12:19.53,0:12:21.80,main,ASTA,0,0,0,,Noelle! Cậu nhất định làm được mà!
+Dialogue: 0,0:12:22.64,0:12:24.13,italics,NOELLE (INT),0,0,0,,Chuyện đó tớ biết thừa rồi.
+Dialogue: 0,0:12:24.53,0:12:27.89,italics,NOELLE (INT),0,0,0,,Chắc chắn cậu lại liều mạng bất cẩn\Nnhư mọi khi chứ gì.
+Dialogue: 0,0:12:28.63,0:12:29.98,italics,NOELLE (INT),0,0,0,,Cậu đã làm quá đủ rồi.
+Dialogue: 0,0:12:30.81,0:12:32.78,italics,NOELLE (INT),0,0,0,,Chỉ riêng việc cậu xuất hiện tại đây…
+Dialogue: 0,0:12:33.97,0:12:36.13,italics,NOELLE (INT),0,0,0,,Chỉ cần nghĩ tới cậu thôi…
+Dialogue: 0,0:12:37.46,0:12:39.44,italics,NOELLE (INT),0,0,0,,cũng tiếp thêm cho tớ vô vàn sức mạnh!
+Dialogue: 0,0:12:40.81,0:12:43.62,italics,NOELLE (INT),0,0,0,,À, hóa ra là thật rồi nhỉ.
+Dialogue: 0,0:12:44.33,0:12:46.42,italics,NOELLE (INT),0,0,0,,Từ trước tới nay tớ cứ tự tìm đủ mọi lý do chối bỏ,
+Dialogue: 0,0:12:46.42,0:12:48.81,italics,NOELLE (INT),0,0,0,,nhưng không ngờ mình lại nhận ra điều đó\Nvào đúng thời khắc thế này…
+Dialogue: 0,0:12:50.33,0:12:53.75,italics,NOELLE (INT),0,0,0,,Có lẽ... tớ đã thật lòng yêu Asta mất rồi.
+Dialogue: 0,0:12:54.33,0:12:56.49,italics,NOELLE (INT),0,0,0,,Nhưng ngay lúc này, chúng ta đang ở ngoài chiến trường.
+Dialogue: 0,0:12:56.90,0:12:59.26,italics,NOELLE (INT),0,0,0,,Ngay lúc này, mình phải đánh bại Megicula!
+Dialogue: 0,0:12:59.71,0:13:01.51,main,NOELLE,0,0,0,,Lên thôi nào, ngài Undine!
+Dialogue: 0,0:13:02.03,0:13:03.86,main,NOELLE,0,0,0,,Thánh Vực Tối Thượng!
+Dialogue: 0,0:13:11.19,0:13:13.44,main,ASTA,0,0,0,,Oa! Cậu ngầu kinh khủng luôn đấy!
+Dialogue: 0,0:13:14.12,0:13:16.69,main,NOELLE,0,0,0,,Nhờ cậu chăm sóc Loropechika nhé, Asta!
+Dialogue: 0,0:13:16.69,0:13:18.44,main,ASTA,0,0,0,,Ui da đau đau! Giao cho tớ!
+Dialogue: 0,0:13:21.83,0:13:26.18,main,UNDINE,0,0,0,,Ta không còn đủ sức mạnh Thánh Vực\Nđể dẹp sạch cả đạo quân này đâu!
+Dialogue: 0,0:13:27.25,0:13:30.26,italics,RILL (INT),0,0,0,,Hội Họa Ma Pháp: Chúa Tể Valhalla.
+Dialogue: 0,0:13:32.02,0:13:34.02,italics,RILL (INT),0,0,0,,Cả Noelle với sức mạnh Thánh Vực
+Dialogue: 0,0:13:34.02,0:13:37.53,italics,RILL (INT),0,0,0,,lẫn chị Charlotte với đòn chuyên khắc chế lời nguyền\Nđều đóng vai trò tối quan trọng!
+Dialogue: 0,0:13:39.22,0:13:41.84,main,RILL,0,0,0,,Nghĩa là tôi phải bọc lót yểm trợ thật chắc mới được!
+Dialogue: 0,0:13:41.84,0:13:45.65,italics,CHARLOTTE (INT),0,0,0,,Chân Kinh Cức Ma Pháp: Xích Đằng Thương!
+Dialogue: 0,0:13:48.29,0:13:52.04,main,MEGICULA,0,0,0,,Loài người các ngươi cứ không ngừng\Ntiến hóa ngay giữa trận chiến nhỉ.
+Dialogue: 0,0:13:54.65,0:13:56.11,main,MEGICULA,0,0,0,,Các ngươi quả thực là…
+Dialogue: 0,0:14:03.38,0:14:07.00,main,MEGICULA,0,0,0,,những món đồ chơi tuyệt hảo nhất.
+Dialogue: 0,0:14:12.64,0:14:13.87,main,RILL,0,0,0,,Noelle!
+Dialogue: 0,0:14:24.05,0:14:25.14,main,NOELLE,0,0,0,,Luck!
+Dialogue: 0,0:14:25.39,0:14:27.76,main,LUCK,0,0,0,,Tớ sẽ mở đường máu, theo sát tớ nhé!
+Dialogue: 0,0:14:28.07,0:14:29.86,main,RILL,0,0,0,,Quá tuyệt vời luôn mọi người ơi!
+Dialogue: 0,0:14:29.86,0:14:33.22,main,RILL,0,0,0,,Cảm hứng sáng tác cứ tuôn trào\Nào ạt trong tôi thế này!
+Dialogue: 0,0:14:33.22,0:14:35.52,italics,RILL (INT),0,0,0,,Giá mà có thêm một ma đạo sĩ hệ Lôi nữa\Ndẫn đường chỉ lối cho chúng ta,
+Dialogue: 0,0:14:35.81,0:14:37.77,italics,RILL (INT),0,0,0,,thì bức tranh này còn hoàn mỹ hơn nữa!
+Dialogue: 0,0:14:47.38,0:14:50.29,italics,GAJA (INT),0,0,0,,Thần vốn dĩ chẳng khác nào người đã chết…
+Dialogue: 0,0:14:53.20,0:14:54.62,italics,GAJA (INT),0,0,0,,Thế nhưng dù vậy…
+Dialogue: 0,0:14:55.39,0:14:59.50,italics,GAJA (INT),0,0,0,,Thần vẫn vô cùng biết ơn vì được chiến đấu\Nvì Nữ vương Loropechika thêm một lần nữa!
+Dialogue: 0,0:15:00.71,0:15:02.71,main,LUCK,0,0,0,,Anh Gaja!
+Dialogue: 0,0:15:06.48,0:15:07.63,main,LUCK,0,0,0,,Cùng xông lên nào!
+Dialogue: 0,0:15:08.03,0:15:08.81,main,GAJA,0,0,0,,Ừ.
+Dialogue: 0,0:15:23.85,0:15:24.82,italics,NOELLE (INT),0,0,0,,Ngay lúc này!
+Dialogue: 0,0:15:32.25,0:15:34.79,main,MEGICULA,0,0,0,,Dù thân xác này vẫn chưa hoàn chỉnh,
+Dialogue: 0,0:15:34.79,0:15:37.40,main,MEGICULA,0,0,0,,mà các ngươi đã dồn ép được ta tới bước này.
+Dialogue: 0,0:15:38.08,0:15:40.84,main,MEGICULA,0,0,0,,Ta thật sự kinh ngạc đấy.
+Dialogue: 0,0:15:41.84,0:15:43.31,main,MEGICULA,0,0,0,,Nhưng mà…
+Dialogue: 0,0:15:45.96,0:15:47.68,main,MEGICULA,0,0,0,,mọi chuyện kết thúc tại đây rồi.
+Dialogue: 0,0:15:58.57,0:16:03.96,main,NOZEL,0,0,0,,Ngươi dám vác mặt xuất hiện trước mặt\Ngia tộc ta thêm lần nữa sao?
+Dialogue: 0,0:16:07.21,0:16:11.55,main,NOZEL,0,0,0,,Ngươi không biết ta đã chờ đợi khoảnh khắc này\Nbấy lâu nay đâu.
+Dialogue: 0,0:16:17.73,0:16:22.84,italics,NOZEL (INT),0,0,0,,Từ sau khi lời nguyền giáng xuống người Mẹ,\Nbà ấy suy sụp nhanh chóng.
+Dialogue: 0,0:16:23.42,0:16:25.85,italics,NOZEL (INT),0,0,0,,Những người khác trong gia tộc chẳng hề hay biết,
+Dialogue: 0,0:16:25.85,0:16:28.43,italics,NOZEL (INT),0,0,0,,nên họ chỉ nghĩ đó là di chứng\Nsau lần sinh nở gần đây.
+Dialogue: 0,0:16:29.52,0:16:32.84,italics,NOZEL (INT),0,0,0,,Khi chú thuật nguyền rủa kia\Nđược yểm lên người Mẹ,
+Dialogue: 0,0:16:32.84,0:16:35.39,italics,NOZEL (INT),0,0,0,,mình cũng hứng chịu một hiệu ứng thứ cấp.
+Dialogue: 0,0:16:36.08,0:16:39.51,italics,NOZEL (INT),0,0,0,,Nếu mình tiết lộ cho bất kỳ ai rằng Megicula\Ncó liên quan tới cái chết của Acier Silva,
+Dialogue: 0,0:16:39.51,0:16:40.97,italics,NOZEL (INT),0,0,0,,mình sẽ lập tức mất mạng.
+Dialogue: 0,0:16:41.69,0:16:46.75,italics,NOZEL (INT),0,0,0,,Không chỉ thế, cả người nghe được bí mật đó\Ncũng sẽ dính lời nguyền theo.
+Dialogue: 0,0:16:46.75,0:16:49.97,italics,NOZEL (INT),0,0,0,,Đó là thứ chú thuật lây lan như dịch bệnh.
+Dialogue: 0,0:16:51.00,0:16:53.35,flashback italics,YOUNG NOZEL (INT)(FB),0,0,0,,Mình không thể hé răng với bất kỳ ai.
+Dialogue: 0,0:16:53.69,0:16:55.89,flashback italics,YOUNG NOZEL (INT)(FB),0,0,0,,Mình chỉ còn cách tự mình\Nxử lý chuyện này thôi.
+Dialogue: 0,0:16:56.40,0:16:58.07,flashback italics,YOUNG NOZEL (INT)(FB),0,0,0,,Mình nhất định phải cứu Mẹ!
+Dialogue: 0,0:16:58.49,0:17:00.51,flashback italics,YOUNG NOZEL (INT)(FB),0,0,0,,Mình phải tìm ra cách hóa giải lời nguyền!
+Dialogue: 0,0:17:01.14,0:17:03.59,flashback,ACIER (FB),0,0,0,,Nozel… Đủ rồi con.
+Dialogue: 0,0:17:07.69,0:17:11.22,flashback,ACIER (FB),0,0,0,,Con cứ tiếp tục thế này, ngay cả mạng sống của con\Ncũng sẽ gặp nguy hiểm đấy.
+Dialogue: 0,0:17:11.85,0:17:12.97,flashback,YOUNG NOZEL (FB),0,0,0,,Nhưng mà…
+Dialogue: 0,0:17:13.83,0:17:16.89,flashback,ACIER (FB),0,0,0,,Con người đâu thể trở nên mạnh mẽ dễ dàng thế được.
+Dialogue: 0,0:17:19.73,0:17:21.37,flashback,ACIER (FB),0,0,0,,Nhưng đừng lo lắng.
+Dialogue: 0,0:17:22.81,0:17:25.72,flashback,ACIER (FB),0,0,0,,Con… Tất cả các con…
+Dialogue: 0,0:17:26.34,0:17:28.76,flashback,ACIER (FB),0,0,0,,một ngày nào đó sẽ trở nên mạnh mẽ hơn cả mẹ.
+Dialogue: 0,0:17:30.25,0:17:31.85,flashback,ACIER (FB),0,0,0,,Vậy nên hãy sống tiếp nhé…
+Dialogue: 0,0:17:33.19,0:17:34.06,flashback,ACIER (FB),0,0,0,,Nozel.
+Dialogue: 0,0:17:44.14,0:17:48.13,italics,NOZEL (INT),0,0,0,,Đúng một năm sau khi trúng lời nguyền, Mẹ qua đời.
+Dialogue: 0,0:17:48.57,0:17:54.59,italics,NOZEL (INT),0,0,0,,Suốt một năm ròng đó, thứ duy nhất mình làm được\Nchỉ là bất lực đứng nhìn.
+Dialogue: 0,0:17:58.81,0:18:00.10,flashback italics,YOUNG NOZEL (INT)(FB),0,0,0,,Mạnh mẽ hơn nữa…
+Dialogue: 0,0:18:04.04,0:18:06.30,flashback italics,NOZEL (INT)(FB),0,0,0,,Mình phải trở nên mạnh mẽ hơn.
+Dialogue: 0,0:18:07.85,0:18:13.73,flashback italics,NOZEL (INT)(FB),0,0,0,,Để một ngày nào đó có thể báo thù cho Mẹ!\NĐể bảo vệ các em của mình!
+Dialogue: 0,0:18:15.12,0:18:18.22,flashback italics,NOZEL (INT)(FB),0,0,0,,Nebra và Solid cũng đang ngày một mạnh lên,
+Dialogue: 0,0:18:18.57,0:18:21.37,flashback italics,NOZEL (INT)(FB),0,0,0,,nhưng bọn chúng chẳng phải đối thủ\Ncủa một kẻ thù tầm cỡ đó.
+Dialogue: 0,0:18:21.87,0:18:22.96,flashback italics,NOZEL (INT)(FB),0,0,0,,Và còn Noelle…
+Dialogue: 0,0:18:23.31,0:18:26.88,flashback,NOELLE (FB),0,0,0,,Anh Nozel… Anh dạy ma pháp cho em được không?
+Dialogue: 0,0:18:27.52,0:18:29.93,flashback italics,NOZEL (INT)(FB),0,0,0,,Nếu chẳng có hy vọng nào để con bé\Nmạnh mẽ hơn được,
+Dialogue: 0,0:18:29.93,0:18:32.88,flashback italics,NOZEL (INT)(FB),0,0,0,,thì tốt nhất vẫn là giam lỏng em ấy lại.
+Dialogue: 0,0:18:33.87,0:18:37.72,flashback,NOZEL (FB),0,0,0,,Thứ thất bại như ngươi không có chỗ đứng\Ntrên chiến trường đâu.
+Dialogue: 0,0:18:38.44,0:18:41.10,flashback italics,NOZEL (INT)(FB),0,0,0,,Nếu em ấy cũng phải gánh chịu\Nnỗi thống khổ giống như mình,
+Dialogue: 0,0:18:41.10,0:18:42.95,flashback italics,NOZEL (INT)(FB),0,0,0,,thà mình đẩy em ấy tránh xa khỏi chiến trường còn hơn…
+Dialogue: 0,0:18:44.16,0:18:49.85,flashback,NOZEL (FB),0,0,0,,Tại sao Mẹ lại phải bỏ mạng khi sinh ra\Nmột đứa như ngươi chứ?
+Dialogue: 0,0:18:51.41,0:18:53.93,flashback,NOZEL (FB),0,0,0,,Chính ngươi đã giết Mẹ.
+Dialogue: 0,0:18:55.66,0:18:56.99,flashback italics,NOZEL (INT)(FB),0,0,0,,Không phải!
+Dialogue: 0,0:18:57.74,0:18:59.48,flashback italics,NOZEL (INT)(FB),0,0,0,,Chính mình mới là kẻ đã hại chết Mẹ!
+Dialogue: 0,0:19:00.87,0:19:03.62,flashback italics,NOZEL (INT)(FB),0,0,0,,Mình thật vô dụng, chẳng làm được tích sự gì cả.
+Dialogue: 0,0:19:04.17,0:19:07.25,flashback italics,NOZEL (INT)(FB),0,0,0,,Mình sợ mất thêm người thân nên đã hèn nhát bỏ chạy.
+Dialogue: 0,0:19:07.25,0:19:10.14,flashback italics,NOZEL (INT)(FB),0,0,0,,Mình chỉ là kẻ nhu nhược không có nổi\Nquyết tâm bảo vệ bất cứ ai.
+Dialogue: 0,0:19:11.93,0:19:15.77,flashback italics,NOZEL (INT)(FB),0,0,0,,Đến nước này rồi, mình chẳng còn tư cách gì\Ncan dự vào cuộc đời em ấy nữa.
+Dialogue: 0,0:19:16.94,0:19:18.14,flashback italics,NOZEL (INT)(FB),0,0,0,,Mạnh mẽ hơn nữa…
+Dialogue: 0,0:19:20.08,0:19:21.56,flashback italics,NOZEL (INT)(FB),0,0,0,,Mạnh mẽ hơn nữa!
+Dialogue: 0,0:19:25.19,0:19:28.56,flashback italics,NOZEL (INT)(FB),0,0,0,,Lựa chọn hợp lý nhất là nỗ lực\Ntrở thành Ma Pháp Vương.
+Dialogue: 0,0:19:29.48,0:19:33.68,flashback italics,NOZEL (INT)(FB),0,0,0,,Mình không thể chết ở đây được…
+Dialogue: 0,0:19:34.36,0:19:38.11,flashback italics,NOZEL (INT)(FB),0,0,0,,Mình đã chiến đấu với những kẻ thù sở hữu\Ntà ma pháp tương tự con ác ma kia.
+Dialogue: 0,0:19:38.11,0:19:41.49,flashback italics,NOZEL (INT)(FB),0,0,0,,Nếu vậy, vì thời khắc chắc chắn rồi sẽ đến ấy…
+Dialogue: 0,0:19:47.45,0:19:48.25,main,NOZEL,0,0,0,,Tôi muốn…
+Dialogue: 0,0:19:49.00,0:19:52.42,main,NOZEL,0,0,0,,gửi lời cảm ơn tới tất cả mọi người có mặt tại đây.
+Dialogue: 0,0:19:58.64,0:20:02.06,main,NOZEL,0,0,0,,Cuối cùng… chúng ta cũng gặp lại nhau rồi nhỉ.
+Dialogue: 0,0:20:03.05,0:20:05.85,main,NOZEL,0,0,0,,Toàn bộ con người và tất cả những gì ta có\Nsẽ dồn hết vào đòn đánh này!
+Dialogue: 0,0:20:10.50,0:20:14.36,main,MEGICULA,0,0,0,,Một màn hội ngộ đầy cảm động…\NÝ ngươi là vậy sao?
+Dialogue: 0,0:20:20.56,0:20:24.29,main,MEGICULA,0,0,0,,Xin lỗi nhé, nhưng ta chẳng có\Nthứ tình cảm đó đâu.
+Dialogue: 0,0:20:27.04,0:20:31.46,flashback,ACIER (FB),0,0,0,,Con mang trong mình sự cứng rắn của thép\Nvà sự uyển chuyển linh hoạt của nước.
+Dialogue: 0,0:20:31.69,0:20:33.42,main,NOZEL,0,0,0,,Đừng hòng cản nổi đòn này!
+Dialogue: 0,0:20:35.47,0:20:39.63,italics,NOZEL (INT),0,0,0,,Máu đang vương vãi… và thép cũng đang\Nxuyên thủng qua…
+Dialogue: 0,0:20:40.28,0:20:44.14,italics,NOZEL (INT),0,0,0,,Nhưng dù vậy, mình vẫn chưa phá hủy được trái tim của hắn.
+Dialogue: 0,0:20:45.02,0:20:47.56,italics,NOZEL (INT),0,0,0,,Xem ra rốt cuộc anh đã sai lầm thật rồi.
+Dialogue: 0,0:20:47.80,0:20:51.06,italics,NOZEL (INT),0,0,0,,Lẽ ra anh không nên giam cầm em ấy\Nhay đẩy em ấy ra ngoài chuyện này.
+Dialogue: 0,0:20:53.05,0:20:56.07,italics,NOZEL (INT),0,0,0,,Đáng lẽ chúng ta phải cùng nhau mạnh mẽ hơn mới đúng.
+Dialogue: 0,0:21:01.21,0:21:02.87,main,NOELLE,0,0,0,,Bọn ta đã không hề bỏ cuộc!
+Dialogue: 0,0:21:03.42,0:21:06.24,main,NOELLE,0,0,0,,Đó chính là lý do bọn ta chiến thắng trận này đấy, Megicula!
+Dialogue: 0,0:21:14.10,0:21:19.52,italics,MEGICULA (INT),0,0,0,,Ta đã hết sức đề phòng rồi, nhưng vẫn đinh ninh\Nmình sẽ không bao giờ thua dưới tay loài người…
+Dialogue: 0,0:21:22.38,0:21:29.02,main,MEGICULA,0,0,0,,Xem ra ta đã đánh giá thấp…\Nsức mạnh thực sự của các ngươi rồi.
+Dialogue: 0,0:21:30.24,0:21:33.31,italics,MEGICULA (INT),0,0,0,,Phải chăng đó là lý do ta đã trót\Nnảy sinh hứng thú…
+Dialogue: 0,0:21:33.31,0:21:37.21,italics,MEGICULA (INT),0,0,0,,với sức mạnh cảm xúc của nhân loại sao?
+Dialogue: 0,0:21:51.91,0:21:56.38,main,ACIER,0,0,0,,Hai đứa… đã trưởng thành và mạnh mẽ lên nhiều quá rồi.
+

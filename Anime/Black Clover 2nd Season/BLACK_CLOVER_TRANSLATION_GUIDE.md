@@ -21,6 +21,14 @@
 | **Zora Ideale (ゾーラ)** | Thành viên Hắc Bộc | Ma pháp sư giăng bẫy, miệng lưỡi sắc mỏng nhưng trái tim nhân hậu, đồng cảm với thường dân. |
 | **Jack the Ripper (ジャック)** | Đoàn trưởng Lục Bọ Ngựa | Ngông nghênh, khát máu, khoái chém ngọt mọi thứ. |
 | **Yami Sukehiro (ヤミ)** | Đoàn trưởng Hắc Bộc | Hào sảng, vững chãi, luôn tin tưởng vào tiềm năng và bản lĩnh của đàn em. |
+| **Noelle Silva (ノエル)** | Hoàng tộc Silva / Hắc Bộc | Kiêu hãnh nhưng ấm áp, kiên cường bất khuất, luôn bảo vệ đồng đội. |
+| **Nozel Silva (ノゼル)** | Đoàn trưởng Ngân Dực Đại Ưng | Anh cả nhà Silva; bên ngoài lạnh lùng khắc nghiệt, thực chất mang lời nguyền để gánh vác bảo vệ các em. |
+| **Acier Silva (アシエ)** | Cố Đoàn trưởng Ngân Dực Đại Ưng | Mẹ của Nozel và Noelle; dịu dàng, mạnh mẽ, dùng tình mẫu tử bảo vệ các con trước Megicula. |
+| **Megicula (メギキュラ)** | Ác ma Tối thượng | Chủ nhân Chú Thuật Ma Pháp; lạnh lùng hiếu kỳ về sức mạnh cảm xúc con người. |
+| **Gaja (ガジャ)** | Tinh Linh Thủ Hộ Heart | Trung thành tuyệt đối với Nữ vương Loropechika, sẵn sàng thiêu đốt sinh mạng bảo vệ Người. |
+| **Loropechika (ロロペチカ)** | Nữ vương Heart | Nhân hậu, yêu thương thần dân và trân trọng sự bảo vệ của Gaja. |
+| **Undine (ウンディーネ)** | Thủy Tinh Linh | Tinh linh nước của Vương quốc Heart, đồng hành cùng Noelle đạt Thánh Vực. |
+| **Rill / Charlotte / Luck** | Đoàn trưởng & Hắc Bộc | Nhiệt huyết đồng đội, chiến đấu đến hơi thở cuối cùng trong Hoàng Hôn Valhalla. |
 
 ---
 
@@ -48,6 +56,16 @@
 * **Magic Knights (魔法騎士団)**: Hiệp sĩ Ma pháp
 * **Black Bulls (黒の暴牛)**: Hắc Bộc (Bò Đen)
 * **Soul Chain Death Match (魂の鎖の死闘)**: Viêm Hồn Tỏa Lực Diệt Đấu (Tử Đấu Dây Xích Linh Hồn)
+* **Saint Stage (聖域)**: Thánh Vực *(Tập 176–07)*
+* **Decaying World**: Thế Giới Mục Nát *(Tập 07)*
+* **Curse-Warding Magic (呪符魔法)**: Chú Thuật Ma Pháp *(Tập 176–07)*
+* **Twilight Valhalla**: Thánh Điện Hoàng Hôn Valhalla *(Tập 176–07)*
+* **Picture Magic: Master of Valhalla**: Hội Họa Ma Pháp: Chúa Tể Valhalla
+* **True Briar Magic: Crimson Vine Spear**: Chân Kinh Cức Ma Pháp: Xích Đằng Thương
+* **Ultimate Lightning Magic: Apocalypra Astrauza**: Tuyệt Kỹ Lôi Ma Pháp: Apocalypra Astrauza
+* **Lightning Magic: Pulsaranta**: Lôi Ma Pháp: Pulsaranta
+* **Spirit Guardian**: Tinh Linh Thủ Hộ
+* **Royal House of Silva**: Vương tộc Silva *(Acier, Nozel, Nebra, Solid, Noelle)*
 * **Gravity Magic (重力魔法)**: Trọng Lực Ma Pháp
 * **Heavy Infighting**: Trọng Kích Cận Chiến
 * **Presence of the Demon King (魔王の気配)**: Ma Vương Lâm Tọa
