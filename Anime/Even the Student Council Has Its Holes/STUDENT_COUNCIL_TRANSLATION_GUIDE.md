@@ -24,20 +24,21 @@ Câu chuyện xoay quanh các thành viên hội học sinh trường trung họ
 ## 3. HỒ SƠ NHÂN VẬT & MA TRẬN XƯNG HÔ
 
 ### 3.1. Nhân vật
-1. **Kotobuki Mizunoe (水之江 寿)**: Hội trưởng hội học sinh. Năng động, mê thể thao, cựu thành viên điền kinh, tính cách nhiệt tình như một người chị cả.
-2. **Ume Terai (照井 有栖 / 梅)**: Nữ sinh dễ thương, nhí nhảnh, tích cực tham gia các hoạt động hội.
-3. **Sawa Hiragi (柊 紗和)**: Nữ sinh điềm tĩnh, nghiêm túc, giữ kỷ cương.
-4. **Keigo Otori (大鳥 慶吾)**: Nam sinh lười biếng, hay trốn việc, thích ngủ nướng nhưng luôn bị lôi vào các hoạt động.
-5. **Chinatsu Komaro (古麿 ちなつ)**: Thành viên nhỏ nhắn, thông minh, lém lỉnh.
+1. **Ume Mizunoe (水之江 梅)**: Nam sinh năm nhất, Thủ quỹ Hội học sinh. Hay bị các tiền bối trêu chọc nhưng tốt bụng, đáng tin cậy.
+2. **Hisako Kotobuki (古都吹 寿)**: Nữ Hội trưởng Hội học sinh (năm hai). Nghiêm túc, đảm đang, nhà mở quán ăn **Kotobuki**, có em trai tên **Taiga** và mẹ là **Mayuki Kotobuki** (38 tuổi). Có tình cảm với Ume.
+3. **Arisu Terui (照井 有栖)**: Nữ Phó Hội trưởng (năm hai, *Terui-senpai*), điềm tĩnh, hay trêu chọc và ghép đôi Hisako - Ume.
+4. **Tan (たん)**: Nữ thành viên Hội học sinh phụ trách truyền thông, thẳng thắn, bạo dạn (từng tung hê bài đăng bí mật để ép cô Saegusa).
+5. **Komaro Michinoku (陸奥 こまろ)**: Nữ sinh năm nhất nhỏ nhắn, ngây thơ, học giỏi, được ví như "con gái nhỏ" của Hisako và Ume.
+6. **Yoshino Saegusa (三枝 よしの)**: Nhân viên Văn phòng Hành chính trường, ngoài mặt thanh lịch nhưng ăn hối lộ nhà thầu căn tin và có tài khoản mạng xã hội bí mật.
 
 ### 3.2. Ma trận xưng hô
 | Người nói | Người nghe | Xưng | Gọi | Sắc thái |
 | :--- | :--- | :--- | :--- | :--- |
-| **Kotobuki (Hội trưởng)** | Các thành viên | Chị / Tôi | Mấy đứa / Em / [Tên] | Thân thiện, chỉ huy vui vẻ |
-| **Ume** | Kotobuki | Em | Chị / Hội trưởng | Tôn trọng, nhí nhảnh |
-| **Ume** | Otori | Tớ / Tôi | Cậu / Otori | Bạn học trêu chọc |
-| **Otori** | Kotobuki | Em / Tôi | Chị Hội trưởng / Hội trưởng | E dè, ngại bị bắt bẻ |
-| **Sawa** | Mọi người | Tôi | Cậu / Hội trưởng / Mọi người | Nghiêm túc, chuẩn mực |
+| **Hisako (Hội trưởng)** | Ume / Komaro / Tan | Chị / Tôi | Mizunoe / Michinoku / Em | Đàn chị ân cần, hay ngại khi nhắc Ume |
+| **Ume / Komaro** | Hisako / Arisu | Em | Chị Hội trưởng / Chị Arisu | Tôn trọng đàn chị khóa trên |
+| **Arisu / Tan** | Ume / Komaro | Chị / Tôi | Ume / Komaro / Cậu | Tiền bối trêu ghẹo đáng yêu |
+| **Mayuki (Mẹ Hisako)** | Ume / Hội HS | Cô / Mẹ | Cháu / Ume / Con | Nhiệt tình thái quá, thích nhận cháu |
+| **Saegusa (Giáo vụ)** | Hội HS | Tôi | Các em | Giả lả lúc đầu, sau bị nắm thóp |
 
 > 💡 **Quy tắc dự phòng (Zero-Knowledge Fallback)**:
 > Học đường / Đồng trang lứa: **`Tôi - Cậu`** (hoặc `Tớ - Cậu`). Giáo viên - Học sinh: **`Thầy/Cô - Em`**.
