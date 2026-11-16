@@ -8,7 +8,7 @@
 - **Tên tác phẩm**: Magical Explorer (マジカル★エクスプローラー / 魔法★探險家)
 - **Thể loại**: Isekai, Harem, Fantasy, Học đường Ma pháp, Eroge Reincarnation.
 - **Tác giả**: Iris (Light Novel), Noboru Kannatuki (Minh họa).
-- **Nhóm dịch**: **Phamtin147**
+- **Nhóm dịch**: **Amtia(NOFACE)**
 - **Chuẩn Font**: **Segoe UI** (Unicode UTF-8 with BOM, Anti-Tofu 100%).
 
 ---
@@ -82,5 +82,5 @@ Biết trước thế giới này sẽ phải đối mặt với vô số thảm
 
 - **Typography**: Font **Segoe UI**, cỡ chữ chuẩn 25, Outline 1.2, Shadow 0.5.
 - **Credits cuối tập**:
-  - *Phụ đề Việt ngữ: Phamtin147*
-  - *Dịch thuật & Biên tập: Phamtin147*
+  - *Phụ đề Việt ngữ: Amtia(NOFACE)*
+  - *Dịch thuật & Biên tập: Amtia(NOFACE)*
