@@ -31,9 +31,18 @@ Cả lớp học của Takatsuki Makoto bị chuyển sinh sang dị giới. Kh�
 3. **Lucy J. Walker (ルーシー・J・ウォーカー)**:
    - Nữ pháp sư tộc Elf lai, bạn đồng hành đầu tiên của Makoto tại Makkallan. Sử dụng ma thuật lửa uy lực cực mạnh nhưng độ chính xác kém. Tính tình thẳng thắn, dễ xúc động.
 4. **Lucas (ルーカス) & Jean (ジーン)**:
-   - Mạo hiểm giả kỳ cựu / bạn bè tại hội mạo hiểm giả Makkallan.
+   - Mạo hiểm giả kỳ cựu / bạn bè tại hội mạo hiểm giả Makkallan (`Lucas` là Đồ Long Sư).
 5. **Mary (メアリー) & Emily (エミリー)**:
    - Nhân viên tiếp tân của Công hội Mạo hiểm giả thành phố Makkallan.
+6. **Fujiwara Michio / Fujiyan (フジヤン)**:
+   - Bạn cùng lớp của Makoto, thương nhân tài giỏi sở hữu *Thương hội Fujiwara* và phi thuyền *Saint Kanon*. Gọi Makoto là `Tackie-dono / Cậu` (`Tôi - Cậu`).
+7. **Nina (ニナ)**:
+   - Cộng sự tin cậy của Fujiyan (`Tôi/Em - Anh Takatsuki / Cậu`, lịch sự với `Makoto` & `Ngài Sakurai`).
+8. **Sakurai Ryousuke (桜井 亮介)**:
+   - Bạn cùng lớp được triệu hồi làm *Anh Hùng Ánh Sáng (Hero of Light)* của Cao Nguyên Highland (`Tôi - Cậu / Takatsuki-kun`).
+9. **Sasaki Aya / Sasan (さーさん / アヤ)**:
+   - Bạn học thời hiện đại của Makoto, chuyển sinh thành quái vật *Lamia* (`Tớ - Takatsuki-kun / Cậu`).
+10. **Công chúa Noelle (Highland) & Công chúa Sophia (Vương quốc Hoa Hồng - Roses)**.
 
 ### 3.2. Ma trận xưng hô
 | Người nói | Người nghe | Xưng | Gọi | Sắc thái |
@@ -61,6 +70,13 @@ Cả lớp học của Takatsuki Makoto bị chuyển sinh sang dị giới. Kh�
 * **Sync / Synchronization**: Đồng bộ hóa (kỹ năng đặc thù của Makoto)
 * **Water Temple**: Thủy Đền (Nơi phong ấn Noah)
 * **Goddess**: Nữ thần
+* **Labyrinthos**: Đại mê cung Labyrinthos (`Labyrinthos Falls`: Thác Labyrinthos)
+* **Highland / Roses**: Cao Nguyên Highland / Vương quốc Hoa Hồng (Roses)
+* **Hero of Light**: Anh Hùng Ánh Sáng
+* **Soleil Knights**: Kỵ Sĩ Đoàn Soleil
+* **Blight Dragon**: Ô Uế Long (Rồng Ô Uế)
+* **Sense Danger**: Cảm Nhận Nguy Hiểm
+* **Escape Card**: Thẻ Thoát Thân
 
 ---
 

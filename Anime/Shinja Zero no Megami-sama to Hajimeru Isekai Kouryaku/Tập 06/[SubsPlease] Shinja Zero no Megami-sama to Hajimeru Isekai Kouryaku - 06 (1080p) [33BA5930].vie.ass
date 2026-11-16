@@ -1,0 +1,387 @@
+﻿[Script Info]
+Title: Vietnamese Fansub (VietSub by Amtia(NOFACE))
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 640
+PlayResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: top,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: italics,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: italicstop,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: flashback,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashback italics,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashbacktop,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: flashbackitalicstop,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: overlap,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: overlaptop,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: overlap italics,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: main,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:08.73,0:00:10.47,italics,Aya,0,0,0,,Lạnh quá...
+Dialogue: 0,0:00:11.24,0:00:14.35,italics,AyaM,0,0,0,,Sao mọi chuyện lại ra nông nỗi này chứ?
+Dialogue: 0,0:00:15.49,0:00:17.89,italics,AyaM,0,0,0,,Này, Takatsuki-kun,
+Dialogue: 0,0:00:19.13,0:00:21.62,italics,AyaM,0,0,0,,nhìn về phía tớ đi.
+Dialogue: 0,0:00:22.64,0:00:25.67,italics,AyaM,0,0,0,,Ôi... Hết cách thật rồi.
+Dialogue: 0,0:00:36.26,0:00:37.76,Default,LamiaMom,0,0,0,,Ồ?
+Dialogue: 0,0:00:37.76,0:00:42.27,Default,LamiaMom,0,0,0,,Vậy ra con là đứa đầu tiên\Ntrong số các chị em nở ra khỏi trứng à?
+Dialogue: 0,0:00:47.23,0:00:48.43,Default,Aya,0,0,0,,Không đời nào...
+Dialogue: 0,0:00:49.83,0:00:52.12,Default,LamiaMom,0,0,0,,Đứa con bé bỏng đáng yêu của mẹ,
+Dialogue: 0,0:00:52.12,0:00:55.79,Default,LamiaMom,0,0,0,,lại đây cho mẹ ngắm khuôn mặt con nào.
+Dialogue: 0,0:01:05.19,0:01:06.04,Default,Aya,0,0,0,,Hả?
+Dialogue: 0,0:02:40.26,0:02:43.56,top,sign,0,0,0,,TẬP 6\NTAKATSUKI MAKOTO GẶP GỠ MỘT CHÚ RỒNG
+Dialogue: 0,0:02:40.25,0:02:44.18,Default,Mary,0,0,0,,Vậy là ngày mai hai đứa cuối cùng cũng\Nlên đường tới đại mê cung Labyrinthos rồi hả?
+Dialogue: 0,0:02:44.18,0:02:46.00,Default,Jean,0,0,0,,Thiếu hai đứa tụi em ở đây buồn lắm đấy.
+Dialogue: 0,0:02:46.00,0:02:46.88,Default,Emily,0,0,0,,Phải đó.
+Dialogue: 0,0:02:46.88,0:02:49.15,Default,Makoto,0,0,0,,Nào, tụi mình đâu có chia tay mãi mãi đâu.
+Dialogue: 0,0:02:49.15,0:02:50.44,Default,Lucy,0,0,0,,Đúng rồi, đúng rồi đấy!
+Dialogue: 0,0:02:50.72,0:02:52.64,Default,Lucas,0,0,0,,Tới lượt hai đứa rồi nhỉ?
+Dialogue: 0,0:02:52.64,0:02:57.19,Default,Lucas,0,0,0,,Mọi mạo hiểm giả ở Thủy Quốc\Nít nhất một lần đều muốn chinh phục mê cung đó.
+Dialogue: 0,0:02:57.19,0:02:59.82,Default,Makoto,0,0,0,,Thì bọn em cũng sẽ cố hết sức\Nmà không làm chuyện quá sức đâu ạ.
+Dialogue: 0,0:02:59.82,0:03:01.40,Default,Lucas,0,0,0,,Dù vậy, nhớ cẩn thận đấy.
+Dialogue: 0,0:03:01.40,0:03:04.07,Default,Lucas,0,0,0,,Chỗ đó nguy hiểm lắm, nghe rõ chưa?
+Dialogue: 0,0:03:04.07,0:03:06.63,Default,Makoto,0,0,0,,Ý anh là quái vật ở đó\Nmạnh hơn nhiều đúng không?
+Dialogue: 0,0:03:06.63,0:03:08.29,Default,Jean,0,0,0,,Tôi tin chắc Makoto sẽ xoay xở ổn thỏa thôi.
+Dialogue: 0,0:03:08.29,0:03:10.21,Default,Lucas,0,0,0,,Cái anh lo không phải chuyện đó.
+Dialogue: 0,0:03:10.85,0:03:13.96,Default,Lucas,0,0,0,,Nơi ấy nhan nhản bọn thợ săn mạo hiểm giả\Nchuyên nhắm vào người mới đấy.
+Dialogue: 0,0:03:13.96,0:03:15.02,Default,Lucy,0,0,0,,Hả?
+Dialogue: 0,0:03:15.02,0:03:16.46,Default,Makoto,0,0,0,,Thất đức thế cơ à.
+Dialogue: 0,0:03:16.46,0:03:18.44,Default,Lucas,0,0,0,,Cơ mà nếu hai đứa xưng danh\Nlà đệ tử của anh,
+Dialogue: 0,0:03:18.44,0:03:21.22,Default,Lucas,0,0,0,,thì hầu hết bọn chúng đều sẽ biết điều\Nmà không dám động vào đâu!
+Dialogue: 0,0:03:21.22,0:03:22.77,Default,Jean,0,0,0,,Đúng đẳng cấp anh Lucas nhà ta!
+Dialogue: 0,0:03:22.77,0:03:23.97,top,Lucas,0,0,0,,Thấy oách chưa?!
+Dialogue: 0,0:03:23.97,0:03:25.28,top,Jean,0,0,0,,Ngầu bá cháy luôn!
+Dialogue: 0,0:03:22.77,0:03:26.97,italics,Makoto,0,0,0,,Xem ra theo một khía cạnh nào đó,\Ncon người còn đáng sợ hơn cả quái vật nhỉ.
+Dialogue: 0,0:03:29.48,0:03:30.76,Default,Lucy,0,0,0,,Đúng chỗ này chưa vậy?
+Dialogue: 0,0:03:30.76,0:03:34.01,Default,Makoto,0,0,0,,Ừ, Fujiyan bảo tới đúng địa điểm này.
+Dialogue: 0,0:03:34.01,0:03:34.86,Default,Lucy,0,0,0,,Hả?!
+Dialogue: 0,0:03:41.23,0:03:43.15,Default,Makoto,0,0,0,,Chiếc phi thuyền khổng lồ quá trời.
+Dialogue: 0,0:03:44.16,0:03:45.33,Default,Fujiyan,0,0,0,,Ngài Tackie!
+Dialogue: 0,0:03:45.33,0:03:47.24,Default,Nina,0,0,0,,Chúng tôi tới đón hai người đây ạ!
+Dialogue: 0,0:03:47.24,0:03:48.60,Default,Makoto,0,0,0,,Ủa? Fujiyan đấy à?!
+Dialogue: 0,0:03:48.60,0:03:50.02,Default,Lucy,0,0,0,,Tuyệt vời quá đi!
+Dialogue: 0,0:03:50.02,0:03:52.12,Default,Lucy,0,0,0,,Lần đầu tiên trong đời tớ được thấy tận mắt đấy.
+Dialogue: 0,0:03:55.03,0:03:57.58,Default,Makoto,0,0,0,,Không thể tin nổi cậu sở hữu cả\Nmột chiếc phi thuyền bự thế này luôn.
+Dialogue: 0,0:03:58.56,0:04:01.76,Default,Fujiyan,0,0,0,,Dạo gần đây tôi mới tậu về để\Nmở rộng quy mô buôn bán.
+Dialogue: 0,0:04:02.12,0:04:07.39,Default,Fujiyan,0,0,0,,Sau đó cải tạo sửa sang đôi chút\Nđể biến nó thành con tàu kiên cố hơn.
+Dialogue: 0,0:04:07.39,0:04:11.30,Default,Fujiyan,0,0,0,,Còn phần lõi năng lượng, tôi đã tận dụng thứ\Nmà tụi mình xin được từ vị Titanea hôm nọ.
+Dialogue: 0,0:04:13.74,0:04:18.36,flashback,Fujiyan,0,0,0,,Thưa đại nhân Titanea vĩ đại, cho phép tôi\Nxin phép nhận đốt ngón tay bị đứt lìa này nhé?
+Dialogue: 0,0:04:18.88,0:04:20.11,Default,Makoto,0,0,0,,À, cái đó hả.
+Dialogue: 0,0:04:20.11,0:04:22.63,Default,Lucy,0,0,0,,Này, con tàu này có tên riêng không thế?
+Dialogue: 0,0:04:23.26,0:04:25.36,Default,Fujiyan,0,0,0,,May quá cô hỏi đúng chỗ ngứa rồi đấy!
+Dialogue: 0,0:04:25.36,0:04:27.83,Default,Fujiyan,0,0,0,,Tên của nàng là Thánh Nữ Kanon (Saint Kanon)!
+Dialogue: 0,0:04:27.83,0:04:30.87,Default,Fujiyan,0,0,0,,Đôi cánh trắng tung hoành khắp bầu trời lục địa!
+Dialogue: 0,0:04:30.87,0:04:32.63,Default,Lucy,0,0,0,,Oa, cái tên nghe mỹ miều quá đi mất.
+Dialogue: 0,0:04:32.63,0:04:34.16,Default,Nina,0,0,0,,Ông chủ có gu thẩm mỹ đỉnh thật đấy.
+Dialogue: 0,0:04:34.76,0:04:39.13,italics,MakotoM,0,0,0,,Cậu lấy từ tên nhân vật nữ chính game visual novel\Nyêu thích Hijiri Kanon chứ gì?
+Dialogue: 0,0:04:40.92,0:04:42.38,italics,MakotoM,0,0,0,,Bộ cậu đọc thấu suy nghĩ\Ncủa tớ luôn hay sao thế?
+Dialogue: 0,0:04:42.38,0:04:45.91,Default,Lucy,0,0,0,,Này, bay tới Labyrinthos thì mất\Nbao lâu vậy?
+Dialogue: 0,0:04:45.91,0:04:47.41,Default,Fujiyan,0,0,0,,Một ngày thôi.
+Dialogue: 0,0:04:47.41,0:04:49.82,Default,Fujiyan,0,0,0,,Khoảng sáng mai là chúng ta sẽ tới nơi.
+Dialogue: 0,0:04:49.82,0:04:50.78,Default,Lucy,0,0,0,,Không thể tin nổi!
+Dialogue: 0,0:04:50.78,0:04:52.89,Default,Lucy,0,0,0,,Đi xe ngựa chắc phải mất cả tuần trời lận ấy!
+Dialogue: 0,0:04:54.16,0:04:56.40,Default,Fujiyan,0,0,0,,Giờ xin phép được dẫn hai người về phòng nghỉ ngơi.
+Dialogue: 0,0:04:56.40,0:04:58.26,Default,Fujiyan,0,0,0,,Bữa ăn cũng đang được chuẩn bị sẵn rồi,
+Dialogue: 0,0:04:58.26,0:04:59.96,Default,Fujiyan,0,0,0,,hai người cứ việc mong chờ nhé.
+Dialogue: 0,0:04:59.96,0:05:01.69,Default,Lucy,0,0,0,,Hoan hô!
+Dialogue: 0,0:05:15.79,0:05:20.06,Default,Fujiyan,0,0,0,,Bầu trời đêm ở thế giới này\Nđẹp đến ngỡ ngàng cậu nhỉ?
+Dialogue: 0,0:05:22.19,0:05:24.92,Default,Fujiyan,0,0,0,,Tụi mình đã đi một chặng đường xa xôi thật đấy.
+Dialogue: 0,0:05:24.92,0:05:25.65,Default,Makoto,0,0,0,,Ừ.
+Dialogue: 0,0:05:30.86,0:05:35.31,Default,Makoto,0,0,0,,Tớ chưa từng nghĩ có ngày mình lại đặt chân\Nvào một thế giới hệt như trong game thế này.
+Dialogue: 0,0:05:40.24,0:05:42.82,flashback,Aya,0,0,0,,Cậu lúc nào cũng chỉ chơi toàn\Ngame một người chơi nhỉ?
+Dialogue: 0,0:05:43.35,0:05:46.34,flashback,Aya,0,0,0,,Này, không có trò nào mà hai đứa mình\Ncùng chơi chung được à?
+Dialogue: 0,0:05:47.45,0:05:48.72,italics,MakotoM,0,0,0,,Sasan...
+Dialogue: 0,0:05:49.45,0:05:50.63,Default,Fujiyan,0,0,0,,Ngài Tackie này.
+Dialogue: 0,0:05:50.63,0:05:52.80,Default,Fujiyan,0,0,0,,Tôi có nghe tin đồn rằng gần đây,
+Dialogue: 0,0:05:52.80,0:05:57.20,Default,Fujiyan,0,0,0,,quái vật mạnh hơn bình thường đang xuất hiện\Nbên trong mê cung mà tụi mình sắp chinh phục.
+Dialogue: 0,0:05:57.20,0:05:58.88,Default,Fujiyan,0,0,0,,Khi vào trong tốt nhất vẫn nên cẩn trọng.
+Dialogue: 0,0:05:58.88,0:06:03.09,Default,Makoto,0,0,0,,Thì lần này cứ thong thả khám phá\Ncác tầng trên trước cho an toàn thôi.
+Dialogue: 0,0:06:03.09,0:06:05.51,Default,Fujiyan,0,0,0,,Bình thường cậu toàn nói câu đó rồi sau đó lại\Nlàm mấy chuyện động trời hết hồn,
+Dialogue: 0,0:06:05.51,0:06:07.47,Default,Fujiyan,0,0,0,,nên tôi mới thấy lo ngay ngáy đây này.
+Dialogue: 0,0:06:14.57,0:06:16.99,Default,Lucy,0,0,0,,Makoto ơi, sắp tới nơi rồi kìa!
+Dialogue: 0,0:06:22.43,0:06:25.25,Default,Lucy,0,0,0,,Ở Macallan đã thấy đông mạo hiểm giả rồi,
+Dialogue: 0,0:06:25.25,0:06:26.86,Default,Lucy,0,0,0,,nhưng chỗ này còn nhộn nhịp gấp bội luôn!
+Dialogue: 0,0:06:27.33,0:06:31.24,Default,Fujiyan,0,0,0,,Nghe bảo số lượng mạo hiểm giả tới thử sức\Ntại Labyrinthos ngày một tăng mạnh.
+Dialogue: 0,0:06:31.56,0:06:34.58,Default,Fujiyan,0,0,0,,Tổng số người hiện đang đăng ký tại
+Dialogue: 0,0:06:34.58,0:06:36.75,Default,Fujiyan,0,0,0,,Công hội Mạo hiểm giả ở đây\Nlà đông nhất toàn cõi Roses đấy.
+Dialogue: 0,0:06:36.75,0:06:37.77,Default,Makoto,0,0,0,,Ra vậy.
+Dialogue: 0,0:06:37.77,0:06:40.96,Default,Makoto,0,0,0,,Được rồi, mình cũng qua làm thủ tục\Nđăng ký công hội luôn đi.
+Dialogue: 0,0:06:40.96,0:06:44.55,Default,Fujiyan,0,0,0,,Tôi với cô Nina còn phải ghé thương hội\Ngiải quyết chút giao dịch,
+Dialogue: 0,0:06:44.55,0:06:45.70,Default,Fujiyan,0,0,0,,nên hai nhóm tạm tách ra nhé.
+Dialogue: 0,0:06:45.70,0:06:48.80,Default,Fujiyan,0,0,0,,Lát nữa tụi mình hẹn gặp lại ở\NQuán Rượu Anh Hùng sau.
+Dialogue: 0,0:06:48.80,0:06:50.74,Default,Makoto,0,0,0,,Rõ rồi! Lát gặp lại nhé!
+Dialogue: 0,0:06:54.33,0:06:57.02,Default,Lucy,0,0,0,,Này này, sẵn tiện mình đi dạo ngắm cảnh\Nmột chút không cậu?
+Dialogue: 0,0:06:57.49,0:06:59.56,italics,MakotoM,0,0,0,,Mình muốn ghé thẳng công hội làm thủ tục ngay cơ,
+Dialogue: 0,0:06:59.56,0:07:02.31,italics,MakotoM,0,0,0,,nhưng mà từ chối không đi cùng Lucy\Nthì cũng thấy áy náy.
+Dialogue: 0,0:07:02.77,0:07:04.17,Default,Makoto,0,0,0,,Được thôi, đi dạo chút cũng được.
+Dialogue: 0,0:07:04.17,0:07:05.65,Default,Noah,0,0,0,,Chà chà, biết chiều lòng con gái thế cơ đấy.
+Dialogue: 0,0:07:05.65,0:07:08.83,Default,Noah,0,0,0,,Nhóc cũng bắt đầu hiểu được chút tâm ý\Ncủa cô bé đó rồi phải không?
+Dialogue: 0,0:07:08.83,0:07:11.91,italics,MakotoM,0,0,0,,Xin ngài đừng có tự tiện đọc trộm\Nsuy nghĩ của con bất cứ lúc nào thế chứ.
+Dialogue: 0,0:07:12.17,0:07:16.08,Default,Noah,0,0,0,,Ta nghĩ nhóc tỏ tình với Lucy\Nsớm một chút cũng đâu có sao đâu.
+Dialogue: 0,0:07:16.08,0:07:18.04,italics,MakotoM,0,0,0,,Hả? Ngài đang nói chuyện gì thế ạ?
+Dialogue: 0,0:07:18.04,0:07:21.59,Default,Noah,0,0,0,,Trời ạ, nhóc ngây thơ chẳng hiểu gì thật đấy à?
+Dialogue: 0,0:07:21.59,0:07:22.93,italics,MakotoM,0,0,0,,Hiểu chuyện gì mới được chứ?
+Dialogue: 0,0:07:23.42,0:07:25.42,Default,Lucy,0,0,0,,Này Makoto, cậu thích chiếc nào hơn?
+Dialogue: 0,0:07:25.42,0:07:27.67,Default,Makoto,0,0,0,,Tớ cũng chẳng rành mấy chuyện thời trang lắm đâu.
+Dialogue: 0,0:07:27.67,0:07:29.19,Default,Lucy,0,0,0,,Không sao mà.
+Dialogue: 0,0:07:30.43,0:07:31.68,Default,Makoto,0,0,0,,Thế thì chọn chiếc này đi.
+Dialogue: 0,0:07:31.68,0:07:33.60,Default,Lucy,0,0,0,,Nếu đã là lựa chọn của cậu,
+Dialogue: 0,0:07:33.60,0:07:34.93,Default,Lucy,0,0,0,,vậy tớ sẽ lấy cái này luôn!
+Dialogue: 0,0:07:34.93,0:07:36.41,Default,Noah,0,0,0,,Thấy chưa hả?
+Dialogue: 0,0:07:36.41,0:07:38.25,italics,MakotoM,0,0,0,,Thì đã bảo ngài đang ám chỉ cái gì cơ chứ?
+Dialogue: 0,0:07:38.25,0:07:40.43,Default,Noah,0,0,0,,Chính là chuyện ngay trước mắt đây này.
+Dialogue: 0,0:07:43.63,0:07:46.86,Default,Makoto,0,0,0,,Đăng ký xong xuôi cả rồi,\Ngiờ mình qua Quán Rượu Anh Hùng được nhỉ.
+Dialogue: 0,0:07:46.86,0:07:50.31,Default,Lucy,0,0,0,,Tiện đường ghé qua ngó nghiêng mê cung\Nmột lát trước khi về đi cậu!
+Dialogue: 0,0:07:50.31,0:07:53.28,Default,Makoto,0,0,0,,Không được, phải lên kế hoạch chuẩn bị kỹ càng trước đã.
+Dialogue: 0,0:07:53.28,0:07:55.57,Default,Lucy,0,0,0,,Ra tận nơi xem tận mắt vẫn nhanh hơn mà.
+Dialogue: 0,0:07:56.02,0:07:57.83,Default,Adventurer,0,0,0,,Này, cô em xinh đẹp.
+Dialogue: 0,0:07:58.55,0:08:00.14,Default,Adventurer,0,0,0,,Nếu muốn vào thăm thú mê cung,
+Dialogue: 0,0:08:00.14,0:08:02.83,Default,Adventurer,0,0,0,,thì đi cùng bọn anh cho an toàn,\Nđừng theo thằng nhóc ranh này làm gì.
+Dialogue: 0,0:08:02.83,0:08:04.36,Default,Lucy,0,0,0,,Makoto, mình đi thôi.
+Dialogue: 0,0:08:04.36,0:08:05.86,Default,Adventurer,0,0,0,,Này, đừng có phớt lờ bọn này chứ.
+Dialogue: 0,0:08:05.86,0:08:08.09,Default,Adventurer,0,0,0,,Biến về nhà đi, nhóc con.
+Dialogue: 0,0:08:10.09,0:08:12.53,Default,Adventurer,0,0,0,,Em gái cứ đi thám thính cùng bọn anh là ngon ngay.
+Dialogue: 0,0:08:12.53,0:08:14.22,Default,Lucy,0,0,0,,Hả? Các người nói nhảm cái quái gì vậy?
+Dialogue: 0,0:08:14.22,0:08:16.22,Default,Adventurer,0,0,0,,Đi theo tụi này lẹ lên!
+Dialogue: 0,0:08:19.43,0:08:20.46,Default,Adventurer,0,0,0,,Thằng oắt láo toét!
+Dialogue: 0,0:08:20.46,0:08:21.81,Default,Adventurer,0,0,0,,Xê ra, nhóc con!
+Dialogue: 0,0:08:24.24,0:08:25.94,Default,Adventurer,0,0,0,,Thằng nhãi ranh!
+Dialogue: 0,0:08:32.31,0:08:34.16,Default,Adventurer,0,0,0,,Thanh ma kiếm mithril của tao!
+Dialogue: 0,0:08:34.16,0:08:35.70,Default,Makoto,0,0,0,,Cái đó mà làm bằng mithril à?
+Dialogue: 0,0:08:35.70,0:08:36.59,Default,Adventurer,0,0,0,,Thằng khốn...
+Dialogue: 0,0:08:36.59,0:08:38.78,Default,Lucy,0,0,0,,Đừng trách tụi này không nương tay\Nnếu mấy người gặp chuyện nhé!
+Dialogue: 0,0:08:39.29,0:08:43.66,Default,Lucy,0,0,0,,Tụi tôi là đệ tử của Lucas Dalmore đấy!
+Dialogue: 0,0:08:43.66,0:08:45.97,Default,Adventurer,0,0,0,,Hả? Đồ Long Sư ấy hả?!
+Dialogue: 0,0:08:45.97,0:08:48.17,Default,Adventurer,0,0,0,,Chậc! Rút thôi tụi bay.
+Dialogue: 0,0:08:48.17,0:08:49.42,Default,Adventurer,0,0,0,,Hãy nhớ mặt bọn tao đấy!
+Dialogue: 0,0:08:51.14,0:08:52.88,flashback,Lucas,0,0,0,,Cơ mà nếu hai đứa xưng danh\Nlà đệ tử của anh,
+Dialogue: 0,0:08:52.88,0:08:55.61,flashback,Lucas,0,0,0,,thì hầu hết bọn chúng đều sẽ biết điều\Nmà không dám động vào đâu!
+Dialogue: 0,0:08:56.49,0:08:59.23,Default,Lucy,0,0,0,,Không ngờ vừa nghe tên thầy ấy thôi\Nlà bọn chúng chạy mất dép luôn.
+Dialogue: 0,0:08:59.23,0:09:01.49,Default,Makoto,0,0,0,,Anh Lucas đỉnh thật sự.
+Dialogue: 0,0:09:06.71,0:09:08.02,Default,Lucy,0,0,0,,Chuyện gì ồn ào thế nhỉ?
+Dialogue: 0,0:09:09.52,0:09:12.57,Default,Woman,0,0,0,,Nhìn kìa! Là Anh Hùng Ánh Sáng của Highland đấy!
+Dialogue: 0,0:09:13.11,0:09:14.57,Default,Makoto,0,0,0,,Sakurai-kun?
+Dialogue: 0,0:09:15.07,0:09:18.85,italics,MakotoM,0,0,0,,Đây chắc chắn không phải cuộc hội ngộ định mệnh\Nmà ngài nhắc tới đâu nhỉ, Nữ thần Noah?
+Dialogue: 0,0:09:21.01,0:09:23.83,italics,MakotoM,0,0,0,,Quả nhiên cứ hễ tới lúc quan trọng\Nlà ngài lại im re cho xem.
+Dialogue: 0,0:09:24.29,0:09:26.46,Default,Man,0,0,0,,Công chúa Noelle!
+Dialogue: 0,0:09:27.52,0:09:29.46,Default,People,0,0,0,,Công chúa Noelle muôn năm!
+Dialogue: 0,0:09:29.93,0:09:32.46,Default,People,0,0,0,,Công chúa Sophia!
+Dialogue: 0,0:09:33.66,0:09:35.98,Default,Lucy,0,0,0,,Lại gần xem thử chút đi, Makoto!
+Dialogue: 0,0:09:37.82,0:09:40.77,flashback,Makoto,0,0,0,,Tôi cũng muốn trở thành tín đồ\Ncủa Nữ thần Nước!
+Dialogue: 0,0:09:40.77,0:09:42.85,flashback,Makoto,0,0,0,,Xin người hãy ban cho tôi phước lành của Nữ thần đi ạ?!
+Dialogue: 0,0:09:42.85,0:09:47.20,flashback,Sophia,0,0,0,,Xem ra ngươi vẫn cần rèn luyện\Nthêm một chút nữa đấy.
+Dialogue: 0,0:09:47.20,0:09:48.98,flashback,Sophia,0,0,0,,Hẹn dịp khác vậy nhé.
+Dialogue: 0,0:09:50.70,0:09:51.70,Default,Makoto,0,0,0,,Đi thôi, Lucy.
+Dialogue: 0,0:09:51.70,0:09:52.95,Default,Lucy,0,0,0,,Ủa? Sao thế?
+Dialogue: 0,0:09:54.74,0:09:55.99,Default,Makoto,0,0,0,,Chẳng có gì đáng để xem đâu.
+Dialogue: 0,0:10:11.12,0:10:12.98,Default,Makoto,0,0,0,,Thương vụ bên cậu suôn sẻ cả chứ?
+Dialogue: 0,0:10:12.98,0:10:17.01,Default,Fujiyan,0,0,0,,May thay, tôi đã chốt gọn được vài tuyến giao thương\Nổn áp và đáng tin cậy rồi!
+Dialogue: 0,0:10:17.01,0:10:18.65,Default,Makoto,0,0,0,,Giỏi lắm.
+Dialogue: 0,0:10:18.65,0:10:22.01,Default,Fujiyan,0,0,0,,Quả nhiên bõ công vung tiền tậu chiếc phi thuyền.
+Dialogue: 0,0:10:22.01,0:10:26.31,Default,Fujiyan,0,0,0,,À đúng rồi, hình như ngài Sakurai\Ncũng có mặt ở đây đấy.
+Dialogue: 0,0:10:26.31,0:10:30.72,Default,Fujiyan,0,0,0,,Đi cùng cả Công chúa Noelle của Highland\Nvà Công chúa Sophia xứ Roses nữa.
+Dialogue: 0,0:10:30.72,0:10:32.24,Default,Makoto,0,0,0,,Lúc nãy tụi này vừa mới chạm mặt xong.
+Dialogue: 0,0:10:32.24,0:10:35.78,Default,Fujiyan,0,0,0,,Mục tiêu lần này của ngài Sakurai\Nlà tiêu diệt con Ô Uế Long
+Dialogue: 0,0:10:35.78,0:10:39.03,Default,Fujiyan,0,0,0,,vừa hồi sinh bên trong Labyrinthos\Nsau tròn một ngàn năm.
+Dialogue: 0,0:10:39.03,0:10:42.80,Default,Lucy,0,0,0,,Hả? Sakurai? Ý anh nói Anh Hùng Ánh Sáng ấy ạ?
+Dialogue: 0,0:10:42.80,0:10:43.58,Default,Makoto,0,0,0,,Ừ.
+Dialogue: 0,0:10:43.58,0:10:46.32,Default,Lucy,0,0,0,,Ơ kìa?! Thế mà cậu chẳng thèm nói cho tớ biết\Nlà cậu quen thân với anh ấy!
+Dialogue: 0,0:10:46.32,0:10:47.54,Default,Nina,0,0,0,,Đúng luôn đó anh!
+Dialogue: 0,0:10:48.03,0:10:51.17,Default,Makoto,0,0,0,,Mà sao ai nấy đều phát cuồng vì cậu ta thế nhỉ?
+Dialogue: 0,0:10:51.17,0:10:55.30,Default,Fujiyan,0,0,0,,Ngài Sakurai nổi tiếng vang dội khác hẳn,\Nkể cả khi đặt cạnh những vị anh hùng khác.
+Dialogue: 0,0:10:55.30,0:10:58.05,Default,Makoto,0,0,0,,Cậu ta có gì khác biệt với\Nmấy anh hùng kia sao?
+Dialogue: 0,0:10:58.05,0:10:59.71,Default,Lucy,0,0,0,,Cậu hỏi thật đấy à?
+Dialogue: 0,0:10:59.71,0:11:02.24,Default,Nina,0,0,0,,Nghe câu đó là đủ hiểu anh mù tịt\Nvề thế giới này tới mức nào rồi.
+Dialogue: 0,0:11:02.24,0:11:03.55,Default,Makoto,0,0,0,,Hả?
+Dialogue: 0,0:11:04.49,0:11:09.70,Default,Fujiyan,0,0,0,,Suốt chiều dài lịch sử, chỉ duy nhất Đấng Cứu Thế Abel\Nsở hữu kỹ năng Anh Hùng Ánh Sáng.
+Dialogue: 0,0:11:09.70,0:11:11.69,Default,Fujiyan,0,0,0,,Và giờ, sau một ngàn năm đằng đẵng...
+Dialogue: 0,0:11:11.69,0:11:13.57,Default,Fujiyan,0,0,0,,năng lực huyền thoại đó một lần nữa tái xuất
+Dialogue: 0,0:11:13.57,0:11:15.39,Default,Fujiyan,0,0,0,,trên người ngài Sakurai.
+Dialogue: 0,0:11:16.19,0:11:18.03,Default,Makoto,0,0,0,,Thật luôn á?
+Dialogue: 0,0:11:18.03,0:11:24.69,Default,Fujiyan,0,0,0,,Ban đầu Roses kiên quyết giữ quyền chiêu mộ Anh Hùng Ánh Sáng\Nvì họ là nước tiếp nhận tụi mình đầu tiên,
+Dialogue: 0,0:11:24.69,0:11:26.76,Default,Fujiyan,0,0,0,,nhưng cuối cùng đành nhượng bộ trước sức ép từ Highland
+Dialogue: 0,0:11:26.76,0:11:29.54,Default,Fujiyan,0,0,0,,và phải trao quyền bảo hộ cậu ấy sang bên kia.
+Dialogue: 0,0:11:29.54,0:11:30.79,Default,Makoto,0,0,0,,Hừm...
+Dialogue: 0,0:11:31.22,0:11:35.29,Default,Fujiyan,0,0,0,,Đổi lại, Roses giành được đặc quyền ưu tiên đàm phán
+Dialogue: 0,0:11:35.29,0:11:38.30,Default,Fujiyan,0,0,0,,với toàn bộ những người chuyển sinh còn lại trước tiên.
+Dialogue: 0,0:11:38.30,0:11:42.73,Default,Nina,0,0,0,,Nhân tiện nói tới chuyện đó, ngài Sakurai\Nchính là vị hôn phu của Công chúa Noelle đấy ạ.
+Dialogue: 0,0:11:42.73,0:11:43.55,Default,Makoto,0,0,0,,Cái gì cơ?!
+Dialogue: 0,0:11:44.00,0:11:46.65,Default,Lucy,0,0,0,,Tớ còn nghe đồn phong thanh cả chuyện\Ngiữa anh ấy với Tiểu thư Sophia nữa cơ.
+Dialogue: 0,0:11:46.65,0:11:51.76,Default,Makoto,0,0,0,,Hóa ra cậu ta đang tận hưởng cuộc sống đỉnh cao\Ndưới danh nghĩa Anh Hùng Ánh Sáng nhỉ.
+Dialogue: 0,0:11:53.81,0:11:56.62,Default,Makoto,0,0,0,,Tôi chẳng thèm ghen tị chút nào đâu.
+Dialogue: 0,0:11:56.62,0:11:58.07,Default,Sakurai,0,0,0,,Chỗ này có ai ngồi chưa nhỉ?
+Dialogue: 0,0:11:58.07,0:11:59.07,Default,Makoto,0,0,0,,Ủa?
+Dialogue: 0,0:12:00.72,0:12:04.07,Default,Sakurai,0,0,0,,Lâu rồi không gặp nhỉ,\NTakatsuki-kun, Fujiwara-kun.
+Dialogue: 0,0:12:04.53,0:12:07.36,Default,Lucy,0,0,0,,A-Anh Hùng Á-Ánh...
+Dialogue: 0,0:12:07.36,0:12:11.33,Default,Nina,0,0,0,,R-Rất hân hạnh được gặp ngài! Vinh dự quá ạ!
+Dialogue: 0,0:12:11.33,0:12:13.36,Default,Fujiyan,0,0,0,,Tôi bất ngờ thật đấy.
+Dialogue: 0,0:12:13.36,0:12:14.88,Default,Fujiyan,0,0,0,,Sao ngài biết chúng tôi đang ngồi ở đây vậy?
+Dialogue: 0,0:12:14.88,0:12:16.83,Default,Sakurai,0,0,0,,Tớ nghe bảo phần lớn quân lương\Ncủa đội kỵ sĩ đều do
+Dialogue: 0,0:12:16.83,0:12:19.62,Default,Sakurai,0,0,0,,Thương hội Fujiwara cung ứng,
+Dialogue: 0,0:12:19.62,0:12:21.02,Default,Sakurai,0,0,0,,nên tớ muốn ghé qua cảm ơn cậu một tiếng.
+Dialogue: 0,0:12:21.02,0:12:23.21,Default,Makoto,0,0,0,,Cậu làm tới cả mảng đó luôn hả, Fujiyan?
+Dialogue: 0,0:12:23.21,0:12:27.43,Default,Fujiyan,0,0,0,,Kỵ Sĩ Đoàn Soleil quy tụ toàn những chiến binh\Nhàng đầu lục địa đấy.
+Dialogue: 0,0:12:27.43,0:12:29.75,Default,Fujiyan,0,0,0,,Tạo quan hệ tốt với họ chẳng bao giờ thừa đâu.
+Dialogue: 0,0:12:29.75,0:12:31.35,Default,Makoto,0,0,0,,Đúng chất con buôn thứ thiệt.
+Dialogue: 0,0:12:31.35,0:12:32.73,Default,Makoto,0,0,0,,Cơ hội nào cũng không để lọt khỏi tay nhỉ.
+Dialogue: 0,0:12:33.11,0:12:37.00,Default,Sakurai,0,0,0,,Gác chuyện đó sang bên, không ngờ lại được gặp cả cậu\Nở đây đấy, Takatsuki-kun.
+Dialogue: 0,0:12:37.00,0:12:38.59,Default,Makoto,0,0,0,,Hả? Ờ.
+Dialogue: 0,0:12:38.59,0:12:41.74,Default,Makoto,0,0,0,,Mà nghe nói cậu tới đây để\Nchinh phạt con Ô Uế Long hả?
+Dialogue: 0,0:12:41.74,0:12:43.34,Default,Sakurai,0,0,0,,Đúng vậy.
+Dialogue: 0,0:12:43.34,0:12:46.74,Default,Sakurai,0,0,0,,Tớ mới gia nhập kỵ sĩ đoàn nên toàn bị đùn cho\Nmấy nhiệm vụ phiền phức thế này đây.
+Dialogue: 0,0:12:46.74,0:12:48.99,Default,Makoto,0,0,0,,Với Sakurai-kun thì chắc giải quyết ngon ơ\Nchứ có gì khó đâu.
+Dialogue: 0,0:12:48.99,0:12:50.60,Default,Sakurai,0,0,0,,Đâu có dễ vậy đâu.
+Dialogue: 0,0:12:50.60,0:12:53.00,Default,Sakurai,0,0,0,,Hôm nay tớ mới đặt chân tới đây mà.
+Dialogue: 0,0:12:53.52,0:12:54.63,Default,Sakurai,0,0,0,,À phải rồi!
+Dialogue: 0,0:12:54.63,0:12:58.25,Default,Sakurai,0,0,0,,Takatsuki-kun này, cậu có muốn hợp sức\Nhạ con rồng đó cùng bọn tớ không?
+Dialogue: 0,0:12:58.53,0:12:59.51,Default,Lucy,0,0,0,,Hả?!
+Dialogue: 0,0:12:59.51,0:13:01.01,Default,Lucy,0,0,0,,Nh-Nhất đ—
+Dialogue: 0,0:13:01.01,0:13:03.73,Default,Makoto,0,0,0,,Thôi, tớ không đủ trình đâu.
+Dialogue: 0,0:13:03.73,0:13:06.26,Default,Makoto,0,0,0,,Xin lỗi nhé, nhưng tớ chẳng giúp ích được gì\Ncho đội cậu đâu.
+Dialogue: 0,0:13:06.78,0:13:08.08,Default,Sakurai,0,0,0,,Ra vậy.
+Dialogue: 0,0:13:08.08,0:13:09.76,Default,Sakurai,0,0,0,,Tiếc thật đấy.
+Dialogue: 0,0:13:10.06,0:13:14.29,Default,Sakurai,0,0,0,,À đúng rồi, dạo này quái vật hung hãn hẳn lên,\Ncậu nhớ cẩn thận nhé.
+Dialogue: 0,0:13:14.29,0:13:15.89,Default,Makoto,0,0,0,,Ừ, tớ biết rồi.
+Dialogue: 0,0:13:16.16,0:13:17.22,Default,Sakurai,0,0,0,,Thế à.
+Dialogue: 0,0:13:17.67,0:13:18.77,Default,Sakurai,0,0,0,,Chúc cả hai chúng ta đều bình an vô sự.
+Dialogue: 0,0:13:19.48,0:13:20.47,Default,Sakurai,0,0,0,,Hẹn gặp lại sau nhé!
+Dialogue: 0,0:13:22.62,0:13:25.12,Default,Fujiyan,0,0,0,,Chà, hết hồn thật sự.
+Dialogue: 0,0:13:25.12,0:13:26.79,Default,Nina,0,0,0,,Em run lẩy bẩy nãy giờ luôn.
+Dialogue: 0,0:13:26.79,0:13:29.27,Default,Lucy,0,0,0,,Hai người thân thiết với anh ấy\Ntới mức đó luôn cơ à?!
+Dialogue: 0,0:13:29.27,0:13:31.29,Default,Fujiyan,0,0,0,,Không, làm gì có chuyện đó.
+Dialogue: 0,0:13:31.29,0:13:34.09,Default,Makoto,0,0,0,,Tụi này hồi trước gần như chẳng nói chuyện bao giờ.
+Dialogue: 0,0:13:34.09,0:13:36.85,Default,Lucy,0,0,0,,Trời đất, anh ấy còn đích thân mời bọn mình nhập hội cơ mà!
+Dialogue: 0,0:13:36.85,0:13:38.24,Default,Makoto,0,0,0,,Cậu ngốc vừa thôi.
+Dialogue: 0,0:13:38.24,0:13:40.20,Default,Makoto,0,0,0,,Cậu ta chỉ xã giao khách sáo thế thôi.
+Dialogue: 0,0:13:40.20,0:13:41.29,Default,Makoto,0,0,0,,Đừng có tin sái cổ chứ.
+Dialogue: 0,0:13:41.75,0:13:46.30,italics,FujiyanM,0,0,0,,Hừm, nhìn thái độ thì hình như ngài Sakurai\Nnói thật lòng đấy chứ nhỉ.
+Dialogue: 0,0:13:52.91,0:13:54.56,Default,Makoto,0,0,0,,Chào buổi tối, thưa Nữ thần Noah.
+Dialogue: 0,0:13:55.12,0:13:57.88,Default,Noah,0,0,0,,Ngày mai nhóc xuất phát rồi nhỉ?
+Dialogue: 0,0:13:57.88,0:14:00.92,Default,Noah,0,0,0,,Ta biết mình nhắc nhiều tới mức\Nchắc nhóc sắp phát ngán lên rồi,
+Dialogue: 0,0:14:00.92,0:14:03.47,Default,Noah,0,0,0,,nhưng nhớ phải quý trọng mạng sống của mình đấy.
+Dialogue: 0,0:14:03.47,0:14:05.07,Default,Makoto,0,0,0,,Con biết rồi mà.
+Dialogue: 0,0:14:05.74,0:14:11.48,Default,Makoto,0,0,0,,À này, cuộc hội ngộ định mệnh mà ngài nói\Ncó phải là Sakurai-kun không ạ?
+Dialogue: 0,0:14:11.48,0:14:13.08,Default,Noah,0,0,0,,Hả? Nhóc nói chuyện gì thế?
+Dialogue: 0,0:14:13.08,0:14:15.02,Default,Makoto,0,0,0,,Chính ngài bảo con lần trước còn gì.
+Dialogue: 0,0:14:15.02,0:14:17.57,Default,Makoto,0,0,0,,Ngài phán rằng một cuộc hội ngộ định mệnh\Nđang chờ con ở Labyrinthos,
+Dialogue: 0,0:14:17.57,0:14:19.01,Default,Makoto,0,0,0,,nghe hệt như lời tiên tri thần thánh ấy.
+Dialogue: 0,0:14:19.60,0:14:21.59,Default,Makoto,0,0,0,,Thế nên con mới lặn lội tới tận đây đó.
+Dialogue: 0,0:14:21.59,0:14:23.42,Default,Noah,0,0,0,,Ta từng nói thế à?
+Dialogue: 0,0:14:23.42,0:14:24.83,Default,Makoto,0,0,0,,Lại nữa rồi?
+Dialogue: 0,0:14:24.83,0:14:28.34,Default,Makoto,0,0,0,,Ngài lúc nào cũng giả vờ ngây ngô thế này\Nmỗi khi đụng chuyện quan trọng.
+Dialogue: 0,0:14:28.61,0:14:33.26,Default,Noah,0,0,0,,Tóm lại, mê cung bây giờ đã nguy hiểm hơn\Ntrước kia hẳn một bậc rồi,
+Dialogue: 0,0:14:33.26,0:14:34.67,Default,Noah,0,0,0,,nên hãy hết sức cẩn trọng.
+Dialogue: 0,0:14:34.67,0:14:36.10,Default,Noah,0,0,0,,Nghe rõ chưa?
+Dialogue: 0,0:14:38.97,0:14:41.09,italics,Makoto,0,0,0,,Nói thì dễ chứ làm mới khó.
+Dialogue: 0,0:14:52.25,0:14:54.72,Default,Fujiyan,0,0,0,,Tôi chuẩn bị sẵn bản đồ rồi đây.
+Dialogue: 0,0:14:54.72,0:14:56.45,Default,Makoto,0,0,0,,Cảm ơn cậu, Fujiyan.
+Dialogue: 0,0:14:57.85,0:15:01.00,Default,Makoto,0,0,0,,Không ngạc nhiên khi các tầng trên đều đã được\Nthám hiểm kỹ lưỡng hết cả.
+Dialogue: 0,0:15:01.47,0:15:04.96,Default,Makoto,0,0,0,,Ra vậy. Ở đây đường chia làm ba ngã.
+Dialogue: 0,0:15:01.00,0:15:04.96,top,Screen,0,0,0,,BẠN SẼ ĐI LỐI NÀO?
+Dialogue: 0,0:15:01.00,0:15:04.96,top,Screen,0,0,0,,HANG ĐỘNG XANH
+Dialogue: 0,0:15:01.00,0:15:04.96,top,Screen,0,0,0,,HANG ĐỘNG NƯỚC
+Dialogue: 0,0:15:01.00,0:15:04.96,top,Screen,0,0,0,,HANG ĐỘNG LỬA
+Dialogue: 0,0:15:05.85,0:15:07.66,Default,Makoto,0,0,0,,Chúng ta đi lối Hang Động Nước nhé.
+Dialogue: 0,0:15:07.66,0:15:11.14,Default,Lucy,0,0,0,,Đúng đấy, cậu cần có nước bên cạnh mới phát huy được.
+Dialogue: 0,0:15:16.90,0:15:20.18,Default,Fujiyan,0,0,0,,Vách hang ở đây bị xói mòn trở nên mỏng manh rồi,
+Dialogue: 0,0:15:20.18,0:15:22.48,Default,Fujiyan,0,0,0,,nên tuyệt đối cấm dùng đòn va chạm mạnh.
+Dialogue: 0,0:15:22.48,0:15:25.70,Default,Makoto,0,0,0,,Vậy thì không dùng ma thuật của Lucy được rồi.
+Dialogue: 0,0:15:25.70,0:15:26.73,Default,Lucy,0,0,0,,Hả?!
+Dialogue: 0,0:15:26.73,0:15:30.04,Default,Nina,0,0,0,,Em sẽ cố gắng chiến đấu bù phần luôn ạ!
+Dialogue: 0,0:15:30.04,0:15:33.98,Default,Fujiyan,0,0,0,,Lũ quái cũng hung hãn hơn bình thường,\Nnên dù chỉ là tầng trên,
+Dialogue: 0,0:15:33.98,0:15:35.68,Default,Fujiyan,0,0,0,,tụi mình vẫn cứ đề cao cảnh giác mà tiến bước.
+Dialogue: 0,0:15:35.68,0:15:36.74,Default,Makoto,0,0,0,,Ừ.
+Dialogue: 0,0:15:39.52,0:15:41.54,Default,Nina,0,0,0,,Em xử gọn hết rồi ạ!
+Dialogue: 0,0:15:41.54,0:15:43.08,Default,Lucy,0,0,0,,Em cừ thật đấy.
+Dialogue: 0,0:15:43.08,0:15:45.00,Default,Makoto,0,0,0,,Cô Nina mạnh quá trời luôn.
+Dialogue: 0,0:15:45.56,0:15:48.30,italics,MakotoM,0,0,0,,Có cô Nina đi cùng thế này đúng là\Nchơi game chế độ dễ luôn.
+Dialogue: 0,0:15:48.30,0:15:51.84,Default,Fujiyan,0,0,0,,Thỉnh thoảng nhàn nhã thế này cũng\Nđâu có tệ, nhỉ?
+Dialogue: 0,0:15:51.84,0:15:53.39,italics,MakotoM,0,0,0,,Lại bị cậu ta đọc vị nữa rồi.
+Dialogue: 0,0:15:53.39,0:15:57.07,Default,Nina,0,0,0,,Nhân tiện hay mọi người nghỉ chân\Ntại đây một lát đi ạ?
+Dialogue: 0,0:15:57.07,0:15:59.01,Default,Nina,0,0,0,,"Thác Labyrinthos."
+Dialogue: 0,0:15:59.01,0:16:02.39,Default,Nina,0,0,0,,Đây là ứng cử viên sáng giá cho danh hiệu\NCảnh đẹp nhất mê cung đấy ạ!
+Dialogue: 0,0:16:02.39,0:16:07.75,Default,Makoto,0,0,0,,"Hỏi thông tin tour ngắm thác tại quầy\Ntiếp tân Công hội Mạo hiểm giả."
+Dialogue: 0,0:16:07.75,0:16:09.90,Default,Lucy,0,0,0,,Đây đúng là đại mê cung đáng sợ thật đấy hả?
+Dialogue: 0,0:16:10.25,0:16:12.65,Default,Nina,0,0,0,,Đây cũng là điểm hẹn hò nổi tiếng cho các cặp đôi nữa.
+Dialogue: 0,0:16:14.08,0:16:16.13,Default,Lucy,0,0,0,,Ồ... Thế thì!
+Dialogue: 0,0:16:16.13,0:16:18.44,Default,Lucy,0,0,0,,Tụi mình qua chỗ đó nghỉ chân chút đi!
+Dialogue: 0,0:16:18.44,0:16:20.66,Default,Makoto,0,0,0,,Sao tự dưng cô ấy hào hứng đột xuất thế nhỉ?
+Dialogue: 0,0:16:28.17,0:16:31.22,Default,Makoto,0,0,0,,Uầy, trông hệt như thác Niagara luôn.
+Dialogue: 0,0:16:31.22,0:16:33.01,Default,Makoto,0,0,0,,Dù mình cũng chưa từng đặt chân tới đó bao giờ.
+Dialogue: 0,0:16:33.01,0:16:34.68,Default,Lucy,0,0,0,,Đẹp tuyệt vời luôn.
+Dialogue: 0,0:16:40.96,0:16:42.68,Default,Lucy,0,0,0,,Này, Makoto.
+Dialogue: 0,0:16:42.99,0:16:44.74,Default,Lucy,0,0,0,,Cậu ra đằng kia ngắm cùng tớ một lát không?
+Dialogue: 0,0:16:44.74,0:16:46.69,Default,Makoto,0,0,0,,Hả? Ừ, đi chứ.
+Dialogue: 0,0:16:52.67,0:16:55.51,Default,Lucy,0,0,0,,Ngắm cảnh từ góc này đỉnh thật đấy nhỉ?
+Dialogue: 0,0:16:55.51,0:16:56.28,Default,Makoto,0,0,0,,Ừ.
+Dialogue: 0,0:17:00.70,0:17:03.50,Default,Adventurer,0,0,0,,Chà chà, đúng là có cá cắn câu thật rồi kìa.
+Dialogue: 0,0:17:03.50,0:17:04.82,Default,Adventurer,0,0,0,,Tao đã bảo rồi mà, đúng không?
+Dialogue: 0,0:17:04.82,0:17:07.71,Default,Adventurer,0,0,0,,Đám lính mới lúc nào cũng ghé qua chỗ này hết.
+Dialogue: 0,0:17:08.07,0:17:09.36,Default,MakotoM,0,0,0,,Chết tiệt.
+Dialogue: 0,0:17:09.36,0:17:11.71,Default,MakotoM,0,0,0,,Bọn chúng dùng kỹ năng Ẩn Thân để phục kích à?
+Dialogue: 0,0:17:13.33,0:17:16.73,Default,Makoto,0,0,0,,Xin lỗi vì hồi nãy làm gãy vũ khí của các người,\Nnhưng mà...
+Dialogue: 0,0:17:16.73,0:17:19.92,Default,Adventurer,0,0,0,,Hả? Đằng nào mày cũng bỏ mạng ở đây thôi.
+Dialogue: 0,0:17:19.92,0:17:21.97,Default,Adventurer,0,0,0,,Nhìn trang bị cùi bắp chẳng có gì đáng giá,
+Dialogue: 0,0:17:21.97,0:17:25.23,Default,Adventurer,0,0,0,,nhưng con dao găm đó chắc bán được\Ngiá hời lắm đấy.
+Dialogue: 0,0:17:36.04,0:17:37.72,Default,Lucy,0,0,0,,M-Makoto...
+Dialogue: 0,0:17:39.51,0:17:40.70,italics,MakotoM,0,0,0,,Chà chà...
+Dialogue: 0,0:17:41.49,0:17:43.71,italics,MakotoM,0,0,0,,Để thoát khỏi tình cảnh éo le này thì...
+Dialogue: 0,0:17:48.80,0:17:50.48,italics,MakotoM,0,0,0,,Cảm Nhận Nguy Hiểm!
+Dialogue: 0,0:17:50.48,0:17:54.13,italics,MakotoM,0,0,0,,Nó đang báo động mức độ hiểm nguy lớn nhất\Nmà mình từng cảm nhận!
+Dialogue: 0,0:17:54.55,0:17:55.36,Default,Lucy,0,0,0,,Makoto?!
+Dialogue: 0,0:17:55.36,0:17:57.18,Default,Adventurer,0,0,0,,Ê khoan, chuyện quái gì xảy ra thế?!
+Dialogue: 0,0:18:06.14,0:18:07.26,Default,Makoto,0,0,0,,Lucy!
+Dialogue: 0,0:18:14.46,0:18:17.50,Default,MakotoM,0,0,0,,Hóa ra đây là rồng của dị giới sao?
+Dialogue: 0,0:18:18.00,0:18:20.73,Default,MakotoM,0,0,0,,Hoàn toàn khác xa những gì mình tưởng tượng.
+Dialogue: 0,0:18:21.81,0:18:25.33,Default,MakotoM,0,0,0,,Nhưng thế này cũng có sức hút\Nđộc đáo riêng đấy chứ.
+Dialogue: 0,0:18:28.37,0:18:30.96,Default,Lucy,0,0,0,,Bây giờ là lúc ngồi ngắm nghía khen đẹp đấy hả?!
+Dialogue: 0,0:18:45.36,0:18:47.48,Default,Fujiyan,0,0,0,,Ngài Tackie!
+Dialogue: 0,0:18:57.04,0:18:58.24,Default,Makoto,0,0,0,,Lucy!
+Dialogue: 0,0:19:12.95,0:19:15.22,Default,Makoto,0,0,0,,Tớ cứ tưởng phen này bỏ mạng rồi chứ.
+Dialogue: 0,0:19:15.22,0:19:16.96,Default,Makoto,0,0,0,,Lucy, cậu có sao không?
+Dialogue: 0,0:19:16.96,0:19:21.74,Default,Lucy,0,0,0,,Trời ơi là trời! Cậu nghĩ cái gì mà lại\Nngẩn tò te trước con quái vật đó thế hả?!
+Dialogue: 0,0:19:21.74,0:19:23.26,Default,Makoto,0,0,0,,Xin lỗi, xin lỗi mà.
+Dialogue: 0,0:19:25.65,0:19:28.43,Default,Lucy,0,0,0,,Tụi mình rơi xuống sâu kinh khủng luôn,
+Dialogue: 0,0:19:28.43,0:19:30.82,Default,Lucy,0,0,0,,không biết anh Fujiyan và cô Nina\Ncó bình an vô sự không?
+Dialogue: 0,0:19:30.82,0:19:32.83,Default,Makoto,0,0,0,,Có cô Nina đi cùng bảo vệ,
+Dialogue: 0,0:19:32.83,0:19:35.93,Default,Makoto,0,0,0,,lỡ có biến thì Fujiyan cũng dùng được\NThẻ Thoát Thân mà.
+Dialogue: 0,0:19:35.93,0:19:38.75,Default,Lucy,0,0,0,,Mà không thể tin nổi con Ô Uế Long lại\Nxuất hiện ngay ở tầng trên thế kia.
+Dialogue: 0,0:19:38.75,0:19:40.08,Default,Lucy,0,0,0,,Vô lý quá sức tưởng tượng luôn.
+Dialogue: 0,0:19:40.08,0:19:42.97,Default,Makoto,0,0,0,,Hả?! Con vừa nãy là Ô Uế Long đấy à?
+Dialogue: 0,0:19:42.97,0:19:44.03,Default,Lucy,0,0,0,,Chắc là nó rồi.
+Dialogue: 0,0:19:45.51,0:19:48.48,Default,Makoto,0,0,0,,Dù sao thì ở lại đây lâu cũng rất nguy hiểm.
+Dialogue: 0,0:19:48.48,0:19:51.20,Default,Makoto,0,0,0,,Mình phải mau chóng tìm đường\Nleo ngược trở lên trên thôi.
+Dialogue: 0,0:19:51.20,0:19:54.05,Default,Lucy,0,0,0,,Ơ? Cậu không dùng ma thuật đưa tụi mình lên được à?
+Dialogue: 0,0:19:54.05,0:19:57.05,Default,Makoto,0,0,0,,Bảo tớ leo ngược dòng thác nước thì chịu thua rồi.
+Dialogue: 0,0:19:57.71,0:19:59.10,Default,Makoto,0,0,0,,Trước hết cứ bình tĩnh lại đã.
+Dialogue: 0,0:20:11.76,0:20:14.56,Default,Arachne,0,0,0,,Làm ơn! Xin hãy cứu tôi với.
+Dialogue: 0,0:20:15.32,0:20:16.31,Default,Lucy,0,0,0,,Có chuyện gì thế?
+Dialogue: 0,0:20:17.76,0:20:18.58,Default,Lucy,0,0,0,,Hả?
+Dialogue: 0,0:20:18.58,0:20:20.88,Default,Makoto,0,0,0,,Đừng lại gần thứ đó.
+Dialogue: 0,0:20:20.88,0:20:24.06,Default,Makoto,0,0,0,,Kỹ năng Cảm Nhận Nguy Hiểm của tớ\Nđã hú còi báo động liên hồi từ nãy rồi.
+Dialogue: 0,0:20:25.20,0:20:29.95,Default,Arachne,0,0,0,,Chậc! Đã thế thì cứ ngoan ngoãn\Nnằm im làm mồi cho bọn ta đi!
+Dialogue: 0,0:20:33.05,0:20:36.06,Default,Makoto,0,0,0,,Thủy Ma Pháp: Băng Châm!
+Dialogue: 0,0:20:45.88,0:20:47.13,Default,Makoto,0,0,0,,Nguy to rồi.
+Dialogue: 0,0:20:47.64,0:20:49.47,Default,Lucy,0,0,0,,Không còn cách nào khác ngoài hạ gục bọn chúng thôi.
+Dialogue: 0,0:20:52.74,0:20:53.64,Default,Makoto,0,0,0,,Hả?
+Dialogue: 0,0:21:02.85,0:21:03.97,Default,Lucy,0,0,0,,Gì thế?
+Dialogue: 0,0:21:03.97,0:21:05.49,Default,Lucy,0,0,0,,Chuyện gì vừa xảy ra vậy?
+Dialogue: 0,0:21:19.03,0:21:20.34,Default,Lucy,0,0,0,,Là một con Lamia!
+Dialogue: 0,0:21:21.63,0:21:24.63,top,sign,0,0,0,,BẠN CÓ CHIẾN ĐẤU VỚI LAMIA KHÔNG?
+Dialogue: 0,0:21:21.63,0:21:24.63,top,sign,0,0,0,,CÓ
+Dialogue: 0,0:21:21.63,0:21:24.63,top,sign,0,0,0,,KHÔNG
+Dialogue: 0,0:21:24.95,0:21:26.63,Default,Makoto,0,0,0,,Buộc phải chiến đấu thôi!
+Dialogue: 0,0:21:28.45,0:21:29.47,italics,MakotoM,0,0,0,,Nhanh khủng khiếp!
+Dialogue: 0,0:21:34.51,0:21:35.48,italics,MakotoM,0,0,0,,Thôi xong đời mình rồi!
+Dialogue: 0,0:21:44.03,0:21:47.74,Default,Aya,0,0,0,,Takatsuki... kun?
+Dialogue: 0,0:21:53.97,0:21:55.70,Default,Makoto,0,0,0,,Sasan?!
+Dialogue: 0,0:21:56.29,0:21:57.19,Default,Lucy,0,0,0,,Á!
+Dialogue: 0,0:21:59.00,0:22:01.50,Default,Aya,0,0,0,,Đúng là cậu rồi, Takatsuki-kun!
+Dialogue: 0,0:23:35.18,0:23:42.98,top,sign,0,0,0,,TẬP 7\NTAKATSUKI MAKOTO\NGIÚP ĐỠ TRẢ THÙ\N{\fs14\i1}Phụ đề Việt ngữ: Amtia(NOFACE){\i0}
+
