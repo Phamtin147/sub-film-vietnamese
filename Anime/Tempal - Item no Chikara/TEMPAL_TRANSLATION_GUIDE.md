@@ -29,8 +29,19 @@
 5. **Huroi (후로이)**:
    - *Vai trò*: Người chơi chức nghiệp Diễn thuyết gia (Orator), trung thành tuyệt đối với Grid, sẵn sàng chửi cả dòng họ đối thủ để bảo vệ Grid.
    - *Xưng hô với Grid*: Tôi - Chúa công / Huynh / Cậu.
-6. **Lãnh chúa Winston / Bá tước Steim / Valmont**:
-   - *Xưng hô*: Quan lớn / Lãnh chúa, Ngài - Kẻ hạ thần.
+6. **Lãnh chúa Winston / Bá tước Steim / Valmont / Chấp chính quan Valdi**:
+   - *Xưng hô*: Quan lớn / Lãnh chúa / Chấp chính quan, Ngài - Kẻ hạ thần (`Valdi`: Ta / Tôi - Cậu / Ngươi).
+7. **Bang Tzedakah (Tzedakah Guild)**:
+   - **Jishuka**: Bang chủ Tzedakah, nữ cung thủ siêu hạng (`Tôi - Cậu / Grid`).
+   - **Regas**: Võ sĩ Taekwondo nhiệt huyết (`Tôi - Cậu / Cậu Grid`; Grid gọi `Anh Regas / Gã cơ bắp`).
+   - **Pon** (Thương thủ) & **Vantner** (Hộ vệ/Tanker trọc đầu): Cặp bài trùng hay cãi lộn (`Tao - Mày`).
+   - **Toban** (Phó bang / Paladin), **Faker** (Sát thủ), **Laella** (Pháp sư Hỏa / Ca sĩ nổi tiếng ngoài đời).
+8. **Giáo hội Yatan & Giáo hội Rebecca**:
+   - **Malaxus**: Đại Tội Đồ Thứ Sáu của Giáo hội Yatan, Đại Tế Ty (`Ta - Lũ sâu bọ / Ngươi`).
+   - **Musta**: Tín đồ Yatan xâm nhập thành Winston (`Ta - Ngươi`).
+   - **Cassus**: Linh mục Giáo hội Ánh Sáng Rebecca (`Tôi - Thánh nữ Isabel / Cậu`).
+   - **Isabel**: Một trong các Thánh Nữ của Rebecca, sử dụng Thánh Thương Lifael (`Ta / Tôi - Ngươi / Ông`).
+   - **Irene**: Công chúa / Tiểu thư vương quốc, hộ vệ là anh Doran.
 
 ---
 
@@ -61,10 +72,15 @@
 - **Durability**: Độ bền
 - **Crafting**: Chế tác
 - **Epic / Unique / Legendary**: Cực phẩm / Độc nhất / Huyền thoại
+- **Divine Shield / Perfect Divine Shield**: Thánh Thuẫn / Thánh Thuẫn Hoàn Mỹ
+- **Jaffa Arrow**: Mũi tên Jaffa
+- **Dainsleif (Replica)**: Kiếm Dainsleif (Bản sao)
+- **Blood Witch Yura**: Huyết Phù Thủy Yura (Đại Tội Đồ Thứ Tám)
+- **Tzedakah Guild**: Bang Tzedakah
 
 ---
 
 ## 5. BẢN ĐỊA HÓA CREDITS
-- **Dịch giả & Kỹ thuật**: Phamtin147
-- **Kiểm định chất lượng**: Phamtin147
+- **Dịch giả & Kỹ thuật**: Amtia(NOFACE)
+- **Kiểm định chất lượng**: Amtia(NOFACE)
 - **Typography**: Segoe UI (Font chuẩn Unicode chống tofu □)
