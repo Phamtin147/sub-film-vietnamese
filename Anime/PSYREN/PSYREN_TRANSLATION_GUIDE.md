@@ -19,6 +19,9 @@
 - **Amamiya Sakurako (雨宮 桜子)**: Nữ chính, bạn thuở nhỏ của Ageha. Ít nói, lạnh lùng, đã trải qua nhiều lượt chơi đẫm máu ở Psyren.
 - **Asaka Hiryu (朝河 飛龍)**: Bạn thời thơ ấu của Ageha và Sakurako, tính tình bộc trực, trượng nghĩa, có sức mạnh thể chất áp đảo.
 - **Yagumo Matsuri (八雲 祭)**: Cựu tuyển thủ Psyren lão luyện, đàn chị chỉ dẫn bọn trẻ cách đánh thức và kiểm soát năng lực PSI.
+- **Mochizuki Oboro (望月 朧)**: Nam diễn viên nổi tiếng bị cuốn vào Psyren, tính tình lập dị nhưng cực kỳ quý Ageha, sở hữu năng lực *Cure* (Hồi Sinh/Trị Liệu). Xưng `Tôi - Yoshina-kun / Mọi người`.
+- **Kurogane Kabuto (黒鉄 兜)**: Chàng trai nhát gan nhưng có trực giác cực nhạy (`Tôi - Cậu`).
+- **Tatsuo (タツオ) & Dolkey**: Bạn thơ ấu của Hiryu bị W.I.S.E bắt làm vật thí nghiệm (`Em - Anh Hiryu` / `Tôi - Anh Asaga`); Dolkey là thành viên loài người chỉ huy Tavoo.
 - **Thế giới Psyren**: Một vùng đất hoang tàn đổ nát của Nhật Bản trong tương lai (năm 2018/2026), tràn ngập quái vật ngoại lai (Tavoo) và được vận hành bởi chủ mưu bí ẩn thông qua thẻ điện thoại đỏ (Nemesis Q).
 
 ---
