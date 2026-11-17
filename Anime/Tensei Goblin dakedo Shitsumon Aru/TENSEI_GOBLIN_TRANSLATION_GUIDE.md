@@ -22,14 +22,20 @@
 3. **Simon (サイモン)**:
    - *Vai trò*: Thương nhân / Đồng minh kinh doanh.
    - *Xưng hô*: Tôi - Cậu / Ngài.
-4. **Albert, Chloe, Diké**:
-   - Nhân vật phiêu lưu giả / quan chức / pháp sư.
-   - Xưng hô lịch sự, xã giao hoặc đồng đội phiêu lưu.
+4. **Albert, Chloe, Diké, Eirene, Eunomia (Mia)**:
+   - Hoàng tử Albert; bộ ba tỷ muội tiên tộc từng theo Ma Vương (`Eirene`, `Diké`, `Eunomia / Mia`), cùng `Chloe` (nữ chiến binh). Gọi Akira là `Cậu / Thôn trưởng` (`Tôi - Cậu`).
+5. **Izyz (Hắc Thiên Long / Dark-Sky Lord)**:
+   - Một trong **Tam Đại Quý Tộc (Noble Triad)** quyền lực của Long Tộc có quyền bầu chọn Ma Vương, thích ăn kỹ năng. Gọi Akira `Cậu / Nhóc`, xưng `Ta / Tôi`.
+6. **Masamune (Thế hệ I..VI) / Hanzo / Hokusai**:
+   - Các dòng truyền thừa kỹ năng trong làng Goblin (`Bọn em / Em - Thôn trưởng Akira`).
 
 ---
 
 ## 3. BẢNG THUẬT NGỮ CHUẨN (LORE)
-- **Goblin**: Yêu tinh Goblin
+- **Goblin**: Yêu tinh Goblin (`Mayor`: Thôn trưởng)
+- **Archfiend**: Ma Vương (`Duke of Fiends`: Công Tước Ma Tộc)
+- **Noble Triad**: Tam Đại Quý Tộc *(Dark-Sky Lord, Paradise Demon, Spirit Marvel)*
+- **Octogenarian**: Bát Tuần Trường Thọ
 - **Adventurer**: Mạo hiểm giả / Phiêu lưu giả
 - **Guild**: Công hội Mạo hiểm giả
 - **Magic / Mana**: Ma thuật / Ma lực
@@ -38,6 +44,6 @@
 ---
 
 ## 4. BẢN ĐỊA HÓA CREDITS
-- **Dịch giả & Kỹ thuật**: Phamtin147
-- **Kiểm định chất lượng**: Phamtin147
+- **Dịch giả & Kỹ thuật**: Amtia(NOFACE)
+- **Kiểm định chất lượng**: Amtia(NOFACE)
 - **Typography**: Segoe UI (Font chuẩn Unicode chống tofu □)

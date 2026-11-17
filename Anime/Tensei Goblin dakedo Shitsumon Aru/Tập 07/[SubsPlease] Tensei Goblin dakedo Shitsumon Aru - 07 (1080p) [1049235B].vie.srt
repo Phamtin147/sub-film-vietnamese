@@ -1,0 +1,1719 @@
+﻿1
+00:00:02,420 --> 00:00:03,890
+<font face="Segoe UI" size="26">Chính là nó rồi.</font>
+
+2
+00:00:03,890 --> 00:00:05,800
+<font face="Segoe UI" size="26">Được rồi, để tôi lo.</font>
+
+3
+00:00:06,090 --> 00:00:07,560
+<font face="Segoe UI" size="26">Đại Trị Liệu.</font>
+
+4
+00:00:06,230 --> 00:00:07,560
+<font face="Segoe UI" size="24">{\an8}ĐẠI TRỊ LIỆU</font>
+
+5
+00:00:08,750 --> 00:00:10,270
+<font face="Segoe UI" size="26">Một con rồng non sao?</font>
+
+6
+00:00:08,900 --> 00:00:10,280
+<font face="Segoe UI" size="24">{\an8}THẤU THỊ NHÃN (SEARCH EYE)</font>
+
+7
+00:00:10,280 --> 00:00:12,490
+<font face="Segoe UI" size="24">{\an8}CHẤN ĐỘNG THẾ GIỚI (WORLD-SHAKER)</font>
+
+8
+00:00:12,480 --> 00:00:15,200
+<font face="Segoe UI" size="26"><i>Lại còn sở hữu kỹ năng độc nhất Chấn Động Thế Giới nữa à?!</i></font>
+
+9
+00:00:15,200 --> 00:00:17,590
+<font face="Segoe UI" size="26"><i>Nhóc con này </i>rốt cuộc là<i> ai vậy?</i></font>
+
+10
+00:00:19,030 --> 00:00:21,450
+<font face="Segoe UI" size="26">Thôn trưởng ơi, ổn cả không ạ?</font>
+
+11
+00:00:21,450 --> 00:00:23,800
+<font face="Segoe UI" size="26">Chắc lát nữa nó sẽ tỉnh lại thôi.</font>
+
+12
+00:00:23,800 --> 00:00:25,170
+<font face="Segoe UI" size="26">Không phải chuyện đó!</font>
+
+13
+00:00:25,170 --> 00:00:27,380
+<font face="Segoe UI" size="26"><i>Ngài</i> có sao không ạ, Thôn trưởng?!</font>
+
+14
+00:00:28,360 --> 00:00:29,810
+<font face="Segoe UI" size="26">Tôi không sao đâu.</font>
+
+15
+00:00:30,350 --> 00:00:31,510
+<font face="Segoe UI" size="26">Cảm ơn cậu nhé.</font>
+
+16
+00:00:31,510 --> 00:00:32,790
+<font face="Segoe UI" size="26">May quá!</font>
+
+17
+00:00:33,210 --> 00:00:36,210
+<font face="Segoe UI" size="26">Nhưng mà giờ tôi muốn ăn món gì thật ngon cơ.</font>
+
+18
+00:00:36,210 --> 00:00:39,230
+<font face="Segoe UI" size="26">Rõ! Tụi em đi nhờ Masamune ngay đây.</font>
+
+19
+00:00:39,230 --> 00:00:42,680
+<font face="Segoe UI" size="26">Nhân tiện, đưa luôn nhóc này về làng giúp tôi.</font>
+
+20
+00:00:42,680 --> 00:00:43,520
+<font face="Segoe UI" size="26">Vâng ạ!</font>
+
+21
+00:00:42,930 --> 00:00:43,520
+<font face="Segoe UI" size="24">{\an8}MANH LỰC</font>
+
+22
+00:00:48,140 --> 00:00:51,100
+<font face="Segoe UI" size="26">Ta biết ngươi đang trốn ở đó. Bước ra đây.</font>
+
+23
+00:00:55,290 --> 00:00:58,340
+<font face="Segoe UI" size="26">Ngươi là ai? Tới đây làm gì?</font>
+
+24
+00:00:59,290 --> 00:01:01,320
+<font face="Segoe UI" size="26"><i>Sau vụ rắc rối với Echigoya,</i></font>
+
+25
+00:01:01,320 --> 00:01:04,000
+<font face="Segoe UI" size="26"><i>có lẽ mình cần phải mạnh tay hơn
+một chút với chuyện này rồi nhỉ?</i></font>
+
+26
+00:01:04,000 --> 00:01:05,990
+<font face="Segoe UI" size="26">Không chịu trả lời thì ta đành dùng vũ lực đấy.</font>
+
+27
+00:01:07,420 --> 00:01:08,620
+<font face="Segoe UI" size="26">Thủy Phân Thân!</font>
+
+28
+00:01:07,670 --> 00:01:08,630
+<font face="Segoe UI" size="24">{\an8}THỦY PHÂN THÂN</font>
+
+29
+00:01:11,450 --> 00:01:13,140
+<font face="Segoe UI" size="26">Kẻ Mạnh Sinh Tồn.</font>
+
+30
+00:01:11,460 --> 00:01:13,130
+<font face="Segoe UI" size="24">{\an8}KẺ MẠNH SINH TỒN</font>
+
+31
+00:01:16,140 --> 00:01:19,270
+<font face="Segoe UI" size="26">Ngươi là ai, và tới đây với mục đích gì?</font>
+
+32
+00:01:19,270 --> 00:01:24,030
+<font face="Segoe UI" size="26">Tôi đang truy tìm Hắc Thiên Long
+theo mật lệnh của Hoàng tử Albert.</font>
+
+33
+00:01:24,030 --> 00:01:26,390
+<font face="Segoe UI" size="26"><i>Hoàng tử đó ư? Nhưng để làm gì chứ?</i></font>
+
+34
+00:01:26,390 --> 00:01:28,400
+<font face="Segoe UI" size="26">Hắc Thiên Long là sinh vật gì?</font>
+
+35
+00:01:28,400 --> 00:01:29,780
+<font face="Segoe UI" size="26">Tôi không rõ.</font>
+
+36
+00:01:29,780 --> 00:01:32,310
+<font face="Segoe UI" size="26">Tại sao hoàng tử lại truy lùng một con rồng?</font>
+
+37
+00:01:32,310 --> 00:01:33,710
+<font face="Segoe UI" size="26">Tôi cũng không biết.</font>
+
+38
+00:01:33,710 --> 00:01:37,520
+<font face="Segoe UI" size="26"><i>Với tính cách của Albert, hẳn ngài ấy
+đang giấu kín chuyện gì đó.</i></font>
+
+39
+00:01:37,520 --> 00:01:39,350
+<font face="Segoe UI" size="26">Cút khỏi nơi này ngay.</font>
+
+40
+00:01:39,350 --> 00:01:41,740
+<font face="Segoe UI" size="26">Và hãy quên sạch chuyện ngươi từng gặp ta ở đây đi.</font>
+
+41
+00:01:45,410 --> 00:01:47,550
+<font face="Segoe UI" size="26"><i>Một con rồng bị hoàng tử truy lùng ư?</i></font>
+
+42
+00:01:48,950 --> 00:01:50,540
+<font face="Segoe UI" size="26">Con rồng này ở đâu ra vậy ta?</font>
+
+43
+00:01:49,810 --> 00:01:50,870
+<font face="Segoe UI" size="26">{\an8}Vẫn còn nhỏ xíu à.</font>
+
+44
+00:01:50,870 --> 00:01:52,920
+<font face="Segoe UI" size="26">Ai bế nó về đây thế?</font>
+
+45
+00:01:52,920 --> 00:01:54,550
+<font face="Segoe UI" size="26">Ồ, Thôn trưởng về rồi.</font>
+
+46
+00:01:54,550 --> 00:01:56,340
+<font face="Segoe UI" size="26">Cảm ơn mọi người đã giúp đỡ nhé.</font>
+
+47
+00:01:56,340 --> 00:02:01,020
+<font face="Segoe UI" size="26"><i>Nếu có dính dáng đến Albert, đây chắc chắn
+không chỉ là một con rồng bình thường.</i></font>
+
+48
+00:02:01,020 --> 00:02:03,500
+<font face="Segoe UI" size="26"><i>Trong tình huống xấu nhất, chuyện này
+có thể châm ngòi cho một cuộc xung đột.</i></font>
+
+49
+00:02:04,730 --> 00:02:06,060
+<font face="Segoe UI" size="26">Ông ổn không đấy?</font>
+
+50
+00:02:10,050 --> 00:02:11,730
+<font face="Segoe UI" size="26">Mệt rã rời rồi.</font>
+
+51
+00:02:11,730 --> 00:02:15,210
+<font face="Segoe UI" size="26">Thôn trưởng ơi, hôm nay vui lắm ạ.</font>
+
+52
+00:02:15,210 --> 00:02:17,410
+<font face="Segoe UI" size="26">Ừ, cậu nghỉ ngơi đi nhé.</font>
+
+53
+00:02:17,410 --> 00:02:19,250
+<font face="Segoe UI" size="26">Vâng, chắc em chợp mắt chút đây.</font>
+
+54
+00:02:21,990 --> 00:02:24,990
+<font face="Segoe UI" size="24">{\an8}TRỊ LIỆU</font>
+
+55
+00:02:22,090 --> 00:02:23,450
+<font face="Segoe UI" size="26"><i>Trị Liệu.</i></font>
+
+56
+00:02:23,450 --> 00:02:25,010
+<font face="Segoe UI" size="26"><i>Mình đã nhận bao nhiêu kỹ năng </i>kiểu đó<i> rồ—</i></font>
+
+57
+00:02:26,500 --> 00:02:29,760
+<font face="Segoe UI" size="26">Cái gì?! Mi vừa nuốt chửng kỹ năng sao?!</font>
+
+58
+00:02:29,760 --> 00:02:31,260
+<font face="Segoe UI" size="26">Ngon quá xá!</font>
+
+59
+00:02:34,000 --> 00:02:44,100
+<font face="Segoe UI" size="24">{\an8}CHUYỂN SINH THÀNH GOBLIN
+THÌ CÓ GÌ SAI SAO?</font>
+
+60
+00:04:04,510 --> 00:04:10,310
+<font face="Segoe UI" size="24">{\an8}TẬP 7: KẾT BẠN VỚI RỒNG THÌ CÓ GÌ SAI SAO?</font>
+
+61
+00:04:07,380 --> 00:04:09,480
+<font face="Segoe UI" size="26">Ăn đã miệng thật đấy.</font>
+
+62
+00:04:10,600 --> 00:04:12,230
+<font face="Segoe UI" size="26">Nó vừa ăn cái gì kìa.</font>
+
+63
+00:04:11,050 --> 00:04:12,220
+<font face="Segoe UI" size="26">{\an8}Thế có sao không vậy?</font>
+
+64
+00:04:12,220 --> 00:04:13,510
+<font face="Segoe UI" size="26">Liệu nó có ổn không thế?</font>
+
+65
+00:04:13,510 --> 00:04:16,330
+<font face="Segoe UI" size="26">Cậu vừa cho ta ăn món đó hả?</font>
+
+66
+00:04:16,330 --> 00:04:18,680
+<font face="Segoe UI" size="26">Tôi đâu có chủ định đút cho cậu ăn.</font>
+
+67
+00:04:18,970 --> 00:04:21,860
+<font face="Segoe UI" size="26">Cảm ơn nha, ngon tuyệt vời luôn.</font>
+
+68
+00:04:21,860 --> 00:04:24,050
+<font face="Segoe UI" size="26"><i>Nói chuyện cũng bình thường ra phết nhỉ.</i></font>
+
+69
+00:04:24,050 --> 00:04:26,280
+<font face="Segoe UI" size="26">Sao cậu lại ăn kỹ năng vậy?</font>
+
+70
+00:04:26,280 --> 00:04:28,610
+<font face="Segoe UI" size="26">Tại ăn vào thì bụng ta mới hết kêu réo chứ sao.</font>
+
+71
+00:04:28,610 --> 00:04:30,450
+<font face="Segoe UI" size="26">Ý tôi không phải hỏi cái đó.</font>
+
+72
+00:04:30,450 --> 00:04:35,430
+<font face="Segoe UI" size="26"><i>Đối với con rồng này,
+kỹ năng chỉ đơn thuần là nguồn thức ăn thôi sao?</i></font>
+
+73
+00:04:36,580 --> 00:04:39,710
+<font face="Segoe UI" size="24">{\an8}XOA XOA</font>
+
+74
+00:04:36,930 --> 00:04:38,590
+<font face="Segoe UI" size="26">Da nó láng mịn luôn kìa!</font>
+
+75
+00:04:38,590 --> 00:04:39,700
+<font face="Segoe UI" size="26">Lại còn mát lạnh nữa chứ!</font>
+
+76
+00:04:41,590 --> 00:04:44,340
+<font face="Segoe UI" size="26"><i>Có lẽ nào cậu ta cũng không phải kẻ xấu?</i></font>
+
+77
+00:04:45,640 --> 00:04:47,390
+<font face="Segoe UI" size="26">Akira!</font>
+
+78
+00:04:48,430 --> 00:04:49,800
+<font face="Segoe UI" size="26">Vừa khéo tôi mới về tới đây này!</font>
+
+79
+00:04:49,800 --> 00:04:51,900
+<font face="Segoe UI" size="26">Chloe, có chuyện gì vui thế?</font>
+
+80
+00:04:51,900 --> 00:04:53,350
+<font face="Segoe UI" size="26">Tôi vừa thu hoạch được một mẻ lớn luôn.</font>
+
+81
+00:04:53,740 --> 00:04:57,270
+<font face="Segoe UI" size="26">Tôi mới đi kiếm ít trứng gà về
+để làm món Masamune-yaki đấy.</font>
+
+82
+00:04:57,270 --> 00:04:59,700
+<font face="Segoe UI" size="26">Ồ, đỉnh thế.</font>
+
+83
+00:04:59,700 --> 00:05:04,440
+<font face="Segoe UI" size="26"><i>Masamune-yaki là món ăn do một
+tiền bối Masamune đời trước sáng tạo ra.</i></font>
+
+84
+00:05:04,700 --> 00:05:08,540
+<font face="Segoe UI" size="26"><i>Về cơ bản nó chính là món sukiyaki,
+nhưng thế giới này vốn chưa có món đó,</i></font>
+
+85
+00:05:08,540 --> 00:05:10,940
+<font face="Segoe UI" size="26"><i>nên Masamune đã tự mày mò chế biến ra từ đầu.</i></font>
+
+86
+00:05:11,460 --> 00:05:16,120
+<font face="Segoe UI" size="26"><i>Sau đó tôi gợi ý rằng chấm cùng trứng đánh tan
+sẽ giúp hương vị ngon hơn hẳn.</i></font>
+
+87
+00:05:16,750 --> 00:05:20,270
+<font face="Segoe UI" size="26">Để tôi đi bảo cô ấy làm món
+Masamune-yaki ngay lập tức mới được!</font>
+
+88
+00:05:20,270 --> 00:05:22,320
+<font face="Segoe UI" size="26">Ủa, Masamune đâu rồi nhỉ?</font>
+
+89
+00:05:25,250 --> 00:05:28,370
+<font face="Segoe UI" size="26">Hắc Không Vương đang làm cái quái gì ở đây vậy?</font>
+
+90
+00:05:29,170 --> 00:05:32,050
+<font face="Segoe UI" size="26">Cái sừng đó. Nhóc có họ hàng gì với gã Ma à?</font>
+
+91
+00:05:32,050 --> 00:05:34,710
+<font face="Segoe UI" size="26">Ma à? Ý cậu là Ma Vương sao?</font>
+
+92
+00:05:34,710 --> 00:05:37,390
+<font face="Segoe UI" size="26">Đâu có, là Công Tước Ma Tộc kia kìa.</font>
+
+93
+00:05:37,390 --> 00:05:40,850
+<font face="Segoe UI" size="26"><i>Nghe cái danh hiệu đậm chất ma tộc
+và khét lẹt thật đấy.</i></font>
+
+94
+00:05:40,850 --> 00:05:42,480
+<font face="Segoe UI" size="26">Chloe, cô biết cậu ta à?</font>
+
+95
+00:05:42,480 --> 00:05:45,770
+<font face="Segoe UI" size="26">Hắn chính là Hắc Không Vương,
+Hắc Thiên Long Izyz đấy.</font>
+
+96
+00:05:46,060 --> 00:05:50,030
+<font face="Segoe UI" size="26"><i>Hắc Thiên Long mà Hoàng tử Albert
+đang ráo riết truy tìm,</i></font>
+
+97
+00:05:50,030 --> 00:05:52,730
+<font face="Segoe UI" size="26"><i>kẻ sở hữu kỹ năng độc nhất Chấn Động Thế Giới.</i></font>
+
+98
+00:05:52,730 --> 00:05:55,190
+<font face="Segoe UI" size="26"><i>Chắc chắn không phải hạng rồng tầm thường rồi.</i></font>
+
+99
+00:05:56,870 --> 00:05:59,060
+<font face="Segoe UI" size="26"><i>Ít nhất là tôi nghĩ vậy.</i></font>
+
+100
+00:05:59,060 --> 00:06:00,620
+<font face="Segoe UI" size="26">Ngươi mò tới đây với mục đích gì?</font>
+
+101
+00:06:00,620 --> 00:06:02,510
+<font face="Segoe UI" size="26">Ta thấy đói bụng thôi mà.</font>
+
+102
+00:06:03,170 --> 00:06:05,080
+<font face="Segoe UI" size="26">Đừng có giỡn mặt với ta!</font>
+
+103
+00:06:12,390 --> 00:06:13,830
+<font face="Segoe UI" size="26">Ta có đùa với cô đâu chứ.</font>
+
+104
+00:06:17,100 --> 00:06:18,270
+<font face="Segoe UI" size="24">{\an8}PHÂN THÂN BÓNG TỐI</font>
+
+105
+00:06:17,260 --> 00:06:18,620
+<font face="Segoe UI" size="26">Phân Thân Bóng Tối.</font>
+
+106
+00:06:18,520 --> 00:06:19,270
+<font face="Segoe UI" size="24">{\an8}BAY (FLOAT)</font>
+
+107
+00:06:18,620 --> 00:06:19,270
+<font face="Segoe UI" size="26">Bay!</font>
+
+108
+00:06:19,480 --> 00:06:20,650
+<font face="Segoe UI" size="24">{\an8}HẮC DIỄM</font>
+
+109
+00:06:19,580 --> 00:06:20,560
+<font face="Segoe UI" size="26">Hắc Diễm.</font>
+
+110
+00:06:20,810 --> 00:06:24,030
+<font face="Segoe UI" size="26">Dừng tay lại đi. Mọi người đang sợ hết cả rồi kìa.</font>
+
+111
+00:06:24,350 --> 00:06:25,070
+<font face="Segoe UI" size="26">Hả?</font>
+
+112
+00:06:25,070 --> 00:06:27,110
+<font face="Segoe UI" size="24">{\an8}RUN RẨY</font>
+
+113
+00:06:27,100 --> 00:06:29,280
+<font face="Segoe UI" size="26">Ối, xin lỗi nha!</font>
+
+114
+00:06:29,280 --> 00:06:31,430
+<font face="Segoe UI" size="26">Giờ ổn rồi đấy.</font>
+
+115
+00:06:32,130 --> 00:06:34,170
+<font face="Segoe UI" size="26">Cãi vã nhau là không tốt đâu.</font>
+
+116
+00:06:34,170 --> 00:06:36,150
+<font face="Segoe UI" size="26">Em hết cả hồn luôn ấy.</font>
+
+117
+00:06:36,150 --> 00:06:38,330
+<font face="Segoe UI" size="26">Cậu biến hình ra được <i>bự chảng</i> luôn nhỉ.</font>
+
+118
+00:06:38,330 --> 00:06:40,410
+<font face="Segoe UI" size="26">Tôi cũng giật nảy mình luôn.</font>
+
+119
+00:06:40,970 --> 00:06:43,330
+<font face="Segoe UI" size="26"><i>Nếu hai người họ mà đánh nhau thật...</i></font>
+
+120
+00:06:45,060 --> 00:06:47,120
+<font face="Segoe UI" size="26">Cậu cũng ra gì phết đấy.</font>
+
+121
+00:06:47,780 --> 00:06:50,900
+<font face="Segoe UI" size="26">Cậu khéo là con Goblin mạnh nhất
+mà ta từng gặp từ trước tới nay luôn ấy.</font>
+
+122
+00:06:50,900 --> 00:06:52,410
+<font face="Segoe UI" size="26">Ồ, vậy sao?</font>
+
+123
+00:06:52,410 --> 00:06:54,670
+<font face="Segoe UI" size="26">Có khi còn mạnh hơn cả gã kia nữa.</font>
+
+124
+00:06:56,560 --> 00:06:57,930
+<font face="Segoe UI" size="26">Sao thế?</font>
+
+125
+00:06:57,930 --> 00:07:01,500
+<font face="Segoe UI" size="26">Tại vừa ăn lót dạ chút ít nên bụng ta lại càng cồn cào.</font>
+
+126
+00:07:01,860 --> 00:07:05,410
+<font face="Segoe UI" size="26">Bình thường ta nhịn ăn cả năm trời
+cũng chẳng sao đâu,</font>
+
+127
+00:07:05,410 --> 00:07:09,040
+<font face="Segoe UI" size="26">nhưng hễ đã ăn vào rồi là cơn đói
+cứ cào ruột gan không chịu nổi.</font>
+
+128
+00:07:09,040 --> 00:07:11,900
+<font face="Segoe UI" size="26">Đôi khi ăn nhẹ lại kích thích cơn thèm lên thật, ừ.</font>
+
+129
+00:07:11,900 --> 00:07:13,670
+<font face="Segoe UI" size="26">Đây, cậu cầm lấy ăn tạm—</font>
+
+130
+00:07:16,160 --> 00:07:19,240
+<font face="Segoe UI" size="26">Ngon quá! Cậu tốt bụng ghê.</font>
+
+131
+00:07:19,240 --> 00:07:20,330
+<font face="Segoe UI" size="26">C-Cảm ơn...</font>
+
+132
+00:07:20,840 --> 00:07:23,790
+<font face="Segoe UI" size="26">Này, cậu có muốn làm Ma Vương không?</font>
+
+133
+00:07:23,790 --> 00:07:26,280
+<font face="Segoe UI" size="26">Không, tôi xin kiếu.</font>
+
+134
+00:07:27,290 --> 00:07:30,170
+<font face="Segoe UI" size="26">Khoan đã, sao cậu lại hỏi câu đó?</font>
+
+135
+00:07:30,170 --> 00:07:34,710
+<font face="Segoe UI" size="26">Thực ra thì ta cũng là nhân vật máu mặt
+trong Long Tộc đấy nhé.</font>
+
+136
+00:07:35,180 --> 00:07:37,210
+<font face="Segoe UI" size="26">Máu mặt cỡ nào cơ?</font>
+
+137
+00:07:37,210 --> 00:07:40,850
+<font face="Segoe UI" size="26">Ta là một trong ba kẻ có quyền
+quyết định xem ai sẽ lên ngôi Ma Vương.</font>
+
+138
+00:07:40,850 --> 00:07:42,950
+<font face="Segoe UI" size="26">Tầm cỡ hơn tôi tưởng nhiều đấy!</font>
+
+139
+00:07:42,950 --> 00:07:45,490
+<font face="Segoe UI" size="26">Lần này thì hắn không nói dối đâu.</font>
+
+140
+00:07:45,490 --> 00:07:48,690
+<font face="Segoe UI" size="26">Cơ mà, thường thì chỉ cần một trong ba đứa ta
+đề cử ai đó lên là,</font>
+
+141
+00:07:48,690 --> 00:07:51,470
+<font face="Segoe UI" size="26">hai đứa còn lại đều gật gù kiểu "Ừ, sao cũng được."</font>
+
+142
+00:07:51,470 --> 00:07:55,240
+<font face="Segoe UI" size="26">Ngoài mấy kẻ lọt vào mắt xanh của tụi ta ra,
+chẳng ai thèm quan tâm mấy đâu.</font>
+
+143
+00:07:55,240 --> 00:07:57,610
+<font face="Segoe UI" size="26">Thế sao lại đề nghị chức đó cho tôi?</font>
+
+144
+00:08:00,040 --> 00:08:01,950
+<font face="Segoe UI" size="26">Cậu vừa nói gì cơ?</font>
+
+145
+00:08:02,240 --> 00:08:04,330
+<font face="Segoe UI" size="26">Tại cậu có cả rổ kỹ năng chứ sao!</font>
+
+146
+00:08:04,330 --> 00:08:04,870
+<font face="Segoe UI" size="26">Hả?</font>
+
+147
+00:08:05,130 --> 00:08:07,660
+<font face="Segoe UI" size="26">Ta nghe đồn có một con Goblin
+sống cực kỳ dai,</font>
+
+148
+00:08:07,660 --> 00:08:10,050
+<font face="Segoe UI" size="26">nghe giống kèo thơm để được
+bao ăn dài dài quá trời,</font>
+
+149
+00:08:10,050 --> 00:08:11,990
+<font face="Segoe UI" size="26">nên ta tính cho cậu nợ ta một ân tình trước ấy mà.</font>
+
+150
+00:08:11,990 --> 00:08:14,190
+<font face="Segoe UI" size="26"><i>Hóa ra nhắm tới chuyện đó à?</i></font>
+
+151
+00:08:14,190 --> 00:08:16,720
+<font face="Segoe UI" size="26">Xin lỗi nhé, tôi không định làm Ma Vương đâu.</font>
+
+152
+00:08:17,420 --> 00:08:19,800
+<font face="Segoe UI" size="26">Thế à, tiếc thật đấy.</font>
+
+153
+00:08:19,800 --> 00:08:22,600
+<font face="Segoe UI" size="26">Izyz nhìn mướt mát ghê!</font>
+
+154
+00:08:22,990 --> 00:08:25,050
+<font face="Segoe UI" size="26">Từ bỏ nhanh gọn nhẹ phết nhỉ.</font>
+
+155
+00:08:25,410 --> 00:08:27,240
+<font face="Segoe UI" size="26"><i>Mình sẽ không làm Ma Vương đâu.</i></font>
+
+156
+00:08:27,240 --> 00:08:28,920
+<font face="Segoe UI" size="26"><i>Ít nhất là chưa phải lúc này.</i></font>
+
+157
+00:08:29,330 --> 00:08:33,600
+<font face="Segoe UI" size="26"><i>Nếu nhận lời, rất có thể mình sẽ biến thành
+kẻ thù của toàn thể nhân loại mất.</i></font>
+
+158
+00:08:35,750 --> 00:08:38,780
+<font face="Segoe UI" size="26">Này, này. Ta ở nhờ đây một thời gian được không?</font>
+
+159
+00:08:38,780 --> 00:08:40,580
+<font face="Segoe UI" size="26">Ừ, cứ tự nhiên.</font>
+
+160
+00:08:40,580 --> 00:08:41,840
+<font face="Segoe UI" size="26">Thật á?!</font>
+
+161
+00:08:42,370 --> 00:08:45,700
+<font face="Segoe UI" size="26"><i>Izyz... Có vẻ cậu ta không nói dối,</i></font>
+
+162
+00:08:45,700 --> 00:08:48,170
+<font face="Segoe UI" size="26"><i>nhưng mình có cảm giác cậu ta vẫn đang
+giấu nhẹm chuyện gì đó rất quan trọng.</i></font>
+
+163
+00:08:48,770 --> 00:08:52,450
+<font face="Segoe UI" size="26"><i>Thế nên cứ giữ cậu ta bên cạnh
+để tiện trông chừng vẫn an toàn hơn.</i></font>
+
+164
+00:08:52,450 --> 00:08:54,860
+<font face="Segoe UI" size="26">Tiệc chào mừng Izyz gia nhập làng nào!</font>
+
+165
+00:08:54,860 --> 00:08:56,670
+<font face="Segoe UI" size="26">Thôn trưởng nhớ tới chung vui đấy nhé!</font>
+
+166
+00:08:59,350 --> 00:09:01,010
+<font face="Segoe UI" size="26">Này, xịn thế.</font>
+
+167
+00:09:01,680 --> 00:09:03,360
+<font face="Segoe UI" size="26">Xem cái này đi này.</font>
+
+168
+00:09:05,240 --> 00:09:07,130
+<font face="Segoe UI" size="26">Đừng khách sáo thế chứ.</font>
+
+169
+00:09:13,860 --> 00:09:14,930
+<font face="Segoe UI" size="26">Masamune.</font>
+
+170
+00:09:16,580 --> 00:09:17,830
+<font face="Segoe UI" size="26">Cô thấy trong người ổn chứ?</font>
+
+171
+00:09:19,070 --> 00:09:20,650
+<font face="Segoe UI" size="26">Tôi vẫn ổn ạ.</font>
+
+172
+00:09:21,810 --> 00:09:24,820
+<font face="Segoe UI" size="26"><i>Mình đã chứng kiến cảnh này
+hàng nghìn lần rồi.</i></font>
+
+173
+00:09:24,820 --> 00:09:26,740
+<font face="Segoe UI" size="26"><i>Sắc chết hiện rõ trên khuôn mặt của một Goblin.</i></font>
+
+174
+00:09:27,490 --> 00:09:30,610
+<font face="Segoe UI" size="26"><i>Cô ấy mới chào đời còn chưa đầy ba ngày nữa.</i></font>
+
+175
+00:09:31,550 --> 00:09:32,990
+<font face="Segoe UI" size="26">Cô thấy ốm mệt chỗ nào à?</font>
+
+176
+00:09:32,990 --> 00:09:35,460
+<font face="Segoe UI" size="26">Không, hoàn toàn không ạ.</font>
+
+177
+00:09:35,890 --> 00:09:37,390
+<font face="Segoe UI" size="26">Vậy tại sao lại...</font>
+
+178
+00:09:37,390 --> 00:09:39,390
+<font face="Segoe UI" size="26">Vì cô ta là thiên tài chứ sao?</font>
+
+179
+00:09:39,770 --> 00:09:45,310
+<font face="Segoe UI" size="26">Lâu lâu lại có con Goblin sinh ra mang tài năng thiên bẩm,
+nhưng đánh đổi bằng tuổi thọ ngắn ngủi.</font>
+
+180
+00:09:45,310 --> 00:09:46,900
+<font face="Segoe UI" size="26">Ra là vậy sao?</font>
+
+181
+00:09:48,450 --> 00:09:49,730
+<font face="Segoe UI" size="26">Masamune!</font>
+
+182
+00:09:50,350 --> 00:09:51,400
+<font face="Segoe UI" size="24">{\an8}ĐẠI TRỊ LIỆU</font>
+
+183
+00:09:57,140 --> 00:10:00,570
+<font face="Segoe UI" size="26"><i>Không phải do thương tích.
+Mà là quy luật tự nhiên.</i></font>
+
+184
+00:10:00,570 --> 00:10:03,030
+<font face="Segoe UI" size="26"><i>Đại Trị Liệu hoàn toàn vô hiệu.</i></font>
+
+185
+00:10:03,030 --> 00:10:08,910
+<font face="Segoe UI" size="26">Thưa Thôn trưởng, tôi... vừa nghĩ ra một món mới.</font>
+
+186
+00:10:09,290 --> 00:10:13,780
+<font face="Segoe UI" size="26">Một món ăn mà tất cả mọi người trong làng
+đều có thể vui vẻ cùng nhau làm.</font>
+
+187
+00:10:16,520 --> 00:10:20,420
+<font face="Segoe UI" size="26"><i>Ồ, Masamune. Đây là bánh xếp gyoza mà.</i></font>
+
+188
+00:10:20,420 --> 00:10:25,480
+<font face="Segoe UI" size="26">Tôi đã nảy ra ý tưởng này khi nhìn thấy
+ngài và cô Karen.</font>
+
+189
+00:10:25,480 --> 00:10:30,160
+<font face="Segoe UI" size="26">Một món gì đó mọi người vừa cười nói
+vừa gói bánh, rồi cùng thưởng thức...</font>
+
+190
+00:10:30,160 --> 00:10:33,210
+<font face="Segoe UI" size="26">Tôi tự nhủ, đó chính là loại món ăn
+mà mình muốn tạo ra nhất.</font>
+
+191
+00:10:33,210 --> 00:10:34,420
+<font face="Segoe UI" size="26">Tôi hiểu rồi.</font>
+
+192
+00:10:34,850 --> 00:10:36,520
+<font face="Segoe UI" size="26">Cô đúng là thiên tài đấy.</font>
+
+193
+00:10:36,920 --> 00:10:40,530
+<font face="Segoe UI" size="26">Tôi tin chắc mọi người sẽ mãi
+ghi nhớ về cô.</font>
+
+194
+00:10:40,990 --> 00:10:42,630
+<font face="Segoe UI" size="26">Cả ngài cũng vậy chứ ạ?</font>
+
+195
+00:10:43,260 --> 00:10:44,280
+<font face="Segoe UI" size="26">Tất nhiên rồi.</font>
+
+196
+00:10:46,490 --> 00:10:48,790
+<font face="Segoe UI" size="26">Xin... cảm ơn ngài.</font>
+
+197
+00:10:52,180 --> 00:10:55,360
+<font face="Segoe UI" size="26">Nào! Đến giờ mở tiệc tiễn đưa Masamune rồi!</font>
+
+198
+00:10:55,360 --> 00:10:56,370
+<font face="Segoe UI" size="26">Chí lý!</font>
+
+199
+00:10:57,980 --> 00:10:59,100
+<font face="Segoe UI" size="26">Khoan đã nào.</font>
+
+200
+00:10:59,440 --> 00:11:01,670
+<font face="Segoe UI" size="26">Cậu định ăn kỹ năng đó sao?</font>
+
+201
+00:11:01,670 --> 00:11:05,820
+<font face="Segoe UI" size="26">Không. Cậu cứ quan sát kỹ năng đó
+thêm một chút nữa đi.</font>
+
+202
+00:11:05,820 --> 00:11:07,850
+<font face="Segoe UI" size="26">Hả? Ý cậu là sao?</font>
+
+203
+00:11:08,980 --> 00:11:10,530
+<font face="Segoe UI" size="26">Thấy chưa?</font>
+
+204
+00:11:10,530 --> 00:11:11,900
+<font face="Segoe UI" size="26">Chuyện gì thế này?</font>
+
+205
+00:11:14,330 --> 00:11:16,430
+<font face="Segoe UI" size="26">M-Masamune?!</font>
+
+206
+00:11:20,650 --> 00:11:23,600
+<font face="Segoe UI" size="26">Chuyện quái gì... đang xảy ra vậy?</font>
+
+207
+00:11:28,740 --> 00:11:30,910
+<font face="Segoe UI" size="26">Đây là tôi sao?</font>
+
+208
+00:11:30,910 --> 00:11:33,890
+<font face="Segoe UI" size="26">Cô thật sự là Masamune à?</font>
+
+209
+00:11:33,890 --> 00:11:36,830
+<font face="Segoe UI" size="26">Đúng vậy, tôi chính là Masamune.</font>
+
+210
+00:11:36,830 --> 00:11:38,690
+<font face="Segoe UI" size="26">Sao cơ thể cô lại biến thành thế này?</font>
+
+211
+00:11:38,690 --> 00:11:40,300
+<font face="Segoe UI" size="26">Tôi cũng không rõ nữa ạ.</font>
+
+212
+00:11:40,300 --> 00:11:42,060
+<font face="Segoe UI" size="26">Có thấy điểm nào khác lạ không?</font>
+
+213
+00:11:42,060 --> 00:11:43,850
+<font face="Segoe UI" size="26">Chắc là kỹ năng của tôi ạ.</font>
+
+214
+00:11:44,430 --> 00:11:45,680
+<font face="Segoe UI" size="26">Thấu Thị Nhãn.</font>
+
+215
+00:11:44,680 --> 00:11:45,680
+<font face="Segoe UI" size="24">{\an8}THẤU THỊ NHÃN (SEARCH EYE)</font>
+
+216
+00:11:46,850 --> 00:11:51,520
+<font face="Segoe UI" size="24">{\an8}MASAMUNE</font>
+
+217
+00:11:47,280 --> 00:11:49,880
+<font face="Segoe UI" size="26">Kỹ năng tên là "Masamune" ư?</font>
+
+218
+00:11:49,880 --> 00:11:51,520
+<font face="Segoe UI" size="26">Nó có công dụng gì vậy?</font>
+
+219
+00:11:51,520 --> 00:11:53,200
+<font face="Segoe UI" size="26">Tôi cũng chưa rõ.</font>
+
+220
+00:11:53,200 --> 00:11:55,820
+<font face="Segoe UI" size="26">Cảm giác chẳng có gì thay đổi nhiều lắm.</font>
+
+221
+00:11:55,820 --> 00:12:00,280
+<font face="Segoe UI" size="26">Nhưng tôi vẫn làm được mọi việc
+như trước đây.</font>
+
+222
+00:12:07,170 --> 00:12:08,740
+<font face="Segoe UI" size="26">Tốc độ kinh khủng thật!</font>
+
+223
+00:12:08,740 --> 00:12:10,230
+<font face="Segoe UI" size="26">Cái nào cũng đẹp tăm tắp luôn!</font>
+
+224
+00:12:10,550 --> 00:12:13,220
+<font face="Segoe UI" size="26">Như mọi người thấy đấy, chẳng có gì đổi khác cả.</font>
+
+225
+00:12:13,220 --> 00:12:14,170
+<font face="Segoe UI" size="26">Phải rồi...</font>
+
+226
+00:12:14,170 --> 00:12:16,740
+<font face="Segoe UI" size="26">Này, chị đúng thật là Masamune sao?</font>
+
+227
+00:12:16,740 --> 00:12:19,060
+<font face="Segoe UI" size="26">Phải, là tôi đây.</font>
+
+228
+00:12:19,060 --> 00:12:21,870
+<font face="Segoe UI" size="26">Có lẽ... tôi đã sống lại rồi.</font>
+
+229
+00:12:21,870 --> 00:12:23,350
+<font face="Segoe UI" size="26">Cái gì?!</font>
+
+230
+00:12:23,350 --> 00:12:25,630
+<font face="Segoe UI" size="26">Mở tiệc ăn mừng hồi sinh thôi!</font>
+
+231
+00:12:28,950 --> 00:12:32,130
+<font face="Segoe UI" size="26">Hồi sinh á? Rốt cuộc là chuyện gì vậy?</font>
+
+232
+00:12:32,130 --> 00:12:34,180
+<font face="Segoe UI" size="26">Là vì cô ta thuộc tộc Goblin đấy.</font>
+
+233
+00:12:34,440 --> 00:12:37,870
+<font face="Segoe UI" size="26">Thực ra ta có một kỹ năng hơi bị đặc biệt chút.</font>
+
+234
+00:12:37,870 --> 00:12:40,610
+<font face="Segoe UI" size="26">Nói ngang thế. Kỹ năng đặc biệt gì cơ?</font>
+
+235
+00:12:40,900 --> 00:12:46,860
+<font face="Segoe UI" size="26">Đại khái là ta nhìn thấu được một sinh vật có kỹ năng
+sẽ còn sống được bao lâu nữa thì chết.</font>
+
+236
+00:12:46,860 --> 00:12:48,450
+<font face="Segoe UI" size="26"><i>Để tiện đường đi săn thức ăn hả.</i></font>
+
+237
+00:12:48,730 --> 00:12:51,500
+<font face="Segoe UI" size="26">Con Goblin kia chưa thể chết sớm được đâu.</font>
+
+238
+00:12:52,920 --> 00:12:57,210
+<font face="Segoe UI" size="26">Ta đoán cô ta sẽ sống thọ gấp mấy chục lần
+đám Goblin bình thường khác đấy.</font>
+
+239
+00:12:58,030 --> 00:12:59,160
+<font face="Segoe UI" size="26">Không thể nào!</font>
+
+240
+00:12:59,530 --> 00:13:03,210
+<font face="Segoe UI" size="26">Chờ một tuần nữa là biết ngay thật giả ấy mà.</font>
+
+241
+00:13:03,950 --> 00:13:08,380
+<font face="Segoe UI" size="26"><i>Nghe giọng điệu cứ như cậu ta đã biết rõ
+lý do từ đầu rồi vậy.</i></font>
+
+242
+00:13:08,730 --> 00:13:13,870
+<font face="Segoe UI" size="26">Tộc Goblin sở hữu khả năng thích nghi với môi trường
+vượt trội hơn bất kỳ loài sinh vật nào.</font>
+
+243
+00:13:14,180 --> 00:13:16,410
+<font face="Segoe UI" size="26">Tiềm năng của chúng là vô tận.</font>
+
+244
+00:13:17,080 --> 00:13:19,390
+<font face="Segoe UI" size="26"><i>Simon ngày trước cũng từng nói câu y hệt thế.</i></font>
+
+245
+00:13:19,390 --> 00:13:22,500
+<font face="Segoe UI" size="26">Này, theo cậu thì "môi trường" có nghĩa là gì?</font>
+
+246
+00:13:22,500 --> 00:13:25,940
+<font face="Segoe UI" size="26">Chẳng phải là nơi sinh sống và khí hậu xung quanh sao?</font>
+
+247
+00:13:26,690 --> 00:13:32,210
+<font face="Segoe UI" size="26">Đối với sinh vật, "môi trường"
+chính là những yếu tố bất biến xung quanh nó.</font>
+
+248
+00:13:32,800 --> 00:13:34,550
+<font face="Segoe UI" size="26">Những yếu tố bất biến ư?</font>
+
+249
+00:13:34,550 --> 00:13:36,250
+<font face="Segoe UI" size="26">Đối với đám Goblin nơi đây...</font>
+
+250
+00:13:36,800 --> 00:13:39,210
+<font face="Segoe UI" size="26">cậu chính là một hằng số bất biến đấy.</font>
+
+251
+00:13:40,380 --> 00:13:41,410
+<font face="Segoe UI" size="26">Tôi sao?</font>
+
+252
+00:13:41,700 --> 00:13:46,580
+<font face="Segoe UI" size="26">Cậu cứ sống mãi không già, khiến lũ Goblin
+cũng bắt đầu tự tiến hóa để thích nghi theo.</font>
+
+253
+00:13:46,580 --> 00:13:48,980
+<font face="Segoe UI" size="26">Chẳng hạn như kéo dài tuổi thọ ra đấy.</font>
+
+254
+00:13:49,380 --> 00:13:53,220
+<font face="Segoe UI" size="26"><i>À. Nghĩ vậy thì chuyện đó cũng chẳng hề vô lý.</i></font>
+
+255
+00:13:54,030 --> 00:13:58,140
+<font face="Segoe UI" size="26">Khiến loài Goblin sống thọ hơn ư?
+Chuyện chưa từng nghe trong lịch sử đấy.</font>
+
+256
+00:13:58,390 --> 00:14:01,090
+<font face="Segoe UI" size="26">Thôn trưởng ơi, lại đây nhập tiệc đi ạ!</font>
+
+257
+00:14:01,090 --> 00:14:01,760
+<font face="Segoe UI" size="26">Tới ngay đây.</font>
+
+258
+00:14:01,760 --> 00:14:03,500
+<font face="Segoe UI" size="26">Nhanh lên đi Thôn trưởng. Nhanh nào!</font>
+
+259
+00:14:03,500 --> 00:14:05,550
+<font face="Segoe UI" size="26">{\an8}Ngài ăn thử mấy món này xem sao.</font>
+
+260
+00:14:03,500 --> 00:14:08,160
+<font face="Segoe UI" size="26"><i>Quả thực, ngay cả với Goblin thường
+tiềm năng cũng đã là vô tận.</i></font>
+
+261
+00:14:08,790 --> 00:14:14,870
+<font face="Segoe UI" size="26"><i>Huống chi là một cá thể Goblin dị biệt
+với những khả năng khó lường như cậu ta.</i></font>
+
+262
+00:14:20,170 --> 00:14:21,040
+<font face="Segoe UI" size="26">Cạn ly!</font>
+
+263
+00:14:21,040 --> 00:14:23,080
+<font face="Segoe UI" size="26">Vui hết sảy luôn!</font>
+
+264
+00:14:28,950 --> 00:14:31,460
+<font face="Segoe UI" size="26">Ngài gọi tôi ạ, Ngài Thôn trưởng?</font>
+
+265
+00:14:31,460 --> 00:14:34,540
+<font face="Segoe UI" size="26">Phải, tôi có chuyện muốn hỏi cô.</font>
+
+266
+00:14:35,270 --> 00:14:35,810
+<font face="Segoe UI" size="26">Hả?</font>
+
+267
+00:14:38,620 --> 00:14:40,930
+<font face="Segoe UI" size="26">Này! Cô làm cái gì thế hả?!</font>
+
+268
+00:14:40,930 --> 00:14:44,160
+<font face="Segoe UI" size="26">Ồ? Ngài thích nằm dưới hơn sao?</font>
+
+269
+00:14:44,160 --> 00:14:46,870
+<font face="Segoe UI" size="26">Tôi chẳng cần nằm trên
+hay nằm dưới gì hết!</font>
+
+270
+00:14:47,120 --> 00:14:50,010
+<font face="Segoe UI" size="26">Vậy hay là chúng ta lên giường luôn nhé?</font>
+
+271
+00:14:52,460 --> 00:14:56,090
+<font face="Segoe UI" size="26">Ngài Thôn trưởng ơi, giờ có... tiện không ạ?</font>
+
+272
+00:14:58,400 --> 00:15:00,610
+<font face="Segoe UI" size="26">Hai người đang bận tạo em bé ạ.</font>
+
+273
+00:15:00,610 --> 00:15:01,720
+<font face="Segoe UI" size="26">Vậy lát tôi quay lại sau.</font>
+
+274
+00:15:01,120 --> 00:15:02,700
+<font face="Segoe UI" size="26">{\an8}Không phải thế đâu!</font>
+
+275
+00:15:02,700 --> 00:15:06,430
+<font face="Segoe UI" size="26">Lũ Goblin công nhận tinh tế ghê
+trong chuyện tạo em bé nhỉ.</font>
+
+276
+00:15:06,430 --> 00:15:09,380
+<font face="Segoe UI" size="26">Làm ơn đừng trêu chọc tôi quá đáng thế nữa.</font>
+
+277
+00:15:09,380 --> 00:15:12,770
+<font face="Segoe UI" size="26">Vào việc chính đi,
+tôi có chuyện nghiêm túc muốn hỏi cô.</font>
+
+278
+00:15:12,770 --> 00:15:17,540
+<font face="Segoe UI" size="26">Cậu cứ hỏi bất cứ điều gì cậu muốn biết.</font>
+
+279
+00:15:18,210 --> 00:15:21,780
+<font face="Segoe UI" size="26">Cô biết gì về Izyz không?</font>
+
+280
+00:15:21,780 --> 00:15:23,560
+<font face="Segoe UI" size="26">Sao cậu lại hỏi tôi?</font>
+
+281
+00:15:23,560 --> 00:15:24,900
+<font face="Segoe UI" size="26">Vì hai lý do.</font>
+
+282
+00:15:25,300 --> 00:15:29,370
+<font face="Segoe UI" size="26">Thứ nhất, Chloe chắc chắn không thể nhìn nhận khách quan được.</font>
+
+283
+00:15:30,370 --> 00:15:33,110
+<font face="Segoe UI" size="26">Cô nàng đúng là chẳng mất mấy giây
+đã nổi đóa lên ngay rồi.</font>
+
+284
+00:15:33,690 --> 00:15:39,100
+<font face="Segoe UI" size="26">Lý do thứ hai là cô từng gọi
+Ma Vương là "người đàn ông đó".</font>
+
+285
+00:15:39,100 --> 00:15:40,170
+<font face="Segoe UI" size="26">Tôi từng gọi thế à?</font>
+
+286
+00:15:40,410 --> 00:15:43,880
+<font face="Segoe UI" size="26">Có vẻ cô hiểu biết sâu rộng hơn
+hẳn hai người chị em của mình.</font>
+
+287
+00:15:43,880 --> 00:15:46,740
+<font face="Segoe UI" size="26">Tôi cũng chẳng biết nhiều lắm đâu.</font>
+
+288
+00:15:46,740 --> 00:15:48,310
+<font face="Segoe UI" size="26">Cô cứ kể những gì mình biết đi.</font>
+
+289
+00:15:48,810 --> 00:15:52,640
+<font face="Segoe UI" size="26">Con rồng đó là một thành viên
+của Tam Đại Quý Tộc.</font>
+
+290
+00:15:53,010 --> 00:15:58,490
+<font face="Segoe UI" size="26">Hắc Không Vương. Lạc Viên Ma Nhân.
+Tinh Linh Kỳ Tích.</font>
+
+291
+00:15:58,490 --> 00:16:01,010
+<font face="Segoe UI" size="26">Đó là danh xưng của ba kẻ đứng đầu bọn họ.</font>
+
+292
+00:16:02,040 --> 00:16:05,230
+<font face="Segoe UI" size="26">Tại sao họ lại được gọi là "quý tộc" vậy?</font>
+
+293
+00:16:05,230 --> 00:16:09,470
+<font face="Segoe UI" size="26">Lạc Viên Ma Nhân còn được gọi
+là Công Tước Ma Tộc.</font>
+
+294
+00:16:09,470 --> 00:16:13,930
+<font face="Segoe UI" size="26">Nghe đồn là vì trước kia hắn từng giữ tước vị
+công tước ở một vương quốc loài người.</font>
+
+295
+00:16:14,220 --> 00:16:16,200
+<font face="Segoe UI" size="26">Sao lại ở vương quốc loài người cơ chứ?</font>
+
+296
+00:16:16,200 --> 00:16:18,410
+<font face="Segoe UI" size="26">Chuyện đó thì tôi chịu, không rõ nữa.</font>
+
+297
+00:16:18,410 --> 00:16:22,800
+<font face="Segoe UI" size="26">Chính Tam Đại Quý Tộc đó là những người
+quyết định ai được làm Ma Vương sao?</font>
+
+298
+00:16:22,800 --> 00:16:28,000
+<font face="Segoe UI" size="26">Phải, kẻ muốn lên ngôi Ma Vương
+bắt buộc phải có sự chấp thuận của họ.</font>
+
+299
+00:16:28,000 --> 00:16:31,110
+<font face="Segoe UI" size="26">Tôi cũng không biết tại sao luật lệ lại
+thành ra như vậy nữa.</font>
+
+300
+00:16:31,110 --> 00:16:32,100
+<font face="Segoe UI" size="26">Ra vậy.</font>
+
+301
+00:16:32,360 --> 00:16:36,750
+<font face="Segoe UI" size="26">Thế sao lúc nãy Chloe đột nhiên
+bật chế độ chiến đấu căng thẳng thế?</font>
+
+302
+00:16:38,060 --> 00:16:40,400
+<font face="Segoe UI" size="26">Tại vì có lời đồn rằng...</font>
+
+303
+00:16:42,340 --> 00:16:48,210
+<font face="Segoe UI" size="26">con rồng đó đã từng chỉ điểm cho con người
+cách để đánh bại Ma Vương.</font>
+
+304
+00:16:55,300 --> 00:16:56,810
+<font face="Segoe UI" size="26">Thôn trưởng ơi!</font>
+
+305
+00:16:58,090 --> 00:17:01,510
+<font face="Segoe UI" size="26">Lại có thêm đám con người lảng vảng
+bên ngoài làng nữa rồi ạ.</font>
+
+306
+00:17:01,510 --> 00:17:02,830
+<font face="Segoe UI" size="26">Chúng ta phải làm sao đây ạ?</font>
+
+307
+00:17:03,070 --> 00:17:06,080
+<font face="Segoe UI" size="26">Trông bộ dạng như bọn chúng đang
+lùng sục tìm kiếm thứ gì đó.</font>
+
+308
+00:17:06,510 --> 00:17:10,660
+<font face="Segoe UI" size="26"><i>Thuộc hạ của hoàng tử vẫn đang
+ráo riết truy tìm Izyz à.</i></font>
+
+309
+00:17:11,210 --> 00:17:14,460
+<font face="Segoe UI" size="26">Cứ tiếp tục tuần tra, nếu thấy có dấu hiệu
+bọn chúng định xông vào làng,</font>
+
+310
+00:17:14,460 --> 00:17:16,360
+<font face="Segoe UI" size="26">thì đừng nương tay mà cứ thẳng tay đánh đuổi đi.</font>
+
+311
+00:17:16,360 --> 00:17:17,360
+<font face="Segoe UI" size="26">Vâng, em rõ rồi.</font>
+
+312
+00:17:17,360 --> 00:17:19,000
+<font face="Segoe UI" size="26">À, khoan đã nào.</font>
+
+313
+00:17:19,770 --> 00:17:21,740
+<font face="Segoe UI" size="26">Cậu có chuyện gì bận tâm không?</font>
+
+314
+00:17:22,110 --> 00:17:23,470
+<font face="Segoe UI" size="26">Chuyện gì cơ ạ?</font>
+
+315
+00:17:24,110 --> 00:17:27,030
+<font face="Segoe UI" size="26">Cậu có thấy bất mãn với điều gì ở đây không?</font>
+
+316
+00:17:28,770 --> 00:17:30,800
+<font face="Segoe UI" size="26">Làm gì có chuyện đó ạ!</font>
+
+317
+00:17:30,800 --> 00:17:35,250
+<font face="Segoe UI" size="26">Ngày nào cũng được ở bên Thôn trưởng yêu quý
+và mọi người, vui ơi là vui ấy chứ.</font>
+
+318
+00:17:35,730 --> 00:17:38,750
+<font face="Segoe UI" size="26">Ừm. Xin lỗi vì hỏi mấy câu kỳ quặc nhé.</font>
+
+319
+00:17:38,750 --> 00:17:40,020
+<font face="Segoe UI" size="26">Đi tuần cẩn thận nhé.</font>
+
+320
+00:17:40,020 --> 00:17:40,770
+<font face="Segoe UI" size="26">Rõ thưa Thôn trưởng!</font>
+
+321
+00:17:41,680 --> 00:17:43,980
+<font face="Segoe UI" size="26">Tên Goblin đó cũng mạnh gớm nhỉ.</font>
+
+322
+00:17:44,460 --> 00:17:49,510
+<font face="Segoe UI" size="26">Hắn khéo lọt top tám con Goblin mạnh nhất
+mà ta từng biết đấy.</font>
+
+323
+00:17:49,510 --> 00:17:52,340
+<font face="Segoe UI" size="26">Hanzo đời này khéo là kẻ mạnh nhất
+trong dòng họ cậu ta rồi.</font>
+
+324
+00:17:54,070 --> 00:17:55,760
+<font face="Segoe UI" size="26">Không biết có phải tại mình không nữa.</font>
+
+325
+00:17:57,670 --> 00:18:02,660
+<font face="Segoe UI" size="26">Tự hỏi có phải tại mình mà lũ Goblin
+vốn dĩ không chịu tiến hóa</font>
+
+326
+00:18:02,660 --> 00:18:04,680
+<font face="Segoe UI" size="26">để kéo dài tuổi thọ hơn không.</font>
+
+327
+00:18:05,270 --> 00:18:07,410
+<font face="Segoe UI" size="26">Sao cậu lại nghĩ vậy?</font>
+
+328
+00:18:07,410 --> 00:18:09,850
+<font face="Segoe UI" size="26">Tôi vốn mang ý tốt khi xây dựng nên hệ thống này</font>
+
+329
+00:18:09,850 --> 00:18:12,890
+<font face="Segoe UI" size="26">để vòng đời ngắn ngủi không gây
+bất tiện gì cho bọn họ,</font>
+
+330
+00:18:12,890 --> 00:18:16,550
+<font face="Segoe UI" size="26">nhưng biết đâu chính tôi lại đang kìm hãm
+tiềm năng phát triển của họ mất rồi.</font>
+
+331
+00:18:19,180 --> 00:18:21,020
+<font face="Segoe UI" size="26">Cậu đúng là phi thường thật đấy!</font>
+
+332
+00:18:21,020 --> 00:18:21,490
+<font face="Segoe UI" size="26">Hả?</font>
+
+333
+00:18:21,490 --> 00:18:26,880
+<font face="Segoe UI" size="26">Chính vì cậu luôn khiến tất cả lũ Goblin
+gặp được cậu đều sống hạnh phúc đấy.</font>
+
+334
+00:18:27,590 --> 00:18:31,350
+<font face="Segoe UI" size="26">Nếu chẳng có gì bất mãn trong cuộc sống
+thì cần quái gì phải tiến hóa thích nghi nữa.</font>
+
+335
+00:18:32,220 --> 00:18:36,340
+<font face="Segoe UI" size="26">Cậu đúng là vị minh quân tuyệt vời nhất
+mà ta từng nghe nói tới đấy.</font>
+
+336
+00:18:36,780 --> 00:18:39,580
+<font face="Segoe UI" size="26"><i>Kéo dài tuổi thọ như một dạng thích nghi tiến hóa.</i></font>
+
+337
+00:18:39,970 --> 00:18:41,840
+<font face="Segoe UI" size="26"><i>Nếu mình có thể chủ động kích hoạt điều đó,</i></font>
+
+338
+00:18:41,840 --> 00:18:44,860
+<font face="Segoe UI" size="26"><i>thì phải kiến tạo môi trường như thế nào
+để dẫn dắt họ đây?</i></font>
+
+339
+00:18:48,520 --> 00:18:50,640
+<font face="Segoe UI" size="26">Thơm nức mũi luôn kìa.</font>
+
+340
+00:18:51,890 --> 00:18:53,630
+<font face="Segoe UI" size="26">Vậy là đã hoàn tất công đoạn chế biến.</font>
+
+341
+00:18:53,630 --> 00:18:56,110
+<font face="Segoe UI" size="26">Đến lượt cậu đấy, Hokusai. Trổ tài đi nào.</font>
+
+342
+00:18:57,390 --> 00:18:59,070
+<font face="Segoe UI" size="26">Chúng tôi tuyệt đối không phụ lòng ngài.</font>
+
+343
+00:18:59,920 --> 00:19:01,560
+<font face="Segoe UI" size="26"><i>Đội Hokusai.</i></font>
+
+344
+00:19:01,560 --> 00:19:05,370
+<font face="Segoe UI" size="26"><i>Một nhóm gồm những Goblin sở hữu kỹ năng
+hội họa và nghệ thuật chuyên biệt.</i></font>
+
+345
+00:19:09,040 --> 00:19:10,460
+<font face="Segoe UI" size="26">Ấn tượng thật đấy.</font>
+
+346
+00:19:10,700 --> 00:19:14,230
+<font face="Segoe UI" size="26">Mẫu thiết kế nào nhìn cũng na ná mà lại có nét riêng biệt.</font>
+
+347
+00:19:15,170 --> 00:19:16,120
+<font face="Segoe UI" size="26">Được rồi.</font>
+
+348
+00:19:16,170 --> 00:19:21,050
+<font face="Segoe UI" size="24">{\an8}MANH LỰC</font>
+
+349
+00:19:16,490 --> 00:19:20,440
+<font face="Segoe UI" size="26">Những ai khiêng được đồ nặng thì vác đống này
+xuống hầm chứa ngầm nhé.</font>
+
+350
+00:19:21,040 --> 00:19:23,370
+<font face="Segoe UI" size="26">Giờ cậu lại bày trò mới gì thế này?</font>
+
+351
+00:19:23,370 --> 00:19:27,840
+<font face="Segoe UI" size="26">Tôi đang nhờ lứa Goblin trẻ tự tay
+ủ một mẻ rượu mơ để trữ.</font>
+
+352
+00:19:28,540 --> 00:19:33,090
+<font face="Segoe UI" size="26">Thông thường rượu mơ ngâm tầm một tuần
+là đã uống được rồi,</font>
+
+353
+00:19:33,590 --> 00:19:36,920
+<font face="Segoe UI" size="26">nhưng để ủ tầm nửa năm tới một năm
+thì hương vị sẽ đậm đà ngon hơn hẳn.</font>
+
+354
+00:19:38,140 --> 00:19:40,200
+<font face="Segoe UI" size="26">Nhưng làm vậy chẳng khác nào...</font>
+
+355
+00:19:40,200 --> 00:19:42,450
+<font face="Segoe UI" size="26">Tôi đang cố tình tạo ra sự luyến tiếc.</font>
+
+356
+00:19:42,770 --> 00:19:46,000
+<font face="Segoe UI" size="26">Trước giờ tôi vẫn thử nghiệm đủ cách
+để dựng nên một chế độ</font>
+
+357
+00:19:46,000 --> 00:19:48,580
+<font face="Segoe UI" size="26">giúp bọn họ tận hưởng cuộc sống trọn vẹn nhất,</font>
+
+358
+00:19:49,040 --> 00:19:50,750
+<font face="Segoe UI" size="26">nhưng xem ra đó lại là một sai lầm.</font>
+
+359
+00:19:50,750 --> 00:19:55,170
+<font face="Segoe UI" size="26">Dù nói vậy cũng dễ làm nảy sinh câu hỏi rằng,
+thế nào mới thực sự là sai lầm?</font>
+
+360
+00:19:55,700 --> 00:19:57,010
+<font face="Segoe UI" size="26">Nhưng dẫu sao đi nữa...</font>
+
+361
+00:19:57,490 --> 00:19:59,430
+<font face="Segoe UI" size="26">Tôi cũng hiểu được tâm trạng đó.</font>
+
+362
+00:19:59,430 --> 00:20:02,510
+<font face="Segoe UI" size="26">Sống vỏn vẹn bảy ngày trời cũng gây không ít
+tâm tư trĩu nặng cho con người tụi tôi mà.</font>
+
+363
+00:20:02,780 --> 00:20:05,070
+<font face="Segoe UI" size="26">Tôi sẽ không lặp lại sai lầm cũ nữa.</font>
+
+364
+00:20:05,070 --> 00:20:09,840
+<font face="Segoe UI" size="26">Nếu tuổi thọ của họ vẫn ngắn chỉ vì
+họ đã quá mãn nguyện với kiếp sống hiện tại...</font>
+
+365
+00:20:10,560 --> 00:20:12,560
+<font face="Segoe UI" size="26">thì tôi sẽ gieo cho họ thêm những niềm nuối tiếc.</font>
+
+366
+00:20:12,560 --> 00:20:14,760
+<font face="Segoe UI" size="26">Làm thế sẽ kéo dài tuổi thọ của họ sao?</font>
+
+367
+00:20:14,760 --> 00:20:17,350
+<font face="Segoe UI" size="26">À, đây chỉ là một khía cạnh trong chính sách thôi.</font>
+
+368
+00:20:17,680 --> 00:20:20,540
+<font face="Segoe UI" size="26">Họ vẫn sẽ được tận hưởng trọn vẹn niềm vui
+như từ trước tới nay,</font>
+
+369
+00:20:20,540 --> 00:20:23,140
+<font face="Segoe UI" size="26">nhưng nếu sống lâu hơn thì sẽ càng thêm
+nhiều điều thú vị nữa chứ.</font>
+
+370
+00:20:23,940 --> 00:20:25,470
+<font face="Segoe UI" size="26">Làm tốt lắm.</font>
+
+371
+00:20:25,470 --> 00:20:28,400
+<font face="Segoe UI" size="26">Chắc tôi phải thêm cụm "như mọi khi" vào nữa nhỉ.</font>
+
+372
+00:20:28,400 --> 00:20:31,380
+<font face="Segoe UI" size="26">Có việc gì giúp được, tôi sẽ hỗ trợ hết mình.</font>
+
+373
+00:20:31,380 --> 00:20:33,060
+<font face="Segoe UI" size="26">Tôi luôn sẵn lòng đón nhận.</font>
+
+374
+00:20:42,310 --> 00:20:44,590
+<font face="Segoe UI" size="26">Mia, em định đi đâu thế?</font>
+
+375
+00:20:44,930 --> 00:20:46,800
+<font face="Segoe UI" size="26">Con bé bị làm sao thế không biết?</font>
+
+376
+00:20:47,720 --> 00:20:50,100
+<font face="Segoe UI" size="26"><i>Cái tên đó bị làm sao vậy?! Là sao chứ?!</i></font>
+
+377
+00:20:50,100 --> 00:20:54,780
+<font face="Segoe UI" size="26">Cái con Goblin tên "Akira" hay gì gì đó
+đáng lẽ phải chết từ tám kiếp nào rồi chứ!</font>
+
+378
+00:22:05,550 --> 00:22:09,100
+<font face="Segoe UI" size="24">{\an8}PHỤ ĐỀ VIỆT NGỮ: Amtia(NOFACE)</font>
+
+379
+00:22:05,700 --> 00:22:10,150
+<font face="Segoe UI" size="26">Bọn chúng... chẳng mấy chốc đều tan biến hết cả.</font>
+
+380
+00:22:09,270 --> 00:22:13,060
+<font face="Segoe UI" size="24">{\an8}TIMING: Amtia(NOFACE)
+BIÊN TẬP & KỸ THUẬT: Amtia(NOFACE)</font>
+
+381
+00:22:11,530 --> 00:22:12,640
+<font face="Segoe UI" size="26">Eunomia.</font>
+
+382
+00:22:13,050 --> 00:22:14,560
+<font face="Segoe UI" size="26">Có chuyện gì vậy?</font>
+
+383
+00:22:14,560 --> 00:22:16,610
+<font face="Segoe UI" size="26">C-Cậu nhìn cái gì hả?!</font>
+
+384
+00:22:16,610 --> 00:22:19,050
+<font face="Segoe UI" size="26">{\an8}Chẳng liên quan gì tới cậu hết!</font>
+
+385
+00:22:17,860 --> 00:22:20,940
+<font face="Segoe UI" size="24">{\an8}KIỂM ĐỊNH (QC): Amtia(NOFACE)
+HOÀN THIỆN: Amtia(NOFACE)</font>
+
+386
+00:22:19,050 --> 00:22:21,030
+<font face="Segoe UI" size="26">{\an8}Có lẽ đúng là không liên quan thật,</font>
+
+387
+00:22:21,300 --> 00:22:23,670
+<font face="Segoe UI" size="26">{\an8}nhưng cả Eirene lẫn Diké đều đang lo lắng cho cô đấy.</font>
+
+388
+00:22:23,980 --> 00:22:25,540
+<font face="Segoe UI" size="26">Đã xảy ra chuyện gì à?</font>
+
+389
+00:22:25,540 --> 00:22:27,080
+<font face="Segoe UI" size="26">Chẳng có chuyện gì cả!</font>
+
+390
+00:22:27,080 --> 00:22:29,730
+<font face="Segoe UI" size="26">Cậu định lấy lòng chị Diké
+qua chuyện này đấy à?!</font>
+
+391
+00:22:29,730 --> 00:22:30,960
+<font face="Segoe UI" size="26">Tôi không có ý đó.</font>
+
+392
+00:22:30,960 --> 00:22:32,620
+<font face="Segoe UI" size="26"><i>Cũng như mọi khi thôi nhỉ.</i></font>
+
+393
+00:22:32,620 --> 00:22:34,360
+<font face="Segoe UI" size="26">Với lại, cả cậu nữa!</font>
+
+394
+00:22:34,830 --> 00:22:36,530
+<font face="Segoe UI" size="26">Cậu tính sống dai tới chừng nào nữa hả?!</font>
+
+395
+00:22:36,530 --> 00:22:38,030
+<font face="Segoe UI" size="26">Cậu chỉ là một con Goblin thôi mà!</font>
+
+396
+00:22:38,030 --> 00:22:40,170
+<font face="Segoe UI" size="26">Nói phũ thế.</font>
+
+397
+00:22:40,170 --> 00:22:41,720
+<font face="Segoe UI" size="26">Nhưng câu hỏi hay đấy.</font>
+
+398
+00:22:42,190 --> 00:22:45,330
+<font face="Segoe UI" size="26"><i>Masamune đã tiến hóa và
+kéo dài tuổi thọ của mình.</i></font>
+
+399
+00:22:45,330 --> 00:22:48,710
+<font face="Segoe UI" size="26"><i>Điều đó chứng tỏ Bát Tuần Trường Thọ
+cũng sẽ tiếp tục biến đổi thêm nữa.</i></font>
+
+400
+00:22:49,270 --> 00:22:53,090
+<font face="Segoe UI" size="26"><i>Cách thức thực hiện trên chặng đường này có thể thay đổi,
+nhưng mục tiêu của mình vẫn không đổi.</i></font>
+
+401
+00:22:54,390 --> 00:22:55,750
+<font face="Segoe UI" size="26">Ít nhất thì...</font>
+
+402
+00:22:55,760 --> 00:22:58,430
+<font face="Segoe UI" size="24">{\an8}TA KHÔNG MUỐN PHẢI CHỨNG KIẾN AI KHÓC THƯƠNG
+KHI TA CHẾT NỮA.</font>
+
+403
+00:22:59,860 --> 00:23:04,580
+<font face="Segoe UI" size="26">Tôi muốn sống lâu hơn tất cả mọi người,
+kể cả cô đấy.</font>
+
+404
+00:23:20,400 --> 00:23:21,630
+<font face="Segoe UI" size="26">Cô sao vậy?</font>
+
+405
+00:23:21,630 --> 00:23:23,380
+<font face="Segoe UI" size="26">K-Không có gì!</font>
+
+406
+00:23:25,270 --> 00:23:27,680
+<font face="Segoe UI" size="26"><i>Cái tên đó bị làm sao vậy?! Là sao chứ?!</i></font>
+
