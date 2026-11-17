@@ -15,9 +15,11 @@
 
 ## 2. BỐI CẢNH & NHÂN VẬT
 
-- **Taira Shizuka (平 静)**: Cựu sát thủ số một thế giới. Sau một sự cố bị bắn vào đầu, cơ thể anh rơi vào trạng thái thực vật trên một chiếc xe lăn cơ giới bọc thép vũ trang (Tank Chair). Điều kỳ lạ là hệ thần kinh của Shizuka chỉ thức tỉnh khi cảm nhận được "sát khí thuần túy" (killing intent) tột cùng hướng về phía mình.
-- **Taira Nagi (平 凪)**: Cô em gái tận tụy và thông minh của Shizuka, cũng là người hỗ trợ công nghệ điều khiển xe lăn. Nagi quyết định đẩy anh trai đi khắp thành phố để tìm kiếm những kẻ sát nhân điên cuồng nhất, dùng sát khí của chúng để đánh thức anh trai.
-- **Chiến đấu**: Các tổ chức ngầm, sát thủ biến đổi cơ thể, vũ khí sinh học, súng đạn hạng nặng.
+- **Taira Nagi (平 凪)**: Người anh trai, cựu sát thủ số một Học viện. Sau khi đỡ đạn vào đầu để cứu em gái Shizuka, anh rơi vào trạng thái thực vật trên chiếc xe lăn thiết giáp (**Tank Chair**). Chỉ thức tỉnh khi cảm nhận "sát khí" thuần túy hướng về mình (`Anh - Em / Shizuka`; `Ta / Tao - Ngươi / Mày` với kẻ địch).
+- **Taira Shizuka (平 静)**: Cô em gái tận tụy và lanh lợi của Nagi, đóng vai người môi giới và điều hướng xe lăn, dẫn anh trai đi khắp đảo Quỷ Thành (Guicheng) tìm sát thủ để "trị liệu phục hồi" bằng sát khí (`Em - Anh / Anh Nagi`; `Cháu - Bác / Tiến sĩ Radio`).
+- **Tiến sĩ Radio (Dr. Radio)**: Nhà khoa học thiên tài điều khiển động vật từ xa bằng sóng não, người chế tạo 7 chiếc Tank Chair và đang giúp hoàn thiện mẫu tối thượng *No Mark* bằng *Meta Metal* (`Ta / Tôi - Hai đứa / Shizuka / Nagi`).
+- **Thầy (Sensei) & Học viện / Anh em Kurosaka / Yoshitsune (Tân Võ Sĩ Đạo - Neo-Bushido)**: Thế lực truy sát anh em Nagi trên đảo Guicheng.
+- **Dịch giả & Kỹ thuật**: **Amtia(NOFACE)** | **Typography**: Segoe UI (UTF-8 BOM)
 
 ---
 
@@ -25,9 +27,10 @@
 
 | Nhân vật | Đối tượng | Xưng | Gọi | Văn phong |
 | :--- | :--- | :--- | :--- | :--- |
-| **Nagi (Em gái)** | Shizuka (Anh trai) | Em | Anh / Anh Shizuka | Yêu thương, nhí nhảnh, tận tụy nhưng kiên quyết |
+| **Shizuka (Em gái)** | Nagi (Anh trai) | Em | Anh / Anh Nagi | Yêu thương, nhí nhảnh, tận tụy nhưng kiên quyết |
 | | Kẻ thù / Sát thủ | Tôi / Tao | Ngươi / Mày | Sắc lạnh, mỉa mai, không sợ hãi |
-| **Shizuka (Anh trai)** | Nagi | Anh | Em / Nagi | Trầm ấm, bảo bọc |
+| | Tiến sĩ Radio | Cháu / Tôi | Bác / Tiến sĩ | Thẳng thắn, tinh ranh, biết ơn |
+| **Nagi (Anh trai)** | Shizuka | Anh | Em / Shizuka | Trầm ấm, bảo bọc |
 | | Kẻ thù (Khi thức tỉnh) | Ta / Tao | Ngươi / Mày / Lũ rác rưởi | Đỉnh cao sát thủ, tàn nhẫn, áp đảo |
 | **Sát thủ / Trùm ngầm** | Nagi & Shizuka | Ta / Tao | Chúng mày / Con nhóc / Tên tàn phế | Ngông cuồng, điên loạn, khát máu |
 
