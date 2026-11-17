@@ -28,11 +28,16 @@
      - Với Mimi: Chị - Em.
      - Với quân đội / sĩ quan: Tôi - Cô / Các người.
 4. **Serena Holz (セレナ)**:
-   - *Vai trò*: Trung úy Hạm đội Không gian Đế Quốc. Nghiêm túc, quy củ, tháo vát.
-   - *Xưng hô*: Tôi - Anh / Các người.
+   - *Vai trò*: Thiếu tá (`Lieutenant Commander` từ Tập 7, cựu Trung úy) Hạm đội Không gian Đế Quốc, tiểu thư nhà Hầu tước Grakkan. Nghiêm túc, trọng thể diện quý tộc nhưng hay mất tự chủ khi say và thầm mến Hiro.
+   - *Xưng hô*: Tôi - Thuyền trưởng Hiro / Anh Hiro / Cô Elma.
 5. **Emma (エマ)**:
    - *Vai trò*: Trí tuệ nhân tạo (AI) điều hành chiến hạm Krishna.
    - *Xưng hô*: Tôi - Thuyền trưởng (hoặc Ngài).
+6. **Bác sĩ Shouko (ショウコ)**:
+   - *Vai trò*: Tiến sĩ R&D tài năng của Tập đoàn Công nghệ Inagawa, được Hiro giải cứu nhiều lần.
+   - *Xưng hô*: Tôi - Hiro / Các bạn (`Hiro`: Tôi/Em - Bác sĩ Shouko).
+7. **Georg (ゲオルグ)**:
+   - *Vai trò*: Phó quan / Thuộc cấp của Thiếu tá Serena (`Tôi - Thiếu tá / Tiểu thư`).
 
 ---
 
