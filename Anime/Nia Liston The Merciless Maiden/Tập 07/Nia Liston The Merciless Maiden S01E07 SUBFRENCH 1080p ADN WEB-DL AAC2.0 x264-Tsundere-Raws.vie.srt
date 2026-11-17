@@ -1,0 +1,1380 @@
+﻿1
+00:00:00,000 --> 00:00:02,040
+<font face="Segoe UI" size="66"><b>Dựa trên nguyên tác của Minamino Umikaze</b></font>
+
+2
+00:00:07,540 --> 00:00:08,840
+<font face="Segoe UI" size="66"><b>Thiết kế nhân vật gốc:
+Canata Katana, Jishaku</b></font>
+
+3
+00:00:18,850 --> 00:00:21,390
+<font face="Segoe UI" size="66"><b>{\an8}NIA LISTON: THE MERCILESS MAIDEN</b></font>
+
+4
+00:00:23,140 --> 00:00:25,650
+<font face="Segoe UI" size="66"><b>{\an3}Thiết kế nhân vật:
+Yuki Itou, Kana Tosaoka</b></font>
+
+5
+00:00:25,810 --> 00:00:28,440
+<font face="Segoe UI" size="66"><b>{\an1}Biên kịch: Gigaemon Ichikawa</b></font>
+
+6
+00:00:29,320 --> 00:00:31,990
+<font face="Segoe UI" size="66"><b>{\an8}Thiết kế màu sắc:
+Ryota Katsuta, Maki Yamamoto</b></font>
+
+7
+00:00:32,150 --> 00:00:33,070
+<font face="Segoe UI" size="66"><b>{\an3}Đạo diễn mỹ thuật: Hiroshi Gouroku</b></font>
+
+8
+00:00:33,240 --> 00:00:34,110
+<font face="Segoe UI" size="66"><b>{\an1}Đạo diễn hình ảnh: Takashi Ooide</b></font>
+
+9
+00:00:43,870 --> 00:00:47,170
+<font face="Segoe UI" size="66"><b>{\an1}Biên tập: Masayuki Kurosawa
+Bối cảnh: Makaria</b></font>
+
+10
+00:01:01,350 --> 00:01:03,180
+<font face="Segoe UI" size="66"><b>Bài hát mở đầu: "Respawn!!"
+Trình bày: Watame Tsunomaki</b></font>
+
+11
+00:01:10,400 --> 00:01:11,360
+<font face="Segoe UI" size="66"><b>{\an1}Đạo diễn âm thanh: Hiromi Kikuta</b></font>
+
+12
+00:01:16,700 --> 00:01:18,110
+<font face="Segoe UI" size="66"><b>Âm nhạc: Naoki Endou</b></font>
+
+13
+00:01:19,870 --> 00:01:20,580
+<font face="Segoe UI" size="66"><b>{\an8}Studio hoạt hình: Konami Animation</b></font>
+
+14
+00:01:20,740 --> 00:01:21,870
+<font face="Segoe UI" size="66"><b>{\an8}Trợ lý đạo diễn: Haruta Segi</b></font>
+
+15
+00:01:26,290 --> 00:01:27,170
+<font face="Segoe UI" size="66"><b>Đạo diễn: Motoki Nakanishi</b></font>
+
+16
+00:01:27,330 --> 00:01:29,830
+<font face="Segoe UI" size="66"><b>Ủy ban sản xuất:
+The Merciless Maiden</b></font>
+
+17
+00:01:33,250 --> 00:01:35,840
+<font face="Segoe UI" size="66"><b>{\an8}VÕ ĐƯỜNG THIÊN PHÁ</b></font>
+
+18
+00:01:34,260 --> 00:01:37,470
+<font face="Segoe UI" size="66"><b>Thật hân hạnh được đón tiếp,
+Sư phụ Nia!</b></font>
+
+19
+00:01:38,130 --> 00:01:40,220
+<font face="Segoe UI" size="66"><b>- Đừng gọi thế nữa mà.
+- Rõ!</b></font>
+
+20
+00:01:40,890 --> 00:01:45,730
+<font face="Segoe UI" size="66"><b>Trong mối quan hệ giới võ học,
+tuổi tác đâu có nghĩa lý gì!</b></font>
+
+21
+00:01:46,270 --> 00:01:48,230
+<font face="Segoe UI" size="66"><b>Thực lực mới là thước đo duy nhất!</b></font>
+
+22
+00:01:48,560 --> 00:01:51,940
+<font face="Segoe UI" size="66"><b>Vậy nên tôi tha thiết
+muốn được gọi ngài là "Sư phụ"!</b></font>
+
+23
+00:01:52,570 --> 00:01:54,230
+<font face="Segoe UI" size="66"><b>Tùy ông thôi, cơ mà...</b></font>
+
+24
+00:01:54,610 --> 00:01:56,740
+<font face="Segoe UI" size="66"><b>Thật chứ ạ, Sư phụ Nia?</b></font>
+
+25
+00:01:57,400 --> 00:01:59,990
+<font face="Segoe UI" size="66"><b>Ta nhắc ông nhớ rằng
+ông thuộc Võ đường Thiên Phá,</b></font>
+
+26
+00:02:00,280 --> 00:02:03,870
+<font face="Segoe UI" size="66"><b>chẳng hề chung môn phái gì với ta đâu đấy.
+Thế mà vẫn ổn à?</b></font>
+
+27
+00:02:05,700 --> 00:02:07,120
+<font face="Segoe UI" size="66"><b>Tất nhiên là ổn rồi ạ...</b></font>
+
+28
+00:02:09,420 --> 00:02:14,090
+<font face="Segoe UI" size="66"><b>Nói tóm lại, như đã hứa, hai ta sẽ vào đấu trường
+ngầm dưới danh nghĩa cha con.</b></font>
+
+29
+00:02:14,460 --> 00:02:19,130
+<font face="Segoe UI" size="66"><b>Ông đóng vai cha ta cơ mà,
+nên phải ăn nói cho tự nhiên chút đi.</b></font>
+
+30
+00:02:19,300 --> 00:02:22,640
+<font face="Segoe UI" size="66"><b>Rõ!
+Tôi sẽ cố gắng hết sức, thưa Sư phụ!</b></font>
+
+31
+00:02:23,510 --> 00:02:24,640
+<font face="Segoe UI" size="66"><b>Ta đã bảo là nói chuyện bình thường cơ mà.</b></font>
+
+32
+00:02:26,350 --> 00:02:30,100
+<font face="Segoe UI" size="66"><b>À phải rồi, tôi mới nắm được thêm tin tức
+về đấu trường đấy.</b></font>
+
+33
+00:02:30,400 --> 00:02:32,940
+<font face="Segoe UI" size="66"><b>Sư phụ có biết về "Kiếm Quỷ" không ạ?</b></font>
+
+34
+00:02:33,150 --> 00:02:36,820
+<font face="Segoe UI" size="66"><b>Chưa. Nghe danh hiệu thì đoán chừng
+hắn là một bậc thầy kiếm thuật sao?</b></font>
+
+35
+00:02:37,110 --> 00:02:41,410
+<font face="Segoe UI" size="66"><b>Vâng, đó là biệt danh của một
+mạo hiểm giả kiếm sĩ lừng danh.</b></font>
+
+36
+00:02:42,950 --> 00:02:45,290
+<font face="Segoe UI" size="66"><b><i>Linh cảm lại sắp thất vọng nữa rồi đây.</i></b></font>
+
+37
+00:02:45,620 --> 00:02:49,910
+<font face="Segoe UI" size="66"><b>Hắn ta tạo dựng tên tuổi nhờ những
+chiến tích kiếm thuật vang dội được giới võ công nhận.</b></font>
+
+38
+00:02:50,960 --> 00:02:51,960
+<font face="Segoe UI" size="66"><b><i>Hoặc biết đâu bất ngờ!</i></b></font>
+
+39
+00:02:52,580 --> 00:02:57,050
+<font face="Segoe UI" size="66"><b>Và nghe nói gã Kiếm Quỷ này
+cũng sẽ góp mặt ở Đấu Trường Hắc Ám đấy ạ!</b></font>
+
+40
+00:02:57,340 --> 00:03:00,130
+<font face="Segoe UI" size="66"><b><i>Cuối cùng thứ ta chờ đợi
+bấy lâu nay cũng tới rồi!</i></b></font>
+
+41
+00:03:00,470 --> 00:03:02,430
+<font face="Segoe UI" size="66"><b>Tốt, ta mong được gặp hắn lắm rồi đấy.</b></font>
+
+42
+00:03:02,970 --> 00:03:05,930
+<font face="Segoe UI" size="66"><b>Tôi thật sự khó mà
+hòa chung bầu không khí háo hức với sư phụ được...</b></font>
+
+43
+00:03:06,350 --> 00:03:09,230
+<font face="Segoe UI" size="66"><b>Nghĩ tới chuyện dẫn theo một bé gái
+vào chốn đó làm tôi lo thắt ruột...</b></font>
+
+44
+00:03:10,310 --> 00:03:15,190
+<font face="Segoe UI" size="66"><b>Nhưng đã trót hứa với sư phụ rồi
+thì hiển nhiên tôi phải giữ lời thôi!</b></font>
+
+45
+00:03:15,610 --> 00:03:16,190
+<font face="Segoe UI" size="66"><b>Được.</b></font>
+
+46
+00:03:17,110 --> 00:03:19,740
+<font face="Segoe UI" size="66"><b>Ta trông cậy vào ông đấy, ông bạn Gandolph!</b></font>
+
+47
+00:03:21,740 --> 00:03:25,700
+<font face="Segoe UI" size="66"><b>Không biết sư phụ có rảnh chút thời gian
+để chỉ điểm một trận luyện tập không ạ?</b></font>
+
+48
+00:03:26,580 --> 00:03:30,750
+<font face="Segoe UI" size="66"><b>Hiện giờ tâm trạng ta đang cực kỳ phấn chấn,
+nên đồng ý luôn!</b></font>
+
+49
+00:03:30,960 --> 00:03:31,830
+<font face="Segoe UI" size="66"><b>Nào, thủ thế đi!</b></font>
+
+50
+00:03:32,370 --> 00:03:34,630
+<font face="Segoe UI" size="66"><b>Tuyệt vời! Đa tạ sư phụ muôn phần!</b></font>
+
+51
+00:03:38,550 --> 00:03:41,800
+<font face="Segoe UI" size="66"><b>Xem ra ông vẫn cần tập phòng thủ
+cho chắc tay hơn đấy nhé.</b></font>
+
+52
+00:03:43,640 --> 00:03:45,350
+<font face="Segoe UI" size="66"><b>Vâng... thưa Sư phụ...</b></font>
+
+53
+00:03:46,300 --> 00:03:50,100
+<font face="Segoe UI" size="66"><b>Hôm nay,
+chúng ta sẽ học về các hòn đảo bay.</b></font>
+
+54
+00:03:50,270 --> 00:04:00,360
+<font face="Segoe UI" size="66"><b>{\an8}<i>Vikeranda,
+con quái vật đã "chẻ đôi Trái Đất"</i></b></font>
+
+55
+00:03:50,730 --> 00:03:52,890
+<font face="Segoe UI" size="66"><b>Tương truyền rằng thuở ban sơ, thế giới này</b></font>
+
+56
+00:03:53,060 --> 00:03:55,810
+<font face="Segoe UI" size="66"><b>vốn dĩ là một dải đất liền
+rộng lớn bao la,</b></font>
+
+57
+00:03:55,980 --> 00:04:00,360
+<font face="Segoe UI" size="66"><b>một lục địa duy nhất
+ăn sâu vững chãi xuống tận đáy đại dương.</b></font>
+
+58
+00:04:00,780 --> 00:04:02,860
+<font face="Segoe UI" size="66"><b>Thầy đang nói về một kỷ nguyên xa xưa cách đây...</b></font>
+
+59
+00:04:03,360 --> 00:04:04,700
+<font face="Segoe UI" size="66"><b>Trông cậu cứ như đang sướng rơn lên ấy...</b></font>
+
+60
+00:04:07,740 --> 00:04:08,990
+<font face="Segoe UI" size="66"><b>Mình á? Đâu có đâu chứ.</b></font>
+
+61
+00:04:14,540 --> 00:04:16,130
+<font face="Segoe UI" size="66"><b>Ta về rồi đây, Rinokis.</b></font>
+
+62
+00:04:16,880 --> 00:04:18,880
+<font face="Segoe UI" size="66"><b>Mừng tiểu thư đã trở về ạ!</b></font>
+
+63
+00:04:20,300 --> 00:04:22,380
+<font face="Segoe UI" size="66"><b>Hoa này đẹp quá đi mất!</b></font>
+
+64
+00:04:26,010 --> 00:04:29,100
+<font face="Segoe UI" size="66"><b>Tiểu thư có muốn dùng chút trà không ạ?</b></font>
+
+65
+00:04:29,260 --> 00:04:31,390
+<font face="Segoe UI" size="66"><b>Không cần đâu, lát nữa hãy hay.</b></font>
+
+66
+00:04:36,770 --> 00:04:40,030
+<font face="Segoe UI" size="66"><b>Dù đúng là ta không trực tiếp thượng đài
+tại Đấu Trường Hắc Ám...</b></font>
+
+67
+00:04:45,820 --> 00:04:48,950
+<font face="Segoe UI" size="66"><b><i>nhưng ta cũng không thể
+cho phép bản thân</i></b></font>
+
+68
+00:04:49,120 --> 00:04:53,410
+<font face="Segoe UI" size="66"><b><i>bộc lộ dù chỉ một chút sơ hở
+trước mặt các đấu sĩ thực thụ.</i></b></font>
+
+69
+00:04:53,790 --> 00:04:56,670
+<font face="Segoe UI" size="66"><b><i>Đó là luật bất thành văn
+của giới võ học.</i></b></font>
+
+70
+00:05:02,960 --> 00:05:03,720
+<font face="Segoe UI" size="66"><b>Một!</b></font>
+
+71
+00:05:04,420 --> 00:05:05,220
+<font face="Segoe UI" size="66"><b>Hai!</b></font>
+
+72
+00:05:06,340 --> 00:05:08,180
+<font face="Segoe UI" size="66"><b>VÕ ĐƯỜNG THIÊN PHÁ</b></font>
+
+73
+00:05:11,010 --> 00:05:12,220
+<font face="Segoe UI" size="66"><b>Mọi thứ chuẩn bị xong xuôi hết chưa?</b></font>
+
+74
+00:05:14,520 --> 00:05:16,310
+<font face="Segoe UI" size="66"><b>Vâng, mọi thứ đã sẵn sàng rồi, thưa Sư phụ.</b></font>
+
+75
+00:05:17,810 --> 00:05:18,520
+<font face="Segoe UI" size="66"><b>Thêm một đòn nữa!</b></font>
+
+76
+00:05:18,690 --> 00:05:19,810
+<font face="Segoe UI" size="66"><b><i>Cuối cùng cũng tới tối nay rồi!</i></b></font>
+
+77
+00:05:20,940 --> 00:05:25,320
+<font face="Segoe UI" size="66"><b>TẬP 7 :
+ĐỘT NHẬP ĐẤU TRƯỜNG HẮC ÁM</b></font>
+
+78
+00:05:28,410 --> 00:05:29,280
+<font face="Segoe UI" size="66"><b><i>Cuối cùng!</i></b></font>
+
+79
+00:05:29,450 --> 00:05:31,080
+<font face="Segoe UI" size="66"><b>Cuối cùng cũng tới tối nay rồi!</b></font>
+
+80
+00:05:32,290 --> 00:05:35,000
+<font face="Segoe UI" size="66"><b>Khoan đã,
+đừng nói với tớ là cậu quên rồi nhé?</b></font>
+
+81
+00:05:35,290 --> 00:05:38,120
+<font face="Segoe UI" size="66"><b>Tối nay người ta phát sóng chương trình
+về giải đấu đấy!</b></font>
+
+82
+00:05:38,420 --> 00:05:41,340
+<font face="Segoe UI" size="66"><b>Mọi người ai nấy đều sẽ dán chặt mắt
+vào truyền hình ma pháp hết đấy!</b></font>
+
+83
+00:05:44,420 --> 00:05:47,380
+<font face="Segoe UI" size="66"><b>Tất cả các gia đình quý tộc có con cái
+đang theo học tại học viện</b></font>
+
+84
+00:05:47,550 --> 00:05:51,720
+<font face="Segoe UI" size="66"><b>đều được mời tới hoàng cung
+để cùng nhau theo dõi</b></font>
+
+85
+00:05:51,890 --> 00:05:55,480
+<font face="Segoe UI" size="66"><b>chương trình phát sóng tối nay!
+Thậm chí ở ký túc xá cũng có lắp đặt một chiếc nữa cơ!</b></font>
+
+86
+00:05:58,940 --> 00:06:00,440
+<font face="Segoe UI" size="66"><b>Mong là tớ cũng được lên hình!</b></font>
+
+87
+00:06:00,610 --> 00:06:02,230
+<font face="Segoe UI" size="66"><b>Tớ nóng lòng được thấy anh Neal quá đi!</b></font>
+
+88
+00:06:02,440 --> 00:06:03,320
+<font face="Segoe UI" size="66"><b>Sắp bắt đầu rồi kìa!</b></font>
+
+89
+00:06:03,480 --> 00:06:06,190
+<font face="Segoe UI" size="66"><b>Họ còn cho lắp đặt hẳn truyền hình ma pháp</b></font>
+
+90
+00:06:06,360 --> 00:06:08,740
+<font face="Segoe UI" size="66"><b>chỉ riêng cho dịp trọng đại này đấy!</b></font>
+
+91
+00:06:09,160 --> 00:06:11,950
+<font face="Segoe UI" size="66"><b>Các cháu ơi! Bánh kếp chín rồi đây!</b></font>
+
+92
+00:06:13,410 --> 00:06:15,500
+<font face="Segoe UI" size="66"><b>- Cháu xin ạ!
+- Cháu nữa!</b></font>
+
+93
+00:06:15,660 --> 00:06:16,750
+<font face="Segoe UI" size="66"><b>Đừng chen lấn chứ!</b></font>
+
+94
+00:06:16,910 --> 00:06:20,000
+<font face="Segoe UI" size="66"><b>Đừng xô đẩy nhau,
+có đủ phần cho tất cả mọi người mà.</b></font>
+
+95
+00:06:20,750 --> 00:06:23,130
+<font face="Segoe UI" size="66"><b>Chúng ta sẽ vừa ăn bánh vừa xem chương trình nhé!</b></font>
+
+96
+00:06:23,630 --> 00:06:24,630
+<font face="Segoe UI" size="66"><b><i>Ra vậy...</i></b></font>
+
+97
+00:06:24,840 --> 00:06:28,680
+<font face="Segoe UI" size="66"><b><i>Mọi người đều muốn cùng nhau
+chia sẻ sự hào hứng của sự kiện này.</i></b></font>
+
+98
+00:06:29,430 --> 00:06:31,390
+<font face="Segoe UI" size="66"><b><i>Mình cũng hiểu tâm trạng đó, nhưng mà...</i></b></font>
+
+99
+00:06:32,010 --> 00:06:35,770
+<font face="Segoe UI" size="66"><b><i>Hãy tiếp tục đón xem kênh của chúng tôi
+để theo dõi Đại hội Võ thuật lớn nhé!</i></b></font>
+
+100
+00:06:37,730 --> 00:06:39,770
+<font face="Segoe UI" size="66"><b>Ủa, sao tiểu thư lại ở đây vậy ạ?</b></font>
+
+101
+00:06:40,060 --> 00:06:43,690
+<font face="Segoe UI" size="66"><b>Tiểu thư không xem chương trình
+cùng các bạn sao ạ?</b></font>
+
+102
+00:06:44,020 --> 00:06:47,030
+<font face="Segoe UI" size="66"><b>Không sao đâu, thế nào chẳng có chiếu lại.</b></font>
+
+103
+00:06:47,610 --> 00:06:50,950
+<font face="Segoe UI" size="66"><b>Ta có mang chút quà nhỏ
+từ ký túc xá về cho em đây!</b></font>
+
+104
+00:06:52,370 --> 00:06:57,200
+<font face="Segoe UI" size="66"><b>Tiểu thư cất công làm vậy vì em sao ạ?
+Cảm ơn tiểu thư Nia nhiều lắm!</b></font>
+
+105
+00:06:57,370 --> 00:06:58,790
+<font face="Segoe UI" size="66"><b>Thôi, ta đi ngủ đây!</b></font>
+
+106
+00:07:00,960 --> 00:07:05,050
+<font face="Segoe UI" size="66"><b>Nhớ rưới thật đẫm xốt lên bánh kếp nhé,
+ăn sẽ ngon hơn gấp bội đấy!</b></font>
+
+107
+00:07:05,550 --> 00:07:06,250
+<font face="Segoe UI" size="66"><b>Vâng ạ!</b></font>
+
+108
+00:07:09,720 --> 00:07:11,760
+<font face="Segoe UI" size="66"><b>ĐẠI HỘI VÕ THUẬT</b></font>
+
+109
+00:07:11,930 --> 00:07:14,390
+<font face="Segoe UI" size="66"><b><i>Cảm ơn quý vị đã kiên nhẫn chờ đợi!</i></b></font>
+
+110
+00:07:14,720 --> 00:07:19,180
+<font face="Segoe UI" size="66"><b><i>Đại hội Võ thuật
+của Học viện Altoire sắp chính thức bắt đầu!</i></b></font>
+
+111
+00:07:21,440 --> 00:07:26,070
+<font face="Segoe UI" size="66"><b><i>Đây là dàn thí sinh góp mặt hôm nay!
+Ai nấy đều trông cực kỳ sung sức.</i></b></font>
+
+112
+00:07:26,730 --> 00:07:29,740
+<font face="Segoe UI" size="66"><b><i>Hãy khởi đầu với trận đấu đầu tiên
+của hạng mục vũ khí!</i></b></font>
+
+113
+00:07:26,780 --> 00:07:28,820
+<font face="Segoe UI" size="66"><b>{\an8}VÒNG MỘT
+HẠNG MỤC VŨ KHÍ</b></font>
+
+114
+00:07:50,590 --> 00:07:51,260
+<font face="Segoe UI" size="66"><b><i>Bắt đầu nào!</i></b></font>
+
+115
+00:07:51,930 --> 00:07:54,090
+<font face="Segoe UI" size="66"><b>Nhìn kìa! Con trai tôi được lên truyền hình ma pháp rồi!</b></font>
+
+116
+00:08:00,020 --> 00:08:02,440
+<font face="Segoe UI" size="66"><b>Mình vốn định xem cùng với Nia cơ mà...</b></font>
+
+117
+00:08:03,140 --> 00:08:05,900
+<font face="Segoe UI" size="66"><b>Nhìn kìa, Relia! Tớ lên sóng truyền hình ma pháp rồi này!</b></font>
+
+118
+00:08:27,170 --> 00:08:29,210
+<font face="Segoe UI" size="66"><b>Tiểu thư đi thật rồi sao...</b></font>
+
+119
+00:08:37,600 --> 00:08:40,140
+<font face="Segoe UI" size="66"><b>Con bé này đúng là hết thuốc chữa thật mà.</b></font>
+
+120
+00:09:00,370 --> 00:09:01,200
+<font face="Segoe UI" size="66"><b>Sư phụ Nia!</b></font>
+
+121
+00:09:01,540 --> 00:09:02,540
+<font face="Segoe UI" size="66"><b>Mau đi thôi.</b></font>
+
+122
+00:09:07,330 --> 00:09:09,670
+<font face="Segoe UI" size="66"><b>QUÁN RƯỢU CHUỘT XẢO QUYỆT</b></font>
+
+123
+00:09:09,840 --> 00:09:12,170
+<font face="Segoe UI" size="66"><b><i>Đóng cửa</i></b></font>
+
+124
+00:09:13,210 --> 00:09:15,930
+<font face="Segoe UI" size="66"><b><i>Dù không định động tay động chân đâu, nhưng...</i></b></font>
+
+125
+00:09:19,720 --> 00:09:21,930
+<font face="Segoe UI" size="66"><b>cũng chẳng biết trước chuyện gì sẽ xảy ra!</b></font>
+
+126
+00:09:24,020 --> 00:09:24,980
+<font face="Segoe UI" size="66"><b>Chật quá đi mất.</b></font>
+
+127
+00:09:25,350 --> 00:09:27,400
+<font face="Segoe UI" size="66"><b>Dạo này tôi tăng cơ hơi quá đà rồi...</b></font>
+
+128
+00:09:27,850 --> 00:09:28,940
+<font face="Segoe UI" size="66"><b>Bọn tôi tới rồi đây.</b></font>
+
+129
+00:09:30,070 --> 00:09:31,940
+<font face="Segoe UI" size="66"><b>Tôi mang thứ cô dặn tới rồi đây.</b></font>
+
+130
+00:09:32,110 --> 00:09:33,740
+<font face="Segoe UI" size="66"><b>Chào buổi tối nhé, Lily!</b></font>
+
+131
+00:09:34,740 --> 00:09:37,950
+<font face="Segoe UI" size="66"><b>Trông anh có vẻ chật chội phết nhỉ.
+Giơ hai tay lên xem nào?</b></font>
+
+132
+00:09:39,410 --> 00:09:40,740
+<font face="Segoe UI" size="66"><b>Không hợp với tôi à?</b></font>
+
+133
+00:09:40,910 --> 00:09:42,450
+<font face="Segoe UI" size="66"><b>Coi như tạm chấp nhận được đi.</b></font>
+
+134
+00:09:42,910 --> 00:09:47,210
+<font face="Segoe UI" size="66"><b>Hai người quen nhau à? Cũng phải thôi,
+tính hai người hẳn là hợp cạ nhau lắm đấy.</b></font>
+
+135
+00:09:47,790 --> 00:09:49,460
+<font face="Segoe UI" size="66"><b>Thôi, tôi xin phép đi trước đây!</b></font>
+
+136
+00:10:01,680 --> 00:10:05,270
+<font face="Segoe UI" size="66"><b>Đây là thuốc ngụy trang
+dành riêng cho giới quý tộc đấy.</b></font>
+
+137
+00:10:05,680 --> 00:10:07,890
+<font face="Segoe UI" size="66"><b>Tất nhiên giá của nó đắt cắt cổ luôn.</b></font>
+
+138
+00:10:09,900 --> 00:10:11,230
+<font face="Segoe UI" size="66"><b>Xong xuôi rồi đây!</b></font>
+
+139
+00:10:14,190 --> 00:10:14,860
+<font face="Segoe UI" size="66"><b>Sao rồi?</b></font>
+
+140
+00:10:15,740 --> 00:10:18,450
+<font face="Segoe UI" size="66"><b>- Trông em dễ thương xỉu luôn!
+- Hợp với ngài... à nhầm, rất đẹp!</b></font>
+
+141
+00:10:18,610 --> 00:10:21,120
+<font face="Segoe UI" size="66"><b>Nhìn thế này trông em bình thường hẳn ra đấy.</b></font>
+
+142
+00:10:21,530 --> 00:10:24,660
+<font face="Segoe UI" size="66"><b>Điều em quan tâm nhất là
+xem mình hóa trang có kín kẽ không cơ!</b></font>
+
+143
+00:10:24,830 --> 00:10:26,870
+<font face="Segoe UI" size="66"><b>Phải làm sao để chẳng ai nhận ra mới được...</b></font>
+
+144
+00:10:29,750 --> 00:10:31,540
+<font face="Segoe UI" size="66"><b>Ổn áp ra phết đấy chứ!</b></font>
+
+145
+00:10:32,500 --> 00:10:34,670
+<font face="Segoe UI" size="66"><b>Cơ mà em nhớ trả tiền lọ thuốc cho chị đấy.</b></font>
+
+146
+00:10:35,210 --> 00:10:38,380
+<font face="Segoe UI" size="66"><b>Em sẽ trả lại cho chị ngay khi đủ tuổi
+thượng đài ở đấu trường!</b></font>
+
+147
+00:10:42,300 --> 00:10:43,640
+<font face="Segoe UI" size="66"><b>Tức là tận 15 năm nữa chứ gì.</b></font>
+
+148
+00:11:00,740 --> 00:11:02,160
+<font face="Segoe UI" size="66"><b>Còn nhóc kia là ai thế?</b></font>
+
+149
+00:11:03,160 --> 00:11:04,030
+<font face="Segoe UI" size="66"><b>Con gái của ông ấy ạ!</b></font>
+
+150
+00:11:05,620 --> 00:11:08,160
+<font face="Segoe UI" size="66"><b>À ừ, đúng rồi! Đây là con giai... à nhầm!</b></font>
+
+151
+00:11:09,750 --> 00:11:10,420
+<font face="Segoe UI" size="66"><b>Con gái tôi đấy!</b></font>
+
+152
+00:11:30,730 --> 00:11:32,440
+<font face="Segoe UI" size="66"><b>- Xông lên đi!
+- Đổ máu đi nào!</b></font>
+
+153
+00:11:32,810 --> 00:11:34,980
+<font face="Segoe UI" size="66"><b><i>Thứ bạo lực nguyên sơ thuần khiết này...</i></b></font>
+
+154
+00:11:35,820 --> 00:11:39,490
+<font face="Segoe UI" size="66"><b><i>Mùi hương ngọt ngào của oán hận,
+thù hằn và chiến ý nồng nặc!</i></b></font>
+
+155
+00:11:44,160 --> 00:11:45,830
+<font face="Segoe UI" size="66"><b>{\an1}Quả thực không thể cưỡng lại nổi mà!</b></font>
+
+156
+00:11:45,700 --> 00:11:47,790
+<font face="Segoe UI" size="66"><b>{\an8}NIA LISTON: THE MERCILESS MAIDEN</b></font>
+
+157
+00:11:47,950 --> 00:11:50,160
+<font face="Segoe UI" size="66"><b>{\an1}NIA LISTON:
+THE MERCILESS MAIDEN</b></font>
+
+158
+00:12:01,090 --> 00:12:02,680
+<font face="Segoe UI" size="66"><b>Không khí náo nhiệt thật đấy!</b></font>
+
+159
+00:12:08,350 --> 00:12:10,060
+<font face="Segoe UI" size="66"><b>Quý khách có muốn dùng chút rượu vang không ạ?</b></font>
+
+160
+00:12:12,310 --> 00:12:13,310
+<font face="Segoe UI" size="66"><b>À, ờ... có chứ!</b></font>
+
+161
+00:12:14,020 --> 00:12:17,070
+<font face="Segoe UI" size="66"><b>Còn một ly nước ép trái cây
+cho vị tiểu thư nhỏ đây chứ?</b></font>
+
+162
+00:12:18,020 --> 00:12:18,610
+<font face="Segoe UI" size="66"><b>Vâng ạ!</b></font>
+
+163
+00:12:20,690 --> 00:12:23,200
+<font face="Segoe UI" size="66"><b><i>Chào mừng quý ông quý bà đã đến với đấu trường!</i></b></font>
+
+164
+00:12:23,910 --> 00:12:28,330
+<font face="Segoe UI" size="66"><b><i>Đêm nay, máu sẽ đổ, thịt sẽ nát
+và những sinh mạng sẽ vỡ vụn tan tành!</i></b></font>
+
+165
+00:12:28,490 --> 00:12:31,080
+<font face="Segoe UI" size="66"><b><i>Quý vị sắp được chiêm ngưỡng
+những trận tử chiến không chút khoan nhượng!</i></b></font>
+
+166
+00:12:31,250 --> 00:12:34,750
+<font face="Segoe UI" size="66"><b><i>Vậy nên hãy thả lỏng tinh thần
+và tận hưởng màn trình diễn đi nào!</i></b></font>
+
+167
+00:12:37,130 --> 00:12:39,550
+<font face="Segoe UI" size="66"><b><i>Chúng ta hãy bắt đầu ngay thôi!</i></b></font>
+
+168
+00:12:39,750 --> 00:12:41,880
+<font face="Segoe UI" size="66"><b><i>Xin giới thiệu đấu sĩ đầu tiên!</i></b></font>
+
+169
+00:12:44,130 --> 00:12:47,930
+<font face="Segoe UI" size="66"><b><i>Hồng Quyền Draijan!</i></b></font>
+
+170
+00:12:48,100 --> 00:12:49,850
+<font face="Segoe UI" size="66"><b>Lên đi, Draijan!</b></font>
+
+171
+00:12:50,470 --> 00:12:52,850
+<font face="Segoe UI" size="66"><b><i>Và đối đầu với anh ta là
+chủ nhân của Thiết Cước Thần Tốc,</i></b></font>
+
+172
+00:12:53,690 --> 00:12:55,350
+<font face="Segoe UI" size="66"><b><i>Woobie!</i></b></font>
+
+173
+00:12:55,810 --> 00:12:57,480
+<font face="Segoe UI" size="66"><b>Nghiền nát hắn đi, Woobie!</b></font>
+
+174
+00:12:57,650 --> 00:12:58,770
+<font face="Segoe UI" size="66"><b>Đánh nhau đi nào!</b></font>
+
+175
+00:13:00,070 --> 00:13:01,440
+<font face="Segoe UI" size="66"><b>Sư phụ định đặt cược vào ai vậy?</b></font>
+
+176
+00:13:03,240 --> 00:13:03,900
+<font face="Segoe UI" size="66"><b>Để xem nào...</b></font>
+
+177
+00:13:04,530 --> 00:13:05,860
+<font face="Segoe UI" size="66"><b>Trong hai gã này,</b></font>
+
+178
+00:13:07,240 --> 00:13:11,200
+<font face="Segoe UI" size="66"><b>tên xăm trổ kia mạnh hơn hẳn đấy.
+Ít nhất là theo phán đoán của ta.</b></font>
+
+179
+00:13:11,410 --> 00:13:13,460
+<font face="Segoe UI" size="66"><b>Vâng, nhưng mà bảo đặt tiền cược vào hắn thì...</b></font>
+
+180
+00:13:13,710 --> 00:13:16,710
+<font face="Segoe UI" size="66"><b>Sao tự nhiên lại bày đặt rụt rè thế hả?</b></font>
+
+181
+00:13:16,920 --> 00:13:19,790
+<font face="Segoe UI" size="66"><b>Đã mất công lặn lội tới tận đây rồi,
+thì phải tận hưởng cho tới bến chứ!</b></font>
+
+182
+00:13:19,960 --> 00:13:20,750
+<font face="Segoe UI" size="66"><b>Tôi cũng muốn lắm,</b></font>
+
+183
+00:13:21,210 --> 00:13:23,550
+<font face="Segoe UI" size="66"><b>nhưng khổ nỗi tôi làm gì có tiền đâu.</b></font>
+
+184
+00:13:23,720 --> 00:13:26,760
+<font face="Segoe UI" size="66"><b>Mà lỡ thua sạch thì tôi chỉ còn nước
+húp cháo trắng cầm hơi mất.</b></font>
+
+185
+00:13:28,220 --> 00:13:31,140
+<font face="Segoe UI" size="66"><b>Ý ông là
+ông không tin tưởng mắt nhìn người của ta à?</b></font>
+
+186
+00:13:31,770 --> 00:13:33,140
+<font face="Segoe UI" size="66"><b>Tôi đặt tất tay vào Draijan!</b></font>
+
+187
+00:13:33,310 --> 00:13:34,850
+<font face="Segoe UI" size="66"><b>Đã ghi nhận kèo cược!</b></font>
+
+188
+00:13:35,060 --> 00:13:38,020
+<font face="Segoe UI" size="66"><b><i>Và giờ, trận đấu xin được phép bắt đầu!</i></b></font>
+
+189
+00:14:07,180 --> 00:14:10,390
+<font face="Segoe UI" size="66"><b>Sư phụ Nia ơi,
+mồ hôi tôi vã ra như tắm rồi này...</b></font>
+
+190
+00:14:10,800 --> 00:14:12,760
+<font face="Segoe UI" size="66"><b>Thôi đi, ưỡn ngực lên xem nào.</b></font>
+
+191
+00:14:13,060 --> 00:14:14,430
+<font face="Segoe UI" size="66"><b>Thì biết thế, nhưng mà...</b></font>
+
+192
+00:14:15,270 --> 00:14:17,770
+<font face="Segoe UI" size="66"><b>Cả đời tôi chưa từng cầm trên tay
+số tiền khổng lồ thế này bao giờ!</b></font>
+
+193
+00:14:17,940 --> 00:14:19,560
+<font face="Segoe UI" size="66"><b>Chắc chúng ta không thể chơi tiếp mãi đâu...</b></font>
+
+194
+00:14:20,230 --> 00:14:23,820
+<font face="Segoe UI" size="66"><b>Thế à? Ta còn định bảo
+số tiền đó sẽ là tiền công cho ông đấy chứ!</b></font>
+
+195
+00:14:24,360 --> 00:14:27,990
+<font face="Segoe UI" size="66"><b>Quý khách thực sự muốn dừng lại
+trước trận tâm điểm tối nay sao?</b></font>
+
+196
+00:14:28,150 --> 00:14:30,280
+<font face="Segoe UI" size="66"><b>Vâng, tôi không cược nữa đâu, cảm ơn.</b></font>
+
+197
+00:14:35,950 --> 00:14:37,000
+<font face="Segoe UI" size="66"><b>Ôi trời ơi!</b></font>
+
+198
+00:14:37,500 --> 00:14:41,130
+<font face="Segoe UI" size="66"><b>Chị cầm lấy chỗ này nhé,
+trả tiền rượu và nước ép trái cây lúc nãy đấy.</b></font>
+
+199
+00:14:41,290 --> 00:14:43,420
+<font face="Segoe UI" size="66"><b>Tôi xin nhận với cả tấm lòng, cảm ơn nhiều nhé!</b></font>
+
+200
+00:14:45,710 --> 00:14:47,170
+<font face="Segoe UI" size="66"><b>Sao sư phụ lại rộng rãi thế ạ?</b></font>
+
+201
+00:14:47,340 --> 00:14:51,970
+<font face="Segoe UI" size="66"><b>Khi thắng đậm như vậy thì phải
+biết chia lộc một chút để đỡ rước phiền phức.</b></font>
+
+202
+00:14:52,390 --> 00:14:55,770
+<font face="Segoe UI" size="66"><b>Nhất là đối với những tay mơ mới vào nghề
+như hai ta.</b></font>
+
+203
+00:14:56,930 --> 00:14:59,390
+<font face="Segoe UI" size="66"><b>Với lại, cô ấy cũng khá dễ mến đấy chứ.</b></font>
+
+204
+00:15:00,310 --> 00:15:01,480
+<font face="Segoe UI" size="66"><b>Tôi hiểu rồi!</b></font>
+
+205
+00:15:02,110 --> 00:15:05,150
+<font face="Segoe UI" size="66"><b>Và giờ thì,
+hãy tập trung theo dõi trận đấu tiếp theo nào.</b></font>
+
+206
+00:15:05,400 --> 00:15:05,980
+<font face="Segoe UI" size="66"><b>Rõ!</b></font>
+
+207
+00:15:06,570 --> 00:15:09,700
+<font face="Segoe UI" size="66"><b><i>Sức nóng tại đấu trường
+bắt đầu tăng vọt rồi đây!</i></b></font>
+
+208
+00:15:09,860 --> 00:15:11,780
+<font face="Segoe UI" size="66"><b><i>Và sau đây là trận đấu tiếp theo!</i></b></font>
+
+209
+00:15:15,700 --> 00:15:16,910
+<font face="Segoe UI" size="66"><b>Là con gái kìa!</b></font>
+
+210
+00:15:17,080 --> 00:15:18,910
+<font face="Segoe UI" size="66"><b>Lột đồ ra đê!</b></font>
+
+211
+00:15:25,630 --> 00:15:26,590
+<font face="Segoe UI" size="66"><b>Cô gái kia...</b></font>
+
+212
+00:15:26,960 --> 00:15:31,720
+<font face="Segoe UI" size="66"><b><i>Xin giới thiệu một tân binh vừa gia nhập!
+Nữ chiến binh bí ẩn Miss Servant!</i></b></font>
+
+213
+00:15:31,890 --> 00:15:35,310
+<font face="Segoe UI" size="66"><b><i>Liệu cô ấy có sống sót nổi
+trong đấu trường tàn khốc này hay không?!</i></b></font>
+
+214
+00:15:35,970 --> 00:15:38,600
+<font face="Segoe UI" size="66"><b><i>Hào quang quanh cô gái này
+tràn ngập </i>Khí<i>!</i></b></font>
+
+215
+00:15:39,140 --> 00:15:41,900
+<font face="Segoe UI" size="66"><b><i>Xem chừng cô ta mới chỉ học được cách
+điều khiển gần đây thôi, nhưng mà...</i></b></font>
+
+216
+00:15:42,520 --> 00:15:44,150
+<font face="Segoe UI" size="66"><b>Cũng đầy triển vọng đấy chứ!</b></font>
+
+217
+00:15:45,400 --> 00:15:46,520
+<font face="Segoe UI" size="66"><b>Ờm, Sư phụ Nia ơi?</b></font>
+
+218
+00:15:46,690 --> 00:15:48,650
+<font face="Segoe UI" size="66"><b>Mong sao đối thủ của cô ấy thật mạnh vào!</b></font>
+
+219
+00:15:48,820 --> 00:15:49,690
+<font face="Segoe UI" size="66"><b><i>Và đứng ở phía đối diện,</i></b></font>
+
+220
+00:15:50,320 --> 00:15:53,490
+<font face="Segoe UI" size="66"><b><i>Nữ Phù Thủy Bóng Đêm, Scarlet!</i></b></font>
+
+221
+00:15:53,660 --> 00:15:57,540
+<font face="Segoe UI" size="66"><b><i>Ngọn roi của cô ta lại một lần nữa
+sẵn sàng tưới đẫm máu tươi lên sàn đấu!</i></b></font>
+
+222
+00:15:57,700 --> 00:15:59,160
+<font face="Segoe UI" size="66"><b>Lại đây quất anh đi em ơi!</b></font>
+
+223
+00:15:59,790 --> 00:16:03,880
+<font face="Segoe UI" size="66"><b><i>Lại thêm một vai phụ nữa rồi. Chắc chắn
+chẳng trụ nổi quá vài hơi đâu mà.</i></b></font>
+
+224
+00:16:04,630 --> 00:16:06,340
+<font face="Segoe UI" size="66"><b>Cô gái đeo mặt nạ sẽ thắng.</b></font>
+
+225
+00:16:06,500 --> 00:16:09,880
+<font face="Segoe UI" size="66"><b>Sư phụ Nia...
+Sư phụ nói thật đấy chứ ạ?</b></font>
+
+226
+00:16:10,470 --> 00:16:13,430
+<font face="Segoe UI" size="66"><b>Sao thế? Ông nhìn kỹ hai người họ đi!</b></font>
+
+227
+00:16:13,590 --> 00:16:15,220
+<font face="Segoe UI" size="66"><b>Trận này sẽ kết thúc chỉ trong nháy mắt thôi.</b></font>
+
+228
+00:16:15,720 --> 00:16:18,100
+<font face="Segoe UI" size="66"><b>Không, ý tôi là...</b></font>
+
+229
+00:16:18,850 --> 00:16:23,140
+<font face="Segoe UI" size="66"><b>Có lẽ do tôi nhìn nhầm thôi,
+Sư phụ Nia à, nhưng mà...</b></font>
+
+230
+00:16:23,560 --> 00:16:25,150
+<font face="Segoe UI" size="66"><b>Có gì thì nói toạc ra đi!</b></font>
+
+231
+00:16:25,310 --> 00:16:27,440
+<font face="Segoe UI" size="66"><b>Phải giải thích sao cho sư phụ hiểu nhỉ...</b></font>
+
+232
+00:16:27,610 --> 00:16:28,230
+<font face="Segoe UI" size="66"><b><i>Nào,</i></b></font>
+
+233
+00:16:28,480 --> 00:16:30,490
+<font face="Segoe UI" size="66"><b><i>trận đấu bắt đầu!</i></b></font>
+
+234
+00:16:32,070 --> 00:16:34,610
+<font face="Segoe UI" size="66"><b>Chẳng lẽ... đó chính là cô hầu gái nhà ngài sao?</b></font>
+
+235
+00:16:39,950 --> 00:16:44,540
+<font face="Segoe UI" size="66"><b><i>Scarlet bị thổi bay thẳng vào vách tường
+chỉ bằng đúng một cú đấm!</i></b></font>
+
+236
+00:16:45,130 --> 00:16:46,750
+<font face="Segoe UI" size="66"><b><i>Chuyện không thể tin nổi!</i></b></font>
+
+237
+00:16:47,130 --> 00:16:48,090
+<font face="Segoe UI" size="66"><b><i>Thật là...</i></b></font>
+
+238
+00:16:48,800 --> 00:16:51,760
+<font face="Segoe UI" size="66"><b><i>Phần thắng thuộc về Miss Servant!</i></b></font>
+
+239
+00:16:54,470 --> 00:16:55,550
+<font face="Segoe UI" size="66"><b>Đích thị là Rinokis rồi!</b></font>
+
+240
+00:17:07,940 --> 00:17:12,530
+<font face="Segoe UI" size="66"><b>Thật không thể tin nổi em ấy dám tới đây
+dù ta đã cấm tiệt rồi cơ mà!</b></font>
+
+241
+00:17:14,200 --> 00:17:16,700
+<font face="Segoe UI" size="66"><b>Ngươi cũng khá đấy chứ, lính mới!</b></font>
+
+242
+00:17:17,570 --> 00:17:19,030
+<font face="Segoe UI" size="66"><b>Này, tai ngươi điếc khi người ta...</b></font>
+
+243
+00:17:19,530 --> 00:17:21,540
+<font face="Segoe UI" size="66"><b>Đừng có mở miệng nói chuyện với ta.</b></font>
+
+244
+00:17:36,300 --> 00:17:38,680
+<font face="Segoe UI" size="66"><b>Rốt cuộc em ấy tới đây làm cái gì vậy?</b></font>
+
+245
+00:17:38,850 --> 00:17:41,010
+<font face="Segoe UI" size="66"><b>Tôi chỉ nghĩ ra được một lý do duy nhất thôi...</b></font>
+
+246
+00:17:44,100 --> 00:17:47,060
+<font face="Segoe UI" size="66"><b>Em ấy muốn thử sức với kẻ
+mạnh hơn cả ta sao?</b></font>
+
+247
+00:17:47,310 --> 00:17:47,980
+<font face="Segoe UI" size="66"><b>Không phải đâu ạ.</b></font>
+
+248
+00:17:48,650 --> 00:17:50,320
+<font face="Segoe UI" size="66"><b>Cô ấy muốn bảo vệ ngài đấy.</b></font>
+
+249
+00:17:51,650 --> 00:17:53,440
+<font face="Segoe UI" size="66"><b>Trong khi ta còn mạnh hơn cả em ấy ư?</b></font>
+
+250
+00:17:53,610 --> 00:17:55,820
+<font face="Segoe UI" size="66"><b>Vấn đề không nằm ở chỗ đó...</b></font>
+
+251
+00:17:57,820 --> 00:17:59,070
+<font face="Segoe UI" size="66"><b><i>Ra vậy...</i></b></font>
+
+252
+00:18:00,330 --> 00:18:03,790
+<font face="Segoe UI" size="66"><b><i>Rinokis từ trước tới nay luôn một lòng
+tận tụy phụng sự gia tộc ta.</i></b></font>
+
+253
+00:18:04,330 --> 00:18:08,960
+<font face="Segoe UI" size="66"><b><i>Vậy ra em ấy lén trà trộn vào hàng ngũ
+đấu sĩ chỉ để bảo vệ ta sao?</i></b></font>
+
+254
+00:18:10,590 --> 00:18:14,300
+<font face="Segoe UI" size="66"><b>Không ngờ em ấy lại
+nhiệt huyết tới mức đó luôn đấy!</b></font>
+
+255
+00:18:14,460 --> 00:18:16,340
+<font face="Segoe UI" size="66"><b>Nhưng nếu cứ đà này, cô ấy rất có nguy cơ</b></font>
+
+256
+00:18:16,880 --> 00:18:18,970
+<font face="Segoe UI" size="66"><b>phải đối đầu trực diện với tên Kiếm Quỷ mất.</b></font>
+
+257
+00:18:23,640 --> 00:18:25,730
+<font face="Segoe UI" size="66"><b><i>Nếu thật thế thì ta ghen tị phát điên mất!</i></b></font>
+
+258
+00:18:26,430 --> 00:18:30,310
+<font face="Segoe UI" size="66"><b><i>Và cuối cùng nhân vật mà tất cả quý vị
+đều mong ngóng cũng đã xuất hiện!</i></b></font>
+
+259
+00:18:30,480 --> 00:18:32,610
+<font face="Segoe UI" size="66"><b><i>Kẻ không một hầm ngục nào cản nổi bước chân,</i></b></font>
+
+260
+00:18:33,230 --> 00:18:36,190
+<font face="Segoe UI" size="66"><b><i>bậc thầy đủ sức một mình đánh gục cả Golem,</i></b></font>
+
+261
+00:18:36,360 --> 00:18:38,820
+<font face="Segoe UI" size="66"><b><i>nhà mạo hiểm giả mang biệt danh
+Kiếm Quỷ,</i></b></font>
+
+262
+00:18:39,030 --> 00:18:42,330
+<font face="Segoe UI" size="66"><b><i>Asuma Hinoki!</i></b></font>
+
+263
+00:18:42,490 --> 00:18:44,620
+<font face="Segoe UI" size="66"><b>- Hóa ra là hắn à?
+- Tiến lên, Hinoki!</b></font>
+
+264
+00:18:47,250 --> 00:18:49,420
+<font face="Segoe UI" size="66"><b>Chà, ta ghét cay ghét đắng hạng chiến binh kiểu này.</b></font>
+
+265
+00:18:51,290 --> 00:18:52,960
+<font face="Segoe UI" size="66"><b>Hắn ta mang theo ma kiếm bên mình.</b></font>
+
+266
+00:18:53,130 --> 00:18:54,000
+<font face="Segoe UI" size="66"><b>Mang theo cái gì cơ ạ?</b></font>
+
+267
+00:18:54,380 --> 00:18:58,170
+<font face="Segoe UI" size="66"><b>Những thanh kiếm bị nguyền rủa, chuyên đoạt lấy
+ý chí của người sử dụng</b></font>
+
+268
+00:18:59,220 --> 00:19:03,640
+<font face="Segoe UI" size="66"><b>và có thể khiến chủ nhân đánh mất hoàn toàn
+mọi lý trí lẫn chuẩn mực đạo đức.</b></font>
+
+269
+00:19:03,810 --> 00:19:06,020
+<font face="Segoe UI" size="66"><b>Ý sư phụ là hắn có thể...</b></font>
+
+270
+00:19:06,180 --> 00:19:07,020
+<font face="Segoe UI" size="66"><b>Sát hại người khác</b></font>
+
+271
+00:19:07,680 --> 00:19:09,770
+<font face="Segoe UI" size="66"><b>mà không hề chớp mắt dù chỉ một giây.</b></font>
+
+272
+00:19:10,730 --> 00:19:11,440
+<font face="Segoe UI" size="66"><b><i>Ta kiên quyết từ chối</i></b></font>
+
+273
+00:19:11,810 --> 00:19:16,320
+<font face="Segoe UI" size="66"><b><i>hạ thấp võ đạo xuống ngang hàng
+với thứ bạo lực giết chóc tầm thường.</i></b></font>
+
+274
+00:19:17,740 --> 00:19:20,660
+<font face="Segoe UI" size="66"><b><i>Lý trí, sự kiểm soát, niềm tin, hoài bão.</i></b></font>
+
+275
+00:19:20,990 --> 00:19:24,700
+<font face="Segoe UI" size="66"><b><i>Một môn võ học đích thực bắt buộc
+phải hội tụ đủ tất cả những yếu tố ấy.</i></b></font>
+
+276
+00:19:26,120 --> 00:19:29,040
+<font face="Segoe UI" size="66"><b><i>Nó tuyệt đối không thể chỉ đơn thuần
+là bạo lực vô nghĩa được.</i></b></font>
+
+277
+00:19:29,910 --> 00:19:33,250
+<font face="Segoe UI" size="66"><b><i>Nhưng dẫu sao những thanh kiếm ấy vẫn thuộc
+hàng bảo vật cấp huyền thoại.</i></b></font>
+
+278
+00:19:33,500 --> 00:19:36,380
+<font face="Segoe UI" size="66"><b><i>Ta cũng hiểu được phần nào ham muốn
+được sở hữu một thanh như thế.</i></b></font>
+
+279
+00:19:36,920 --> 00:19:41,340
+<font face="Segoe UI" size="66"><b><i>Nếu gã Kiếm Quỷ kia có đủ ý chí
+để chế ngự cặp ma kiếm của mình thì...</i></b></font>
+
+280
+00:19:43,930 --> 00:19:48,680
+<font face="Segoe UI" size="66"><b><i>Và thế là, Kiếm Quỷ đã chính thức
+giành chiến thắng thứ sáu liên tiếp!</i></b></font>
+
+281
+00:19:52,020 --> 00:19:53,190
+<font face="Segoe UI" size="66"><b>Tuyệt đỉnh!</b></font>
+
+282
+00:19:53,360 --> 00:19:54,690
+<font face="Segoe UI" size="66"><b>Cho xem tiếp nữa đi!</b></font>
+
+283
+00:19:56,360 --> 00:19:57,690
+<font face="Segoe UI" size="66"><b>Nhanh kinh khủng khiếp!</b></font>
+
+284
+00:19:58,110 --> 00:19:59,240
+<font face="Segoe UI" size="66"><b>Thảm hại quá đi!</b></font>
+
+285
+00:19:59,400 --> 00:20:01,700
+<font face="Segoe UI" size="66"><b>Trả tiền lại cho bố mày đây!</b></font>
+
+286
+00:20:02,160 --> 00:20:04,120
+<font face="Segoe UI" size="66"><b><i>Đối thủ của hắn quá yếu ớt.</i></b></font>
+
+287
+00:20:04,530 --> 00:20:07,040
+<font face="Segoe UI" size="66"><b><i>Đánh kiểu này thì sao ta nhìn thấu được</i></b></font>
+
+288
+00:20:07,200 --> 00:20:09,950
+<font face="Segoe UI" size="66"><b><i>bản lĩnh thực sự của
+gã Kiếm Quỷ này đây!</i></b></font>
+
+289
+00:20:12,790 --> 00:20:15,340
+<font face="Segoe UI" size="66"><b><i>Không, ta đâu chỉ muốn đứng nhìn,</i></b></font>
+
+290
+00:20:15,500 --> 00:20:19,420
+<font face="Segoe UI" size="66"><b><i>ta muốn tự mình dùng đôi tay này
+kiểm chứng sức mạnh của hắn lẫn cặp ma kiếm kia!</i></b></font>
+
+291
+00:20:19,840 --> 00:20:22,590
+<font face="Segoe UI" size="66"><b>- Đánh tiếp đê!
+- Tổ chức thêm trận nữa đi!</b></font>
+
+292
+00:20:22,970 --> 00:20:24,300
+<font face="Segoe UI" size="66"><b>Im lặng!</b></font>
+
+293
+00:20:24,640 --> 00:20:25,850
+<font face="Segoe UI" size="66"><b>Câm miệng hết lại!</b></font>
+
+294
+00:20:26,850 --> 00:20:30,310
+<font face="Segoe UI" size="66"><b>Ta muốn giao đấu với Miss Servant!</b></font>
+
+295
+00:20:31,560 --> 00:20:32,390
+<font face="Segoe UI" size="66"><b><i>Rinokis!</i></b></font>
+
+296
+00:20:42,360 --> 00:20:45,620
+<font face="Segoe UI" size="66"><b>Miss Servant!
+Miss Servant! Miss Servant!</b></font>
+
+297
+00:20:46,030 --> 00:20:49,540
+<font face="Segoe UI" size="66"><b><i>Ước gì khán giả cũng hò reo
+tên ta như vậy nhỉ...</i></b></font>
+
+298
+00:20:50,330 --> 00:20:54,040
+<font face="Segoe UI" size="66"><b><i>Xin mời Miss Servant bước ra sàn đấu!</i></b></font>
+
+299
+00:20:57,000 --> 00:20:59,500
+<font face="Segoe UI" size="66"><b>Liệu cô ấy có vượt qua nổi không ạ?</b></font>
+
+300
+00:21:01,050 --> 00:21:04,800
+<font face="Segoe UI" size="66"><b><i>Xét theo trình độ của em ấy,
+ta thấy em ấy hoàn toàn có thể thắng, nhưng...</i></b></font>
+
+301
+00:21:05,300 --> 00:21:06,260
+<font face="Segoe UI" size="66"><b><i>Hãy chờ xem sao!</i></b></font>
+
+302
+00:21:09,680 --> 00:21:11,810
+<font face="Segoe UI" size="66"><b>Số cô đúng là xui tận mạng rồi.</b></font>
+
+303
+00:21:22,240 --> 00:21:24,400
+<font face="Segoe UI" size="66"><b><i>Nào, trận đấu...</i></b></font>
+
+304
+00:21:25,160 --> 00:21:25,910
+<font face="Segoe UI" size="66"><b><i>xin bắt đầu!</i></b></font>
+
+305
+00:21:55,560 --> 00:21:57,940
+<font face="Segoe UI" size="66"><b>- Xông lên!
+- Khử ả ta đi!</b></font>
+
+306
+00:22:08,030 --> 00:22:08,910
+<font face="Segoe UI" size="66"><b>Khoan đã.</b></font>
+
+307
+00:22:16,460 --> 00:22:17,920
+<font face="Segoe UI" size="66"><b>Khá lắm, ta khen ngươi đấy!</b></font>
+
+308
+00:22:29,260 --> 00:22:32,600
+<font face="Segoe UI" size="66"><b>Nia Liston: Honoka Inoue
+Neal Liston: Tomoyo Takayanagi</b></font>
+
+309
+00:22:32,890 --> 00:22:36,230
+<font face="Segoe UI" size="66"><b>{\an3}Rinokis Funk: Fuuka Izumi</b></font>
+
+310
+00:22:36,520 --> 00:22:39,850
+<font face="Segoe UI" size="66"><b>{\an3}Hildetaura Altoire: Rina Honnizumi
+Reliared Silver: Rina Hidaka</b></font>
+
+311
+00:22:40,150 --> 00:22:43,360
+<font face="Segoe UI" size="66"><b>Anzel: Taku Yashiro
+Fressa: Yoko Hikasa</b></font>
+
+312
+00:23:32,660 --> 00:23:35,580
+<font face="Segoe UI" size="66"><b>Phụ đề Việt ngữ: Amtia(NOFACE)</b></font>
+
+313
+00:23:47,210 --> 00:23:49,800
+<font face="Segoe UI" size="66"><b>{\an8}Dịch thuật & Timer: Amtia(NOFACE)
+Biên tập & QC: Amtia(NOFACE)</b></font>
+
+314
+00:23:51,010 --> 00:23:53,680
+<font face="Segoe UI" size="66"><b><i>Tập tiếp theo:
+"Những thanh ma kiếm của Kiếm Quỷ"</i></b></font>
+
+315
+00:23:51,220 --> 00:23:54,800
+<font face="Segoe UI" size="66"><b>{\an8}TẬP TIẾP THEO: "NHỮNG THANH
+MA KIẾM CỦA KIẾM QUỶ"</b></font>
+
