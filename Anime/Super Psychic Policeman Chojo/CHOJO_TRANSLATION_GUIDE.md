@@ -39,18 +39,28 @@
 5. **Speed King (Vua Tốc Độ)**:
    - *Vai trò*: Tay đua đường phố / quái xế bị đồn Chinjuku sờ gáy.
    - *Xưng hô*: Ta / Bổn tọa - Bọn mày.
+6. **Maruyama (Maru) & Sumikawa**:
+   - *Vai trò*: Bạn đồng khóa Học viện Cảnh sát với Nao (gọi Nao là Pon). Maru rất ngưỡng mộ Chin Red (mà không biết đó là Chojo).
+   - *Xưng hô*: Với Nao/bạn bè: `Tớ / Mình - Cậu`; Maru gọi Chin Red: `Em - Anh / Ngài Chin Red`.
+7. **Bác Ho / Hosaka (保坂)** & **Lily**:
+   - *Vai trò*: Bác Hosaka (gọi thân mật là Bác Ho) là nhân viên văn phòng bạn nhậu của Chojo (biến thân thành `Chin Pink`, cao thủ Túy Quyền không cồn). Lily là cô bé hàng xóm dễ thương (`Cháu - Chú/Anh Chin Red`).
+   - *Xưng hô*: Bác Ho dùng `Tôi / Bác - Chú em / Cháu`; Nao gọi `Bác Ho`; Chojo gọi `Bác Ho` / `Chin Pink`.
+8. **Cảnh thị Inukai Yuki & Keinain**:
+   - *Vai trò*: Sĩ quan tinh nhuệ đội điều tra Chinjuku, cựu cộng sự si mê Chojo.
 
 ---
 
 ## 3. BẢNG MA TRẬN XƯNG HÔ CHÉO
 | Nhân vật phát ngôn | Đối tượng tiếp nhận | Xưng (Người nói) | Gọi (Người nghe) | Sắc thái văn phong |
 | :--- | :--- | :--- | :--- | :--- |
-| **Chojo** | Nao Ippongi | Tôi / Anh | Cô / Ippongi | Cợt nhả, lười nhác, bề trên trêu chọc |
+| **Chojo** | Nao Ippongi | Tôi / Anh | Cô / Ippongi / Bé Pon | Cợt nhả, lười nhác, bề trên trêu chọc |
 | **Nao Ippongi** | Chojo | Tôi | Tiền bối / Tiền bối Chojo | Nghiêm túc, bất lực, gắt gỏng khi tsukkomi |
 | **Chojo** | Copbot | Tôi / Anh | Chú mày / Cậu / Copbot | Coi thường máy móc, trêu chọc |
 | **Copbot** | Chojo | Tôi (Ta khi hắc hóa) | Tiền bối Chojo (Lũ sâu bọ) | Máy móc quy củ ➔ Cuồng loạn hủy diệt |
 | **Nao Ippongi** | Copbot | Tôi | Copbot | Thân thiện, bảo ban, ngây thơ |
 | **Chief** | Chojo / Nao | Ta / Tôi | Cậu / Cô / Chojo / Ippongi | Sếp lớn lo lắng, đau đầu vì cấp dưới |
+| **Nao / Maru / Sumikawa** | Đồng khóa học viện | Tớ / Mình | Cậu / Pon / Maru | Thân thiết cùng khóa trường cảnh sát |
+| **Hosaka (Bác Ho)** | Chojo / Nao | Bác / Tôi | Chú em / Cháu / Chojo | Lão trung niên bình dân, bợm nhậu hài hước |
 
 ---
 
@@ -59,6 +69,7 @@
 - **Psychic (Siêu năng lực / Tâm linh)**: Đọc tâm (Telepathy), Viễn di (Telekinesis), Thấu thị (Clairvoyance).
 - **Cop-Bot (ローボくん)**: Cảnh sát Robot Copbot.
 - **Speed King**: Vua Tốc Độ.
+- **Chinjuku Force Chinranger**: Chiến đội Chinjuku Chinranger (`Chin Red` Chojo, `Chin Blue` Nao, `Chin Pink` Bác Ho, `Chin-Changer`, `Chin Union`, `Ulchinmate Copbot G`).
 
 ---
 

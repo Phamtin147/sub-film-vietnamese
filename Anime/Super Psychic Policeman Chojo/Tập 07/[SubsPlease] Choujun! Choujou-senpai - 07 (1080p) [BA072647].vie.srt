@@ -1,0 +1,2090 @@
+﻿1
+00:00:00,830 --> 00:00:04,260
+<font face="Segoe UI" size="26"><i>Anh hùng. Những chiến binh vì chính nghĩa.</i></font>
+
+2
+00:00:02,420 --> 00:00:04,260
+<font face="Segoe UI" size="26">{\an8}Ta đã tới đây!</font>
+
+3
+00:00:04,260 --> 00:00:08,390
+<font face="Segoe UI" size="26"><i>Những siêu nhân bảo vệ người dân
+bằng sức mạnh vượt xa lẽ thường.</i></font>
+
+4
+00:00:09,520 --> 00:00:11,490
+<font face="Segoe UI" size="26"><i>Thế nhưng trên thế giới rộng lớn này,</i></font>
+
+5
+00:00:10,510 --> 00:00:12,280
+<font face="Segoe UI" size="26">{\an8}Hạ Đẳng Quyền!</font>
+
+6
+00:00:11,490 --> 00:00:15,740
+<font face="Segoe UI" size="26"><i>có những kẻ chẳng bảo vệ New York
+cũng chẳng đánh đuổi quái vật ngoài hành tinh.</i></font>
+
+7
+00:00:15,740 --> 00:00:20,120
+<font face="Segoe UI" size="26">{\an8}TRỤ SỞ CẢNH SÁT CHINJUKU</font>
+
+8
+00:00:16,140 --> 00:00:18,880
+<font face="Segoe UI" size="26"><i>Một anh hùng như thế đang hoạt động
+từ một bốt cảnh sát xó xỉnh.</i></font>
+
+9
+00:00:18,880 --> 00:00:20,120
+<font face="Segoe UI" size="26"><i>Tên của anh ta là...</i></font>
+
+10
+00:00:20,120 --> 00:00:23,750
+<font face="Segoe UI" size="26">{\an8}PHÒNG TRƯỞNG ĐỒN (BÊN TRONG)</font>
+
+11
+00:00:20,910 --> 00:00:23,750
+<font face="Segoe UI" size="26">Tôi nói thẳng luôn nhé, Chojo.</font>
+
+12
+00:00:24,180 --> 00:00:25,880
+<font face="Segoe UI" size="26">Chẳng ai ưa cậu cả.</font>
+
+13
+00:00:28,150 --> 00:00:29,340
+<font face="Segoe UI" size="26">Sếp muốn gây sự à?</font>
+
+14
+00:00:30,630 --> 00:00:32,530
+<font face="Segoe UI" size="26">Không, tôi đang trình bày thực tế thôi.</font>
+
+15
+00:00:32,530 --> 00:00:34,890
+<font face="Segoe UI" size="26">Cậu có thấy dư luận đánh giá cậu thế nào không?</font>
+
+16
+00:00:34,890 --> 00:00:37,760
+<font face="Segoe UI" size="26">Vào ngày đẹp trời nhất thì cậu cũng chỉ được
+ưa chuộng ngang một vết thương nhiễm trùng thôi.</font>
+
+17
+00:00:38,160 --> 00:00:41,970
+<font face="Segoe UI" size="26">Đã xác định là cậu đọc được suy nghĩ người khác rồi,
+nên tôi cũng nói toạc ra luôn.</font>
+
+18
+00:00:42,660 --> 00:00:45,400
+<font face="Segoe UI" size="26">Cá nhân tôi cũng chẳng ưa nổi cậu đâu.</font>
+
+19
+00:00:45,400 --> 00:00:48,730
+<font face="Segoe UI" size="26">Cậu mà hy sinh khi làm nhiệm vụ, tôi sẽ coi đó
+là cơ hội kiếm đạo cụ diễn hài cực chất luôn đấy.</font>
+
+20
+00:00:48,980 --> 00:00:52,490
+<font face="Segoe UI" size="26">{\an8}LÀM TỪ HỘP SỌ CỦA CHOJO</font>
+
+21
+00:00:49,190 --> 00:00:50,820
+<font face="Segoe UI" size="26">Cạn ly!</font>
+
+22
+00:00:50,820 --> 00:00:52,490
+<font face="Segoe UI" size="26">Tôn trọng người đã khuất chút đi chứ.</font>
+
+23
+00:00:52,490 --> 00:00:54,620
+<font face="Segoe UI" size="26">Rốt cuộc hôm nay gọi tôi lên đây làm gì thế?</font>
+
+24
+00:00:54,620 --> 00:00:57,490
+<font face="Segoe UI" size="26">Giờ sếp tính lên lớp bắt tôi sống chan hòa hơn
+với đồng nghiệp <i>nữa</i> chắc?</font>
+
+25
+00:00:57,490 --> 00:01:00,620
+<font face="Segoe UI" size="26">Nếu chỉ có nội bộ cảnh sát với nhau thôi
+thì đã đành một nhẽ.</font>
+
+26
+00:01:00,620 --> 00:01:02,630
+<font face="Segoe UI" size="26">Nhưng vấn đề ở đây là hình ảnh trước công chúng.</font>
+
+27
+00:01:03,100 --> 00:01:06,120
+<font face="Segoe UI" size="26">Đơn khiếu nại gửi về mỗi lần cậu
+nhúng tay vào việc gì đó...</font>
+
+28
+00:01:06,120 --> 00:01:08,880
+<font face="Segoe UI" size="26">{\an8}TẨY CHAY CHOJO</font>
+
+29
+00:01:06,500 --> 00:01:08,880
+<font face="Segoe UI" size="26">Tổng đài điện thoại từng sập nguồn mấy bận rồi đấy.</font>
+
+30
+00:01:09,260 --> 00:01:12,880
+<font face="Segoe UI" size="26">Thú thật là cậu càng chăm làm việc bao nhiêu
+thì rắc rối đẻ ra càng nhiều bấy nhiêu.</font>
+
+31
+00:01:13,280 --> 00:01:16,220
+<font face="Segoe UI" size="26">Nếu sếp muốn tôi ngồi yên ngoan ngoãn
+lắp mô hình trong đồn suốt ngày thì...</font>
+
+32
+00:01:16,220 --> 00:01:17,340
+<font face="Segoe UI" size="26">Thôi ngay đi.</font>
+
+33
+00:01:17,340 --> 00:01:23,270
+<font face="Segoe UI" size="26">Tr-Trưởng đồn ơi, tôi sẵn lòng giúp tiền bối
+cải thiện danh tiếng của anh ấy, nên là...</font>
+
+34
+00:01:23,600 --> 00:01:28,520
+<font face="Segoe UI" size="26">Chưa đủ. Quên chuyện cải thiện đi.
+Tôi muốn làm lại từ con số không.</font>
+
+35
+00:01:29,010 --> 00:01:30,400
+<font face="Segoe UI" size="26">Ví dụ như thế này...</font>
+
+36
+00:01:31,140 --> 00:01:32,780
+<font face="Segoe UI" size="26">Một kiểu mũ bảo hiểm kín mặt à?</font>
+
+37
+00:01:32,780 --> 00:01:36,900
+<font face="Segoe UI" size="26">Trong thời gian tới, cậu sẽ tác nghiệp
+với khuôn mặt được che kín hoàn toàn.</font>
+
+38
+00:01:38,580 --> 00:01:43,160
+<font face="Segoe UI" size="26">Tai tiếng tồi tệ của cậu đã đến mức
+cản trở hiệu quả công việc rồi.</font>
+
+39
+00:01:43,510 --> 00:01:46,960
+<font face="Segoe UI" size="26">Vậy nên thân phận viên cảnh sát tâm linh
+bị ghét cay ghét đắng của cậu sẽ được giấu kín.</font>
+
+40
+00:01:46,960 --> 00:01:50,040
+<font face="Segoe UI" size="26">Đây chính là màn tái sinh của cậu đấy, Chojo.</font>
+
+41
+00:01:50,360 --> 00:01:54,800
+<font face="Segoe UI" size="26">Cậu sẽ bảo vệ Chinjuku
+dưới danh nghĩa một cảnh sát đeo mặt nạ đúng nghĩa.</font>
+
+42
+00:01:55,650 --> 00:01:57,680
+<font face="Segoe UI" size="26">Cảnh sát đeo mặt nạ á?</font>
+
+43
+00:01:58,060 --> 00:02:02,080
+<font face="Segoe UI" size="26">Nao, quyết định này là tuyệt mật,
+kể cả trong nội bộ ngành cảnh sát.</font>
+
+44
+00:02:02,080 --> 00:02:03,810
+<font face="Segoe UI" size="26">Vì vậy hãy giữ kín chuyện này nhé.</font>
+
+45
+00:02:06,600 --> 00:02:08,890
+<font face="Segoe UI" size="26">Trưởng đồn ra yêu cầu nghe điên rồ thật đấy.</font>
+
+46
+00:02:09,210 --> 00:02:13,230
+<font face="Segoe UI" size="26">Ông ấy bắt tiền bối đeo mặt nạ đi làm
+chỉ vì người dân ghét tiền bối thôi sao?</font>
+
+47
+00:02:13,230 --> 00:02:18,530
+<font face="Segoe UI" size="26">Tôi hiểu ở Tây Chinjuku chẳng thể để anh lười biếng được.
+Nhưng vụ che giấu danh tính này—</font>
+
+48
+00:02:18,530 --> 00:02:21,820
+<font face="Segoe UI" size="26">Xin lỗi nhé, Ippongi, cô để tôi
+ngồi một mình yên tĩnh chút được không?</font>
+
+49
+00:02:23,200 --> 00:02:24,430
+<font face="Segoe UI" size="26">Tiền bối Chojo?</font>
+
+50
+00:02:25,160 --> 00:02:29,290
+<font face="Segoe UI" size="26">{\an8}NGÀY HÔM SAU</font>
+
+51
+00:02:26,310 --> 00:02:29,290
+<font face="Segoe UI" size="26">Ngay cả với một người mặt dày như anh ấy,
+chuyện đó hẳn cũng là cú sốc lớn.</font>
+
+52
+00:02:29,640 --> 00:02:32,480
+<font face="Segoe UI" size="26">Bị sếp chỉ thẳng mặt nói rằng bản thân
+chẳng được ai ưa nổi cơ mà.</font>
+
+53
+00:02:32,480 --> 00:02:34,170
+<font face="Segoe UI" size="26">Cậu nghĩ vậy sao?</font>
+
+54
+00:02:34,720 --> 00:02:39,480
+<font face="Segoe UI" size="26">Việc giữ bí mật ý tưởng đeo mặt nạ ngay cả trong nội bộ
+cũng khiến tôi thấy khá kỳ quặc.</font>
+
+55
+00:02:39,480 --> 00:02:44,310
+<font face="Segoe UI" size="26">Tôi linh cảm đây chỉ là cái cớ để sau này
+trút hết mọi rắc rối lên đầu anh ấy thôi.</font>
+
+56
+00:02:44,690 --> 00:02:47,520
+<font face="Segoe UI" size="26">Cảnh sát đeo mặt nạ á?
+Tôi chưa nghe thấy bao giờ luôn.</font>
+
+57
+00:02:47,310 --> 00:02:49,310
+<font face="Segoe UI" size="26">{\an8}KẺ SIÊU NĂNG LỰC TẾ THẦN</font>
+
+58
+00:02:47,520 --> 00:02:49,310
+<font face="Segoe UI" size="26"><i>Kẻ siêu năng lực tế thần.</i></font>
+
+59
+00:02:49,750 --> 00:02:53,740
+<font face="Segoe UI" size="26">Trời ơi. Bình thường tiền bối đã dễ tụt mood rồi,
+giờ chắc đang suy sụp thê thảm nhất từ trước tới nay mất.</font>
+
+60
+00:02:53,740 --> 00:02:55,890
+<font face="Segoe UI" size="26">Tốt nhất là lát tiền bối tới mình phải
+động viên tinh thần anh ấy mới được.</font>
+
+61
+00:02:55,890 --> 00:02:57,440
+<font face="Segoe UI" size="26">Chào buổi sáng.</font>
+
+62
+00:02:57,440 --> 00:03:00,260
+<font face="Segoe UI" size="26">T-Tiền bối Chojo? Anh có sao không vậy?</font>
+
+63
+00:03:00,260 --> 00:03:01,660
+<font face="Segoe UI" size="26">Sao lại hỏi có sao không?</font>
+
+64
+00:03:01,660 --> 00:03:05,220
+<font face="Segoe UI" size="26">Thôi nào. Cái vụ bị Trưởng đồn
+mắng xối xả hôm qua ấy.</font>
+
+65
+00:03:05,220 --> 00:03:06,910
+<font face="Segoe UI" size="26">À, vụ đó hả?</font>
+
+66
+00:03:07,810 --> 00:03:10,020
+<font face="Segoe UI" size="26">Công nhận lúc đầu cũng sốc thật đấy.</font>
+
+67
+00:03:10,570 --> 00:03:12,900
+<font face="Segoe UI" size="26">Thú thật cả đêm qua tôi trằn trọc không chợp mắt nổi.</font>
+
+68
+00:03:14,240 --> 00:03:15,290
+<font face="Segoe UI" size="26">Nhưng mà cô biết đấy...</font>
+
+69
+00:03:15,290 --> 00:03:16,630
+<font face="Segoe UI" size="26">{\an8}CHIẾN ĐỘI CHINJUKU CHINRANGER
+KIỂU DÁNG CẢNH SÁT</font>
+
+70
+00:03:15,590 --> 00:03:19,050
+<font face="Segoe UI" size="26">Sau khi suy đi tính lại, tôi thấy
+đi theo hướng <i>này</i> có vẻ ổn áp nhất.</font>
+
+71
+00:03:16,630 --> 00:03:18,140
+<font face="Segoe UI" size="26">{\an8}TAI NGHE | CÓ THỂ BIẾN THÀNH SÚNG
+NHẢY CAO 25 MÉT! | CHẠY 100 MÉT TRONG 2 GIÂY!</font>
+
+72
+00:03:18,140 --> 00:03:19,050
+<font face="Segoe UI" size="26">{\an8}TÔI CHẮC CHẮN LÀ CHIẾN BINH ĐỎ!
+KÍNH CHẮN DÁN PHIM TỐI MÀU</font>
+
+73
+00:03:19,050 --> 00:03:20,680
+<font face="Segoe UI" size="26">Ủa, hướng "này" là hướng quái nào vậy?!</font>
+
+74
+00:03:20,680 --> 00:03:25,560
+<font face="Segoe UI" size="26">{\an8}CHIẾN ĐỘI CHINJUKU CHINRANGER
+KIỂU DÁNG CẢNH SÁT</font>
+
+75
+00:03:21,310 --> 00:03:24,030
+<font face="Segoe UI" size="26">"Chiến đội Chinjuku Chinranger" à?</font>
+
+76
+00:03:24,030 --> 00:03:25,550
+<font face="Segoe UI" size="26">Cái thứ quái quỷ gì thế này?</font>
+
+77
+00:03:25,970 --> 00:03:28,770
+<font face="Segoe UI" size="26">Này nhé. Cô không nghe Trưởng đồn nói gì hôm qua sao?</font>
+
+78
+00:03:29,120 --> 00:03:31,560
+<font face="Segoe UI" size="26">Điều một: Che giấu danh tính.</font>
+
+79
+00:03:29,810 --> 00:03:31,860
+<font face="Segoe UI" size="26">{\an8}1. CHE GIẤU DANH TÍNH</font>
+
+80
+00:03:31,560 --> 00:03:33,560
+<font face="Segoe UI" size="26">Điều hai: Bảo vệ Chinjuku.</font>
+
+81
+00:03:31,860 --> 00:03:33,570
+<font face="Segoe UI" size="26">{\an8}2. BẢO VỆ CHINJUKU</font>
+
+82
+00:03:33,870 --> 00:03:37,330
+<font face="Segoe UI" size="26">Nói cách khác,
+sếp muốn tôi làm Siêu anh hùng còn gì nữa.</font>
+
+83
+00:03:38,440 --> 00:03:40,800
+<font face="Segoe UI" size="26">Đứa trẻ bên trong tiền bối lại xổng chuồng nữa rồi.</font>
+
+84
+00:03:40,800 --> 00:03:42,450
+<font face="Segoe UI" size="26">Thấy mình thật ngốc khi lo lắng cho anh ta.</font>
+
+85
+00:03:42,450 --> 00:03:45,230
+<font face="Segoe UI" size="26">Hai người cũng tham gia cùng nữa đấy.</font>
+
+86
+00:03:45,230 --> 00:03:46,990
+<font face="Segoe UI" size="26">K-Khoan đã, tiền bối Chojo!</font>
+
+87
+00:05:16,960 --> 00:05:19,960
+<font face="Segoe UI" size="26">{\an8}TẬP 7: TIỀN BỐI TUẦN TRA
+BIẾN HÌNH</font>
+
+88
+00:05:17,330 --> 00:05:19,960
+<font face="Segoe UI" size="26"><i>Tập 7: Tiền bối Tuần tra
+Biến hình.</i></font>
+
+89
+00:05:20,320 --> 00:05:21,670
+<font face="Segoe UI" size="26">Đứng lại!</font>
+
+90
+00:05:21,670 --> 00:05:24,920
+<font face="Segoe UI" size="26">Đứng lại mau, tên cướp giật kia!</font>
+
+91
+00:05:25,970 --> 00:05:28,180
+<font face="Segoe UI" size="26">Thằng ngu nào mới nghe lời đứng lại ấy!</font>
+
+92
+00:05:28,180 --> 00:05:31,730
+<font face="Segoe UI" size="26">Chin Quyền!</font>
+
+93
+00:05:34,990 --> 00:05:36,440
+<font face="Segoe UI" size="26">Anh là ai thế?</font>
+
+94
+00:05:36,880 --> 00:05:40,940
+<font face="Segoe UI" size="26">Chúng ta làm cùng nghề cả mà.
+Tôi nhường cô lập công bắt tên tội phạm này đấy.</font>
+
+95
+00:05:41,280 --> 00:05:43,770
+<font face="Segoe UI" size="26">Cùng nghề á? Khoan đã, vậy anh là cảnh sát sao?</font>
+
+96
+00:05:43,770 --> 00:05:45,690
+<font face="Segoe UI" size="26">Nh-Nhưng rốt cuộc anh <i>là</i> ai thế?</font>
+
+97
+00:05:46,130 --> 00:05:48,660
+<font face="Segoe UI" size="26">Một cảnh sát đeo mặt nạ
+mang sứ mệnh đặc biệt.</font>
+
+98
+00:05:49,060 --> 00:05:51,620
+<font face="Segoe UI" size="26">Cái tên duy nhất tôi có thể tiết lộ là danh xưng này:</font>
+
+99
+00:05:52,000 --> 00:05:55,830
+<font face="Segoe UI" size="26">Chiến đội Chinjuku Chinranger.</font>
+
+100
+00:05:56,590 --> 00:05:58,800
+<font face="Segoe UI" size="26">Ngọn lửa công lý rực cháy. Chin Red.</font>
+
+101
+00:05:58,800 --> 00:06:01,000
+<font face="Segoe UI" size="26"><i>Ngọn lửa công lý!</i></font>
+
+102
+00:06:02,000 --> 00:06:03,390
+<font face="Segoe UI" size="26">"Chin Red" ư?</font>
+
+103
+00:06:04,240 --> 00:06:05,120
+<font face="Segoe UI" size="26">Tạm biệt.</font>
+
+104
+00:06:05,120 --> 00:06:06,340
+<font face="Segoe UI" size="26">Khoan đã!</font>
+
+105
+00:06:06,970 --> 00:06:08,340
+<font face="Segoe UI" size="26">Được rồi, lối này.</font>
+
+106
+00:06:09,290 --> 00:06:11,020
+<font face="Segoe UI" size="26">Chắc không còn ai khác nhìn thấy anh đâu.</font>
+
+107
+00:06:11,600 --> 00:06:13,100
+<font face="Segoe UI" size="26">Giải trừ biến hình.</font>
+
+108
+00:06:15,260 --> 00:06:17,230
+<font face="Segoe UI" size="26">Chạy thử nghiệm trơn tru phết.</font>
+
+109
+00:06:17,230 --> 00:06:20,730
+<font face="Segoe UI" size="26">{\an8}THIẾT BỊ BIẾN HÌNH
+CHIN-CHANGER</font>
+
+110
+00:06:17,230 --> 00:06:20,730
+<font face="Segoe UI" size="26">{\an8}Máy biến hình Chin-Changer do Copbot độ riêng
+hoạt động mượt mà phết nhỉ.</font>
+
+111
+00:06:21,100 --> 00:06:23,640
+<font face="Segoe UI" size="26">Thì tiền bối tự bỏ tiền túi ra đặt hàng mà.</font>
+
+112
+00:06:23,640 --> 00:06:26,790
+<font face="Segoe UI" size="26">Không thể tin được tiền bối lại vung tiền vào
+một thứ nhảm nhí như thế này.</font>
+
+113
+00:06:26,790 --> 00:06:29,240
+<font face="Segoe UI" size="26">Đã thế cái áo khoác của anh tự dưng hóa đỏ lòm luôn kìa.</font>
+
+114
+00:06:30,380 --> 00:06:31,490
+<font face="Segoe UI" size="26">Cứu với.</font>
+
+115
+00:06:31,790 --> 00:06:34,790
+<font face="Segoe UI" size="26">Ai đó ơi! Có chú mèo bị kẹt trên cây!</font>
+
+116
+00:06:34,790 --> 00:06:35,750
+<font face="Segoe UI" size="26">Có rắc rối.</font>
+
+117
+00:06:36,080 --> 00:06:36,920
+<font face="Segoe UI" size="26">Ta tới ngay đây!</font>
+
+118
+00:06:37,420 --> 00:06:38,340
+<font face="Segoe UI" size="26">Chin Biến Hình!</font>
+
+119
+00:06:37,420 --> 00:06:39,580
+<font face="Segoe UI" size="26"><i>{\an8}Biến hình khẩn cấp!</i></font>
+
+120
+00:06:40,000 --> 00:06:43,160
+<font face="Segoe UI" size="26">Anh ấy hăng hái gấp bội ngày thường luôn kìa.</font>
+
+121
+00:06:43,160 --> 00:06:46,340
+<font face="Segoe UI" size="26">Thôi thì đùa nghịch một tí chắc cũng chẳng hại ai đâu nhỉ?</font>
+
+122
+00:06:46,340 --> 00:06:51,090
+<font face="Segoe UI" size="26"><i>Xét về mức độ lố bịch thì chữ "một tí"
+chẳng thấm vào đâu.</i></font>
+
+123
+00:06:52,400 --> 00:06:53,890
+<font face="Segoe UI" size="26">Ở trên cao nguy hiểm lắm đấy, nhóc mèo.</font>
+
+124
+00:06:53,890 --> 00:06:54,810
+<font face="Segoe UI" size="26">Cẩn thận!</font>
+
+125
+00:06:57,400 --> 00:06:59,140
+<font face="Segoe UI" size="26">A-Ai thế ạ?</font>
+
+126
+00:06:59,510 --> 00:07:01,690
+<font face="Segoe UI" size="26">Chiến đội Chinjuku Chinranger.</font>
+
+127
+00:07:01,980 --> 00:07:04,270
+<font face="Segoe UI" size="26">Ngọn lửa công lý rực cháy. Chin Red.</font>
+
+128
+00:07:03,020 --> 00:07:04,820
+<font face="Segoe UI" size="26"><i>{\an8}Ngọn lửa công lý!</i></font>
+
+129
+00:07:04,680 --> 00:07:06,150
+<font face="Segoe UI" size="26">Chin Red.</font>
+
+130
+00:07:06,150 --> 00:07:11,120
+<font face="Segoe UI" size="26"><i>Sau khi giải quyết xong vấn đề danh tiếng,
+viên cảnh sát tâm linh trở nên bất khả chiến bại.</i></font>
+
+131
+00:07:11,120 --> 00:07:12,490
+<font face="Segoe UI" size="26">C-Cẩn thận!</font>
+
+132
+00:07:13,040 --> 00:07:14,420
+<font face="Segoe UI" size="26">Chin Ngưng Đọng.</font>
+
+133
+00:07:15,200 --> 00:07:17,200
+<font face="Segoe UI" size="26">Mấy đứa không sao chứ?</font>
+
+134
+00:07:17,200 --> 00:07:19,120
+<font face="Segoe UI" size="26">Cháu cảm ơn Chin Red ạ!</font>
+
+135
+00:07:19,450 --> 00:07:21,920
+<font face="Segoe UI" size="26"><i>Tình trạng vô pháp luật của thị trấn này
+lại hóa thành cơn gió thuận,</i></font>
+
+136
+00:07:21,670 --> 00:07:26,880
+<font face="Segoe UI" size="26">{\an8}LẠI THÊM MỘT VỤ ÁN ĐƯỢC PHÁ
+BỞI SIÊU ANH HÙNG BÍ ẨN!</font>
+
+137
+00:07:22,640 --> 00:07:26,880
+<font face="Segoe UI" size="26"><i>trao cho anh ta vô vàn cơ hội để phô diễn
+chiến tích anh hùng của mình.</i></font>
+
+138
+00:07:26,880 --> 00:07:32,840
+<font face="Segoe UI" size="26">{\an8}CHIN RED BÍ ẨN
+LẠI MỘT LẦN NỮA PHÁ ÁN THÀNH CÔNG!</font>
+
+139
+00:07:27,260 --> 00:07:29,380
+<font face="Segoe UI" size="26"><i>{\an8}Sau đây là bản tin thời sự tối.</i></font>
+
+140
+00:07:29,380 --> 00:07:32,840
+<font face="Segoe UI" size="26"><i>{\an8}Chin Red vừa tiếp tục giải quyết êm đẹp
+một sự cố khác tại Chinjuku.</i></font>
+
+141
+00:07:33,170 --> 00:07:34,850
+<font face="Segoe UI" size="26">Anh Chin Red!</font>
+
+142
+00:07:34,850 --> 00:07:36,530
+<font face="Segoe UI" size="26">Nhìn sang đây đi anh!</font>
+
+143
+00:07:36,530 --> 00:07:37,660
+<font face="Segoe UI" size="26">Anh ấy vẫy tay với mình kìa!</font>
+
+144
+00:07:37,660 --> 00:07:38,440
+<font face="Segoe UI" size="26">Em gọi anh à?</font>
+
+145
+00:07:38,440 --> 00:07:39,560
+<font face="Segoe UI" size="26">Không, gọi em cơ!</font>
+
+146
+00:07:39,930 --> 00:07:44,780
+<font face="Segoe UI" size="26"><i>Và chẳng mấy chốc, Chin Red đã trở thành
+hình mẫu anh hùng được toàn dân kính trọng.</i></font>
+
+147
+00:07:41,250 --> 00:07:43,180
+<font face="Segoe UI" size="26">{\an8}Cảm ơn tất cả mọi người.</font>
+
+148
+00:07:44,780 --> 00:07:46,060
+<font face="Segoe UI" size="26">Thật luôn hả?</font>
+
+149
+00:07:46,640 --> 00:07:49,990
+<font face="Segoe UI" size="26">"Khi khảo sát 100 phụ nữ Chinjuku
+xem mẫu bạn trai lý tưởng của họ là ai,</font>
+
+150
+00:07:49,990 --> 00:07:51,820
+<font face="Segoe UI" size="26">đứng đầu bảng chính là Chin Red."</font>
+
+151
+00:07:52,120 --> 00:07:54,300
+<font face="Segoe UI" size="26">Tớ hoàn toàn tin sái cổ luôn ấy.</font>
+
+152
+00:07:54,300 --> 00:07:56,330
+<font face="Segoe UI" size="26">Cậu từng gặp anh ấy một lần rồi đúng không, Maru?</font>
+
+153
+00:07:56,330 --> 00:07:56,830
+<font face="Segoe UI" size="26">Ừ.</font>
+
+154
+00:07:56,830 --> 00:08:00,320
+<font face="Segoe UI" size="26">Giọng anh ấy trầm ấm quyến rũ kinh khủng,
+lại còn có đôi chân dài miên man gợi cảm nữa chứ.</font>
+
+155
+00:08:00,320 --> 00:08:02,710
+<font face="Segoe UI" size="26">Tớ sốc tận óc khi biết trên đời có tồn tại
+một người đàn ông hoàn mỹ thế đấy.</font>
+
+156
+00:08:02,980 --> 00:08:05,480
+<font face="Segoe UI" size="26">Tớ mê tít cái khí chất u buồn đầy bi kịch của anh ấy.</font>
+
+157
+00:08:05,480 --> 00:08:07,420
+<font face="Segoe UI" size="26">Mang danh là một "chiến đội" nhưng lại chiến đấu đơn độc.</font>
+
+158
+00:08:07,420 --> 00:08:09,770
+<font face="Segoe UI" size="26">Điều đó <i>chắc chắn</i> là để tưởng nhớ
+những người đồng đội đã hy sinh rồi.</font>
+
+159
+00:08:09,770 --> 00:08:11,720
+<font face="Segoe UI" size="26">Cậu suy diễn bay bổng quá mức rồi đấy.</font>
+
+160
+00:08:11,720 --> 00:08:13,540
+<font face="Segoe UI" size="26">Cậu thấy anh ấy thế nào, Pon?</font>
+
+161
+00:08:13,540 --> 00:08:16,600
+<font face="Segoe UI" size="26">Một người đàn ông kiêu hãnh đơn độc chiến đấu.
+Đúng là sức hút không thể cưỡng lại nổi.</font>
+
+162
+00:08:16,890 --> 00:08:18,690
+<font face="Segoe UI" size="26">Biết đâu tại ổng chẳng có nổi một mống bạn thôi ấy.</font>
+
+163
+00:08:18,690 --> 00:08:19,600
+<font face="Segoe UI" size="26">Phũ phàng vãi chưởng.</font>
+
+164
+00:08:20,000 --> 00:08:22,160
+<font face="Segoe UI" size="26">Gì thế này? Trong đám mình lại có anti-fan của Chin Red à?</font>
+
+165
+00:08:22,160 --> 00:08:24,080
+<font face="Segoe UI" size="26">À mà, tớ cũng phần nào hiểu cho cậu ấy đấy.</font>
+
+166
+00:08:24,080 --> 00:08:25,310
+<font face="Segoe UI" size="26">Ủa, cậu hiểu hả?</font>
+
+167
+00:08:25,800 --> 00:08:31,070
+<font face="Segoe UI" size="26">Biết trên đời tồn tại cực phẩm như Chin Red trong khi
+cộng sự của mình lại là tên cảnh sát tâm linh kia thì...</font>
+
+168
+00:08:26,330 --> 00:08:28,270
+<font face="Segoe UI" size="26">{\an8}Xin đừng nhìn chằm chằm vào tôi như thế.</font>
+
+169
+00:08:28,820 --> 00:08:31,070
+<font face="Segoe UI" size="26">{\an8}Nhìn cái chóa gì mà nhìn hả?</font>
+
+170
+00:08:31,440 --> 00:08:33,320
+<font face="Segoe UI" size="26">Tớ hiểu vì sao cậu ngán tận cổ rồi đấy.</font>
+
+171
+00:08:33,320 --> 00:08:36,950
+<font face="Segoe UI" size="26">Có khi nếu tên cảnh sát tâm linh gặm móng chân
+của Chin Red thì hắn sẽ hấp thụ được tí phẩm chất tốt đẹp đấy.</font>
+
+172
+00:08:37,410 --> 00:08:39,700
+<font face="Segoe UI" size="26">Cứ như mình vừa uống lộn thuốc điên vậy.</font>
+
+173
+00:08:40,160 --> 00:08:44,080
+<font face="Segoe UI" size="26">Mọi chuyện diễn ra đúng như thế đấy.
+Và tôi thấy đầu óc mình sắp phát điên rồi.</font>
+
+174
+00:08:44,080 --> 00:08:47,110
+<font face="Segoe UI" size="26">Việc anh ta trở nên nổi tiếng thế này đúng là...</font>
+
+175
+00:08:47,110 --> 00:08:49,710
+<font face="Segoe UI" size="26">À, tôi cũng hiểu được sự lệch pha khó tin
+mà chuyện này gây ra.</font>
+
+176
+00:08:50,140 --> 00:08:54,590
+<font face="Segoe UI" size="26">Bình thường hành vi của anh ấy khác xa chuẩn mực anh hùng mà.</font>
+
+177
+00:08:56,330 --> 00:08:58,600
+<font face="Segoe UI" size="26">Chà, bé Pon à. Cô lúc nào cũng
+lo lắng đủ thứ chuyện hết nhỉ.</font>
+
+178
+00:08:59,150 --> 00:09:03,350
+<font face="Segoe UI" size="26">Uống chút trà hoa cúc đi.
+Món này xoa dịu thần kinh tốt lắm đấy.</font>
+
+179
+00:09:03,350 --> 00:09:06,150
+<font face="Segoe UI" size="26">Cơ mà, "bạn trai lý tưởng" cơ đấy nhỉ?</font>
+
+180
+00:09:06,150 --> 00:09:08,480
+<font face="Segoe UI" size="26">Nghe cũng mát tai thật đấy, nhưng đó chẳng phải
+thứ tôi có thể đáp ứng đâu.</font>
+
+181
+00:09:08,930 --> 00:09:11,360
+<font face="Segoe UI" size="26">Suy cho cùng, toàn bộ trái tim và tình yêu của tôi...</font>
+
+182
+00:09:11,750 --> 00:09:13,730
+<font face="Segoe UI" size="26">đều dành trọn cho toàn thể cư dân Chinjuku này rồi.</font>
+
+183
+00:09:13,730 --> 00:09:15,860
+<font face="Segoe UI" size="26"><i>Trong não ổng đang diễn ra cái quái gì vậy trời?</i></font>
+
+184
+00:09:15,990 --> 00:09:18,040
+<font face="Segoe UI" size="26">C-Cái <i>gì</i> thế này? Rợn cả tóc gáy lên rồi!</font>
+
+185
+00:09:18,040 --> 00:09:20,370
+<font face="Segoe UI" size="26">Copbot ơi, đầu óc ổng hỏng nặng rồi!</font>
+
+186
+00:09:20,760 --> 00:09:22,370
+<font face="Segoe UI" size="26">Kh-Không lẽ nào?</font>
+
+187
+00:09:22,620 --> 00:09:26,370
+<font face="Segoe UI" size="26">Anh ấy đã thấm nhuần lý tưởng anh hùng của mình
+tới mức nhập tâm cả trong đời sống thường nhật sao?</font>
+
+188
+00:09:26,370 --> 00:09:29,330
+<font face="Segoe UI" size="26">{\an8}Vậy là ổng chơi trò đóng giả siêu nhân
+tới cảnh giới diễn xuất nhập vai luôn rồi à?</font>
+
+189
+00:09:26,710 --> 00:09:31,630
+<font face="Segoe UI" size="26">{\an8}DIỄN XUẤT NHẬP TÂM</font>
+
+190
+00:09:29,330 --> 00:09:31,630
+<font face="Segoe UI" size="26">{\an8}Từ yêu thích của tôi là "lòng nhân ái".</font>
+
+191
+00:09:32,060 --> 00:09:34,380
+<font face="Segoe UI" size="26">Chẳng thèm giấu giếm chút nào luôn hả?</font>
+
+192
+00:09:34,720 --> 00:09:35,390
+<font face="Segoe UI" size="26">Giờ thì...</font>
+
+193
+00:09:35,970 --> 00:09:38,010
+<font face="Segoe UI" size="26">Lên đường giữ gìn hòa bình thôi.</font>
+
+194
+00:09:38,010 --> 00:09:40,430
+<font face="Segoe UI" size="26">Mọi thứ đều đã sẵn sàng.</font>
+
+195
+00:09:42,760 --> 00:09:45,900
+<font face="Segoe UI" size="26">Ổng cải tạo cả cái đồn cảnh sát thành
+căn cứ bí mật từ lúc nào thế này?!</font>
+
+196
+00:09:45,900 --> 00:09:49,200
+<font face="Segoe UI" size="26">Nhìn là biết chỗ này tuân thủ nghiêm ngặt
+bộ quy chuẩn thiết kế thương hiệu rồi.</font>
+
+197
+00:09:49,200 --> 00:09:51,520
+<font face="Segoe UI" size="26">Anh ấy nhập vai sâu thật sự đấy.</font>
+
+198
+00:09:51,520 --> 00:09:54,890
+<font face="Segoe UI" size="26">Cứ đà này, chẳng mấy chốc
+sẽ có quái vật xuất hiện thật mất.</font>
+
+199
+00:09:54,890 --> 00:09:57,530
+<font face="Segoe UI" size="26">Đó chính là viễn cảnh còn đáng sợ hơn nữa đấy.</font>
+
+200
+00:09:57,530 --> 00:10:02,030
+<font face="Segoe UI" size="26">Ngoài kia chắc chắn có một anh hùng dành cho mình.</font>
+
+201
+00:10:02,030 --> 00:10:06,540
+<font face="Segoe UI" size="26">Nhưng anh ấy ở đâu chứ? Xuất hiện đi nào!</font>
+
+202
+00:10:06,840 --> 00:10:11,040
+<font face="Segoe UI" size="26">Ôi trời. Đang đi tuần tra mà mình chẳng nên
+đòi hỏi vô lý thế này chứ.</font>
+
+203
+00:10:11,040 --> 00:10:12,040
+<font face="Segoe UI" size="26">Ai ở đó đấy?</font>
+
+204
+00:10:13,160 --> 00:10:14,340
+<font face="Segoe UI" size="26">Con nhỏ này thấy hết rồi.</font>
+
+205
+00:10:14,340 --> 00:10:16,920
+<font face="Segoe UI" size="26">Đã nhìn thấy tụi tao rồi thì
+không thể để mày đi dễ dàng đâu.</font>
+
+206
+00:10:19,680 --> 00:10:21,800
+<font face="Segoe UI" size="26">Không!</font>
+
+207
+00:10:23,560 --> 00:10:24,680
+<font face="Segoe UI" size="26"><i>Sở Cảnh sát Đô thị gọi các đồn.</i></font>
+
+208
+00:10:25,150 --> 00:10:29,120
+<font face="Segoe UI" size="26"><i>Một nhóm đối tượng khả nghi vừa bắt cóc
+một nữ sĩ quan tại khu phố Sáu Chinjuku.</i></font>
+
+209
+00:10:26,140 --> 00:10:30,310
+<font face="Segoe UI" size="26">{\an8}HOẠT ĐỘNG KHẢ NGHI
+TẠI KHU VỰC KHU PHỐ SÁU CHINJUKU</font>
+
+210
+00:10:29,120 --> 00:10:30,310
+<font face="Segoe UI" size="26">Cái gì?</font>
+
+211
+00:10:30,750 --> 00:10:33,120
+<font face="Segoe UI" size="26">Khu phố Sáu à?
+Nữ cảnh sát trực tuần tra ở đó hôm nay...</font>
+
+212
+00:10:33,120 --> 00:10:34,150
+<font face="Segoe UI" size="26">Là Maru sao?!</font>
+
+213
+00:10:34,580 --> 00:10:37,280
+<font face="Segoe UI" size="26"><i>Bọn chúng di chuyển trên nhiều xe tải
+và đang chạy hướng về phía Bắc.</i></font>
+
+214
+00:10:37,280 --> 00:10:39,530
+<font face="Segoe UI" size="26"><i>Chúng đang tẩu thoát
+sang tỉnh lân cận.</i></font>
+
+215
+00:10:39,530 --> 00:10:41,780
+<font face="Segoe UI" size="26">{\an8}CHIN</font>
+
+216
+00:10:39,980 --> 00:10:41,780
+<font face="Segoe UI" size="26">Dám bắt cóc cả đồng nghiệp cảnh sát cơ à?</font>
+
+217
+00:10:42,260 --> 00:10:43,680
+<font face="Segoe UI" size="26">Chúng ta sẽ đi giải cứu cô ấy.</font>
+
+218
+00:10:43,680 --> 00:10:44,660
+<font face="Segoe UI" size="26">Rõ.</font>
+
+219
+00:10:45,120 --> 00:10:47,540
+<font face="Segoe UI" size="26">Chiến đội Chinjuku Chinranger, xuất kích!</font>
+
+220
+00:10:47,930 --> 00:10:50,210
+<font face="Segoe UI" size="26">Anh đốt bao nhiêu tiền vào cái đống này rồi hả?!</font>
+
+221
+00:10:50,210 --> 00:10:52,960
+<font face="Segoe UI" size="26"><i>Tuần tra viên siêu năng lực Chojo.</i></font>
+
+222
+00:10:50,210 --> 00:10:52,960
+<font face="Segoe UI" size="26">{\an8}CHIN RED, CHIẾN BINH ĐỎ</font>
+
+223
+00:10:52,960 --> 00:10:57,210
+<font face="Segoe UI" size="26">{\an8}CHIẾN ĐỘI CHINJUKU CHINRANGER</font>
+
+224
+00:10:53,680 --> 00:10:57,210
+<font face="Segoe UI" size="26"><i>Ở tập trước của </i>Chiến đội Chinjuku Chinranger<i>.</i></font>
+
+225
+00:10:57,510 --> 00:11:01,470
+<font face="Segoe UI" size="26"><i>Bạn đồng khóa học viện của Pon là Maru
+đã bị một băng nhóm bí ẩn bắt cóc.</i></font>
+
+226
+00:11:01,780 --> 00:11:07,010
+<font face="Segoe UI" size="26"><i>Chin Red tức Meguru Chojo cùng đồng đội
+đã lái chiến xa Copbot F-Type</i></font>
+
+227
+00:11:07,010 --> 00:11:10,230
+<font face="Segoe UI" size="26"><i>phóng như bay xuyên màn đêm
+truy đuổi bọn bắt cóc.</i></font>
+
+228
+00:11:10,230 --> 00:11:12,230
+<font face="Segoe UI" size="26">{\an8}SÁNG HÔM SAU</font>
+
+229
+00:11:11,030 --> 00:11:16,740
+<font face="Segoe UI" size="26"><i>Sáng hôm sau, họ đặt chân tới một mỏ đá bỏ hoang
+tại tỉnh T.</i></font>
+
+230
+00:11:12,230 --> 00:11:17,730
+<font face="Segoe UI" size="26">{\an8}MỎ ĐÁ TẠI TỈNH T</font>
+
+231
+00:11:18,100 --> 00:11:20,420
+<font face="Segoe UI" size="26"><i>Vô số kẻ địch đang chờ đợi họ phía trước.</i></font>
+
+232
+00:11:20,420 --> 00:11:22,870
+<font face="Segoe UI" size="26"><i>Số phận của biệt đội Chinranger sẽ ra sao đây?</i></font>
+
+233
+00:11:22,870 --> 00:11:24,900
+<font face="Segoe UI" size="26">Vậy là giờ tụi mình thành phim Siêu nhân đúng nghĩa luôn rồi hả?</font>
+
+234
+00:11:24,900 --> 00:11:28,240
+<font face="Segoe UI" size="26"><i>Tập 50: Chin Red Bất Diệt.</i></font>
+
+235
+00:11:24,900 --> 00:11:28,240
+<font face="Segoe UI" size="26">{\an8}TẬP 50: CHIN RED BẤT DIỆT</font>
+
+236
+00:11:28,240 --> 00:11:30,000
+<font face="Segoe UI" size="26">Lại còn nghe sặc mùi tập cuối nữa chứ!</font>
+
+237
+00:11:31,040 --> 00:11:34,000
+<font face="Segoe UI" size="26">Maru! Có vẻ cậu ấy bị ngất xỉu rồi.</font>
+
+238
+00:11:34,000 --> 00:11:35,670
+<font face="Segoe UI" size="26">Tụi mình đã vượt qua ranh giới tỉnh rồi.</font>
+
+239
+00:11:35,670 --> 00:11:39,620
+<font face="Segoe UI" size="26">Sở Cảnh sát Đô thị và cảnh sát tỉnh T đang
+đùn đẩy nhau để né rắc rối thẩm quyền.</font>
+
+240
+00:11:39,620 --> 00:11:42,350
+<font face="Segoe UI" size="26">Xem ra đây chính là nhiệm vụ dành cho
+Sĩ quan Cấp cao Chin Red rồi.</font>
+
+241
+00:11:43,840 --> 00:11:45,140
+<font face="Segoe UI" size="26">Sĩ quan cấp cao á?</font>
+
+242
+00:11:45,720 --> 00:11:46,640
+<font face="Segoe UI" size="26">Chỗ này...</font>
+
+243
+00:11:46,640 --> 00:11:49,430
+<font face="Segoe UI" size="26">Đây đích thị là cái mỏ đá huyền thoại rồi!</font>
+
+244
+00:11:49,430 --> 00:11:51,140
+<font face="Segoe UI" size="26">Ánh mắt rạng ngời ngây thơ như trẻ lên ba kìa.</font>
+
+245
+00:11:51,140 --> 00:11:53,440
+<font face="Segoe UI" size="26">T-Tiền bối Chojo? Anh bị làm sao thế?</font>
+
+246
+00:11:53,440 --> 00:11:54,900
+<font face="Segoe UI" size="26">Địa điểm này có gì đặc biệt sao?</font>
+
+247
+00:11:54,900 --> 00:11:56,770
+<font face="Segoe UI" size="26">Hai người mù thông tin <i>tới mức nào</i> thế hả?</font>
+
+248
+00:11:56,770 --> 00:12:01,030
+<font face="Segoe UI" size="26">Mỏ đá ở tỉnh T này chính là phim trường quay
+hàng loạt series siêu nhân tokusatsu đấy!</font>
+
+249
+00:12:01,510 --> 00:12:04,780
+<font face="Segoe UI" size="26">Hai người có biết đã có bao nhiêu kiệt tác
+được khai sinh ngay tại mảnh đất này không hả?</font>
+
+250
+00:12:05,120 --> 00:12:06,610
+<font face="Segoe UI" size="26">Tôi phải hốt một nắm đất mang về làm kỷ niệm mới được.</font>
+
+251
+00:12:06,610 --> 00:12:07,780
+<font face="Segoe UI" size="26">Có phải giải bóng chày Koshien đâu mà hốt đất!</font>
+
+252
+00:12:08,080 --> 00:12:12,210
+<font face="Segoe UI" size="26">Được rồi, hôm nay khí thế trong tôi hừng hực rồi đây.
+Đã tới lúc Chin Red xung trận.</font>
+
+253
+00:12:12,210 --> 00:12:14,290
+<font face="Segoe UI" size="26">À, tiền bối Chojo, khoan đã.</font>
+
+254
+00:12:14,700 --> 00:12:17,140
+<font face="Segoe UI" size="26">Lần này, tôi cũng muốn giúp một tay.</font>
+
+255
+00:12:17,140 --> 00:12:17,670
+<font face="Segoe UI" size="26">Nói gì cơ?</font>
+
+256
+00:12:18,000 --> 00:12:19,920
+<font face="Segoe UI" size="26">Maru là bạn thân của tôi mà!</font>
+
+257
+00:12:20,790 --> 00:12:23,000
+<font face="Segoe UI" size="26">Được thôi. Vậy chúng ta cùng chiến đấu theo đội nhé.</font>
+
+258
+00:12:23,000 --> 00:12:24,150
+<font face="Segoe UI" size="26">Vâng.</font>
+
+259
+00:12:24,150 --> 00:12:25,550
+<font face="Segoe UI" size="26">Vậy thì nhân tiện đây...</font>
+
+260
+00:12:26,120 --> 00:12:28,680
+<font face="Segoe UI" size="26">Cầm lấy đi. Chin-Changer của cô đấy, bé Pon.</font>
+
+261
+00:12:26,680 --> 00:12:28,680
+<font face="Segoe UI" size="26">{\an8}CHIN</font>
+
+262
+00:12:28,680 --> 00:12:32,180
+<font face="Segoe UI" size="26">Hả? C-Cái gì cơ?
+Anh bắt tôi cũng phải cosplay cùng luôn à?</font>
+
+263
+00:12:32,180 --> 00:12:34,820
+<font face="Segoe UI" size="26">Cô là cộng sự của tôi mà.
+Nếu cô xuất hiện mà không cải trang,</font>
+
+264
+00:12:34,820 --> 00:12:36,560
+<font face="Segoe UI" size="26">thì thiên hạ nhìn phát biết tỏng tôi là ai ngay.</font>
+
+265
+00:12:40,270 --> 00:12:42,330
+<font face="Segoe UI" size="26">Sao thế? Cô không muốn đeo à?</font>
+
+266
+00:12:42,330 --> 00:12:44,450
+<font face="Segoe UI" size="26">Cô định bỏ rơi bạn thân mình đấy sao?</font>
+
+267
+00:12:45,680 --> 00:12:48,580
+<font face="Segoe UI" size="26">T-Tôi đeo là được chứ gì! Đeo thì đeo!</font>
+
+268
+00:12:49,030 --> 00:12:51,200
+<font face="Segoe UI" size="26">Đứng yên tại chỗ, lũ khốn kia!</font>
+
+269
+00:12:51,500 --> 00:12:53,080
+<font face="Segoe UI" size="26">C-Cái quái gì thế kia?</font>
+
+270
+00:12:53,580 --> 00:12:57,710
+<font face="Segoe UI" size="26">{\an8}CHẾ ĐỘ BÍ MẬT DANH TÍNH
+CẢNH SÁT TÂM LINH & BÉ PON</font>
+
+271
+00:12:53,580 --> 00:12:55,020
+<font face="Segoe UI" size="26">Bọn ta là các siêu anh hùng.</font>
+
+272
+00:12:55,020 --> 00:12:57,710
+<font face="Segoe UI" size="26">À là cảnh sát. Bọn ta tới để bắt giữ chúng bay.</font>
+
+273
+00:12:58,080 --> 00:13:01,440
+<font face="Segoe UI" size="26">Mau thả Maru—à nhầm,
+thả cô gái chúng bay đã bắt cóc ra ngay.</font>
+
+274
+00:13:01,440 --> 00:13:02,850
+<font face="Segoe UI" size="26">Giờ thì hết đường chạy thoát rồi.</font>
+
+275
+00:13:02,850 --> 00:13:04,340
+<font face="Segoe UI" size="26">Mau đầu hàng và hợp tác đi.</font>
+
+276
+00:13:04,960 --> 00:13:09,100
+<font face="Segoe UI" size="26">"Đầu hàng" á? Chúng mày tưởng mình đang đối đầu
+với băng nhóm cò con nào hả?</font>
+
+277
+00:13:09,670 --> 00:13:14,350
+<font face="Segoe UI" size="26">Đứng trước mặt chúng mày là những gã đàn ông
+bị toàn bộ phụ nữ Chinjuku từ chối phũ phàng:</font>
+
+278
+00:13:14,350 --> 00:13:18,100
+<font face="Segoe UI" size="26">{\an8}HỘI THẤT TÌNH KABUKI-CHO:
+BIỆT ĐỘI TAN NÁT CON TIM</font>
+
+279
+00:13:15,120 --> 00:13:18,100
+<font face="Segoe UI" size="26">Biệt đội Thất Tình Kabuki-cho!</font>
+
+280
+00:13:18,480 --> 00:13:20,360
+<font face="Segoe UI" size="26">Một lũ đàn ông bị đá tập thể hả?</font>
+
+281
+00:13:20,710 --> 00:13:24,860
+<font face="Segoe UI" size="26">Tối qua bọn tao đang tính đi phá hoại
+một tụ điểm hẹn hò nổi tiếng ở Chinjuku.</font>
+
+282
+00:13:25,240 --> 00:13:28,990
+<font face="Segoe UI" size="26">Con nữ cảnh sát này dám cả gan ngáng đường tụi tao.</font>
+
+283
+00:13:25,240 --> 00:13:26,260
+<font face="Segoe UI" size="26">{\an8}Các người là ai?</font>
+
+284
+00:13:30,430 --> 00:13:33,600
+<font face="Segoe UI" size="26">Giờ thì nó sắp phải trả giá đắt cho chuyện đó.</font>
+
+285
+00:13:34,460 --> 00:13:37,600
+<font face="Segoe UI" size="26">Hỡi những con quái vật đáng thương
+sinh ra từ tâm trạng ái tình...</font>
+
+286
+00:13:37,600 --> 00:13:38,870
+<font face="Segoe UI" size="26">Chả đúng tẹo nào luôn ấy.</font>
+
+287
+00:13:38,870 --> 00:13:41,380
+<font face="Segoe UI" size="26">Ta sẽ chấm dứt nỗi sầu muộn của các ngươi.</font>
+
+288
+00:13:41,700 --> 00:13:42,340
+<font face="Segoe UI" size="26">Chin Biến Hình!</font>
+
+289
+00:13:41,720 --> 00:13:43,380
+<font face="Segoe UI" size="26"><i>{\an8}Biến hình khẩn cấp!</i></font>
+
+290
+00:13:43,380 --> 00:13:47,010
+<font face="Segoe UI" size="26">Ngọn lửa công lý rực cháy. Chin Red có mặt.</font>
+
+291
+00:13:45,110 --> 00:13:47,010
+<font face="Segoe UI" size="26"><i>{\an8}Ngọn lửa công lý!</i></font>
+
+292
+00:13:47,010 --> 00:13:48,700
+<font face="Segoe UI" size="26">À, ờm...</font>
+
+293
+00:13:48,700 --> 00:13:50,640
+<font face="Segoe UI" size="26">Sức mạnh của Judo. Chin Blue.</font>
+
+294
+00:13:48,700 --> 00:13:50,640
+<font face="Segoe UI" size="26"><i>{\an8}Judo mãnh lực!</i></font>
+
+295
+00:13:51,020 --> 00:13:52,140
+<font face="Segoe UI" size="26">Cả hai bọn ta chính là:</font>
+
+296
+00:13:52,140 --> 00:13:55,270
+<font face="Segoe UI" size="26">Chiến đội Chinjuku Chinranger.</font>
+
+297
+00:13:53,430 --> 00:13:54,560
+<font face="Segoe UI" size="26"><i>{\an8}Bùng nổ!</i></font>
+
+298
+00:13:54,560 --> 00:13:55,270
+<font face="Segoe UI" size="26">{\an8}Nóng quá!</font>
+
+299
+00:13:55,270 --> 00:13:56,770
+<font face="Segoe UI" size="26">Hơi nóng táp rát cả lưng tôi rồi nè!</font>
+
+300
+00:13:56,770 --> 00:13:58,820
+<font face="Segoe UI" size="26">Sao tự dưng lại có vụ nổ đằng sau thế?!</font>
+
+301
+00:13:58,820 --> 00:14:02,350
+<font face="Segoe UI" size="26">Cô nói lạ nhỉ?
+Đấy là hiệu ứng pháo hoa khói lửa hiển nhiên phải có mà.</font>
+
+302
+00:14:02,350 --> 00:14:06,190
+<font face="Segoe UI" size="26">Chiến đội ra mắt mà không có cháy nổ phía sau
+thì còn ra thể thống gì nữa. Kiến thức cơ bản đấy.</font>
+
+303
+00:14:06,190 --> 00:14:10,280
+<font face="Segoe UI" size="26">Nhất là khi trong thành phố
+tôi chẳng thể kích nổ thứ này được.</font>
+
+304
+00:14:10,280 --> 00:14:15,690
+<font face="Segoe UI" size="26">Hôm nay anh và em sẽ có buổi hẹn hò đặc biệt,
+bé thuốc nổ napalm yêu dấu của anh ạ.</font>
+
+305
+00:14:15,690 --> 00:14:18,040
+<font face="Segoe UI" size="26">Thế hóa ra anh là thể loại
+khủng bố đặt bom tâm thần nào à?!</font>
+
+306
+00:14:18,040 --> 00:14:21,040
+<font face="Segoe UI" size="26">À này, mình ngừng diễn trò tấu hài trước mặt
+đám tội phạm được chưa vậy?</font>
+
+307
+00:14:21,490 --> 00:14:26,140
+<font face="Segoe UI" size="26">Chin Red á? Là cái thằng khốn dạo này
+được mấy em gái mê như điếu đổ đấy hả?</font>
+
+308
+00:14:26,140 --> 00:14:27,800
+<font face="Segoe UI" size="26">Đúng lúc lắm.</font>
+
+309
+00:14:27,800 --> 00:14:31,700
+<font face="Segoe UI" size="26">Bọn tao sẽ trút sạch nỗi uất ức đường tình duyên
+lên đầu mày luôn thể!</font>
+
+310
+00:14:33,680 --> 00:14:36,240
+<font face="Segoe UI" size="26">Ủa, tự dưng bọn chúng hừng hực khí thế
+lên dữ dội thế nhỉ?</font>
+
+311
+00:14:36,240 --> 00:14:37,010
+<font face="Segoe UI" size="26">Ui da.</font>
+
+312
+00:14:37,010 --> 00:14:40,690
+<font face="Segoe UI" size="26">Xem ra lũ quái vật này càng phẫn uất
+thì sức mạnh càng tăng lên đấy.</font>
+
+313
+00:14:40,690 --> 00:14:42,610
+<font face="Segoe UI" size="26">{\an8}Chẳng ai mượn anh phân tích ba cái đó đâu.</font>
+
+314
+00:14:42,610 --> 00:14:44,690
+<font face="Segoe UI" size="26">{\an8}Ngừng tận hưởng cái kịch bản giả tưởng này ngay đi v—</font>
+
+315
+00:14:42,610 --> 00:14:44,030
+<font face="Segoe UI" size="26">Và sau đây, xin gửi tặng một bài thơ.</font>
+
+316
+00:14:44,030 --> 00:14:47,440
+<font face="Segoe UI" size="26">Từ lực lượng tiếp viện vừa đặt chân
+lên đỉnh vách núi này.</font>
+
+317
+00:14:47,440 --> 00:14:48,560
+<font face="Segoe UI" size="26">Ai thế kia?</font>
+
+318
+00:14:48,560 --> 00:14:51,720
+<font face="Segoe UI" size="26">À, bác ấy tới rồi. Chính là người tôi đã
+chiêu mộ trước khi xuất phát đấy.</font>
+
+319
+00:14:51,720 --> 00:14:53,410
+<font face="Segoe UI" size="26">Thành viên cuối cùng của biệt đội Chinranger.</font>
+
+320
+00:14:53,930 --> 00:14:56,910
+<font face="Segoe UI" size="26">Thân tôi tuy chỉ là gã nhân viên văn phòng quèn
+suốt ngày ngồi ngó ngoài cửa sổ,</font>
+
+321
+00:14:57,570 --> 00:15:02,790
+<font face="Segoe UI" size="26">nhưng dẫu vậy tôi cũng chẳng bao giờ làm ngơ
+trước cảnh thiếu nữ gặp nguy hiểm.</font>
+
+322
+00:15:03,130 --> 00:15:05,300
+<font face="Segoe UI" size="26"><i>{\an8}Biến hình khẩn cấp!</i></font>
+
+323
+00:15:03,150 --> 00:15:04,240
+<font face="Segoe UI" size="26">Chin Biến Hình!</font>
+
+324
+00:15:05,500 --> 00:15:08,300
+<font face="Segoe UI" size="26">Túy Quyền hủy diệt cái ác.</font>
+
+325
+00:15:08,640 --> 00:15:10,460
+<font face="Segoe UI" size="26">Chin Pink đã có mặt.</font>
+
+326
+00:15:10,460 --> 00:15:11,630
+<font face="Segoe UI" size="26">Bác Ho?!</font>
+
+327
+00:15:13,430 --> 00:15:15,630
+<font face="Segoe UI" size="26">Để bác từ từ, ờm, trèo xuống đây đã nhé...</font>
+
+328
+00:15:15,630 --> 00:15:17,760
+<font face="Segoe UI" size="26">Mừng bác đã kịp tới, Chin Pink.</font>
+
+329
+00:15:17,760 --> 00:15:20,230
+<font face="Segoe UI" size="26">Kia chẳng phải bác Ho sao? Bác ấy biết đánh đấm gì đâu!</font>
+
+330
+00:15:20,230 --> 00:15:21,690
+<font face="Segoe UI" size="26">Chà, bộ đồ này bó sát quá trời.</font>
+
+331
+00:15:22,080 --> 00:15:24,960
+<font face="Segoe UI" size="26">Không thể trông mặt mà bắt hình dong được đâu.</font>
+
+332
+00:15:24,960 --> 00:15:27,190
+<font face="Segoe UI" size="26">Bởi vì dẫu sao đi nữa, Chin Pink...</font>
+
+333
+00:15:27,190 --> 00:15:29,970
+<font face="Segoe UI" size="26">lại chính là cao thủ Túy Quyền trứ danh đấy.</font>
+
+334
+00:15:27,440 --> 00:15:32,950
+<font face="Segoe UI" size="26">{\an8}TÚY QUYỀN</font>
+
+335
+00:15:31,070 --> 00:15:32,950
+<font face="Segoe UI" size="26">Hả? Đùa đấy à. Thật luôn sao?!</font>
+
+336
+00:15:39,930 --> 00:15:41,000
+<font face="Segoe UI" size="26">Á đau.</font>
+
+337
+00:15:41,000 --> 00:15:42,830
+<font face="Segoe UI" size="26">{\an8}Cứ như mình vừa nhìn thấu hậu trường diễn xuất vậy.</font>
+
+338
+00:15:41,000 --> 00:15:42,830
+<font face="Segoe UI" size="26">{\an8}HẬU TRƯỜNG DIỄN XUẤT</font>
+
+339
+00:15:43,110 --> 00:15:44,540
+<font face="Segoe UI" size="26">Làm tốt lắm, Chin Pink.</font>
+
+340
+00:15:44,540 --> 00:15:46,590
+<font face="Segoe UI" size="26">Giờ quyền chủ động đã nằm trong tay chúng ta.</font>
+
+341
+00:15:46,890 --> 00:15:48,810
+<font face="Segoe UI" size="26">Chắc chắn chưa đấy?</font>
+
+342
+00:15:48,810 --> 00:15:51,840
+<font face="Segoe UI" size="26">Ta sẽ cho chúng mày chiêm ngưỡng sức mạnh <i>thực sự</i>
+của Hội Thất Tình.</font>
+
+343
+00:15:51,840 --> 00:15:54,090
+<font face="Segoe UI" size="26">Tập hợp lại đi, hỡi các anh em đồng cảnh bị đá.</font>
+
+344
+00:15:54,090 --> 00:15:55,220
+<font face="Segoe UI" size="26">Tan nát!</font>
+
+345
+00:15:55,220 --> 00:15:57,190
+<font face="Segoe UI" size="26">Con tim!</font>
+
+346
+00:15:57,190 --> 00:15:58,470
+<font face="Segoe UI" size="26">Kh-Không thể nào.</font>
+
+347
+00:15:58,470 --> 00:16:01,230
+<font face="Segoe UI" size="26">Chúng h-h-h-h-h-h-hợp—</font>
+
+348
+00:15:59,980 --> 00:16:01,230
+<font face="Segoe UI" size="26">{\an8}HỢP THỂ</font>
+
+349
+00:16:01,600 --> 00:16:03,060
+<font face="Segoe UI" size="26">Cho xin miếng thạch hạt dẻ yokan.</font>
+
+350
+00:16:05,260 --> 00:16:09,730
+<font face="Segoe UI" size="26">Nhờ kết hợp nhiều gã bị đá lại, ta chính là
+kẻ bị từ chối thê thảm nhất lịch sử nhân loại.</font>
+
+351
+00:16:10,670 --> 00:16:13,580
+<font face="Segoe UI" size="26">Satan Thất Tình.</font>
+
+352
+00:16:11,070 --> 00:16:14,740
+<font face="Segoe UI" size="26">{\an8}SATAN THẤT TÌNH</font>
+
+353
+00:16:15,040 --> 00:16:17,380
+<font face="Segoe UI" size="26">Tôi đâu có ngờ phim này lại thuộc
+thể loại cài đặt bối cảnh kiểu này đâu.</font>
+
+354
+00:16:18,870 --> 00:16:19,620
+<font face="Segoe UI" size="26">Nếu đã vậy thì...</font>
+
+355
+00:16:19,960 --> 00:16:23,130
+<font face="Segoe UI" size="26">{\an8}CHIN</font>
+
+356
+00:16:20,240 --> 00:16:21,930
+<font face="Segoe UI" size="26">Đã tới lúc tung ra Hợp Thể Chin rồi.</font>
+
+357
+00:16:21,930 --> 00:16:23,120
+<font face="Segoe UI" size="26">Hợp Thể Chin á?</font>
+
+358
+00:16:23,120 --> 00:16:27,630
+<font face="Segoe UI" size="26">{\an8}TRỤ SỞ CẢNH SÁT CHINJUKU</font>
+
+359
+00:16:25,590 --> 00:16:27,630
+<font face="Segoe UI" size="26"><i>Khẩn cấp. Khẩn cấp.</i></font>
+
+360
+00:16:28,310 --> 00:16:31,880
+<font face="Segoe UI" size="26"><i>Các Chiến xa Chin đã sẵn sàng xuất kích.</i></font>
+
+361
+00:16:32,570 --> 00:16:34,380
+<font face="Segoe UI" size="26">Năng lượng Chin, nạp đầy.</font>
+
+362
+00:16:35,580 --> 00:16:37,890
+<font face="Segoe UI" size="26"><i>Quy trình hợp thể được phê duyệt.</i></font>
+
+363
+00:16:38,220 --> 00:16:39,890
+<font face="Segoe UI" size="26">Chúng ta sẽ tạo nên một màn trình diễn cực đỉnh.</font>
+
+364
+00:16:38,220 --> 00:16:39,890
+<font face="Segoe UI" size="26">{\an8}Cơ thể tôi tự động điều khiển theo kịch bản luôn rồi nè.</font>
+
+365
+00:16:42,610 --> 00:16:44,990
+<font face="Segoe UI" size="26">Bác Ho ơi? Bác uống rượu say mà
+lái xe thế có ổn không đấy?</font>
+
+366
+00:16:44,650 --> 00:16:49,650
+<font face="Segoe UI" size="26">{\an8}BIA KHÔNG ĐỘ CỒN</font>
+
+367
+00:16:44,990 --> 00:16:47,310
+<font face="Segoe UI" size="26">Người ta vẫn nhắc suốt rồi đấy:
+Đã uống rượu bia thì không lái xe.</font>
+
+368
+00:16:47,310 --> 00:16:49,650
+<font face="Segoe UI" size="26">Thế hóa ra chiêu Túy Quyền lúc nãy
+là Túy Quyền không cồn à?!</font>
+
+369
+00:16:50,770 --> 00:16:52,780
+<font face="Segoe UI" size="26">Tiến lên nào! Hợp Thể Chin!</font>
+
+370
+00:16:53,390 --> 00:16:54,360
+<font face="Segoe UI" size="26"><i>Để tôi giải thích ngắn gọn nhé.</i></font>
+
+371
+00:16:54,860 --> 00:17:00,380
+<font face="Segoe UI" size="26"><i>Nhờ đủ loại công nghệ, vài thứ linh tinh khác,
+và trái tim ngập tràn ước mơ, các Chiến xa Chin...</i></font>
+
+372
+00:17:00,380 --> 00:17:02,290
+<font face="Segoe UI" size="26"><i>có thể thực hiện màn Hợp Thể Chin huyền thoại.</i></font>
+
+373
+00:17:02,900 --> 00:17:04,720
+<font face="Segoe UI" size="26">Copbot Lắp Ghép.</font>
+
+374
+00:17:10,460 --> 00:17:12,510
+<font face="Segoe UI" size="26">{\an8}SIÊU ROBOT COPBOT G TỐI THƯỢNG</font>
+
+375
+00:17:11,510 --> 00:17:15,050
+<font face="Segoe UI" size="26">Siêu Robot Copbot G Tối Thượng, sẵn sàng.</font>
+
+376
+00:17:12,510 --> 00:17:15,050
+<font face="Segoe UI" size="26"><i>{\an8}Copbot G.</i></font>
+
+377
+00:17:15,430 --> 00:17:16,800
+<font face="Segoe UI" size="26">Chin Tăng Lực Toàn Phần.</font>
+
+378
+00:17:17,150 --> 00:17:19,350
+<font face="Segoe UI" size="26">Tiền bối kiếm đâu ra tiền chế tạo con robot này thế?!</font>
+
+379
+00:17:19,350 --> 00:17:21,180
+<font face="Segoe UI" size="26"><i>Lại thêm một đợt gọi vốn cộng đồng nữa đấy.</i></font>
+
+380
+00:17:21,180 --> 00:17:22,770
+<font face="Segoe UI" size="26">{\an8}VỆ THẦN CHO CHINJUKU | GỌI VỐN CỘNG ĐỒNG
+ROBOT KHỔNG LỒ TRONG MƠ CỦA BẠN</font>
+
+381
+00:17:21,460 --> 00:17:24,180
+<font face="Segoe UI" size="26">Tôi phục sát đất vì dân tình cũng chịu móc hầu bao góp quỹ luôn!</font>
+
+382
+00:17:22,770 --> 00:17:24,180
+<font face="Segoe UI" size="26">{\an8}SIÊU ROBOT COPBOT G TỐI THƯỢNG
+2.000.000 MÃ LỰC</font>
+
+383
+00:17:24,630 --> 00:17:28,190
+<font face="Segoe UI" size="26">Ngọn lửa công lý sẽ thiêu rụi
+cái ác thành tro tàn.</font>
+
+384
+00:17:28,540 --> 00:17:29,940
+<font face="Segoe UI" size="26">Láo xược.</font>
+
+385
+00:17:29,940 --> 00:17:31,570
+<font face="Segoe UI" size="26">Ta sẽ nghiền nát chúng bay.</font>
+
+386
+00:17:31,570 --> 00:17:34,190
+<font face="Segoe UI" size="26">Cú Đấm Tan Nát Con Tim!</font>
+
+387
+00:17:35,250 --> 00:17:37,580
+<font face="Segoe UI" size="26">Chin... Ngưng Đọng.</font>
+
+388
+00:17:39,210 --> 00:17:40,450
+<font face="Segoe UI" size="26">Cái gì?!</font>
+
+389
+00:17:40,740 --> 00:17:42,200
+<font face="Segoe UI" size="26">Ngay lúc này! Kết liễu hắn đi!</font>
+
+390
+00:17:42,200 --> 00:17:44,990
+<font face="Segoe UI" size="26">{\an8}Chin Nhào Lộn Vòng Tròn!</font>
+
+391
+00:17:42,200 --> 00:17:44,990
+<font face="Segoe UI" size="26">{\an8}Mãnh Kích Không Độ Cồn!</font>
+
+392
+00:17:43,600 --> 00:17:46,090
+<font face="Segoe UI" size="26">Ờm, à thì, Tuyệt Kỹ Quật Một Vai Bá Đạo!</font>
+
+393
+00:17:46,090 --> 00:17:49,080
+<font face="Segoe UI" size="26">Đánh đấm loạn xạ chẳng đâu vào đâu!
+Lẽ ra tụi mình phải tập dượt trước chứ!</font>
+
+394
+00:17:49,840 --> 00:17:52,840
+<font face="Segoe UI" size="26">Chuyển hóa ngân sách làm anime ngay!</font>
+
+395
+00:17:53,710 --> 00:17:55,970
+<font face="Segoe UI" size="26">Đòn kết liễu của chúng ta!</font>
+
+396
+00:17:57,230 --> 00:18:00,330
+<font face="Segoe UI" size="26">Chin Nhào Lộn Vòng Tròn!</font>
+
+397
+00:18:00,720 --> 00:18:02,220
+<font face="Segoe UI" size="26">{\an8}CHIN NHÀO LỘN VÒNG TRÒN</font>
+
+398
+00:18:07,330 --> 00:18:08,400
+<font face="Segoe UI" size="26">Chin Khóa Cổ.</font>
+
+399
+00:18:07,520 --> 00:18:09,360
+<font face="Segoe UI" size="26">{\an8}CHIN KHÓA CỔ</font>
+
+400
+00:18:09,680 --> 00:18:11,580
+<font face="Segoe UI" size="26">Và cuối cùng là Chin Còng Tay Bắt Giữ.</font>
+
+401
+00:18:09,940 --> 00:18:12,740
+<font face="Segoe UI" size="26">{\an8}CHIN CÒNG TAY BẮT GIỮ</font>
+
+402
+00:18:13,120 --> 00:18:16,110
+<font face="Segoe UI" size="26">Ghét tội ác, chứ đừng ghét tội phạm.</font>
+
+403
+00:18:17,610 --> 00:18:19,070
+<font face="Segoe UI" size="26">Tan nát cõi lòng!</font>
+
+404
+00:18:19,070 --> 00:18:20,490
+<font face="Segoe UI" size="26">Đây rốt cuộc là thể loại anime gì vậy trời?</font>
+
+405
+00:18:20,960 --> 00:18:22,370
+<font face="Segoe UI" size="26">Và thế là khép lại vụ án.</font>
+
+406
+00:18:22,810 --> 00:18:24,320
+<font face="Segoe UI" size="26">Đừng có tự tiện kết thúc ngang xương thế chứ!</font>
+
+407
+00:18:24,320 --> 00:18:26,560
+<font face="Segoe UI" size="26">Hãy tới Rạp Chin-Rosso
+và bắt tay giao lưu cùng tôi nhé.</font>
+
+408
+00:18:26,560 --> 00:18:28,250
+<font face="Segoe UI" size="26">Làm gì có cái rạp đó mà mời với chả mọc!</font>
+
+409
+00:18:30,020 --> 00:18:31,250
+<font face="Segoe UI" size="26">Maru.</font>
+
+410
+00:18:31,540 --> 00:18:34,160
+<font face="Segoe UI" size="26">Cô ấy không bị thương đâu. Chỉ ngất xỉu thôi.</font>
+
+411
+00:18:34,160 --> 00:18:35,510
+<font face="Segoe UI" size="26">May quá đi mất.</font>
+
+412
+00:18:35,860 --> 00:18:38,990
+<font face="Segoe UI" size="26">Bọn chúng tóm cô ấy từ tối qua.
+Cũng dễ hiểu thôi mà.</font>
+
+413
+00:18:39,480 --> 00:18:41,540
+<font face="Segoe UI" size="26">Mau đưa cô ấy tới chỗ nào an toàn trước đã.</font>
+
+414
+00:18:43,050 --> 00:18:44,760
+<font face="Segoe UI" size="26">Ồ, cô tỉnh lại rồi à?</font>
+
+415
+00:18:45,070 --> 00:18:46,860
+<font face="Segoe UI" size="26">A-Anh Chin Red?!</font>
+
+416
+00:18:46,860 --> 00:18:49,270
+<font face="Segoe UI" size="26">Mặt đất ở đây gồ ghề lắm, cẩn thận nhé.</font>
+
+417
+00:18:49,810 --> 00:18:54,270
+<font face="Segoe UI" size="26">H-Hả? Em nhớ mình bị kẻ nào đó
+bắt cóc, xong rồi...</font>
+
+418
+00:18:54,700 --> 00:18:57,410
+<font face="Segoe UI" size="26">Bọn tôi vừa xử lý xong đám người đó rồi.</font>
+
+419
+00:18:57,410 --> 00:18:59,280
+<font face="Segoe UI" size="26">Chúng tôi sẽ bàn giao chúng cho cảnh sát địa phương.</font>
+
+420
+00:18:59,810 --> 00:19:04,780
+<font face="Segoe UI" size="26">C-Cảm giác như lần nào anh cũng ra tay cứu em vậy.
+Mới hôm trước còn...</font>
+
+421
+00:19:05,280 --> 00:19:07,540
+<font face="Segoe UI" size="26">Tên cướp giật ở đường số Sáu chứ gì?</font>
+
+422
+00:19:07,900 --> 00:19:09,290
+<font face="Segoe UI" size="26">Anh vẫn nhớ chuyện đó sao ạ?</font>
+
+423
+00:19:09,290 --> 00:19:13,810
+<font face="Segoe UI" size="26">Sao lại không nhớ được chứ?
+Chúng ta là đồng đội cùng bảo vệ Chinjuku mà.</font>
+
+424
+00:19:13,810 --> 00:19:16,050
+<font face="Segoe UI" size="26">Tôi biết cô đã nỗ lực vất vả thế nào mà.</font>
+
+425
+00:19:18,320 --> 00:19:19,050
+<font face="Segoe UI" size="26">Anh Chin...</font>
+
+426
+00:19:19,400 --> 00:19:21,850
+<font face="Segoe UI" size="26">Anh Chin Red!</font>
+
+427
+00:19:19,400 --> 00:19:21,850
+<font face="Segoe UI" size="26"><i>{\an8}Bùng nổ!</i></font>
+
+428
+00:19:21,850 --> 00:19:23,320
+<font face="Segoe UI" size="26">Mình đang chứng kiến cảnh tượng quái quỷ gì thế này?</font>
+
+429
+00:19:23,320 --> 00:19:25,310
+<font face="Segoe UI" size="26"><i>Và thế là, vụ án chính thức khép lại.</i></font>
+
+430
+00:19:25,310 --> 00:19:29,560
+<font face="Segoe UI" size="26">{\an8}MÀN TRÌNH DIỄN KINH ĐIỂN KHÁC
+ROBOT KHỔNG LỒ TÓM GỌN HÀNG LOẠT TỘI PHẠM?!</font>
+
+431
+00:19:25,680 --> 00:19:30,800
+<font face="Segoe UI" size="26"><i>Những chiến công vang dội tại Chinjuku
+đã đưa anh thành ngôi sao toàn quốc.</i></font>
+
+432
+00:19:29,560 --> 00:19:31,480
+<font face="Segoe UI" size="26">{\an8}CHỈ SỐ CHIN-NIKKEI
+GIÁ TRỊ HIỆN TẠI: 71.053,49</font>
+
+433
+00:19:30,800 --> 00:19:33,310
+<font face="Segoe UI" size="26"><i>Cơn sốt xoay quanh anh ta
+thúc đẩy cả nền kinh tế Nhật Bản đi lên,</i></font>
+
+434
+00:19:31,480 --> 00:19:33,310
+<font face="Segoe UI" size="26">{\an8}BIẾN ĐỘNG HÔM QUA: +5555,55
+HIỆU ỨNG KINH TẾ CHIN RED!</font>
+
+435
+00:19:33,310 --> 00:19:38,190
+<font face="Segoe UI" size="26"><i>đưa danh tiếng của Chin Red chạm tới
+đỉnh cao chói lọi nhất.</i></font>
+
+436
+00:19:36,190 --> 00:19:38,190
+<font face="Segoe UI" size="26">{\an8}CƠN SỐT CHIN RED</font>
+
+437
+00:19:38,190 --> 00:19:40,450
+<font face="Segoe UI" size="26">{\an8}NGÀY HÔM SAU</font>
+
+438
+00:19:38,980 --> 00:19:39,750
+<font face="Segoe UI" size="26"><i>Cho tới khi...</i></font>
+
+439
+00:19:41,010 --> 00:19:44,970
+<font face="Segoe UI" size="26">Tạm thời cậu phải tiết chế lại cái trò
+Chin Red đó trong thời gian tới đi.</font>
+
+440
+00:19:48,470 --> 00:19:52,360
+<font face="Segoe UI" size="26">Ơ-Ơ kìa... Nhưng Trưởng đồn ơi,
+Chin Red đang cực kỳ được lòng dân chúng mà.</font>
+
+441
+00:19:52,360 --> 00:19:55,210
+<font face="Segoe UI" size="26">Chính sự nổi tiếng đó đang biến thành
+rắc rối lớn đấy.</font>
+
+442
+00:19:55,660 --> 00:19:57,460
+<font face="Segoe UI" size="26">Ra nhìn bên ngoài đồn cảnh sát mà xem.</font>
+
+443
+00:19:57,810 --> 00:19:59,730
+<font face="Segoe UI" size="26">Cả đám đông đang hò hét đòi gặp Chin Red kìa.</font>
+
+444
+00:19:57,810 --> 00:19:59,730
+<font face="Segoe UI" size="26">{\an8}Mau gọi Chin Red ra đây!</font>
+
+445
+00:19:59,730 --> 00:20:02,560
+<font face="Segoe UI" size="26">{\an8}Trưởng đồn phải công khai danh tính thật
+của Chin Red! Cả địa chỉ nhà nữa!</font>
+
+446
+00:20:02,560 --> 00:20:05,810
+<font face="Segoe UI" size="26">{\an8}Thôi khai tuột tuồn tuột luôn đi!
+Kể hết mọi thứ cho tụi tôi nghe!</font>
+
+447
+00:20:09,030 --> 00:20:12,980
+<font face="Segoe UI" size="26">Bọn họ sắp bạo loạn tới nơi rồi,
+mà ta lại chẳng dám mạo hiểm cưỡng chế giải tán.</font>
+
+448
+00:20:12,980 --> 00:20:16,980
+<font face="Segoe UI" size="26">Chưa kể lúc gặp chuyện cần giúp đỡ,
+dân tình cũng chỉ réo tên Chin Red thôi.</font>
+
+449
+00:20:16,980 --> 00:20:18,860
+<font face="Segoe UI" size="26">{\an8}Giao Chin Red ra cho bọn tôi ngay!</font>
+
+450
+00:20:17,380 --> 00:20:19,730
+<font face="Segoe UI" size="26">Trớ trêu thật đấy, nhưng sự nổi tiếng của Chin Red</font>
+
+451
+00:20:18,860 --> 00:20:19,730
+<font face="Segoe UI" size="26">{\an8}Cho chúng tôi gặp Red!</font>
+
+452
+00:20:19,730 --> 00:20:24,020
+<font face="Segoe UI" size="26">còn rắc rối gấp bội sự căm ghét dành cho
+tên cảnh sát tâm linh tai họa như cậu đấy.</font>
+
+453
+00:20:24,020 --> 00:20:26,120
+<font face="Segoe UI" size="26">Kh-Không thể nào.</font>
+
+454
+00:20:26,200 --> 00:20:28,290
+<font face="Segoe UI" size="26">{\an8}CHIN</font>
+
+455
+00:20:28,490 --> 00:20:31,370
+<font face="Segoe UI" size="26">Cậu phải tạm thời nằm im thở khẽ
+cho tới khi mọi chuyện lắng xuống!</font>
+
+456
+00:20:31,370 --> 00:20:33,750
+<font face="Segoe UI" size="26">Không đời nào!</font>
+
+457
+00:20:34,080 --> 00:20:36,340
+<font face="Segoe UI" size="26">Dạo này chẳng thấy tin tức gì về
+Chin Red nữa hết trơn.</font>
+
+458
+00:20:36,340 --> 00:20:38,910
+<font face="Segoe UI" size="26">Chắc là Maru đang vật vã vì
+hội chứng cai nghiện Chin Red lắm đây.</font>
+
+459
+00:20:38,910 --> 00:20:39,880
+<font face="Segoe UI" size="26">Thì tất nhiên rồi.</font>
+
+460
+00:20:40,170 --> 00:20:44,130
+<font face="Segoe UI" size="26">Nhưng tớ không còn chỉ biết cuồng si ngưỡng mộ anh ấy
+như bao người hâm mộ bình thường khác nữa đâu.</font>
+
+461
+00:20:44,640 --> 00:20:49,410
+<font face="Segoe UI" size="26">Anh Chin Red từng bảo tớ là đồng đội
+cùng chung tay bảo vệ Chinjuku.</font>
+
+462
+00:20:49,410 --> 00:20:53,500
+<font face="Segoe UI" size="26">Vậy nên lúc anh ấy vắng mặt,
+tớ không thể lãng phí thời gian ủ rũ buồn bã được.</font>
+
+463
+00:20:53,500 --> 00:20:54,140
+<font face="Segoe UI" size="26">Với lại...</font>
+
+464
+00:20:54,450 --> 00:20:57,030
+<font face="Segoe UI" size="26"><i>Tôi biết cô đã nỗ lực vất vả thế nào mà.</i></font>
+
+465
+00:20:57,030 --> 00:20:59,770
+<font face="Segoe UI" size="26">Tớ tin anh Chin Red vẫn luôn dõi theo tớ ở ngoài kia.</font>
+
+466
+00:21:00,090 --> 00:21:03,920
+<font face="Segoe UI" size="26">Tớ muốn bảo vệ Chinjuku theo cách
+khiến anh ấy phải tự hào.</font>
+
+467
+00:21:04,600 --> 00:21:07,350
+<font face="Segoe UI" size="26">Xem ra tình yêu đã giúp Maru mạnh mẽ hơn hẳn rồi.</font>
+
+468
+00:21:09,620 --> 00:21:14,480
+<font face="Segoe UI" size="26">Hơn nữa, lúc anh ấy ôm tớ trong vòng tay,
+tớ cảm giác như hai tâm hồn đã hòa làm một.</font>
+
+469
+00:21:14,480 --> 00:21:19,030
+<font face="Segoe UI" size="26">Dù không rõ diện mạo thật của anh ấy ra sao,
+tớ cá chỉ cần chạm mặt ngoài đời là tớ nhận ra ngay.</font>
+
+470
+00:21:17,530 --> 00:21:20,760
+<font face="Segoe UI" size="26">{\an8}Cho tôi giúp đỡ mọi người với đi.</font>
+
+471
+00:21:21,860 --> 00:21:25,150
+<font face="Segoe UI" size="26">Tôi muốn đi giúp người cơ.</font>
+
+472
+00:21:25,150 --> 00:21:29,630
+<font face="Segoe UI" size="26">Hãy để tôi ra tay tương trợ những kẻ khốn khó,
+lũ khốn nạn kia.</font>
+
+473
+00:21:29,630 --> 00:21:31,720
+<font face="Segoe UI" size="26">Tên cảnh sát tâm linh kìa!</font>
+
+474
+00:21:30,140 --> 00:21:33,740
+<font face="Segoe UI" size="26">{\an8}Tôi... Tôi là siêu anh hùng mà.</font>
+
+475
+00:21:33,740 --> 00:21:35,240
+<font face="Segoe UI" size="26">Hắn đang lảm nhảm cái gì thế?</font>
+
+476
+00:21:35,240 --> 00:21:37,040
+<font face="Segoe UI" size="26">Tránh xa tụi tôi ra, đồ lập dị!</font>
+
+477
+00:21:37,040 --> 00:21:38,770
+<font face="Segoe UI" size="26">Cút ngay đi, đồ biến thái!</font>
+
+478
+00:21:39,070 --> 00:21:43,340
+<font face="Segoe UI" size="26"><i>Bé Pon quyết định giữ kín sự thật này cho riêng mình.</i></font>
+
+479
+00:23:14,990 --> 00:23:16,490
+<font face="Segoe UI" size="26">{\an8}GIỚI THIỆU TẬP TIẾP THEO</font>
+
+480
+00:23:15,540 --> 00:23:16,490
+<font face="Segoe UI" size="26">{\an8}Là Nao đây.</font>
+
+481
+00:23:16,490 --> 00:23:18,800
+<font face="Segoe UI" size="26">Giống như trò chơi điện tử,
+cuộc đời cũng có kẻ thắng người thua.</font>
+
+482
+00:23:18,800 --> 00:23:21,760
+<font face="Segoe UI" size="26">Hình như nỗi buồn sắp đẩy tiền bối Chojo hắc hóa rồi.
+Mà khoan, đây rốt cuộc là câu chuyện <i>gì</i> vậy?</font>
+
+483
+00:23:21,760 --> 00:23:25,750
+<font face="Segoe UI" size="26">Nhưng không sao cả, vì mục tiêu của tụi mình
+đâu phải thắng thua. Ta luôn tìm được lối đi thứ ba.</font>
+
+484
+00:23:25,750 --> 00:23:28,030
+<font face="Segoe UI" size="26">Chưa kể, tôi sắp biến thành
+một tuyệt thế giai nhân nữa đấy.</font>
+
+485
+00:23:28,030 --> 00:23:30,010
+<font face="Segoe UI" size="26">Nói thật lòng đấy, bộ này rốt cuộc là thể loại <i>gì</i> hả trời?!</font>
+
