@@ -1,0 +1,438 @@
+﻿[Script Info]
+Title: Vietnamese Fansub (VietSub by Amtia(NOFACE))
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Segoe UI,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,20,1
+Style: italics,Segoe UI,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: main,Segoe UI,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: top,Segoe UI,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,10,10,18,1
+Style: italicstop,Segoe UI,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,10,10,18,1
+Style: flashback,Segoe UI,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: flashback italics,Segoe UI,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: flashbacktop,Segoe UI,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,8,20,20,18,1
+Style: flashbackitalicstop,Segoe UI,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,8,10,10,18,1
+Style: overlap,Segoe UI,24,&H007FD3F2,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: overlaptop,Segoe UI,24,&H007FD3F2,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,10,10,18,1
+Style: overlap italics,Segoe UI,24,&H007FD3F2,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:02.48,top,SIGN,0,0,0,,TIỆM PACHINKO
+Dialogue: 0,0:00:02.77,0:00:06.23,main,ELSIE,0,0,0,,Chúng ta thôi hẹn gặp ở đây được không? Ồn ào quá đi.
+Dialogue: 0,0:00:06.23,0:00:09.01,main,ELSIE,0,0,0,,Tôi thậm chí còn chẳng thích chơi pachinko.
+Dialogue: 0,0:00:09.01,0:00:13.50,main,CEO,0,0,0,,Hẹn ở đây là tại cô không muốn\Ntôi bén mảng tới sảnh công hội của cô còn gì.
+Dialogue: 0,0:00:13.50,0:00:15.28,main,ELSIE,0,0,0,,Rồi rồi, lỗi tại tôi.
+Dialogue: 0,0:00:16.77,0:00:19.40,main,CEO,0,0,0,,Cô chưa quên lời hứa giữa hai ta\Nđấy chứ?
+Dialogue: 0,0:00:25.67,0:00:28.17,top,SIGN BIG,0,0,0,,NHÀ TA CHUYÊN GIẾT NGƯỜI
+Dialogue: 0,0:00:32.40,0:00:35.56,main,MOM,0,0,0,,Chúc mừng con về nhà! Mẹ đợi con mãi đấy!
+Dialogue: 0,0:00:35.56,0:00:36.67,main,BROTHERS,0,0,0,,Mirabelle!
+Dialogue: 0,0:00:36.67,0:00:38.26,main,BROTHERS,0,0,0,,Mừng em về nhà!
+Dialogue: 0,0:00:38.26,0:00:44.02,top,SIGN BIG,0,0,0,,NHÀ TA CHUYÊN GIẾT NGƯỜI
+Dialogue: 0,0:00:57.97,0:01:00.58,top,SIGN,0,0,0,,MA PHÁP SƯ BAN PHƯỚC CHEAT BỊ ĐUỔI VIỆC\NTẬN HƯỞNG CUỘC SỐNG MỚI
+Dialogue: 0,0:02:15.69,0:02:19.07,main,REIN,0,0,0,,May quá, cả nhóm đều quay về thị trấn bình an rồi.
+Dialogue: 0,0:02:19.51,0:02:21.65,main,REIN,0,0,0,,Sau đây cô định làm gì thế, Margaret?
+Dialogue: 0,0:02:21.65,0:02:25.43,main,MARGARET,0,0,0,,Sau khi đón cún cưng từ\Nkhách sạn thú cưng ra, tôi sẽ về nhà.
+Dialogue: 0,0:02:25.43,0:02:28.68,main,LILY,0,0,0,,Chị ghé qua sảnh công hội Tinh Thể Xanh\Nbọn em chơi cho vui đi.
+Dialogue: 0,0:02:28.68,0:02:30.17,main,REIN,0,0,0,,Hay là cô gia nhập công hội luôn đi.
+Dialogue: 0,0:02:31.45,0:02:33.71,main,MARGARET,0,0,0,,Được. Tôi sẽ cân nhắc chuyện đó.
+Dialogue: 0,0:02:33.71,0:02:35.50,main,REIN,0,0,0,,Cô có thể đi cùng tụi tôi ngay bây—
+Dialogue: 0,0:02:35.50,0:02:39.69,main,MARGARET,0,0,0,,T-Tôi thực sự phải tới\Nkhách sạn thú cưng ngay! Xin phép đi trước nhé!
+Dialogue: 0,0:02:39.69,0:02:41.51,main,REIN,0,0,0,,Ghé qua một lát cũng được mà.
+Dialogue: 0,0:02:41.51,0:02:43.89,top,SIGN FX,0,0,0,,VỌT LẸ
+Dialogue: 0,0:02:41.51,0:02:43.89,main,MARGARET,0,0,0,,Chú chó của tôi! Chú chó của tôi đang đợi đấy!
+Dialogue: 0,0:02:43.89,0:02:45.89,main,REIN,0,0,0,,Vậy đón cún xong thì nhớ\Nghé qua đấy nhé!
+Dialogue: 0,0:02:45.89,0:02:46.77,main,LILY,0,0,0,,Trông chị cứ như hồn ma lướt đi ấy!
+Dialogue: 0,0:02:46.77,0:02:48.79,top,SIGN FX,0,0,0,,VỌT LẸ
+Dialogue: 0,0:02:46.77,0:02:48.79,main,MARGARET,0,0,0,,Chó của tôi sẽ làm bẩn sảnh công hội mất!
+Dialogue: 0,0:02:48.79,0:02:52.49,main,REIN,0,0,0,,Chẳng ai để tâm đâu.\NChỗ đó vốn dĩ đã bừa bộn sẵn rồi mà.
+Dialogue: 0,0:02:52.49,0:02:53.02,main,LILY,0,0,0,,Này nhá!
+Dialogue: 0,0:02:53.02,0:02:57.12,main,MARGARET,0,0,0,,Nhưng mà chó của tôi... Cún của tôi!
+Dialogue: 0,0:02:57.12,0:03:00.48,main,REIN,0,0,0,,Margaret ơi!
+Dialogue: 0,0:02:59.65,0:03:04.66,top,EPTITLE,0,0,0,,TÔI CHƯA BAO GIỜ GHÉ TIỆM BÁNH ĐÓ CẢ, NÊN TÔI SẼ\NTẬN DỤNG CƠ HỘI NÀY ĐỂ NHÉT ĐẦY BỤNG\NBÁNH MÌ DƯA LƯỚI VÀ DẮT CHÓ ĐI DẠO, HOAN HÔ!
+Dialogue: 0,0:03:04.66,0:03:07.81,top,SIGN,0,0,0,,THẾ GIỚI THÚ CƯNG PUYO
+Dialogue: 0,0:03:08.80,0:03:14.41,main,MARGARET,0,0,0,,Mình vốn đâu có định kết bạn với ai,\Nvậy mà họ lại mời mình sang chơi.
+Dialogue: 0,0:03:15.89,0:03:21.20,main,MARGARET,0,0,0,,Nghĩ lại thì, tôi chưa bao giờ\Ngọi tên cậu lấy một lần nhỉ.
+Dialogue: 0,0:03:22.25,0:03:25.55,main,MARGARET,0,0,0,,Ch-Chúng ta về nhà nhé, Acorn?
+Dialogue: 0,0:03:28.02,0:03:29.31,main,MARGARET,0,0,0,,Thôi ngay đi, Acorn!
+Dialogue: 0,0:03:29.64,0:03:31.69,main,MARGARET,0,0,0,,Tôi đâu phải chị gái của tôi chứ!
+Dialogue: 0,0:03:32.81,0:03:35.90,main,MARGARET,0,0,0,,Chỉ vì lỡ nói chuyện khách sáo một cái\Nmà tạo ngay khoảng cách giữa hai đứa thế này à.
+Dialogue: 0,0:03:38.23,0:03:39.77,main,MARGARET,0,0,0,,Đi thôi nào, Acorn!
+Dialogue: 0,0:03:41.17,0:03:43.66,top,SIGN,0,0,0,,NANH VUỐT DÃ THÚ
+Dialogue: 0,0:03:41.54,0:03:43.66,main,BARRIUS,0,0,0,,Ta có chuyện quan trọng cần thông báo.
+Dialogue: 0,0:03:44.24,0:03:47.05,main,BARRIUS,0,0,0,,Ta quyết định hủy bỏ kế hoạch\Nmà Glenda từng khởi xướng.
+Dialogue: 0,0:03:47.05,0:03:49.40,main,BARRIUS,0,0,0,,Chúng ta sẽ xin lỗi Rein\Nvà mời cậu ấy quay tr—
+Dialogue: 0,0:03:49.40,0:03:50.16,main,HALF,0,0,0,,Cái gì?!
+Dialogue: 0,0:03:50.47,0:03:55.30,main,HALF,0,0,0,,Barrius, chính mày đã đẩy đám bạn tao vào kế hoạch đó.
+Dialogue: 0,0:03:55.30,0:03:58.85,main,HALF,0,0,0,,Mày tưởng mình đang làm cái quái gì thế hả,\Ntên đầu trọc kia?
+Dialogue: 0,0:03:58.85,0:03:59.30,main,BARRIUS,0,0,0,,Gì cơ?
+Dialogue: 0,0:03:59.30,0:04:01.30,main,HALF,0,0,0,,Mày thừa hiểu tao nói gì mà, đầu trọc!
+Dialogue: 0,0:04:00.56,0:04:01.30,main,BARRIUS,0,0,0,,Á đau!
+Dialogue: 0,0:04:01.30,0:04:04.30,main,HALF,0,0,0,,Cái đầu mày trơn láng bóng loáng\Nnhư quả bóng bowling rồi đấy, đầu trọc!
+Dialogue: 0,0:04:04.94,0:04:08.17,main,HALF,0,0,0,,Mày tưởng bọn tao không dám giết mày\Nvì mày là hội trưởng chắc?
+Dialogue: 0,0:04:08.56,0:04:10.43,main,HALF,0,0,0,,Muốn thử xem bọn tao có dám thật không hả?
+Dialogue: 0,0:04:12.17,0:04:16.46,main,HALF,0,0,0,,Đồ hèn. Cứng họng không đáp lại nổi câu nào à?
+Dialogue: 0,0:04:16.46,0:04:18.45,main,COMRADE A,0,0,0,,Tạm biệt nhé, Barrius.
+Dialogue: 0,0:04:18.45,0:04:21.38,main,COMRADE B,0,0,0,,Đừng có rụng nhiều tóc xuống sàn quá đấy!
+Dialogue: 0,0:04:21.38,0:04:23.29,main,COMRADE B,0,0,0,,Đây đâu phải tiệm làm tóc đâu!
+Dialogue: 0,0:04:26.45,0:04:28.04,main,BARRIUS,0,0,0,,Khốn kiếp!
+Dialogue: 0,0:04:28.04,0:04:32.64,main,BARRIUS,0,0,0,,Mình đâu có ngờ việc đuổi cổ một thằng ngốc\Nlại gây ra nhiều rắc rối đến thế này!
+Dialogue: 0,0:04:32.64,0:04:33.33,main,REIN,0,0,0,,Tuyệt vời luôn!
+Dialogue: 0,0:04:33.33,0:04:37.71,top,SIGN,0,0,0,,CÔNG HỘI KHIÊN ĐẾ QUỐC
+Dialogue: 0,0:04:34.11,0:04:36.69,main,GUILD MEMBER,0,0,0,,Tuyên ngôn công hội Khiên Đế Quốc!
+Dialogue: 0,0:04:36.69,0:04:40.96,main,ALL,0,0,0,,Chúng ta sống là để đi thám hiểm!
+Dialogue: 0,0:04:41.23,0:04:43.97,main,ALL,0,0,0,,Được đi thám hiểm chính là một phước lành!
+Dialogue: 0,0:04:43.97,0:04:45.97,main,ALL,0,0,0,,Chúng ta luôn biết ơn những chuyến thám hiểm!
+Dialogue: 0,0:04:45.97,0:04:49.85,main,ALL,0,0,0,,Khai thông con đường dẫn tới thám hiểm\Nchính là tinh thần thám hiểm!
+Dialogue: 0,0:04:49.85,0:04:54.17,main,CEO,0,0,0,,Hô to lên xem nào, Margaret. Ta chẳng nghe thấy gì cả.
+Dialogue: 0,0:04:54.17,0:04:58.09,main,MARGARET,0,0,0,,Thưa Giám đốc, tôi đang đọc châm ngôn công hội\Nnhiệt huyết hơn bất kỳ ai ở đây đấy ạ.
+Dialogue: 0,0:04:58.09,0:04:59.86,main,CEO,0,0,0,,Hãy gọi ta là "Hội trưởng".
+Dialogue: 0,0:04:59.86,0:05:02.48,main,CEO,0,0,0,,Vậy thì tự mình cô đọc to câu tiếp theo đi.
+Dialogue: 0,0:05:02.84,0:05:05.99,top,SIGN FX,0,0,0,,VẪY VẪY VẪY VẪY VẪY VẪY
+Dialogue: 0,0:05:04.01,0:05:05.99,main,CEO,0,0,0,,Biết ngay mà! Cô chỉ có mấp máy môi cho có lệ thôi!
+Dialogue: 0,0:05:07.18,0:05:10.49,top,SIGN TOP,0,0,0,,CHỈ TIÊU THÁM HIỂM
+Dialogue: 0,0:05:05.99,0:05:10.49,top,SIGN LEFT TO RIGHT,0,0,0,,HONDA SAKAI YAMADA (MỚI)\NMARGARET ELLS KINOSHITA SUZUKI KATAYAMA
+Dialogue: 0,0:05:05.99,0:05:10.49,main,CEO,0,0,0,,Margaret, những người như cô đang kéo lùi\Ncả tập thể công hội đấy.
+Dialogue: 0,0:05:10.89,0:05:12.24,top,SIGN FX,0,0,0,,VẪY VẪY VẪY VẪY
+Dialogue: 0,0:05:10.89,0:05:12.24,main,MARGARET,0,0,0,,Vâng ạ. Tôi xin lỗi ạ.
+Dialogue: 0,0:05:12.24,0:05:13.25,main,CEO,0,0,0,,Cô đang giễu cợt ta đấy à?!
+Dialogue: 0,0:05:13.52,0:05:15.23,top,SIGN FX,0,0,0,,VẪY VẪY VẪY
+Dialogue: 0,0:05:13.25,0:05:15.09,main,MARGARET,0,0,0,,Tôi không hề giễu cợt ngài đâu ạ.
+Dialogue: 0,0:05:15.09,0:05:16.55,main,MARGARET,0,0,0,,Phải, tôi đang giễu cợt ngài đấy ạ!
+Dialogue: 0,0:05:16.55,0:05:18.00,main,CEO,0,0,0,,Ta biết ngay mà!
+Dialogue: 0,0:05:18.00,0:05:21.13,main,CEO,0,0,0,,Đã làm trò đó thì đừng có dùng tay\Nra hiệu bảo không chế giễu ta chứ!
+Dialogue: 0,0:05:21.36,0:05:23.48,main,MARGARET,0,0,0,,Ồ, ngài nói chí phải ạ! Đa tạ ngài\Nđã tận tình chỉ bảo!
+Dialogue: 0,0:05:23.48,0:05:25.26,main,CEO,0,0,0,,Ta gọi cô tới đây không phải để dạy mấy trò đó!
+Dialogue: 0,0:05:25.26,0:05:27.26,top,SIGN,0,0,0,,PHÒNG HỘI TRƯỞNG
+Dialogue: 0,0:05:26.35,0:05:30.42,main,CEO,0,0,0,,Ta nghe đồn cô dùng ngày nghỉ phép có lương\Nđể đi đâu đó với đám Tinh Thể Xanh à.
+Dialogue: 0,0:05:30.42,0:05:32.89,main,MARGARET,0,0,0,,Đảo Guam đẹp lắm ạ. Lại còn gần nữa.
+Dialogue: 0,0:05:32.89,0:05:36.92,main,CEO,0,0,0,,Ta đoán là cô đang tính chuyện\Nchuyển sang đầu quân cho Tinh Thể Xanh đúng không.
+Dialogue: 0,0:05:36.92,0:05:40.03,main,CEO,0,0,0,,Đáng tiếc thay, Margaret Ells ạ...
+Dialogue: 0,0:05:40.76,0:05:42.56,main,MARGARET,0,0,0,,Đáng tiếc chuyện gì cơ ạ?
+Dialogue: 0,0:05:42.89,0:05:46.93,main,CEO,0,0,0,,Công hội đó coi như đi đời rồi.
+Dialogue: 0,0:05:49.66,0:05:52.97,main,REIN,0,0,0,,Chẳng có ai ở đây cả.\NKhông biết có chuyện gì xảy ra nữa.
+Dialogue: 0,0:05:52.97,0:05:56.13,main,REIN,0,0,0,,Chị Elsie, Nina ơi!
+Dialogue: 0,0:05:57.17,0:05:58.39,main,LILY,0,0,0,,Chị Margaret.
+Dialogue: 0,0:05:58.39,0:06:00.14,main,REIN,0,0,0,,Cô tới chơi đấy à.
+Dialogue: 0,0:06:00.46,0:06:03.05,main,MARGARET,0,0,0,,Tôi tiện đường dắt chó đi dạo ngang qua đây thôi.
+Dialogue: 0,0:06:03.05,0:06:04.44,main,LILY,0,0,0,,Dễ thương quá đi.
+Dialogue: 0,0:06:04.44,0:06:07.22,main,REIN,0,0,0,,Nhìn nhóc ấy còn cưng hơn hẳn\Nlần trước tụi mình gặp nữa.
+Dialogue: 0,0:06:07.22,0:06:09.66,main,MARGARET,0,0,0,,Chị gái tôi rất thương chú chó này.
+Dialogue: 0,0:06:09.66,0:06:11.68,main,MARGARET,0,0,0,,Tôi quyết định không giữ kẽ nói năng\Nkhách sáo với nó nữa.
+Dialogue: 0,0:06:11.68,0:06:14.30,main,REIN,0,0,0,,Ra vậy, bảo sao hai người lại\Ngắn bó thân thiết với nhau đến thế.
+Dialogue: 0,0:06:14.30,0:06:15.61,main,LILY,0,0,0,,Thích thật đấy.
+Dialogue: 0,0:06:20.67,0:06:23.49,main,REIN,0,0,0,,Ô-Ông là Barrius!
+Dialogue: 0,0:06:23.94,0:06:27.19,main,BARRIUS,0,0,0,,Rein, ta tới đây vì có chuyện\Ncần bàn với cậu.
+Dialogue: 0,0:06:27.19,0:06:29.37,main,REIN,0,0,0,,G-Giờ ông còn có chuyện gì\Nđể bàn với tôi nữa chứ?
+Dialogue: 0,0:06:29.37,0:06:32.57,main,MARGARET,0,0,0,,Xem ra tôi ở lại chỉ tổ vướng chân.\NTôi xin phép về trước đây.
+Dialogue: 0,0:06:32.57,0:06:36.03,main,REIN,0,0,0,,Sao thế? Cô đâu cần phải đi đâu, Margaret.
+Dialogue: 0,0:06:36.62,0:06:38.46,main,MARGARET,0,0,0,,Đ-Được thôi.
+Dialogue: 0,0:06:39.80,0:06:42.96,main,BARRIUS,0,0,0,,Xin cậu hãy quay về Nanh Vuốt Dã Thú đi!
+Dialogue: 0,0:06:44.38,0:06:48.18,main,BARRIUS,0,0,0,,Cứ đà này, công hội của chúng ta\Nsẽ bị xóa sổ mất!
+Dialogue: 0,0:06:48.18,0:06:54.14,main,BARRIUS,0,0,0,,Chúng tôi cần sức mạnh ma pháp cường hóa\Ntài ba của cậu để gây dựng lại tất cả!
+Dialogue: 0,0:06:54.62,0:06:57.54,main,BARRIUS,0,0,0,,Công hội đó là tất cả sinh mạng của ta!
+Dialogue: 0,0:06:57.93,0:07:01.65,main,BARRIUS,0,0,0,,Ta thậm chí sẵn sàng dâng hiến mạng sống vì công hội!
+Dialogue: 0,0:07:02.01,0:07:04.73,main,BARRIUS,0,0,0,,Vậy nên làm ơn hãy quay về đi!
+Dialogue: 0,0:07:04.73,0:07:06.73,main,REIN,0,0,0,,Vậy tại sao lúc đầu ông lại đuổi cổ tôi đi?!
+Dialogue: 0,0:07:09.62,0:07:15.74,main,BARRIUS,0,0,0,,Hôm đó ta ngồi than vãn với thằng bạn ở quán rượu,\Nrồi chuyện nó tự nhiên thành ra thế.
+Dialogue: 0,0:07:16.81,0:07:19.20,main,REIN,0,0,0,,"Tự nhiên thành ra thế" là sao hả?!
+Dialogue: 0,0:07:19.75,0:07:22.09,main,REIN,0,0,0,,Nói thế mà nghe được à?!
+Dialogue: 0,0:07:22.09,0:07:24.14,main,REIN,0,0,0,,Đó đâu phải lý do chính đáng!\NNghe chẳng lọt tai chút nào cả!
+Dialogue: 0,0:07:24.14,0:07:26.38,main,BARRIUS,0,0,0,,Thì ta cũng đành chịu chứ biết làm sao!
+Dialogue: 0,0:07:27.03,0:07:31.77,main,BARRIUS,0,0,0,,Lily, Margaret! Hai cô cũng từng nghĩ tới chuyện\Nđá phăng thằng Rein đi rồi, đúng không?
+Dialogue: 0,0:07:31.77,0:07:34.64,main,BARRIUS,0,0,0,,Hai cô thừa biết cậu ta phiền phức cỡ nào mà, phải không?
+Dialogue: 0,0:07:34.64,0:07:36.92,main,REIN,0,0,0,,Ông ăn nói linh tinh gì thế?
+Dialogue: 0,0:07:36.92,0:07:38.70,main,REIN,0,0,0,,Hiển nhiên họ đời nào nghĩ như vậy chứ!
+Dialogue: 0,0:07:45.29,0:07:49.51,main,LILY,0,0,0,,T-Tôi chẳng hiểu ông đang cố\Nnói cái quái gì nữa, Barrius ạ.
+Dialogue: 0,0:07:49.51,0:07:52.28,main,MARGARET,0,0,0,,Tôi cũng thế. Xin lỗi nhé.
+Dialogue: 0,0:07:54.41,0:07:55.65,main,BARRIUS,0,0,0,,Hai cô nói thật đấy à?
+Dialogue: 0,0:07:55.65,0:07:57.43,main,BARRIUS,0,0,0,,Nhìn mặt cậu ta không làm hai cô\Nnổi cơn thịnh nộ lên sao?
+Dialogue: 0,0:07:57.43,0:07:59.17,main,BARRIUS,0,0,0,,Hai cô không muốn đấm cậu ta nhừ tử à?
+Dialogue: 0,0:07:59.17,0:08:02.54,main,MARGARET,0,0,0,,Cả đời tôi chưa từng nổi cơn thịnh nộ bao giờ.
+Dialogue: 0,0:08:02.54,0:08:06.97,main,LILY,0,0,0,,Em muốn đấm nhừ tử toàn thể nhân loại,\Ntrừ mỗi anh Rein ra thôi.
+Dialogue: 0,0:08:06.97,0:08:11.01,main,BARRIUS,0,0,0,,Ban đầu cậu ta cũng tạm chấp nhận được,
+Dialogue: 0,0:08:11.01,0:08:15.30,main,BARRIUS,0,0,0,,nhưng càng ngày hai cô chẳng thấy\Nngứa mắt với cậu ta hơn à?
+Dialogue: 0,0:08:17.55,0:08:20.69,main,LILY,0,0,0,,T-Tôi không nghe thấy câu hỏi vừa rồi.
+Dialogue: 0,0:08:20.69,0:08:24.07,main,MARGARET,0,0,0,,Xin lỗi, tôi đang mải nghĩ\Nvề chuyện khác.
+Dialogue: 0,0:08:24.07,0:08:30.19,main,REIN,0,0,0,,Này hai người! Đây là cuộc nói chuyện\Nnghiêm túc đấy! Tập trung vào giùm cái!
+Dialogue: 0,0:08:30.19,0:08:32.69,top,SIGN FX BLUE,0,0,0,,BÓP CHẶT
+Dialogue: 0,0:08:30.46,0:08:30.75,top,SIGN FX RED,0,0,0,,BỐP
+Dialogue: 0,0:08:30.75,0:08:31.00,top,SIGN FX YELLOW,0,0,0,,BỤP
+Dialogue: 0,0:08:31.00,0:08:31.30,top,SIGN FX YELLOW,0,0,0,,BỤP
+Dialogue: 0,0:08:31.17,0:08:31.51,top,SIGN FX YELLOW,0,0,0,,BỤP
+Dialogue: 0,0:08:31.55,0:08:31.88,top,SIGN FX RED,0,0,0,,BỐP
+Dialogue: 0,0:08:32.01,0:08:32.69,top,SIGN FX YELLOW,0,0,0,,BỤP BỤP BỤP BỤP BỤP BỤP BỤP BỤP
+Dialogue: 0,0:08:32.78,0:08:35.70,main,LILY,0,0,0,,Bọn tôi phản ứng thế này chính là vì\Nbọn tôi ĐANG nghe kỹ đấy!
+Dialogue: 0,0:08:35.92,0:08:38.95,main,MARGARET,0,0,0,,Không cần tập trung cũng thừa hiểu\Nhắn ta đang nói nhảm gì mà!
+Dialogue: 0,0:08:42.85,0:08:45.31,top,SIGN FX RED,0,0,0,,HỔN HỂN
+Dialogue: 0,0:08:43.73,0:08:46.19,top,SIGN FX RED,0,0,0,,HỔN HỂN
+Dialogue: 0,0:08:44.85,0:08:47.19,top,SIGN BLUE,0,0,0,,BARRI...
+Dialogue: 0,0:08:44.90,0:08:48.21,main,REIN,0,0,0,,Barri... Barriu... Ba...
+Dialogue: 0,0:08:48.59,0:08:51.13,main,REIN,0,0,0,,Tôi sẽ không quay về Nanh Vuốt Dã Thú đâu.
+Dialogue: 0,0:08:51.13,0:08:54.22,main,REIN,0,0,0,,Tôi sẽ ở lại công hội\NTinh Thể Xanh mãi mãi.
+Dialogue: 0,0:08:54.73,0:08:58.47,main,REIN,0,0,0,,Tôi rất vui khi ở bên mọi người ở đây,\Nvà họ đều là những người bạn tuyệt vời.
+Dialogue: 0,0:08:58.47,0:09:01.57,main,REIN,0,0,0,,Chúng tôi giúp đỡ và nương tựa lẫn nhau\Nmỗi khi gặp khó khăn.
+Dialogue: 0,0:09:01.57,0:09:04.73,main,REIN,0,0,0,,Tôi muốn tiếp tục ở lại đây để làm\Nmột mạo hiểm giả như thế.
+Dialogue: 0,0:09:04.73,0:09:07.15,main,BARRIUS,0,0,0,,Khoan đã, Rein! Nanh Vuốt Dã Thú—
+Dialogue: 0,0:09:07.15,0:09:09.36,main,LILY,0,0,0,,Từ bỏ đi, Barrius.
+Dialogue: 0,0:09:09.63,0:09:12.12,main,LILY,0,0,0,,Nói cách khác thì chàng ma pháp sư ban phước cheat\Nbị sa thải...
+Dialogue: 0,0:09:12.12,0:09:16.07,main,LILY,0,0,0,,đang tận hưởng cuộc sống mới tuyệt vời rồi đấy.
+Dialogue: 0,0:09:09.63,0:09:28.63,top,SIGN,0,0,0,,MA PHÁP SƯ BAN PHƯỚC CHEAT BỊ ĐUỔI VIỆC TẬN HƯỞNG CUỘC SỐNG MỚI
+Dialogue: 0,0:09:16.07,0:09:16.74,main,BARRIUS,0,0,0,,Hả?
+Dialogue: 0,0:09:17.01,0:09:28.63,top,SIGN,0,0,0,,{\an5}TÔI CÓ THỂ CỘNG ĐIỂM THƯỞNG CHO BẤT KỲ ĐỒ VẬT NÀO CHỨ KHÔNG RIÊNG GÌ VŨ KHÍ, VÀ TÔI CŨNG CÓ THỂ GIẢI TRỪ HIỆU ỨNG ĐÓ BẤT CỨ LÚC NÀO, NHƯNG MẤY THÀNH VIÊN CÒN LẠI CỦA ÔNG CÓ ỔN KHÔNG ĐẤY?
+Dialogue: 0,0:09:17.12,0:09:21.22,main,MARGARET,0,0,0,,Tôi có thể cộng điểm thưởng vào\Nbất kỳ đồ vật nào chứ không riêng gì vũ khí,
+Dialogue: 0,0:09:21.22,0:09:25.72,main,MARGARET,0,0,0,,và tôi cũng có thể giải trừ hiệu ứng đó bất cứ lúc nào,\Nnhưng mấy thành viên còn lại của ông có ổn không đấy?
+Dialogue: 0,0:09:25.72,0:09:27.73,main,MARGARET,0,0,0,,Đó là những gì anh Rein vừa nhắn nhủ đấy.
+Dialogue: 0,0:09:27.73,0:09:28.63,main,BARRIUS,0,0,0,,Cái gì?!
+Dialogue: 0,0:09:28.63,0:09:30.72,main,REIN,0,0,0,,Cái quái gì thế? Tôi có nói câu nào như vậy đâu!
+Dialogue: 0,0:09:35.94,0:09:38.01,main,BARRIUS,0,0,0,,Ta hiểu rồi.
+Dialogue: 0,0:09:39.11,0:09:43.45,main,BARRIUS,0,0,0,,Rein đã tìm thấy bến đỗ tốt đẹp\Nvà những người bạn tâm đầu ý hợp.
+Dialogue: 0,0:09:44.80,0:09:48.89,main,BARRIUS,0,0,0,,Ta quyết định rồi.\NTa sẽ giải tán Nanh Vuốt Dã Thú.
+Dialogue: 0,0:09:48.89,0:09:51.52,main,BARRIUS,0,0,0,,Rein, xin lỗi vì hồi đó đã đuổi cổ cậu.
+Dialogue: 0,0:09:52.75,0:09:55.53,main,REIN,0,0,0,,Tôi hiểu rồi. Chuyện cũ cứ cho qua hết đi.
+Dialogue: 0,0:09:57.31,0:09:58.49,main,BARRIUS,0,0,0,,Hẹn gặp lại sau nhé, Rein.
+Dialogue: 0,0:09:59.54,0:10:01.42,main,BARRIUS,0,0,0,,Hãy trân trọng bạn bè của cậu đấy.
+Dialogue: 0,0:10:04.06,0:10:07.21,flashback,CEO,0,0,0,,Công hội đó coi như đi đời rồi.
+Dialogue: 0,0:10:07.69,0:10:10.63,flashback,CEO,0,0,0,,Bọn họ đang ngập đầu trong nợ nần.\NChẳng mấy chốc sẽ phá sản sập tiệm thôi.
+Dialogue: 0,0:10:11.79,0:10:13.88,main,REIN,0,0,0,,Cả nhóc nữa, thấy vui lắm đúng không?
+Dialogue: 0,0:10:13.88,0:10:15.96,main,LILY,0,0,0,,Sao cả {\i1}nhóc{\i0} cũng hớn hở thế hả, Acorn?
+Dialogue: 0,0:10:15.96,0:10:18.57,main,MARGARET,0,0,0,,Ờm, tôi có chuyện muốn hỏi hai người.
+Dialogue: 0,0:10:18.97,0:10:23.88,main,MARGARET,0,0,0,,Tôi nghe nói Tinh Thể Xanh đang ngập đầu\Ntrong nợ nần và sắp phải đóng cửa đến nơi rồi.
+Dialogue: 0,0:10:24.81,0:10:26.14,main,REIN,0,0,0,,Em có biết chuyện đó không?
+Dialogue: 0,0:10:26.14,0:10:27.64,main,LILY,0,0,0,,Không ạ!
+Dialogue: 0,0:10:28.17,0:10:29.56,main,MARGARET,0,0,0,,Tôi hiểu rồi.
+Dialogue: 0,0:10:30.12,0:10:31.31,italics,MARGARET/ID,0,0,0,,Hóa ra hội trưởng giấu hai người họ.
+Dialogue: 0,0:10:32.24,0:10:35.31,main,MARGARET,0,0,0,,Cũng phải thôi.
+Dialogue: 0,0:10:29.56,0:10:31.31,top,REIN,0,0,0,,Tại sao công hội lại mắc nợ thế?
+Dialogue: 0,0:10:31.31,0:10:32.24,top,LILY,0,0,0,,Em không biết.
+Dialogue: 0,0:10:32.24,0:10:33.79,top,REIN,0,0,0,,Công hội đang nợ bao nhiêu tiền vậy?
+Dialogue: 0,0:10:33.79,0:10:34.82,top,LILY,0,0,0,,Em không biết.
+Dialogue: 0,0:10:34.82,0:10:36.06,top,REIN,0,0,0,,Tại sao chứ?
+Dialogue: 0,0:10:36.06,0:10:37.32,top,LILY,0,0,0,,Em không biết.
+Dialogue: 0,0:10:37.32,0:10:38.90,top,REIN,0,0,0,,Tại sao công hội lại mắc nợ thế?
+Dialogue: 0,0:10:38.90,0:10:39.87,top,LILY,0,0,0,,Em không biết.
+Dialogue: 0,0:10:39.87,0:10:41.07,top,REIN,0,0,0,,Công hội đang nợ bao nhiêu tiền vậy?
+Dialogue: 0,0:10:41.07,0:10:42.07,top,LILY,0,0,0,,Em không biết.
+Dialogue: 0,0:10:36.06,0:10:39.87,italics,MARGARET/ID,0,0,0,,Dù sao mình cũng chẳng phải thành viên của họ mà.
+Dialogue: 0,0:10:41.07,0:10:43.26,main,MARGARET,0,0,0,,Acorn, chúng ta về thôi.
+Dialogue: 0,0:10:43.26,0:10:45.08,main,REIN,0,0,0,,Cô về luôn à?
+Dialogue: 0,0:10:45.31,0:10:48.21,main,MARGARET,0,0,0,,Nếu không chịu nghe tôi nói,\Ntôi lại dùng kính ngữ xa cách với hai người nữa đấy.
+Dialogue: 0,0:10:53.84,0:10:54.97,main,REIN,0,0,0,,Hôm nào rảnh lại ghé qua chơi nhé.
+Dialogue: 0,0:10:54.97,0:10:56.54,main,LILY,0,0,0,,Lúc nào bọn em cũng chào đón chị hết.
+Dialogue: 0,0:10:57.19,0:10:58.97,main,MARGARET,0,0,0,,Ừ, tôi sẽ ghé. Gặp lại sau.
+Dialogue: 0,0:11:09.74,0:11:12.48,main,ELSIE,0,0,0,,Nợ nần á? Hai đứa nói linh tinh gì thế?
+Dialogue: 0,0:11:12.48,0:11:14.78,main,NINA,0,0,0,,Ồ, thế à?
+Dialogue: 0,0:11:14.78,0:11:16.61,main,LILY,0,0,0,,Em biết ngay làm gì có chuyện đó mà.
+Dialogue: 0,0:11:16.61,0:11:20.13,main,ELSIE,0,0,0,,Thì ra hai đứa lo lắng chuyện vớ vẩn đó à?
+Dialogue: 0,0:11:20.13,0:11:23.08,main,ELSIE,0,0,0,,Nhân tiện, hai người đã hạ gục được\NQuang Long rồi đúng không?
+Dialogue: 0,0:11:23.08,0:11:26.49,main,ELSIE,0,0,0,,Chắc chắn sẽ được thăng hạng mạo hiểm giả\Nlên cấp cao hơn đấy.
+Dialogue: 0,0:11:26.49,0:11:29.97,main,REIN,0,0,0,,Ui da, đau thế.
+Dialogue: 0,0:11:30.57,0:11:31.69,main,LILY,0,0,0,,Đó chính là con Quang Long.
+Dialogue: 0,0:11:31.69,0:11:33.13,main,NINA,0,0,0,,Gì cơ? Con rồng đấy á?
+Dialogue: 0,0:11:35.66,0:11:37.63,main,REIN,0,0,0,,Cảm ơn mọi người nhiều nhé.
+Dialogue: 0,0:11:38.31,0:11:39.97,main,LILY,0,0,0,,Cảm ơn chuyện gì cơ?
+Dialogue: 0,0:11:40.28,0:11:45.24,main,REIN,0,0,0,,Trước khi tới đây tôi làm thuê với mức lương\N980 yên một giờ.
+Dialogue: 0,0:11:45.24,0:11:48.01,main,REIN,0,0,0,,Công việc đó tuy cũng đáng giá thật,\Nnhưng họ vẫn nhẫn tâm đá tôi ra đường.
+Dialogue: 0,0:11:49.68,0:11:51.77,main,REIN,0,0,0,,Nhưng nhờ vậy tôi mới được tới nơi này.
+Dialogue: 0,0:11:52.04,0:11:56.29,main,REIN,0,0,0,,Nếu không có biến cố ấy, hẳn tôi đã chẳng thể\Nkết giao được với những người bạn tuyệt vời thế này,
+Dialogue: 0,0:11:56.29,0:11:59.47,main,REIN,0,0,0,,cũng như chẳng có chuyến phiêu lưu nào\Nđể cùng nhau đánh bại Quang Long cả.
+Dialogue: 0,0:11:59.91,0:12:02.24,main,ELSIE,0,0,0,,Nghe cậu nói vậy chị mừng lắm.
+Dialogue: 0,0:12:02.24,0:12:04.28,main,REIN,0,0,0,,Tôi có nên phát biểu tiếp nữa không?
+Dialogue: 0,0:12:04.28,0:12:05.91,main,ELSIE,0,0,0,,Cứ tự nhiên phát biểu đi.
+Dialogue: 0,0:12:06.13,0:12:11.01,main,REIN,0,0,0,,À thì, trước hết là, ờm...
+Dialogue: 0,0:12:11.01,0:12:12.77,main,ELSIE,0,0,0,,Cậu cạn sạch ý để nói rồi chứ gì!
+Dialogue: 0,0:12:17.28,0:12:19.55,main,LILY,0,0,0,,Chị Elsie, cả Nina nữa.
+Dialogue: 0,0:12:21.57,0:12:23.88,main,LILY,0,0,0,,Để em gửi lời cảm ơn hai người với nhé.
+Dialogue: 0,0:12:24.63,0:12:29.61,main,LILY,0,0,0,,Nếu không có hai người giúp đỡ, chắc hẳn\Nem đã giải nghệ bỏ nghề mạo hiểm giả rồi.
+Dialogue: 0,0:12:30.66,0:12:34.51,main,LILY,0,0,0,,Cảm ơn vì đã luôn ở bên nâng đỡ cho tới khi\Nem gượng dậy được.
+Dialogue: 0,0:12:35.06,0:12:37.26,main,ELSIE,0,0,0,,Thấy may vì lúc đó không bỏ cuộc giữa chừng chưa?
+Dialogue: 0,0:12:37.26,0:12:40.51,main,NINA,0,0,0,,Tụi em cũng mừng lắm vì chị đã vực dậy trở lại.
+Dialogue: 0,0:12:40.84,0:12:41.93,main,REIN,0,0,0,,Lily à...
+Dialogue: 0,0:12:42.69,0:12:44.14,main,REIN,0,0,0,,Khoan, thế còn anh thì sao hả?
+Dialogue: 0,0:12:44.14,0:12:47.32,main,LILY,0,0,0,,Cứ thế này bảo sao anh chán không chịu được đấy, Rein!
+Dialogue: 0,0:12:47.32,0:12:51.05,main,ELSIE,0,0,0,,Cơ mà, tôi nghĩ mình bắt đầu thấy chán rồi đấy.
+Dialogue: 0,0:12:51.05,0:12:53.33,main,LILY,0,0,0,,Chị chán chuyện gì cơ?
+Dialogue: 0,0:12:53.61,0:12:59.33,main,ELSIE,0,0,0,,Phiền phức quá thể, nói thẳng ra thì tôi chẳng hơi đâu\Nmà quan tâm đến cuộc phiêu lưu của người khác nữa.
+Dialogue: 0,0:12:59.84,0:13:01.49,main,ELSIE,0,0,0,,Xin lỗi mọi người nhé.
+Dialogue: 0,0:13:01.95,0:13:05.84,main,ELSIE,0,0,0,,Thật sự tôi là một hội trưởng quá tệ hại\Nkhi phải nói ra những lời này.
+Dialogue: 0,0:13:08.13,0:13:10.85,main,ELSIE,0,0,0,,Công hội này chấm dứt tại đây. Tôi sẽ giải tán nó.
+Dialogue: 0,0:13:10.85,0:13:11.63,main,REIN,0,0,0,,Hả?
+Dialogue: 0,0:13:11.63,0:13:12.18,main,NINA,0,0,0,,Giải...
+Dialogue: 0,0:13:12.18,0:13:14.85,main,LILY,0,0,0,,Giải tán á? Chị nói đùa đấy à?
+Dialogue: 0,0:13:15.11,0:13:18.86,main,ELSIE,0,0,0,,Công hội mạo hiểm giả Tinh Thể Xanh\Nchính thức không còn tồn tại nữa.
+Dialogue: 0,0:13:19.13,0:13:22.11,main,NINA,0,0,0,,Nhưng mà Hội trưởng ơi, thế còn bọn em thì sao?
+Dialogue: 0,0:13:22.11,0:13:24.61,main,ELSIE,0,0,0,,Mấy đứa cứ đi gia nhập công hội khác đi.
+Dialogue: 0,0:13:24.61,0:13:28.12,main,ELSIE,0,0,0,,Ngoài kia thiếu gì công hội tốt hơn gấp bội.
+Dialogue: 0,0:13:28.12,0:13:30.49,main,ELSIE,0,0,0,,Cứ chọn đại một chỗ nào đó mà vào.
+Dialogue: 0,0:13:30.49,0:13:34.42,main,LILY,0,0,0,,S-Sao chị có thể thốt ra những lời đó\Nvề chính công hội của mình chứ?!
+Dialogue: 0,0:13:34.42,0:13:35.77,main,LILY,0,0,0,,Chị đang nói cái quái gì vậy hả?!
+Dialogue: 0,0:13:35.77,0:13:38.15,main,ELSIE,0,0,0,,Tôi đã nói lời xin lỗi rồi còn gì nữa?
+Dialogue: 0,0:13:40.73,0:13:43.17,main,REIN,0,0,0,,Lily ơi, em chạy đi đâu thế?!
+Dialogue: 0,0:13:50.07,0:13:53.05,main,MARGARET,0,0,0,,Ông làm gì ở đây thế?
+Dialogue: 0,0:13:53.05,0:13:54.89,main,BARRIUS,0,0,0,,Margaret đấy à.
+Dialogue: 0,0:13:55.53,0:13:57.72,main,BARRIUS,0,0,0,,Cô định gia nhập Tinh Thể Xanh sao?
+Dialogue: 0,0:13:57.72,0:13:59.40,main,MARGARET,0,0,0,,Không.
+Dialogue: 0,0:13:59.40,0:14:02.57,main,MARGARET,0,0,0,,Họ chẳng hề coi tôi là người một nhà.
+Dialogue: 0,0:14:02.57,0:14:05.07,main,MARGARET,0,0,0,,Họ thậm chí còn chẳng thèm trả lời câu hỏi của tôi.
+Dialogue: 0,0:14:05.07,0:14:09.57,main,MARGARET,0,0,0,,Chỉ thân thiện xã giao thôi thì đâu đủ để\Ntrở thành một phần trong nhóm của họ.
+Dialogue: 0,0:14:09.57,0:14:13.27,main,BARRIUS,0,0,0,,Ta không rõ đầu đuôi ra sao,\Nnhưng ta không nghĩ chuyện là như vậy đâu.
+Dialogue: 0,0:14:15.17,0:14:19.09,main,BARRIUS,0,0,0,,Biết đâu chỉ là một hiểu lầm nhỏ nhặt nào đó thôi.
+Dialogue: 0,0:14:19.09,0:14:21.70,main,BARRIUS,0,0,0,,Xích mích giữa người với người thường bắt nguồn từ thế cả.
+Dialogue: 0,0:14:23.51,0:14:26.25,main,BARRIUS,0,0,0,,Cô có chắc không phải là cô đang tự mình sợ hãi đấy chứ?
+Dialogue: 0,0:14:26.94,0:14:30.13,main,BARRIUS,0,0,0,,Rằng họ sẽ từ chối thẳng thừng\Nnếu cô mở lời xin gia nhập.
+Dialogue: 0,0:14:30.13,0:14:32.27,main,BARRIUS,0,0,0,,Rằng họ chẳng hề chào đón cô chút nào.
+Dialogue: 0,0:14:33.06,0:14:37.33,main,BARRIUS,0,0,0,,Cuộc sống dễ dàng hơn nhiều nếu ta chọn trốn chạy\Nvà chẳng thay đổi gì cả.
+Dialogue: 0,0:14:37.33,0:14:40.63,main,BARRIUS,0,0,0,,Nhưng dù vậy, chúng ta vẫn cứ phải thử đối mặt thôi.
+Dialogue: 0,0:14:41.72,0:14:45.44,main,BARRIUS,0,0,0,,Nói người thế chứ chính ta cũng từng bám víu mãi\Nvào Nanh Vuốt Dã Thú đấy thôi.
+Dialogue: 0,0:14:47.28,0:14:50.81,main,BARRIUS,0,0,0,,Cô hãy gia nhập Tinh Thể Xanh đi.
+Dialogue: 0,0:14:53.06,0:14:55.78,main,BARRIUS,0,0,0,,Chúc cô may mắn. Ta luôn ủng hộ cô.
+Dialogue: 0,0:15:06.55,0:15:08.21,main,REIN,0,0,0,,Lily, anh tìm thấy em rồi!
+Dialogue: 0,0:15:10.26,0:15:11.20,main,REIN,0,0,0,,Lily à...
+Dialogue: 0,0:15:18.97,0:15:21.73,main,REIN,0,0,0,,N-Này, tụi mình định ngồi ì ở đây tới bao giờ thế?
+Dialogue: 0,0:15:21.73,0:15:24.00,main,LILY,0,0,0,,Nếu thấy chán thì anh cứ về trước đi.
+Dialogue: 0,0:15:33.01,0:15:34.26,top,SIGN FX,0,0,0,,SỤT SỊT
+Dialogue: 0,0:15:38.34,0:15:41.37,main,REIN,0,0,0,,Lily, anh mới mua ít bánh mì đây!
+Dialogue: 0,0:15:48.76,0:15:50.05,main,REIN,0,0,0,,Ồ, em ăn sạch luôn rồi kìa.
+Dialogue: 0,0:15:50.05,0:15:51.19,main,LILY,0,0,0,,Anh bị làm sao thế hả?!
+Dialogue: 0,0:15:51.19,0:15:54.39,main,MIA,0,0,0,,Xin lỗi chút ạ. Hai bạn là mạo hiểm giả phải không?
+Dialogue: 0,0:15:54.93,0:16:00.89,main,MIA,0,0,0,,Tôi là Mia, hội trưởng của công hội\Nmạo hiểm giả Thần Cung.
+Dialogue: 0,0:16:00.89,0:16:04.65,main,MIA,0,0,0,,Hai bạn có muốn gia nhập công hội của tôi không?
+Dialogue: 0,0:16:05.46,0:16:09.15,top,SIGN,0,0,0,,CÔNG HỘI THẦN CUNG
+Dialogue: 0,0:16:06.65,0:16:09.15,main,MIA,0,0,0,,Đây chính là Thần Cung.
+Dialogue: 0,0:16:09.59,0:16:11.40,top,SIGN GREEN,0,0,0,,THẦN CUNG
+Dialogue: 0,0:16:09.75,0:16:11.40,top,SIGN BROWN,0,0,0,,QUẦY NƯỚC
+Dialogue: 0,0:16:11.71,0:16:13.41,main,LILY,0,0,0,,Đẹp đẽ lại còn sạch sẽ ghê.
+Dialogue: 0,0:16:13.41,0:16:15.03,top,SIGN TOP,0,0,0,,VÔ VÀN LỰA CHỌN THÚ VỊ!
+Dialogue: 0,0:16:13.41,0:16:15.03,top,SIGN BLUE,0,0,0,,NƯỚC LỌC
+Dialogue: 0,0:16:13.66,0:16:14.59,main,REIN,0,0,0,,Lily?!
+Dialogue: 0,0:16:15.03,0:16:19.79,top,SIGN GREEN,0,0,0,,THẦN CUNG
+Dialogue: 0,0:16:15.03,0:16:19.79,top,SIGN BROWN,0,0,0,,QUẦY NƯỚC
+Dialogue: 0,0:16:15.03,0:16:18.95,main,MIA,0,0,0,,Chúng tôi tự hào mang đến dịch vụ chu đáo\Nkhông thua kém bất kỳ công hội nào.
+Dialogue: 0,0:16:18.95,0:16:19.79,main,REIN,0,0,0,,Lily ơi!
+Dialogue: 0,0:16:21.99,0:16:25.53,main,MIA,0,0,0,,Tất nhiên, chúng tôi có cả phòng chờ thành viên\Nvà quầy nước uống miễn phí.
+Dialogue: 0,0:16:25.53,0:16:26.29,main,REIN,0,0,0,,Lily ơi!
+Dialogue: 0,0:16:26.29,0:16:29.17,main,MIA,0,0,0,,Phòng tập có đầy đủ mọi loại máy móc luôn.
+Dialogue: 0,0:16:29.17,0:16:30.05,main,REIN,0,0,0,,Lily ơi!
+Dialogue: 0,0:16:30.32,0:16:32.05,top,SIGN FX RED,0,0,0,,BƯỚC BƯỚC BƯỚC BƯỚC BƯỚC BƯỚC
+Dialogue: 0,0:16:30.05,0:16:32.05,top,SIGN FX BLUE,0,0,0,,HỔN HỂN HỔN HỂN
+Dialogue: 0,0:16:30.85,0:16:32.05,main,REIN,0,0,0,,Lily ơi!
+Dialogue: 0,0:16:32.39,0:16:33.32,main,REIN,0,0,0,,Lily ơi!
+Dialogue: 0,0:16:33.32,0:16:38.21,main,MIA,0,0,0,,Nơi đây có đủ mọi tiện nghi một mạo hiểm giả cần,\Nchẳng hạn như phòng tắm vòi hoa sen.
+Dialogue: 0,0:16:34.05,0:16:39.81,top,SIGN FX,0,0,0,,XÀO XẠO
+Dialogue: 0,0:16:35.77,0:16:36.87,main,REIN,0,0,0,,Lily ơi!
+Dialogue: 0,0:16:38.21,0:16:39.81,main,REIN,0,0,0,,Lily ơi!
+Dialogue: 0,0:16:42.36,0:16:43.18,main,REIN,0,0,0,,Lily à.
+Dialogue: 0,0:16:44.49,0:16:50.49,main,LILY,0,0,0,,Anh Rein ơi, em cứ tưởng làm thế này sẽ giúp em\Nkhuây khỏa đầu óc, nhưng chẳng ăn thua gì cả.
+Dialogue: 0,0:16:53.26,0:16:57.34,main,LILY,0,0,0,,Lỡ như chị Elsie thực sự coi em là gánh nặng thì sao?
+Dialogue: 0,0:16:57.75,0:17:01.01,main,LILY,0,0,0,,Rốt cuộc chị ấy nghĩ gì về em vậy?
+Dialogue: 0,0:17:01.63,0:17:03.70,main,LILY,0,0,0,,Tất cả là do lỗi của em sao?
+Dialogue: 0,0:17:06.80,0:17:12.64,main,LILY,0,0,0,,Em chẳng thể nào ngừng suy nghĩ về mấy chuyện đó được.
+Dialogue: 0,0:17:16.83,0:17:19.68,main,REIN,0,0,0,,Tụi mình nên đi nói chuyện thẳng thắn với Elsie.
+Dialogue: 0,0:17:22.22,0:17:26.48,top,SIGN,0,0,0,,CÔNG HỘI THẦN CUNG
+Dialogue: 0,0:17:22.57,0:17:26.48,main,MIA,0,0,0,,Hai bạn cảm thấy cơ sở vật chất và dịch vụ\Ncủa Thần Cung thế nào?
+Dialogue: 0,0:17:26.78,0:17:29.25,main,LILY,0,0,0,,À vâng, mọi thứ đúng là ấn tượng thật đấy ạ.
+Dialogue: 0,0:17:29.25,0:17:33.74,main,MIA,0,0,0,,Tuyệt quá. Chúng tôi rất vinh hạnh nếu có được\Nmột mạo hiểm giả xuất sắc như cô—
+Dialogue: 0,0:17:33.74,0:17:37.49,main,LILY,0,0,0,,Là chị Elsie nhờ chị dẫn tụi em tới đây đúng không ạ?
+Dialogue: 0,0:17:37.73,0:17:41.56,main,REIN,0,0,0,,Elsie sao? Sao tự dưng em lại nhắc tới chị ấy?
+Dialogue: 0,0:17:41.56,0:17:44.00,main,LILY,0,0,0,,Ngay từ đầu em đã nghi nghi rồi mà.
+Dialogue: 0,0:17:44.00,0:17:46.25,main,MIA,0,0,0,,Xin hai bạn đừng trách chị ấy.
+Dialogue: 0,0:17:46.51,0:17:50.75,main,MIA,0,0,0,,Chị ấy từng mang ân tình lớn với tôi.
+Dialogue: 0,0:17:51.19,0:17:55.20,main,MIA,0,0,0,,Chị ấy đã khẩn khoản cầu xin tôi hết lần này tới lần khác\Nhãy chăm lo cho hai người.
+Dialogue: 0,0:17:59.26,0:18:02.01,main,ELSIE,0,0,0,,Ôi chà, cô nàng lỡ miệng khai tuột ra rồi à?
+Dialogue: 0,0:18:02.42,0:18:03.89,main,REIN,0,0,0,,Chị Elsie...
+Dialogue: 0,0:18:06.09,0:18:11.79,main,ELSIE,0,0,0,,Hai đứa sẽ tự dằn vặt bản thân nếu biết công hội này\Nphải đóng cửa vì nợ nần chồng chất.
+Dialogue: 0,0:18:12.73,0:18:18.64,main,ELSIE,0,0,0,,Chị không muốn đè thêm bất kỳ gánh nặng nào lên vai hai đứa,\Nnên mới cố đóng vai kẻ khốn nạn đấy.
+Dialogue: 0,0:18:18.64,0:18:21.53,main,LILY,0,0,0,,Làm thế chỉ khiến em càng thêm lo lắng hơn thôi!
+Dialogue: 0,0:18:21.77,0:18:25.29,main,ELSIE,0,0,0,,Em nói đúng. Chị xin lỗi. Là chị sai rồi.
+Dialogue: 0,0:18:28.59,0:18:30.03,main,ELSIE,0,0,0,,Chị sẽ kể hết toàn bộ sự thật cho hai đứa nghe.
+Dialogue: 0,0:18:33.29,0:18:38.42,main,ELSIE,0,0,0,,Trước kia chị từng theo học tập suốt ba năm\Ndưới trướng một mạo hiểm giả kỳ cựu.
+Dialogue: 0,0:18:38.42,0:18:40.43,main,ELSIE,0,0,0,,Sáu năm sau khi tự tách ra lập nghiệp riêng,
+Dialogue: 0,0:18:40.43,0:18:44.65,main,ELSIE,0,0,0,,chị trở nên nổi danh và tận hưởng\Ncuộc sống của một mạo hiểm giả hạng S.
+Dialogue: 0,0:18:45.07,0:18:46.60,main,ELSIE,0,0,0,,Chính vào lúc đó biến cố đã xảy ra.
+Dialogue: 0,0:18:47.82,0:18:52.00,flashback,MOB ADVENTURER,0,0,0,,Nghe bảo sư phụ của cô bị rồng\Nđánh bị thương nặng lắm đấy.
+Dialogue: 0,0:18:53.17,0:18:56.44,main,ELSIE,0,0,0,,Chị đã xin nghỉ phép để về thăm thầy ấy.
+Dialogue: 0,0:18:57.04,0:18:59.71,flashback,MASTER,0,0,0,,Elsie đấy à?
+Dialogue: 0,0:19:01.81,0:19:04.20,flashback,MASTER,0,0,0,,Lâu lắm rồi mới gặp lại con nhỉ.
+Dialogue: 0,0:19:06.10,0:19:08.10,flashback,ELSIE,0,0,0,,S-Sư phụ?
+Dialogue: 0,0:19:09.98,0:19:13.21,top,SIGN,0,0,0,,QUÁN ODEN
+Dialogue: 0,0:19:16.36,0:19:21.05,flashback,MASTER,0,0,0,,Ta bị nhiễm độc lúc bị con rồng đó cắn phải.
+Dialogue: 0,0:19:21.05,0:19:22.59,flashback,ELSIE,0,0,0,,Sư phụ ơi!
+Dialogue: 0,0:19:22.91,0:19:31.56,flashback,MASTER,0,0,0,,Xã hội này coi những mạo hiểm giả đau ốm\Nthương tật chẳng khác nào đống rác hết date.
+Dialogue: 0,0:19:33.93,0:19:38.69,flashback,MASTER,0,0,0,,Ta cũng chẳng phải xui xẻo gì đặc biệt đâu.\NChuyện bình thường như cơm bữa ấy mà.
+Dialogue: 0,0:19:39.31,0:19:43.82,flashback,ELSIE,0,0,0,,Không đúng! Chuyện này chẳng bình thường chút nào cả!
+Dialogue: 0,0:19:45.52,0:19:50.68,main,ELSIE,0,0,0,,Mạo hiểm giả luôn bị coi là công cụ tiêu hao.\NChị muốn thay đổi thực trạng đó.
+Dialogue: 0,0:19:51.45,0:19:54.98,main,ELSIE,0,0,0,,Thế nên chị mới thành lập công hội Tinh Thể Xanh.
+Dialogue: 0,0:19:55.71,0:19:58.31,main,ELSIE,0,0,0,,Những mạo hiểm giả chán nản gục ngã có thể tới đây,
+Dialogue: 0,0:19:58.31,0:20:01.72,main,ELSIE,0,0,0,,và chị sẽ giúp họ gượng dậy bước tiếp.
+Dialogue: 0,0:20:02.61,0:20:06.47,main,ELSIE,0,0,0,,Tinh Thể Xanh chính là nơi chị ấp ủ\Nbiến ước mơ ấy thành hiện thực.
+Dialogue: 0,0:20:06.99,0:20:08.56,main,ELSIE,0,0,0,,Ít nhất thì, trước kia từng là như vậy.
+Dialogue: 0,0:20:11.64,0:20:14.69,flashback,ELSIE,0,0,0,,Hai năm nay bọn tôi làm ăn\Nthua lỗ liên miên rồi.
+Dialogue: 0,0:20:14.69,0:20:17.36,flashback,ELSIE,0,0,0,,Tiền tiết kiệm của tôi cũng cạn sạch sành sanh.
+Dialogue: 0,0:20:18.99,0:20:21.40,flashback,ELSIE,0,0,0,,Tinh Thể Xanh coi như chấm hết thật rồi.
+Dialogue: 0,0:20:21.40,0:20:24.38,flashback,ELSIE,0,0,0,,Nhưng ít ra hơn 20 con người đã có thể\Nđứng dậy làm lại từ nơi đó.
+Dialogue: 0,0:20:25.02,0:20:26.63,flashback,ELSIE,0,0,0,,Công sức bỏ ra đâu phải hoàn toàn vô nghĩa.
+Dialogue: 0,0:20:26.63,0:20:28.89,flashback,CEO,0,0,0,,C-Cô nên tiếp tục duy trì đi chứ.
+Dialogue: 0,0:20:28.89,0:20:31.12,flashback,ELSIE,0,0,0,,Chịu thôi. Tôi làm gì còn đồng xu dính túi nào nữa.
+Dialogue: 0,0:20:31.12,0:20:32.25,flashback,CEO,0,0,0,,Tôi sẽ cho cô vay 500 triệu!
+Dialogue: 0,0:20:32.90,0:20:35.30,flashback,CEO,0,0,0,,Bốn năm sau cô trả lại tôi cũng được.
+Dialogue: 0,0:20:36.27,0:20:37.88,flashback,ELSIE,0,0,0,,Nếu tôi không trả nổi thì sao?
+Dialogue: 0,0:20:37.88,0:20:42.01,flashback,CEO,0,0,0,,Thì cô cứ quay lại làm mạo hiểm giả\Ncho công hội của tôi thôi.
+Dialogue: 0,0:20:42.01,0:20:43.62,flashback,CEO,0,0,0,,Coi như khoản đó là tiền lót tay ký hợp đồng.
+Dialogue: 0,0:20:43.62,0:20:46.67,flashback,ELSIE,0,0,0,,Anh chắc chắn chứ? Đổi lại 500 triệu\Nmà anh chỉ đòi bấy nhiêu thôi sao?
+Dialogue: 0,0:20:46.67,0:20:47.67,flashback,CEO,0,0,0,,Chắc chắn chứ!
+Dialogue: 0,0:20:47.67,0:20:52.27,flashback,CEO,0,0,0,,Cái giá quá hời để chiêu mộ được\Nmạo hiểm giả Elsie trứ danh cơ mà!
+Dialogue: 0,0:20:53.10,0:20:57.09,main,ELSIE,0,0,0,,Chỉ ba tháng nữa thôi, chị buộc phải\Nsang đầu quân cho Khiên Đế Quốc,
+Dialogue: 0,0:20:57.47,0:21:00.28,main,ELSIE,0,0,0,,nên Tinh Thể Xanh thực sự kết thúc rồi.
+Dialogue: 0,0:21:00.28,0:21:03.22,main,ELSIE,0,0,0,,Chị từng khao khát thay đổi\Nthế giới mạo hiểm giả này,
+Dialogue: 0,0:21:03.22,0:21:05.02,main,ELSIE,0,0,0,,nhưng rốt cuộc chị chẳng thay đổi được gì hết.
+Dialogue: 0,0:21:05.02,0:21:08.17,main,ELSIE,0,0,0,,Tất cả là lỗi tại chị, không phải lỗi của hai đứa đâu.
+Dialogue: 0,0:21:08.53,0:21:10.29,main,LILY,0,0,0,,Chuyện đó không phải mình chị quyết định được đâu!
+Dialogue: 0,0:21:10.87,0:21:15.40,main,LILY,0,0,0,,Chính chị đã đỡ em đứng dậy\Nkhi em tuyệt vọng chán chường nhất!
+Dialogue: 0,0:21:15.40,0:21:18.42,main,LILY,0,0,0,,Chị cũng đã cứu rỗi biết bao nhiêu\Nmạo hiểm giả khác nữa cơ mà!
+Dialogue: 0,0:21:18.95,0:21:22.75,main,LILY,0,0,0,,Không phải chỉ mình chị mới có thể\Ngiúp đỡ những người đang gục ngã đâu!
+Dialogue: 0,0:21:23.75,0:21:27.54,main,LILY,0,0,0,,Em cũng có thể giúp chị đứng dậy được mà!
+Dialogue: 0,0:21:29.83,0:21:30.83,main,ELSIE,0,0,0,,Lily...
+Dialogue: 0,0:21:32.24,0:21:36.84,main,ELSIE,0,0,0,,Chị thật chẳng ra dáng hội trưởng chút nào\Nnếu phải để mạo hiểm giả của mình ra tay cứu vớt.
+Dialogue: 0,0:21:36.84,0:21:37.82,main,REIN,0,0,0,,Chị sai rồi.
+Dialogue: 0,0:21:38.73,0:21:43.95,main,REIN,0,0,0,,Chị đã dựng nên một công hội tuyệt vời vì mọi người,\Nvà còn nói dối để che chở cho Lily.
+Dialogue: 0,0:21:44.28,0:21:49.57,main,REIN,0,0,0,,Chị mới chính là hội trưởng đích thực\Nvì lúc nào cũng nghĩ cho các mạo hiểm giả.
+Dialogue: 0,0:21:49.91,0:21:53.08,main,REIN,0,0,0,,Tôi rất thích công hội Tinh Thể Xanh.
+Dialogue: 0,0:21:53.08,0:21:56.08,main,NINA,0,0,0,,Em cũng sẽ ở lại đây đến giây phút cuối cùng nữa!
+Dialogue: 0,0:21:57.20,0:22:00.64,main,LILY,0,0,0,,Em... Toàn thể các mạo hiểm giả\Ncủa công hội Tinh Thể Xanh...
+Dialogue: 0,0:22:01.71,0:22:04.09,main,LILY,0,0,0,,nhất định sẽ kiếm đủ 500 triệu trong vòng ba tháng!
+Dialogue: 0,0:22:47.67,0:22:49.18,top,SIGN,0,0,0,,LILY
+Dialogue: 0,0:22:53.35,0:22:54.51,top,SIGN,0,0,0,,CÔ ẤY VỪA GỌI REIN KÌA!!
+Dialogue: 0,0:22:54.51,0:22:59.52,top,sign,0,0,0,,{\an3}PHỤ ĐỀ VIỆT NGỮ: Amtia(NOFACE)\NTIMING: Amtia(NOFACE)
+Dialogue: 0,0:23:00.14,0:23:04.98,top,sign,0,0,0,,{\an1}BIÊN TẬP: Amtia(NOFACE)\NKIỂM ĐỊNH (QC): Amtia(NOFACE)
+Dialogue: 0,0:23:04.98,0:23:09.74,top,sign,0,0,0,,{\an3}HOÀN THIỆN (FQC): Amtia(NOFACE)
+Dialogue: 0,0:22:53.35,0:22:54.51,top,SIGN,0,0,0,,CÓ PHẢI CÔ ẤY...
+Dialogue: 0,0:22:53.35,0:22:54.51,top,SIGN,0,0,0,,ĐANG NÓI VỀ MÌNH ĐẤY ÀAAA?!
+Dialogue: 0,0:22:54.51,0:23:04.98,top,SIGN,0,0,0,,CUỘC ĐỜI NHẬP VAI
+Dialogue: 0,0:23:15.08,0:23:15.74,top,SIGN,0,0,0,,NÀY!
+Dialogue: 0,0:23:15.74,0:23:26.13,top,SIGN,0,0,0,,{\an4}REIN ĐẬP TAN SÂN KHẤU
+Dialogue: 0,0:23:15.74,0:23:18.75,top,SIGN,0,0,0,,CÔ VỪA NÓI VỀ TÔI ĐẤY ĐÚNG KHÔNG?!
+Dialogue: 0,0:23:15.74,0:23:18.75,top,SIGN,0,0,0,,LILY ƠI!!
+Dialogue: 0,0:23:18.75,0:23:19.50,top,SIGN,0,0,0,,ĐÚNG KHÔNG HẢ?!
+Dialogue: 0,0:23:19.50,0:23:20.25,top,SIGN,0,0,0,,NÀY!
+Dialogue: 0,0:23:20.25,0:23:21.00,top,SIGN,0,0,0,,LILY ƠI!!
+Dialogue: 0,0:23:21.00,0:23:21.75,top,SIGN,0,0,0,,NÀY!
+Dialogue: 0,0:23:21.75,0:23:22.50,top,SIGN,0,0,0,,NÀY ƠI LÀ NÀY!!
+Dialogue: 0,0:23:22.50,0:23:23.25,top,SIGN,0,0,0,,LILY ƠI!!
+Dialogue: 0,0:23:23.25,0:23:24.00,top,SIGN,0,0,0,,NÀY ƠI LÀ NÀY!!
+Dialogue: 0,0:23:24.00,0:23:24.75,top,SIGN,0,0,0,,ĐÚNG THẾ MÀ, PHẢI KHÔNG?!
+Dialogue: 0,0:23:24.75,0:23:25.50,top,SIGN,0,0,0,,NÀY ƠI LÀ NÀY!!
+Dialogue: 0,0:23:25.50,0:23:26.13,top,SIGN,0,0,0,,LILY ƠI!!
+Dialogue: 0,0:23:28.05,0:23:30.63,top,SIGN,0,0,0,,CUỘC ĐỜI NHẬP VAI
+Dialogue: 0,0:23:28.05,0:23:28.80,top,SIGN,0,0,0,,NÀY!
+Dialogue: 0,0:23:28.80,0:23:29.55,top,SIGN,0,0,0,,LILY ƠI!!
+Dialogue: 0,0:23:29.55,0:23:30.30,top,SIGN,0,0,0,,NÀY!
+Dialogue: 0,0:23:30.30,0:23:30.63,top,SIGN,0,0,0,,LILY ƠI!!
+Dialogue: 0,0:23:35.39,0:23:40.18,top,SIGN,0,0,0,,XÔNG LÊN
+Dialogue: 0,0:23:35.39,0:23:40.18,top,SIGN,0,0,0,,{\an7}LILY ƠI!!
+Dialogue: 0,0:23:35.39,0:23:40.18,top,SIGN,0,0,0,,{\an9}LILY ƠI!!
+Dialogue: 0,0:23:35.39,0:23:40.18,top,SIGN,0,0,0,,{\an5}TINH THỂ XANH ĐẬP TAN SÂN KHẤU!

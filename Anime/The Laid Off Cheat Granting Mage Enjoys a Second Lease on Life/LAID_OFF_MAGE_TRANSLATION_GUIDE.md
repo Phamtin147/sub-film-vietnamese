@@ -18,13 +18,22 @@
    - *Vai trò*: Nữ pháp sư / nữ mạo hiểm giả.
    - *Xưng hô*: Tôi / Em - Rein-san.
 4. **Elsie (エルシー)** & **Nina (ニーナ)**:
-   - Đồng đội mạo hiểm giả thân thiện.
+   - Hội trưởng công hội Tinh Thể Xanh (Elsie, chị cả cựu mạo hiểm giả hạng S, `Tôi / Chị - Hai đứa / Em`) và Nina (`Em - Anh Rein / Chị Elsie`).
+5. **Mirabelle (ミラベル)** & **Acorn**:
+   - Mirabelle (xuất thân từ gia tộc sát thủ, được Rein & Tinh Thể Xanh cảm hóa, `Em - Anh Rein / Chị Margaret`). Acorn là chú chó của chị gái Margaret đang sống cùng Margaret.
+6. **Barrius** & **CEO (Khiên Đế Quốc)** & **Mia (Thần Cung)**:
+   - Barrius (cựu hội trưởng trọc đầu của Nanh Vuốt Dã Thú), CEO (Giám đốc/Hội trưởng công hội Khiên Đế Quốc), Mia (Hội trưởng công hội Thần Cung).
 
 ---
 
 ## 3. THUẬT NGỮ CHUẨN
 - **Granting Mage / Buff Mage**: Ma pháp sư ban phước
 - **Cheat Buff**: Phép cường hóa gian lận
+- **Blue Crystals**: Công hội Tinh Thể Xanh (Tinh Thể Xanh)
+- **The Beast's Fangs**: Công hội Nanh Vuốt Dã Thú
+- **The Emperor's Shields**: Công hội Khiên Đế Quốc
+- **The Spirit's Bow**: Công hội Thần Cung
+- **Radiant Dragon**: Quang Long
 - **Adventurer Guild**: Công hội Mạo hiểm giả
 - **Quest / Rank**: Nhiệm vụ / Cấp bậc
 
