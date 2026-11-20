@@ -26,6 +26,11 @@
   - **Upsetter (Title)**: Danh hiệu Kẻ Lật Kèo
   - **Nightmare Neutralizer (Title)**: Danh hiệu Kẻ Thanh Trừng Ác Mộng
   - **Poisonous Chilopoda Dagger**: Đoản Đao Độc Chilopoda
+- **Graveyard of Grief**: Nghĩa Địa Bi Thương (Hầm ngục mới, cấp độ đề xuất 70)
+- **Monster Pool**: Hồ Quái Vật (hiện tượng quái vật tràn ra bất thường từ hầm ngục)
+- **The Sea Dragon's Fang**: Bang Nanh Hải Long (Mary dẫn đầu, chuyên câu cá hầm ngục)
+- **Magic World**: Thế Giới Ma Pháp (tựa game MMORPG kiếp trước của Elymas)
+- **Kỹ năng Trọng Kỵ Sĩ (Status Screen Ep 21)**: *Khiên Quỷ Nộ (Daemonsrage Shield)*, *Giáp Hắc Thiết*, *Kẻ Bất Khuất (Unwavering One)*, *Tường Thành Phản Đòn (Rampart Reflection)*, *Tước Vũ Khí (Disarm)*, *Gạt Đòn (Parry)*, *Chém Điểm Yếu (Vital Slice)*, *Ảnh Đạp (Shadow Stomp)*, *Khiên Kích (Shield Bash)*
 
 ## 2. Hệ thống Nhân vật & Ma trận Xưng hô chuẩn Fansub
 - **Elymas Edvaughn** (Nam chính, Trọng Kỵ Sĩ cấp D):
@@ -52,6 +57,12 @@
   - Với Elymas & Ruche: Xưng *tôi*, gọi *anh Elymas / cô Ruche / hai người*.
   - Với Hilde: Xưng *tôi*, gọi *cô Hilde* (đúng mực công vụ Hội).
   - Với Hailenn: Xưng *tôi*, gọi *tiểu thư Hailenn / Hội trưởng*.
+- **Mary** (Thủ lĩnh bang *Nanh Hải Long*):
+  - Đam mê câu cá hầm ngục, coi Elymas là kỳ phùng địch thủ. Xưng *tôi*, gọi Elymas là *cậu*.
+- **Maebel** (Nữ Tu Sĩ hạng C, nhóm chinh phạt *Nghĩa Địa Bi Thương*):
+  - Điềm tĩnh, khéo léo nhưng biết cách trị mấy tay đồng đội hống hách. Xưng *tôi*, gọi Elymas/Ruche là *hai bạn*.
+- **Kelt** (Nam Thợ Săn / Hunter hạng B, nhóm chinh phạt *Nghĩa Địa Bi Thương*):
+  - Hống hách, thích bắt nạt tân binh và giữ đồ rớt. Xưng *tôi*, gọi Elymas là *nhóc / tân binh*. Maebel gọi Kelt là *anh Kelt*.
 - **Giọng Hệ thống (SYSTEM VOICE)**: Trang trọng, chuẩn thông báo RPG.
 
 ## 3. Tiêu chuẩn Kỹ thuật Fansub
