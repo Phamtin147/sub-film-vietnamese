@@ -1,6 +1,6 @@
 # CẨM NANG DỊCH THUẬT ANIME: DARK SUMMONER TO DEKITEIRU
 > Bộ phim: **Dark Summoner to Dekiteiru (Hẹn Hò Cùng Hắc Triệu Hồi Sư)**  
-> Dịch giả: **Phamtin147**
+> Dịch giả: **Amtia(NOFACE)**
 
 ---
 
@@ -16,7 +16,12 @@
 * **Thế giới Palustia**: Thế giới kiếm và ma thuật, các tổ đội mạo hiểm giả đi tiêu diệt quái vật.
 * **Roni (Roni-kun)**: Mục sư thánh chiến (Priest), ban ngày tỏ ra nghiêm túc, mộ đạo, kịch liệt phản đối quỷ dữ; ban đêm lén lút vụng trộm ân ái mặn nồng với Amona.
 * **Amona**: Hắc triệu hồi sư (Dark Summoner) thuộc tộc quỷ Shin, xinh đẹp, quyến rũ, triệu hồi quỷ lùn Imp, trêu chọc và yêu thương Roni say đắm.
-* **Haru**: Đội trưởng/thành viên tổ đội mạo hiểm giả, vô tư, lạc quan.
+* **Haru**: Đội trưởng/thành viên tổ đội mạo hiểm giả, vô tư, lạc quan, giàu lòng trắc ẩn cả với quái vật (`tớ - cậu`).
+* **Eury**: Thành viên nữ tộc Elf gia nhập từ Tập 5 (`tôi/tớ - cậu`, `em - anh` khi thân).
+* **Imp**: Tiểu quỷ đồng hành do Amona triệu hồi, hay phá vỡ bức tường thứ 4 chọc ngoáy Roni và Amona (`tôi - ngài/chủ nhân` với Amona; cà khịa với Roni).
+* **Clark Russ (Tập 6)**: Thợ săn kho báu lừng danh bị lời nguyền từ cuốn *doujinshi* biến thân của Imp biến thành thiếu nữ xinh đẹp; ôm hận đi tìm Amona và Imp trả thù (`ta/tôi - ngươi/các ngươi`).
+* **Lũ Goblin & Trưởng lão Goblin (Tập 7)**: Tôn thờ sừng của Amona theo truyền thuyết *"Nữ thần loài Goblin"*, cãi nhau ỏm tỏi về sự "thuần khiết/ngây thơ" của thần tượng (`Thần dân/Con - Nữ thần`).
+* **Slimy**: Linh vật xúc tu của hầm ngục *Slimy Park*.
 
 ---
 
