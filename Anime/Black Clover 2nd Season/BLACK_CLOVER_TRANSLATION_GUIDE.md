@@ -29,6 +29,9 @@
 | **Loropechika (ロロペチカ)** | Nữ vương Heart | Nhân hậu, yêu thương thần dân và trân trọng sự bảo vệ của Gaja. |
 | **Undine (ウンディーネ)** | Thủy Tinh Linh | Tinh linh nước của Vương quốc Heart, đồng hành cùng Noelle đạt Thánh Vực. |
 | **Rill / Charlotte / Luck** | Đoàn trưởng & Hắc Bộc | Nhiệt huyết đồng đội, chiến đấu đến hơi thở cuối cùng trong Hoàng Hôn Valhalla. |
+| **Mimosa Vermillion** | Kim Sắc Nhật Xuất | Trị liệu sư nhân hậu, tung Tuyệt Kỹ Thực Vật Ma Pháp cứu mạng đồng đội. |
+| **Finral & Langris Vaude** | Anh em Ma pháp Không gian | Finral (Hắc Bộc, anh trai: *Anh - Em*) và Langris (Phó đoàn Kim Sắc Nhật Xuất, em trai: *Em - Anh*; với Yuno: *Tôi/Tao - Cậu/Đàn em*). |
+| **Lucius / Zenon / Allen / Beelzebub** | Tộc Zogratis & Spade | Thứ tự anh em nhà Zogratis: Lucius (anh cả) > Dante (anh hai) > Vanica (chị ba) > Zenon (em út, Xương Ma Pháp & Không Gian, ký khế ước đổi linh hồn lấy Trái Tim Ác Ma của Beelzebub). Allen là bạn thân quá cố thời Đội Phòng Vệ Ma Pháp của Zenon. |
 
 ---
 
@@ -76,4 +79,13 @@
 * **Demon-Dweller Sword (宿魔の剣)**: Túc Ma Kiếm
 * **Demon-Destroyer Sword (滅魔の剣)**: Diệt Ma Kiếm
 * **Demon-Slasher Katana (斬魔の刀)**: Trảm Ma Katana
+* **Golden Dawn**: Binh đoàn Kim Sắc Nhật Xuất
+* **Mana Zone**: Khu Vực Mana
+* **Spatial Magic / Absolute Space: Spatial Mana Dominion**: Không Gian Ma Pháp / Không Gian Tuyệt Đối: Chi Phối Mana Không Gian
+* **Bone Magic / Devil Host / Devil's Heart**: Xương Ma Pháp / Ác Ma Túc Chủ / Trái Tim Ác Ma
+* **Spade / Clover / Diamond / Heart Kingdom**: Vương quốc Spade / Clover / Diamond / Heart
+* **Mage Defense Force**: Đội Phòng Vệ Ma Pháp
+* **Wind Spirit Creation Magic: Spirit of Euros**: Phong Tinh Linh Sáng Thành Ma Pháp: Spirit of Euros
+* **Ultimate Plant Magic: Flower Princess Utopia**: Tuyệt Kỹ Thực Vật Ma Pháp: Lạc Viên Công Chúa Hoa
+* **Fallen Angel's Wingbeat**: Đôi Cánh Đọa Thiên Sứ
 * **Translator / Timer / QC**: **Amtia(NOFACE)**
