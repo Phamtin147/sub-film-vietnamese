@@ -77,7 +77,14 @@
 * **Zent**: Đệ tử lớn xuất sắc và ngỗ nghịch của sư phụ Gaston, đàn anh thân thiết nhưng hay trêu chọc Peru (*"thằng mít ướt"*).
 * **Tannan**: Đệ tử cùng lứa tại xưởng của Gaston, hay hóng hớt nhưng tốt bụng.
 * **Kanna**: Cô bé thiên tài trẻ tuổi nhất làm phát sáng mặt nạ tại xưởng Gaston, đồng trang lứa với Peru.
-* **Akane**: Người chị hiền hậu làm việc tại thị trấn Iris, luôn quan tâm chăm sóc đám trẻ học việc.
+* **Akane**: Người chị hiền hậu làm việc tại thị trấn Iris, luôn quan tâm chăm sóc đám trẻ học việc; đến Tập 7 bất ngờ xuất hiện trong hàng ngũ giáo phái cải tử hoàn sinh cùng Necro.
+
+### 3.11. Arc Giáo phái Vong Linh tại Iris (Tập 7+)
+* **Rinne (リンネ)**: Nhân vật nam bí ẩn xuất hiện trên đoàn tàu trong giấc mơ của Peru, điềm đạm nhưng mang tư tưởng diệt thế (*"Nhân loại nên bị hủy diệt đi"*). Là **Người sử dụng Mặt Nạ Vong Linh** (*Aries*) đã hoàn toàn đồng điệu ý chí với mặt nạ nên không biến thành Masquerader.
+* **Mặt Nạ Vong Linh (*Aries* - Cấp độ nguy hiểm 4)**: Kiệt tác của Gaston Roux có tri giác và khả năng nói chuyện như **Mặt Nạ Võ Thần**, cho phép điều khiển người chết; gọi Rinne là *"người bạn thân mến"*.
+* **Necro**: Thành viên giáo phái hồi sinh người chết đi cùng Akane tại Iris, khuôn mặt có dấu ấn kỳ lạ giống xác sống, tôn kính Rinne (*"Ngài Rinne"*).
+* **Rayen**: Thanh niên bí ẩn chạm mặt Peru trước mộ Gaston, biết rõ thân thế *Peru d'Arrest* và căm hận cậu, thực chất thuộc phe Rinne/Necro.
+* **Bà chủ quán ở Iris (*Shopkeeper*)**: Người phụ nữ bán hàng hiền lành ở thị trấn Iris, tôn kính ngài Gaston và khuyên nhóm Peru tránh xa giáo phái kỳ lạ kia.
 
 ---
 
@@ -118,7 +125,12 @@
 | **Lasgarl** | **Sona / Peru / Clown** | Ta / Tôi | Ả tóc hồng / Ngươi / Tên hề | Cộc cằn, khát máu, cáu bẳn. |
 | **Zent** | **Peru / Tannan / Kanna** | Tao / Anh | Mày / Peru / Tannan / Kanna | Đàn anh bá đạo, miệng mắng nhưng âm thầm che chở. |
 | **Peru (nhỏ) / Kanna** | **Zent / Tannan / Nhóm bạn** | Tớ | Cậu / Zent / Tannan | Bạn đồng môn cùng xưởng. |
-| **Akane** | **Peru / Kanna** | Chị | Em / Hai đứa | Người chị dịu dàng chăm sóc lũ trẻ. |
+| **Akane** | **Peru / Kanna** | Chị | Em / Hai đứa | Người chị dịu dàng chăm sóc lũ trẻ; Peru trưởng thành vẫn gọi **chị Akane - em**. |
+| **Akane** | **Necro / Khách lạ (Mok, Sona)** | Tôi | Anh Necro / Hai người | Lịch sự, kính trọng trong giáo phái (*"À ừm, tôi có chồng rồi ạ"*). |
+| **Rinne** | **Peru (trong mơ)** | Tôi | Cậu | Điềm đạm, từng trải, tỏ ra thấu hiểu nỗi ân hận của Peru. |
+| **Rinne** | **Lũ côn đồ (Punk A/B/C)** | Ta | Các ngươi | Lạnh lùng, khinh miệt đám cặn bã. |
+| **Rayen / Necro** | **Rinne** | Tôi / Chúng tôi | Ngài Rinne | Tôn kính thủ lĩnh giáo phái. |
+| **Mặt Nạ Vong Linh (*Aries*)** | **Rinne** | Tôi | Rinne / Bạn thân | Đồng điệu tư tưởng hủy diệt nhân loại, xưng hô bình đẳng đầy thân thiết. |
 
 ---
 
@@ -140,7 +152,7 @@
 * **Mask of Balloons**: Mặt Nạ Bóng Bay *(Tập 5)*
 * **Mask of Cannons**: Mặt Nạ Đại Bác *(Tập 5)*
 * **Mask of the Cat / Kite**: Mặt Nạ Mèo / Mặt Nạ Diều *(Tập 6)*
-* **Mask of Spirits / Necromancy**: Mặt Nạ Vong Linh *(Preview Tập 7)*
+* **Mask of Spirits / Necromancy (*"Aries"*)**: Mặt Nạ Vong Linh (*Aries*) *(Tập 7, cấp độ nguy hiểm 4)*
 
 ### 5.2. Địa Danh & Tổ Chức
 * **Lisblanc (リスブラン)**: Vương quốc Lisblanc
@@ -171,11 +183,11 @@
 
 ## 7. THÔNG TIN GHI CÔNG FANSUB (CREDITS)
 
-* **Nhóm thực hiện / Dịch giả**: **Phamtin147**
-* **Thông tin hiển thị credit cuối phim (20:44 - 21:10)**:
-  - `Phụ đề Việt ngữ (VietSub): Phamtin147`
-  - `Dịch thuật & Biên tập: Phamtin147`
-  - `Timing & Căn chỉnh: Phamtin147`
-  - `Kiểm định chất lượng (QC): Phamtin147`
-  - `Phát hành bởi: Phamtin147`
+* **Nhóm thực hiện / Dịch giả**: **Amtia(NOFACE)**
+* **Thông tin hiển thị credit cuối phim**:
+  - `Phụ đề Việt ngữ (VietSub): Amtia(NOFACE)`
+  - `Dịch thuật & Biên tập: Amtia(NOFACE)`
+  - `Timing & Căn chỉnh: Amtia(NOFACE)`
+  - `Kiểm định chất lượng (QC): Amtia(NOFACE)`
+  - `Phát hành bởi: Amtia(NOFACE)`
 
