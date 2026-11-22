@@ -29,6 +29,9 @@
 | **Kai Kisanuki (木佐貫 戒)** | Học sinh trầm tính | Nhút nhát bề ngoài nhưng quan sát tinh tế. | **Tớ - Cậu** |
 | **Andromalius (アンドロマリウス)** | Thực thể bí ẩn trong thị kiến của Yuuma | Bình thản, uyên bác, am hiểu cơ chế trò chơi và sự kiện tuyệt chủng. | **Tôi - Cậu** |
 | **Kouki / Nario Wakasa / Chise Tsuda** | Các bạn học lớp 6-1 | Bạn cùng lớp đang mắc kẹt tại các khu vực khác trong Altea (`Gamo`, `Mo-yan`, `Tomochi`). | **Tao - Mày / Tớ - Cậu** |
+| **Yoichi Ohno (Yoi) & Beroshi** | Bạn học / Đội bóng rổ | Ohno nghiêm túc, ban đầu nghi ngờ Yuuma rồi tin tưởng; Beroshi là đội trưởng quá cố hy sinh cứu lớp khỏi Watamaki. | **Tớ / Tôi - Cậu** |
+| **Moro (Mo-yan) / Soga / Shimizu (Tomochi)** | Tu Sĩ (Priest) lớp 6-1 | Ba thành viên chọn hệ Tu Sĩ, dùng phép trị liệu (`Holy Healing`) và thanh tẩy (`Holy Purification`). | **Tớ - Cậu** |
+| **Hokari / Sera / Tada / Aida / Fujikawa / Teragami / Niki / Haizaki** | Bạn học lớp 6-1 | Nhóm ở tiệm tầng 1 (Tada, Aida bị thương) và nhóm bị kẹt ở tầng 3 (Fujikawa, Teragami, Niki, Haizaki). | **Tớ - Cậu** |
 
 ---
 
@@ -48,7 +51,9 @@
 * **Lesser HP Potion**: Bình Máu Cấp Thấp
 * **P-T Boundary**: Ranh giới P-T
 * **HP / MP / Status**: Lượng máu (HP) / Mana (MP) / Chỉ số trạng thái
-* **Skill / Ability**: Kỹ năng / Năng lực (`Flame Arrow`, `Durendal`, `Aperta`, `Clause` giữ nguyên tên chiêu/lệnh)
+* **Skill / Ability**: Kỹ năng / Năng lực (`Flame Arrow`, `Durendal`, `Aperta`, `Clause`, `Ventus`, `Avis`, `Ignis`, `Sacre`, `Premis`, `Fusione`, `Pluvia`, `Tersus` giữ nguyên câu chú/tên lệnh; `Holy Healing` = `Thánh Trị Liệu`, `Holy Purification` = `Thánh Tẩy`)
+* **QREST / Khoang Caliculus**: Thiết bị đeo tay QREST và khoang VR Caliculus
+* **Tabanus Hellfly (Larva)**: Ruồi Địa Ngục Tabanus (Ấu trùng)
 * **Log Out**: Đăng xuất
 
 ---
