@@ -2,7 +2,7 @@
 > **Tên gốc**: 貸した魔力は【リボ払い】で強制徴収 ～用済みとパーティー追放された俺は、可愛い魔王と世界を滅ぼす～  
 > **Tên tiếng Anh**: Magic Repo Man: Dumped by My Party, I'll Cash In With a Cute Support Fairy to Become the Strongest!  
 > **Tên tiếng Việt**: Cho Vay Ma Lực, Cưỡng Chế Thu Nợ Theo Hình Thức Trả Góp  
-> **Dịch giả / Timer / QC**: **Phamtin147**  
+> **Dịch giả / Timer / QC**: **Amtia(NOFACE)**  
 
 ---
 
@@ -21,6 +21,8 @@
 | **Roger (ロジャー)** | Đội trưởng `Meteor Shower` | Nam (~25) | Hào sảng, trượng nghĩa, từng mời Lent gia nhập đội. Gọi Lent: `Tôi/Anh - Cậu`; Lent gọi `Anh Roger - Em`. |
 | **Namilia (ナミリア)** | Hỗ trợ pháp sư (`Meteor Shower`) | Nữ (~23) | Quyến rũ, hay trêu chọc Lent, rất nể trọng tinh thần hỗ trợ của Lent (`Chị - Em / Lent`). |
 | **Jin / Fuuga / Comet** | Thành viên `Meteor Shower` | Jin (Tank, càu nhàu Roger), Fuuga (Thương thủ), Comet (Phong pháp sư ít nói) | Tập trung chinh phục Tầng 8 "Dãy Núi Wyvern" của Mê cung Melva. |
+| **Tirami** | Cán bộ / Trọng tài Hội Mạo Hiểm Giả | Lịch sự, công minh | Đứng ra làm trọng tài tuyên thệ quyết đấu giữa Lent và Skypiercers (`Tôi - Cậu Lent / Anh Guy`). |
+| **Gorou** | Thợ rèn học việc | Nam (~18) | Bạn cũ của Lent (`Tớ - Cậu / Lent`). |
 
 ---
 
