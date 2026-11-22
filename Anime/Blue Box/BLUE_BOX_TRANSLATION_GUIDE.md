@@ -37,6 +37,11 @@
    - *Xưng hô*: Với Chinatsu (`Natsu`): Tôi - Cậu / Bà; Với Taiki: Tôi - Cậu (`Taiki` gọi `Chị Yumeka - Em`).
 6. **Mẹ Taiki (Bà Inomata)**:
    - *Xưng hô*: Mẹ - Con (với Taiki), Cô - Cháu / Con bé (khi nhắc tới Chinatsu).
+7. **Karen Moriya & Ayame Moriya (Tập 32 / S02E07)**:
+   - **Karen Moriya**: Chị gái của Ayame, đàn chị thân với Chinatsu (`Chii`) và Taiki (`Chị Karen - Em`).
+   - **Ayame Moriya**: Em gái Karen, bạn cùng lứa với Hina (`Hinacchi`), ban đầu nhận định mình chỉ thích trai đẹp nóng bỏng kiểu *Yusa*. Xưng hô: `Em - Chị Karen`; `Tớ/Mình - Cậu/Hinacchi`.
+8. **Ông bà ngoại/nội của Chinatsu tại Nagano (Tập 32 / S02E07)**:
+   - *Xưng hô*: **Ông / Bà - Cháu (`Chii` / Chinatsu)**. Trong hồi ức thời trẻ ở lữ quán truyền thống: Ông (lúc trẻ giao rau củ) nói với Bà bằng `Tôi - Em/Cô`.
 
 ---
 
