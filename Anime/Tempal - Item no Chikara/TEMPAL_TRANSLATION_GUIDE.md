@@ -41,7 +41,17 @@
    - **Musta**: Tín đồ Yatan xâm nhập thành Winston (`Ta - Ngươi`).
    - **Cassus**: Linh mục Giáo hội Ánh Sáng Rebecca (`Tôi - Thánh nữ Isabel / Cậu`).
    - **Isabel**: Một trong các Thánh Nữ của Rebecca, sử dụng Thánh Thương Lifael (`Ta / Tôi - Ngươi / Ông`).
-   - **Irene**: Công chúa / Tiểu thư vương quốc, hộ vệ là anh Doran.
+   - **Irene**: Công chúa / Tiểu thư lãnh địa Winston, hộ vệ là anh Doran (`Tôi - Anh Grid`; Grid gọi `Tiểu thư Irene`).
+   - **Phoenix**: Đội trưởng kỵ sĩ Thành Winston (`Thần / Tôi - Tiểu thư Irene / Anh Grid`).
+9. **Đời thực & Tập đoàn S.A. (Bản Anime Nhật)**:
+   - **Takumi**: Tên thật ngoài đời của Grid trong bản anime Nhật (`Anh - Em` với Seira; `Tôi/Tớ - Cậu` với Arisa).
+   - **Seira**: Em gái của Takumi (`Em - Anh`).
+   - **Arisa**: Mối tình đầu thời học sinh của Takumi, bề ngoài ngọt ngào nhưng thực chất lợi dụng để thắng cược (`Tớ/Mình - Takumi-kun`).
+   - **Sakaeda & Hinako**: Nhân sự Tập đoàn S.A. theo dõi biến cố thế giới *Satisfy* (`Tôi - Anh/Cô`).
+10. **Bang Giant (Giant Guild)**:
+   - **Chris**: Bang chủ Bang Giant tại lãnh địa Federo (nam Vương quốc Eternal), khao khát chiêu mộ thợ rèn hàng đầu sau khi hụt **Panmir** (`Ta / Tôi - Các ngươi`).
+   - **Kid**: Thành viên Bang Giant tới lò rèn hăm dọa Grid (`Tao - Mày`).
+   - **Zednos**: Pháp sư Phong của Bang Tzedakah.
 
 ---
 
@@ -77,6 +87,19 @@
 - **Dainsleif (Replica)**: Kiếm Dainsleif (Bản sao)
 - **Blood Witch Yura**: Huyết Phù Thủy Yura (Đại Tội Đồ Thứ Tám)
 - **Tzedakah Guild**: Bang Tzedakah
+- **Giant Guild**: Bang Giant
+- **Pagma's Sword Dance: Satsu**: Kiếm Vũ Pagma: Sát
+- **Sword of Transcendence**: Thanh Kiếm Siêu Việt
+- **Penetrating Fist / Yellow Dragon Fangs**: Xuyên Phá Quyền / Hoàng Long Nha
+- **Divine Punishment / Phoenix Arrow**: Thần Phạt / Phượng Hoàng Tiễn
+- **Fast Reflexes / Blade Wind**: Phản Xạ Siêu Tốc / Kiếm Phong
+- **The Blacksmith's Wrath / Unyielding Justice**: Cơn Thịnh Nộ Của Thợ Rèn / Chính Nghĩa Bất Khuất
+- **Appraise**: Giám Định
+- **Malaxus's Cloak / Stench of Blood**: Áo Choàng Của Malaxus / Mùi Máu Tanh
+- **Malaxus's Mask / Dark Magic Orb**: Mặt Nạ Của Malaxus / Ngọc Hắc Ma Pháp
+- **Doran's Ring**: Nhẫn Của Doran
+- **Absolute Double Axe of Laceration**: Song Phủ Xé Xác Tuyệt Đối
+- **Flame Dragon Trauka**: Hỏa Long Trauka
 
 ---
 

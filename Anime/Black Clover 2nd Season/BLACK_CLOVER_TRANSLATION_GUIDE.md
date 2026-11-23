@@ -32,6 +32,11 @@
 | **Mimosa Vermillion** | Kim Sắc Nhật Xuất | Trị liệu sư nhân hậu, tung Tuyệt Kỹ Thực Vật Ma Pháp cứu mạng đồng đội. |
 | **Finral & Langris Vaude** | Anh em Ma pháp Không gian | Finral (Hắc Bộc, anh trai: *Anh - Em*) và Langris (Phó đoàn Kim Sắc Nhật Xuất, em trai: *Em - Anh*; với Yuno: *Tôi/Tao - Cậu/Đàn em*). |
 | **Lucius / Zenon / Allen / Beelzebub** | Tộc Zogratis & Spade | Thứ tự anh em nhà Zogratis: Lucius (anh cả) > Dante (anh hai) > Vanica (chị ba) > Zenon (em út, Xương Ma Pháp & Không Gian, ký khế ước đổi linh hồn lấy Trái Tim Ác Ma của Beelzebub). Allen là bạn thân quá cố thời Đội Phòng Vệ Ma Pháp của Zenon. |
+| **Loyce & Ciel Grinberryall** | Hoàng tộc Spade | Cha (Thái Dương Ma Pháp) và Mẹ (Nguyệt Ma Pháp) của Yuno Grinberryall. |
+| **Morris Libardirt** | Pháp sư khoa học Diamond | Phản đồ Vương quốc Diamond, túc chủ của Ma Vương **Lucifero**. Sở hữu *Cải Tạo Ma Pháp* cường hóa can thiệp được cả khái niệm và *Trọng Lực Ma Pháp*. Ngạo mạn, tàn nhẫn, thích giải phẫu thí nghiệm (`Ta - Ngươi / Các ngươi`). |
+| **Lotus Whomalt** | Pháp sư Diamond | Dùng Khói Ma Pháp, phản lại Morris để bảo vệ gia đình (`Tôi - Ông / Ngươi`). |
+| **Dorothy Unsworth** | Đoàn trưởng Khổng Tước San Hô | Chủ nhân *Mộng Ma Pháp (Dream Magic)*, bị Morris đánh bại trước khi Hắc Bộc tới cứu viện. |
+| **Hắc Bộc (Grey, Gordon, Gauche, Vanessa, Henry, Charmy)** | Đồng đội Hắc Bộc | Đánh sập tường thành Spade bằng căn cứ di động để cứu Đoàn trưởng Yami. Grey thức tỉnh *Biến Chất Ma Pháp*, Gordon trở lại với *Độc Chú Biến Đổi Ma Pháp*. |
 
 ---
 
@@ -88,4 +93,13 @@
 * **Wind Spirit Creation Magic: Spirit of Euros**: Phong Tinh Linh Sáng Thành Ma Pháp: Spirit of Euros
 * **Ultimate Plant Magic: Flower Princess Utopia**: Tuyệt Kỹ Thực Vật Ma Pháp: Lạc Viên Công Chúa Hoa
 * **Fallen Angel's Wingbeat**: Đôi Cánh Đọa Thiên Sứ
+* **Star Magic (星魔法)**: Tinh Tú Ma Pháp *(Tập 09)*
+* **Star Magic: Quartile Scutum / Quartile Hasta / Quartile Flagellum / Conjunction**: Tinh Tú Ma Pháp: Tứ Giác Thuẫn / Tứ Giác Thương / Tứ Giác Trường Tiên / Hội Tụ *(Tập 09)*
+* **Bone & Spatial Magic: Devil's Sword Dainsleif / Spatial Rupture**: Cốt & Không Gian Ma Pháp: Kiếm Ác Ma Dainsleif / Xé Rách Không Gian *(Tập 09)*
+* **Spirit of Boreas / Saint Spirit of Zephyr**: Spirit of Boreas / Thánh Linh Kiếm Zephyr *(Tập 09)*
+* **Tree of Qliphoth**: Cây Qliphoth *(Tập 09)*
+* **Modification Magic: Operation**: Cải Tạo Ma Pháp: Phẫu Thuật *(Tập 09)*
+* **Dream Magic / Transmutation Magic**: Mộng Ma Pháp / Biến Chất Ma Pháp *(Tập 09)*
+* **Mirror Magic: Mirrors Brigade**: Kính Ma Pháp: Kính Binh Đoàn *(Tập 09)*
+* **Modified Poison Curse Magic: Curse-Worker's Neighbor**: Độc Chú Biến Đổi Ma Pháp: Bạn Hiền Chú Thuật Sư *(Tập 09)*
 * **Translator / Timer / QC**: **Amtia(NOFACE)**

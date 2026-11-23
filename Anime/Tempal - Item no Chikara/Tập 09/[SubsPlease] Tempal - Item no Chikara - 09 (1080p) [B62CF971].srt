@@ -1,0 +1,1605 @@
+﻿1
+00:00:00,000 --> 00:00:02,690
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}<font size="15"><font color="#ccd5dc">Bang Tzedakah</font></font></b></font>
+
+2
+00:00:00,000 --> 00:00:02,690
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}</b><font size="12"><font color="#ccd5dc">Jishuka</font></font></font>
+
+3
+00:00:00,000 --> 00:00:02,690
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}</b><font size="10"><font color="#e8eaee">Hạng Thế Giới</font></font></font>
+
+4
+00:00:00,000 --> 00:00:02,690
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}</b><font size="12"><font color="#ccd5dc">Pon</font></font></font>
+
+5
+00:00:00,000 --> 00:00:02,690
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}</b><font size="12"><font color="#ccd5dc">Regas</font></font></font>
+
+6
+00:00:00,000 --> 00:00:02,690
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}</b><font size="10"><font color="#e8eaee">Hạng Thế Giới</font></font></font>
+
+7
+00:00:00,000 --> 00:00:02,690
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}</b><font size="10"><font color="#e8eaee">Hạng Thế Giới</font></font></font>
+
+8
+00:00:04,400 --> 00:00:07,650
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}<font size="28"><font color="#ccd5dc">Bang Tzedakah</font></font></b></font>
+
+9
+00:00:04,400 --> 00:00:07,650
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}</b><font size="23"><font color="#c3d0de">Jishuka</font></font></font>
+
+10
+00:00:04,400 --> 00:00:07,650
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}</b><font size="23"><font color="#c3d0de">Pon</font></font></font>
+
+11
+00:00:04,400 --> 00:00:07,650
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}</b><font size="23"><font color="#c3d0de">Regas</font></font></font>
+
+12
+00:00:04,400 --> 00:00:07,650
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}</b><font size="17"><font color="#c3d0de">Hạng Thế Giới</font></font></font>
+
+13
+00:00:04,400 --> 00:00:07,650
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}</b><font size="17"><font color="#c3d0de">Hạng Thế Giới</font></font></font>
+
+14
+00:00:04,400 --> 00:00:07,650
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}</b><font size="17"><font color="#c3d0de">Hạng Thế Giới</font></font></font>
+
+15
+00:00:04,830 --> 00:00:07,650
+<font face="Segoe UI" size="26"><i>Ai nấy trong số họ đều trên cấp 200 cả sao?!</i></font>
+
+16
+00:00:07,650 --> 00:00:10,650
+<font face="Segoe UI" size="26"><i></i>Đã thế<i> toàn bộ còn là cao thủ top đầu bảng xếp hạng nữa?!</i></font>
+
+17
+00:00:07,650 --> 00:00:08,480
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}<font size="32"><font color="#e0e2e3">Bang Tzedakah</font></font></b></font>
+
+18
+00:00:07,650 --> 00:00:08,480
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}</b><font size="32"><font color="#e0e2e3">Jishuka</font></font></font>
+
+19
+00:00:07,650 --> 00:00:08,480
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}</b><font size="15"><font color="#e0e2e3">Xếp Hạng Thế Giới</font></font></font>
+
+20
+00:00:08,480 --> 00:00:09,290
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}</b><font size="20"><font color="#c4c8cd">Jishuka</font></font></font>
+
+21
+00:00:08,480 --> 00:00:09,290
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}</b><font size="20"><font color="#c4c8cd">Pon</font></font></font>
+
+22
+00:00:08,480 --> 00:00:09,290
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}</b><font size="20"><font color="#c4c8cd">Regas</font></font></font>
+
+23
+00:00:08,480 --> 00:00:09,290
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}</b><font size="19"><font color="#c4c8cd">Xếp Hạng Thế Giới</font></font></font>
+
+24
+00:00:08,480 --> 00:00:09,290
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}</b><font size="19"><font color="#c4c8cd">Xếp Hạng Thế Giới</font></font></font>
+
+25
+00:00:09,290 --> 00:00:10,230
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}</b><font size="34"><font color="#c4c8cd">Regas</font></font></font>
+
+26
+00:00:09,290 --> 00:00:10,230
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}</b><font size="14"><font color="#c4c8cd">Xếp Hạng Thế Giới</font></font></font>
+
+27
+00:00:09,290 --> 00:00:10,230
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}</b><font size="14"><font color="#c4c8cd">Xếp Hạng Thế Giới</font></font></font>
+
+28
+00:00:09,290 --> 00:00:10,230
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}</b><font size="14"><font color="#c4c8cd">Xếp Hạng Thế Giới</font></font></font>
+
+29
+00:00:11,710 --> 00:00:13,950
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}</b><font size="26"><font color="#bdc2c7">Duval</font></font></font>
+
+30
+00:00:11,710 --> 00:00:13,950
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}</b><font size="16"><font color="#bdc2c7">Hạng Thế Giới</font></font></font>
+
+31
+00:00:11,710 --> 00:00:13,950
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}</b><font size="26"><font color="#bdc2c7">Grid</font></font></font>
+
+32
+00:00:11,710 --> 00:00:13,950
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}</b><font size="16"><font color="#bdc2c7">Hạng Thế Giới</font></font></font>
+
+33
+00:00:11,710 --> 00:00:13,950
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}</b><font size="16"><font color="#bdc2c7">Chưa Xếp Hạng</font></font></font>
+
+34
+00:00:13,950 --> 00:00:15,700
+<font face="Segoe UI" size="26"><i>Chết tiệt!</i></font>
+
+35
+00:00:17,450 --> 00:00:19,020
+<font face="Segoe UI" size="26">Cấp 95 thôi sao?</font>
+
+36
+00:00:19,020 --> 00:00:20,970
+<font face="Segoe UI" size="26">Tên này là tân thủ à?
+Hay đơn giản là quá phế?</font>
+
+37
+00:00:23,290 --> 00:00:25,610
+<font face="Segoe UI" size="26">Anh Grid đừng lo lắng.</font>
+
+38
+00:00:25,610 --> 00:00:27,370
+<font face="Segoe UI" size="26">Không sao đâu mà!</font>
+
+39
+00:00:27,370 --> 00:00:30,690
+<font face="Segoe UI" size="26">Anh bạn cơ bắp! Anh đúng là người tốt bụng!</font>
+
+40
+00:00:30,690 --> 00:00:33,010
+<font face="Segoe UI" size="26">Nhớ giữ chặt chiếc khiên đó nhé?</font>
+
+41
+00:00:33,840 --> 00:00:35,050
+<font face="Segoe UI" size="26">Đi nào!</font>
+
+42
+00:01:01,260 --> 00:01:02,790
+<font face="Segoe UI" size="20">{\an8}<font size="17"><b><font face="Segoe UI"><font color="#f85d09">O<font color="#eb270a">v<font color="#ce2818">e<font color="#f32610">r<font color="#c30517">g<font color="#a00613">e<font color="#8f020f">a<font color="#440509">r<font color="#2f1d21">e<font color="#000000">d</font></font></font></font></font></font></font></font></font></font></font></b></font></font>
+
+43
+00:01:02,790 --> 00:01:05,890
+<font face="Segoe UI" size="20">{\an8}<font size="16"><b><font face="Segoe UI"><font color="#f85d09">O<font color="#eb270a">v<font color="#ce2818">e<font color="#f32610">r<font color="#c30517">g<font color="#a00613">e<font color="#8f020f">a<font color="#440509">r<font color="#2f1d21">e<font color="#000000">d</font></font></font></font></font></font></font></font></font></font></font></b></font></font>
+
+44
+00:02:12,060 --> 00:02:13,730
+<font face="Segoe UI" size="26">Lên nào!</font>
+
+45
+00:02:21,130 --> 00:02:24,120
+<font face="Segoe UI" size="26">Ngươi dám ném thẳng mạng sống của mình về phía ta sao?</font>
+
+46
+00:02:25,940 --> 00:02:27,080
+<font face="Segoe UI" size="26">Lũ chó giao cho anh nhé, anh Grid!</font>
+
+47
+00:02:27,080 --> 00:02:29,370
+<font face="Segoe UI" size="26">Tôi đâu phải người trông thú cưng!</font>
+
+48
+00:02:41,400 --> 00:02:46,220
+<font face="Segoe UI" size="26">Lũ ngu xuẩn! Không một đòn tấn công nào
+có thể xuyên thủng phòng ngự của ta đâu!</font>
+
+49
+00:02:47,370 --> 00:02:48,830
+<font face="Segoe UI" size="26">Tốc độ kinh khủng thật!</font>
+
+50
+00:02:52,500 --> 00:02:55,190
+<font face="Segoe UI" size="26">Hắn liên tục đổi mục tiêu sau mỗi cú đấm!</font>
+
+51
+00:02:56,190 --> 00:02:57,990
+<font face="Segoe UI" size="26">Xuyên Phá Quyền!</font>
+
+52
+00:03:00,330 --> 00:03:04,450
+<font face="Segoe UI" size="26">Lũ dòi bọ xấc xược!</font>
+
+53
+00:03:10,580 --> 00:03:13,290
+<font face="Segoe UI" size="26">Trúng rồi! Làm tốt lắm, Regas!</font>
+
+54
+00:03:17,050 --> 00:03:18,080
+<font face="Segoe UI" size="26">Vẫn chưa xong đâu!</font>
+
+55
+00:03:18,080 --> 00:03:22,470
+<font face="Segoe UI" size="26">Nếu không phá được tấm khiên của hắn,
+hắn sẽ lại hồi phục nữa đấy!</font>
+
+56
+00:03:23,050 --> 00:03:28,230
+<font face="Segoe UI" size="26">Lũ sâu bọ các ngươi không thể phá vỡ kết giới của ta đâu…</font>
+
+57
+00:03:29,530 --> 00:03:33,770
+<font face="Segoe UI" size="26">Xin lỗi nhé, nhưng tôi đã nhìn thấu
+cách vận hành chiếc áo choàng đó rồi.</font>
+
+58
+00:03:34,520 --> 00:03:37,400
+<font face="Segoe UI" size="26">Ngươi không thể đỡ được những đòn
+tấn công bất ngờ ngoài tầm phòng bị.</font>
+
+59
+00:03:37,400 --> 00:03:38,820
+<font face="Segoe UI" size="26">Nói cách khác…</font>
+
+60
+00:03:42,240 --> 00:03:46,120
+<font face="Segoe UI" size="26">Khi tấn công, ngươi buộc phải
+dồn tập trung cho tấm khiên.</font>
+
+61
+00:03:46,120 --> 00:03:48,370
+<font face="Segoe UI" size="26">Và nếu tôi không cho ngươi
+cơ hội nào để tập trung thì…</font>
+
+62
+00:03:49,200 --> 00:03:51,080
+<font face="Segoe UI" size="26">Hoàng Long Nha!</font>
+
+63
+00:03:56,890 --> 00:03:58,090
+<font face="Segoe UI" size="26">Cũng khá lắm!</font>
+
+64
+00:03:58,090 --> 00:04:01,300
+<font face="Segoe UI" size="26">Phần còn lại cứ để tụi tôi lo!</font>
+
+65
+00:04:26,910 --> 00:04:28,410
+<font face="Segoe UI" size="26">Lại thêm một con kiến hôi nữa à?</font>
+
+66
+00:04:33,750 --> 00:04:36,960
+<font face="Segoe UI" size="26">Lũ sâu bọ đáng chết!</font>
+
+67
+00:05:11,450 --> 00:05:15,910
+<font face="Segoe UI" size="26">Đừng có xem thường ma pháp của ta!</font>
+
+68
+00:05:15,910 --> 00:05:17,580
+<font face="Segoe UI" size="26">Thần Phạt!</font>
+
+69
+00:05:27,600 --> 00:05:29,470
+<font face="Segoe UI" size="26">Chết đi! Chết hết đi!</font>
+
+70
+00:05:29,470 --> 00:05:32,640
+<font face="Segoe UI" size="26">Đây chính là quyền năng của thần Yatan!</font>
+
+71
+00:05:34,940 --> 00:05:37,850
+<font face="Segoe UI" size="26">Tôi sẽ không để đồng đội mình phải bỏ mạng đâu.</font>
+
+72
+00:05:38,260 --> 00:05:40,520
+<font face="Segoe UI" size="26">Tôi sẽ chặn đứng ngươi ngay tại đây…</font>
+
+73
+00:05:41,070 --> 00:05:43,300
+<font face="Segoe UI" size="26">dù có phải dốc sạch toàn bộ sức lực!</font>
+
+74
+00:05:50,200 --> 00:05:52,910
+<font face="Segoe UI" size="26">Hãy thiêu rụi trong ngọn lửa bất tử đi!</font>
+
+75
+00:05:56,250 --> 00:05:58,060
+<font face="Segoe UI" size="26">Phượng Hoàng…</font>
+
+76
+00:06:01,160 --> 00:06:03,960
+<font face="Segoe UI" size="26">Tiễn!</font>
+
+77
+00:06:24,550 --> 00:06:27,570
+<font face="Segoe UI" size="26">Tàn đời rồi, lũ sâu bọ!</font>
+
+78
+00:06:32,680 --> 00:06:34,280
+<font face="Segoe UI" size="26">Hết thật rồi sao…?</font>
+
+79
+00:06:39,960 --> 00:06:42,500
+<font face="Segoe UI" size="26">Này, đừng có để hắn đánh bại dễ dàng thế chứ!</font>
+
+80
+00:06:42,500 --> 00:06:44,560
+<font face="Segoe UI" size="26">Mấy người là bang hội mạnh nhất cơ mà!</font>
+
+81
+00:06:45,840 --> 00:06:48,470
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}<font size="15"></font></b><font color="#c8a7c7">Mana Tối Đa</font></font>
+
+82
+00:06:45,840 --> 00:06:48,470
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}<font size="15"></font></b><font color="#e8c7e1">Phòng Thủ</font></font>
+
+83
+00:06:45,840 --> 00:06:48,470
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}<font size="15"></font></b><font color="#e8c7e1">Tấn Công Vật Lý</font></font>
+
+84
+00:06:45,840 --> 00:06:48,470
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}<font size="15"></font></b><font color="#e5badf">Thể Lực</font></font>
+
+85
+00:06:47,030 --> 00:06:49,160
+<font face="Segoe UI" size="26">Mana tối đa của mình đã tăng lên rồi!</font>
+
+86
+00:06:49,670 --> 00:06:50,660
+<font face="Segoe UI" size="26">Nếu là lúc này thì…</font>
+
+87
+00:06:51,430 --> 00:06:54,560
+<font face="Segoe UI" size="26">Hãy tận hưởng những giây phút cuối cùng đi!</font>
+
+88
+00:06:55,430 --> 00:06:58,390
+<font face="Segoe UI" size="26">Hãy gào thét trong tuyệt vọng trước khi tan xác đi!</font>
+
+89
+00:07:15,030 --> 00:07:17,430
+<font face="Segoe UI" size="26">Kết thúc chuyện này luôn cho rồi!</font>
+
+90
+00:07:23,500 --> 00:07:25,580
+<font face="Segoe UI" size="26">Kiếm Vũ Pagma!</font>
+
+91
+00:07:30,970 --> 00:07:31,980
+<font face="Segoe UI" size="26">Sát!</font>
+
+92
+00:07:33,930 --> 00:07:38,780
+<font face="Segoe UI" size="26">K-Không thể nào… Sao ta lại có thể bị đánh bại được chứ?</font>
+
+93
+00:07:42,620 --> 00:07:46,770
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}</b>Bạn đã tiêu diệt Malaxus,
+Đại Tội Đồ Thứ Sáu của Giáo hội Yatan</font>
+
+94
+00:07:42,770 --> 00:07:46,770
+<font face="Segoe UI" size="26"><i>Từ giờ bạn vĩnh viễn trở thành
+kẻ thù của Giáo hội Yatan.</i></font>
+
+95
+00:07:47,110 --> 00:07:51,650
+<font face="Segoe UI" size="26"><i>Trưởng nhóm Jishuka đã nhận được
+3.820.000 vàng tiền thưởng.</i></font>
+
+96
+00:07:51,650 --> 00:07:52,790
+<font face="Segoe UI" size="26"><i>Vật phẩm rơi ra:</i></font>
+
+97
+00:07:52,790 --> 00:07:54,460
+<font face="Segoe UI" size="26"><i>8x Đá Cường Hóa Vũ Khí Được Chúc Phúc,</i></font>
+
+98
+00:07:54,460 --> 00:07:57,120
+<font face="Segoe UI" size="26"><i>8x Đá Cường Hóa Giáp Được Chúc Phúc,</i></font>
+
+99
+00:07:57,120 --> 00:07:59,510
+<font face="Segoe UI" size="26"><i>3x Ma Thạch Thượng Đẳng,</i></font>
+
+100
+00:07:59,510 --> 00:08:02,260
+<font face="Segoe UI" size="26"><i>{\an8}Áo Choàng Của Malaxus, Mặt Nạ Của Malaxus,</i></font>
+
+101
+00:08:02,000 --> 00:08:05,410
+<font face="Segoe UI" size="26"><i>Cậu ta còn chưa tới cấp 100,
+vậy mà đã hạ gục được Malaxus sao?</i></font>
+
+102
+00:08:02,260 --> 00:08:05,410
+<font face="Segoe UI" size="26"><i>{\an8}Ngọc Hắc Ma Pháp.</i></font>
+
+103
+00:08:08,060 --> 00:08:09,060
+<font face="Segoe UI" size="26">Grid…</font>
+
+104
+00:08:09,820 --> 00:08:12,890
+<font face="Segoe UI" size="26">Cô cài chế độ chia đồ để
+trưởng nhóm hốt sạch hết sao?</font>
+
+105
+00:08:12,890 --> 00:08:14,970
+<font face="Segoe UI" size="26">Cô lừa tôi đấy à?</font>
+
+106
+00:08:16,650 --> 00:08:19,930
+<font face="Segoe UI" size="26">Đừng lo. Tôi sẽ giữ đúng lời hứa.</font>
+
+107
+00:08:20,370 --> 00:08:22,190
+<font face="Segoe UI" size="26">Đỉnh lắm, Grid!</font>
+
+108
+00:08:22,190 --> 00:08:24,020
+<font face="Segoe UI" size="26">Cậu mạnh thật đấy!</font>
+
+109
+00:08:24,330 --> 00:08:26,080
+<font face="Segoe UI" size="26">Tất cả đều nhờ anh Grid cả!</font>
+
+110
+00:08:26,080 --> 00:08:27,200
+<font face="Segoe UI" size="26">Cảm ơn anh nhiều nhé!</font>
+
+111
+00:08:27,200 --> 00:08:29,110
+<font face="Segoe UI" size="26">Anh Grid ngầu quá đi mất!</font>
+
+112
+00:08:29,110 --> 00:08:31,570
+<font face="Segoe UI" size="26">Ôi dào, có gì to tát đâu…</font>
+
+113
+00:08:31,570 --> 00:08:33,650
+<font face="Segoe UI" size="26">À nhầm… dẹp chuyện đó qua một bên đi!</font>
+
+114
+00:08:33,650 --> 00:08:35,440
+<font face="Segoe UI" size="26">Mau chia chiến lợi phẩm nào!</font>
+
+115
+00:08:36,250 --> 00:08:39,410
+<font face="Segoe UI" size="26">Cậu đúng là người khiến người ta bất ngờ đủ đường thật đấy.</font>
+
+116
+00:08:43,120 --> 00:08:45,580
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}<b><font color="#ca5070"><font size="10">Áo Choàng Của Malaxus
+</font></font></b><font color="#cfcfca"><font size="8">Phẩm cấp: <font color="#9d3451">Độc Nhất
+<font color="#cfcfca"><font size="10">Độ bền: 35/81
+Phòng thủ: 15
+Trọng lượng: 10
+
+<font size="8">*Trí tuệ: +200
+*<Mùi Máu Tanh>
+Mùi máu tanh sẽ bám theo bạn mọi lúc mọi nơi.
+Quái vật và dã thú dễ chủ động tấn công bạn hơn,
+và những người xung quanh sẽ cảm thấy chán ghét bạn.
+Điều kiện trang bị: Cấp 200 trở lên</font></font></font></font></font></font></b></font>
+
+117
+00:08:43,340 --> 00:08:45,580
+<font face="Segoe UI" size="26">Tôi chịu, không xài nổi cái áo choàng này đâu.</font>
+
+118
+00:08:45,580 --> 00:08:47,910
+<font face="Segoe UI" size="26">Hiệu ứng \"Mùi Máu Tanh\"
+gây bất lợi nặng quá.</font>
+
+119
+00:08:47,910 --> 00:08:50,800
+<font face="Segoe UI" size="26">Vả lại chỉ có mình Malaxus mới
+kích hoạt được khả năng phòng ngự của nó.</font>
+
+120
+00:08:50,800 --> 00:08:52,760
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}<b><font color="#ca5070"><font size="10">Mặt Nạ Của Malaxus
+</font></font></b><font color="#cfcfca"><font size="8">Phẩm cấp: <font color="#9d3451">Độc Nhất
+<font color="#cfcfca"><font size="10">Độ bền: 11/20
+Kháng mọi nguyên tố: +5%
+Trọng lượng: 1
+
+<font size="8">*Thời gian niệm phép: -20%
+Điều kiện trang bị: Cấp 200 trở lên</font></font></font></font></font></font></b></font>
+
+121
+00:08:51,100 --> 00:08:53,600
+<font face="Segoe UI" size="26">Chiếc mặt nạ này ngon phết đấy!</font>
+
+122
+00:08:53,600 --> 00:08:56,300
+<font face="Segoe UI" size="26">Viên ngọc này cũng xịn không kém!</font>
+
+123
+00:08:55,220 --> 00:08:57,180
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}<b><font color="#ca5070"><font size="10">Ngọc Hắc Ma Pháp
+</font></font></b><font color="#cfcfca"><font size="8">Phẩm cấp: <font color="#9d3451">Độc Nhất
+<font color="#cfcfca"><font size="10">Độ bền: 90/130
+Khuếch đại ma pháp: +14%
+Sức mạnh nguyên tố Hắc Ma Pháp: +20%
+Ô kỹ năng phép: 4
+Trọng lượng: 80
+
+<font size="8">Điều kiện trang bị: Cấp 200\h\h\h\hTrí tuệ 500+</font></font></font></font></font></font></b></font>
+
+124
+00:08:57,180 --> 00:09:01,150
+<font face="Segoe UI" size="26">Nhưng bọn mình đành phải
+bỏ lại một trong số chúng thôi.</font>
+
+125
+00:09:01,150 --> 00:09:03,000
+<font face="Segoe UI" size="26">Tôi lấy cái áo choàng.</font>
+
+126
+00:09:03,340 --> 00:09:04,390
+<font face="Segoe UI" size="26">Anh Grid?</font>
+
+127
+00:09:04,390 --> 00:09:08,050
+<font face="Segoe UI" size="26">Sao cậu lại muốn lấy nó?
+Trong ba món, nó ít giá trị nhất đấy.</font>
+
+128
+00:09:10,900 --> 00:09:13,690
+<font face="Segoe UI" size="26">Không, tôi cứ lấy cái áo choàng thôi.</font>
+
+129
+00:09:15,940 --> 00:09:18,820
+<font face="Segoe UI" size="26">Cậu đúng là gã kỳ quặc thật đấy.</font>
+
+130
+00:09:19,350 --> 00:09:21,410
+<font face="Segoe UI" size="26">Vậy bên tôi sẽ lấy chiếc mặt nạ.</font>
+
+131
+00:09:21,840 --> 00:09:26,960
+<font face="Segoe UI" size="26">Toàn bộ số tiền thưởng từ trận công phá này cậu cứ cầm hết đi.
+Không có cậu thì tụi tôi chẳng thể nào thắng nổi đâu.</font>
+
+132
+00:09:26,960 --> 00:09:29,030
+<font face="Segoe UI" size="26">Cô đúng là quý cô hào phóng đấy!</font>
+
+133
+00:09:29,030 --> 00:09:31,750
+<font face="Segoe UI" size="26">Anh Grid, hôm nay anh vất vả rồi!</font>
+
+134
+00:09:31,750 --> 00:09:34,650
+<font face="Segoe UI" size="26">Hôm khác tôi sẽ giúp anh tìm lại
+món đồ bị đánh cắp nhé.</font>
+
+135
+00:09:34,650 --> 00:09:37,130
+<font face="Segoe UI" size="26">Ồ, anh giúp tôi thật à?</font>
+
+136
+00:09:37,130 --> 00:09:40,690
+<font face="Segoe UI" size="26">Tất nhiên rồi! Tôi luôn giữ lời hứa mà!</font>
+
+137
+00:09:41,450 --> 00:09:44,260
+<font face="Segoe UI" size="26">Hẹn gặp lại nhé, Grid.</font>
+
+138
+00:09:49,380 --> 00:09:51,420
+<font face="Segoe UI" size="26">Họ tốt bụng thật đấy.</font>
+
+139
+00:09:51,420 --> 00:09:54,020
+<font face="Segoe UI" size="26">Mình cũng muốn nghỉ ngơi một chút, nhưng mà…</font>
+
+140
+00:09:55,030 --> 00:09:59,440
+<font face="Segoe UI" size="26">Thấy một hang động chưa ai khám phá thế này,
+lòng mình lại nổi máu đi săn kho báu mất rồi!</font>
+
+141
+00:10:01,010 --> 00:10:08,230
+<font face="Segoe UI" size="26">Cái chết của Đại Tế Ty Malaxus
+chắc chắn sẽ khiến Giáo hội Yatan suy yếu nặng.</font>
+
+142
+00:10:08,230 --> 00:10:08,870
+<font face="Segoe UI" size="26">Vâng.</font>
+
+143
+00:10:09,280 --> 00:10:12,000
+<font face="Segoe UI" size="26">Những người chơi từng tham gia
+chuỗi nhiệm vụ của phe Yatan</font>
+
+144
+00:10:12,000 --> 00:10:14,240
+<font face="Segoe UI" size="26">đều đã chuyển sang làm nhiệm vụ khác cả rồi.</font>
+
+145
+00:10:14,620 --> 00:10:17,930
+<font face="Segoe UI" size="26">Đó là sự kiện quy mô lớn nhất kể từ khi
+<i>Satisfy</i> ra mắt đến nay…</font>
+
+146
+00:10:18,550 --> 00:10:22,330
+<font face="Segoe UI" size="26">Không ngờ cuộc chiến với tà giáo Yatan
+lại khép lại theo cách như thế này.</font>
+
+147
+00:10:24,040 --> 00:10:28,350
+<font face="Segoe UI" size="26">Cậu ta vẫn không ngừng vượt xa
+mọi dự đoán của chúng ta trên mọi phương diện.</font>
+
+148
+00:10:29,070 --> 00:10:33,450
+<font face="Segoe UI" size="26">Thế nhưng lời nguyền của thần Yatan
+sẽ không dễ dàng bị phá giải như vậy đâu.</font>
+
+149
+00:10:37,820 --> 00:10:39,030
+<font face="Segoe UI" size="26">Đây là…</font>
+
+150
+00:10:41,450 --> 00:10:44,110
+<font face="Segoe UI" size="26">Lời nguyền của Yatan sao?</font>
+
+151
+00:10:50,730 --> 00:10:53,790
+<font face="Segoe UI" size="26">Tiểu thư Irene! Tiểu thư Irene!</font>
+
+152
+00:10:56,570 --> 00:10:59,900
+<font face="Segoe UI" size="26">Thưa tiểu thư, đã đến lúc rồi.</font>
+
+153
+00:11:02,700 --> 00:11:03,730
+<font face="Segoe UI" size="26">Doran…</font>
+
+154
+00:11:04,940 --> 00:11:08,640
+<font face="Segoe UI" size="26">Tiểu thư vẫn nhớ người đàn ông thần từng nhắc tới chứ?</font>
+
+155
+00:11:09,450 --> 00:11:12,280
+<font face="Segoe UI" size="26">Cậu ấy đã đến đúng lúc lắm.</font>
+
+156
+00:11:12,280 --> 00:11:14,660
+<font face="Segoe UI" size="26">Xin đừng để cậu ấy rời đi.</font>
+
+157
+00:11:15,690 --> 00:11:18,820
+<font face="Segoe UI" size="26">Người đàn ông nhận ra chiếc nhẫn đó…</font>
+
+158
+00:11:27,010 --> 00:11:31,580
+<font face="Segoe UI" size="26">Nhìn quen lắm mà…
+Đó là Nhẫn của Doran phải không?</font>
+
+159
+00:11:39,920 --> 00:11:42,760
+<font face="Segoe UI" size="26">Lại gặp nhau rồi, tiểu thư Irene.</font>
+
+160
+00:11:43,120 --> 00:11:47,880
+<font face="Segoe UI" size="26">Anh là… anh Grid, người đã rèn nên
+Thanh Kiếm Siêu Việt sao?</font>
+
+161
+00:11:47,880 --> 00:11:51,850
+<font face="Segoe UI" size="26">Tôi cứ tưởng tìm được kho báu,
+ai ngờ lại gặp tiểu thư ở đây!</font>
+
+162
+00:11:52,550 --> 00:11:55,820
+<font face="Segoe UI" size="26"><i>Nhiệm vụ: \"Hộ Tống Nữ Quý Tộc (A)\" đã bắt đầu.</i></font>
+
+163
+00:11:53,230 --> 00:11:58,940
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}</b><font color="#cfd2d8"><font size="9">Nhiệm vụ
+<b>Hộ Tống Nữ Quý Tộc (A)</b>
+
+Irene đang suy yếu sau khi bị Giáo hội Yatan
+bắt cóc lần thứ hai.
+Hãy hộ tống cô ấy trở về tòa thành.
+
+Điều kiện hoàn thành: Đưa Irene về Thành Winston an toàn
+Phần thưởng: Đạt tối đa độ thiện cảm với Irene
+\"Nhẫn Của Doran\"
+*Khi đạt tối đa độ thiện cảm với NPC khác giới,
+sẽ có tỷ lệ rất cao kích hoạt sự kiện đặc biệt.
+
+Thất bại: Irene có thể bỏ mạng.
+Độ thiện cảm với Bá tước Steim sẽ về 0.
+*Cái chết của Irene sẽ khiến Bá tước Steim
+hóa điên và đẩy phương bắc Eternal vào hỗn loạn.</font></font></font>
+
+164
+00:11:55,820 --> 00:11:58,940
+<font face="Segoe UI" size="26"><i>Cô ấy lại suýt bị đem đi
+hiến tế cho thần Yatan nữa à?</i></font>
+
+165
+00:11:58,940 --> 00:11:59,900
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}</b><font color="#cfd2d8"><font size="9"><b>Hộ Tống Nữ Quý Tộc (A)</b>
+
+Irene đang suy yếu sau khi bị Giáo hội Yatan
+bắt cóc lần thứ hai.
+Hãy hộ tống cô ấy trở về tòa thành.
+
+Điều kiện hoàn thành: Đưa Irene về Thành Winston an toàn
+Phần thưởng: Đạt tối đa độ thiện cảm với Irene
+\"Nhẫn Của Doran\"
+*Khi đạt tối đa độ thiện cảm với NPC khác giới,
+sẽ có tỷ lệ rất cao kích hoạt sự kiện đặc biệt.</font></font></font>
+
+166
+00:12:00,120 --> 00:12:02,360
+<font face="Segoe UI" size="26"><i>Phần thưởng là Nhẫn Của Doran sao?</i></font>
+
+167
+00:12:02,360 --> 00:12:03,650
+<font face="Segoe UI" size="26"><i>Cuối cùng cũng tới lượt mình rồi!</i></font>
+
+168
+00:12:03,650 --> 00:12:06,510
+<font face="Segoe UI" size="26"><i>Cơ hội để sở hữu món bảo vật
+gửi gắm tâm nguyện của Doran!</i></font>
+
+169
+00:12:06,510 --> 00:12:09,130
+<font face="Segoe UI" size="26"><i>Đem lên sàn đấu giá kiểu gì cũng hốt bộn tiền!</i></font>
+
+170
+00:12:09,130 --> 00:12:13,260
+<font face="Segoe UI" size="26"><i>Đã thế, nếu mình nâng tối đa
+độ thiện cảm với Irene thì…</i></font>
+
+171
+00:12:13,260 --> 00:12:16,150
+<font face="Segoe UI" size="26"><i>khả năng cao sẽ kích hoạt sự kiện đặc biệt nữa chứ!</i></font>
+
+172
+00:12:16,150 --> 00:12:17,040
+<font face="Segoe UI" size="26">Tên dị giáo kia!</font>
+
+173
+00:12:17,530 --> 00:12:19,800
+<font face="Segoe UI" size="26">Hắn đã sát hại ngài Malaxus!</font>
+
+174
+00:12:19,800 --> 00:12:20,980
+<font face="Segoe UI" size="26">Đừng để hắn sống sót rời khỏi đây!</font>
+
+175
+00:12:20,980 --> 00:12:22,910
+<font face="Segoe UI" size="26">Tiểu thư Irene, chúng ta đi thôi!</font>
+
+176
+00:12:24,880 --> 00:12:27,030
+<font face="Segoe UI" size="26">Bám cho chắc vào nhé!</font>
+
+177
+00:12:27,030 --> 00:12:28,680
+<font face="Segoe UI" size="26">Phản Xạ Siêu Tốc!</font>
+
+178
+00:12:32,100 --> 00:12:36,810
+<font face="Segoe UI" size="26"><i>Nếu nâng tối đa thiện cảm với Irene,
+mình vừa có chiếc nhẫn vừa cưới được cô ấy luôn!</i></font>
+
+179
+00:12:37,710 --> 00:12:41,570
+<font face="Segoe UI" size="26"><i>Cô ấy là chủ nhân lãnh địa này, nếu mình cưới cô ấy
+thì lãnh địa này chẳng phải của </i>mình<i> sao!</i></font>
+
+180
+00:12:41,910 --> 00:12:45,020
+<font face="Segoe UI" size="26"><i>Thế là toàn bộ tiền thuế chảy hết vào túi mình rồi!</i></font>
+
+181
+00:12:45,020 --> 00:12:47,660
+<font face="Segoe UI" size="26">Tránh đường ra! Kiếm Phong!</font>
+
+182
+00:12:53,630 --> 00:12:56,500
+<font face="Segoe UI" size="26">Anh Grid, sao anh lại mạnh đến thế?</font>
+
+183
+00:12:56,720 --> 00:12:58,530
+<font face="Segoe UI" size="26">Anh chỉ là thợ rèn thôi mà.</font>
+
+184
+00:12:58,530 --> 00:13:02,840
+<font face="Segoe UI" size="26">À thì, nói chung tất cả đều là
+nhờ sức mạnh trang bị của tôi cả đấy!</font>
+
+185
+00:13:04,330 --> 00:13:05,550
+<font face="Segoe UI" size="26">Tiểu thư Irene!</font>
+
+186
+00:13:06,150 --> 00:13:07,830
+<font face="Segoe UI" size="26">Thần mừng quá vì tiểu thư bình an vô sự!</font>
+
+187
+00:13:08,960 --> 00:13:12,430
+<font face="Segoe UI" size="26">Ân tình này chúng tôi đời nào dám quên!</font>
+
+188
+00:13:13,480 --> 00:13:17,270
+<font face="Segoe UI" size="26">Anh Grid, cả lãnh địa Winston đều mang ơn anh.</font>
+
+189
+00:13:17,540 --> 00:13:19,270
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}</b><font size="10"><font color="#b4adbb">Nhiệm vụ</font></font></font>
+
+190
+00:13:17,540 --> 00:13:19,270
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}<font size="10"><font color="#e6e7ea">Hộ Tống Nữ Quý Tộc (A)</font></font></b></font>
+
+191
+00:13:17,920 --> 00:13:19,270
+<font face="Segoe UI" size="26"><i>Hoàn thành nhiệm vụ.</i></font>
+
+192
+00:13:17,960 --> 00:13:19,270
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}</b><font size="24"><font color="#d1ced4">Hoàn thành nhiệm vụ!</font></font></font>
+
+193
+00:13:17,960 --> 00:13:19,270
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}</b><font size="24"><font color="#d1ced4">Bạn đã nhận được phần thưởng!</font></font></font>
+
+194
+00:13:19,810 --> 00:13:22,580
+<font face="Segoe UI" size="26"><i>Độ thiện cảm với Irene đã đạt mức tối đa.</i></font>
+
+195
+00:13:22,580 --> 00:13:27,400
+<font face="Segoe UI" size="26"><i>Lần trước mình đã không thể cứu được cô ấy…
+nhưng có lẽ mình cũng thay đổi chút ít rồi.</i></font>
+
+196
+00:13:27,780 --> 00:13:31,450
+<font face="Segoe UI" size="26">Đây là kỷ vật của người đàn ông
+từng liều mình cứu mạng tôi.</font>
+
+197
+00:13:31,450 --> 00:13:33,040
+<font face="Segoe UI" size="26">Xin anh hãy trân trọng giữ gìn nó.</font>
+
+198
+00:13:33,900 --> 00:13:35,660
+<font face="Segoe UI" size="26">Vâng, tất nhiên rồi.</font>
+
+199
+00:13:37,810 --> 00:13:39,210
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}Nhẫn Của Doran
+</b>đã được khóa vĩnh viễn vào tài khoản của bạn.</font>
+
+200
+00:13:39,210 --> 00:13:42,090
+<font face="Segoe UI" size="26"><i>Khóa tài khoản á?! Vậy là không bán được rồi!</i></font>
+
+201
+00:13:42,090 --> 00:13:44,420
+<font face="Segoe UI" size="26"><i>Mình còn định mang lên sàn đấu giá cơ mà!</i></font>
+
+202
+00:13:44,740 --> 00:13:47,130
+<font face="Segoe UI" size="26">Anh nhớ quay lại thăm tôi nữa nhé?</font>
+
+203
+00:13:47,720 --> 00:13:48,800
+<font face="Segoe UI" size="26">Được thôi…</font>
+
+204
+00:13:58,450 --> 00:14:02,500
+<font face="Segoe UI" size="26">Anh hai ơi, chỗ này trông đắt đỏ quá…
+Có ổn không vậy anh?</font>
+
+205
+00:14:02,500 --> 00:14:05,910
+<font face="Segoe UI" size="26">Ừ, sắp tới anh sẽ kiếm được
+cả đống tiền từ trong game mà.</font>
+
+206
+00:14:06,490 --> 00:14:09,030
+<font face="Segoe UI" size="26">Chẳng mấy chốc anh sẽ đưa cả bố mẹ tới đây.
+Em cứ yên tâm đi.</font>
+
+207
+00:14:12,110 --> 00:14:13,430
+<font face="Segoe UI" size="26"><i>Chính là cậu ta.</i></font>
+
+208
+00:14:18,370 --> 00:14:20,880
+<font face="Segoe UI" size="26"><i>Không ngờ mình lại được thấy
+cậu ta ngoài đời thực thế này…</i></font>
+
+209
+00:14:21,060 --> 00:14:22,340
+<font face="Segoe UI" size="20">{\an8}<font size="15"><b><font face="Segoe UI"><font color="#4c7b7d">Tôi muốn ông điều tra về người đàn ông này.</font></font></b></font></font>
+
+210
+00:14:24,310 --> 00:14:25,760
+<font face="Segoe UI" size="26">Ngon tuyệt cú mèo!</font>
+
+211
+00:14:27,100 --> 00:14:28,480
+<font face="Segoe UI" size="26">Cứ từ từ mà thưởng thức đi.</font>
+
+212
+00:14:30,090 --> 00:14:32,050
+<font face="Segoe UI" size="20">{\an8}<font color="#6ebcd7">Tin nhắn</font></font>
+
+213
+00:14:30,090 --> 00:14:32,050
+<font face="Segoe UI" size="20">{\an8}<b><font color="#484e51">Arisa</font></b></font>
+
+214
+00:14:30,090 --> 00:14:32,050
+<font face="Segoe UI" size="20">{\an8}<font size="15"><font color="#58abc5">Đã lâu không gặp…</font></font></font>
+
+215
+00:14:31,000 --> 00:14:32,050
+<font face="Segoe UI" size="26">Arisa sao?!</font>
+
+216
+00:14:35,050 --> 00:14:36,020
+<font face="Segoe UI" size="26"><i>Mối tình đầu…</i></font>
+
+217
+00:14:37,200 --> 00:14:38,350
+<font face="Segoe UI" size="26"><i>của mình!</i></font>
+
+218
+00:14:38,600 --> 00:14:41,120
+<font face="Segoe UI" size="26">Seira, ăn nhanh lên nào!</font>
+
+219
+00:14:51,160 --> 00:14:53,530
+<font face="Segoe UI" size="26"><i>Đ-Đây không phải là mơ đấy chứ?</i></font>
+
+220
+00:14:53,530 --> 00:14:56,620
+<font face="Segoe UI" size="26">Takumi này, trông cậu khác xưa nhiều quá.</font>
+
+221
+00:14:57,040 --> 00:14:59,080
+<font face="Segoe UI" size="26">V-Vậy sao?</font>
+
+222
+00:14:59,740 --> 00:15:01,110
+<font face="Segoe UI" size="26"><i>Cậu ấy dễ thương quá đi!</i></font>
+
+223
+00:15:01,850 --> 00:15:04,160
+<font face="Segoe UI" size="26"><i>Mình nhất định phải thổ lộ tình cảm với cậu ấy…</i></font>
+
+224
+00:15:06,880 --> 00:15:09,720
+<font face="Segoe UI" size="26">Kiểu tóc với bộ đồ này hợp với cậu ghê.</font>
+
+225
+00:15:10,960 --> 00:15:12,690
+<font face="Segoe UI" size="26">T-Thật hả?</font>
+
+226
+00:15:12,690 --> 00:15:16,530
+<font face="Segoe UI" size="26"><i>Thì mình đã chi hẳn 120.000 yên ở tiệm đồ hiệu
+với salon tóc sang chảnh còn gì!</i></font>
+
+227
+00:15:16,530 --> 00:15:19,820
+<font face="Segoe UI" size="26">Cậu mới xin được việc ở công ty lớn à?</font>
+
+228
+00:15:19,820 --> 00:15:22,430
+<font face="Segoe UI" size="26">Từ trước tới nay cậu vẫn luôn chăm chỉ lắm mà.</font>
+
+229
+00:15:22,430 --> 00:15:24,360
+<font face="Segoe UI" size="26">V-Vậy à?</font>
+
+230
+00:15:24,580 --> 00:15:27,530
+<font face="Segoe UI" size="26">Tớ luôn quý cậu ở điểm đó đấy.</font>
+
+231
+00:15:32,200 --> 00:15:33,260
+<font face="Segoe UI" size="26">Tớ…</font>
+
+232
+00:15:34,720 --> 00:15:38,360
+<font face="Segoe UI" size="26">T-Tớ vẫn luôn thích cậu…</font>
+
+233
+00:15:38,800 --> 00:15:39,970
+<font face="Segoe UI" size="26">Takumi à…</font>
+
+234
+00:15:43,130 --> 00:15:43,790
+<font face="Segoe UI" size="26">Ừm…</font>
+
+235
+00:15:43,790 --> 00:15:45,730
+<font face="Segoe UI" size="26">Tớ đi dặm lại lớp trang điểm chút nhé.</font>
+
+236
+00:15:45,730 --> 00:15:47,290
+<font face="Segoe UI" size="26">Ừ-Ừm.</font>
+
+237
+00:15:49,500 --> 00:15:52,050
+<font face="Segoe UI" size="26"><i>C-Có khi nào mình sắp được hẹn hò với cậu ấy thật không…</i></font>
+
+238
+00:15:52,950 --> 00:15:55,260
+<font face="Segoe UI" size="26"><i>Mình cũng tranh thủ đi vệ sinh chút.</i></font>
+
+239
+00:15:55,490 --> 00:15:57,090
+<font face="Segoe UI" size="26"><i>Không được để hỏng bầu không khí này mới được.</i></font>
+
+240
+00:15:57,090 --> 00:15:59,220
+<font face="Segoe UI" size="26">Trời ạ, cậu ta thảm hại thật sự.</font>
+
+241
+00:15:59,600 --> 00:16:02,570
+<font face="Segoe UI" size="26">Kiểu tóc với quần áo trông quê mùa phát khiếp.</font>
+
+242
+00:16:02,570 --> 00:16:06,600
+<font face="Segoe UI" size="26">Suốt buổi chỉ biết ấp úng mấy câu như
+\"Vậy sao?\", chán muốn chết đi được!</font>
+
+243
+00:16:06,600 --> 00:16:07,650
+<font face="Segoe UI" size="26">À, mà sau đó…</font>
+
+244
+00:16:08,080 --> 00:16:11,720
+<font face="Segoe UI" size="26">cậu ta còn suýt nữa đòi tỏ tình
+làm bạn trai mình nữa chứ! Gớm chết!</font>
+
+245
+00:16:13,160 --> 00:16:16,530
+<font face="Segoe UI" size="26">Cơ mà chắc chắn tớ sẽ dụ được
+cậu ta tới buổi họp lớp thôi.</font>
+
+246
+00:16:16,920 --> 00:16:19,690
+<font face="Segoe UI" size="26">Vụ cá cược này tớ cầm chắc phần thắng rồi.</font>
+
+247
+00:16:22,310 --> 00:16:24,480
+<font face="Segoe UI" size="26"><i>Mình cứ tưởng bản thân đã thay đổi được chút ít.</i></font>
+
+248
+00:16:26,300 --> 00:16:31,920
+<font face="Segoe UI" size="26"><i>Nhưng dù có kiếm ra tiền hay khoác lên
+đồ đắt tiền thì cũng chẳng nghĩa lý gì.</i></font>
+
+249
+00:16:33,250 --> 00:16:34,680
+<font face="Segoe UI" size="26"><i>Chẳng nghĩa lý gì cả…</i></font>
+
+250
+00:16:35,470 --> 00:16:37,800
+<font face="Segoe UI" size="26"><i>Rốt cuộc, mình vẫn chỉ là một kẻ vô dụng.</i></font>
+
+251
+00:16:41,040 --> 00:16:42,270
+<font face="Segoe UI" size="26"><i>Mình phải làm việc…</i></font>
+
+252
+00:16:43,730 --> 00:16:45,460
+<font face="Segoe UI" size="26"><i>Mình phải trả sạch đống nợ đó…</i></font>
+
+253
+00:16:47,290 --> 00:16:50,830
+<font face="Segoe UI" size="26"><i>Nhưng tiền bạc có phải là tất cả những gì mình cần không?</i></font>
+
+254
+00:16:53,950 --> 00:16:56,250
+<font face="Segoe UI" size="26">Tụi tôi đã bàn bạc với nhau rồi,</font>
+
+255
+00:16:56,620 --> 00:16:59,530
+<font face="Segoe UI" size="26">và muốn chính thức mời cậu
+gia nhập Bang Tzedakah.</font>
+
+256
+00:17:00,660 --> 00:17:03,030
+<font face="Segoe UI" size="26">Tụi tôi cần sức mạnh của cậu, Grid.</font>
+
+257
+00:17:04,150 --> 00:17:06,160
+<font face="Segoe UI" size="26">Tôi rất cảm kích lời mời đó.</font>
+
+258
+00:17:06,160 --> 00:17:08,150
+<font face="Segoe UI" size="26">Nhưng tôi sẽ không dời tiệm rèn đi đâu hết.</font>
+
+259
+00:17:08,150 --> 00:17:10,440
+<font face="Segoe UI" size="26">Đây là lò rèn của tôi.</font>
+
+260
+00:17:10,920 --> 00:17:12,050
+<font face="Segoe UI" size="26">Không sao cả.</font>
+
+261
+00:17:12,840 --> 00:17:14,730
+<font face="Segoe UI" size="26">Thứ tụi tôi cần là chính con người cậu.</font>
+
+262
+00:17:16,530 --> 00:17:19,850
+<font face="Segoe UI" size="26"><i>Nếu mình bán trang bị cho đám thành viên bang
+và phất lên giàu có,</i></font>
+
+263
+00:17:20,120 --> 00:17:22,220
+<font face="Segoe UI" size="26"><i>mình sẽ cho Arisa thấy cô ta
+đã nhìn nhầm về mình đến mức nào.</i></font>
+
+264
+00:17:23,370 --> 00:17:25,590
+<font face="Segoe UI" size="26">Được thôi, tôi gia nhập.</font>
+
+265
+00:17:25,870 --> 00:17:27,150
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}</b><font color="#cfd2d8"><font size="9">Tên Bang: Tzedakah
+Cấp độ: 5
+Danh tiếng: 612.140
+Bang chủ: Jishuka
+Thành viên: 18/80
+Trực thuộc: Không
+Đồng minh: Không
+Kẻ thù: Vương quốc Rio, Hỏa Long Trauka,
+Giáo hội Yatan, Băng Thiết Phong, Tộc Heldin,
+Tộc Kauchi
+Chiến tuyến: Trung lập
+Lãnh địa: Không</font></font></font>
+
+266
+00:17:27,150 --> 00:17:30,380
+<font face="Segoe UI" size="26">Cảm ơn cậu. Bọn tôi đã tìm kiếm
+cậu suốt bấy lâu nay rồi.</font>
+
+267
+00:17:30,690 --> 00:17:34,410
+<font face="Segoe UI" size="26">V-Vậy thì? Tôi phải rèn trang bị cho ai trước đây?</font>
+
+268
+00:17:34,410 --> 00:17:38,200
+<font face="Segoe UI" size="26">Trước hết, bọn tôi muốn đặt một cây thương cho Pon.
+Cậu ấy là trụ cột tuyến đầu của bang.</font>
+
+269
+00:17:38,200 --> 00:17:40,870
+<font face="Segoe UI" size="26">Sau đó thì rèn cho tôi một món nhé.</font>
+
+270
+00:17:41,210 --> 00:17:42,410
+<font face="Segoe UI" size="26"><i>Cô ấy xinh thật đấy…</i></font>
+
+271
+00:17:42,990 --> 00:17:46,410
+<font face="Segoe UI" size="26"><i>Khoan đã, không được! Mình sẽ không để
+phụ nữ lừa gạt thêm lần nào nữa!</i></font>
+
+272
+00:17:46,830 --> 00:17:50,430
+<font face="Segoe UI" size="26">Nghe nói Bang Tzedakah vừa chiêu mộ
+được một thợ rèn rất cừ.</font>
+
+273
+00:17:50,840 --> 00:17:53,790
+<font face="Segoe UI" size="26">Xem ra thực lực bọn chúng đang tăng vọt
+sau khi hạ gục Malaxus.</font>
+
+274
+00:17:55,390 --> 00:17:59,550
+<font face="Segoe UI" size="26">Ta tuy nắm giữ lãnh địa ở Federo,
+phía nam Vương quốc Eternal,</font>
+
+275
+00:17:59,950 --> 00:18:04,270
+<font face="Segoe UI" size="26">nhưng lại thất bại trong việc chiêu mộ
+thợ rèn đứng đầu là Panmir.</font>
+
+276
+00:18:05,000 --> 00:18:09,810
+<font face="Segoe UI" size="26">Chúng ta sẽ kéo gã thợ rèn của Tzedakah
+về dưới trướng Bang Giant.</font>
+
+277
+00:18:12,170 --> 00:18:14,780
+<font face="Segoe UI" size="26">Bằng mọi giá phải tìm ra chiếc khiên của Grid!</font>
+
+278
+00:18:14,780 --> 00:18:16,230
+<font face="Segoe UI" size="26">Mọi người cố lên nhé!</font>
+
+279
+00:18:20,130 --> 00:18:21,320
+<font face="Segoe UI" size="26"><i>Chết tiệt…</i></font>
+
+280
+00:18:21,320 --> 00:18:24,410
+<font face="Segoe UI" size="26"><i>Sau ngần ấy chuyện,
+mình vẫn cứ phải cày cuốc nữa sao?</i></font>
+
+281
+00:18:27,350 --> 00:18:29,550
+<font face="Segoe UI" size="26">Được rồi, ra dáng lắm rồi đấy!</font>
+
+282
+00:18:29,550 --> 00:18:32,920
+<font face="Segoe UI" size="26">Mày còn đẹp hơn con nhỏ Arisa gấp vạn lần!</font>
+
+283
+00:18:36,110 --> 00:18:39,790
+<font face="Segoe UI" size="26">Này, anh Chris bên Bang Giant
+muốn gặp nói chuyện với mày.</font>
+
+284
+00:18:39,790 --> 00:18:41,220
+<font face="Segoe UI" size="26">Cứ ngoan ngoãn đi theo tao. Đừng chống cự.</font>
+
+285
+00:18:43,370 --> 00:18:44,310
+<font face="Segoe UI" size="26">Mày đùa tao đấy à?</font>
+
+286
+00:18:44,310 --> 00:18:46,180
+<font face="Segoe UI" size="26">Mày vừa nói cái gì?</font>
+
+287
+00:18:46,820 --> 00:18:49,610
+<font face="Segoe UI" size="26">Nếu mày dám chống lại Bang Giant thì…</font>
+
+288
+00:18:49,610 --> 00:18:54,680
+<font face="Segoe UI" size="26">Mày có biết tao đã tốn bao nhiêu tiếng đồng hồ
+cho món đó không hả, thằng khốn?!</font>
+
+289
+00:18:53,020 --> 00:18:55,400
+<font face="Segoe UI" size="26"><i>{\an8}Kỹ năng \"Cơn Thịnh Nộ Của Thợ Rèn\" đã kích hoạt.</i></font>
+
+290
+00:19:00,120 --> 00:19:04,010
+<font face="Segoe UI" size="26">Này! M-Mày có biết bọn tao
+sẽ làm gì mày không hả?!</font>
+
+291
+00:19:03,130 --> 00:19:05,350
+<font face="Segoe UI" size="26">{\an8}Tao đếch quan tâm!</font>
+
+292
+00:19:05,350 --> 00:19:08,480
+<font face="Segoe UI" size="26">Tao đang cắm đầu kiếm tiền mà chúng mày
+dám nhảy vào phá đám à!</font>
+
+293
+00:19:09,520 --> 00:19:12,210
+<font face="Segoe UI" size="26">Chính Nghĩa Bất Khuất!</font>
+
+294
+00:19:12,560 --> 00:19:22,930
+<font face="Segoe UI" size="20">{\an8}<font size="18"><font face="Segoe UI"><font color="#1c1d1a">Kẻ Tâm Thần Xuất Hiện Trong <i>Satisfy</i>!!</font></font></font></font>
+
+295
+00:19:13,990 --> 00:19:17,960
+<font face="Segoe UI" size="26"><i>{\an8}Đoạn phim sau đây do một
+người chơi cung cấp.</i></font>
+
+296
+00:19:18,220 --> 00:19:22,930
+<font face="Segoe UI" size="26"><i>{\an8}Nội dung có thể gây khó chịu cho một số
+khán giả vì tính chất gây sốc.</i></font>
+
+297
+00:19:21,950 --> 00:19:22,930
+<font face="Segoe UI" size="20">{\an8}<font face="Segoe UI"><font size="15">Cảnh Báo</font></font></font>
+
+298
+00:19:21,950 --> 00:19:22,930
+<font face="Segoe UI" size="20">{\an8}<font face="Segoe UI"><font size="15">Cảnh Báo</font></font></font>
+
+299
+00:19:21,950 --> 00:19:22,930
+<font face="Segoe UI" size="20">{\an8}<font face="Segoe UI"><font size="20">Khán Giả Lưu Ý!</font></font></font>
+
+300
+00:19:21,950 --> 00:19:22,930
+<font face="Segoe UI" size="20">{\an8}<font face="Segoe UI"><font size="8">Đoạn phim sau đây có thể không phù hợp với một số khán giả.</font></font></font>
+
+301
+00:19:24,760 --> 00:19:27,850
+<font face="Segoe UI" size="26"><i>Cuộc tranh luận đang lan rộng về việc
+liệu có cần biện pháp xử lý</i></font>
+
+302
+00:19:28,200 --> 00:19:30,270
+<font face="Segoe UI" size="26"><i>đối với những kẻ tâm thần trong game hay không.</i></font>
+
+303
+00:19:32,470 --> 00:19:36,570
+<font face="Segoe UI" size="26">Tzedakah, các ngươi cứ chờ đấy mà trả giá!</font>
+
+304
+00:19:38,260 --> 00:19:40,820
+<font face="Segoe UI" size="26">Này, cậu định ngủ nướng tới bao giờ nữa?</font>
+
+305
+00:19:41,440 --> 00:19:43,030
+<font face="Segoe UI" size="26">Grid, dậy mau!</font>
+
+306
+00:19:43,030 --> 00:19:44,340
+<font face="Segoe UI" size="26">Dậy đi nào!</font>
+
+307
+00:19:44,340 --> 00:19:46,330
+<font face="Segoe UI" size="26">Món trang bị tụi tôi đặt
+làm tới đâu rồi?</font>
+
+308
+00:19:52,190 --> 00:19:54,340
+<font face="Segoe UI" size="26">Tôi cũng cố lết cho xong rồi đây…</font>
+
+309
+00:19:54,720 --> 00:19:56,140
+<font face="Segoe UI" size="26">Tuyệt vời thật.</font>
+
+310
+00:19:56,140 --> 00:19:59,090
+<font face="Segoe UI" size="26">Ngay cả Bang Giant cũng chẳng cản nổi cậu.</font>
+
+311
+00:19:59,970 --> 00:20:02,760
+<font face="Segoe UI" size="26">Giờ thiên hạ ai cũng nghĩ tôi là thằng tâm thần rồi.</font>
+
+312
+00:20:02,760 --> 00:20:07,390
+<font face="Segoe UI" size="26">Cơ mà xả được cơn giận có khi lại giúp
+tôi rèn ra món đồ còn xịn hơn đấy.</font>
+
+313
+00:20:07,770 --> 00:20:09,680
+<font face="Segoe UI" size="26">Ch-Chà…</font>
+
+314
+00:20:09,680 --> 00:20:12,730
+<font face="Segoe UI" size="26">Thấy chưa? Trả tiền đầy đủ đấy nhé?</font>
+
+315
+00:20:13,790 --> 00:20:14,770
+<font face="Segoe UI" size="26">Ừ.</font>
+
+316
+00:20:14,770 --> 00:20:16,770
+<font face="Segoe UI" size="26">800.000 vàng được không?</font>
+
+317
+00:20:16,770 --> 00:20:18,660
+<font face="Segoe UI" size="26"><i>8-800.000 vàng á?!</i></font>
+
+318
+00:20:18,660 --> 00:20:21,070
+<font face="Segoe UI" size="26"><i>Quy ra tận 96 triệu yên luôn sao?!</i></font>
+
+319
+00:20:21,880 --> 00:20:26,620
+<font face="Segoe UI" size="26"><i>Thanh Kiếm Siêu Việt phẩm Huyền Thoại
+mình còn bán được có 220.000 vàng thôi đấy!</i></font>
+
+320
+00:20:26,620 --> 00:20:29,290
+<font face="Segoe UI" size="26"><i>Đám này ngốc tới mức không nhận ra
+mình đang trả hớ luôn à?</i></font>
+
+321
+00:20:29,520 --> 00:20:31,540
+<font face="Segoe UI" size="26">Sao chỉ có mỗi thằng Pon được có hàng mới thế?!</font>
+
+322
+00:20:31,540 --> 00:20:32,970
+<font face="Segoe UI" size="26">Chắc chắn là đồ giả rồi!</font>
+
+323
+00:20:32,970 --> 00:20:34,310
+<font face="Segoe UI" size="26">Vứt quách đi cho rồi!</font>
+
+324
+00:20:34,310 --> 00:20:35,310
+<font face="Segoe UI" size="26">Thôi nào, thôi nào.</font>
+
+325
+00:20:35,310 --> 00:20:38,040
+<font face="Segoe UI" size="26">Tôi có phần cho ông chú luôn đây.
+Bình tĩnh lại đi nào.</font>
+
+326
+00:20:43,570 --> 00:20:47,550
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}<font size="15"><font color="#d24c64">Song Phủ Xé Xác Tuyệt Đối</font></font></b></font>
+
+327
+00:20:43,570 --> 00:20:47,550
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}<font size="12"></font></b><font color="#e8e8e8">Phẩm cấp: <font color="#d24c64">Độc Nhất</font></font></font>
+
+328
+00:20:43,570 --> 00:20:47,550
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}<font size="20"></font></b><font color="#e8e8e8">Độ bền</font></font>
+
+329
+00:20:43,570 --> 00:20:47,550
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}<font size="20"></font></b><font color="#e8e8e8">Tấn công</font></font>
+
+330
+00:20:43,570 --> 00:20:47,550
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}<font size="20"></font></b><font color="#e8e8e8">Tỷ lệ Chí mạng</font></font>
+
+331
+00:20:43,570 --> 00:20:47,550
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}<font size="20"></font></b><font color="#e8e8e8">Sát thương Chí mạng</font></font>
+
+332
+00:20:43,570 --> 00:20:47,550
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}<font size="15"></font></b><font color="#e8e8e8">*Có xác suất kích hoạt Liên Kích</font></font>
+
+333
+00:20:43,570 --> 00:20:47,550
+<font face="Segoe UI" size="20" color="#e4e8f0"><b>{\an8}<font size="15"></font></b><font color="#e8e8e8">*Chí mạng gây xuất huyết/hỗn loạn</font></font>
+
+334
+00:20:43,610 --> 00:20:45,990
+<font face="Segoe UI" size="26">Cây rìu tôi nhờ cậu sửa đây mà!</font>
+
+335
+00:20:45,990 --> 00:20:47,550
+<font face="Segoe UI" size="26">Nó xuất hiện thêm kỹ năng mới luôn này!</font>
+
+336
+00:20:47,550 --> 00:20:52,720
+<font face="Segoe UI" size="26">Nếu tôi dùng Giám Định lên trang bị,
+tôi có thể khai phá kỹ năng ẩn của nó!</font>
+
+337
+00:20:52,720 --> 00:20:54,970
+<font face="Segoe UI" size="26">Chuyện này tôi chưa từng nghe thấy bao giờ!</font>
+
+338
+00:20:54,970 --> 00:20:57,110
+<font face="Segoe UI" size="26">Vậy Giám Định đồ của tôi nữa đi!</font>
+
+339
+00:20:57,400 --> 00:21:00,410
+<font face="Segoe UI" size="26">Tôi lấy giá hữu nghị
+30 vàng một lần thôi.</font>
+
+340
+00:21:00,410 --> 00:21:02,610
+<font face="Segoe UI" size="26">Đôi khi trang bị sẽ không có kỹ năng ẩn,</font>
+
+341
+00:21:02,610 --> 00:21:05,280
+<font face="Segoe UI" size="26">nhưng nếu có, mấy người phải trả thêm
+cho tôi 300 và—</font>
+
+342
+00:21:04,300 --> 00:21:05,280
+<font face="Segoe UI" size="26">{\an8}Vũ khí của tôi nữa!</font>
+
+343
+00:21:05,280 --> 00:21:06,890
+<font face="Segoe UI" size="26">Giáp của tôi nữa nhé!</font>
+
+344
+00:21:06,890 --> 00:21:08,140
+<font face="Segoe UI" size="26">Của tôi nữa!</font>
+
+345
+00:21:08,140 --> 00:21:10,620
+<font face="Segoe UI" size="26">Im hết đi! Xếp thứ tự đàng hoàng vào!</font>
+
+346
+00:21:10,920 --> 00:21:11,950
+<font face="Segoe UI" size="26">Được rồi!</font>
+
+347
+00:21:11,950 --> 00:21:12,810
+<font face="Segoe UI" size="26">Oẳn tù tì đi.</font>
+
+348
+00:21:12,810 --> 00:21:14,210
+<font face="Segoe UI" size="26">Bốc thăm đi.</font>
+
+349
+00:21:14,670 --> 00:21:16,370
+<font face="Segoe UI" size="26">Chơi vẽ thang đi.</font>
+
+350
+00:21:17,910 --> 00:21:18,800
+<font face="Segoe UI" size="26"><i>Thiệt tình…</i></font>
+
+351
+00:21:18,800 --> 00:21:20,680
+<font face="Segoe UI" size="26"><i>Đám này ồn ào thật đấy.</i></font>
+
+352
+00:21:20,680 --> 00:21:22,710
+<font face="Segoe UI" size="26"><i>Cứ như tất cả đều là bạn bè thân thiết vậy.</i></font>
+
+353
+00:21:23,770 --> 00:21:26,600
+<font face="Segoe UI" size="26">Dạo gần đây cả bang gặp không ít khó khăn.</font>
+
+354
+00:21:27,010 --> 00:21:31,010
+<font face="Segoe UI" size="26">Nhưng giờ ai nấy đều hừng hực khí thế rồi.
+Tất cả đều nhờ cậu đấy.</font>
+
+355
+00:21:31,010 --> 00:21:32,270
+<font face="Segoe UI" size="26">Jishuka…</font>
+
+356
+00:21:32,270 --> 00:21:35,060
+<font face="Segoe UI" size="26">Năng lực chế tạo những trang bị cực phẩm…</font>
+
+357
+00:21:35,060 --> 00:21:37,450
+<font face="Segoe UI" size="26">Cùng kiếm thuật đủ sức đánh bại cả Malaxus.</font>
+
+358
+00:21:38,260 --> 00:21:39,480
+<font face="Segoe UI" size="26">Grid…</font>
+
+359
+00:21:39,480 --> 00:21:42,740
+<font face="Segoe UI" size="26">Cậu đang sở hữu chức nghiệp huyền thoại, đúng chứ?</font>
+
+360
+00:21:43,590 --> 00:21:44,910
+<font face="Segoe UI" size="26"><i>Cô ấy đoán ra rồi sao?</i></font>
+
+361
+00:21:45,270 --> 00:21:47,740
+<font face="Segoe UI" size="26"><i>Mình cũng biết khó mà giấu kín lâu được, nhưng mà…</i></font>
+
+362
+00:21:48,910 --> 00:21:50,990
+<font face="Segoe UI" size="26"><i>Sao cô ấy nhìn quyến rũ thế không biết?</i></font>
+
+363
+00:21:52,280 --> 00:21:53,950
+<font face="Segoe UI" size="26">Thì… cô biết rồi đấy.</font>
+
+364
+00:21:55,450 --> 00:21:58,120
+<font face="Segoe UI" size="26">Tôi mừng lắm vì cậu đã gia nhập bang mình!</font>
+
+365
+00:21:58,810 --> 00:22:02,890
+<font face="Segoe UI" size="26"><i>N-Ngoài đời vừa xảy ra mấy chuyện tồi tệ, nhưng mà…</i></font>
+
+366
+00:22:03,550 --> 00:22:06,010
+<font face="Segoe UI" size="26"><i>T-Tỉnh táo lại đi, Takumi!</i></font>
+
+367
+00:22:06,010 --> 00:22:08,430
+<font face="Segoe UI" size="26"><i>Mày sẽ không bao giờ để phụ nữ lừa gạt thêm lần nào nữa đâu!</i></font>
+

@@ -1,0 +1,422 @@
+﻿[Script Info]
+Title: Vietnamese Fansub (VietSub by Amtia(NOFACE))
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+YCbCr Matrix: TV.601
+LayoutResX: 640
+LayoutResY: 360
+
+[Aegisub Project Garbage]
+Last Style Storage: Overgeared
+Audio File: CR_Overgeared_S1E9_OGRSIM0009_384834_video_ja-jp_J11393414_V2.mp4
+Video File: CR_Overgeared_S1E9_OGRSIM0009_384834_video_ja-jp_J11393414_V2.mp4
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 1.000000
+Scroll Position: 345
+Active Line: 371
+Video Position: 32045
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: italics,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: main,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: top,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: italicstop,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: flashback,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashback italics,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashbacktop,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: flashbackitalicstop,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: overlap,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: overlaptop,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: overlap italics,Segoe UI,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: sign_generic,Segoe UI,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,18,1
+Style: high,Segoe UI,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,50,1
+Style: highitalics,Segoe UI,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,50,1
+Style: screen_text,Segoe UI,20,&H00F0E8E4,&H000000FF,&H006F635C,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:02.69,screen_text,Sign,0,0,0,,{\fs15\c&HDCD5CC&\3c&H59534F&\pos(215.333,85.334)}Bang Tzedakah
+Dialogue: 0,0:00:00.00,0:00:02.69,screen_text,Sign,0,0,0,,{\b0\fs12\an1\c&HDCD5CC&\3c&H736359&\pos(151.333,154.001)}Jishuka
+Dialogue: 0,0:00:00.00,0:00:02.69,screen_text,Sign,0,0,0,,{\b0\fs10\an1\c&HEEEAE8&\3c&H736763&\pos(366,154.001)}Hạng Thế Giới
+Dialogue: 0,0:00:00.00,0:00:02.69,screen_text,Sign,0,0,0,,{\b0\fs12\an1\c&HDCD5CC&\3c&H736359&\pos(150,223.001)}Pon
+Dialogue: 0,0:00:00.00,0:00:02.69,screen_text,Sign,0,0,0,,{\b0\fs12\an1\c&HDCD5CC&\3c&H736359&\pos(147.333,289.667)}Regas
+Dialogue: 0,0:00:00.00,0:00:02.69,screen_text,Sign,0,0,0,,{\b0\fs10\an1\c&HEEEAE8&\3c&H736763&\pos(366.667,221.334)}Hạng Thế Giới
+Dialogue: 0,0:00:00.00,0:00:02.69,screen_text,Sign,0,0,0,,{\b0\fs10\an1\c&HEEEAE8&\3c&H736763&\pos(368,289.334)}Hạng Thế Giới
+Dialogue: 0,0:00:04.40,0:00:07.65,screen_text,Sign,0,0,0,,{\fs28\c&HDCD5CC&\3c&H59534F&\move(143.333,60,143.333,-26,0,3250)}Bang Tzedakah
+Dialogue: 0,0:00:04.40,0:00:07.65,screen_text,Sign,0,0,0,,{\b0\fs23\an1\c&HDED0C3&\3c&H5E5550&\move(28,180.668,28,94.668,0,3250)}Jishuka
+Dialogue: 0,0:00:04.40,0:00:07.65,screen_text,Sign,0,0,0,,{\b0\fs23\an1\c&HDED0C3&\3c&H5E5550&\move(20.667,298.001,20.667,212,0,3250)}Pon
+Dialogue: 0,0:00:04.40,0:00:07.65,screen_text,Sign,0,0,0,,{\b0\fs23\an1\c&HDED0C3&\3c&H5E5550&\move(20.667,415.333,20.667,329.333,0,3250)}Regas
+Dialogue: 0,0:00:04.40,0:00:07.65,screen_text,Sign,0,0,0,,{\b0\fs17\an1\c&HDED0C3&\3c&H5E5550&\move(406.667,183.335,406.667,97.335,0,3250)}Hạng Thế Giới
+Dialogue: 0,0:00:04.40,0:00:07.65,screen_text,Sign,0,0,0,,{\b0\fs17\an1\c&HDED0C3&\3c&H5E5550&\move(406.667,298.335,406.667,212.335,0,3250)}Hạng Thế Giới
+Dialogue: 0,0:00:04.40,0:00:07.65,screen_text,Sign,0,0,0,,{\b0\fs17\an1\c&HDED0C3&\3c&H5E5550&\move(406.667,415.335,406.667,329.335,0,3250)}Hạng Thế Giới
+Dialogue: 0,0:00:04.83,0:00:07.65,italics,Grid,0,0,0,,Ai nấy trong số họ đều trên cấp 200 cả sao?!
+Dialogue: 1,0:00:07.65,0:00:10.65,italics,Grid,0,0,0,,{\i0}Đã thế{\i1} toàn bộ còn là cao thủ top đầu bảng xếp hạng nữa?!
+Dialogue: 0,0:00:07.65,0:00:08.48,screen_text,Sign,0,0,0,,{\fs32\c&HE3E2E0&\3c&H5C5652&\frz356.5\pos(187.332,44.667)\frx12\fry6}Bang Tzedakah
+Dialogue: 0,0:00:07.65,0:00:08.48,screen_text,Sign,0,0,0,,{\an1\b0\fs32\c&HE3E2E0&\3c&H5C5652&\frz356.5\pos(39.332,216)\frx10\fry2}Jishuka
+Dialogue: 0,0:00:07.65,0:00:08.48,screen_text,Sign,0,0,0,,{\an1\b0\fs15\c&HE3E2E0&\3c&H5C5652&\frz0.9709\frx6\fry16\pos(486.665,216)}Xếp Hạng Thế Giới
+Dialogue: 0,0:00:08.48,0:00:09.29,screen_text,Sign,0,0,0,,{\an1\b0\fs20\c&HCDC8C4&\3c&H534C47&\frz7.341\frx18\fry324\pos(51.332,60)}Jishuka
+Dialogue: 0,0:00:08.48,0:00:09.29,screen_text,Sign,0,0,0,,{\an1\b0\fs20\c&HCDC8C4&\3c&H534C47&\frx18\fry324\pos(33.332,194.667)\frz3.011}Pon
+Dialogue: 0,0:00:08.48,0:00:09.29,screen_text,Sign,0,0,0,,{\an1\b0\fs20\c&HCDC8C4&\3c&H534C47&\pos(13.999,334.667)\frz357.3\frx10\fry322}Regas
+Dialogue: 0,0:00:08.48,0:00:09.29,screen_text,Sign,0,0,0,,{\an1\b0\fs19\c&HCDC8C4&\3c&H534C47&\frx14\fry332\frz4.719\pos(405.999,161.334)}Xếp Hạng Thế Giới
+Dialogue: 0,0:00:08.48,0:00:09.29,screen_text,Sign,0,0,0,,{\an1\b0\fs19\c&HCDC8C4&\3c&H534C47&\pos(396.666,353.334)\frx0\fry334\frz357.6}Xếp Hạng Thế Giới
+Dialogue: 0,0:00:09.29,0:00:10.23,screen_text,Sign,0,0,0,,{\an1\b0\fs34\c&HCDC8C4&\3c&H534C47&\pos(39.332,172)}Regas
+Dialogue: 0,0:00:09.29,0:00:10.23,screen_text,Sign,0,0,0,,{\an1\b0\fs14\c&HCDC8C4&\3c&H534C47&\frx2\fry22\pos(507.999,168.667)}Xếp Hạng Thế Giới
+Dialogue: 0,0:00:09.29,0:00:10.23,screen_text,Sign,0,0,0,,{\an1\b0\fs14\c&HCDC8C4&\3c&H534C47&\pos(500.666,18.667)\frz353.5\frx12\fry26}Xếp Hạng Thế Giới
+Dialogue: 0,0:00:09.29,0:00:10.23,screen_text,Sign,0,0,0,,{\an1\b0\fs14\c&HCDC8C4&\3c&H534C47&\frx2\fry22\pos(518.666,320.667)\frz7.052}Xếp Hạng Thế Giới
+Dialogue: 0,0:00:11.71,0:00:13.95,screen_text,Sign,0,0,0,,{\b0\fs26\an1\c&HC7C2BD&\3c&H504843&\fad(500,0)\pos(36.666,38.001)}Duval
+Dialogue: 0,0:00:11.71,0:00:13.95,screen_text,Sign,0,0,0,,{\b0\fs16\an1\c&HC7C2BD&\3c&H5D5752&\fad(500,0)\pos(415.333,41.335)}Hạng Thế Giới
+Dialogue: 0,0:00:11.71,0:00:13.95,screen_text,Sign,0,0,0,,{\b0\fs26\an1\c&HC7C2BD&\3c&H504843&\fad(500,0)\pos(32.666,158.668)}Grid
+Dialogue: 0,0:00:11.71,0:00:13.95,screen_text,Sign,0,0,0,,{\b0\fs16\an1\c&HC7C2BD&\3c&H5D5752&\fad(500,0)\pos(402.666,159.335)}Hạng Thế Giới
+Dialogue: 0,0:00:11.71,0:00:13.95,screen_text,Sign,0,0,0,,{\b0\fs16\an1\c&HC7C2BD&\3c&H5D5752&\fad(500,0)\pos(499.333,159.335)}Chưa Xếp Hạng
+Dialogue: 0,0:00:13.95,0:00:15.70,italics,Grid,0,0,0,,Chết tiệt!
+Dialogue: 0,0:00:17.45,0:00:19.02,Default,Toban,0,0,0,,Cấp 95 thôi sao?
+Dialogue: 0,0:00:19.02,0:00:20.97,Default,Vantner,0,0,0,,Tên này là tân thủ à?\NHay đơn giản là quá phế?
+Dialogue: 0,0:00:23.29,0:00:25.61,Default,Regas,0,0,0,,Anh Grid đừng lo lắng.
+Dialogue: 0,0:00:25.61,0:00:27.37,Default,Regas,0,0,0,,Không sao đâu mà!
+Dialogue: 0,0:00:27.37,0:00:30.69,Default,Grid,0,0,0,,Anh bạn cơ bắp! Anh đúng là người tốt bụng!
+Dialogue: 0,0:00:30.69,0:00:33.01,Default,Regas,0,0,0,,Nhớ giữ chặt chiếc khiên đó nhé?
+Dialogue: 0,0:00:33.84,0:00:35.05,Default,Regas,0,0,0,,Đi nào!
+Dialogue: 0,0:01:01.26,0:01:02.79,sign_generic,Sign,0,0,0,,{\fad(51,0)\bord3\blur2\an1\fs17\b1\fnSegoe UI\c&H095DF8&\3c&HBFBEC1&\t(0,1469,\fs16)\move(365.999,253.999,359.333,248.667,0,1450)}O{\c&H0A27EB&}v{\c&H1828CE&}e{\c&H1026F3&}r{\c&H1705C3&}g{\c&H1306A0&}e{\c&H0F028F&}a{\c&H090544&}r{\c&H211D2F&}e{\c&H000000&}d
+Dialogue: 0,0:01:02.79,0:01:05.89,sign_generic,Sign,0,0,0,,{\fad(0,1080)\bord3\blur2\an1\fs16\b1\fnSegoe UI\c&H095DF8&\3c&HBFBEC1&\t(0,273,\3c&HFEFEFE&)\t(0,273,\c&H252525&)\pos(359.333,248.667)}O{\c&H0A27EB&\t(0,273,\c&H666767&)}v{\c&H1828CE&\t(0,273,\c&H363636&)}e{\c&H1026F3&\t(0,273,\c&H7E7E7E&)}r{\c&H1705C3&\t(0,273,\c&H5E5E5E&)}g{\c&H1306A0&\t(0,273,\c&H252525&)}e{\c&H0F028F&\t(0,273,\c&H666767&)}a{\c&H090544&\t(0,273,\c&H363636&)}r{\c&H211D2F&\t(0,273,\c&H7E7E7E&)}e{\c&H000000&\t(0,273,\c&H5E5E5E&)}d
+Dialogue: 0,0:02:12.06,0:02:13.73,Default,Regas,0,0,0,,Lên nào!
+Dialogue: 0,0:02:21.13,0:02:24.12,Default,Malaxus,0,0,0,,Ngươi dám ném thẳng mạng sống của mình về phía ta sao?
+Dialogue: 0,0:02:25.94,0:02:27.08,Default,Regas,0,0,0,,Lũ chó giao cho anh nhé, anh Grid!
+Dialogue: 0,0:02:27.08,0:02:29.37,Default,Grid,0,0,0,,Tôi đâu phải người trông thú cưng!
+Dialogue: 0,0:02:41.40,0:02:46.22,Default,Malaxus,0,0,0,,Lũ ngu xuẩn! Không một đòn tấn công nào\Ncó thể xuyên thủng phòng ngự của ta đâu!
+Dialogue: 0,0:02:47.37,0:02:48.83,Default,Malaxus,0,0,0,,Tốc độ kinh khủng thật!
+Dialogue: 0,0:02:52.50,0:02:55.19,Default,Malaxus,0,0,0,,Hắn liên tục đổi mục tiêu sau mỗi cú đấm!
+Dialogue: 0,0:02:56.19,0:02:57.99,Default,Regas,0,0,0,,Xuyên Phá Quyền!
+Dialogue: 0,0:03:00.33,0:03:04.45,Default,Malaxus,0,0,0,,Lũ dòi bọ xấc xược!
+Dialogue: 0,0:03:10.58,0:03:13.29,Default,Vantner,0,0,0,,Trúng rồi! Làm tốt lắm, Regas!
+Dialogue: 0,0:03:17.05,0:03:18.08,Default,Toban,0,0,0,,Vẫn chưa xong đâu!
+Dialogue: 0,0:03:18.08,0:03:22.47,Default,Toban,0,0,0,,Nếu không phá được tấm khiên của hắn,\Nhắn sẽ lại hồi phục nữa đấy!
+Dialogue: 0,0:03:23.05,0:03:28.23,Default,Malaxus,0,0,0,,Lũ sâu bọ các ngươi không thể phá vỡ kết giới của ta đâu…
+Dialogue: 0,0:03:29.53,0:03:33.77,Default,Jishuka,0,0,0,,Xin lỗi nhé, nhưng tôi đã nhìn thấu\Ncách vận hành chiếc áo choàng đó rồi.
+Dialogue: 0,0:03:34.52,0:03:37.40,Default,Jishuka,0,0,0,,Ngươi không thể đỡ được những đòn\Ntấn công bất ngờ ngoài tầm phòng bị.
+Dialogue: 0,0:03:37.40,0:03:38.82,Default,Jishuka,0,0,0,,Nói cách khác…
+Dialogue: 0,0:03:42.24,0:03:46.12,Default,Jishuka,0,0,0,,Khi tấn công, ngươi buộc phải\Ndồn tập trung cho tấm khiên.
+Dialogue: 0,0:03:46.12,0:03:48.37,Default,Jishuka,0,0,0,,Và nếu tôi không cho ngươi\Ncơ hội nào để tập trung thì…
+Dialogue: 0,0:03:49.20,0:03:51.08,Default,Regas,0,0,0,,Hoàng Long Nha!
+Dialogue: 0,0:03:56.89,0:03:58.09,Default,Pon,0,0,0,,Cũng khá lắm!
+Dialogue: 0,0:03:58.09,0:04:01.30,Default,Vantner,0,0,0,,Phần còn lại cứ để tụi tôi lo!
+Dialogue: 0,0:04:26.91,0:04:28.41,Default,Malaxus,0,0,0,,Lại thêm một con kiến hôi nữa à?
+Dialogue: 0,0:04:33.75,0:04:36.96,Default,Malaxus,0,0,0,,Lũ sâu bọ đáng chết!
+Dialogue: 0,0:05:11.45,0:05:15.91,Default,Malaxus,0,0,0,,Đừng có xem thường ma pháp của ta!
+Dialogue: 0,0:05:15.91,0:05:17.58,Default,Malaxus,0,0,0,,Thần Phạt!
+Dialogue: 0,0:05:27.60,0:05:29.47,Default,Malaxus,0,0,0,,Chết đi! Chết hết đi!
+Dialogue: 0,0:05:29.47,0:05:32.64,Default,Malaxus,0,0,0,,Đây chính là quyền năng của thần Yatan!
+Dialogue: 0,0:05:34.94,0:05:37.85,Default,Jishuka,0,0,0,,Tôi sẽ không để đồng đội mình phải bỏ mạng đâu.
+Dialogue: 0,0:05:38.26,0:05:40.52,Default,Jishuka,0,0,0,,Tôi sẽ chặn đứng ngươi ngay tại đây…
+Dialogue: 0,0:05:41.07,0:05:43.30,Default,Jishuka,0,0,0,,dù có phải dốc sạch toàn bộ sức lực!
+Dialogue: 0,0:05:50.20,0:05:52.91,Default,Jishuka,0,0,0,,Hãy thiêu rụi trong ngọn lửa bất tử đi!
+Dialogue: 0,0:05:56.25,0:05:58.06,Default,Jishuka,0,0,0,,Phượng Hoàng…
+Dialogue: 0,0:06:01.16,0:06:03.96,Default,Jishuka,0,0,0,,Tiễn!
+Dialogue: 0,0:06:24.55,0:06:27.57,Default,Malaxus,0,0,0,,Tàn đời rồi, lũ sâu bọ!
+Dialogue: 0,0:06:32.68,0:06:34.28,Default,Jishuka,0,0,0,,Hết thật rồi sao…?
+Dialogue: 0,0:06:39.96,0:06:42.50,Default,Grid,0,0,0,,Này, đừng có để hắn đánh bại dễ dàng thế chứ!
+Dialogue: 0,0:06:42.50,0:06:44.56,Default,Grid,0,0,0,,Mấy người là bang hội mạnh nhất cơ mà!
+Dialogue: 0,0:06:45.84,0:06:48.47,screen_text,Sign,0,0,0,,{\fs15\b0\c&HC7A7C8&\3c&H835B7F&\move(-32.333,243.333,130.333,243.333,0,2630)}Mana Tối Đa
+Dialogue: 0,0:06:45.84,0:06:48.47,screen_text,Sign,0,0,0,,{\fs15\b0\c&HE1C7E8&\3c&H8B6A92&\move(149.333,243.333,311.333,243.333,0,2630)}Phòng Thủ
+Dialogue: 0,0:06:45.84,0:06:48.47,screen_text,Sign,0,0,0,,{\fs15\b0\c&HE1C7E8&\3c&H996EA1&\move(327.666,243.333,489.667,243.333,0,2630)}Tấn Công Vật Lý
+Dialogue: 0,0:06:45.84,0:06:48.47,screen_text,Sign,0,0,0,,{\fs15\b0\c&HDFBAE5&\3c&H9E61AF&\move(508.666,243.333,670.667,243.333,0,2630)}Thể Lực
+Dialogue: 0,0:06:47.03,0:06:49.16,Default,Grid,0,0,0,,Mana tối đa của mình đã tăng lên rồi!
+Dialogue: 0,0:06:49.67,0:06:50.66,Default,Grid,0,0,0,,Nếu là lúc này thì…
+Dialogue: 0,0:06:51.43,0:06:54.56,Default,Malaxus,0,0,0,,Hãy tận hưởng những giây phút cuối cùng đi!
+Dialogue: 0,0:06:55.43,0:06:58.39,Default,Malaxus,0,0,0,,Hãy gào thét trong tuyệt vọng trước khi tan xác đi!
+Dialogue: 0,0:07:15.03,0:07:17.43,Default,Grid,0,0,0,,Kết thúc chuyện này luôn cho rồi!
+Dialogue: 0,0:07:23.50,0:07:25.58,Default,Grid,0,0,0,,Kiếm Vũ Pagma!
+Dialogue: 0,0:07:30.97,0:07:31.98,Default,Grid,0,0,0,,Sát!
+Dialogue: 0,0:07:33.93,0:07:38.78,Default,Malaxus,0,0,0,,K-Không thể nào… Sao ta lại có thể bị đánh bại được chứ?
+Dialogue: 0,0:07:42.62,0:07:46.77,screen_text,Sign,0,0,0,,{\fad(92,0)\b0\frz352.8\move(338,120,316,120,0,4137)\fax0.15\frx2\fry16}Bạn đã tiêu diệt Malaxus,\NĐại Tội Đồ Thứ Sáu của Giáo hội Yatan
+Dialogue: 0,0:07:42.77,0:07:46.77,italics,System,0,0,0,,Từ giờ bạn vĩnh viễn trở thành\Nkẻ thù của Giáo hội Yatan.
+Dialogue: 0,0:07:47.11,0:07:51.65,italics,System,0,0,0,,Trưởng nhóm Jishuka đã nhận được\N3.820.000 vàng tiền thưởng.
+Dialogue: 0,0:07:51.65,0:07:52.79,italics,System,0,0,0,,Vật phẩm rơi ra:
+Dialogue: 0,0:07:52.79,0:07:54.46,italics,System,0,0,0,,8x Đá Cường Hóa Vũ Khí Được Chúc Phúc,
+Dialogue: 0,0:07:54.46,0:07:57.12,italics,System,0,0,0,,8x Đá Cường Hóa Giáp Được Chúc Phúc,
+Dialogue: 0,0:07:57.12,0:07:59.51,italics,System,0,0,0,,3x Ma Thạch Thượng Đẳng,
+Dialogue: 0,0:07:59.51,0:08:02.26,italicstop,System,0,0,0,,Áo Choàng Của Malaxus, Mặt Nạ Của Malaxus,
+Dialogue: 0,0:08:02.00,0:08:05.41,italics,Jishuka,0,0,0,,Cậu ta còn chưa tới cấp 100,\Nvậy mà đã hạ gục được Malaxus sao?
+Dialogue: 0,0:08:02.26,0:08:05.41,italicstop,System,0,0,0,,Ngọc Hắc Ma Pháp.
+Dialogue: 0,0:08:08.06,0:08:09.06,Default,Jishuka,0,0,0,,Grid…
+Dialogue: 0,0:08:09.82,0:08:12.89,Default,Grid,0,0,0,,Cô cài chế độ chia đồ để\Ntrưởng nhóm hốt sạch hết sao?
+Dialogue: 0,0:08:12.89,0:08:14.97,Default,Grid,0,0,0,,Cô lừa tôi đấy à?
+Dialogue: 0,0:08:16.65,0:08:19.93,Default,Jishuka,0,0,0,,Đừng lo. Tôi sẽ giữ đúng lời hứa.
+Dialogue: 0,0:08:20.37,0:08:22.19,Default,Vantner,0,0,0,,Đỉnh lắm, Grid!
+Dialogue: 0,0:08:22.19,0:08:24.02,Default,Pon,0,0,0,,Cậu mạnh thật đấy!
+Dialogue: 0,0:08:24.33,0:08:26.08,Default,Regas,0,0,0,,Tất cả đều nhờ anh Grid cả!
+Dialogue: 0,0:08:26.08,0:08:27.20,Default,Zednos,0,0,0,,Cảm ơn anh nhiều nhé!
+Dialogue: 0,0:08:27.20,0:08:29.11,Default,Laella,0,0,0,,Anh Grid ngầu quá đi mất!
+Dialogue: 0,0:08:29.11,0:08:31.57,Default,Grid,0,0,0,,Ôi dào, có gì to tát đâu…
+Dialogue: 0,0:08:31.57,0:08:33.65,Default,Grid,0,0,0,,À nhầm… dẹp chuyện đó qua một bên đi!
+Dialogue: 0,0:08:33.65,0:08:35.44,Default,Grid,0,0,0,,Mau chia chiến lợi phẩm nào!
+Dialogue: 0,0:08:36.25,0:08:39.41,Default,Pon,0,0,0,,Cậu đúng là người khiến người ta bất ngờ đủ đường thật đấy.
+Dialogue: 1,0:08:43.12,0:08:45.58,screen_text,Sign,0,0,0,,{\b1\c&H7050CA&\bord1\3c&H514843&\blur0.5\fs10\an8\pos(530,12.667)}Áo Choàng Của Malaxus\N{\b0\c&HCACFCF&\fs8}Phẩm cấp: {\c&H51349D&}Độc Nhất\N{\c&HCACFCF&\fs10}Độ bền: 35/81\NPhòng thủ: 15\NTrọng lượng: 10\N\N{\fs8}*Trí tuệ: +200\N*<Mùi Máu Tanh>\NMùi máu tanh sẽ bám theo bạn mọi lúc mọi nơi.\NQuái vật và dã thú dễ chủ động tấn công bạn hơn,\Nvà những người xung quanh sẽ cảm thấy chán ghét bạn.\NĐiều kiện trang bị: Cấp 200 trở lên
+Dialogue: 0,0:08:43.12,0:08:45.58,screen_text,Sign,0,0,0,,{\an9\bord0\p1\fscy220\alpha&H20&\c&H5F553E&}m 0 0 l 200 0 200 48 0 48
+Dialogue: 0,0:08:43.34,0:08:45.58,Default,Vantner,0,0,0,,Tôi chịu, không xài nổi cái áo choàng này đâu.
+Dialogue: 0,0:08:45.58,0:08:47.91,Default,Vantner,0,0,0,,Hiệu ứng \"Mùi Máu Tanh\"\Ngây bất lợi nặng quá.
+Dialogue: 0,0:08:47.91,0:08:50.80,Default,Faker,0,0,0,,Vả lại chỉ có mình Malaxus mới\Nkích hoạt được khả năng phòng ngự của nó.
+Dialogue: 1,0:08:50.80,0:08:52.76,screen_text,Sign,0,0,0,,{\b1\c&H7050CA&\bord1\3c&H514843&\blur0.5\fs10\an8\pos(530,12.667)}Mặt Nạ Của Malaxus\N{\b0\c&HCACFCF&\fs8}Phẩm cấp: {\c&H51349D&}Độc Nhất\N{\c&HCACFCF&\fs10}Độ bền: 11/20\NKháng mọi nguyên tố: +5%\NTrọng lượng: 1\N\N{\fs8}*Thời gian niệm phép: -20%\NĐiều kiện trang bị: Cấp 200 trở lên
+Dialogue: 0,0:08:50.80,0:08:52.76,screen_text,Sign,0,0,0,,{\an9\bord0\p1\fscy220\alpha&H20&\c&H5F553E&}m 0 0 l 200 0 200 33 0 33
+Dialogue: 0,0:08:51.10,0:08:53.60,Default,Zednos,0,0,0,,Chiếc mặt nạ này ngon phết đấy!
+Dialogue: 0,0:08:53.60,0:08:56.30,Default,Laella,0,0,0,,Viên ngọc này cũng xịn không kém!
+Dialogue: 1,0:08:55.22,0:08:57.18,screen_text,Sign,0,0,0,,{\b1\c&H7050CA&\bord1\3c&H514843&\blur0.5\fs10\an8\pos(530,12.667)}Ngọc Hắc Ma Pháp\N{\b0\c&HCACFCF&\fs8}Phẩm cấp: {\c&H51349D&}Độc Nhất\N{\c&HCACFCF&\fs10}Độ bền: 90/130\NKhuếch đại ma pháp: +14%\NSức mạnh nguyên tố Hắc Ma Pháp: +20%\NÔ kỹ năng phép: 4\NTrọng lượng: 80\N\N{\fs8}Điều kiện trang bị: Cấp 200\h\h\h\hTrí tuệ 500+
+Dialogue: 0,0:08:55.22,0:08:57.18,screen_text,Sign,0,0,0,,{\an9\bord0\p1\fscy220\alpha&H20&\c&H5F553E&}m 0 0 l 200 0 200 40 0 40
+Dialogue: 0,0:08:57.18,0:09:01.15,Default,Jishuka,0,0,0,,Nhưng bọn mình đành phải\Nbỏ lại một trong số chúng thôi.
+Dialogue: 0,0:09:01.15,0:09:03.00,Default,Grid,0,0,0,,Tôi lấy cái áo choàng.
+Dialogue: 0,0:09:03.34,0:09:04.39,Default,Regas,0,0,0,,Anh Grid?
+Dialogue: 0,0:09:04.39,0:09:08.05,Default,Jishuka,0,0,0,,Sao cậu lại muốn lấy nó?\NTrong ba món, nó ít giá trị nhất đấy.
+Dialogue: 0,0:09:10.90,0:09:13.69,Default,Grid,0,0,0,,Không, tôi cứ lấy cái áo choàng thôi.
+Dialogue: 0,0:09:15.94,0:09:18.82,Default,Jishuka,0,0,0,,Cậu đúng là gã kỳ quặc thật đấy.
+Dialogue: 0,0:09:19.35,0:09:21.41,Default,Jishuka,0,0,0,,Vậy bên tôi sẽ lấy chiếc mặt nạ.
+Dialogue: 0,0:09:21.84,0:09:26.96,Default,Jishuka,0,0,0,,Toàn bộ số tiền thưởng từ trận công phá này cậu cứ cầm hết đi.\NKhông có cậu thì tụi tôi chẳng thể nào thắng nổi đâu.
+Dialogue: 0,0:09:26.96,0:09:29.03,Default,Grid,0,0,0,,Cô đúng là quý cô hào phóng đấy!
+Dialogue: 0,0:09:29.03,0:09:31.75,Default,Regas,0,0,0,,Anh Grid, hôm nay anh vất vả rồi!
+Dialogue: 0,0:09:31.75,0:09:34.65,Default,Regas,0,0,0,,Hôm khác tôi sẽ giúp anh tìm lại\Nmón đồ bị đánh cắp nhé.
+Dialogue: 0,0:09:34.65,0:09:37.13,Default,Grid,0,0,0,,Ồ, anh giúp tôi thật à?
+Dialogue: 0,0:09:37.13,0:09:40.69,Default,Regas,0,0,0,,Tất nhiên rồi! Tôi luôn giữ lời hứa mà!
+Dialogue: 0,0:09:41.45,0:09:44.26,Default,Jishuka,0,0,0,,Hẹn gặp lại nhé, Grid.
+Dialogue: 0,0:09:49.38,0:09:51.42,Default,Grid,0,0,0,,Họ tốt bụng thật đấy.
+Dialogue: 0,0:09:51.42,0:09:54.02,Default,Grid,0,0,0,,Mình cũng muốn nghỉ ngơi một chút, nhưng mà…
+Dialogue: 0,0:09:55.03,0:09:59.44,Default,Grid,0,0,0,,Thấy một hang động chưa ai khám phá thế này,\Nlòng mình lại nổi máu đi săn kho báu mất rồi!
+Dialogue: 0,0:10:01.01,0:10:08.23,Default,Sakaeda,0,0,0,,Cái chết của Đại Tế Ty Malaxus\Nchắc chắn sẽ khiến Giáo hội Yatan suy yếu nặng.
+Dialogue: 0,0:10:08.23,0:10:08.87,Default,Hinako,0,0,0,,Vâng.
+Dialogue: 0,0:10:09.28,0:10:12.00,Default,Hinako,0,0,0,,Những người chơi từng tham gia\Nchuỗi nhiệm vụ của phe Yatan
+Dialogue: 0,0:10:12.00,0:10:14.24,Default,Hinako,0,0,0,,đều đã chuyển sang làm nhiệm vụ khác cả rồi.
+Dialogue: 0,0:10:14.62,0:10:17.93,Default,Sakaeda,0,0,0,,Đó là sự kiện quy mô lớn nhất kể từ khi\N{\i1}Satisfy{\i0} ra mắt đến nay…
+Dialogue: 0,0:10:18.55,0:10:22.33,Default,Sakaeda,0,0,0,,Không ngờ cuộc chiến với tà giáo Yatan\Nlại khép lại theo cách như thế này.
+Dialogue: 0,0:10:24.04,0:10:28.35,Default,Sakaeda,0,0,0,,Cậu ta vẫn không ngừng vượt xa\Nmọi dự đoán của chúng ta trên mọi phương diện.
+Dialogue: 0,0:10:29.07,0:10:33.45,Default,Sakaeda,0,0,0,,Thế nhưng lời nguyền của thần Yatan\Nsẽ không dễ dàng bị phá giải như vậy đâu.
+Dialogue: 0,0:10:37.82,0:10:39.03,Default,Cassus,0,0,0,,Đây là…
+Dialogue: 0,0:10:41.45,0:10:44.11,Default,Isabel,0,0,0,,Lời nguyền của Yatan sao?
+Dialogue: 0,0:10:50.73,0:10:53.79,Default,Doran,0,0,0,,Tiểu thư Irene! Tiểu thư Irene!
+Dialogue: 0,0:10:56.57,0:10:59.90,Default,Doran,0,0,0,,Thưa tiểu thư, đã đến lúc rồi.
+Dialogue: 0,0:11:02.70,0:11:03.73,Default,Irene,0,0,0,,Doran…
+Dialogue: 0,0:11:04.94,0:11:08.64,Default,Doran,0,0,0,,Tiểu thư vẫn nhớ người đàn ông thần từng nhắc tới chứ?
+Dialogue: 0,0:11:09.45,0:11:12.28,Default,Doran,0,0,0,,Cậu ấy đã đến đúng lúc lắm.
+Dialogue: 0,0:11:12.28,0:11:14.66,Default,Doran,0,0,0,,Xin đừng để cậu ấy rời đi.
+Dialogue: 0,0:11:15.69,0:11:18.82,Default,Doran,0,0,0,,Người đàn ông nhận ra chiếc nhẫn đó…
+Dialogue: 0,0:11:27.01,0:11:31.58,Default,Grid,0,0,0,,Nhìn quen lắm mà…\NĐó là Nhẫn của Doran phải không?
+Dialogue: 0,0:11:39.92,0:11:42.76,Default,Grid,0,0,0,,Lại gặp nhau rồi, tiểu thư Irene.
+Dialogue: 0,0:11:43.12,0:11:47.88,Default,Irene,0,0,0,,Anh là… anh Grid, người đã rèn nên\NThanh Kiếm Siêu Việt sao?
+Dialogue: 0,0:11:47.88,0:11:51.85,Default,Grid,0,0,0,,Tôi cứ tưởng tìm được kho báu,\Nai ngờ lại gặp tiểu thư ở đây!
+Dialogue: 0,0:11:52.55,0:11:55.82,italics,System,0,0,0,,Nhiệm vụ: \"Hộ Tống Nữ Quý Tộc (A)\" đã bắt đầu.
+Dialogue: 1,0:11:53.23,0:11:58.94,screen_text,Sign,0,0,0,,{\b0\c&HD8D2CF&\bord1\3c&H514843&\blur0.5\fs9\an8\pos(528,12.667)}Nhiệm vụ\N{\b1}Hộ Tống Nữ Quý Tộc (A){\b0}\N\NIrene đang suy yếu sau khi bị Giáo hội Yatan\Nbắt cóc lần thứ hai.\NHãy hộ tống cô ấy trở về tòa thành.\N\NĐiều kiện hoàn thành: Đưa Irene về Thành Winston an toàn\NPhần thưởng: Đạt tối đa độ thiện cảm với Irene\N\"Nhẫn Của Doran\"\N*Khi đạt tối đa độ thiện cảm với NPC khác giới,\Nsẽ có tỷ lệ rất cao kích hoạt sự kiện đặc biệt.\N\NThất bại: Irene có thể bỏ mạng.\NĐộ thiện cảm với Bá tước Steim sẽ về 0.\N*Cái chết của Irene sẽ khiến Bá tước Steim\Nhóa điên và đẩy phương bắc Eternal vào hỗn loạn.
+Dialogue: 0,0:11:53.23,0:11:58.94,screen_text,Sign,0,0,0,,{\an9\bord0\p1\fscy220\alpha&H20&\c&H886754&}m 0 0 l 205 0 205 70 0 70
+Dialogue: 0,0:11:55.82,0:11:58.94,italics,Grid,0,0,0,,Cô ấy lại suýt bị đem đi\Nhiến tế cho thần Yatan nữa à?
+Dialogue: 1,0:11:58.94,0:11:59.90,screen_text,Sign,0,0,0,,{\b0\c&HD8D2CF&\bord1\3c&H514843&\blur0.5\fs9\an8\pos(528,12.667)\b1}Hộ Tống Nữ Quý Tộc (A){\b0}\N\NIrene đang suy yếu sau khi bị Giáo hội Yatan\Nbắt cóc lần thứ hai.\NHãy hộ tống cô ấy trở về tòa thành.\N\NĐiều kiện hoàn thành: Đưa Irene về Thành Winston an toàn\NPhần thưởng: Đạt tối đa độ thiện cảm với Irene\N\"Nhẫn Của Doran\"\N*Khi đạt tối đa độ thiện cảm với NPC khác giới,\Nsẽ có tỷ lệ rất cao kích hoạt sự kiện đặc biệt.
+Dialogue: 0,0:11:58.94,0:11:59.90,screen_text,Sign,0,0,0,,{\an9\bord0\p1\fscy220\alpha&H20&\c&H886754&}m 0 0 l 205 0 205 48 0 48
+Dialogue: 0,0:12:00.12,0:12:02.36,italics,Grid,0,0,0,,Phần thưởng là Nhẫn Của Doran sao?
+Dialogue: 0,0:12:02.36,0:12:03.65,italics,Grid,0,0,0,,Cuối cùng cũng tới lượt mình rồi!
+Dialogue: 0,0:12:03.65,0:12:06.51,italics,Grid,0,0,0,,Cơ hội để sở hữu món bảo vật\Ngửi gắm tâm nguyện của Doran!
+Dialogue: 0,0:12:06.51,0:12:09.13,italics,Grid,0,0,0,,Đem lên sàn đấu giá kiểu gì cũng hốt bộn tiền!
+Dialogue: 0,0:12:09.13,0:12:13.26,italics,Grid,0,0,0,,Đã thế, nếu mình nâng tối đa\Nđộ thiện cảm với Irene thì…
+Dialogue: 0,0:12:13.26,0:12:16.15,italics,Grid,0,0,0,,khả năng cao sẽ kích hoạt sự kiện đặc biệt nữa chứ!
+Dialogue: 0,0:12:16.15,0:12:17.04,Default,Cultists,0,0,0,,Tên dị giáo kia!
+Dialogue: 0,0:12:17.53,0:12:19.80,Default,Cultists,0,0,0,,Hắn đã sát hại ngài Malaxus!
+Dialogue: 0,0:12:19.80,0:12:20.98,Default,Cultists,0,0,0,,Đừng để hắn sống sót rời khỏi đây!
+Dialogue: 0,0:12:20.98,0:12:22.91,Default,Grid,0,0,0,,Tiểu thư Irene, chúng ta đi thôi!
+Dialogue: 0,0:12:24.88,0:12:27.03,Default,Grid,0,0,0,,Bám cho chắc vào nhé!
+Dialogue: 0,0:12:27.03,0:12:28.68,Default,Grid,0,0,0,,Phản Xạ Siêu Tốc!
+Dialogue: 0,0:12:32.10,0:12:36.81,italics,Grid,0,0,0,,Nếu nâng tối đa thiện cảm với Irene,\Nmình vừa có chiếc nhẫn vừa cưới được cô ấy luôn!
+Dialogue: 0,0:12:37.71,0:12:41.57,italics,Grid,0,0,0,,Cô ấy là chủ nhân lãnh địa này, nếu mình cưới cô ấy\Nthì lãnh địa này chẳng phải của {\i0}mình{\i1} sao!
+Dialogue: 0,0:12:41.91,0:12:45.02,italics,Grid,0,0,0,,Thế là toàn bộ tiền thuế chảy hết vào túi mình rồi!
+Dialogue: 0,0:12:45.02,0:12:47.66,Default,Grid,0,0,0,,Tránh đường ra! Kiếm Phong!
+Dialogue: 0,0:12:53.63,0:12:56.50,Default,Irene,0,0,0,,Anh Grid, sao anh lại mạnh đến thế?
+Dialogue: 0,0:12:56.72,0:12:58.53,Default,Irene,0,0,0,,Anh chỉ là thợ rèn thôi mà.
+Dialogue: 0,0:12:58.53,0:13:02.84,Default,Grid,0,0,0,,À thì, nói chung tất cả đều là\Nnhờ sức mạnh trang bị của tôi cả đấy!
+Dialogue: 0,0:13:04.33,0:13:05.55,Default,Phoenix,0,0,0,,Tiểu thư Irene!
+Dialogue: 0,0:13:06.15,0:13:07.83,Default,Phoenix,0,0,0,,Thần mừng quá vì tiểu thư bình an vô sự!
+Dialogue: 0,0:13:08.96,0:13:12.43,Default,Phoenix,0,0,0,,Ân tình này chúng tôi đời nào dám quên!
+Dialogue: 0,0:13:13.48,0:13:17.27,Default,Irene,0,0,0,,Anh Grid, cả lãnh địa Winston đều mang ơn anh.
+Dialogue: 0,0:13:17.54,0:13:19.27,screen_text,Sign,0,0,0,,{\b0\fs10\fad(215,0)\pos(311.333,94.667)\frz357.2\frx356\fry354\c&HBBADB4&\3c&H766A70&}Nhiệm vụ
+Dialogue: 0,0:13:17.54,0:13:19.27,screen_text,Sign,0,0,0,,{\fs10\fad(215,0)\frz357.2\c&HEAE7E6&\3c&H766A70&\pos(310,136)\frx358\fry352}Hộ Tống Nữ Quý Tộc (A)
+Dialogue: 0,0:13:17.92,0:13:19.27,italics,System,0,0,0,,Hoàn thành nhiệm vụ.
+Dialogue: 0,0:13:17.96,0:13:19.27,screen_text,Sign,0,0,0,,{\b0\fs24\fad(420,0)\frz357.2\c&HD4CED1&\3c&H766A70&\frx356\fry350\pos(306.667,158)}Hoàn thành nhiệm vụ!
+Dialogue: 0,0:13:17.96,0:13:19.27,screen_text,Sign,0,0,0,,{\b0\fs24\fad(420,0)\c&HD4CED1&\3c&H766A70&\frx356\fry350\pos(298,236.667)\frz356.7}Bạn đã nhận được phần thưởng!
+Dialogue: 0,0:13:19.81,0:13:22.58,italics,System,0,0,0,,Độ thiện cảm với Irene đã đạt mức tối đa.
+Dialogue: 0,0:13:22.58,0:13:27.40,italics,Grid,0,0,0,,Lần trước mình đã không thể cứu được cô ấy…\Nnhưng có lẽ mình cũng thay đổi chút ít rồi.
+Dialogue: 0,0:13:27.78,0:13:31.45,Default,Irene,0,0,0,,Đây là kỷ vật của người đàn ông\Ntừng liều mình cứu mạng tôi.
+Dialogue: 0,0:13:31.45,0:13:33.04,Default,Irene,0,0,0,,Xin anh hãy trân trọng giữ gìn nó.
+Dialogue: 0,0:13:33.90,0:13:35.66,Default,Grid,0,0,0,,Vâng, tất nhiên rồi.
+Dialogue: 0,0:13:37.81,0:13:39.21,screen_text,Sign,0,0,0,,{\fad(132,0)\pos(320,116.667)}Nhẫn Của Doran\N{\b0}đã được khóa vĩnh viễn vào tài khoản của bạn.
+Dialogue: 0,0:13:39.21,0:13:42.09,italics,Grid,0,0,0,,Khóa tài khoản á?! Vậy là không bán được rồi!
+Dialogue: 0,0:13:42.09,0:13:44.42,italics,Grid,0,0,0,,Mình còn định mang lên sàn đấu giá cơ mà!
+Dialogue: 0,0:13:44.74,0:13:47.13,Default,Irene,0,0,0,,Anh nhớ quay lại thăm tôi nữa nhé?
+Dialogue: 0,0:13:47.72,0:13:48.80,Default,Grid,0,0,0,,Được thôi…
+Dialogue: 0,0:13:58.45,0:14:02.50,Default,Seira,0,0,0,,Anh hai ơi, chỗ này trông đắt đỏ quá…\NCó ổn không vậy anh?
+Dialogue: 0,0:14:02.50,0:14:05.91,Default,Takumi,0,0,0,,Ừ, sắp tới anh sẽ kiếm được\Ncả đống tiền từ trong game mà.
+Dialogue: 0,0:14:06.49,0:14:09.03,Default,Takumi,0,0,0,,Chẳng mấy chốc anh sẽ đưa cả bố mẹ tới đây.\NEm cứ yên tâm đi.
+Dialogue: 0,0:14:12.11,0:14:13.43,italics,Yura,0,0,0,,Chính là cậu ta.
+Dialogue: 0,0:14:18.37,0:14:20.88,italics,Yura,0,0,0,,Không ngờ mình lại được thấy\Ncậu ta ngoài đời thực thế này…
+Dialogue: 0,0:14:21.06,0:14:22.34,sign_generic,Sign,0,0,0,,{\bord0\fs15\b1\an1\fad(91,0)\fnSegoe UI\c&H7D7B4C&\frx8\fry0\pos(292,252)\frz14.5}Tôi muốn ông điều tra về người đàn ông này.
+Dialogue: 0,0:14:24.31,0:14:25.76,Default,Seira,0,0,0,,Ngon tuyệt cú mèo!
+Dialogue: 0,0:14:27.10,0:14:28.48,Default,Grid,0,0,0,,Cứ từ từ mà thưởng thức đi.
+Dialogue: 0,0:14:30.09,0:14:32.05,sign_generic,Sign,0,0,0,,{\an1\bord0\c&HD7BC6E&\frz13.76\pos(212.666,146.667)\frx12\fry356}Tin nhắn
+Dialogue: 0,0:14:30.09,0:14:32.05,sign_generic,Sign,0,0,0,,{\b1\an1\bord0\c&H514E48&\frz13.76\frx12\fry356\pos(221.999,184)}Arisa
+Dialogue: 0,0:14:30.09,0:14:32.05,sign_generic,Sign,0,0,0,,{\fs15\an1\bord0\c&HC5AB58&\frz13.76\frx12\fry356\pos(227.333,220.667)}Đã lâu không gặp…
+Dialogue: 0,0:14:31.00,0:14:32.05,Default,Grid,0,0,0,,Arisa sao?!
+Dialogue: 0,0:14:35.05,0:14:36.02,italics,Grid,0,0,0,,Mối tình đầu…
+Dialogue: 0,0:14:37.20,0:14:38.35,italics,Grid,0,0,0,,của mình!
+Dialogue: 0,0:14:38.60,0:14:41.12,Default,Grid,0,0,0,,Seira, ăn nhanh lên nào!
+Dialogue: 0,0:14:51.16,0:14:53.53,italics,Grid,0,0,0,,Đ-Đây không phải là mơ đấy chứ?
+Dialogue: 0,0:14:53.53,0:14:56.62,Default,Arisa,0,0,0,,Takumi này, trông cậu khác xưa nhiều quá.
+Dialogue: 0,0:14:57.04,0:14:59.08,Default,Grid,0,0,0,,V-Vậy sao?
+Dialogue: 0,0:14:59.74,0:15:01.11,italics,Grid,0,0,0,,Cậu ấy dễ thương quá đi!
+Dialogue: 0,0:15:01.85,0:15:04.16,italics,Grid,0,0,0,,Mình nhất định phải thổ lộ tình cảm với cậu ấy…
+Dialogue: 0,0:15:06.88,0:15:09.72,Default,Arisa,0,0,0,,Kiểu tóc với bộ đồ này hợp với cậu ghê.
+Dialogue: 0,0:15:10.96,0:15:12.69,Default,Grid,0,0,0,,T-Thật hả?
+Dialogue: 0,0:15:12.69,0:15:16.53,italics,Grid,0,0,0,,Thì mình đã chi hẳn 120.000 yên ở tiệm đồ hiệu\Nvới salon tóc sang chảnh còn gì!
+Dialogue: 0,0:15:16.53,0:15:19.82,Default,Arisa,0,0,0,,Cậu mới xin được việc ở công ty lớn à?
+Dialogue: 0,0:15:19.82,0:15:22.43,Default,Arisa,0,0,0,,Từ trước tới nay cậu vẫn luôn chăm chỉ lắm mà.
+Dialogue: 0,0:15:22.43,0:15:24.36,Default,Grid,0,0,0,,V-Vậy à?
+Dialogue: 0,0:15:24.58,0:15:27.53,Default,Arisa,0,0,0,,Tớ luôn quý cậu ở điểm đó đấy.
+Dialogue: 0,0:15:32.20,0:15:33.26,Default,Grid,0,0,0,,Tớ…
+Dialogue: 0,0:15:34.72,0:15:38.36,Default,Grid,0,0,0,,T-Tớ vẫn luôn thích cậu…
+Dialogue: 0,0:15:38.80,0:15:39.97,Default,Arisa,0,0,0,,Takumi à…
+Dialogue: 0,0:15:43.13,0:15:43.79,Default,Grid,0,0,0,,Ừm…
+Dialogue: 0,0:15:43.79,0:15:45.73,Default,Arisa,0,0,0,,Tớ đi dặm lại lớp trang điểm chút nhé.
+Dialogue: 0,0:15:45.73,0:15:47.29,Default,Grid,0,0,0,,Ừ-Ừm.
+Dialogue: 0,0:15:49.50,0:15:52.05,italics,Grid,0,0,0,,C-Có khi nào mình sắp được hẹn hò với cậu ấy thật không…
+Dialogue: 0,0:15:52.95,0:15:55.26,italics,Grid,0,0,0,,Mình cũng tranh thủ đi vệ sinh chút.
+Dialogue: 0,0:15:55.49,0:15:57.09,italics,Grid,0,0,0,,Không được để hỏng bầu không khí này mới được.
+Dialogue: 0,0:15:57.09,0:15:59.22,Default,Arisa,0,0,0,,Trời ạ, cậu ta thảm hại thật sự.
+Dialogue: 0,0:15:59.60,0:16:02.57,Default,Arisa,0,0,0,,Kiểu tóc với quần áo trông quê mùa phát khiếp.
+Dialogue: 0,0:16:02.57,0:16:06.60,Default,Arisa,0,0,0,,Suốt buổi chỉ biết ấp úng mấy câu như\N\"Vậy sao?\", chán muốn chết đi được!
+Dialogue: 0,0:16:06.60,0:16:07.65,Default,Arisa,0,0,0,,À, mà sau đó…
+Dialogue: 0,0:16:08.08,0:16:11.72,Default,Arisa,0,0,0,,cậu ta còn suýt nữa đòi tỏ tình\Nlàm bạn trai mình nữa chứ! Gớm chết!
+Dialogue: 0,0:16:13.16,0:16:16.53,Default,Arisa,0,0,0,,Cơ mà chắc chắn tớ sẽ dụ được\Ncậu ta tới buổi họp lớp thôi.
+Dialogue: 0,0:16:16.92,0:16:19.69,Default,Arisa,0,0,0,,Vụ cá cược này tớ cầm chắc phần thắng rồi.
+Dialogue: 0,0:16:22.31,0:16:24.48,italics,Grid,0,0,0,,Mình cứ tưởng bản thân đã thay đổi được chút ít.
+Dialogue: 0,0:16:26.30,0:16:31.92,italics,Grid,0,0,0,,Nhưng dù có kiếm ra tiền hay khoác lên\Nđồ đắt tiền thì cũng chẳng nghĩa lý gì.
+Dialogue: 0,0:16:33.25,0:16:34.68,italics,Grid,0,0,0,,Chẳng nghĩa lý gì cả…
+Dialogue: 0,0:16:35.47,0:16:37.80,italics,Grid,0,0,0,,Rốt cuộc, mình vẫn chỉ là một kẻ vô dụng.
+Dialogue: 0,0:16:41.04,0:16:42.27,italics,Grid,0,0,0,,Mình phải làm việc…
+Dialogue: 0,0:16:43.73,0:16:45.46,italics,Grid,0,0,0,,Mình phải trả sạch đống nợ đó…
+Dialogue: 0,0:16:47.29,0:16:50.83,italics,Grid,0,0,0,,Nhưng tiền bạc có phải là tất cả những gì mình cần không?
+Dialogue: 0,0:16:53.95,0:16:56.25,Default,Jishuka,0,0,0,,Tụi tôi đã bàn bạc với nhau rồi,
+Dialogue: 0,0:16:56.62,0:16:59.53,Default,Jishuka,0,0,0,,và muốn chính thức mời cậu\Ngia nhập Bang Tzedakah.
+Dialogue: 0,0:17:00.66,0:17:03.03,Default,Jishuka,0,0,0,,Tụi tôi cần sức mạnh của cậu, Grid.
+Dialogue: 0,0:17:04.15,0:17:06.16,Default,Grid,0,0,0,,Tôi rất cảm kích lời mời đó.
+Dialogue: 0,0:17:06.16,0:17:08.15,Default,Grid,0,0,0,,Nhưng tôi sẽ không dời tiệm rèn đi đâu hết.
+Dialogue: 0,0:17:08.15,0:17:10.44,Default,Grid,0,0,0,,Đây là lò rèn của tôi.
+Dialogue: 0,0:17:10.92,0:17:12.05,Default,Jishuka,0,0,0,,Không sao cả.
+Dialogue: 0,0:17:12.84,0:17:14.73,Default,Jishuka,0,0,0,,Thứ tụi tôi cần là chính con người cậu.
+Dialogue: 0,0:17:16.53,0:17:19.85,italics,Grid,0,0,0,,Nếu mình bán trang bị cho đám thành viên bang\Nvà phất lên giàu có,
+Dialogue: 0,0:17:20.12,0:17:22.22,italics,Grid,0,0,0,,mình sẽ cho Arisa thấy cô ta\Nđã nhìn nhầm về mình đến mức nào.
+Dialogue: 0,0:17:23.37,0:17:25.59,Default,Grid,0,0,0,,Được thôi, tôi gia nhập.
+Dialogue: 1,0:17:25.87,0:17:27.15,screen_text,Sign,0,0,0,,{\fad(133,0)\b0\c&HD8D2CF&\bord1\3c&H514843&\blur0.5\fs9\an7\pos(438.667,14)}Tên Bang: Tzedakah\NCấp độ: 5\NDanh tiếng: 612.140\NBang chủ: Jishuka\NThành viên: 18/80\NTrực thuộc: Không\NĐồng minh: Không\NKẻ thù: Vương quốc Rio, Hỏa Long Trauka,\NGiáo hội Yatan, Băng Thiết Phong, Tộc Heldin,\NTộc Kauchi\NChiến tuyến: Trung lập\NLãnh địa: Không
+Dialogue: 0,0:17:25.87,0:17:27.15,screen_text,Sign,0,0,0,,{\fad(133,0)\an9\bord0\p1\fscy220\alpha&H20&\c&H886754&}m 0 0 l 200 0 200 53 0 53
+Dialogue: 0,0:17:27.15,0:17:30.38,Default,Jishuka,0,0,0,,Cảm ơn cậu. Bọn tôi đã tìm kiếm\Ncậu suốt bấy lâu nay rồi.
+Dialogue: 0,0:17:30.69,0:17:34.41,Default,Grid,0,0,0,,V-Vậy thì? Tôi phải rèn trang bị cho ai trước đây?
+Dialogue: 0,0:17:34.41,0:17:38.20,Default,Toban,0,0,0,,Trước hết, bọn tôi muốn đặt một cây thương cho Pon.\NCậu ấy là trụ cột tuyến đầu của bang.
+Dialogue: 0,0:17:38.20,0:17:40.87,Default,Jishuka,0,0,0,,Sau đó thì rèn cho tôi một món nhé.
+Dialogue: 0,0:17:41.21,0:17:42.41,italics,Grid,0,0,0,,Cô ấy xinh thật đấy…
+Dialogue: 0,0:17:42.99,0:17:46.41,italics,Grid,0,0,0,,Khoan đã, không được! Mình sẽ không để\Nphụ nữ lừa gạt thêm lần nào nữa!
+Dialogue: 0,0:17:46.83,0:17:50.43,Default,Chris,0,0,0,,Nghe nói Bang Tzedakah vừa chiêu mộ\Nđược một thợ rèn rất cừ.
+Dialogue: 0,0:17:50.84,0:17:53.79,Default,Chris,0,0,0,,Xem ra thực lực bọn chúng đang tăng vọt\Nsau khi hạ gục Malaxus.
+Dialogue: 0,0:17:55.39,0:17:59.55,Default,Chris,0,0,0,,Ta tuy nắm giữ lãnh địa ở Federo,\Nphía nam Vương quốc Eternal,
+Dialogue: 0,0:17:59.95,0:18:04.27,Default,Chris,0,0,0,,nhưng lại thất bại trong việc chiêu mộ\Nthợ rèn đứng đầu là Panmir.
+Dialogue: 0,0:18:05.00,0:18:09.81,Default,Chris,0,0,0,,Chúng ta sẽ kéo gã thợ rèn của Tzedakah\Nvề dưới trướng Bang Giant.
+Dialogue: 0,0:18:12.17,0:18:14.78,Default,Jishuka,0,0,0,,Bằng mọi giá phải tìm ra chiếc khiên của Grid!
+Dialogue: 0,0:18:14.78,0:18:16.23,Default,Jishuka,0,0,0,,Mọi người cố lên nhé!
+Dialogue: 0,0:18:20.13,0:18:21.32,italics,Grid,0,0,0,,Chết tiệt…
+Dialogue: 0,0:18:21.32,0:18:24.41,italics,Grid,0,0,0,,Sau ngần ấy chuyện,\Nmình vẫn cứ phải cày cuốc nữa sao?
+Dialogue: 0,0:18:27.35,0:18:29.55,Default,Grid,0,0,0,,Được rồi, ra dáng lắm rồi đấy!
+Dialogue: 0,0:18:29.55,0:18:32.92,Default,Grid,0,0,0,,Mày còn đẹp hơn con nhỏ Arisa gấp vạn lần!
+Dialogue: 0,0:18:36.11,0:18:39.79,Default,Kid,0,0,0,,Này, anh Chris bên Bang Giant\Nmuốn gặp nói chuyện với mày.
+Dialogue: 0,0:18:39.79,0:18:41.22,Default,Kid,0,0,0,,Cứ ngoan ngoãn đi theo tao. Đừng chống cự.
+Dialogue: 0,0:18:43.37,0:18:44.31,Default,Grid,0,0,0,,Mày đùa tao đấy à?
+Dialogue: 0,0:18:44.31,0:18:46.18,Default,Kid,0,0,0,,Mày vừa nói cái gì?
+Dialogue: 0,0:18:46.82,0:18:49.61,Default,Kid,0,0,0,,Nếu mày dám chống lại Bang Giant thì…
+Dialogue: 0,0:18:49.61,0:18:54.68,Default,Grid,0,0,0,,Mày có biết tao đã tốn bao nhiêu tiếng đồng hồ\Ncho món đó không hả, thằng khốn?!
+Dialogue: 0,0:18:53.02,0:18:55.40,italicstop,System,0,0,0,,Kỹ năng \"Cơn Thịnh Nộ Của Thợ Rèn\" đã kích hoạt.
+Dialogue: 0,0:19:00.12,0:19:04.01,Default,Guild Member,0,0,0,,Này! M-Mày có biết bọn tao\Nsẽ làm gì mày không hả?!
+Dialogue: 0,0:19:03.13,0:19:05.35,top,Grid,0,0,0,,Tao đếch quan tâm!
+Dialogue: 0,0:19:05.35,0:19:08.48,Default,Grid,0,0,0,,Tao đang cắm đầu kiếm tiền mà chúng mày\Ndám nhảy vào phá đám à!
+Dialogue: 0,0:19:09.52,0:19:12.21,Default,Grid,0,0,0,,Chính Nghĩa Bất Khuất!
+Dialogue: 0,0:19:12.56,0:19:22.93,sign_generic,Sign,0,0,0,,{\fs18\bord0\fnSegoe UI\fad(258,0)\c&H1A1D1C&\pos(320,280.333)}Kẻ Tâm Thần Xuất Hiện Trong {\i1}Satisfy{\i0}!!
+Dialogue: 0,0:19:13.99,0:19:17.96,italicstop,MC,0,0,0,,Đoạn phim sau đây do một\Nngười chơi cung cấp.
+Dialogue: 0,0:19:18.22,0:19:22.93,italicstop,MC,0,0,0,,Nội dung có thể gây khó chịu cho một số\Nkhán giả vì tính chất gây sốc.
+Dialogue: 0,0:19:21.95,0:19:22.93,sign_generic,Sign,0,0,0,,{\fad(85,0)\fnSegoe UI\bord0\fs15\pos(108.667,118)}Cảnh Báo
+Dialogue: 0,0:19:21.95,0:19:22.93,sign_generic,Sign,0,0,0,,{\fad(85,0)\fnSegoe UI\bord0\fs15\pos(271.334,118)}Cảnh Báo
+Dialogue: 0,0:19:21.95,0:19:22.93,sign_generic,Sign,0,0,0,,{\fad(85,0)\fnSegoe UI\bord8\fs20\3c&H030072&\pos(192.667,148.668)}Khán Giả Lưu Ý!
+Dialogue: 0,0:19:21.95,0:19:22.93,sign_generic,Sign,0,0,0,,{\fad(85,0)\fnSegoe UI\bord3\fs8\3c&H030072&\pos(191.334,173.668)}Đoạn phim sau đây có thể không phù hợp với một số khán giả.
+Dialogue: 0,0:19:24.76,0:19:27.85,italics,MC,0,0,0,,Cuộc tranh luận đang lan rộng về việc\Nliệu có cần biện pháp xử lý
+Dialogue: 0,0:19:28.20,0:19:30.27,italics,MC,0,0,0,,đối với những kẻ tâm thần trong game hay không.
+Dialogue: 0,0:19:32.47,0:19:36.57,Default,Chris,0,0,0,,Tzedakah, các ngươi cứ chờ đấy mà trả giá!
+Dialogue: 0,0:19:38.26,0:19:40.82,Default,Jishuka,0,0,0,,Này, cậu định ngủ nướng tới bao giờ nữa?
+Dialogue: 0,0:19:41.44,0:19:43.03,Default,Jishuka,0,0,0,,Grid, dậy mau!
+Dialogue: 0,0:19:43.03,0:19:44.34,Default,Jishuka,0,0,0,,Dậy đi nào!
+Dialogue: 0,0:19:44.34,0:19:46.33,Default,Jishuka,0,0,0,,Món trang bị tụi tôi đặt\Nlàm tới đâu rồi?
+Dialogue: 0,0:19:52.19,0:19:54.34,Default,Grid,0,0,0,,Tôi cũng cố lết cho xong rồi đây…
+Dialogue: 0,0:19:54.72,0:19:56.14,Default,Jishuka,0,0,0,,Tuyệt vời thật.
+Dialogue: 0,0:19:56.14,0:19:59.09,Default,Jishuka,0,0,0,,Ngay cả Bang Giant cũng chẳng cản nổi cậu.
+Dialogue: 0,0:19:59.97,0:20:02.76,Default,Grid,0,0,0,,Giờ thiên hạ ai cũng nghĩ tôi là thằng tâm thần rồi.
+Dialogue: 0,0:20:02.76,0:20:07.39,Default,Grid,0,0,0,,Cơ mà xả được cơn giận có khi lại giúp\Ntôi rèn ra món đồ còn xịn hơn đấy.
+Dialogue: 0,0:20:07.77,0:20:09.68,Default,Pon,0,0,0,,Ch-Chà…
+Dialogue: 0,0:20:09.68,0:20:12.73,Default,Grid,0,0,0,,Thấy chưa? Trả tiền đầy đủ đấy nhé?
+Dialogue: 0,0:20:13.79,0:20:14.77,Default,Pon,0,0,0,,Ừ.
+Dialogue: 0,0:20:14.77,0:20:16.77,Default,Pon,0,0,0,,800.000 vàng được không?
+Dialogue: 0,0:20:16.77,0:20:18.66,italics,Grid,0,0,0,,8-800.000 vàng á?!
+Dialogue: 0,0:20:18.66,0:20:21.07,italics,Grid,0,0,0,,Quy ra tận 96 triệu yên luôn sao?!
+Dialogue: 0,0:20:21.88,0:20:26.62,italics,Grid,0,0,0,,Thanh Kiếm Siêu Việt phẩm Huyền Thoại\Nmình còn bán được có 220.000 vàng thôi đấy!
+Dialogue: 0,0:20:26.62,0:20:29.29,italics,Grid,0,0,0,,Đám này ngốc tới mức không nhận ra\Nmình đang trả hớ luôn à?
+Dialogue: 0,0:20:29.52,0:20:31.54,Default,Vantner,0,0,0,,Sao chỉ có mỗi thằng Pon được có hàng mới thế?!
+Dialogue: 0,0:20:31.54,0:20:32.97,Default,Vantner,0,0,0,,Chắc chắn là đồ giả rồi!
+Dialogue: 0,0:20:32.97,0:20:34.31,Default,Vantner,0,0,0,,Vứt quách đi cho rồi!
+Dialogue: 0,0:20:34.31,0:20:35.31,Default,Grid,0,0,0,,Thôi nào, thôi nào.
+Dialogue: 0,0:20:35.31,0:20:38.04,Default,Grid,0,0,0,,Tôi có phần cho ông chú luôn đây.\NBình tĩnh lại đi nào.
+Dialogue: 0,0:20:43.57,0:20:47.55,screen_text,Sign,0,0,0,,{\blur1\bord0.75\fs15\c&H644CD2&\3c&H484032&\fad(130,0)\pos(320,98)}Song Phủ Xé Xác Tuyệt Đối
+Dialogue: 1,0:20:43.57,0:20:47.55,screen_text,Sign,0,0,0,,{\fs12\fad(90,0)\b0\c&HE8E8E8&\pos(309.334,142.667)}Phẩm cấp: {\c&H644CD2&\3c&H484032&}Độc Nhất
+Dialogue: 0,0:20:43.57,0:20:47.55,screen_text,Sign,0,0,0,,{\fad(90,0)\blur2\an7\bord0\p1\fscy220\alpha&H10&\c&H695F48&\b0\pos(269.332,141.333)}m 0 0 l 108 0 108 10 0 10
+Dialogue: 1,0:20:43.57,0:20:47.55,screen_text,Sign,0,0,0,,{\an3\fs20\fad(90,0)\b0\c&HE8E8E8&\pos(290.666,187.333)}Độ bền
+Dialogue: 1,0:20:43.57,0:20:47.55,screen_text,Sign,0,0,0,,{\an3\fs20\fad(90,0)\b0\c&HE8E8E8&\pos(282.668,212.667)}Tấn công
+Dialogue: 1,0:20:43.57,0:20:47.55,screen_text,Sign,0,0,0,,{\an3\fs20\fad(90,0)\b0\c&HE8E8E8&\pos(334.001,238)}Tỷ lệ Chí mạng
+Dialogue: 1,0:20:43.57,0:20:47.55,screen_text,Sign,0,0,0,,{\an3\fs20\fad(90,0)\b0\c&HE8E8E8&\pos(355.999,264)}Sát thương Chí mạng
+Dialogue: 1,0:20:43.57,0:20:47.55,screen_text,Sign,0,0,0,,{\an8\fs15\fad(90,0)\b0\c&HE8E8E8&\pos(320,276.666)}*Có xác suất kích hoạt Liên Kích
+Dialogue: 1,0:20:43.57,0:20:47.55,screen_text,Sign,0,0,0,,{\an8\fs15\fad(90,0)\b0\c&HE8E8E8&\pos(320,293.999)}*Chí mạng gây xuất huyết/hỗn loạn
+Dialogue: 0,0:20:43.57,0:20:47.55,screen_text,Sign,0,0,0,,{\fad(90,0)\blur2\an7\bord0\p1\fscy220\alpha&H10&\c&H625944&\b0\pos(203.998,162.666)}m 0 0 l 88 0 88 12 0 12
+Dialogue: 0,0:20:43.57,0:20:47.55,screen_text,Sign,0,0,0,,{\fad(90,0)\blur2\an7\bord0\p1\fscy220\alpha&H10&\c&H5C543C&\b0\pos(196.665,190.666)}m 0 0 l 88 0 88 12 0 12
+Dialogue: 0,0:20:43.57,0:20:47.55,screen_text,Sign,0,0,0,,{\fad(90,0)\blur2\an7\bord0\p1\fscy220\alpha&H10&\c&H574F39&\b0\pos(213.331,217.999)}m 0 0 l 128 0 128 12 0 12
+Dialogue: 0,0:20:43.57,0:20:47.55,screen_text,Sign,0,0,0,,{\fad(90,0)\blur2\an7\bord0\p1\fscy220\alpha&H10&\c&H574F39&\b0\pos(189.998,242.665)}m 0 0 l 168 0 168 12 0 12
+Dialogue: 0,0:20:43.57,0:20:47.55,screen_text,Sign,0,0,0,,{\fad(90,0)\blur2\an7\bord0\p1\fscy220\alpha&H10&\c&H574F39&\b0\pos(205.331,276.666)}m 0 0 l 203 0 240 16 0 15
+Dialogue: 0,0:20:43.61,0:20:45.99,Default,Vantner,0,0,0,,Cây rìu tôi nhờ cậu sửa đây mà!
+Dialogue: 0,0:20:45.99,0:20:47.55,Default,Vantner,0,0,0,,Nó xuất hiện thêm kỹ năng mới luôn này!
+Dialogue: 0,0:20:47.55,0:20:52.72,Default,Grid,0,0,0,,Nếu tôi dùng Giám Định lên trang bị,\Ntôi có thể khai phá kỹ năng ẩn của nó!
+Dialogue: 0,0:20:52.72,0:20:54.97,Default,Vantner,0,0,0,,Chuyện này tôi chưa từng nghe thấy bao giờ!
+Dialogue: 0,0:20:54.97,0:20:57.11,Default,Toban,0,0,0,,Vậy Giám Định đồ của tôi nữa đi!
+Dialogue: 0,0:20:57.40,0:21:00.41,Default,Grid,0,0,0,,Tôi lấy giá hữu nghị\N30 vàng một lần thôi.
+Dialogue: 0,0:21:00.41,0:21:02.61,Default,Grid,0,0,0,,Đôi khi trang bị sẽ không có kỹ năng ẩn,
+Dialogue: 0,0:21:02.61,0:21:05.28,Default,Grid,0,0,0,,nhưng nếu có, mấy người phải trả thêm\Ncho tôi 300 và—
+Dialogue: 0,0:21:04.30,0:21:05.28,top,Faker,0,0,0,,Vũ khí của tôi nữa!
+Dialogue: 0,0:21:05.28,0:21:06.89,Default,Laella,0,0,0,,Giáp của tôi nữa nhé!
+Dialogue: 0,0:21:06.89,0:21:08.14,Default,Zednos,0,0,0,,Của tôi nữa!
+Dialogue: 0,0:21:08.14,0:21:10.62,Default,Grid,0,0,0,,Im hết đi! Xếp thứ tự đàng hoàng vào!
+Dialogue: 0,0:21:10.92,0:21:11.95,Default,Zednos,0,0,0,,Được rồi!
+Dialogue: 0,0:21:11.95,0:21:12.81,Default,Faker,0,0,0,,Oẳn tù tì đi.
+Dialogue: 0,0:21:12.81,0:21:14.21,Default,Laella,0,0,0,,Bốc thăm đi.
+Dialogue: 0,0:21:14.67,0:21:16.37,Default,Ventner,0,0,0,,Chơi vẽ thang đi.
+Dialogue: 0,0:21:17.91,0:21:18.80,italics,Grid,0,0,0,,Thiệt tình…
+Dialogue: 0,0:21:18.80,0:21:20.68,italics,Grid,0,0,0,,Đám này ồn ào thật đấy.
+Dialogue: 0,0:21:20.68,0:21:22.71,italics,Grid,0,0,0,,Cứ như tất cả đều là bạn bè thân thiết vậy.
+Dialogue: 0,0:21:23.77,0:21:26.60,Default,Jishuka,0,0,0,,Dạo gần đây cả bang gặp không ít khó khăn.
+Dialogue: 0,0:21:27.01,0:21:31.01,Default,Jishuka,0,0,0,,Nhưng giờ ai nấy đều hừng hực khí thế rồi.\NTất cả đều nhờ cậu đấy.
+Dialogue: 0,0:21:31.01,0:21:32.27,Default,Grid,0,0,0,,Jishuka…
+Dialogue: 0,0:21:32.27,0:21:35.06,Default,Jishuka,0,0,0,,Năng lực chế tạo những trang bị cực phẩm…
+Dialogue: 0,0:21:35.06,0:21:37.45,Default,Jishuka,0,0,0,,Cùng kiếm thuật đủ sức đánh bại cả Malaxus.
+Dialogue: 0,0:21:38.26,0:21:39.48,Default,Jishuka,0,0,0,,Grid…
+Dialogue: 0,0:21:39.48,0:21:42.74,Default,Jishuka,0,0,0,,Cậu đang sở hữu chức nghiệp huyền thoại, đúng chứ?
+Dialogue: 0,0:21:43.59,0:21:44.91,italics,Grid,0,0,0,,Cô ấy đoán ra rồi sao?
+Dialogue: 0,0:21:45.27,0:21:47.74,italics,Grid,0,0,0,,Mình cũng biết khó mà giấu kín lâu được, nhưng mà…
+Dialogue: 0,0:21:48.91,0:21:50.99,italics,Grid,0,0,0,,Sao cô ấy nhìn quyến rũ thế không biết?
+Dialogue: 0,0:21:52.28,0:21:53.95,Default,Grid,0,0,0,,Thì… cô biết rồi đấy.
+Dialogue: 0,0:21:55.45,0:21:58.12,Default,Jishuka,0,0,0,,Tôi mừng lắm vì cậu đã gia nhập bang mình!
+Dialogue: 0,0:21:58.81,0:22:02.89,italics,Grid,0,0,0,,N-Ngoài đời vừa xảy ra mấy chuyện tồi tệ, nhưng mà…
+Dialogue: 0,0:22:03.55,0:22:06.01,italics,Grid,0,0,0,,T-Tỉnh táo lại đi, Takumi!
+Dialogue: 0,0:22:06.01,0:22:08.43,italics,Grid,0,0,0,,Mày sẽ không bao giờ để phụ nữ lừa gạt thêm lần nào nữa đâu!
