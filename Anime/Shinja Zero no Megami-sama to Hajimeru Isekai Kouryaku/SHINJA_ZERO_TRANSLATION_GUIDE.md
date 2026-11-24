@@ -41,8 +41,12 @@ Cả lớp học của Takatsuki Makoto bị chuyển sinh sang dị giới. Kh�
 8. **Sakurai Ryousuke (桜井 亮介)**:
    - Bạn cùng lớp được triệu hồi làm *Anh Hùng Ánh Sáng (Hero of Light)* của Cao Nguyên Highland (`Tôi - Cậu / Takatsuki-kun`).
 9. **Sasaki Aya / Sasan (さーさん / アヤ)**:
-   - Bạn học thời hiện đại của Makoto, chuyển sinh thành quái vật *Lamia* (`Tớ - Takatsuki-kun / Cậu`).
+   - Bạn học thời hiện đại của Makoto, chuyển sinh thành quái vật *Lamia* cấp 34 (`Tớ - Takatsuki-kun / Cậu`; với Harpy Queen: `Ta / Tôi - Ngươi`). Sở hữu kỹ năng đặc thù: *Biến Hình*, *Tiến Hóa*, *Người Chơi Game Hành Động* (có *Mạng Dự Phòng: 4*).
 10. **Công chúa Noelle (Highland) & Công chúa Sophia (Vương quốc Hoa Hồng - Roses)**.
+11. **Mẹ Lớn tộc Lamia (Lamia Great Mother)**:
+   - Người mẹ nuôi nấng Aya và các chị em Lamia trong đại mê cung, hi sinh khi chiến đấu với Nữ hoàng Harpy (`Mẹ / Ta - Con` với Aya; `Ta - Ngươi` với Nữ hoàng Harpy).
+12. **Nữ hoàng Harpy (Harpy Queen)**:
+   - Thủ lĩnh đàn Harpy trong đại mê cung, tàn ác, sử dụng *Khúc Hát Siren (Siren's Song)* mê hoặc nam giới (`Ta - Ngươi / Lũ nhãi ranh`).
 
 ### 3.2. Ma trận xưng hô
 | Người nói | Người nghe | Xưng | Gọi | Sắc thái |
@@ -77,6 +81,13 @@ Cả lớp học của Takatsuki Makoto bị chuyển sinh sang dị giới. Kh�
 * **Blight Dragon**: Ô Uế Long (Rồng Ô Uế)
 * **Sense Danger**: Cảm Nhận Nguy Hiểm
 * **Escape Card**: Thẻ Thoát Thân
+* **Calm Mind**: Bình Tâm Tuyệt Đối
+* **Elementals / Elemental Magic**: Tinh linh / Ma pháp tinh linh
+* **Titanea**: Titanea (Thổ tinh linh cổ đại)
+* **Magicite**: Ma thạch
+* **Action Game Player (Dash / Charge Attack / Double Jump / Extra Lives)**: Người Chơi Game Hành Động (Lướt Nhanh / Đòn Tụ Lực / Nhảy Kép / Mạng Dự Phòng)
+* **Siren's Song**: Khúc Hát Siren
+* **Imbue Flames / Boulder Bullet: Meteor Rain**: Phủ Hỏa / Nham Thạch Đạn: Mưa Thiên Thạch
 
 ---
 
