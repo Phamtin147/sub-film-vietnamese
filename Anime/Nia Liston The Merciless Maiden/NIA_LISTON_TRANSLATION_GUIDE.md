@@ -49,7 +49,12 @@
    - *Vai trò*: Anh trai Nia (học tại Đạo trường Tật Kiếm Phái Satomi) và tiểu thư Reliared nhà Silver (môn đồ Phái Thiên Phá, bạn học của Nia).
    - *Xưng hô*: Nia gọi anh trai: Em - Anh Neal; Nia - Relia: Mình/Tớ - Cậu.
 9. **Asuma Hinoki (アスマ・ヒノキ / Kiếm Quỷ)**:
-   - *Vai trò*: Mạo hiểm giả ép kiếm nổi danh với biệt hiệu "Kiếm Quỷ", sử dụng những thanh ma kiếm (lames maudites) dễ thôn tính lý trí chủ nhân.
+   - *Vai trò*: Mạo hiểm giả dùng kiếm nổi danh với biệt hiệu "Kiếm Quỷ", sử dụng những thanh ma kiếm (lames maudites) dễ thôn tính lý trí chủ nhân.
+   - *Xưng hô*: Ta - Con nhóc / Ngươi (với Nia & Rinokis).
+10. **Sasanosuke Kudô (ササノスケ・クドウ)**:
+   - *Vai trò*: Thợ rèn lừng danh chế tác nên các thanh ma kiếm của Kiếm Quỷ Asuma Hinoki.
+11. **Pháp sư trị liệu Đấu Trường Hắc Ám**:
+   - *Vai trò*: Y sư chuyên trị thương cho đấu sĩ tại Đấu Trường Hắc Ám, dùng ma pháp *Chữa trị* (Guérison) phối hợp với *Khí* của Nia để nối lại cánh tay cho Rinokis.
 
 ---
 

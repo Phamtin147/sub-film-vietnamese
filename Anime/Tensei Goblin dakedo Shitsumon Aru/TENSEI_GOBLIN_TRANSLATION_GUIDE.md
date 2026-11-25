@@ -20,22 +20,32 @@
    - *Vai trò*: Nữ kiếm sĩ / Chiến binh mạnh mẽ, thẳng thắn.
    - *Xưng hô với Akira*: Tôi - Cậu / Anh.
 3. **Simon (サイモン)**:
-   - *Vai trò*: Thương nhân / Đồng minh kinh doanh.
-   - *Xưng hô*: Tôi - Cậu / Ngài.
+   - *Vai trò*: **Phiên Hầu (Margrave)** — quý tộc quyền lực cai quản biên giới kiêm đồng minh chiến lược của Akira. Từng cải trang thành thương nhân.
+   - *Xưng hô*: Tôi - Cậu / Chiến hữu / Người anh em (với Akira). Akira gọi lại: Tôi - Ngài Simon / Phiên Hầu Simon (hoặc Anh / Ông khi thân mật).
 4. **Albert, Chloe, Diké, Eirene, Eunomia (Mia)**:
-   - Hoàng tử Albert; bộ ba tỷ muội tiên tộc từng theo Ma Vương (`Eirene`, `Diké`, `Eunomia / Mia`), cùng `Chloe` (nữ chiến binh). Gọi Akira là `Cậu / Thôn trưởng` (`Tôi - Cậu`).
+   - **Hoàng tử Albert**: Sở hữu kỹ năng quay ngược thời gian **Quá Tam Bát Bận (Eighth Time's the Charm)** + kích hoạt **Khởi động lại (Restart)**, mưu tính phong Akira làm Ma Vương dễ kiểm soát.
+   - Bộ ba tỷ muội tiên tộc từng theo Ma Vương (`Eirene`, `Diké`, `Eunomia / Mia`), cùng `Chloe` (nữ chiến binh). Gọi Akira là `Cậu / Thôn trưởng` (`Tôi - Cậu`).
 5. **Izyz (Hắc Thiên Long / Dark-Sky Lord)**:
-   - Một trong **Tam Đại Quý Tộc (Noble Triad)** quyền lực của Long Tộc có quyền bầu chọn Ma Vương, thích ăn kỹ năng. Gọi Akira `Cậu / Nhóc`, xưng `Ta / Tôi`.
-6. **Masamune (Thế hệ I..VI) / Hanzo / Hokusai**:
-   - Các dòng truyền thừa kỹ năng trong làng Goblin (`Bọn em / Em - Thôn trưởng Akira`).
+   - Một trong **Tam Đại Quý Tộc (Noble Triad)** quyền lực của Long Tộc có quyền bầu chọn Ma Vương, thích ăn kỹ năng. Giao hai con rồng dưới trướng cho Akira lập đội **Long Kỵ Sĩ (Dragoons)**. Gọi Akira `Cậu / Nhóc`, xưng `Ta / Tôi`.
+6. **Masamune (Thế hệ I..VI) / Hanzo VII / Hokusai / Echigoya VIII**:
+   - Các dòng truyền thừa kỹ năng trong làng Goblin (`Bọn em / Em - Thôn trưởng Akira`). **Hanzo VII** là kỵ sĩ đầu tiên thuần hóa rồng (`Cưỡi Thú`, `Giả Kim Thuật`); **Echigoya VIII** là thương nhân nhí nhà Echigoya.
+7. **Kainas**:
+   - *Vai trò*: Vệ sĩ con người hiền lành, hết lòng cưng chiều con cái và hay hiểu nhầm tiếng bi bô của Echigoya VIII.
+   - *Xưng hô*: Tôi / Bố - Nhóc / Cậu chủ Echigoya.
+8. **Genesis (ジェネシス)**:
+   - *Vai trò*: Kẻ thù bí ẩn xuất hiện tập kích Kainas và Echigoya VIII cuối tập 8.
+   - *Xưng hô*: Ta - Ngươi / Lũ sâu bọ.
 
 ---
 
 ## 3. BẢNG THUẬT NGỮ CHUẨN (LORE)
 - **Goblin**: Yêu tinh Goblin (`Mayor`: Thôn trưởng)
 - **Archfiend**: Ma Vương (`Duke of Fiends`: Công Tước Ma Tộc)
-- **Noble Triad**: Tam Đại Quý Tộc *(Dark-Sky Lord, Paradise Demon, Spirit Marvel)*
+- **Margrave / Baron**: Phiên Hầu / Nam tước
+- **Dragoons**: Long Kỵ Sĩ
+- **Noble Triad**: Tam Đại Quý Tộc *(Dark-Sky Lord / Hắc Thiên Long, Paradise Demon, Spirit Marvel)*
 - **Octogenarian**: Bát Tuần Trường Thọ
+- **Kỹ năng tiêu biểu**: `Quá Tam Bát Bận` (Eighth Time's the Charm), `Khởi động lại` (Restart), `Tửu Thần` (Boozer), `Cưỡi Thú` (Mount), `Giả Kim Thuật` (Alchemy), `Liệt Hỏa` (Fiery Blaze), `Tia Điện` (Sparker), `Lôi Đình` (Thunder), `Thám Thị Nhãn` (Search Eye), `Cảnh Báo` (Alert), `Không Có Kỹ Năng` (No Skills).
 - **Adventurer**: Mạo hiểm giả / Phiêu lưu giả
 - **Guild**: Công hội Mạo hiểm giả
 - **Magic / Mana**: Ma thuật / Ma lực

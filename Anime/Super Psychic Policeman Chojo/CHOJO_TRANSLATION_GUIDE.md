@@ -42,11 +42,13 @@
 6. **Maruyama (Maru) & Sumikawa**:
    - *Vai trò*: Bạn đồng khóa Học viện Cảnh sát với Nao (gọi Nao là Pon). Maru rất ngưỡng mộ Chin Red (mà không biết đó là Chojo).
    - *Xưng hô*: Với Nao/bạn bè: `Tớ / Mình - Cậu`; Maru gọi Chin Red: `Em - Anh / Ngài Chin Red`.
-7. **Bác Ho / Hosaka (保坂)** & **Lily**:
-   - *Vai trò*: Bác Hosaka (gọi thân mật là Bác Ho) là nhân viên văn phòng bạn nhậu của Chojo (biến thân thành `Chin Pink`, cao thủ Túy Quyền không cồn). Lily là cô bé hàng xóm dễ thương (`Cháu - Chú/Anh Chin Red`).
-   - *Xưng hô*: Bác Ho dùng `Tôi / Bác - Chú em / Cháu`; Nao gọi `Bác Ho`; Chojo gọi `Bác Ho` / `Chin Pink`.
+7. **Bác Ho / Hosaka (保坂)**, **Lily Togari (尖りリリィ)** & **Ban**:
+   - *Vai trò*: Bác Hosaka (gọi thân mật là Bác Ho) là nhân viên văn phòng bạn nhậu của Chojo (biến thân thành `Chin Pink`, cao thủ Túy Quyền không cồn). **Lily Togari** là nữ sinh cấp 3 phong cách gyaru quen ở khu phố, cao thủ game đối kháng *Scottish Viper II* hạng **Huyền Thoại (Legend — Top 500)**. **Ban** là đồng nghiệp/người quen hay đưa ra mấy ý tưởng tưởng tượng ngây thơ.
+   - *Xưng hô*: Bác Ho dùng `Tôi / Bác - Chú em / Cháu`; Lily dùng `Em / Tôi - Chị Pon / Ông chú siêu năng lực / Chojo` (với Chojo hơi sỗ sàng/trêu chọc, với Nao thân thiện gọi `Pon`); Ban dùng `Tôi - Anh / Cô`.
 8. **Cảnh thị Inukai Yuki & Keinain**:
-   - *Vai trò*: Sĩ quan tinh nhuệ đội điều tra Chinjuku, cựu cộng sự si mê Chojo.
+   - *Vai trò*: Sĩ quan tinh nhuệ đội điều tra Chinjuku, cựu cộng sự si mê Chojo; **Keinain** là cộng sự điềm đạm, lịch thiệp của Inukai (gọi Nao là `Cô Ippongi`, xưng `Tôi`).
+9. **Erika**:
+   - *Vai trò*: Hình mẫu chị đại tiếp viên ở phố Kabuki-cho mà Chojo đem ra làm hình mẫu thôi miên cho Nao (`Em / Chị - Anh yêu`).
 
 ---
 
@@ -61,6 +63,8 @@
 | **Chief** | Chojo / Nao | Ta / Tôi | Cậu / Cô / Chojo / Ippongi | Sếp lớn lo lắng, đau đầu vì cấp dưới |
 | **Nao / Maru / Sumikawa** | Đồng khóa học viện | Tớ / Mình | Cậu / Pon / Maru | Thân thiết cùng khóa trường cảnh sát |
 | **Hosaka (Bác Ho)** | Chojo / Nao | Bác / Tôi | Chú em / Cháu / Chojo | Lão trung niên bình dân, bợm nhậu hài hước |
+| **Lily Togari** | Chojo / Nao | Em / Tôi | Ông chú / Chị Pon | Gyaru năng động, game thủ đối kháng cục súc |
+| **Keinain** | Nao Ippongi | Tôi | Cô Ippongi | Lịch thiệp, chân thành, chín chắn |
 
 ---
 
@@ -70,6 +74,7 @@
 - **Cop-Bot (ローボくん)**: Cảnh sát Robot Copbot.
 - **Speed King**: Vua Tốc Độ.
 - **Chinjuku Force Chinranger**: Chiến đội Chinjuku Chinranger (`Chin Red` Chojo, `Chin Blue` Nao, `Chin Pink` Bác Ho, `Chin-Changer`, `Chin Union`, `Ulchinmate Copbot G`).
+- **Scottish Viper II (SV2)**: Tựa game đối kháng thùng (Arcade); nhân vật **Desmond Yamada** (Võ sĩ Sumo siêu năng lực — chiêu *Shinku Psycho Hand Slap*), **Kenu** (chiêu *Kenuryuken*). Thuật ngữ game: **Hạng Master**, **Hạng Huyền Thoại (Legend)**, **Siêu Tuyệt Kỹ (SA)**, **Đỡ chuẩn (Parry)**, **Khung hình (Frame)**, **Giảm sức mạnh (Nerf)**, **Tay cầm (Game Pad)**.
 
 ---
 

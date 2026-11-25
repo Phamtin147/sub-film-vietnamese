@@ -1,0 +1,318 @@
+﻿[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+Timer: 0.0000
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Segoe UI,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,3,2,75,75,75,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:12.17,0:00:15.59,Default,,0,0,0,,{\i1}Dù em có ra sức ngăn cản thế nào\Ncũng chẳng thể khiến tiểu thư dừng lại.{\i0}
+Dialogue: 0,0:00:18.10,0:00:20.10,Default,,0,0,0,,Này, đau đấy nhé!
+Dialogue: 0,0:00:33.78,0:00:37.16,Default,,0,0,0,,{\i1}Với tư cách là một hầu gái,\Nđiều duy nhất em có thể làm lúc này,{\i0}
+Dialogue: 0,0:00:37.91,0:00:42.08,Default,,0,0,0,,{\i1}là luôn sát cánh và bảo vệ tiểu thư\Nbằng bất cứ giá nào.{\i0}
+Dialogue: 0,0:00:54.13,0:00:55.93,Default,,0,0,0,,Tiểu thư Nia...
+Dialogue: 0,0:01:09.52,0:01:10.57,Default,,0,0,0,,Khoan đã.
+Dialogue: 0,0:01:12.15,0:01:14.99,Default,,0,0,0,,Phải khen ngươi một câu.\NNgươi đánh không tệ chút nào đâu!
+Dialogue: 0,0:01:15.95,0:01:18.53,Default,,0,0,0,,Nhưng vẫn còn non tay lắm.
+Dialogue: 0,0:01:22.37,0:01:24.41,Default,,0,0,0,,Nguyên tác:\NMinamino Umikaze
+Dialogue: 0,0:01:29.92,0:01:31.21,Default,,0,0,0,,Thiết kế nhân vật gốc:\NCanata Katana, Jishaku
+Dialogue: 0,0:01:41.22,0:01:43.77,Default,,0,0,0,,{\an8}NIA LISTON: THE MERCILESS MAIDEN
+Dialogue: 0,0:01:45.52,0:01:48.02,Default,,0,0,0,,{\an3}Thiết kế nhân vật:\NYuki Itô, Kana Tosaoka
+Dialogue: 0,0:01:48.19,0:01:50.81,Default,,0,0,0,,{\an1}Biên kịch:\NGigaemon Ichikawa
+Dialogue: 0,0:01:51.69,0:01:54.36,Default,,0,0,0,,{\an8}Thiết kế màu sắc:\NRyota Katsuta, Maki Yamamoto
+Dialogue: 0,0:01:54.53,0:01:55.44,Default,,0,0,0,,{\an3}Đạo diễn mỹ thuật:\NHiroshi Gôroku
+Dialogue: 0,0:01:55.61,0:01:56.49,Default,,0,0,0,,{\an1}Đạo diễn hình ảnh: Takashi Ooide
+Dialogue: 0,0:02:06.25,0:02:09.54,Default,,0,0,0,,{\an1}Dựng phim: Masayuki Kurosawa\NBối cảnh: Makaria
+Dialogue: 0,0:02:23.72,0:02:25.56,Default,,0,0,0,,Ca khúc mở đầu:\N"Respawn!!" trình bày bởi Watame Tsunomaki
+Dialogue: 0,0:02:32.77,0:02:33.73,Default,,0,0,0,,{\an1}Đạo diễn âm thanh: Hiromi Kikuta
+Dialogue: 0,0:02:39.07,0:02:40.49,Default,,0,0,0,,Âm nhạc: Naoki Endô
+Dialogue: 0,0:02:42.24,0:02:42.95,Default,,0,0,0,,{\an8}Hãng sản xuất: Konami Animation
+Dialogue: 0,0:02:43.12,0:02:44.24,Default,,0,0,0,,{\an8}Trợ lý đạo diễn: Haruta Segi
+Dialogue: 0,0:02:48.66,0:02:49.54,Default,,0,0,0,,Đạo diễn: Motoki Nakanishi
+Dialogue: 0,0:02:49.71,0:02:52.25,Default,,0,0,0,,Ủy ban sản xuất:\NThe Merciless Maiden
+Dialogue: 0,0:02:56.80,0:02:58.05,Default,,0,0,0,,Sư phụ Nia!
+Dialogue: 0,0:02:59.47,0:03:02.43,Default,,0,0,0,,Một con nhóc sao?\NMày làm cái quái gì ở đây thế?
+Dialogue: 0,0:03:03.93,0:03:07.60,Default,,0,0,0,,Ta sẽ trả lời câu hỏi của ngươi,\Nnhưng hãy hạ kiếm xuống trước đã.
+Dialogue: 0,0:03:08.60,0:03:10.64,Default,,0,0,0,,Trận đấu này kết thúc rồi, phải không?
+Dialogue: 0,0:03:11.44,0:03:13.19,Default,,0,0,0,,Đây là Đấu Trường Hắc Ám.
+Dialogue: 0,0:03:13.36,0:03:17.15,Default,,0,0,0,,Ta có quyền kết liễu ả ta,\Nvà cũng chẳng có lý do gì để dừng tay cả.
+Dialogue: 0,0:03:17.57,0:03:20.86,Default,,0,0,0,,Đúng là vậy,\Nnhưng hãy coi như ngươi nể mặt ta đi.
+Dialogue: 0,0:03:22.45,0:03:25.12,Default,,0,0,0,,{\i1}Suy cho cùng, đây cũng chỉ là một trận đấu bình thường.{\i0}
+Dialogue: 0,0:03:25.58,0:03:28.95,Default,,0,0,0,,{\i1}Một trận đấu mà hắn đã thắng\Ncòn Rinokis thì thua,{\i0}
+Dialogue: 0,0:03:29.29,0:03:30.75,Default,,0,0,0,,{\i1}chỉ có vậy thôi.{\i0}
+Dialogue: 0,0:03:31.62,0:03:32.92,Default,,0,0,0,,{\i1}Em ấy đã ra đòn trước.{\i0}
+Dialogue: 0,0:03:34.38,0:03:37.92,Default,,0,0,0,,{\i1}Ít ai có thể phản ứng kịp\Nvới tốc độ xuất chiêu đó của em ấy,{\i0}
+Dialogue: 0,0:03:38.80,0:03:39.46,Default,,0,0,0,,{\i1}thế nhưng,{\i0}
+Dialogue: 0,0:03:43.72,0:03:45.93,Default,,0,0,0,,{\i1}hắn lại hóa giải chẳng mấy khó khăn.{\i0}
+Dialogue: 0,0:03:47.47,0:03:50.10,Default,,0,0,0,,{\i1}Cuộc giao đấu giữa hai người họ\Ncó trình độ rất cao.{\i0}
+Dialogue: 0,0:03:50.68,0:03:52.98,Default,,0,0,0,,{\i1}Quả là một trận tử chiến thực thụ giữa các chiến binh.{\i0}
+Dialogue: 0,0:03:53.48,0:03:54.69,Default,,0,0,0,,{\i1}Vì thế mới thấy tiếc.{\i0}
+Dialogue: 0,0:03:55.44,0:03:57.86,Default,,0,0,0,,Cô ấy vẫn còn có thể mạnh hơn nữa.
+Dialogue: 0,0:03:58.23,0:04:00.65,Default,,0,0,0,,Giết cô ấy lúc này thì uổng phí quá.
+Dialogue: 0,0:04:01.15,0:04:03.45,Default,,0,0,0,,Mà bản thân ngươi cũng thế đấy.
+Dialogue: 0,0:04:04.07,0:04:07.62,Default,,0,0,0,,Nhân tiện, sát ý của ngươi\Ncũng là để trở nên mạnh hơn sao?
+Dialogue: 0,0:04:08.83,0:04:12.91,Default,,0,0,0,,Nhưng đó là ý muốn của mấy thanh ma kiếm,\Nhay là ý muốn của chính ngươi?
+Dialogue: 0,0:04:14.62,0:04:16.71,Default,,0,0,0,,Ngươi biết gì về kiếm của ta?
+Dialogue: 0,0:04:18.38,0:04:19.88,Default,,0,0,0,,Câu hỏi hay đấy!
+Dialogue: 0,0:04:21.59,0:04:25.47,Default,,0,0,0,,TẬP 8: "NHỮNG THANH MA KIẾM\NCỦA KIẾM QUỶ"
+Dialogue: 0,0:04:26.14,0:04:29.01,Default,,0,0,0,,Hãy dồn {\i1}Khí\N{\i0}vào cánh tay bị hắn chém đứt đi.
+Dialogue: 0,0:04:29.68,0:04:32.48,Default,,0,0,0,,Làm vậy sẽ cầm được máu\Nvà dịu cơn đau lại.
+Dialogue: 0,0:04:34.98,0:04:35.81,Default,,0,0,0,,Để ta xem nào.
+Dialogue: 0,0:04:42.24,0:04:44.11,Default,,0,0,0,,Tiểu thư Nia...
+Dialogue: 0,0:04:45.24,0:04:47.07,Default,,0,0,0,,Ta bảo tập trung {\i1}Khí{\i0} đi nào.
+Dialogue: 0,0:04:52.62,0:04:53.83,Default,,0,0,0,,Nào...
+Dialogue: 0,0:04:55.67,0:04:57.00,Default,,0,0,0,,Ta muốn cảm ơn ngươi
+Dialogue: 0,0:04:57.54,0:05:00.21,Default,,0,0,0,,vì đã cho ta xem một trận đấu mãn nhãn
+Dialogue: 0,0:05:00.50,0:05:03.42,Default,,0,0,0,,và đã giữ lại mạng sống\Ncho Miss Servant.
+Dialogue: 0,0:05:03.92,0:05:06.47,Default,,0,0,0,,Ta có chút phần thưởng dành cho ngươi đây.
+Dialogue: 0,0:05:07.64,0:05:09.30,Default,,0,0,0,,Ta sẽ cho ngươi thấy võ nghệ của ta.
+Dialogue: 0,0:05:10.14,0:05:12.72,Default,,0,0,0,,Với một chiến binh thì chẳng còn phần thưởng nào\Ntuyệt vời hơn thế nữa đâu!
+Dialogue: 0,0:05:14.39,0:05:15.77,Default,,0,0,0,,Bằng cái chai đó sao?
+Dialogue: 0,0:05:16.35,0:05:17.27,Default,,0,0,0,,Cái này á?
+Dialogue: 0,0:05:19.11,0:05:23.15,Default,,0,0,0,,Chỉ là thua dưới tay một bé gái có vũ khí
+Dialogue: 0,0:05:23.61,0:05:26.65,Default,,0,0,0,,thì sẽ đỡ mất mặt cho ngươi hơn\Nlà thua tay không thôi.
+Dialogue: 0,0:05:29.20,0:05:31.79,Default,,0,0,0,,Ngươi nói như thể mình thắng chắc rồi ấy nhỉ.
+Dialogue: 0,0:05:32.49,0:05:35.00,Default,,0,0,0,,Ta thấy ngươi không phải\Nmột con nhóc tầm thường,
+Dialogue: 0,0:05:35.33,0:05:37.79,Default,,0,0,0,,vậy nên ta sẽ đích thân thử tài ngươi!
+Dialogue: 0,0:05:38.50,0:05:39.88,Default,,0,0,0,,Ta cũng chỉ mong có thế!
+Dialogue: 0,0:05:41.29,0:05:44.80,Default,,0,0,0,,Hỏi nốt một câu cuối:\Nai đã bán cho ngươi mấy thanh kiếm này?
+Dialogue: 0,0:05:45.17,0:05:47.80,Default,,0,0,0,,Kiếm của ta à? Là Sasanosuke Kudô.
+Dialogue: 0,0:05:48.26,0:05:49.76,Default,,0,0,0,,Ồ, hóa ra là Sasanosuke sao?
+Dialogue: 0,0:05:49.93,0:05:53.81,Default,,0,0,0,,Nhìn vẻ đẹp sắc sảo thế này,\Nchắc là tác phẩm thời đầu của ông ta rồi!
+Dialogue: 0,0:05:54.27,0:05:55.56,Default,,0,0,0,,Sao ngươi lại...
+Dialogue: 0,0:05:56.94,0:06:00.56,Default,,0,0,0,,{\i1}Thợ rèn Sasanosuke đã dành cả đời\Nđể rèn giũa hoàn thiện{\i0}
+Dialogue: 0,0:06:00.73,0:06:02.69,Default,,0,0,0,,{\i1}những thanh kiếm sinh ra chỉ để giết chóc.{\i0}
+Dialogue: 0,0:06:03.48,0:06:08.20,Default,,0,0,0,,{\i1}Cuối cùng chúng trở nên ghê rợn đến mức\Nsát khí tỏa ra ngùn ngụt không sao chịu nổi.{\i0}
+Dialogue: 0,0:06:08.70,0:06:12.87,Default,,0,0,0,,{\i1}Nhưng ở thời kỳ đầu, chúng vẫn chưa đủ sức\Nkhống chế hoàn toàn chủ nhân của mình.{\i0}
+Dialogue: 0,0:06:13.49,0:06:16.66,Default,,0,0,0,,Tốt, vậy thì ta sẽ tha cho chúng.
+Dialogue: 0,0:06:22.96,0:06:24.96,Default,,0,0,0,,{\i1}Hắn cũng không tệ, nhưng...{\i0}
+Dialogue: 0,0:06:34.68,0:06:36.56,Default,,0,0,0,,Không, không thể nào!
+Dialogue: 0,0:06:48.49,0:06:49.86,Default,,0,0,0,,Ngươi rốt cuộc là ai?!
+Dialogue: 0,0:06:52.07,0:06:53.49,Default,,0,0,0,,Thế này chắc đủ rồi.
+Dialogue: 0,0:07:04.46,0:07:06.09,Default,,0,0,0,,Chà, đúng là một phen ồn ào...
+Dialogue: 0,0:07:14.39,0:07:15.68,Default,,0,0,0,,Gạc cầm máu và thuốc an thần!
+Dialogue: 0,0:07:16.56,0:07:19.14,Default,,0,0,0,,- Mau rửa sạch vết thương đi!\N- Rõ!
+Dialogue: 0,0:07:20.31,0:07:22.15,Default,,0,0,0,,Các ông nối lại cái này được không?
+Dialogue: 0,0:07:23.56,0:07:25.15,Default,,0,0,0,,Cháu làm gì ở đây thế?
+Dialogue: 0,0:07:25.82,0:07:26.69,Default,,0,0,0,,Cháu cầm cánh tay của cô ấy à?
+Dialogue: 0,0:07:26.98,0:07:28.90,Default,,0,0,0,,Bộ các ông không định khâu lại sao?
+Dialogue: 0,0:07:33.45,0:07:34.99,Default,,0,0,0,,Cháu giúp bọn ta một tay được chứ?
+Dialogue: 0,0:07:35.20,0:07:37.29,Default,,0,0,0,,Cháu sẽ làm mọi thứ có thể.
+Dialogue: 0,0:07:37.45,0:07:39.91,Default,,0,0,0,,Hãy cho ta mượn nguồn sức mạnh\Nđang lưu giữ trong cánh tay đó.
+Dialogue: 0,0:07:40.33,0:07:41.25,Default,,0,0,0,,Ông cảm nhận được sao?
+Dialogue: 0,0:07:41.41,0:07:45.92,Default,,0,0,0,,Không. Ta chỉ thấy\Ntình trạng của nó tốt đến mức khó tin.
+Dialogue: 0,0:07:46.38,0:07:50.38,Default,,0,0,0,,Không hề bị xuất huyết,\Ndù chẳng hề có băng garô cầm máu nào cả.
+Dialogue: 0,0:07:50.72,0:07:53.18,Default,,0,0,0,,Trước đây ta từng thấy một hiện tượng tương tự rồi.
+Dialogue: 0,0:07:53.80,0:07:55.80,Default,,0,0,0,,Tuyệt quá, đỡ tốn thời gian giải thích!
+Dialogue: 0,0:07:56.18,0:07:58.35,Default,,0,0,0,,À mà này, cháu có tiền không đấy?
+Dialogue: 0,0:07:58.52,0:07:59.18,Default,,0,0,0,,Sao ông lại hỏi vậy?
+Dialogue: 0,0:07:59.35,0:08:04.31,Default,,0,0,0,,Bởi vì đây là một quy trình\Nma pháp khá tốn kém đấy.
+Dialogue: 0,0:08:04.77,0:08:06.77,Default,,0,0,0,,Bao nhiêu tiền cũng được hết!
+Dialogue: 0,0:08:08.07,0:08:09.73,Default,,0,0,0,,Được rồi, ta hiểu rồi.
+Dialogue: 0,0:08:10.78,0:08:11.40,Default,,0,0,0,,Chữa trị!
+Dialogue: 0,0:08:20.58,0:08:25.13,Default,,0,0,0,,{\i1}Về lý thuyết, nó khá giống với cách\Ngiúp mình tự chữa khỏi căn bệnh bẩm sinh.{\i0}
+Dialogue: 0,0:08:25.63,0:08:29.96,Default,,0,0,0,,{\i1}Dùng năng lực tự chữa lành và thanh lọc\Nvốn có của cơ thể con người{\i0}
+Dialogue: 0,0:08:30.13,0:08:31.84,Default,,0,0,0,,{\i1}rồi khuếch đại nó lên bằng {\i0}Khí.
+Dialogue: 0,0:08:36.51,0:08:37.93,Default,,0,0,0,,Xong rồi đấy.
+Dialogue: 0,0:08:39.43,0:08:41.81,Default,,0,0,0,,Hai ta kết hợp lại làm nhanh thật đấy nhỉ!
+Dialogue: 0,0:08:42.14,0:08:44.94,Default,,0,0,0,,Giờ thì tính chuyện thanh toán thôi.
+Dialogue: 0,0:08:45.10,0:08:46.27,Default,,0,0,0,,Tránh đường ra!
+Dialogue: 0,0:08:46.77,0:08:49.36,Default,,0,0,0,,Tôi đã bảo nó là con gái tôi rồi,\Nlũ ngốc này!
+Dialogue: 0,0:08:49.98,0:08:51.57,Default,,0,0,0,,- Biến ra!\N- Gandolph?
+Dialogue: 0,0:08:52.03,0:08:52.90,Default,,0,0,0,,Đó là cha cháu đấy.
+Dialogue: 0,0:08:57.37,0:08:58.49,Default,,0,0,0,,Sư phụ không thấy tiếc
+Dialogue: 0,0:08:58.95,0:09:02.91,Default,,0,0,0,,khi đem toàn bộ tiền thắng ở đấu trường\Nra trả viện phí cho Rinokis sao?
+Dialogue: 0,0:09:03.12,0:09:06.79,Default,,0,0,0,,Chẳng sao cả.\NTa có bao giờ tiêu hết đống tiền đó đâu.
+Dialogue: 0,0:09:07.21,0:09:09.46,Default,,0,0,0,,Mấy đồng bạc đó với ta chẳng có tác dụng gì.
+Dialogue: 0,0:09:10.05,0:09:13.26,Default,,0,0,0,,Thôi, nói về trận đấu tuyệt đỉnh\Nvừa rồi của sư phụ đi!
+Dialogue: 0,0:09:13.72,0:09:14.63,Default,,0,0,0,,Ông thấy thích thú lắm à?
+Dialogue: 0,0:09:14.80,0:09:19.01,Default,,0,0,0,,Quá đỉnh luôn ấy chứ! Gặp tôi\Nchắc bị hắn chém thành năm mươi mảnh rồi!
+Dialogue: 0,0:09:19.22,0:09:21.26,Default,,0,0,0,,Ông cũng nên tập né đòn bớt đi chứ.
+Dialogue: 0,0:09:21.60,0:09:25.85,Default,,0,0,0,,Tôi đoán sư phụ không cần cái chai đó\Nvẫn hóa giải được đòn của hắn phải không?
+Dialogue: 0,0:09:26.02,0:09:28.94,Default,,0,0,0,,Hiển nhiên rồi!\NCầm nó trên tay còn suýt làm vướng víu ấy chứ.
+Dialogue: 0,0:09:29.11,0:09:30.27,Default,,0,0,0,,Tôi biết ngay mà!
+Dialogue: 0,0:09:30.44,0:09:33.65,Default,,0,0,0,,Ta sẽ nói đúng câu\Nmà ông muốn nghe nhất đây:
+Dialogue: 0,0:09:34.40,0:09:35.78,Default,,0,0,0,,chẳng gì tuyệt vời bằng nắm đấm trần cả!
+Dialogue: 0,0:09:36.15,0:09:37.41,Default,,0,0,0,,Đúng rồi, chuẩn không cần chỉnh!
+Dialogue: 0,0:09:41.12,0:09:43.16,Default,,0,0,0,,- Tới rồi kìa, y như dự đoán.\N- Cái gì cơ?
+Dialogue: 0,0:09:44.37,0:09:46.37,Default,,0,0,0,,Tay sai của Đấu Trường Hắc Ám đấy.
+Dialogue: 0,0:09:49.58,0:09:52.17,Default,,0,0,0,,Mau quay về quán rượu đi, Gandolph.
+Dialogue: 0,0:09:53.21,0:09:54.09,Default,,0,0,0,,Còn sư phụ thì sao?
+Dialogue: 0,0:09:54.38,0:09:56.22,Default,,0,0,0,,Ta sẽ lo liệu đám này.
+Dialogue: 0,0:09:56.63,0:10:00.18,Default,,0,0,0,,Ta không muốn chúng lần theo dấu vết\Ntới tận chỗ của Anzel đâu.
+Dialogue: 0,0:10:00.64,0:10:01.68,Default,,0,0,0,,Để tôi ra đánh với chúng!
+Dialogue: 0,0:10:02.06,0:10:05.35,Default,,0,0,0,,Không, nhờ ông đưa Rinokis\Nvề nơi an toàn trước đã.
+Dialogue: 0,0:10:05.52,0:10:06.43,Default,,0,0,0,,Nhưng mà...
+Dialogue: 0,0:10:06.94,0:10:09.31,Default,,0,0,0,,Ông muốn thấy em ấy bị bắt làm con tin à?
+Dialogue: 0,0:10:10.69,0:10:11.73,Default,,0,0,0,,Tôi hiểu rồi...
+Dialogue: 0,0:10:15.49,0:10:18.07,Default,,0,0,0,,{\i1}Đúng là mình vừa tự ý\Nphá ngang một trận đấu thật.{\i0}
+Dialogue: 0,0:10:18.45,0:10:21.70,Default,,0,0,0,,{\i1}Bọn chúng đời nào chịu để mình\Nrời đi dễ dàng thế được...{\i0}
+Dialogue: 0,0:10:28.54,0:10:29.79,Default,,0,0,0,,Để mày đợi lâu rồi nhỉ?
+Dialogue: 0,0:10:30.46,0:10:33.59,Default,,0,0,0,,Cũng không lâu lắm.\NCác ngươi muốn gì?
+Dialogue: 0,0:10:33.96,0:10:37.34,Default,,0,0,0,,Muốn mày trả nợ chứ còn gì nữa,\Nhỏi thừa.
+Dialogue: 0,0:10:37.80,0:10:38.55,Default,,0,0,0,,Nợ của ta á?
+Dialogue: 0,0:10:38.84,0:10:43.81,Default,,0,0,0,,Trận đấu của Kiếm Quỷ đặt cược\Nbiết bao nhiêu là tiền.
+Dialogue: 0,0:10:44.14,0:10:48.98,Default,,0,0,0,,Mày phá hỏng trận đấu đó, nên giờ\Nmày phải bồi thường cho đấu trường.
+Dialogue: 0,0:10:49.31,0:10:50.10,Default,,0,0,0,,Ra là thế...
+Dialogue: 0,0:10:50.73,0:10:53.19,Default,,0,0,0,,Nói thật nhé, ta cũng thấy áy náy lắm!
+Dialogue: 0,0:10:53.44,0:10:56.65,Default,,0,0,0,,Đúng là ta đã ích kỷ\Nphá ngang trận đấu thật.
+Dialogue: 0,0:10:57.03,0:10:58.11,Default,,0,0,0,,Ta thừa nhận lỗi này.
+Dialogue: 0,0:10:58.65,0:10:59.99,Default,,0,0,0,,Ta xin lỗi nhé.
+Dialogue: 0,0:11:00.16,0:11:04.37,Default,,0,0,0,,Mày nghĩ mấy câu xin lỗi suông đó\Nlà đủ xí xóa mọi chuyện chắc?
+Dialogue: 0,0:11:04.70,0:11:08.00,Default,,0,0,0,,Nhưng xét cho cùng,\Nta cũng chỉ là một bé gái thôi mà.
+Dialogue: 0,0:11:08.16,0:11:12.08,Default,,0,0,0,,Ta đã vòi vĩnh cha dẫn tới đấu trường\Nvì tò mò rồi,
+Dialogue: 0,0:11:12.33,0:11:14.38,Default,,0,0,0,,nên ta không dám đòi hỏi thêm gì từ ông ấy nữa đâu.
+Dialogue: 0,0:11:14.63,0:11:17.13,Default,,0,0,0,,Lấy cớ đó ra cũng chẳng xong đâu nhé!
+Dialogue: 0,0:11:17.30,0:11:18.38,Default,,0,0,0,,Nhưng theo ta thấy,
+Dialogue: 0,0:11:19.01,0:11:20.97,Default,,0,0,0,,vậy là quá đủ với các ngươi rồi đấy.
+Dialogue: 0,0:11:21.68,0:11:25.10,Default,,0,0,0,,Trên đời này có những kẻ mà tốt nhất\Nđừng bao giờ nên đụng vào, biết chứ?
+Dialogue: 0,0:11:27.64,0:11:31.52,Default,,0,0,0,,Và ta chính là một trong số đó.\NNgươi có chắc chắn
+Dialogue: 0,0:11:33.44,0:11:36.27,Default,,0,0,0,,là muốn gây sự với ta không?
+Dialogue: 0,0:11:37.44,0:11:39.57,Default,,0,0,0,,Nếu mày khôn ngoan như vậy,
+Dialogue: 0,0:11:39.74,0:11:42.53,Default,,0,0,0,,thì hẳn mày cũng hiểu\Nbọn tao có trách nhiệm phải làm.
+Dialogue: 0,0:11:42.86,0:11:43.53,Default,,0,0,0,,Phải.
+Dialogue: 0,0:11:44.12,0:11:46.70,Default,,0,0,0,,Ta đã làm hoen ố danh tiếng của các ngươi,
+Dialogue: 0,0:11:47.04,0:11:50.16,Default,,0,0,0,,nên giờ các ngươi buộc phải giữ lấy thể diện.
+Dialogue: 0,0:11:51.25,0:11:54.92,Default,,0,0,0,,Đáng sợ thật đấy, một con nhóc\Nlại rành rẽ luật giang hồ đến mức này.
+Dialogue: 0,0:11:55.29,0:12:00.26,Default,,0,0,0,,Thôi nào, cùng vui vẻ một chút đi.\NCoi như cho ta tập thể dục nhẹ nhàng.
+Dialogue: 0,0:12:01.17,0:12:02.68,Default,,0,0,0,,Nếu các ngươi đánh bại được ta...
+Dialogue: 0,0:12:03.01,0:12:06.68,Default,,0,0,0,,Không, chỉ cần đánh trúng ta một đòn thôi,\Nta sẽ làm bất cứ điều gì các ngươi muốn.
+Dialogue: 0,0:12:07.51,0:12:09.56,Default,,0,0,0,,Kèo này hời quá còn gì, đúng không?
+Dialogue: 0,0:12:10.39,0:12:12.35,Default,,0,0,0,,Mày đang lảm nhảm cái quái gì thế?
+Dialogue: 0,0:12:12.52,0:12:15.56,Default,,0,0,0,,Trong giới giang hồ, ngươi đúng là\Nthứ chậm hiểu nhất rồi đấy.
+Dialogue: 0,0:12:16.15,0:12:19.73,Default,,0,0,0,,Ta bảo các ngươi mau xông vào đánh ta đi.\NHiểu chưa hả?
+Dialogue: 0,0:12:20.32,0:12:21.19,Default,,0,0,0,,Nói tóm lại,
+Dialogue: 0,0:12:22.15,0:12:25.12,Default,,0,0,0,,{\an1}ta đang chủ động\Ngây sự đánh nhau đây này.
+Dialogue: 0,0:12:23.07,0:12:26.28,Default,,0,0,0,,{\an8}NIA LISTON: THE MERCILESS MAIDEN
+Dialogue: 0,0:12:26.45,0:12:29.29,Default,,0,0,0,,{\an1}NIA LISTON:\NTHE MERCILESS MAIDEN
+Dialogue: 0,0:12:30.29,0:12:31.79,Default,,0,0,0,,Mày sẽ phải hối hận đấy...
+Dialogue: 0,0:12:43.17,0:12:44.26,Default,,0,0,0,,{\i1}Khá phết!{\i0}
+Dialogue: 0,0:12:44.63,0:12:48.56,Default,,0,0,0,,{\i1}Đánh đơn lẻ từng tên một\Nthì đúng là yếu đến phát chán.{\i0}
+Dialogue: 0,0:12:48.72,0:12:50.93,Default,,0,0,0,,{\i1}Nhưng khi chúng hội đồng lại thì cũng ra gì đấy.{\i0}
+Dialogue: 0,0:12:51.10,0:12:55.35,Default,,0,0,0,,{\i1}Vừa phải né tránh liên tục\Nvừa tìm sơ hở phản công cũng chẳng dễ đâu.{\i0}
+Dialogue: 0,0:12:56.40,0:12:59.07,Default,,0,0,0,,{\i1}Chà, thứ vũ khí cổ lỗ sĩ gì thế này!{\i0}
+Dialogue: 0,0:13:05.03,0:13:05.70,Default,,0,0,0,,Đồ ranh con...
+Dialogue: 0,0:13:09.74,0:13:10.79,Default,,0,0,0,,{\i1}Thích thật đấy!{\i0}
+Dialogue: 0,0:13:12.33,0:13:14.21,Default,,0,0,0,,{\i1}Lâu lắm rồi mới được vui thế này!{\i0}
+Dialogue: 0,0:13:26.30,0:13:27.14,Default,,0,0,0,,Cái quái...
+Dialogue: 0,0:13:43.57,0:13:44.69,Default,,0,0,0,,{\i1}À, ra là vậy...{\i0}
+Dialogue: 0,0:13:45.78,0:13:47.16,Default,,0,0,0,,{\i1}Hóa ra thanh đó mới đúng là,{\i0}
+Dialogue: 0,0:13:48.07,0:13:50.49,Default,,0,0,0,,{\i1}thanh ma kiếm thực sự...{\i0}
+Dialogue: 0,0:13:52.20,0:13:54.41,Default,,0,0,0,,{\i1}Và nó đang hoàn toàn điều khiển hắn ta.{\i0}
+Dialogue: 0,0:14:28.91,0:14:30.20,Default,,0,0,0,,Phiền phức thật đấy...
+Dialogue: 0,0:14:31.12,0:14:35.54,Default,,0,0,0,,{\i1}Hắn mạnh phết đấy, nhưng vẫn\Nnằm trong giới hạn bình thường thôi.{\i0}
+Dialogue: 0,0:14:36.54,0:14:40.29,Default,,0,0,0,,{\i1}Đánh với đám côn đồ kia\Ncòn thú vị hơn nhiều.{\i0}
+Dialogue: 0,0:14:44.96,0:14:46.05,Default,,0,0,0,,Thôi, đủ rồi đấy.
+Dialogue: 0,0:14:55.10,0:14:59.31,Default,,0,0,0,,Ta chơi chán cái trò múa rối\Ncủa một thanh ma kiếm rồi.
+Dialogue: 0,0:15:07.78,0:15:10.53,Default,,0,0,0,,Nghĩ sao mà lại để bản thân\Nbị sai khiến bởi
+Dialogue: 0,0:15:10.74,0:15:12.99,Default,,0,0,0,,một món đồ chơi vớ vẩn thế này chứ...
+Dialogue: 0,0:15:14.58,0:15:15.45,Default,,0,0,0,,Được rồi,
+Dialogue: 0,0:15:16.75,0:15:17.75,Default,,0,0,0,,chúng ta tiếp tục chứ?
+Dialogue: 0,0:15:19.75,0:15:20.75,Default,,0,0,0,,Không, đủ rồi.
+Dialogue: 0,0:15:22.13,0:15:23.92,Default,,0,0,0,,Bọn tao đã làm xong phận sự rồi.
+Dialogue: 0,0:15:24.21,0:15:26.25,Default,,0,0,0,,Bọn tao sẽ không làm phiền mày nữa,
+Dialogue: 0,0:15:26.88,0:15:29.17,Default,,0,0,0,,nên mày cũng tha cho bọn tao đi, được chứ?
+Dialogue: 0,0:15:29.84,0:15:34.68,Default,,0,0,0,,Bọn tao sẽ coi như chưa từng biết mày là ai\Nvà quên sạch chuyện đêm nay.
+Dialogue: 0,0:15:34.85,0:15:36.06,Default,,0,0,0,,- Nhưng mà...\N- Câm mồm!
+Dialogue: 0,0:15:36.68,0:15:40.35,Default,,0,0,0,,Mày bị mù à?\NNếu cố chấp dây dưa thêm nữa,
+Dialogue: 0,0:15:41.06,0:15:43.36,Default,,0,0,0,,cả lũ sẽ kéo nhau ra nghĩa địa hết đấy.
+Dialogue: 0,0:15:49.82,0:15:54.28,Default,,0,0,0,,Vậy thì ta xin phép về trước.\NKhi nào tên Kiếm Quỷ kia tỉnh lại, nhắn giúp hắn
+Dialogue: 0,0:15:54.99,0:15:59.91,Default,,0,0,0,,rằng bao giờ hắn đủ mạnh,\Nta sẽ lại ghé thăm lần nữa.
+Dialogue: 0,0:16:01.16,0:16:02.00,Default,,0,0,0,,Rõ rồi.
+Dialogue: 0,0:16:32.32,0:16:33.36,Default,,0,0,0,,Em tỉnh rồi à?
+Dialogue: 0,0:16:34.36,0:16:35.82,Default,,0,0,0,,Vâng...
+Dialogue: 0,0:16:36.24,0:16:37.41,Default,,0,0,0,,Thấy trong người đỡ hơn chưa?
+Dialogue: 0,0:16:37.99,0:16:39.58,Default,,0,0,0,,Có vẻ cũng ổn rồi ạ...
+Dialogue: 0,0:16:40.45,0:16:43.42,Default,,0,0,0,,Đúng dịp tốt để giới thiệu\Nhai bên làm quen luôn này!
+Dialogue: 0,0:16:44.12,0:16:45.96,Default,,0,0,0,,Đây là hầu gái của em.
+Dialogue: 0,0:16:46.79,0:16:50.59,Default,,0,0,0,,Sau này chắc chắn cô ấy sẽ thay mặt em\Nghé qua đây khi cần,
+Dialogue: 0,0:16:50.76,0:16:51.88,Default,,0,0,0,,nên mọi người nhớ đối xử tử tế nhé!
+Dialogue: 0,0:16:53.34,0:16:56.80,Default,,0,0,0,,Rất hân hạnh được làm quen\Nvới mọi người ạ!
+Dialogue: 0,0:16:58.39,0:17:00.18,Default,,0,0,0,,Tất nhiên là lần đầu gặp mặt rồi nhỉ!
+Dialogue: 0,0:17:02.52,0:17:04.19,Default,,0,0,0,,- Rất vui được gặp!\N- Ừ...
+Dialogue: 0,0:17:06.27,0:17:07.61,Default,,0,0,0,,Đến giờ phải về rồi.
+Dialogue: 0,0:17:16.74,0:17:19.53,Default,,0,0,0,,Em ổn chứ?\NCó thấy chóng mặt không?
+Dialogue: 0,0:17:19.70,0:17:20.45,Default,,0,0,0,,Không, em ổn ạ...
+Dialogue: 0,0:17:20.87,0:17:25.12,Default,,0,0,0,,Chỉ là em cứ có cảm giác\Nnhư mình đang nằm mơ vậy.
+Dialogue: 0,0:17:25.46,0:17:30.00,Default,,0,0,0,,Nhưng đây không phải giấc mơ,\Nđúng không tiểu thư?
+Dialogue: 0,0:17:30.84,0:17:35.43,Default,,0,0,0,,Ừ, em thực sự đã mất một cánh tay\Nkhi giao đấu với Kiếm Quỷ.
+Dialogue: 0,0:17:36.68,0:17:38.51,Default,,0,0,0,,Và chúng ta đã dùng ma pháp chữa lành nó rồi.
+Dialogue: 0,0:17:48.15,0:17:49.02,Default,,0,0,0,,Rinokis!
+Dialogue: 0,0:17:56.99,0:17:57.95,Default,,0,0,0,,Xin lỗi em.
+Dialogue: 0,0:17:59.41,0:18:01.99,Default,,0,0,0,,Ta không ngờ em lại sẵn sàng\Nliều mình đến mức này
+Dialogue: 0,0:18:02.33,0:18:05.54,Default,,0,0,0,,chỉ để ngăn ta lại,\Nvà nhất là để bảo vệ ta.
+Dialogue: 0,0:18:06.83,0:18:08.63,Default,,0,0,0,,Trận chiến định mệnh đó
+Dialogue: 0,0:18:09.17,0:18:12.13,Default,,0,0,0,,là do ý muốn của ta,\Nchứ không phải của em.
+Dialogue: 0,0:18:14.67,0:18:15.88,Default,,0,0,0,,Tiểu thư...
+Dialogue: 0,0:18:17.09,0:18:19.05,Default,,0,0,0,,Đáng lẽ ta nên bàn bạc với em trước
+Dialogue: 0,0:18:19.34,0:18:22.22,Default,,0,0,0,,để tìm ra cách giải quyết\Nthỏa đáng cho cả hai đứa.
+Dialogue: 0,0:18:22.68,0:18:24.10,Default,,0,0,0,,Ta thực sự xin lỗi.
+Dialogue: 0,0:18:48.29,0:18:52.71,Default,,0,0,0,,Nhưng cuối cùng thì chính em mới là người\Nkhiến tiểu thư phải bận lòng lo lắng.
+Dialogue: 0,0:18:56.21,0:18:57.55,Default,,0,0,0,,Ừ, cái đó thì chuẩn không cần chỉnh!
+Dialogue: 0,0:18:58.63,0:19:01.72,Default,,0,0,0,,Sao đại đệ tử của ta\Nlại có thể thua tên nhãi ranh đó được chứ?
+Dialogue: 0,0:19:02.43,0:19:05.93,Default,,0,0,0,,Nhưng em yên tâm,\Nta đã báo thù cho em ra trò rồi!
+Dialogue: 0,0:19:06.39,0:19:08.31,Default,,0,0,0,,Bằng một cú phang chai siêu đỉnh!
+Dialogue: 0,0:19:08.77,0:19:13.44,Default,,0,0,0,,Khoan đã, em nghĩ tiểu thư\Ncần phải xin lỗi thêm chút nữa mới phải!
+Dialogue: 0,0:19:14.69,0:19:18.11,Default,,0,0,0,,Tiểu thư thực sự thấy hối lỗi\Nvì chuyện vừa rồi chứ ạ?
+Dialogue: 0,0:19:18.53,0:19:19.07,Default,,0,0,0,,Ừ.
+Dialogue: 0,0:19:19.45,0:19:21.36,Default,,0,0,0,,Và em vẫn chưa chấp nhận lời xin lỗi đâu nhé!
+Dialogue: 0,0:19:22.45,0:19:23.32,Default,,0,0,0,,Hả, thật á?
+Dialogue: 0,0:19:23.49,0:19:25.87,Default,,0,0,0,,Vậy nên tiểu thư phải\Ntiếp tục xin lỗi nữa đi!
+Dialogue: 0,0:19:26.04,0:19:30.71,Default,,0,0,0,,Để chắc chắn rằng em không chỉ đang\Nchiều theo ý tiểu thư cho xong chuyện!
+Dialogue: 0,0:19:31.04,0:19:33.71,Default,,0,0,0,,Thế nãy giờ không phải em đang làm nũng à?
+Dialogue: 0,0:19:34.17,0:19:37.71,Default,,0,0,0,,Tất nhiên là có rồi!\NChứ còn làm gì được nữa đây?
+Dialogue: 0,0:19:37.88,0:19:41.47,Default,,0,0,0,,Chấp nhận lời xin lỗi ngay tắp lự\Nthì uổng công quá đi mất!
+Dialogue: 0,0:19:43.26,0:19:46.77,Default,,0,0,0,,Làm hầu gái thì phải giả vờ miễn cưỡng\Ntha thứ một chút
+Dialogue: 0,0:19:46.93,0:19:51.19,Default,,0,0,0,,để tiểu thư phải năn nỉ ỉ ôi mãi\Ncho tới khi thuyết phục được em cơ!
+Dialogue: 0,0:19:51.35,0:19:52.98,Default,,0,0,0,,Như thế mới lãng mạn chứ!
+Dialogue: 0,0:19:53.94,0:19:55.52,Default,,0,0,0,,{\i1}Thôi nào, tiểu thư hãy ngẩng đầu lên đi!{\i0}
+Dialogue: 0,0:19:55.94,0:19:57.48,Default,,0,0,0,,{\i1}Không, ta không thể!{\i0}
+Dialogue: 0,0:19:58.36,0:20:00.99,Default,,0,0,0,,{\i1}Làm sao em nỡ giận tiểu thư được chứ?{\i0}
+Dialogue: 0,0:20:01.78,0:20:02.61,Default,,0,0,0,,{\i1}Rinokis!{\i0}
+Dialogue: 0,0:20:03.07,0:20:04.16,Default,,0,0,0,,{\i1}Tiểu thư!{\i0}
+Dialogue: 0,0:20:07.24,0:20:10.12,Default,,0,0,0,,Bổn phận của hầu gái là phải như thế cơ mà!
+Dialogue: 0,0:20:10.37,0:20:13.29,Default,,0,0,0,,Đối đầu với tên kiếm sĩ kia\Nđáng sợ muốn chết luôn ấy!
+Dialogue: 0,0:20:13.46,0:20:16.88,Default,,0,0,0,,Vậy mà em vẫn lao vào!\NTất cả đều là vì tiểu thư đấy!
+Dialogue: 0,0:20:17.17,0:20:19.01,Default,,0,0,0,,Em còn bị chém đứt cả một cánh tay cơ mà!
+Dialogue: 0,0:20:19.17,0:20:21.68,Default,,0,0,0,,Nên tiểu thư phải xin lỗi em thật nhiều vào,
+Dialogue: 0,0:20:21.84,0:20:24.89,Default,,0,0,0,,rồi sau đó còn phải khen em\Nvì đã rộng lượng bao dung nữa!
+Dialogue: 0,0:20:28.77,0:20:31.06,Default,,0,0,0,,Ơ kìa, Rinokis?
+Dialogue: 0,0:20:34.15,0:20:35.77,Default,,0,0,0,,Với lại, ít nhất thì...
+Dialogue: 0,0:20:36.23,0:20:39.78,Default,,0,0,0,,tiểu thư cũng phải lại đây\Nnằm xuống bên cạnh em chứ!
+Dialogue: 0,0:20:39.94,0:20:41.78,Default,,0,0,0,,Tiểu thư nợ em một cái ôm đấy nhé!
+Dialogue: 0,0:20:42.24,0:20:44.32,Default,,0,0,0,,Xem ra em khỏe re rồi đấy nhỉ.
+Dialogue: 0,0:20:44.49,0:20:46.03,Default,,0,0,0,,Làm gì có chuyện đó!
+Dialogue: 0,0:20:46.20,0:20:48.87,Default,,0,0,0,,Em muốn tiểu thư nằm xuống\Nôm em một cái cơ!
+Dialogue: 0,0:20:50.58,0:20:52.83,Default,,0,0,0,,{\i1}Rõ ràng là khỏe lại hoàn toàn rồi!{\i0}
+Dialogue: 0,0:20:53.62,0:20:56.29,Default,,0,0,0,,Đứng dậy được chưa?\NĐợi lúc khác rồi hãy làm nũng.
+Dialogue: 0,0:20:56.46,0:20:58.09,Default,,0,0,0,,Có phải làm nũng đâu!
+Dialogue: 0,0:20:58.25,0:21:01.80,Default,,0,0,0,,Ta nhắc cho em nhớ là\Nchỗ này không phải ký túc xá đâu nhé.
+Dialogue: 0,0:21:03.84,0:21:05.47,Default,,0,0,0,,Thôi nào, chúng ta phải về thôi.
+Dialogue: 0,0:21:05.89,0:21:08.56,Default,,0,0,0,,Em rõ rồi ạ.\NVậy về tới ký túc xá em sẽ đòi tiếp.
+Dialogue: 0,0:21:26.66,0:21:29.49,Default,,0,0,0,,{\i1}Hôm nay đúng là một ngày\Ndài đằng đẵng thật đấy.{\i0}
+Dialogue: 0,0:21:29.99,0:21:32.70,Default,,0,0,0,,{\i1}Cơ thể bé xíu sáu tuổi này của mình{\i0}
+Dialogue: 0,0:21:32.91,0:21:35.21,Default,,0,0,0,,{\i1}cũng gắng gượng chống chọi với cơn buồn ngủ giỏi phết.{\i0}
+Dialogue: 0,0:21:36.92,0:21:38.34,Default,,0,0,0,,Tiểu thư... Nia...
+Dialogue: 0,0:21:39.46,0:21:42.34,Default,,0,0,0,,Em ấy muốn mình\Nnằm xuống bên cạnh...
+Dialogue: 0,0:21:46.34,0:21:47.72,Default,,0,0,0,,Thôi nào, em ấy xứng đáng được như vậy...
+Dialogue: 0,0:21:55.02,0:21:57.98,Default,,0,0,0,,{\i1}Chắc em ấy sẽ ngủ say\Nmột giấc dài lắm đây!{\i0}
+Dialogue: 0,0:22:03.19,0:22:04.24,Default,,0,0,0,,Nằm thế này một lát,
+Dialogue: 0,0:22:05.32,0:22:06.78,Default,,0,0,0,,chỉ mười phút thôi...
+Dialogue: 0,0:22:22.75,0:22:26.09,Default,,0,0,0,,Nia Liston : Honoka Inoue\NRinokis Funk : Fuka Izumi
+Dialogue: 0,0:22:26.38,0:22:29.72,Default,,0,0,0,,{\an9}Gandolph : Satoshi Hino\NAsuma Hinoki : Kazuyuki Okitsu
+Dialogue: 0,0:22:30.01,0:22:33.35,Default,,0,0,0,,Anzel : Taku Yashiro\NFressa : Yoko Hikasa
+Dialogue: 0,0:22:33.64,0:22:36.85,Default,,0,0,0,,{\an3}Hildetaura Altoire : Rina Honnizumi\NReliared Silver : Rina Hidaka
+Dialogue: 0,0:23:26.15,0:23:29.07,Default,,0,0,0,,Phụ đề Việt ngữ: Amtia(NOFACE)
+Dialogue: 0,0:23:40.71,0:23:43.29,Default,,0,0,0,,{\an8}Dịch thuật & Timer: Amtia(NOFACE)\NBiên tập & QC: Amtia(NOFACE)
+Dialogue: 0,0:23:44.63,0:23:47.55,Default,,0,0,0,,Sư phụ Nia ơi? Sư phụ!
+Dialogue: 0,0:23:47.71,0:23:49.30,Default,,0,0,0,,- Về nhà đi ông.\N- Sư ph...
+Dialogue: 0,0:23:50.47,0:23:53.35,Default,,0,0,0,,{\i1}Tập tiếp theo:\N"Kỳ nghỉ chẳng mấy thảnh thơi."{\i0}
+Dialogue: 0,0:23:50.88,0:23:54.30,Default,,0,0,0,,{\an8}TẬP TIẾP THEO:\N"KỲ NGHỈ CHẲNG MẤY THẢNH THƠI."
+
