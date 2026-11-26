@@ -49,6 +49,8 @@ Biết trước thế giới này sẽ phải đối mặt với vô số thảm
 | **Stefania Scaglione** | Trưởng ban Kỷ Luật kiêm Quyền Thánh Nữ | Mọi người | Tôi | Mọi người / Các em | Dịu dàng, chuẩn mực đức tin |
 | **Benito Evangelista** | Trưởng ban Lễ Nghi, mỹ nam kiêu ngạo, tài năng | Kẻ yếu / Kousuke | Ta / Tôi | Ngươi / Cậu | Tự cao, coi thường kẻ kém cỏi |
 | **Himemiya Shion** | Phó ban Lễ Nghi, phong thái Yamato Nadeshiko trang nhã | Monica / Benito | Tôi | Hội trưởng / Trưởng ban Benito | Lịch sự nhưng sắc bén |
+| **Mizumori Suzune** | Chị gái quá cố hơn Yukine 2 tuổi, thiên tài kiếm thuật katana lẫn ma pháp sư hạng nhất | Yukine | Chị | Em / Yukine | Dịu dàng, tin tưởng em gái là thiên tài; Yukine gọi `Chị Suzune / Suzune-neesan`, xưng `Em` |
+| **Fran & Hiệu trưởng** | Fran (cao thủ đồng trang lứa ngang hàng Shion/Yukine); Hiệu trưởng (sức mạnh sâu không thấy đáy) | Học sinh | Tôi / Ta | Các em | Nhân vật mạnh đứng đầu Học viện |
 
 ---
 
@@ -56,19 +58,27 @@ Biết trước thế giới này sẽ phải đối mặt với vô số thảm
 
 | Thuật ngữ gốc | Dịch chuẩn tiếng Việt | Giải thích ngữ cảnh |
 | :--- | :--- | :--- |
-| **Tsukuyomi Magic Academy** | Học viện Ma pháp Tsukiyomi | Nơi các pháp sư trẻ theo học |
+| **Tsukuyomi Magic Academy** | Học viện Ma pháp Tsukuyomi | Nơi các pháp sư trẻ theo học |
 | **Three Committees** | Tam Đại Ủy Ban / Tam Ban | Hội Học Sinh, Ban Kỷ Luật, Ban Lễ Nghi |
 | **Student Council** | Hội Học Sinh | Do Monica Mercedes von Mobius đứng đầu |
 | **Morals Committee** | Ban Kỷ Luật / Ủy ban Kỷ luật | Do Stefania Scaglione đứng đầu |
 | **Ceremonial Committee** | Ban Lễ Nghi | Do Benito Evangelista đứng đầu |
 | **Big Three** | Tam Đại Cao Thủ / Tam Cường | Ba học sinh mạnh nhất toàn trường |
 | **Water Dragon Princess** | Thủy Long Công Chúa | Danh hiệu của Mizumori Yukine nhờ ma pháp hệ Thủy tuyệt đỉnh |
+| **Goddess of War** | Chiến Thần Nữ | Biệt danh của Hội trưởng Monica |
 | **Acting Saint** | Quyền Thánh Nữ / Xử Lý Thánh Nữ | Danh xưng của Stefania Scaglione |
 | **Three Biggest Fanclubs** | Tam Đại Fanclub | Ba hội hâm mộ lớn nhất trường: MMM, SSS, LLL |
 | **MMM** | MMM (Monica, Majorly Monica) | Hội vệ sĩ của Hội trưởng Monica: "Monica Vạn Tuế" |
 | **SSS** | SSS (Stefania, Super Stefania) | Hội thánh kỵ sĩ của Stefania: "Stefania Siêu Cấp" |
 | **LLL** | LLL (Lovely Lovely Ludivine) | Hội hâm mộ Ludie: "Ludivine Đáng Yêu Vô Đối" |
 | **Tsukuyomi Traveler** | Tsukuyomi Traveler | Ứng dụng/thiết bị liên lạc học đường nội bộ |
+| **Ability Assessment** | Kỳ Đánh Giá Năng Lực | Kỳ thi tổng hợp (Lý thuyết, Thực hành, Chinh phục Hầm ngục) |
+| **Beginner Dungeon** | Hầm Ngục Tân Thủ | Hầm ngục 9 tầng có Tượng Nữ Thần ban kỹ năng khi phá đảo trong 2 giờ |
+| **Dayspring Labyrinth** | Mê Cung Bình Minh | Hầm ngục cá nhân đối đầu ảo ảnh của kẻ mạnh nhất/gây ám ảnh nhất |
+| **Dragon Vein** | Long Mạch | Cội nguồn ma lực khổng lồ |
+| **Kyohachi-ryu** | Phái Kyohachi-ryu (Kinh Bát Lưu) | Môn phái võ học sở hữu bí kỹ đặc biệt |
+| **Nine-Headed Dragon** | Cửu Đầu Long | Bí kỹ trấn phái đưa Yukine vào hàng ngũ Tam Cường |
+| **Flash** | Thiểm Quang | Kỹ năng bứt tốc chớp nhoáng của Kousuke |
 | **Mind's Eye** | Tâm Nhãn | Kỹ năng nhận thức ma lực và cảm nhận không gian vượt trội |
 | **Third Arm / Fourth Arm** | Cánh Tay Thứ Ba / Cánh Tay Thứ Tư | Kỹ năng điều khiển khăn choàng ma pháp như cánh tay phụ |
 | **Twilight Cave** | Hang Động Hoàng Hôn | Hầm ngục cày cấp solo thời kỳ đầu game |

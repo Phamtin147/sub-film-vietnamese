@@ -1,0 +1,397 @@
+﻿[Script Info]
+Title: Vietnamese Fansub by Amtia(NOFACE)
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+YCbCr Matrix: TV.601
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Segoe UI,21,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0.6,2,10,10,20,1
+Style: top,Segoe UI,21,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0.6,8,10,10,20,1
+Style: sign_8204_57_Night_Sky_Cave,Segoe UI,23,&H00FFFFFF,&H000000FF,&H00131319,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,234,234,52,1
+Style: sign_7422_35_Ability_Assessme,Segoe UI,23,&H00FFFFFF,&H000000FF,&H00131319,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,360,64,280,1
+Style: sign_10576_96__Beginner_Dungeo,Segoe UI,20,&H00FFFFFF,&H000000FF,&H00131319,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,162,168,50,1
+Style: sign_35245_386_Reborn_as_a_Side,Segoe UI,22,&H008400DA,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,0,14,290,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:07.12,0:00:11.24,Default,Yukine(M),0,0,0,,{\i1}Người đầu tiên khiến mình khó mà tin nổi\Nsự tồn tại của họ trên đời này,{\i0}
+Dialogue: 0,0:00:11.24,0:00:12.71,Default,Yukine(M),0,0,0,,{\i1}chính là chị gái mình.{\i0}
+Dialogue: 0,0:00:13.56,0:00:15.96,Default,Yukine(M),0,0,0,,{\i1}Chị ấy không chỉ là một ma pháp sư hạng nhất,{\i0}
+Dialogue: 0,0:00:15.96,0:00:18.16,Default,Yukine(M),0,0,0,,{\i1}mà còn là một cỗ máy võ thuật thực thụ.{\i0}
+Dialogue: 0,0:00:18.75,0:00:21.96,Default,Yukine(M),0,0,0,,{\i1}Thế nên mình lúc nào cũng bại dưới tay chị ấy.{\i0}
+Dialogue: 0,0:00:22.44,0:00:24.61,Default,Yukine(M),0,0,0,,{\i1}Chị hơn mình hai tuổi,{\i0}
+Dialogue: 0,0:00:24.61,0:00:27.80,Default,Yukine(M),0,0,0,,{\i1}nhưng mỗi khi được hỏi liệu hai năm sau\Nmình có đạt tới trình độ của chị ấy không,{\i0}
+Dialogue: 0,0:00:27.80,0:00:28.78,Default,Yukine(M),0,0,0,,{\i1}mình luôn hoài nghi.{\i0}
+Dialogue: 0,0:00:33.64,0:00:38.00,Default,Yukine(M),0,0,0,,{\i1}Thậm chí mình bắt đầu tin rằng cả đời này sẽ chẳng bao giờ đuổi kịp chị ấy.{\i0}
+Dialogue: 0,0:00:39.57,0:00:41.34,Default,Suzune,0,0,0,,Em là một thiên tài đấy, Yukine.
+Dialogue: 0,0:00:41.78,0:00:43.57,Default,Suzune,0,0,0,,Chị đảm bảo đấy.
+Dialogue: 0,0:00:45.53,0:00:48.90,Default,Yukine(M),0,0,0,,{\i1}Nhưng ngay từ khi còn rất nhỏ, mình đã nhận ra{\i0}
+Dialogue: 0,0:00:49.66,0:00:54.22,Default,Yukine(M),0,0,0,,{\i1}đó là bởi cha và mẹ đã dồn hết\Ntâm huyết để dìu dắt chị ấy.{\i0}
+Dialogue: 0,0:00:54.88,0:00:58.96,Default,Yukine(M),0,0,0,,{\i1}Mình nghĩ cả hai người đều đã phải lòng kiếm thuật của chị ấy.{\i0}
+Dialogue: 0,0:00:59.65,0:01:02.70,Default,Yukine(M),0,0,0,,{\i1}Lý do họ không còn để tâm tới mình nữa\Nrõ ràng đến mức đau lòng.{\i0}
+Dialogue: 0,0:01:03.41,0:01:08.38,Default,Yukine(M),0,0,0,,{\i1}Suy cho cùng, chính mình cũng là kẻ bị kiếm thuật của chị ấy mê hoặc nhất...{\i0}
+Dialogue: 0,0:01:09.22,0:01:10.64,Default,Yukine(M),0,0,0,,{\i1}Chị gái mình là một thiên tài.{\i0}
+Dialogue: 0,0:01:12.10,0:01:13.90,Default,Yukine(M),0,0,0,,{\i1}Về ma pháp thì có lẽ mình còn cơ hội,{\i0}
+Dialogue: 0,0:01:14.21,0:01:18.07,Default,Yukine(M),0,0,0,,{\i1}nhưng với thanh katana, mình sẽ không bao giờ vượt qua nổi chị ấy.{\i0}
+Dialogue: 0,0:01:20.57,0:01:23.65,Default,Yukine(M),0,0,0,,{\i1}Không phải mình nghĩ bản thân hoàn toàn vô năng,{\i0}
+Dialogue: 0,0:01:24.19,0:01:27.84,Default,Yukine(M),0,0,0,,{\i1}nhưng chính vì thế mà mình mới chọn cầm trường đao naginata.{\i0}
+Dialogue: 0,0:01:28.49,0:01:31.89,Default,Yukine(M),0,0,0,,{\i1}Bởi vì mình cũng có chút thiên tư với kiếm katana,{\i0}
+Dialogue: 0,0:01:31.89,0:01:35.10,Default,Yukine(M),0,0,0,,{\i1}nên mình càng thấm thía hơn nữa chị ấy kiệt xuất đến nhường nào.{\i0}
+Dialogue: 0,0:01:36.46,0:01:39.72,Default,Yukine(M),0,0,0,,{\i1}Đó là lần đầu tiên mình bỏ chạy...{\i0}
+Dialogue: 0,0:01:40.17,0:01:43.63,sign_8204_57_Night_Sky_Cave,SIGN,0,0,0,,{\fs20\pos(320,312)}Sáu tháng sau
+Dialogue: 0,0:01:54.85,0:01:57.01,Default,Suzune,0,0,0,,Chị không phải thiên tài đâu.
+Dialogue: 0,0:01:57.55,0:01:59.75,Default,Suzune,0,0,0,,Nếu em nhất quyết coi chị là thiên tài đến vậy,
+Dialogue: 0,0:01:59.75,0:02:01.33,Default,Suzune,0,0,0,,thì em cũng phải thừa nhận đi, Yukine.
+Dialogue: 0,0:02:02.26,0:02:05.53,Default,Suzune,0,0,0,,Em cũng là một thiên tài, nên hãy hướng tới đỉnh cao đó đi.
+Dialogue: 0,0:02:07.46,0:02:10.16,Default,Yukine,0,0,0,,Thay phần của chị sao...
+Dialogue: 0,0:03:42.49,0:03:45.62,Default,Ruija,0,0,0,,Vậy đó là cách Kỳ Đánh Giá Năng Lực\Ntại Học viện Ma pháp Tsukuyomi diễn ra
+Dialogue: 0,0:03:45.62,0:03:47.45,Default,Ruija,0,0,0,,trong suốt nhiều ngày liền.
+Dialogue: 0,0:03:44.49,0:03:47.45,sign_7422_35_Ability_Assessme,SIGN,0,0,0,,{\c&H574F29&\fs18\move(494,35,490,38,29,2948)}Đánh giá năng lực
+Dialogue: 0,0:03:44.49,0:03:47.45,sign_7422_35_Ability_Assessme,SIGN,0,0,0,,{\c&H574F29&\fs16\pos(389,191)}12/5 -\N16/5
+Dialogue: 0,0:03:44.49,0:03:47.45,sign_7422_35_Ability_Assessme,SIGN,0,0,0,,{\fs16\c&H574F29&\move(223,220,226,218,29,2948)}Lý thuyết
+Dialogue: 0,0:03:44.49,0:03:47.45,sign_7422_35_Ability_Assessme,SIGN,0,0,0,,{\c&H574F29&\fs16\move(135,220,141,217,29,2948)}Thực hành
+Dialogue: 0,0:03:44.49,0:03:47.45,sign_7422_35_Ability_Assessme,SIGN,0,0,0,,{\fs16\c&H574F29&\move(46,217,52,217,29,2948)}Hầm ngục
+Dialogue: 0,0:03:47.45,0:03:50.87,Default,Ruija,0,0,0,,Tổng điểm sẽ được tính từ hai bài thi\Nlý thuyết và thực hành,
+Dialogue: 0,0:03:50.87,0:03:52.46,Default,Ruija,0,0,0,,cộng thêm thành tích chinh phục hầm ngục.
+Dialogue: 0,0:03:52.46,0:03:56.34,Default,Ruija,0,0,0,,Vì đây là lần đầu tiên của các em,\Nnên có chút lo lắng cũng là chuyện thường.
+Dialogue: 0,0:03:56.34,0:03:58.46,Default,Ruija,0,0,0,,Bảng xếp hạng toàn trường sẽ được công bố công khai,
+Dialogue: 0,0:03:58.46,0:04:00.88,Default,Ruija,0,0,0,,nên các em hãy nhớ chuẩn bị thật chu đáo nhé.
+Dialogue: 0,0:04:04.39,0:04:05.68,Default,Katorina,0,0,0,,Này, Takioto.
+Dialogue: 0,0:04:05.68,0:04:07.68,Default,Katorina,0,0,0,,Tôi có chuyện muốn hỏi cậu.
+Dialogue: 0,0:04:08.26,0:04:11.43,Default,Katorina,0,0,0,,Mỗi lần cúp học, cậu rốt cuộc đi làm cái gì thế hả?
+Dialogue: 0,0:04:11.43,0:04:12.89,Default,Kousuke,0,0,0,,Ý cậu là sao?
+Dialogue: 0,0:04:12.89,0:04:14.85,Default,Kousuke,0,0,0,,Tôi đi chinh phục hầm ngục chứ gì nữa.
+Dialogue: 0,0:04:14.85,0:04:17.23,Default,Katorina,0,0,0,,Không, chắc chắn không chỉ có thế.
+Dialogue: 0,0:04:17.23,0:04:18.69,Default,Katorina,0,0,0,,Dạo này có khối tin đồn về cậu đấy.
+Dialogue: 0,0:04:18.69,0:04:20.69,Default,Nanami,0,0,0,,Xem ra có những kẻ sở hữu\Nquá nhiều thời gian rảnh rỗi rồi.
+Dialogue: 0,0:04:20.69,0:04:22.95,Default,Nanami,0,0,0,,Thưa chủ nhân, chắc chắn chúng là những sinh vật hạ đẳng
+Dialogue: 0,0:04:22.95,0:04:24.95,Default,Nanami,0,0,0,,chỉ có duy nhất kỹ năng nói xấu sau lưng người khác.
+Dialogue: 0,0:04:24.95,0:04:27.70,Default,Kousuke,0,0,0,,Đừng bao giờ nói câu đó trước mặt học sinh khác nhé.
+Dialogue: 0,0:04:27.70,0:04:29.08,Default,Ludie,0,0,0,,Tin đồn gì cơ?
+Dialogue: 0,0:04:29.08,0:04:33.12,Default,Katorina,0,0,0,,Nào là dùng thiết bị kỳ dị làm nghi lễ\Nthờ phụng ác quỷ,
+Dialogue: 0,0:04:33.12,0:04:35.92,Default,Katorina,0,0,0,,nào là dính líu tới một văn phòng mờ ám,
+Dialogue: 0,0:04:35.92,0:04:39.67,Default,Katorina,0,0,0,,hay lén lút buôn bán kem dưỡng da nhãn hiệu con cá...
+Dialogue: 0,0:04:39.67,0:04:41.42,Default,Kousuke,0,0,0,,Tôi nghĩ cũng không hẳn là bịa đặt hoàn toàn đâu.
+Dialogue: 0,0:04:41.42,0:04:42.88,Default,Katorina,0,0,0,,Hả?! Là thật luôn á?!
+Dialogue: 0,0:04:42.88,0:04:44.59,Default,Nanami,0,0,0,,Xem ra chúng ta vừa chốt được một đơn hàng rồi ạ.
+Dialogue: 0,0:04:44.59,0:04:46.89,Default,Nanami,0,0,0,,Hình như có một quý cô tóc hồng vừa vay tiền mua trả góp.
+Dialogue: 0,0:04:46.89,0:04:48.76,Default,Kousuke(M),0,0,0,,{\i1}Là cô Ruija chứ ai nữa!{\i0}
+Dialogue: 0,0:04:48.76,0:04:51.18,Default,Kousuke(M),0,0,0,,{\i1}Biết ngay mà, đáng ra mình nên trích tiền tiêu vặt cho cô ấy!{\i0}
+Dialogue: 0,0:04:51.18,0:04:52.02,Default,Kousuke,0,0,0,,À, nhớ ra rồi!
+Dialogue: 0,0:04:52.02,0:04:53.60,Default,Kousuke,0,0,0,,Tan học chúng ta cùng đi hầm ngục đi!
+Dialogue: 0,0:04:53.98,0:04:55.64,Default,Katorina,0,0,0,,Mắc gì tôi phải đi cùng cậu chứ?
+Dialogue: 0,0:04:56.40,0:04:57.40,Default,Kousuke,0,0,0,,Iori, cậu cũng đi cùng bọn mình nhé.
+Dialogue: 0,0:04:58.77,0:04:59.77,Default,Iori,0,0,0,,Tớ được đi cùng sao?
+Dialogue: 0,0:05:00.02,0:05:02.40,Default,Kousuke,0,0,0,,Tớ vốn rất muốn đi cùng cậu mà.
+Dialogue: 0,0:05:03.03,0:05:07.45,Default,Katorina,0,0,0,,Học sinh năm nhất không được phép\Ntự ý vào hầm ngục một mình đâu.
+Dialogue: 0,0:05:07.45,0:05:08.91,Default,Katorina,0,0,0,,Chẳng giáo viên nào chịu cấp phép cho cậu đâu.
+Dialogue: 0,0:05:08.91,0:05:10.87,Default,Kousuke,0,0,0,,Nhưng tôi xin được giấy phép trước rồi.
+Dialogue: 0,0:05:10.87,0:05:12.66,Default,Iori,0,0,0,,Đây là giấy phép của cô Ruija cấp mà!
+Dialogue: 0,0:05:12.66,0:05:14.58,Default,Katorina,0,0,0,,Đúng là cô giáo chủ nhiệm của tụi mình.
+Dialogue: 0,0:05:14.58,0:05:16.42,Default,Kousuke,0,0,0,,Tôi đảm bảo sẽ an toàn tuyệt đối.
+Dialogue: 0,0:05:16.42,0:05:18.92,Default,Kousuke,0,0,0,,Tôi cũng định nhờ một thành viên\NBan Kỷ Luật đi cùng nữa.
+Dialogue: 0,0:05:18.92,0:05:20.17,Default,Katorina,0,0,0,,Ban Kỷ Luật á?
+Dialogue: 0,0:05:20.17,0:05:21.63,Default,Kousuke,0,0,0,,Ludie, cậu cũng tham gia nhé?
+Dialogue: 0,0:05:21.96,0:05:24.17,Default,Kousuke,0,0,0,,Nghe nói dạo này ngày nào cậu cũng chạy bộ đúng không?
+Dialogue: 0,0:05:24.97,0:05:26.38,Default,Iori,0,0,0,,Tuyệt thật đấy.
+Dialogue: 0,0:05:26.38,0:05:28.64,Default,Katorina,0,0,0,,Hóa ra công chúa cũng chăm chỉ rèn luyện phết nhỉ.
+Dialogue: 0,0:05:28.64,0:05:30.51,Default,Katorina,0,0,0,,Mà sao Takioto lại biết chuyện đó được?
+Dialogue: 0,0:05:30.51,0:05:31.31,Default,Kousuke,0,0,0,,Cái đó thì...
+Dialogue: 0,0:05:32.56,0:05:34.89,Default,Katorina,0,0,0,,Thôi, có giấy phép rồi thì tôi cũng chẳng ngại.
+Dialogue: 0,0:05:34.89,0:05:37.02,Default,Iori,0,0,0,,Tớ cũng thế! Cảm ơn cậu nhé, Kousuke-kun!
+Dialogue: 0,0:05:37.23,0:05:39.15,Default,Kousuke,0,0,0,,Vậy chốt kèo nhé!
+Dialogue: 0,0:05:42.48,0:05:45.49,Default,Ludie,0,0,0,,Này, mong là lần này đi một cái hầm ngục bình thường thôi nhé.
+Dialogue: 0,0:05:45.49,0:05:46.86,Default,Kousuke,0,0,0,,Cậu khỏi phải lo chuyện đó.
+Dialogue: 0,0:05:46.86,0:05:48.95,Default,Kousuke(M),0,0,0,,{\i1}Chúng ta sẽ cần sức mạnh thực chiến cao hơn nữa{\i0}
+Dialogue: 0,0:05:48.95,0:05:51.33,Default,Kousuke(M),0,0,0,,{\i1}cho sự kiện trong game sắp tới.{\i0}
+Dialogue: 0,0:05:51.74,0:05:56.04,Default,Kousuke(M),0,0,0,,{\i1}Để chuẩn bị cho chuyện đó, mọi người phải sớm mạnh lên.{\i0}
+Dialogue: 0,0:05:52.24,0:05:53.83,top,Iori,0,0,0,,Rất hân hạnh được gặp chị.
+Dialogue: 0,0:05:53.83,0:05:56.04,top,Yukine,0,0,0,,Chị cũng rất vui được gặp em.
+Dialogue: 0,0:05:56.04,0:05:58.79,sign_10576_96__Beginner_Dungeo,SIGN,0,0,0,,[Hầm Ngục Tân Thủ - Tầng 1]
+Dialogue: 0,0:05:59.92,0:06:00.79,Default,Katorina,0,0,0,,Mồi ngon ăn!
+Dialogue: 0,0:06:00.79,0:06:01.59,Default,Iori,0,0,0,,Con này phần tớ!
+Dialogue: 0,0:06:05.05,0:06:06.80,Default,Yukine,0,0,0,,Hai em ấy đánh khá thật đấy.
+Dialogue: 0,0:06:06.80,0:06:09.51,Default,Kousuke,0,0,0,,Vâng, và khả năng cao họ sẽ còn mạnh hơn nữa.
+Dialogue: 0,0:06:09.84,0:06:13.01,Default,Kousuke,0,0,0,,Iori với Katorina ơi, hai cậu cứ mặc kệ\Nđám quái vật ở đây đi.
+Dialogue: 0,0:06:13.26,0:06:15.02,Default,Katorina,0,0,0,,Hả? Tại sao?
+Dialogue: 0,0:06:15.02,0:06:16.52,Default,Kousuke,0,0,0,,Vì chúng ta phải tăng tốc lên.
+Dialogue: 0,0:06:17.98,0:06:20.35,sign_10576_96__Beginner_Dungeo,SIGN,0,0,0,,{\pos(322,308)}[Tầng 5]
+Dialogue: 0,0:06:31.03,0:06:34.16,Default,Katorina,0,0,0,,Nãy giờ toàn chạy với chạy không à!
+Dialogue: 0,0:06:34.16,0:06:36.41,Default,Katorina,0,0,0,,Làm thế này thì có ý nghĩa gì cơ chứ?!
+Dialogue: 0,0:06:36.41,0:06:38.37,Default,Yukine,0,0,0,,Ludie, trông em vẫn còn sung sức nhỉ.
+Dialogue: 0,0:06:38.37,0:06:42.13,Default,Ludie,0,0,0,,Gần đây em mới được dạy rằng rèn luyện\Nthể lực bền bỉ mới là nền tảng gốc rễ.
+Dialogue: 0,0:06:43.34,0:06:44.88,Default,Iori,0,0,0,,Mọi người ai cũng trâu bò quá...
+Dialogue: 0,0:06:44.88,0:06:47.30,Default,Kousuke,0,0,0,,Nhưng cậu cũng theo kịp bọn mình ngon ơ còn gì.
+Dialogue: 0,0:06:47.30,0:06:49.09,Default,Iori,0,0,0,,Đúng thật! Cảm ơn nhé!
+Dialogue: 0,0:06:49.09,0:06:51.59,sign_10576_96__Beginner_Dungeo,SIGN,0,0,0,,{\fad(1,458)\pos(322,309)}[Tầng 9]
+Dialogue: 0,0:06:51.43,0:06:52.55,top,Nanami,0,0,0,,Chúng ta tới kịp giờ rồi.
+Dialogue: 0,0:06:55.10,0:06:55.93,Default,Yukine,0,0,0,,Hả?
+Dialogue: 0,0:06:55.93,0:06:57.52,Default,Katorina,0,0,0,,Vẫn chưa xong nữa à?!
+Dialogue: 0,0:06:57.85,0:07:01.69,Default,Nanami,0,0,0,,Nếu gặp ngã tư,\Nchúng ta rẽ Bắc, Tây, Tây, Nam.
+Dialogue: 0,0:07:01.69,0:07:05.77,Default,Nanami,0,0,0,,Còn nếu gặp ngã ba,\Nchúng ta đi Nam, Nam, Đông, Nam, Đông, Bắc.
+Dialogue: 0,0:07:05.77,0:07:06.73,Default,Kousuke,0,0,0,,Rõ rồi!
+Dialogue: 0,0:07:07.44,0:07:09.24,Default,Ludie,0,0,0,,Ờm, Kousuke ơi?
+Dialogue: 0,0:07:19.20,0:07:22.17,Default,Nanami,0,0,0,,Thưa chủ nhân, mất 1 tiếng 58 phút ạ.
+Dialogue: 0,0:07:22.17,0:07:24.46,Default,Kousuke,0,0,0,,Còn dư đúng hai phút. Suýt chút nữa thì trễ.
+Dialogue: 0,0:07:24.75,0:07:26.21,Default,Katorina,0,0,0,,Thật luôn á?
+Dialogue: 0,0:07:26.21,0:07:27.34,Default,Iori,0,0,0,,Một chiêu hạ gục luôn?!
+Dialogue: 0,0:07:30.55,0:07:35.64,Default,GoddessStatue,0,0,0,,Các ngươi đã làm rất tốt khi đánh bại cái ác\Nvà đứng trước mặt ta.
+Dialogue: 0,0:07:36.14,0:07:39.52,Default,GoddessStatue,0,0,0,,Ta sẽ ban tặng một kỹ năng để khen thưởng chiến tích của các ngươi.
+Dialogue: 0,0:07:41.60,0:07:43.69,Default,Katorina,0,0,0,,Này, vừa rồi là cái quái gì thế?!
+Dialogue: 0,0:07:43.69,0:07:44.86,Default,Katorina,0,0,0,,Giải thích cho tụi này nghe mau!
+Dialogue: 0,0:07:45.19,0:07:48.07,Default,Iori,0,0,0,,Tụi mình được nhận kỹ năng dễ dàng\Nđến thế này thật sao?!
+Dialogue: 0,0:07:48.07,0:07:48.98,Default,Iori,0,0,0,,Kousuke-kun?!
+Dialogue: 0,0:07:49.23,0:07:53.95,Default,Nanami,0,0,0,,Đây là bảng tổng hợp tám sơ đồ mê cung
+Dialogue: 0,0:07:54.28,0:07:57.91,Default,Nanami,0,0,0,,cùng năm kỹ năng có thể nhận được\Ntừ Tượng Nữ Thần.
+Dialogue: 0,0:07:58.29,0:07:59.62,Default,Nanami,0,0,0,,Xin hãy tận dụng nó thật tốt.
+Dialogue: 0,0:08:00.33,0:08:02.41,Default,Iori,0,0,0,,Quý giá quá rồi, tớ không dám nhận đâu.
+Dialogue: 0,0:08:02.71,0:08:05.63,Default,Katorina,0,0,0,,Đúng đấy, thứ này đâu phải đồ muốn cho ai thì cho!
+Dialogue: 0,0:08:05.63,0:08:08.09,Default,Kousuke,0,0,0,,Thì tôi chỉ hy vọng tất cả chúng ta cùng mạnh lên thôi.
+Dialogue: 0,0:08:08.09,0:08:09.00,Default,Katorina,0,0,0,,Hả?!
+Dialogue: 0,0:08:09.51,0:08:10.26,Default,Nanami,0,0,0,,Mời nhận lấy ạ.
+Dialogue: 0,0:08:13.13,0:08:15.64,Default,Ludie,0,0,0,,Kể cả có muốn cả nhóm cùng mạnh lên đi nữa,
+Dialogue: 0,0:08:15.64,0:08:17.72,Default,Ludie,0,0,0,,Kousuke đúng là kỳ lạ thật, chị nhỉ?
+Dialogue: 0,0:08:18.39,0:08:19.81,Default,Ludie,0,0,0,,Chị Yukine?
+Dialogue: 0,0:08:24.69,0:08:27.56,Default,Yukine(M),0,0,0,,{\i1}Người đầu tiên khiến mình khó mà tin nổi\Nsự tồn tại của họ,{\i0}
+Dialogue: 0,0:08:27.56,0:08:28.32,Default,Yukine(M),0,0,0,,{\i1}chính là chị gái mình.{\i0}
+Dialogue: 0,0:08:28.94,0:08:31.40,Default,Yukine(M),0,0,0,,{\i1}Chuyện đó lại lặp lại khi mình bước chân vào Học viện.{\i0}
+Dialogue: 0,0:08:31.40,0:08:34.15,Default,Yukine(M),0,0,0,,{\i1}Ở đây mình gặp Hội trưởng Monica,\Nngười mang danh hiệu Chiến Thần Nữ,{\i0}
+Dialogue: 0,0:08:34.15,0:08:36.57,Default,Yukine(M),0,0,0,,{\i1}và cô Hiệu trưởng sở hữu sức mạnh dường như vô tận...{\i0}
+Dialogue: 0,0:08:37.41,0:08:41.70,Default,Yukine(M),0,0,0,,{\i1}Mình cứ ngỡ sẽ chẳng còn ai khác\Nđủ sức khiến mình kinh ngạc nữa.{\i0}
+Dialogue: 0,0:08:42.16,0:08:44.79,Default,Yukine(M),0,0,0,,{\i1}Rồi một ngày nào đó, mình sẽ bắt kịp họ.{\i0}
+Dialogue: 0,0:08:44.79,0:08:46.67,Default,Yukine(M),0,0,0,,{\i1}Mình đã nỗ lực không ngừng với niềm tin ấy.{\i0}
+Dialogue: 0,0:08:47.79,0:08:48.29,Default,Yukine(M),0,0,0,,{\i1}Thế nhưng...{\i0}
+Dialogue: 0,0:08:49.34,0:08:53.09,Default,Yukine(M),0,0,0,,{\i1}Takioto Kousuke lại xuất hiện, một đàn em nhỏ tuổi hơn mình.{\i0}
+Dialogue: 0,0:08:55.13,0:08:56.68,Default,Yukine(M),0,0,0,,{\i1}Cậu ấy không hề tầm thường,{\i0}
+Dialogue: 0,0:08:57.51,0:08:59.35,Default,Yukine(M),0,0,0,,{\i1}cả về thể chất lẫn tinh thần.{\i0}
+Dialogue: 0,0:08:59.35,0:09:01.64,Default,Yukine(M),0,0,0,,{\i1}Sẽ chẳng ngoa chút nào nếu ví lượng ma lực{\i0}
+Dialogue: 0,0:09:02.06,0:09:06.19,Default,Yukine(M),0,0,0,,{\i1}tăng trưởng không ngừng của cậu ấy với\Ncội nguồn ma lực, "Long Mạch".{\i0}
+Dialogue: 0,0:09:06.65,0:09:11.78,Default,Yukine(M),0,0,0,,{\i1}Khi biết cậu ấy không thể thi triển ma pháp phóng thích,\Nmình đã thở phào nhẹ nhõm...{\i0}
+Dialogue: 0,0:09:13.24,0:09:15.61,Default,Yukine(M),0,0,0,,{\i1}Mình vẫn nhớ như in ngày hôm đó.{\i0}
+Dialogue: 0,0:09:16.53,0:09:18.28,Default,Yukine(M),0,0,0,,{\i1}Khi cậu ấy tới hỏi chuyện về vũ khí,{\i0}
+Dialogue: 0,0:09:18.28,0:09:20.70,Default,Yukine(M),0,0,0,,{\i1}mình đã đưa một thanh katana và quan sát cậu ấy vung kiếm.{\i0}
+Dialogue: 0,0:09:21.37,0:09:25.66,Default,Yukine(M),0,0,0,,{\i1}Có lẽ do từng chứng kiến chị gái nên tiêu chuẩn\Ncủa mình hơi cao,{\i0}
+Dialogue: 0,0:09:26.00,0:09:29.00,Default,Yukine(M),0,0,0,,{\i1}nhưng lúc đó mình đã tự nhủ cậu ấy chẳng có chút thiên tư nào.{\i0}
+Dialogue: 0,0:09:30.38,0:09:33.96,Default,Yukine(M),0,0,0,,{\i1}Ấy vậy mà chỉ vài ngày sau, cậu ấy khiến mình chấn động.{\i0}
+Dialogue: 0,0:09:34.72,0:09:39.34,Default,Yukine(M),0,0,0,,{\i1}Những nhát chém của cậu ấy sắc bén như thể\Nđã khổ luyện suốt nhiều năm trời...{\i0}
+Dialogue: 0,0:09:42.51,0:09:46.89,Default,Yukine(M),0,0,0,,{\i1}Có khi cậu ấy còn học được một trong những\Nbí kỹ thất truyền của phái Kyohachi-ryu.{\i0}
+Dialogue: 0,0:09:47.44,0:09:50.77,Default,Yukine(M),0,0,0,,{\i1}Cái tuyệt kỹ quái dị tới mức{\i0}
+Dialogue: 0,0:09:50.77,0:09:53.11,Default,Yukine(M),0,0,0,,{\i1}người ta bảo ngay cả chị gái mình cũng không tài nào lĩnh hội nổi.{\i0}
+Dialogue: 0,0:10:05.37,0:10:06.66,Default,Kousuke,0,0,0,,Tiền bối ơi?
+Dialogue: 0,0:10:08.54,0:10:11.21,Default,Kousuke,0,0,0,,Ờm, có chuyện gì xảy ra sao ạ?
+Dialogue: 0,0:10:12.42,0:10:14.00,Default,Yukine,0,0,0,,Sao em lại nghĩ vậy?
+Dialogue: 0,0:10:14.00,0:10:19.38,Default,Kousuke,0,0,0,,À thì... em thấy đường đao naginata của chị\Nkhông đẹp mắt như mọi khi.
+Dialogue: 0,0:10:20.55,0:10:22.60,Default,Yukine,0,0,0,,Không đẹp mắt... sao?
+Dialogue: 0,0:10:22.60,0:10:24.35,Default,Kousuke,0,0,0,,Chị đang có tâm sự gì ạ?
+Dialogue: 0,0:10:24.35,0:10:26.81,Default,Yukine,0,0,0,,Chị đang suy nghĩ chút chuyện thôi.
+Dialogue: 0,0:10:27.18,0:10:28.60,Default,Yukine,0,0,0,,Kỳ lạ thật.
+Dialogue: 0,0:10:28.60,0:10:32.06,Default,Yukine,0,0,0,,Bình thường chị vốn không nên kể chuyện này với em,
+Dialogue: 0,0:10:32.06,0:10:34.27,Default,Yukine,0,0,0,,nhưng một phần trong chị lại rất muốn nói ra...
+Dialogue: 0,0:10:34.65,0:10:38.65,Default,Yukine,0,0,0,,Và chị có cảm giác mình sẽ tìm ra\Ncâu trả lời mà bấy lâu nay vẫn kiếm tìm.
+Dialogue: 0,0:10:39.03,0:10:41.74,Default,Yukine,0,0,0,,Câu trả lời về việc chị có thể trở nên mạnh đến nhường nào...
+Dialogue: 0,0:10:42.37,0:10:46.29,Default,Yukine,0,0,0,,Có một người chị luôn coi là mục tiêu,\Nmột người chị từng nghĩ cả đời chẳng thể vượt qua.
+Dialogue: 0,0:10:46.95,0:10:49.71,Default,Yukine,0,0,0,,Chính là chị gái của chị.
+Dialogue: 0,0:10:50.17,0:10:51.38,Default,Yukine,0,0,0,,Nhưng chị ấy từng nói:
+Dialogue: 0,0:10:51.38,0:10:53.71,Default,Yukine,0,0,0,,"Yukine, em có thể trở thành người mạnh nhất thế gian.
+Dialogue: 0,0:10:54.09,0:10:56.55,Default,Yukine,0,0,0,,Vậy nên hãy vươn tới đỉnh cao đó thay chị nhé."
+Dialogue: 0,0:10:56.92,0:10:58.67,Default,Yukine,0,0,0,,Và chị đã lỡ hứa rằng mình sẽ làm được...
+Dialogue: 0,0:10:59.13,0:11:02.51,Default,Kousuke,0,0,0,,Em tin chị hoàn toàn có thể trở thành số một thế giới.
+Dialogue: 0,0:11:02.51,0:11:04.43,Default,Kousuke,0,0,0,,Cơ mà em sẽ cản đường chị đấy nhé.
+Dialogue: 0,0:11:05.56,0:11:07.68,Default,Yukine,0,0,0,,Nghe chị nói hết đã nào.
+Dialogue: 0,0:11:07.68,0:11:11.44,Default,Yukine,0,0,0,,Dù sao đi nữa, năm tháng trôi qua và chị cũng trưởng thành hơn,
+Dialogue: 0,0:11:11.44,0:11:13.61,Default,Yukine,0,0,0,,nhưng chị gái vẫn luôn đi trước chị một bước.
+Dialogue: 0,0:11:14.44,0:11:17.15,Default,Yukine,0,0,0,,Ngay cả khi chị ấy không còn trên cõi đời này nữa...
+Dialogue: 0,0:11:19.07,0:11:20.74,Default,Kousuke(M),0,0,0,,{\i1}Vì trong game không đề cập kỹ chuyện này,{\i0}
+Dialogue: 0,0:11:20.74,0:11:22.11,Default,Kousuke(M),0,0,0,,{\i1}nên mình chẳng rõ chi tiết ra sao,{\i0}
+Dialogue: 0,0:11:22.11,0:11:24.49,Default,Kousuke(M),0,0,0,,{\i1}nhưng chị gái của tiền bối đã qua đời từ trước.{\i0}
+Dialogue: 0,0:11:24.74,0:11:27.99,Default,Yukine,0,0,0,,Dẫu vậy, chị vẫn tiếp tục rèn luyện\Nvà bước chân vào ngôi trường này.
+Dialogue: 0,0:11:27.99,0:11:30.87,Default,Yukine,0,0,0,,Khi chứng kiến Hội trưởng Monica và cô Hiệu trưởng,\Nchị đã ngộ ra một điều.
+Dialogue: 0,0:11:32.12,0:11:35.88,Default,Yukine,0,0,0,,Chị phần nào hiểu rằng mọi người đang kỳ vọng vào mình.
+Dialogue: 0,0:11:35.88,0:11:38.76,Default,Yukine,0,0,0,,Một số người, như em chẳng hạn, còn nói thẳng trước mặt chị.
+Dialogue: 0,0:11:39.59,0:11:45.05,Default,Yukine,0,0,0,,Nhưng chị luôn tự hỏi liệu bản thân\Ncố gắng đến mấy có đáp ứng được kỳ vọng đó không.
+Dialogue: 0,0:11:45.76,0:11:50.89,Default,Yukine,0,0,0,,Ôm ấp lời dặn của chị gái, chị cứ cố gắng mạnh lên mãi,\Nnhưng mà...
+Dialogue: 0,0:11:51.35,0:11:53.40,Default,Kousuke,0,0,0,,Tiền bối, nếu chị không phiền...
+Dialogue: 0,0:11:54.15,0:11:56.36,Default,Kousuke,0,0,0,,Có thể lời này hơi ngạo mạn một chút,
+Dialogue: 0,0:11:56.82,0:11:59.11,Default,Kousuke,0,0,0,,nên em muốn nghe lại chính miệng chị nói.
+Dialogue: 0,0:11:59.57,0:12:01.49,Default,Kousuke,0,0,0,,Chị có muốn trở nên mạnh hơn nữa không?
+Dialogue: 0,0:12:03.86,0:12:04.99,Default,Yukine,0,0,0,,Chị có thể làm được sao?
+Dialogue: 0,0:12:07.33,0:12:09.58,Default,Kousuke,0,0,0,,Hai chị em mình cùng đi hầm ngục nhé.
+Dialogue: 0,0:12:13.75,0:12:22.42,sign_10576_96__Beginner_Dungeo,SIGN,0,0,0,,{\fad(546,1)}[Mê Cung Bình Minh]
+Dialogue: 0,0:12:14.42,0:12:19.42,top,Yukine,0,0,0,,Gọi là Mê Cung Bình Minh,\Nnhưng trông có giống mê cung chút nào đâu.
+Dialogue: 0,0:12:19.42,0:12:22.42,top,Kousuke,0,0,0,,Thật ra, nơi này đích thực là một mê cung đấy ạ.
+Dialogue: 0,0:12:22.80,0:12:25.93,Default,Kousuke,0,0,0,,Ở đây, chị phải tự chinh phục mê cung của chính lòng mình.
+Dialogue: 0,0:12:26.43,0:12:28.31,Default,Yukine,0,0,0,,Mê cung của chính chị sao?
+Dialogue: 0,0:12:28.60,0:12:32.35,Default,Kousuke,0,0,0,,Tùy vào từng người mà nó có thể rất khó hoặc rất dễ.
+Dialogue: 0,0:12:33.23,0:12:35.73,Default,Kousuke,0,0,0,,Theo một nghĩa nào đó, chị sẽ được chạm trán với kẻ mạnh nhất.
+Dialogue: 0,0:12:37.23,0:12:38.86,Default,Kousuke,0,0,0,,Nghe kỳ lạ đúng không ạ?
+Dialogue: 0,0:12:38.86,0:12:43.15,Default,Kousuke,0,0,0,,Có thể tiến vào theo tổ đội,\Nnhưng mỗi người sẽ phải tự thân chiến đấu.
+Dialogue: 0,0:12:43.53,0:12:45.78,Default,Yukine,0,0,0,,Ý em là cùng xuất phát theo nhóm,
+Dialogue: 0,0:12:45.78,0:12:49.28,Default,Yukine,0,0,0,,nhưng từng người lại đối đầu với một con quái vật riêng biệt sao?
+Dialogue: 0,0:12:50.58,0:12:52.95,Default,Kousuke,0,0,0,,Vâng. Nếu đánh bại được trùm của mình,
+Dialogue: 0,0:12:52.95,0:12:58.21,Default,Kousuke,0,0,0,,thì có thể chạy sang hội quân và hỗ trợ đồng đội.
+Dialogue: 0,0:12:58.21,0:13:01.67,Default,Kousuke,0,0,0,,Xem ra tới đây chúng ta phải tách nhau ra rồi.
+Dialogue: 0,0:13:02.05,0:13:03.26,Default,Yukine,0,0,0,,Được rồi.
+Dialogue: 0,0:13:03.26,0:13:05.93,Default,Kousuke,0,0,0,,Tiền bối, em muốn chị ghi nhớ một điều.
+Dialogue: 0,0:13:05.93,0:13:06.68,Default,Yukine,0,0,0,,Điều gì thế?
+Dialogue: 0,0:13:07.01,0:13:09.14,Default,Kousuke,0,0,0,,Kẻ địch mà chị sắp đối mặt trong kia...
+Dialogue: 0,0:13:09.14,0:13:11.06,Default,Kousuke,0,0,0,,không phải là bức tường bất khả chiến bại đâu.
+Dialogue: 0,0:13:11.31,0:13:13.27,Default,Kousuke,0,0,0,,Em biết chắc chắn chị sẽ thắng.
+Dialogue: 0,0:13:13.27,0:13:14.18,Default,Yukine,0,0,0,,Chị thắng được sao?
+Dialogue: 0,0:13:14.64,0:13:18.23,Default,Kousuke,0,0,0,,Vâng, có thể chị vẫn còn thiếu tự tin vào bản thân.
+Dialogue: 0,0:13:18.23,0:13:19.61,Default,Kousuke,0,0,0,,Nhưng chị chắc chắn sẽ thắng.
+Dialogue: 0,0:13:20.32,0:13:21.94,Default,Kousuke,0,0,0,,Xin chị hãy tin em!
+Dialogue: 0,0:13:22.15,0:13:23.99,Default,Kousuke,0,0,0,,Nếu chị không làm nổi mà lỡ gặp chuyện chẳng lành,
+Dialogue: 0,0:13:23.99,0:13:26.45,Default,Kousuke,0,0,0,,em sẽ chăm sóc cho chị suốt phần đời còn lại.
+Dialogue: 0,0:13:26.74,0:13:29.83,Default,Kousuke,0,0,0,,Nên chị cố tình thua cũng chẳng sao đâu nhé.
+Dialogue: 0,0:13:30.91,0:13:33.20,Default,Kousuke,0,0,0,,Em vào trước đây.
+Dialogue: 0,0:13:48.09,0:13:49.01,Default,Yukine,0,0,0,,Ai đó?
+Dialogue: 0,0:13:50.22,0:13:51.22,Default,Yukine,0,0,0,,Là mình sao?
+Dialogue: 0,0:13:51.85,0:13:52.85,Default,Yukine,0,0,0,,Cầm thanh katana ư?
+Dialogue: 0,0:13:57.06,0:13:58.60,Default,Yukine,0,0,0,,Sao có thể...
+Dialogue: 0,0:13:59.31,0:14:01.90,Default,Yukine,0,0,0,,Chị Suzune?!
+Dialogue: 0,0:14:03.53,0:14:06.90,Default,Kousuke(M),0,0,0,,{\i1}Hầm ngục này khác hẳn những nơi khác,{\i0}
+Dialogue: 0,0:14:06.90,0:14:09.91,Default,Kousuke(M),0,0,0,,{\i1}mỗi người chỉ phải đối mặt với đúng một con quái vật.{\i0}
+Dialogue: 0,0:14:09.91,0:14:12.95,Default,Kousuke(M),0,0,0,,{\i1}Ngươi sẽ phải giao chiến với kẻ mà ngươi tin là mạnh nhất,{\i0}
+Dialogue: 0,0:14:12.95,0:14:15.54,Default,Kousuke(M),0,0,0,,{\i1}hoặc người đã khắc sâu vết thương tâm lý lớn nhất cho ngươi.{\i0}
+Dialogue: 0,0:14:16.20,0:14:19.96,Default,Kousuke(M),0,0,0,,{\i1}Khả năng cao tiền bối sẽ phải đối đầu với chính chị gái mình.{\i0}
+Dialogue: 0,0:14:19.96,0:14:21.42,Default,Kousuke(M),0,0,0,,{\i1}Chuyện đó hoàn toàn hợp lý.{\i0}
+Dialogue: 0,0:14:22.50,0:14:25.30,Default,Kousuke(M),0,0,0,,{\i1}Còn về phần mình, chắc chắn sẽ là cậu ta...{\i0}
+Dialogue: 0,0:14:26.51,0:14:27.88,Default,Kousuke(M),0,0,0,,{\i1}Đúng không nào?{\i0}
+Dialogue: 0,0:14:28.51,0:14:29.55,Default,Kousuke(M),0,0,0,,{\i1}Iori!{\i0}
+Dialogue: 0,0:14:34.60,0:14:36.68,Default,Kousuke,0,0,0,,Tớ tới đây, Iori!
+Dialogue: 0,0:14:40.44,0:14:42.73,Default,Kousuke,0,0,0,,Ồ, cậu xài cả ma pháp luôn à?!
+Dialogue: 0,0:14:43.27,0:14:44.61,Default,Kousuke(M),0,0,0,,{\i1}Cũng đúng như dự đoán thôi.{\i0}
+Dialogue: 0,0:14:44.61,0:14:46.53,Default,Kousuke(M),0,0,0,,{\i1}Cậu ta chính là hiện thân của tiềm năng vô hạn,{\i0}
+Dialogue: 0,0:14:46.53,0:14:48.99,Default,Kousuke(M),0,0,0,,{\i1}nhân vật chính của MagiEx, Hijiri Iori!{\i0}
+Dialogue: 0,0:14:49.53,0:14:50.66,Default,Kousuke,0,0,0,,Vậy chiêu này thì sao!
+Dialogue: 0,0:14:54.45,0:14:55.33,Default,Kousuke,0,0,0,,Đỉnh đấy!
+Dialogue: 0,0:14:59.62,0:15:02.17,Default,Kousuke(M),0,0,0,,{\i1}Hijiri Iori sở hữu tiềm năng không giới hạn.{\i0}
+Dialogue: 0,0:15:02.71,0:15:07.42,Default,Kousuke(M),0,0,0,,{\i1}Cậu ta có thể chuyên sâu chỉ số thể chất\Nđể trở thành bậc thầy cận chiến,{\i0}
+Dialogue: 0,0:15:07.42,0:15:11.09,Default,Kousuke(M),0,0,0,,{\i1}hoặc chuyên sâu ma pháp để trở thành\Ncao thủ đánh tầm xa.{\i0}
+Dialogue: 0,0:15:11.72,0:15:13.93,Default,Kousuke,0,0,0,,Đúng là mạnh thật đấy, nhưng...
+Dialogue: 0,0:15:14.30,0:15:17.56,Default,Kousuke,0,0,0,,"Hijiri Iori" mà tôi biết đâu có yếu ớt thế này!
+Dialogue: 0,0:15:17.97,0:15:21.23,Default,Kousuke(M),0,0,0,,{\i1}Phải rồi. Đời nào cậu ta lại yếu đến mức này.{\i0}
+Dialogue: 0,0:15:21.56,0:15:23.36,Default,Kousuke(M),0,0,0,,{\i1}Nếu chỉ xét riêng về tiềm năng,{\i0}
+Dialogue: 0,0:15:23.36,0:15:28.49,Default,Kousuke(M),0,0,0,,{\i1}người duy nhất bì kịp tốc độ học ma pháp\Ncủa cậu ta chỉ có Nanami mà thôi.{\i0}
+Dialogue: 0,0:15:28.74,0:15:29.78,Default,Kousuke,0,0,0,,Nhưng...
+Dialogue: 0,0:15:29.78,0:15:32.07,Default,Kousuke,0,0,0,,Tôi sở hữu thứ sức mạnh mà cậu ta không có!
+Dialogue: 0,0:15:32.32,0:15:34.41,Default,Kousuke(M),0,0,0,,{\i1}Iori ngoài đời thực còn mạnh hơn gấp bội.{\i0}
+Dialogue: 0,0:15:34.91,0:15:37.49,Default,Kousuke(M),0,0,0,,{\i1}Cậu ấy sẽ ngày càng mạnh lên rồi đứng trước mặt mình!{\i0}
+Dialogue: 0,0:15:39.16,0:15:42.75,Default,Kousuke(M),0,0,0,,{\i1}Vậy thì... mình có thể chấp nhận thua trước cái bóng này sao?{\i0}
+Dialogue: 0,0:15:42.75,0:15:45.96,Default,Kousuke(M),0,0,0,,{\i1}Nếu muốn đối mặt với một đối thủ vượt xa cả tên này,{\i0}
+Dialogue: 0,0:15:45.96,0:15:48.05,Default,Kousuke(M),0,0,0,,{\i1}mới chừng đây đã đủ rồi ư?!{\i0}
+Dialogue: 0,0:15:48.71,0:15:50.26,Default,Kousuke,0,0,0,,Dĩ nhiên là không!
+Dialogue: 0,0:15:54.47,0:15:57.51,Default,Kousuke(M),0,0,0,,{\i1}Áp đảo tuyệt đối!\NPhải là một chiến thắng áp đảo hoàn toàn!{\i0}
+Dialogue: 0,0:15:57.81,0:15:59.89,Default,Kousuke(M),0,0,0,,{\i1}Ngươi chỉ là cái bóng của Iori!{\i0}
+Dialogue: 0,0:15:59.89,0:16:01.35,Default,Kousuke(M),0,0,0,,{\i1}Ngươi không phải Iori.{\i0}
+Dialogue: 0,0:16:01.35,0:16:04.94,Default,Kousuke(M),0,0,0,,{\i1}Người mà mình hướng tới là Hijiri Iori phiên bản mạnh nhất!{\i0}
+Dialogue: 0,0:16:12.24,0:16:13.49,Default,Kousuke(M),0,0,0,,{\i1}Lúc này tốc độ còn hơi chậm!{\i0}
+Dialogue: 0,0:16:13.49,0:16:15.28,Default,Kousuke(M),0,0,0,,{\i1}Nhưng vô cùng vững chắc!{\i0}
+Dialogue: 0,0:16:15.28,0:16:17.62,Default,Kousuke(M),0,0,0,,{\i1}Đó chính là đà trưởng thành hiện tại của Iori!{\i0}
+Dialogue: 0,0:16:19.58,0:16:22.29,Default,Kousuke(M),0,0,0,,{\i1}Hiện tại chắc chắn mình đang mạnh hơn.{\i0}
+Dialogue: 0,0:16:22.29,0:16:24.54,Default,Kousuke(M),0,0,0,,{\i1}Phải, trong một khoảng thời gian nữa mình vẫn sẽ mạnh hơn.{\i0}
+Dialogue: 0,0:16:24.54,0:16:27.71,Default,Kousuke(M),0,0,0,,{\i1}Nhưng chẳng bao lâu nữa Iori sẽ bứt phá\Nvượt mặt mình với tốc độ kinh hoàng.{\i0}
+Dialogue: 0,0:16:27.71,0:16:30.26,Default,Kousuke(M),0,0,0,,{\i1}Thậm chí nếu cậu ấy không làm được thế thì mình mới gay go.{\i0}
+Dialogue: 0,0:16:30.26,0:16:33.80,Default,Kousuke(M),0,0,0,,{\i1}Điều đó là tối cần thiết để dẫn dắt toàn bộ nữ chính\Ntới kết cục có hậu.{\i0}
+Dialogue: 0,0:16:33.80,0:16:36.55,Default,Kousuke(M),0,0,0,,{\i1}Và bản thân mình cũng phải mạnh hơn nữa!{\i0}
+Dialogue: 0,0:16:38.10,0:16:39.22,Default,Kousuke,0,0,0,,Thiểm Quang!
+Dialogue: 0,0:16:49.27,0:16:50.98,Default,Kousuke,0,0,0,,Ngươi không phải là Iori.
+Dialogue: 0,0:16:51.40,0:16:52.99,Default,Kousuke,0,0,0,,Đi tìm tiền bối thôi.
+Dialogue: 0,0:16:58.53,0:17:04.00,Default,Yukine(M),0,0,0,,{\i1}Một trong những ký ức đầu đời của mình là\Nmình không tài nào thắng nổi chị Suzune.{\i0}
+Dialogue: 0,0:17:04.50,0:17:07.79,Default,Yukine(M),0,0,0,,{\i1}Bất kể làm gì, hay thử đi thử lại bao nhiêu lần,\Nmình vẫn không thể thắng.{\i0}
+Dialogue: 0,0:17:08.21,0:17:11.50,Default,Yukine(M),0,0,0,,{\i1}Ngay từ thuở bé mình đã ngưỡng mộ chị ấy,{\i0}
+Dialogue: 0,0:17:11.50,0:17:14.72,Default,Yukine(M),0,0,0,,{\i1}có lẽ một phần cũng vì khoảng cách tuổi tác.{\i0}
+Dialogue: 0,0:17:15.43,0:17:19.22,Default,Yukine(M),0,0,0,,{\i1}Nhưng chẳng mất bao lâu để mình nhận ra\Nđó hoàn toàn là nhờ thiên phú của chị ấy.{\i0}
+Dialogue: 0,0:17:19.22,0:17:23.77,Default,Yukine(M),0,0,0,,{\i1}Kể từ khoảnh khắc đó, mình đã tin chắc rằng\Nmình sẽ chẳng bao giờ vượt qua được chị.{\i0}
+Dialogue: 0,0:17:24.56,0:17:27.94,Default,Yukine(M),0,0,0,,{\i1}Và như thể để chứng minh niềm tin ấy là đúng,{\i0}
+Dialogue: 0,0:17:27.94,0:17:31.02,Default,Yukine(M),0,0,0,,{\i1}mình chưa bao giờ đánh bại chị ấy dù chỉ một lần.{\i0}
+Dialogue: 0,0:17:33.61,0:17:35.78,Default,Yukine(M),0,0,0,,{\i1}Đường kiếm này đúng là y hệt của chị ấy!{\i0}
+Dialogue: 0,0:17:36.53,0:17:37.49,Default,Yukine(M),0,0,0,,{\i1}Vậy thì... điều này nghĩa là...{\i0}
+Dialogue: 0,0:17:41.49,0:17:43.62,Default,Yukine(M),0,0,0,,{\i1}Cứ như thể chị ấy đọc thấu tâm can mình vậy...{\i0}
+Dialogue: 0,0:17:46.96,0:17:47.79,Default,Yukine,0,0,0,,Cái gì?!
+Dialogue: 0,0:17:48.25,0:17:51.54,Default,Yukine(M),0,0,0,,{\i1}Bằng cách đột ngột tăng tốc,\Nchị ấy khiến mình không kịp trở tay.{\i0}
+Dialogue: 0,0:17:54.42,0:17:55.76,Default,Yukine(M),0,0,0,,{\i1}Đòn đó không trúng sao?!{\i0}
+Dialogue: 0,0:17:56.09,0:17:58.68,Default,Yukine(M),0,0,0,,{\i1}Bình tĩnh lại. Chém tiếp đi.{\i0}
+Dialogue: 0,0:17:59.05,0:18:03.06,Default,Yukine(M),0,0,0,,{\i1}Đúng rồi, thế công này giống hệt\Nnhững đòn đánh của chị gái mình biết!{\i0}
+Dialogue: 0,0:18:03.60,0:18:05.73,Default,Yukine(M),0,0,0,,{\i1}Gạt đòn... rồi phản công!{\i0}
+Dialogue: 0,0:18:05.93,0:18:06.89,Default,Yukine(M),0,0,0,,{\i1}Lại trượt nữa!{\i0}
+Dialogue: 0,0:18:07.39,0:18:09.60,Default,Yukine(M),0,0,0,,{\i1}Phải rồi, kết cục lúc nào cũng thế này.{\i0}
+Dialogue: 0,0:18:10.48,0:18:13.57,Default,Yukine(M),0,0,0,,{\i1}Dù mình có nỗ lực đến đâu đi nữa,\Nchị gái vẫn luôn ở phía trước mình.{\i0}
+Dialogue: 0,0:18:13.57,0:18:18.49,Default,Yukine(M),0,0,0,,{\i1}Rồi còn có Hội trưởng Monica,\Nvà xa hơn nữa là cô Hiệu trưởng.{\i0}
+Dialogue: 0,0:18:22.20,0:18:24.45,Default,Yukine(M),0,0,0,,{\i1}Bên cạnh mình thì có Shion và Fran,{\i0}
+Dialogue: 0,0:18:24.91,0:18:27.87,Default,Yukine(M),0,0,0,,{\i1}còn đằng sau là Takioto và Ludie đang bám sát.{\i0}
+Dialogue: 0,0:18:28.71,0:18:32.92,Default,Yukine(M),0,0,0,,{\i1}Ai nấy đều sở hữu tài năng độc nhất vô nhị.{\i0}
+Dialogue: 0,0:18:33.96,0:18:37.30,Default,Yukine(M),0,0,0,,{\i1}Tại sao chị lại bảo em có thể\Ntrở thành người mạnh nhất chứ?{\i0}
+Dialogue: 0,0:18:37.72,0:18:39.26,Default,Yukine(M),0,0,0,,{\i1}Mình chẳng hiểu nổi nữa.{\i0}
+Dialogue: 0,0:18:39.59,0:18:43.22,Default,Yukine,0,0,0,,Mình không ngờ thanh naginata này lại nặng đến thế...
+Dialogue: 0,0:18:43.89,0:18:46.64,Default,Yukine,0,0,0,,Và một cái bóng lại có thể khổng lồ đến nhường này...
+Dialogue: 0,0:18:50.23,0:18:53.44,Default,Yukine,0,0,0,,Chị ấy thậm chí không còn coi mình là đối thủ xứng tầm nữa sao?
+Dialogue: 0,0:18:54.32,0:18:56.69,Default,Yukine,0,0,0,,Phải rồi, lúc này mình chẳng đáng một xu...
+Dialogue: 0,0:18:56.69,0:18:57.44,Default,Kousuke,0,0,0,,Tiền bối!
+Dialogue: 0,0:18:59.78,0:19:00.91,Default,Yukine,0,0,0,,Takioto!
+Dialogue: 0,0:19:02.91,0:19:04.66,Default,Kousuke,0,0,0,,Xin chị hãy tin em!
+Dialogue: 0,0:19:04.66,0:19:06.29,Default,Kousuke,0,0,0,,Nếu chị không làm nổi mà lỡ gặp chuyện chẳng lành,
+Dialogue: 0,0:19:06.29,0:19:08.58,Default,Kousuke,0,0,0,,em sẽ chăm sóc cho chị suốt phần đời còn lại.
+Dialogue: 0,0:19:09.16,0:19:12.00,Default,Kousuke,0,0,0,,Nên chị cố tình thua cũng chẳng sao đâu nhé.
+Dialogue: 0,0:19:14.67,0:19:18.76,Default,Yukine,0,0,0,,Nghe cứ như câu thoại sến sẩm trong tiểu thuyết tình cảm ấy.
+Dialogue: 0,0:19:19.42,0:19:20.97,Default,Yukine(M),0,0,0,,{\i1}Nhưng tại sao...{\i0}
+Dialogue: 0,0:19:20.97,0:19:23.47,Default,Yukine(M),0,0,0,,{\i1}nguồn sức mạnh dồi dào này lại đang tuôn trào trong mình thế?{\i0}
+Dialogue: 0,0:19:24.68,0:19:29.89,Default,Suzune,0,0,0,,Yukine, ai cũng gọi chị là thiên tài,\Nnhưng chị cũng chỉ là con người thôi.
+Dialogue: 0,0:19:30.56,0:19:31.73,Default,Suzune,0,0,0,,Và em cũng vậy.
+Dialogue: 0,0:19:32.44,0:19:33.31,Default,Yukine(M),0,0,0,,{\i1}Đúng thế...{\i0}
+Dialogue: 0,0:19:33.77,0:19:34.90,Default,Yukine(M),0,0,0,,{\i1}Phải rồi.{\i0}
+Dialogue: 0,0:19:35.32,0:19:37.69,Default,Yukine(M),0,0,0,,{\i1}Chị gái mình vừa là thiên tài, vừa là một con người.{\i0}
+Dialogue: 0,0:19:38.40,0:19:41.91,Default,Yukine(M),0,0,0,,{\i1}Nhưng mình cũng là con người mà!{\i0}
+Dialogue: 0,0:19:42.66,0:19:44.28,Default,Yukine(M),0,0,0,,{\i1}Cả hai chúng ta đều là con người.{\i0}
+Dialogue: 0,0:19:44.28,0:19:46.28,Default,Yukine(M),0,0,0,,{\i1}Chẳng có lý do gì mình lại không thể vượt qua chị ấy.{\i0}
+Dialogue: 0,0:19:46.28,0:19:47.95,Default,Yukine(M),0,0,0,,{\i1}Em sẽ cho chị thấy toàn bộ sức mạnh của mình.{\i0}
+Dialogue: 0,0:19:48.58,0:19:51.12,Default,Yukine(M),0,0,0,,{\i1}Nếu thất bại thì cứ bắt Takioto nuôi cả đời là xong.{\i0}
+Dialogue: 0,0:19:51.87,0:19:53.83,Default,Yukine(M),0,0,0,,{\i1}Nghe cũng thú vị ra phết đấy chứ.{\i0}
+Dialogue: 0,0:19:55.00,0:19:56.71,Default,Yukine,0,0,0,,Chị Suzune ơi!
+Dialogue: 0,0:19:56.71,0:20:00.51,Default,Yukine,0,0,0,,Kể từ ngày chị ra đi, em chưa từng ngừng rèn luyện.
+Dialogue: 0,0:20:00.51,0:20:02.30,Default,Yukine,0,0,0,,Em đã mài giũa năng lực của mình suốt bao năm qua.
+Dialogue: 0,0:20:02.80,0:20:04.47,Default,Yukine(M),0,0,0,,{\i1}Cho chị ấy thấy đi.{\i0}
+Dialogue: 0,0:20:04.47,0:20:06.43,Default,Yukine(M),0,0,0,,{\i1}Cho Takioto thấy đi.{\i0}
+Dialogue: 0,0:20:06.43,0:20:08.77,Default,Yukine(M),0,0,0,,{\i1}Đây là con đường mà mình đã bước đi.{\i0}
+Dialogue: 0,0:20:08.77,0:20:10.56,Default,Yukine(M),0,0,0,,{\i1}Đây chính là thực lực của mình.{\i0}
+Dialogue: 0,0:20:11.39,0:20:15.19,Default,Yukine,0,0,0,,Xin chị hãy chứng kiến bản thân em lúc này,\NMizumori Yukine của hiện tại!
+Dialogue: 0,0:20:19.82,0:20:21.11,Default,Kousuke,0,0,0,,Nó tái tạo lại rồi sao?!
+Dialogue: 0,0:20:21.61,0:20:23.91,Default,Kousuke,0,0,0,,Cái bóng này ngoan cố hơn hẳn...
+Dialogue: 0,0:20:30.75,0:20:32.25,Default,Kousuke,0,0,0,,Đẹp tuyệt trần.
+Dialogue: 0,0:20:34.54,0:20:37.25,Default,Yukine,0,0,0,,Kiếm Tây, katana hay naginata đều có chung một điểm.
+Dialogue: 0,0:20:37.71,0:20:40.21,Default,Yukine,0,0,0,,Ánh thép lóe lên từ lưỡi đao đều ẩn chứa "linh hồn".
+Dialogue: 0,0:20:42.72,0:20:43.80,Default,Kousuke,0,0,0,,Rồng!
+Dialogue: 0,0:20:43.80,0:20:46.14,Default,Kousuke,0,0,0,,Những đường đao đó hóa thành rồng rồi!
+Dialogue: 0,0:20:46.14,0:20:47.26,Default,Yukine,0,0,0,,Takioto!
+Dialogue: 0,0:20:53.81,0:20:54.77,Default,Kousuke,0,0,0,,Chính nó!
+Dialogue: 0,0:20:54.77,0:20:56.85,Default,Kousuke,0,0,0,,Đây chính là điều mình hằng ngưỡng mộ!
+Dialogue: 0,0:20:56.85,0:21:01.15,Default,Kousuke(M),0,0,0,,{\i1}Một trong Tam Cường, Thủy Long Công Chúa,\Nbậc thầy võ nghệ Mizumori Yukine!{\i0}
+Dialogue: 0,0:21:01.15,0:21:05.24,Default,Kousuke(M),0,0,0,,{\i1}Tuyệt kỹ bí truyền đã đưa cô ấy\Nvào hàng ngũ Tam Cường trong MagiEx...{\i0}
+Dialogue: 0,0:21:08.78,0:21:10.24,Default,Kousuke(M),0,0,0,,{\i1}Cửu Đầu Long!{\i0}
+Dialogue: 0,0:21:23.80,0:21:26.47,Default,Yukine,0,0,0,,Takioto, chị hỏi lại câu này lần nữa được không?
+Dialogue: 0,0:21:26.47,0:21:27.47,Default,Kousuke,0,0,0,,Câu nào ạ?
+Dialogue: 0,0:21:27.47,0:21:29.51,Default,Yukine,0,0,0,,Em rốt cuộc biết những gì?
+Dialogue: 0,0:21:31.51,0:21:33.43,Default,Yukine,0,0,0,,Không, chị xin lỗi.
+Dialogue: 0,0:21:33.43,0:21:36.48,Default,Kousuke,0,0,0,,Chị không cần phải xin lỗi đâu.
+Dialogue: 0,0:21:37.60,0:21:40.82,Default,Kousuke,0,0,0,,Em cũng tự biết hành động của mình rất đáng nghi.
+Dialogue: 0,0:21:40.82,0:21:42.15,Default,Kousuke,0,0,0,,Cả lần này cũng thế...
+Dialogue: 0,0:21:42.15,0:21:44.07,Default,Kousuke,0,0,0,,Thế nên em rất muốn kể hết với chị.
+Dialogue: 0,0:21:44.65,0:21:46.57,Default,Kousuke,0,0,0,,Nhưng mà liệu...
+Dialogue: 0,0:21:46.57,0:21:48.91,Default,Kousuke,0,0,0,,chị có thể đợi em thêm một chút nữa được không?
+Dialogue: 0,0:21:48.91,0:21:50.28,Default,Yukine,0,0,0,,Tất nhiên rồi.
+Dialogue: 0,0:21:50.28,0:21:53.08,Default,Yukine,0,0,0,,Chị hiểu đây không phải chuyện dễ dàng mở lời.
+Dialogue: 0,0:21:53.37,0:21:54.08,Default,Yukine,0,0,0,,Nhưng mà...
+Dialogue: 0,0:21:54.08,0:21:57.87,Default,Yukine,0,0,0,,nếu có chuyện gì xảy ra,\Nchị muốn em hãy tìm đến chị bất cứ lúc nào.
+Dialogue: 0,0:21:58.29,0:22:00.79,Default,Yukine,0,0,0,,Chị muốn trở thành chỗ dựa cho em.
+Dialogue: 0,0:22:00.79,0:22:01.84,Default,Kousuke,0,0,0,,Tiền bối...
+Dialogue: 0,0:22:02.92,0:22:04.96,Default,Yukine,0,0,0,,Giờ thì về nhà tập luyện thôi nào!
+Dialogue: 0,0:22:05.21,0:22:06.05,Default,Kousuke,0,0,0,,Vâng ạ!\N{\fs14\i1}Phụ đề Việt ngữ: Amtia(NOFACE){\i0}
+Dialogue: 0,0:22:04.96,0:22:09.97,sign_35245_386_Reborn_as_a_Side,SIGN,0,0,0,,{\move(313,70,313,80,30,4993)}"Tam Cường"
+Dialogue: 0,0:22:04.96,0:22:09.97,sign_35245_386_Reborn_as_a_Side,SIGN,0,0,0,,{\c&H000000&\move(313,194,314,196,30,4993)}Mizumori Yukine
+

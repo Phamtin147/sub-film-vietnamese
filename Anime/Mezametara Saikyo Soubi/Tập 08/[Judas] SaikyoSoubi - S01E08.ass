@@ -1,0 +1,338 @@
+﻿[Script Info]
+Title: Vietnamese Fansub by Amtia(NOFACE)
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+ScaledBorderAndShadow: yes
+Video Aspect Ratio: 0
+Video Zoom: 8
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Segoe UI,21,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0.6,2,10,10,18,1
+Style: DefaultItalics,Segoe UI,21,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0.6,2,10,10,18,1
+Style: DefaultTop,Segoe UI,21,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0.6,8,10,10,18,1
+Style: DefaultItalicsTop,Segoe UI,21,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0.6,8,10,10,18,1
+Style: DefaultOverlap,Segoe UI,21,&H00FFFFFF,&H000000FF,&H004E4E4F,&H004E4E4F,0,0,0,0,100,100,0,0,1,1.3,0.6,2,10,10,18,1
+Style: Flashback,Segoe UI,21,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,1.3,0.6,2,10,10,18,1
+Style: FlashbackItalics,Segoe UI,21,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,1.3,0.6,2,10,10,18,1
+Style: FlashbackTop,Segoe UI,21,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,1.3,0.6,8,20,20,18,1
+Style: FlashbackItalicsTop,Segoe UI,21,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,1.3,0.6,8,10,10,18,1
+Style: Narration,Segoe UI,21,&H00FFFFFF,&H000000FF,&H00000050,&H00000050,0,-1,0,0,100,100,0,0,1,1.3,0.6,2,10,10,18,1
+Style: Signs,Segoe UI,17,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,30,30,10,1
+Style: Credits,Segoe UI,21,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0.6,8,30,30,18,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.91,0:00:04.93,Flashback,FRIEDRICH,0,0,0,,Con nhất định phải trốn thoát, dù chỉ có một mình.
+Dialogue: 0,0:00:04.93,0:00:07.15,Flashback,CHRIS,0,0,0,,Nhưng... Cha ơi...
+Dialogue: 0,0:00:07.54,0:00:10.21,Flashback,FRIEDRICH,0,0,0,,Cha sẽ mãi yêu con, Chris.
+Dialogue: 0,0:00:12.00,0:00:14.34,Flashback,CHRIS,0,0,0,,Cha ơi! Cha ơi!
+Dialogue: 0,0:00:14.34,0:00:16.74,Flashback,CHRIS,0,0,0,,Cha ơi! Cha ơi!
+Dialogue: 0,0:00:18.14,0:00:20.54,Flashback,CHRIS,0,0,0,,Cha ơi! Cha ơi!
+Dialogue: 0,0:00:49.30,0:00:53.04,Flashback,CHRIS,0,0,0,,Cha ơi!
+Dialogue: 1,0:02:24.74,0:02:26.74,Signs,TITLE,0,0,0,,{\an7\fad(1359,308)\bord2\fnSegoe UI\b1\c&HFFFF91&\3c&HF8C034&\blur1\pos(200,262)\frz14.71\4c&HFFFC65&\shad2}Chuyển sinh thành Lính Đánh Thuê Vũ Trụ:\NThức Tỉnh Cùng Chiến Hạm Tối Thượng!
+Dialogue: 0,0:02:26.37,0:02:28.99,Signs,TITLE,0,0,0,,{\an7\fad(396,1)\bord2\fnSegoe UI\b1\c&HF6FAFE&\3c&HA46B01&\frz14.71\pos(200,262)\4c&H00DFE2&\shad2}Chuyển sinh thành {\c&H00ECF6&\3c&H0D0812&}Lính Đánh Thuê Vũ Trụ:\N{\c&HFEFDFB&\3c&HAFA7A8&}Thức Tỉnh Cùng {\c&HFFFDFB&\3c&HC77F00&}Chiến Hạm Tối Thượng!
+Dialogue: 0,0:02:31.04,0:02:34.84,Signs,EPTITLE,0,0,0,,{\fad(736,888)\fnSegoe UI\c&HFFFFFF&\shad2\b0\blur3\t(27,736,\blur0.2)\t(3072,3947,\blur3)\pos(106,265)}Công Chúa Ngủ Trong Rừng
+Dialogue: 0,0:02:38.42,0:02:40.56,Default,ELMA,0,0,0,,Tới nơi rồi thì chúng ta làm gì đầu tiên nhỉ?
+Dialogue: 0,0:02:40.85,0:02:45.94,Default,MIMI,0,0,0,,Em muốn đi bơi và thưởng thức\Nhải sản tươi sống ạ.
+Dialogue: 0,0:02:45.94,0:02:47.66,Default,MIMI,0,0,0,,Ở đó dùng nguyên liệu hoàn toàn tự nhiên đấy.
+Dialogue: 0,0:02:47.66,0:02:50.68,Default,ELMA,0,0,0,,Trong đầu em chỉ có ăn với uống thôi, Mimi ạ.
+Dialogue: 0,0:02:50.68,0:02:53.35,Default,MIMI,0,0,0,,Họ còn có đặc sản rượu ngon chỉ nơi đó mới có nữa cơ.
+Dialogue: 0,0:02:53.35,0:02:55.05,Default,ELMA,0,0,0,,Kể chị nghe thêm xem nào.
+Dialogue: 0,0:02:55.05,0:02:55.82,Default,MIMI,0,0,0,,Vâng, sẵn lòng ngay ạ!
+Dialogue: 0,0:02:56.76,0:03:01.63,DefaultItalics,HIRO/ID,0,0,0,,Chúng ta đang hướng tới Hệ Sao Cierra,\Nnổi tiếng là khu nghỉ dưỡng thiên đường.
+Dialogue: 0,0:03:02.71,0:03:07.43,DefaultItalics,HIRO/ID,0,0,0,,Miễn là chịu chi tiền, thì ngay cả lính đánh thuê\Ncũng được thả ga vui chơi trên mặt hành tinh.
+Dialogue: 0,0:03:08.64,0:03:11.73,DefaultItalics,HIRO/ID,0,0,0,,Và du khách giàu có cũng kéo theo\Nlũ hải tặc không gian hám tiền.
+Dialogue: 0,0:03:12.14,0:03:14.27,DefaultItalics,HIRO/ID,0,0,0,,Đúng là một địa điểm lý tưởng để kiếm chác.
+Dialogue: 0,0:03:15.67,0:03:17.66,Default,ELMA,0,0,0,,Chị chẳng ưa cái bản mặt đó của cậu ta chút nào.
+Dialogue: 0,0:03:17.66,0:03:19.76,Default,MIMI,0,0,0,,Em cũng thấy vậy.
+Dialogue: 0,0:03:20.03,0:03:22.25,Default,HIRO,0,0,0,,Hiện tại chúng ta đang đi trong Hành lang Siêu không gian,
+Dialogue: 0,0:03:22.25,0:03:25.29,Default,HIRO,0,0,0,,một tuyến đường xuyên chiều không gian đặc biệt\Nđể du hành giữa các vì sao.
+Dialogue: 0,0:03:32.10,0:03:35.61,Default,ELMA,0,0,0,,Hành lang Siêu không gian hoàn toàn miễn nhiễm\Nvới mọi can thiệp từ bên ngoài,
+Dialogue: 0,0:03:35.95,0:03:39.06,Default,ELMA,0,0,0,,nghĩa là chúng ta muốn làm gì\Ntrong lúc di chuyển cũng được hết.
+Dialogue: 0,0:03:39.44,0:03:42.22,Default,MIMI,0,0,0,,E... Em hiểu rồi.
+Dialogue: 0,0:03:42.86,0:03:45.90,DefaultItalics,HIRO/ID,0,0,0,,Thể lực của Elma đúng kiểu lỗi game thật sự.
+Dialogue: 0,0:03:52.73,0:03:54.82,Default,MIMI,0,0,0,,Ngắt động cơ Siêu không gian.
+Dialogue: 0,0:03:54.82,0:03:57.38,Default,MIMI,0,0,0,,Đã tới Hệ Sao Cierra.
+Dialogue: 0,0:03:57.63,0:03:59.35,Default,ELMA,0,0,0,,Đang kiểm tra trạng thái.
+Dialogue: 0,0:03:59.35,0:04:00.59,Default,ELMA,0,0,0,,Mọi hệ thống đều bình thường.
+Dialogue: 0,0:04:00.59,0:04:05.30,Default,HIRO,0,0,0,,Được rồi, chúng ta sẽ dùng động cơ tốc độ ánh sáng\Nđể tiến tới thuộc địa Cierra Prime.
+Dialogue: 0,0:04:17.27,0:04:18.51,Default,ELMA,0,0,0,,Có chuyện gì thế?
+Dialogue: 0,0:04:18.51,0:04:21.67,Default,MIMI,0,0,0,,Ngắm bao nhiêu lần đi nữa vẫn thấy đẹp mê hồn.
+Dialogue: 0,0:04:21.67,0:04:24.83,Default,ELMA,0,0,0,,Ừ, nhưng không chỉ có mỗi cảnh đẹp đâu.
+Dialogue: 0,0:04:24.83,0:04:25.61,Default,MIMI,0,0,0,,Sao cơ ạ?
+Dialogue: 0,0:04:27.21,0:04:29.06,Default,ELMA,0,0,0,,Vừa mới nhắc Tào Tháo là Tào Tháo tới ngay.
+Dialogue: 0,0:04:29.06,0:04:30.78,Default,ELMA,0,0,0,,Hiro, phát hiện tín hiệu đánh chặn.
+Dialogue: 0,0:04:30.78,0:04:31.40,Default,HIRO,0,0,0,,Tôi biết rồi.
+Dialogue: 0,0:04:31.40,0:04:34.11,Default,MIMI,0,0,0,,Ờm, thiết bị đánh chặn là gì thế ạ?
+Dialogue: 0,0:04:34.51,0:04:39.56,Default,ELMA,0,0,0,,Là ngoại lực ép phi thuyền phải thoát khỏi\Ntrạng thái di chuyển tốc độ ánh sáng.
+Dialogue: 0,0:04:39.56,0:04:43.10,Default,ELMA,0,0,0,,Thường là chiến hạm đi tuần tra, hoặc là...
+Dialogue: 0,0:04:43.10,0:04:45.25,Default,HIRO,0,0,0,,Tắt động cơ tốc độ ánh sáng đi.
+Dialogue: 0,0:04:45.25,0:04:47.05,Default,HIRO,0,0,0,,Chuyển về chế độ lái thường.
+Dialogue: 0,0:04:57.29,0:05:00.33,Default,MIMI,0,0,0,,Mười ba phi thuyền không rõ danh tính.\NChúng đã khóa mục tiêu vào ta!
+Dialogue: 0,0:05:00.33,0:05:02.99,Default,ELMA,0,0,0,,Gọi thẳng là tàu địch luôn đi, không rõ danh tính gì nữa.
+Dialogue: 0,0:05:02.99,0:05:04.48,Default,HIRO,0,0,0,,Phóng mồi nhiễu ra.
+Dialogue: 0,0:05:04.48,0:05:05.94,Default,HIRO,0,0,0,,Kích hoạt hệ thống vũ khí.
+Dialogue: 0,0:05:06.20,0:05:07.39,Default,ELMA,0,0,0,,Rõ, thưa thuyền trưởng.
+Dialogue: 0,0:05:09.88,0:05:12.45,Default,HIRO,0,0,0,,Đi kiếm chút tiền nào!
+Dialogue: 0,0:05:24.37,0:05:28.30,Default,HIRO,0,0,0,,Xong xuôi. Chán hơn mình tưởng.
+Dialogue: 0,0:05:28.30,0:05:31.12,Default,ELMA,0,0,0,,Con tàu này đúng là mạnh quá mức quy định thật.
+Dialogue: 0,0:05:31.12,0:05:33.95,Default,ELMA,0,0,0,,Sản lượng năng lượng lẫn hỏa lực của nó\Ncòn ăn đứt cả một chiến hạm cỡ lớn.
+Dialogue: 0,0:05:33.95,0:05:35.85,Default,HIRO,0,0,0,,Ừ, nhưng mà hơi khó tính đấy.
+Dialogue: 0,0:05:36.49,0:05:38.39,Default,MIMI,0,0,0,,À, anh Hiro ơi.
+Dialogue: 0,0:05:38.39,0:05:39.48,Default,HIRO,0,0,0,,Có chuyện gì thế?
+Dialogue: 0,0:05:39.48,0:05:41.31,Default,MIMI,0,0,0,,Anh xem cái kia là gì thế ạ?
+Dialogue: 0,0:05:45.64,0:05:48.24,Default,MIMI,0,0,0,,Em phát hiện dấu hiệu sự sống bên trong khoang cứu sinh.
+Dialogue: 0,0:05:48.46,0:05:50.08,Default,ELMA,0,0,0,,Có người ở trong đó.
+Dialogue: 0,0:05:50.58,0:05:52.23,Default,HIRO,0,0,0,,Mình giả vờ như chưa thấy gì được không?
+Dialogue: 0,0:05:52.23,0:05:53.92,Default,ELMA,0,0,0,,Dĩ nhiên là không rồi.
+Dialogue: 0,0:05:53.92,0:05:55.70,Default,HIRO,0,0,0,,Phải ha.
+Dialogue: 0,0:05:57.60,0:06:00.52,Default,HIRO,0,0,0,,Mimi, ưu tiên thu hồi khoang cứu sinh đó.
+Dialogue: 0,0:06:01.11,0:06:04.08,Default,MIMI,0,0,0,,Rõ ạ. Mà đây {\i1}là{\i0} cái gì thế ạ?
+Dialogue: 0,0:06:04.39,0:06:06.54,Default,HIRO,0,0,0,,Khoang ngủ đông.
+Dialogue: 0,0:06:06.54,0:06:09.58,Default,HIRO,0,0,0,,Nó là thiết bị thoát hiểm trang bị trên các tàu chở khách.
+Dialogue: 0,0:06:10.33,0:06:15.89,Default,ELMA,0,0,0,,Bất kỳ ai phát hiện khoang cứu sinh trôi dạt\Nđều có nghĩa vụ phải cứu hộ.
+Dialogue: 0,0:06:15.89,0:06:17.76,Default,ELMA,0,0,0,,Bỏ mặc nó được coi là trọng tội đấy.
+Dialogue: 0,0:06:17.76,0:06:22.23,Default,MIMI,0,0,0,,Em hiểu rồi. Vậy sao hai người lại nhăn nhó thế?
+Dialogue: 0,0:06:22.23,0:06:26.43,Default,ELMA,0,0,0,,Kẻ cứu vớt khoang ngủ đông bị buộc phải\Nchăm sóc người bên trong suốt một tuần.
+Dialogue: 0,0:06:26.79,0:06:30.29,Default,HIRO,0,0,0,,Nói cách khác, kỳ nghỉ lẫn công việc\Nđều phải gác lại hết.
+Dialogue: 0,0:06:30.29,0:06:34.23,Default,MIMI,0,0,0,,À. Nhưng dù sao thì giúp đỡ người khác\Nvẫn là việc tốt mà.
+Dialogue: 0,0:06:34.70,0:06:35.73,Default,HIRO,0,0,0,,Đúng là vậy.
+Dialogue: 0,0:06:35.73,0:06:36.82,Default,ELMA,0,0,0,,Ừ.
+Dialogue: 0,0:06:57.83,0:07:02.24,Default,EMPLOYEE,0,0,0,,Qua mã định danh, chúng tôi xác định khoang này\Ntừ một du thuyền hạng sang
+Dialogue: 0,0:07:02.24,0:07:04.18,Default,EMPLOYEE,0,0,0,,đã mất tích ba tháng trước.
+Dialogue: 0,0:07:04.53,0:07:06.76,Default,HIRO,0,0,0,,Nghĩa là người nằm bên trong...
+Dialogue: 0,0:07:06.76,0:07:09.16,Default,ELMA,0,0,0,,là thương nhân hay quý tộc?
+Dialogue: 0,0:07:09.16,0:07:12.37,Default,EMPLOYEE,0,0,0,,Đúng vậy. Nhưng có một điểm rất kỳ lạ.
+Dialogue: 0,0:07:12.37,0:07:14.53,Default,EMPLOYEE,0,0,0,,Hai người nhìn bề mặt khoang cứu sinh đi.
+Dialogue: 0,0:07:15.49,0:07:18.58,Default,ELMA,0,0,0,,Bộ phát tín hiệu cầu cứu đã bị phá hủy.
+Dialogue: 0,0:07:18.87,0:07:21.39,Default,ELMA,0,0,0,,Có kẻ không muốn người này được tìm thấy sao?
+Dialogue: 0,0:07:21.39,0:07:23.60,Default,HIRO,0,0,0,,Tôi đánh hơi thấy rắc rối ngay từ giờ rồi đấy.
+Dialogue: 0,0:07:23.60,0:07:25.42,Default,EMPLOYEE,0,0,0,,Thành thật chia buồn cùng hai vị.
+Dialogue: 0,0:07:25.42,0:07:28.18,Default,EMPLOYEE,0,0,0,,Tuy nhiên, tôi tin chắc hai vị sẽ được hậu tạ xứng đáng.
+Dialogue: 0,0:07:28.18,0:07:31.39,Default,EMPLOYEE,0,0,0,,Quá trình hồi sức hoàn tất. Tôi sẽ mở khóa khoang ngay.
+Dialogue: 0,0:07:40.38,0:07:41.88,Default,HIRO,0,0,0,,Cô lo vụ này được không?
+Dialogue: 0,0:07:41.88,0:07:42.65,Default,ELMA,0,0,0,,Được thôi.
+Dialogue: 0,0:07:46.77,0:07:50.82,Default,CHRIS,0,0,0,,Đừng đi mà cha. Đừng đi.
+Dialogue: 0,0:07:51.12,0:07:53.28,Default,HIRO,0,0,0,,À, tôi...
+Dialogue: 0,0:07:53.28,0:07:55.96,Default,ELMA,0,0,0,,Tranh thủ lúc này chúng ta đi làm thủ tục giấy tờ nhé.
+Dialogue: 0,0:07:55.96,0:07:56.82,Default,EMPLOYEE,0,0,0,,Vâng.
+Dialogue: 0,0:07:56.82,0:07:57.75,Default,HIRO,0,0,0,,Khoan đã!
+Dialogue: 0,0:07:57.75,0:07:59.60,Default,ELMA,0,0,0,,Chúc cậu may mắn nhé.
+Dialogue: 0,0:08:07.33,0:08:08.69,Default,HIRO,0,0,0,,Được rồi.
+Dialogue: 0,0:08:18.15,0:08:20.72,Default,CHRIS,0,0,0,,Cha ơi...
+Dialogue: 0,0:08:22.40,0:08:23.89,Default,HIRO,0,0,0,,Tôi không phải cha cô đâu.
+Dialogue: 0,0:08:26.63,0:08:28.90,Default,HIRO,0,0,0,,Tôi chỉ tìm thấy một mình cô thôi.
+Dialogue: 0,0:08:29.58,0:08:31.12,Default,CHRIS,0,0,0,,Tôi hiểu rồi.
+Dialogue: 0,0:08:33.68,0:08:38.03,Default,CHRIS,0,0,0,,Cảm ơn anh đã nắm tay em.
+Dialogue: 0,0:08:38.84,0:08:40.11,Default,HIRO,0,0,0,,Không có gì đâu.
+Dialogue: 0,0:08:48.87,0:08:51.82,Default,CHRIS,0,0,0,,Em tên là Christina Dalenwald.
+Dialogue: 0,0:08:52.35,0:08:57.60,Default,CHRIS,0,0,0,,Em là người thừa kế gia tộc Dalenwald,\Ncon gái của Bá tước Friedrich Dalenwald.
+Dialogue: 0,0:08:58.05,0:09:03.22,DefaultItalics,HIRO/ID,0,0,0,,Một tiểu thư quý tộc trẻ tuổi...\Nvà bộ phát tín hiệu cầu cứu bị phá hỏng.
+Dialogue: 0,0:09:03.22,0:09:05.20,DefaultItalics,HIRO/ID,0,0,0,,Ừ, chắc chắn dính vào rắc rối to rồi.
+Dialogue: 0,0:09:05.20,0:09:08.46,Default,HIRO,0,0,0,,Tôi là Thuyền trưởng Hiro, lính đánh thuê\Nhạng Bạc.
+Dialogue: 0,0:09:08.93,0:09:09.86,Default,HIRO,0,0,0,,Cứ gọi tôi là Hiro thôi.
+Dialogue: 0,0:09:10.12,0:09:12.31,Default,CHRIS,0,0,0,,Vâng, thưa anh Hiro.
+Dialogue: 0,0:09:12.69,0:09:15.54,Default,CHRIS,0,0,0,,Xin anh cứ gọi em là Chris.
+Dialogue: 0,0:09:16.66,0:09:20.97,Default,CHRIS,0,0,0,,Anh có thể giải thích chi tiết tình hình\Nhiện tại của em được không?
+Dialogue: 0,0:09:24.79,0:09:25.96,Default,HIRO,0,0,0,,...Và đầu đuôi câu chuyện là như vậy đấy.
+Dialogue: 0,0:09:26.41,0:09:31.19,Default,HIRO,0,0,0,,Bọn anh sẽ bảo vệ em cho tới khi\Ngia đình em tới đón. Đừng lo nhé.
+Dialogue: 0,0:09:32.81,0:09:33.88,Default,HIRO,0,0,0,,Có chuyện gì thế?
+Dialogue: 0,0:09:35.30,0:09:38.37,Default,CHRIS,0,0,0,,Anh thực sự sẽ bảo vệ em chứ?
+Dialogue: 0,0:09:41.51,0:09:45.56,Default,CHRIS,0,0,0,,Anh thực sự sẽ bảo vệ em chứ, anh Hiro?
+Dialogue: 0,0:09:47.48,0:09:52.78,Default,HIRO,0,0,0,,Ừ. Trong một khoảng thời gian nhất định,\Ntôi sẽ làm hiệp sĩ hộ vệ cho tiểu thư.
+Dialogue: 0,0:09:57.39,0:10:02.41,Default,HIRO,0,0,0,,Tôi, Hiro, xin thề sẽ bảo vệ tiểu thư\Nvới tư cách hiệp sĩ của người.
+Dialogue: 0,0:10:04.04,0:10:05.32,Default,HIRO,0,0,0,,Kiểu đại loại thế đấy.
+Dialogue: 0,0:10:07.98,0:10:13.50,Default,CHRIS,0,0,0,,Hiệp sĩ riêng của em sao? Em cứ thấy như mình\Ntrở thành nữ chính tiểu thuyết toàn ảnh vậy.
+Dialogue: 0,0:10:15.89,0:10:20.51,Default,CHRIS,0,0,0,,Cha em, Friedrich Dalenwald, đã bị sát hại.
+Dialogue: 0,0:10:20.81,0:10:21.98,Default,HIRO,0,0,0,,Cái gì?
+Dialogue: 0,0:10:21.98,0:10:27.44,Default,CHRIS,0,0,0,,Kẻ chủ mưu chính là chú ruột em,\NBalthazar Dalenwald.
+Dialogue: 0,0:10:27.65,0:10:29.65,Default,HIRO,0,0,0,,Liệu có sự nhầm lẫn nào không?
+Dialogue: 0,0:10:30.13,0:10:31.24,Default,CHRIS,0,0,0,,Không hề.
+Dialogue: 0,0:10:32.70,0:10:36.91,Default,CHRIS,0,0,0,,Cả cha và mẹ đều đã hy sinh thân mình\Nđể em có thể trốn thoát.
+Dialogue: 0,0:10:37.35,0:10:42.16,Default,CHRIS,0,0,0,,Chắc chắn tay chân của chú em vẫn đang\Nlùng sục khắp Hệ Sao Cierra để tìm em.
+Dialogue: 0,0:10:44.15,0:10:47.56,Default,CHRIS,0,0,0,,Ờm, anh có thể quên sạch những gì\Nem vừa nói được không?
+Dialogue: 0,0:10:47.56,0:10:48.28,Default,HIRO,0,0,0,,Hả?
+Dialogue: 0,0:10:48.65,0:10:53.78,Default,CHRIS,0,0,0,,Em không thể kéo người ngoài vào\Nchuyện nội bộ gia tộc Dalenwald được.
+Dialogue: 0,0:10:53.78,0:10:56.00,Default,CHRIS,0,0,0,,Nên xin anh, hãy coi như em chưa từng nói gì cả.
+Dialogue: 0,0:10:59.81,0:11:02.74,Default,HIRO,0,0,0,,Tiếc quá, tôi đã lỡ thề làm hiệp sĩ\Ncủa tiểu thư mất rồi.
+Dialogue: 0,0:11:02.74,0:11:04.68,Default,HIRO,0,0,0,,Và tôi không nuốt lời đâu.
+Dialogue: 0,0:11:05.00,0:11:05.63,Default,CHRIS,0,0,0,,Sao cơ?
+Dialogue: 0,0:11:06.04,0:11:09.78,Default,HIRO,0,0,0,,Ngoài việc là hiệp sĩ của tiểu thư,\Ntôi còn là một lính đánh thuê nữa.
+Dialogue: 0,0:11:10.21,0:11:12.57,Default,HIRO,0,0,0,,Làm việc thì tôi phải nhận thù lao chứ.
+Dialogue: 0,0:11:12.57,0:11:15.59,Default,CHRIS,0,0,0,,Chẳng hạn như...?
+Dialogue: 0,0:11:15.59,0:11:20.02,Default,HIRO,0,0,0,,Thứ gì cũng được. Đến lúc đàm phán rồi, thưa tiểu thư.
+Dialogue: 0,0:11:20.39,0:11:22.59,Default,HIRO,0,0,0,,Tiểu thư định trả công cho tôi thế nào đây?
+Dialogue: 0,0:11:22.59,0:11:24.09,Default,CHRIS,0,0,0,,Trả công cho anh sao?
+Dialogue: 0,0:11:26.12,0:11:29.32,Default,CHRIS,0,0,0,,Nếu vậy, xin anh hãy giữ lấy báu vật này của em.
+Dialogue: 0,0:11:33.74,0:11:36.00,Default,HIRO,0,0,0,,Vậy tôi xin phép cất giữ thứ này.
+Dialogue: 0,0:11:36.41,0:11:38.18,Default,HIRO,0,0,0,,Sau khi tôi hoàn thành nhiệm vụ bảo vệ tiểu thư
+Dialogue: 0,0:11:38.18,0:11:43.46,Default,HIRO,0,0,0,,và nhận thù lao chính thức từ Bá tước Dalenwald,\Ntôi sẽ hoàn trả lại nó cho em.
+Dialogue: 0,0:11:44.73,0:11:45.81,Default,CHRIS,0,0,0,,Vâng.
+Dialogue: 0,0:11:49.30,0:11:52.37,Default,CHRIS,0,0,0,,Em trông cậy cả vào anh, hiệp sĩ của em.
+Dialogue: 0,0:11:52.37,0:11:53.29,Default,HIRO,0,0,0,,Xin tuân lệnh.
+Dialogue: 0,0:12:00.57,0:12:05.99,Signs,TITLE,0,0,0,,{\fad(901,1)\fs12\fscx88\an7\bord1.5\fnSegoe UI\b1\c&HF6FAFE&\3c&HA46B01&\frz14.71\4c&H1FEEFA&\shad1.5\pos(462,274)}Chuyển sinh thành {\c&H00ECF6&\3c&H0D0812&}Lính Đánh Thuê Vũ Trụ:\N{\c&HFEFDFB&\3c&HAFA7A8&}Thức Tỉnh Cùng {\c&HFFFDFB&\3c&HC77F00&}Chiến Hạm Tối Thượng!
+Dialogue: 0,0:12:05.99,0:12:11.00,Signs,TITLE,0,0,0,,{\fs12\fscx88\an7\bord1.5\fnSegoe UI\b1\c&HF6FAFE&\3c&HA46B01&\frz14.71\4c&H1FEEFA&\shad1.5\pos(452,270)}Chuyển sinh thành {\c&H00ECF6&\3c&H0D0812&}Lính Đánh Thuê Vũ Trụ:\N{\c&HFEFDFB&\3c&HAFA7A8&}Thức Tỉnh Cùng {\c&HFFFDFB&\3c&HC77F00&}Chiến Hạm Tối Thượng!
+Dialogue: 0,0:12:11.19,0:12:14.45,Default,MIMI,0,0,0,,Mình là Mimi. Rất vui được làm quen với cậu, Chris.
+Dialogue: 0,0:12:15.64,0:12:18.60,DefaultItalics,HIRO/ID,0,0,0,,Chắc em ấy mừng lắm khi trên tàu\Ncó thêm một cô gái xấp xỉ tuổi mình.
+Dialogue: 0,0:12:22.73,0:12:24.34,Default,HIRO,0,0,0,,Elma bị làm sao thế?
+Dialogue: 0,0:12:24.66,0:12:27.55,Default,MIMI,0,0,0,,Chắc tại cái này đấy ạ.
+Dialogue: 0,0:12:27.55,0:12:29.89,Default,HIRO,0,0,0,,Tôi lên Hạng Vàng rồi á?
+Dialogue: 0,0:12:30.57,0:12:32.95,Default,MIMI,0,0,0,,Chúc mừng anh Hiro nhé.
+Dialogue: 0,0:12:33.39,0:12:36.65,Default,HIRO,0,0,0,,Hóa ra cô đang hậm hực vì giờ tôi\Nđứng trên hạng cô chứ gì.
+Dialogue: 0,0:12:36.65,0:12:39.26,Default,ELMA,0,0,0,,Không hề. Chỉ là thấy hơi cay cú chút thôi.
+Dialogue: 0,0:12:39.51,0:12:44.93,Default,HIRO,0,0,0,,Thôi nào. Dù thứ hạng có ra sao đi nữa,\Ncô mãi mãi vẫn là tiền bối lão làng trong nhóm mà.
+Dialogue: 0,0:12:44.93,0:12:46.87,Default,ELMA,0,0,0,,Cậu đang cà khịa tôi đấy à? Đúng là cậu đang cà khịa phải không?
+Dialogue: 0,0:12:46.87,0:12:48.48,Default,ELMA,0,0,0,,Cậu gan to thật đấy!
+Dialogue: 0,0:12:51.08,0:12:52.92,Default,HIRO,0,0,0,,Sao cô làm được cú đó hay thế?!
+Dialogue: 0,0:12:52.92,0:12:54.79,Default,HIRO,0,0,0,,Tôi còn chưa kịp phản ứng gì luôn!
+Dialogue: 0,0:12:54.79,0:12:56.37,Default,CHRIS,0,0,0,,À... ờm...
+Dialogue: 0,0:12:56.37,0:12:59.05,Default,MIMI,0,0,0,,Không sao đâu, thật ra hai người họ thân thiết lắm đấy.
+Dialogue: 0,0:12:59.41,0:13:00.57,Default,CHRIS,0,0,0,,Ra là vậy...
+Dialogue: 0,0:13:02.62,0:13:06.30,Default,ELMA,0,0,0,,Xả giận xong rồi,\Ngiờ vào việc chính nào.
+Dialogue: 0,0:13:06.30,0:13:08.25,Default,HIRO,0,0,0,,Ư-Ừ, được thôi.
+Dialogue: 0,0:13:08.76,0:13:12.15,Default,HIRO,0,0,0,,Tên thật của Chris là Christina Dalenwald.
+Dialogue: 0,0:13:12.15,0:13:14.63,Default,HIRO,0,0,0,,Em ấy là con gái của Bá tước Dalenwald.
+Dialogue: 0,0:13:15.31,0:13:19.77,Default,HIRO,0,0,0,,Chi tiết đều nằm trong tin nhắn toàn ảnh\Ncầu cứu mà em ấy vừa ghi hình này.
+Dialogue: 0,0:13:20.79,0:13:24.33,Flashback,CHRIS,0,0,0,,Ông nội ơi, là cháu, Christina đây.
+Dialogue: 0,0:13:24.33,0:13:26.35,Flashback,CHRIS,0,0,0,,Cháu biết ông đã lo lắng lắm.
+Dialogue: 0,0:13:27.53,0:13:31.24,Flashback,CHRIS,0,0,0,,Bọn cháu đã bị chú Balthazar tập kích.
+Dialogue: 0,0:13:31.90,0:13:36.07,Flashback,CHRIS,0,0,0,,Cha mẹ cháu đã hy sinh thân mình để cháu trốn thoát.
+Dialogue: 0,0:13:36.52,0:13:41.97,Flashback,CHRIS,0,0,0,,May mắn thay, sau khi thoát nạn,\Ncháu đã được anh Hiro ở đây cứu giúp.
+Dialogue: 0,0:13:43.17,0:13:45.21,Flashback,HIRO,0,0,0,,Tôi là Thuyền trưởng Hiro.
+Dialogue: 0,0:13:45.94,0:13:52.18,Flashback,HIRO,0,0,0,,Tôi chỉ là một lính đánh thuê quèn,\Nnhưng tôi sẽ dốc hết mọi khả năng
+Dialogue: 0,0:13:52.18,0:13:55.37,Flashback,HIRO,0,0,0,,để bảo vệ tiểu thư Christina cho tới khi\Nngài có thể đến đón tiểu thư.
+Dialogue: 0,0:13:55.72,0:13:59.30,Flashback,CHRIS,0,0,0,,Cháu đã quyết định giao phó vận mệnh\Ncủa mình cho anh Hiro.
+Dialogue: 0,0:13:59.75,0:14:05.48,Flashback,CHRIS,0,0,0,,Tuy nhiên, bọn cháu cần sự trợ giúp của ông\Nđể thoát khỏi nanh vuốt của Balthazar.
+Dialogue: 0,0:14:06.10,0:14:10.38,Flashback,CHRIS,0,0,0,,Cháu mong ông sẽ sớm tới gặp cháu nhanh nhất có thể.
+Dialogue: 0,0:14:12.92,0:14:16.16,Default,MIMI,0,0,0,,Chris ơi!
+Dialogue: 0,0:14:17.87,0:14:21.97,Default,ELMA,0,0,0,,Gia tộc Dalenwald thuộc Hệ Sao Dexar.
+Dialogue: 0,0:14:21.97,0:14:24.73,Default,ELMA,0,0,0,,Tin nhắn toàn ảnh của em sẽ mất năm ngày\Nđể truyền tới tận đó,
+Dialogue: 0,0:14:24.73,0:14:27.00,Default,ELMA,0,0,0,,và ít nhất mười ngày nữa viện binh mới tới nơi.
+Dialogue: 0,0:14:27.40,0:14:29.88,Default,ELMA,0,0,0,,Vụ này đúng là rắc rối to thật sự rồi.
+Dialogue: 0,0:14:29.88,0:14:32.10,Default,HIRO,0,0,0,,Ừ, nên tôi muốn chuẩn bị mọi thứ tốt nhất có thể.
+Dialogue: 0,0:14:32.34,0:14:33.56,Default,ELMA,0,0,0,,Phải.
+Dialogue: 0,0:14:33.96,0:14:38.71,Default,ELMA,0,0,0,,Nếu kẻ địch xuất thân từ gia tộc Bá tước,\Nhắn chắc chắn sẽ tìm cách chặn tin nhắn giữa đường.
+Dialogue: 0,0:14:38.71,0:14:42.96,Default,ELMA,0,0,0,,Thôi được, tôi sẽ vận dụng hết các mối quan hệ\Nđể đảm bảo tin nhắn của em ấy tới nơi an toàn.
+Dialogue: 0,0:14:42.96,0:14:44.73,Default,HIRO,0,0,0,,Tôi biết ngay là tiền bối lão làng làm được mà.
+Dialogue: 0,0:14:44.73,0:14:45.79,Default,ELMA,0,0,0,,Đồ đáng ghét.
+Dialogue: 0,0:14:48.02,0:14:50.54,Default,HIRO,0,0,0,,Mimi, em dẫn Chris đi tham quan quanh tàu nhé?
+Dialogue: 0,0:14:50.54,0:14:54.28,Default,MIMI,0,0,0,,Vâng ạ. Đi thôi nào, Chris.
+Dialogue: 0,0:14:54.28,0:14:55.48,Default,CHRIS,0,0,0,,À, ừ.
+Dialogue: 0,0:14:57.72,0:15:00.16,Default,HIRO,0,0,0,,Nào, giờ tính sao đây?
+Dialogue: 0,0:15:00.45,0:15:04.12,DefaultItalics,HIRO/ID,0,0,0,,Bằng mọi giá phải tránh đánh giáp lá cà.
+Dialogue: 0,0:15:04.64,0:15:07.34,DefaultItalics,HIRO/ID,0,0,0,,Nếu buộc phải giao chiến, mình muốn\Nđánh đúng sở trường của bản thân.
+Dialogue: 0,0:15:07.34,0:15:10.60,DefaultItalics,HIRO/ID,0,0,0,,Tốt nhất là dùng chiến hạm Krishna\Ncho một trận không chiến giữa các phi thuyền.
+Dialogue: 0,0:15:12.36,0:15:16.49,DefaultItalics,HIRO/ID,0,0,0,,Phương án an toàn nhất là cố thủ trong Krishna\Nchờ viện binh tới, nhưng mà...
+Dialogue: 0,0:15:19.43,0:15:20.30,Default,HIRO,0,0,0,,Có chuyện gì thế?
+Dialogue: 0,0:15:20.30,0:15:22.28,Default,ELMA,0,0,0,,Tôi bị bám đuôi rồi.
+Dialogue: 0,0:15:22.28,0:15:23.61,Default,HIRO,0,0,0,,Cái gì?!
+Dialogue: 0,0:15:26.55,0:15:27.93,Default,ELMA,0,0,0,,Tôi về rồi đây.
+Dialogue: 0,0:15:28.15,0:15:30.44,Default,ELMA,0,0,0,,Tin nhắn đã gửi đi trót lọt.
+Dialogue: 0,0:15:30.44,0:15:32.19,Default,HIRO,0,0,0,,Mừng quá vì cô vẫn an toàn!
+Dialogue: 0,0:15:32.81,0:15:34.18,Default,ELMA,0,0,0,,G-Gì mà tự dưng nói câu đó thế?
+Dialogue: 0,0:15:34.18,0:15:35.90,Default,HIRO,0,0,0,,Tại tôi lo cho cô mà.
+Dialogue: 0,0:15:35.90,0:15:38.56,Default,ELMA,0,0,0,,Chà, cậu đâu cần phải lo lắng thế.
+Dialogue: 0,0:15:38.56,0:15:41.87,Default,ELMA,0,0,0,,Đôi lúc tôi chẳng rõ sự tự tin bình thường của cậu\Nlà diễn hay là thật nữa.
+Dialogue: 0,0:15:44.79,0:15:45.95,Default,HIRO,0,0,0,,Cái gì?!
+Dialogue: 0,0:15:45.95,0:15:47.36,Default,ELMA,0,0,0,,Thế đã yên tâm hơn chưa?
+Dialogue: 0,0:15:47.69,0:15:48.80,Default,HIRO,0,0,0,,Ừm...
+Dialogue: 0,0:15:48.80,0:15:53.29,Default,CHRIS,0,0,0,,Trông anh Hiro bất ngờ đáng yêu thật đấy.
+Dialogue: 0,0:15:53.29,0:15:55.26,Default,MIMI,0,0,0,,Em vừa khám phá ra một khía cạnh mới của anh.
+Dialogue: 0,0:15:55.26,0:15:56.58,Default,HIRO,0,0,0,,Hai người nhìn thấy hết rồi á?!
+Dialogue: 0,0:15:58.15,0:16:00.70,Default,HIRO,0,0,0,,Giờ không phải lúc đùa đâu!
+Dialogue: 0,0:16:00.70,0:16:02.41,Default,HIRO,0,0,0,,Mau bàn bước tiếp theo đi!
+Dialogue: 0,0:16:02.41,0:16:03.65,Default,MIMI & ELMA,0,0,0,,Rõ rồi.
+Dialogue: 0,0:16:09.10,0:16:10.63,Default,HIRO,0,0,0,,Cô cắt đuôi đám theo dõi thế nào?
+Dialogue: 0,0:16:10.63,0:16:12.04,Default,ELMA,0,0,0,,Tôi đánh lạc hướng được chúng rồi.
+Dialogue: 0,0:16:12.04,0:16:16.03,Default,ELMA,0,0,0,,Nhưng chúng đã thấy mặt tôi, nên sớm muộn gì\Nchúng cũng lần ra bọn mình ở đây thôi.
+Dialogue: 0,0:16:16.03,0:16:18.36,Default,HIRO,0,0,0,,Vậy nghĩa là cố thủ ở lại bến cảng này sẽ...
+Dialogue: 0,0:16:18.36,0:16:19.60,Default,ELMA,0,0,0,,Nguy hiểm là cái chắc.
+Dialogue: 0,0:16:19.60,0:16:23.49,Default,ELMA,0,0,0,,Chúng có thể bỏ độc vào lương thực hay nguồn nước\Nnếu ta tìm cách tiếp tế.
+Dialogue: 0,0:16:25.41,0:16:29.34,Default,HIRO,0,0,0,,Hoặc cho nổ tung âu tàu rồi dựng hiện trường giả thành tai nạn.
+Dialogue: 0,0:16:29.59,0:16:32.23,Default,ELMA,0,0,0,,Em nghĩ chúng đủ sức bưng bít vụ đó không?
+Dialogue: 0,0:16:32.79,0:16:35.40,Default,CHRIS,0,0,0,,Có ạ, với quyền lực của chú em.
+Dialogue: 0,0:16:35.40,0:16:36.54,Default,HIRO,0,0,0,,Phải rồi.
+Dialogue: 0,0:16:46.73,0:16:47.43,Default,CHRIS,0,0,0,,À...
+Dialogue: 0,0:16:49.07,0:16:50.11,Default,CHRIS,0,0,0,,Hửm?
+Dialogue: 0,0:16:54.51,0:16:55.78,Default,HIRO,0,0,0,,Cảm ơn em.
+Dialogue: 0,0:17:05.53,0:17:09.22,Default,HIRO,0,0,0,,Này, hay là mình đi săn hải tặc không gian\Nđể cướp lương thực?
+Dialogue: 0,0:17:09.22,0:17:12.04,Default,ELMA,0,0,0,,Ý hay đấy. An toàn hơn hẳn mua hàng ở đây.
+Dialogue: 0,0:17:12.34,0:17:15.91,Default,HIRO,0,0,0,,Nhưng ra ngoài đó thì chúng sẽ không ngần ngại\Nra tay tấn công ta trực diện đâu.
+Dialogue: 0,0:17:17.09,0:17:18.21,Default,ELMA,0,0,0,,Đúng là vậy.
+Dialogue: 0,0:17:18.50,0:17:22.23,Default,HIRO,0,0,0,,Hay chúng ta tự lái tàu đi gặp\NBá tước Dalenwald luôn?
+Dialogue: 0,0:17:22.23,0:17:26.59,Default,ELMA,0,0,0,,Với tay lái của cậu và con tàu này,\Nkhông phải là bất khả thi, nhưng...
+Dialogue: 0,0:17:26.59,0:17:29.57,Default,HIRO,0,0,0,,Chúng sẽ canh chừng Hành lang Siêu không gian và các cổng nhảy.
+Dialogue: 0,0:17:29.57,0:17:30.93,Default,ELMA,0,0,0,,Thấy chưa? Cậu tự biết câu trả lời rồi đấy.
+Dialogue: 0,0:17:31.37,0:17:35.23,Default,ELMA,0,0,0,,Còn bay bằng hành trình thông thường\Nthì phải mất hơn một tháng.
+Dialogue: 0,0:17:35.23,0:17:39.66,Default,ELMA,0,0,0,,Tệ nhất là ta có thể đi lướt qua nhau\Nkhi Bá tước Dalenwald đang trên đường tới ứng cứu.
+Dialogue: 0,0:17:39.66,0:17:41.61,Default,HIRO,0,0,0,,Vậy phương án đó loại ngay.
+Dialogue: 0,0:17:41.82,0:17:43.76,Default,ELMA,0,0,0,,Mimi, cho chị một ly luôn được không?
+Dialogue: 0,0:17:43.76,0:17:45.50,Default,MIMI,0,0,0,,Cấm chị uống rượu đấy.
+Dialogue: 0,0:17:45.50,0:17:47.59,Default,ELMA,0,0,0,,Ủa sao thế?
+Dialogue: 0,0:17:58.85,0:18:00.46,Default,HIRO,0,0,0,,Hệ sao nghỉ dưỡng sao?
+Dialogue: 0,0:18:01.77,0:18:03.63,Default,HIRO,0,0,0,,Đảo ngược hoàn toàn kế hoạch lại đi.
+Dialogue: 0,0:18:03.63,0:18:05.98,Default,HIRO,0,0,0,,Biết đâu cứ để mặc chúng truy đuổi lại hay.
+Dialogue: 0,0:18:05.98,0:18:07.18,Default,CHRIS,0,0,0,,Sao cơ?
+Dialogue: 0,0:18:09.37,0:18:11.13,Default,HIRO,0,0,0,,Dù sao đi nữa, kế hoạch là thế đấy.
+Dialogue: 0,0:18:11.56,0:18:13.68,Default,MIMI,0,0,0,,Nh-Nhưng chi phí thì...
+Dialogue: 0,0:18:13.68,0:18:16.03,Default,ELMA,0,0,0,,Cứ kê hóa đơn bắt ngài Bá tước thanh toán là xong.
+Dialogue: 0,0:18:16.61,0:18:18.95,Default,HIRO,0,0,0,,Khi nào thì Krishna sẵn sàng xuất phát?
+Dialogue: 0,0:18:18.95,0:18:20.38,Default,ELMA,0,0,0,,Bất cứ lúc nào.
+Dialogue: 0,0:18:21.06,0:18:24.95,Default,ELMA,0,0,0,,Tôi đâu có ngồi không bấm móng tay\Ntrong lúc cậu suy nghĩ đâu.
+Dialogue: 0,0:18:24.95,0:18:26.62,Default,HIRO,0,0,0,,Đúng chuẩn tiền bối lão làng của tôi.
+Dialogue: 0,0:18:26.62,0:18:29.29,Default,ELMA,0,0,0,,Nhưng trước tiên ta cần nghỉ ngơi lấy sức đã.
+Dialogue: 0,0:18:29.29,0:18:31.48,Default,ELMA,0,0,0,,Phải ở trạng thái sung mãn nhất trước khi khởi hành.
+Dialogue: 0,0:18:31.48,0:18:32.50,Default,HIRO,0,0,0,,Hiểu rồi.
+Dialogue: 0,0:18:32.78,0:18:35.10,Default,HIRO,0,0,0,,Mimi, em chuẩn bị mọi thứ nhé.
+Dialogue: 0,0:18:35.10,0:18:37.46,Default,HIRO,0,0,0,,Trong lúc đó anh với Elma sẽ đi nghỉ một lát.
+Dialogue: 0,0:18:37.74,0:18:40.06,Default,ELMA,0,0,0,,Có biến gì thì gọi bọn chị dậy ngay nhé.
+Dialogue: 0,0:18:40.06,0:18:42.17,Default,MIMI,0,0,0,,Vâng, cứ giao cho em.
+Dialogue: 0,0:18:42.17,0:18:44.28,Default,HIRO,0,0,0,,Chốt vậy nhé. Gặp lại mọi người sau.
+Dialogue: 0,0:18:54.01,0:18:55.73,Default,CHRIS,0,0,0,,À, chị Mimi ơi.
+Dialogue: 0,0:18:56.54,0:18:58.20,Default,CHRIS,0,0,0,,Em có chuyện muốn hỏi chị.
+Dialogue: 0,0:19:05.42,0:19:06.95,Default,HIRO,0,0,0,,Cô đấy à, Elma?
+Dialogue: 0,0:19:07.70,0:19:09.82,Default,HIRO,0,0,0,,Đang có Chris ở trên tàu đấy. Kiềm chế chút đi.
+Dialogue: 0,0:19:10.42,0:19:11.41,Default,HIRO,0,0,0,,Cái gì?!
+Dialogue: 0,0:19:15.62,0:19:16.91,Default,CHRIS,0,0,0,,À-Ờm...
+Dialogue: 0,0:19:18.88,0:19:22.28,Default,CHRIS,0,0,0,,X-Xin anh hãy nhẹ nhàng nhé.
+Dialogue: 0,0:19:22.28,0:19:23.22,Default,HIRO,0,0,0,,Tôi không làm chuyện này đâu.
+Dialogue: 0,0:19:23.22,0:19:23.81,Default,CHRIS,0,0,0,,Hả?
+Dialogue: 0,0:19:33.51,0:19:34.40,Default,HIRO,0,0,0,,Mimi.
+Dialogue: 0,0:19:34.40,0:19:35.38,Default,MIMI,0,0,0,,Vâng ạ?!
+Dialogue: 0,0:19:35.86,0:19:38.06,Default,HIRO,0,0,0,,Là em xúi Chris làm chuyện này đúng không?
+Dialogue: 0,0:19:38.41,0:19:40.78,Default,MIMI,0,0,0,,E-Em xin lỗi ạ.
+Dialogue: 0,0:19:40.78,0:19:44.28,Default,CHRIS,0,0,0,,Không phải lỗi của chị ấy. Là em tự đề xuất đấy.
+Dialogue: 0,0:19:44.91,0:19:45.74,Default,HIRO,0,0,0,,Tại sao?
+Dialogue: 0,0:19:46.73,0:19:51.96,Default,CHRIS,0,0,0,,Bởi vì cả ba người đều rất thân thiết với nhau.
+Dialogue: 0,0:19:52.90,0:19:56.64,Default,CHRIS,0,0,0,,Em không muốn mình là người duy nhất bị gạt ra ngoài.
+Dialogue: 0,0:19:58.92,0:20:01.11,Default,HIRO,0,0,0,,Bọn anh chỉ đang làm nhiệm vụ hộ vệ em thôi.
+Dialogue: 0,0:20:01.11,0:20:04.64,Default,HIRO,0,0,0,,Anh không thể dính vào quan hệ đó với em,\Nvà anh cũng không muốn thế.
+Dialogue: 0,0:20:04.64,0:20:05.60,Default,CHRIS,0,0,0,,Nhưng mà—
+Dialogue: 0,0:20:05.85,0:20:11.56,Default,HIRO,0,0,0,,Nếu hai ta nảy sinh quan hệ, ông nội em sẽ nghĩ sao?
+Dialogue: 0,0:20:11.82,0:20:12.61,Default,CHRIS,0,0,0,,Sao cơ?
+Dialogue: 0,0:20:13.09,0:20:18.35,Default,HIRO,0,0,0,,Ngài ấy sẽ nghĩ một tên lính đánh thuê bỉ ổi\Nđã làm vấy bẩn danh dự của em.
+Dialogue: 0,0:20:18.61,0:20:19.81,Default,CHRIS,0,0,0,,Em...
+Dialogue: 0,0:20:20.06,0:20:22.99,Default,HIRO,0,0,0,,Việc em thuận theo cảm xúc bồng bột nhất thời này
+Dialogue: 0,0:20:22.99,0:20:27.46,Default,HIRO,0,0,0,,sẽ gây ra xung đột không đáng có giữa tôi\Nvà Bá tước Dalenwald.
+Dialogue: 0,0:20:27.46,0:20:28.49,Default,HIRO,0,0,0,,Tôi nói có sai không?
+Dialogue: 0,0:20:29.65,0:20:31.50,Default,CHRIS,0,0,0,,Không, anh nói đúng.
+Dialogue: 0,0:20:31.97,0:20:38.58,Default,HIRO,0,0,0,,Christina Dalenwald, em hãy đưa ra những lựa chọn\Nxứng đáng với thân phận quý tộc của mình.
+Dialogue: 0,0:20:38.98,0:20:41.21,Default,HIRO,0,0,0,,Đó là yêu cầu của tôi với tư cách hiệp sĩ của em.
+Dialogue: 0,0:20:41.58,0:20:44.43,Default,CHRIS,0,0,0,,Em hiểu rồi. Em xin lỗi.
+Dialogue: 0,0:20:54.66,0:20:58.63,Default,HIRO,0,0,0,,Cứ giữ mọi chuyện đơn giản thôi, được chứ?
+Dialogue: 0,0:21:00.44,0:21:01.43,Default,CHRIS,0,0,0,,Vâng.
+Dialogue: 0,0:21:06.98,0:21:08.96,Default,ELMA,0,0,0,,Lò phản ứng chính đã kích hoạt.
+Dialogue: 0,0:21:08.96,0:21:10.91,Default,MIMI,0,0,0,,Toàn bộ cảm biến hoạt động bình thường.
+Dialogue: 0,0:21:10.91,0:21:13.09,Default,MIMI,0,0,0,,Yêu cầu rời cảng đã được phê duyệt.
+Dialogue: 0,0:21:14.87,0:21:16.20,Default,HIRO,0,0,0,,Đưa tàu rời bến đi.
+Dialogue: 0,0:21:16.20,0:21:17.40,Default,ELMA,0,0,0,,Rõ, thưa thuyền trưởng.
+Dialogue: 0,0:21:23.00,0:21:25.58,Default,HIRO,0,0,0,,Nào, bắt đầu kỳ nghỉ của chúng ta thôi!
+Dialogue: 0,0:21:25.58,0:21:27.55,Default,CHRIS,0,0,0,,Kỳ nghỉ á?
+Dialogue: 0,0:21:27.55,0:21:30.25,Default,MIMI,0,0,0,,Vâng! Em háo hức quá đi!
+Dialogue: 0,0:21:30.53,0:21:33.10,Default,ELMA,0,0,0,,Chúng ta sẽ quẩy tới bến luôn!
+Dialogue: 0,0:21:47.62,0:21:52.61,DefaultItalics,CHRIS,0,0,0,,Bọn cháu cần sự trợ giúp của ông\Nđể thoát khỏi nanh vuốt của Balthazar.
+Dialogue: 0,0:21:53.14,0:21:57.08,DefaultItalics,CHRIS,0,0,0,,Cháu mong ông sẽ sớm tới gặp cháu nhanh nhất có thể.
+Dialogue: 0,0:23:35.01,0:23:40.09,Signs,NEXTEPTITLE,0,0,0,,{\fnSegoe UI\fs26\bord1.7\c&H2AFFFD&\3c&H171817&\pos(320,234)}Hành Tinh Nghỉ Dưỡng Cierra III\N{\fs14\i1\c&HFFFFFF&\3c&H000000&}Phụ đề Việt ngữ: Amtia(NOFACE){\i0}

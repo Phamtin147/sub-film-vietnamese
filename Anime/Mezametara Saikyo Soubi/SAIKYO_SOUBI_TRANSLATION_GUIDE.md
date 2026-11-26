@@ -38,6 +38,15 @@
    - *Xưng hô*: Tôi - Hiro / Các bạn (`Hiro`: Tôi/Em - Bác sĩ Shouko).
 7. **Georg (ゲオルグ)**:
    - *Vai trò*: Phó quan / Thuộc cấp của Thiếu tá Serena (`Tôi - Thiếu tá / Tiểu thư`).
+8. **Christina Dalenwald (Chris / クリス)**:
+   - *Vai trò*: Tiểu thư quý tộc, người thừa kế nhà Bá tước Dalenwald (Hệ Sao Dexar), con gái cố Bá tước **Friedrich Dalenwald**. Sau khi cha mẹ hy sinh để bảo vệ cô khỏi âm mưu của chú ruột **Balthazar Dalenwald**, cô trôi dạt 3 tháng trong khoang ngủ đông và được Hiro giải cứu.
+   - *Xưng hô*:
+     - Với Hiro: `Em - Anh Hiro / Hiro-sama / Hiệp sĩ của em` (Hiro gọi `Chris / Tiểu thư Christina`, xưng `Anh / Tôi`).
+     - Với Mimi: `Mình / Tôi - Chị Mimi / Mimi-san` (Mimi gọi `Chris`, xưng `Mình / Tôi`).
+     - Với cha / ông nội: `Con - Cha` / `Cháu - Ông nội`.
+9. **Friedrich Dalenwald & Balthazar Dalenwald**:
+   - **Friedrich**: Cố Bá tước nhà Dalenwald, cha của Chris (`Cha - Con / Chris`).
+   - **Balthazar**: Chú ruột của Chris, kẻ chủ mưu vụ ám sát đoạt quyền.
 
 ---
 
@@ -49,6 +58,8 @@
 | **Hiro** | Elma | Tôi | Cô | Bình đẳng, tự tin, trêu đùa |
 | **Elma** | Hiro | Tôi | Cậu | Bộc trực, dạn dĩ, đàn chị |
 | **Elma** | Mimi | Chị | Em | Thân thiện, chiều chuộng |
+| **Hiro** | Chris (Christina) | Anh / Tôi | Em / Chris / Tiểu thư | Lịch thiệp, bảo hộ nghiêm túc, rõ ràng ranh giới quý tộc |
+| **Chris (Christina)** | Hiro | Em | Anh Hiro / Hiro-sama / Hiệp sĩ của em | Thanh lịch, biết ơn, tin tưởng |
 | **Serena** | Hiro / Elma | Tôi | Anh Hiro / Cô Elma | Nghiêm cẩn, đúng mực quân đội |
 | **Emma (AI)** | Hiro | Tôi / Hệ thống | Thuyền trưởng / Ngài | Máy móc, chuẩn xác, trung thành |
 
@@ -56,9 +67,17 @@
 
 ## 4. THUẬT NGỮ CHUẨN (LORE & SCI-FI)
 - **Krishna**: Chiến hạm Krishna
-- **Space Mercenary**: Lính đánh thuê không gian
+- **Space Mercenary**: Lính đánh thuê không gian (`Silver-Rank`: Hạng Bạc, `Gold-Rank`: Hạng Vàng)
 - **Mercenary Guild**: Công hội Lính Đánh Thuê
 - **Imperial Space Force**: Hạm đội Không Gian Đế Quốc
+- **Cierra Star System / Cierra Prime / Cierra III**: Hệ Sao Cierra / Thuộc địa Cierra Prime / Hành tinh nghỉ dưỡng Cierra III
+- **Dexar Star System**: Hệ Sao Dexar (lãnh địa nhà Bá tước Dalenwald)
+- **Hyperlane / Hyperdrive**: Hành lang Siêu không gian / Động cơ Siêu không gian
+- **Lightspeed Drive**: Động cơ tốc độ ánh sáng
+- **Interdictor / Chaff**: Thiết bị đánh chặn không gian / Mồi nhiễu
+- **Cold Sleep Pod**: Khoang ngủ đông
+- **Distress Signal Emitter**: Bộ phát tín hiệu cầu cứu
+- **Holo-novel / Holo-message**: Tiểu thuyết toàn ảnh / Tin nhắn toàn ảnh
 - **Enel**: Đơn vị tiền tệ Enel
 - **FTL Drive**: Động cơ vượt vận tốc ánh sáng (FTL)
 - **Shield / Armor**: Khiên năng lượng / Giáp thân tàu

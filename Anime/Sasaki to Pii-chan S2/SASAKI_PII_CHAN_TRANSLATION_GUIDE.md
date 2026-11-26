@@ -21,10 +21,27 @@
   - Giọng cổ phong, xưng *ta*, gọi Sasaki là *ngươi / Sasaki*.
 - **Hoshizaki-san** (Nữ dị năng giả điều khiển nước, hậu bối kiêm cộng sự tại Cục Quản lý):
   - Xưng *tôi / em*, gọi Sasaki là *tiền bối Sasaki*.
-- **Akutsu** (Sếp trực tiếp của Sasaki ở Cục Quản lý Hiện tượng Dị thường):
-  - Lạnh lùng, quyết đoán. Xưng *tôi / ta*, gọi *cậu Sasaki*.
+- **Akutsu** (Sếp trực tiếp của Sasaki ở Cục Đối sách Hiện tượng Dị thường):
+  - Lạnh lùng, quyết đoán. Xưng *tôi / ta*, gọi *cậu Sasaki / Futari Shizuka-kun*.
+- **Cô bé hàng xóm (Neighbor / Otonari-san)** (Nữ sinh trung học hàng xóm cũ của Sasaki, người tham gia Trò chơi Sinh tử / Cuộc chiến ủy nhiệm):
+  - Xưng *cháu / em*, gọi Sasaki là *chú / chú hàng xóm*; với Abaddon gọi *Abaddon*, xưng *tôi / cháu*.
+- **Abaddon** (Ác ma đồng hành kiêm sư phụ của Cô bé hàng xóm trong Cuộc chiến ủy nhiệm):
+  - Hài hước, tinh quái, lịch thiệp kiểu quý ông. Xưng *ta / tôi*, gọi cô bé hàng xóm là *đồ đệ / nhóc*, gọi Sasaki & Shizuka là *các vị / cậu*.
+- **Ma pháp thiếu nữ Hồng (Magical Pink / Pink)** (Ma pháp thiếu nữ chuyên săn lùng dị năng giả):
+  - Ngây thơ nhưng nguy hiểm. Xưng *em / cháu*, gọi Sasaki là *Chú Ma Pháp (Magical Man)*.
+- **Đại tá Yoshikawa (Captain Yoshikawa)** & **Thiếu úy Inukai (Ensign Inukai)** (Sĩ quan Lực lượng Phòng vệ Biển Nhật Bản — JMSDF, vận hành thủy phi cơ US-2):
+  - Yoshikawa nghiêm nghị quân nhân (`Tôi - Các vị`), Inukai nhiệt tình am hiểu kỹ thuật (`Tôi - Các vị / Mọi người`). Sasaki gọi `Đại tá Yoshikawa / Thiếu úy Inukai`.
 
-## 3. Tiêu chuẩn Kỹ thuật
+## 3. Thuật ngữ mới (Season 2)
+- **Paranormal Phenomena Countermeasure Bureau**: Cục Đối sách Hiện tượng Dị thường
+- **Maritime SDF / JMSDF**: Lực lượng Phòng vệ Biển (JMSDF)
+- **US-2 Amphibious Aircraft**: Thủy phi cơ lưỡng cư US-2
+- **Atsugi Base / Chichijima Base**: Căn cứ Atsugi / Căn cứ Chichijima
+- **Unknown 04 (Kraken)**: Vật thể chưa xác định 04 / Thủy quái Kraken (`01`: Người Thằn Lằn, `02`/`03`: Peeps & Elsa)
+- **Superior Specimen**: Cá thể đột biến ưu việt (cá thể hấp thụ ma lực đậm đặc rồi biến dị)
+- **Proxy War / Death Game / Quarantine Space**: Cuộc chiến ủy nhiệm / Trò chơi sinh tử / Không gian cách ly
+
+## 4. Tiêu chuẩn Kỹ thuật
 - Credit: `Amtia(NOFACE)`
 - Font: `Segoe UI`, Unicode Encoding 1.
 - Định dạng: Chuẩn hóa `\N`, chống ô vuông tofu `□`.
