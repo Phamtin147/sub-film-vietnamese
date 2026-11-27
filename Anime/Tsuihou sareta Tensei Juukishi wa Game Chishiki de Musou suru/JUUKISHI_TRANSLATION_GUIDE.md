@@ -31,6 +31,7 @@
 - **The Sea Dragon's Fang**: Bang Nanh Hải Long (Mary dẫn đầu, chuyên câu cá hầm ngục)
 - **Magic World**: Thế Giới Ma Pháp (tựa game MMORPG kiếp trước của Elymas)
 - **Kỹ năng Trọng Kỵ Sĩ (Status Screen Ep 21)**: *Khiên Quỷ Nộ (Daemonsrage Shield)*, *Giáp Hắc Thiết*, *Kẻ Bất Khuất (Unwavering One)*, *Tường Thành Phản Đòn (Rampart Reflection)*, *Tước Vũ Khí (Disarm)*, *Gạt Đòn (Parry)*, *Chém Điểm Yếu (Vital Slice)*, *Ảnh Đạp (Shadow Stomp)*, *Khiên Kích (Shield Bash)*
+- **Quái vật & Vật phẩm Nghĩa Địa Bi Thương (Ep 22)**: *Kỵ Sĩ Xương Nightbone (Skeleton Knight Nightbone — Chúa Tể Mộng Cảnh)*, *Ếch Xác Ướp Raana (Mummy Raana — chiêu Đạn Độc / Poison Spitball)*, *Giải Độc Thuật (Poison Heal)*, *Nấm Xác Sống (Zom Shroom — giá 400.000G)*, *Tử Thần Ba Tay (Three-armed God of Death)*
 
 ## 2. Hệ thống Nhân vật & Ma trận Xưng hô chuẩn Fansub
 - **Elymas Edvaughn** (Nam chính, Trọng Kỵ Sĩ cấp D):

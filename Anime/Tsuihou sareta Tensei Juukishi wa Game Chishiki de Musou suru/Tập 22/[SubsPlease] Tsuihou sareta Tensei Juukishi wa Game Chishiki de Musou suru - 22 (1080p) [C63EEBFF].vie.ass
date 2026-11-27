@@ -1,0 +1,291 @@
+﻿[Script Info]
+Title: Vietnamese Fansub (VietSub by Amtia(NOFACE))
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+
+[Aegisub Project Garbage]
+Audio File: CR_TheExiledHeavyK_S1.0E22.0_XHKSIM0022_380238_video_ja-jp_J9541525.mp4
+Video File: CR_TheExiledHeavyK_S1.0E22.0_XHKSIM0022_380238_video_ja-jp_J9541525.mp4
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 2.500000
+Scroll Position: 117
+Active Line: 139
+Video Position: 18152
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Segoe UI,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: top,Segoe UI,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: italics,Segoe UI,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: italicstop,Segoe UI,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: flashback,Segoe UI,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashback italics,Segoe UI,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: flashbacktop,Segoe UI,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: flashbackitalicstop,Segoe UI,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: overlap,Segoe UI,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: overlaptop,Segoe UI,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: overlap italics,Segoe UI,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: main,Segoe UI,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Narration,Segoe UI,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: sign_generic,Segoe UI,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:11.24,0:00:16.00,italicstop,SYSTEM VOICE,0,0,0,,Lối vào Nghĩa Địa Bi Thương.\NCấp độ đề xuất: 70.
+Dialogue: 0,0:00:12.12,0:00:16.00,sign_generic,SIGN,0,0,0,,{\bord0\an7\fade(2350,1)\b1\fs15\pos(211.486,280.99)}Lối Vào Nghĩa Địa Bi Thương
+Dialogue: 0,0:00:14.70,0:00:16.00,sign_generic,SIGN,0,0,0,,{\bord0\fs8\b1\an7\fade(430,1)\pos(535.5,297.202)}Cấp Độ Đề Xuất: 70
+Dialogue: 0,0:00:16.55,0:00:19.62,italics,ELYMAS/ID,0,0,0,,Ở đây cũng đang xảy ra chuyện kỳ lạ rồi.
+Dialogue: 0,0:00:20.58,0:00:22.40,italics,ELYMAS/ID,0,0,0,,Mình phải tìm ra rốt cuộc có chuyện gì đang diễn ra.
+Dialogue: 0,0:00:25.75,0:00:29.50,Default,CARLOS,0,0,0,,Để thăm dò hầm ngục một cách hiệu quả,
+Dialogue: 0,0:00:29.50,0:00:34.04,Default,CARLOS,0,0,0,,chúng ta sẽ chia làm năm nhóm, đi theo\Ncác tuyến đường khác nhau rồi hội quân bên trong.
+Dialogue: 0,0:00:35.63,0:00:39.06,italics,ELYMAS/ID,0,0,0,,Đôi khi các hầm ngục trùng tên sẽ xuất hiện,
+Dialogue: 0,0:00:39.42,0:00:43.53,italics,ELYMAS/ID,0,0,0,,và cấu trúc bên trong chúng được tạo ngẫu nhiên,\Nmỗi lần một khác.
+Dialogue: 0,0:00:44.11,0:00:49.28,italics,ELYMAS/ID,0,0,0,,Nhưng dựa trên các đợt thám hiểm trước đó\Nvà thông tin mạo hiểm giả thu thập được,
+Dialogue: 0,0:00:49.28,0:00:52.45,italics,ELYMAS/ID,0,0,0,,bố cục đại khái của hầm ngục này\Nđã được nắm rõ rồi.
+Dialogue: 0,0:00:52.94,0:00:56.95,Default,CARLOS,0,0,0,,Sau khi thăm dò xong xuôi,\Nta sẽ chia đợt tấn công Chúa Tể Mộng Cảnh.
+Dialogue: 0,0:00:57.41,0:01:00.04,Default,CARLOS,0,0,0,,Phần thưởng sẽ được chia đều,
+Dialogue: 0,0:01:00.04,0:01:04.38,Default,CARLOS,0,0,0,,nhưng phía Hội cũng sẽ trả thêm thù lao riêng,\Nnên mọi người cứ yên tâm.
+Dialogue: 0,0:01:04.77,0:01:07.88,Default,CARLOS,0,0,0,,Chúa Tể Mộng Cảnh là\NKỵ Sĩ Xương Nightbone.
+Dialogue: 0,0:01:10.07,0:01:12.78,italics,ELYMAS/ID,0,0,0,,Hỏa lực khủng khiếp của nó\Nkhá là khó đối phó đấy,
+Dialogue: 0,0:01:12.78,0:01:18.01,italics,ELYMAS/ID,0,0,0,,nhưng nó thiếu đòn đánh tầm xa và\Ncấp độ thấp hơn Tử Thần Amude.
+Dialogue: 0,0:01:23.56,0:01:27.78,Default,CARLOS,0,0,0,,Nếu phối hợp cùng nhau, ta sẽ hạ được nó.
+Dialogue: 0,0:01:27.78,0:01:30.53,Default,CARLOS,0,0,0,,Một vài người ở đây thậm chí thừa sức đơn đấu với nó.
+Dialogue: 0,0:01:30.80,0:01:34.91,Default,CARLOS,0,0,0,,Nhưng hiện tại, bất kỳ chuyện gì\Ncũng có thể xảy ra trong hầm ngục này.
+Dialogue: 0,0:01:35.18,0:01:39.90,Default,CARLOS,0,0,0,,Tránh hành động hấp tấp mà xông thẳng\Nvào phòng Chúa Tể Mộng Cảnh.
+Dialogue: 0,0:01:43.42,0:01:45.16,Default,ADVENTURER 3,0,0,0,,Cảnh giác xung quanh nhé.
+Dialogue: 0,0:01:45.16,0:01:46.20,Default,ADVENTURER 4,0,0,0,,Rõ rồi.
+Dialogue: 0,0:01:46.20,0:01:47.88,Default,ADVENTURER 8,0,0,0,,Hả? Cái gì cơ?
+Dialogue: 0,0:01:47.88,0:01:50.88,Default,HILDE,0,0,0,,Sư phụ, con mừng quá vì được chung nhóm với người.
+Dialogue: 0,0:01:50.88,0:01:54.08,Default,HILDE,0,0,0,,Con biết ngay là người công nhận con mà.
+Dialogue: 0,0:01:54.08,0:01:58.38,Default,CARLOS,0,0,0,,Với trang bị hiện tại của cô, ta chẳng thể đẩy cô\Nsang nhóm khác được,
+Dialogue: 0,0:01:58.38,0:02:01.02,Default,CARLOS,0,0,0,,với lại ta đâu có nhớ mình nhận cô làm đệ tử bao giờ.
+Dialogue: 0,0:02:01.43,0:02:06.56,Default,HILDE,0,0,0,,Nếu sư phụ thấy vậy, hay là\Nngười cho con một thanh kiếm đi.
+Dialogue: 0,0:02:09.99,0:02:14.07,Default,CARLOS,0,0,0,,Cầm lưỡi hái vẫn tốt hơn nếu nó ngăn được cô\Nkhông lao đầu lên phía trước.
+Dialogue: 0,0:02:16.67,0:02:18.12,Default,KELT,0,0,0,,Thật luôn á?
+Dialogue: 0,0:02:18.12,0:02:22.79,Default,KELT,0,0,0,,Tôi phải kẹt chung nhóm với mấy đứa nhóc này à?\NĐừng có ngáng chân tôi đấy.
+Dialogue: 0,0:02:25.72,0:02:28.50,Default,MAEBEL,0,0,0,,Thật mừng vì được chung nhóm\Nvới những gương mặt quen thuộc.
+Dialogue: 0,0:02:28.50,0:02:30.92,Default,RUCHE,0,0,0,,B-Bọn em rất mong được phối hợp cùng chị ạ.
+Dialogue: 0,0:02:30.92,0:02:35.25,Default,MAEBEL,0,0,0,,Hai bạn trông đều tử tế,\Ncòn anh Kelt thì có vẻ rất đáng tin cậy.
+Dialogue: 0,0:02:35.25,0:02:38.68,Default,MAEBEL,0,0,0,,Chúng ta cứ để anh Kelt dẫn đầu cả nhóm nhé.
+Dialogue: 0,0:02:38.68,0:02:40.93,Default,KELT,0,0,0,,Lựa chọn khôn ngoan đấy,
+Dialogue: 0,0:02:41.37,0:02:45.44,Default,KELT,0,0,0,,mà đó cũng là chuyện hiển nhiên thôi.\NTôi dày dạn kinh nghiệm hơn hẳn mà.
+Dialogue: 0,0:02:45.87,0:02:50.69,Default,MAEBEL,0,0,0,,Tôi rất vui khi được đi theo sự dẫn dắt\Ncủa một lão làng kỳ cựu.
+Dialogue: 0,0:02:51.44,0:02:53.56,Default,MAEBEL,0,0,0,,Như anh ấy vừa nói lúc nãy...
+Dialogue: 0,0:02:55.52,0:03:01.70,Default,MAEBEL,0,0,0,,Tôi sẽ vô cùng, vô cùng tiết kiệm\Nlượng MP dành để hồi máu cho anh ta.
+Dialogue: 0,0:03:02.90,0:03:05.62,Default,RUCHE,0,0,0,,Chị ấy có ổn không vậy anh?
+Dialogue: 0,0:03:05.62,0:03:10.46,Default,ELYMAS,0,0,0,,Anh chắc chị ấy sẽ không gây rắc rối lớn đâu,\Nmiễn là hai đứa mình đừng chọc giận chị ấy.
+Dialogue: 0,0:03:14.51,0:03:15.97,Default,CARLOS,0,0,0,,Xuất phát!
+Dialogue: 0,0:04:56.82,0:05:01.78,sign_generic,EPTITLE; sign,0,0,0,,{\b1\fnSegoe UI\an7\bord1\shad1.25\fade(482,482)\alpha&H00&\3c&H000000&\c&HFEFCFD&\4c&H000000&\pos(178.78,286.342)}Tập 22\h\h\h\hThợ Săn Kelt và Tu Sĩ Maebel
+Dialogue: 0,0:05:17.10,0:05:18.69,italics,ELYMAS/ID,0,0,0,,Đúng là một nơi rợn tóc gáy.
+Dialogue: 0,0:05:18.69,0:05:21.73,italics,ELYMAS/ID,0,0,0,,Trong game mình nhìn cảnh này\Nnhiều tới phát ngán rồi,
+Dialogue: 0,0:05:21.73,0:05:25.89,italics,ELYMAS/ID,0,0,0,,nhưng tận mắt chứng kiến ngoài đời thực\Nlại thấy áp bức hơn hẳn.
+Dialogue: 0,0:05:27.95,0:05:34.98,Default,RUCHE,0,0,0,,L-Làm sao chúng ta tìm được\Nthứ gì khả nghi ở chốn này chứ?
+Dialogue: 0,0:05:35.35,0:05:37.82,Default,RUCHE,0,0,0,,Chỗ nào trông cũng khả nghi hết trơn.
+Dialogue: 0,0:05:37.82,0:05:41.18,Default,RUCHE,0,0,0,,Tượng đài nào nhìn cũng cứ như\Nẩn giấu ý nghĩa gì đó vậy.
+Dialogue: 0,0:05:41.18,0:05:45.99,italics,ELYMAS/ID,0,0,0,,Em ấy nói đúng. Chỉ thị lần này\Nquá chung chung,
+Dialogue: 0,0:05:45.99,0:05:49.76,italics,ELYMAS/ID,0,0,0,,nhưng biết đâu mình sẽ nhận ra\Nđiểm khác biệt so với trong game.
+Dialogue: 0,0:05:50.92,0:05:55.65,Default,MAEBEL,0,0,0,,Mục tiêu chính của ta là dọn bớt quái vật\Nvà giải quyết cái hầm ngục này.
+Dialogue: 0,0:05:55.65,0:05:58.00,Default,MAEBEL,0,0,0,,Nghĩ ngợi phức tạp quá cũng chẳng ích gì.
+Dialogue: 0,0:05:58.00,0:06:00.40,Default,MAEBEL,0,0,0,,Đằng nào chúng ta cũng đâu phải học giả.
+Dialogue: 0,0:06:00.40,0:06:02.57,Default,RUCHE,0,0,0,,Đ-Đúng là vậy ạ.
+Dialogue: 0,0:06:06.80,0:06:08.64,Default,KELT,0,0,0,,Này, Trọng Kỵ Sĩ.
+Dialogue: 0,0:06:08.64,0:06:10.66,Default,KELT,0,0,0,,Đi xa lên phía trước bọn tôi chút đi.
+Dialogue: 0,0:06:10.66,0:06:14.40,Default,KELT,0,0,0,,Lỡ tu sĩ hồi máu của nhóm bị dính đòn\Ntập kích bất ngờ thì sao?
+Dialogue: 0,0:06:15.45,0:06:18.40,Default,KELT,0,0,0,,Ít nhất cũng làm tròn phận sự của cậu đi chứ.
+Dialogue: 0,0:06:18.40,0:06:21.30,Default,KELT,0,0,0,,Đừng có làm vướng tay vướng chân tôi quá.
+Dialogue: 0,0:06:22.43,0:06:26.81,italics,ELYMAS/ID,0,0,0,,Một Trọng Kỵ Sĩ di chuyển chậm chạp mà đi xa hơn nữa\Nthì có tác dụng quái gì chứ?
+Dialogue: 0,0:06:26.81,0:06:32.50,italics,ELYMAS/ID,0,0,0,,Với lại anh muốn tôi che cho cái thân Phòng Thủ thấp\Ncủa anh chứ có phải cho tu sĩ đâu.
+Dialogue: 0,0:06:33.22,0:06:36.30,italics,ELYMAS/ID,0,0,0,,Lời lẽ của Kelt đúng là thô lỗ thật,
+Dialogue: 0,0:06:36.30,0:06:40.09,italics,ELYMAS/ID,0,0,0,,nhưng đây thuộc về khác biệt quan điểm,\Nnên rất khó để cãi lại.
+Dialogue: 0,0:06:40.09,0:06:44.68,italics,ELYMAS/ID,0,0,0,,Chỉ là mình không ưa cái kiểu\Ncố tình cứng đầu đó của anh ta.
+Dialogue: 0,0:06:45.11,0:06:50.30,italics,ELYMAS/ID,0,0,0,,Anh ta đang cố tạo bầu không khí\Nđể mặc sức sai khiến bọn mình theo ý mình đây mà.
+Dialogue: 0,0:07:02.57,0:07:03.67,Default,ELYMAS,0,0,0,,Quái vật!
+Dialogue: 0,0:07:20.84,0:07:25.63,sign_generic,SIGN,0,0,0,,{\b1\blur1.5\bord1\c&HFFFFDE&\3c&HE1E294&\t(730,1059,\c&HFEFBD5&\3c&HDFAF26&)\an7\fade(250,1)\fs15\pos(397.134,52.556)}Quái vật: Ếch Xác Ướp Raana
+Dialogue: 0,0:07:22.51,0:07:25.63,Default,RUCHE,0,0,0,,À, chỉ là lũ Raana thôi mà.
+Dialogue: 0,0:07:25.91,0:07:29.34,Default,ELYMAS,0,0,0,,Đừng khinh địch.\NChỉ số của chúng không phải dạng vừa đâu.
+Dialogue: 0,0:07:35.85,0:07:37.12,italics,ELYMAS/ID,0,0,0,,Ảnh Đạp!
+Dialogue: 0,0:07:35.77,0:07:38.31,sign_generic,SIGN,0,0,0,,{\b1\fnSegoe UI\blur0.5\c&H1E4AC1&\3c&HD6F9FF&\bord1\pos(538,40)\fade(250,1)}Ảnh Đạp
+Dialogue: 0,0:07:40.26,0:07:41.64,italics,ELYMAS/ID,0,0,0,,Khiên Kích!
+Dialogue: 0,0:07:43.91,0:07:44.69,Default,ELYMAS,0,0,0,,Ruche!
+Dialogue: 0,0:07:44.69,0:07:46.76,Default,RUCHE,0,0,0,,Để em lo!
+Dialogue: 0,0:07:48.71,0:07:53.79,Default,KELT,0,0,0,,Ồ? Hóa ra thằng nhóc đó không chỉ biết nói suông.
+Dialogue: 0,0:07:53.79,0:07:58.06,Default,MAEBEL,0,0,0,,Nhưng bốn đấu hai\Nthì tuyến đầu của ta hơi vất vả đấy.
+Dialogue: 0,0:07:58.06,0:07:59.57,Default,MAEBEL,0,0,0,,Tôi nên dùng ma pháp tấn công để—
+Dialogue: 0,0:07:58.72,0:08:00.16,top,KELT,0,0,0,,Không cần thiết!
+Dialogue: 0,0:08:00.16,0:08:01.50,Default,KELT,0,0,0,,Phí phạm MP vô ích!
+Dialogue: 0,0:08:01.50,0:08:04.51,Default,MAEBEL,0,0,0,,Anh là Thợ Săn đấy! Đừng áp sát quá thế!
+Dialogue: 0,0:08:16.67,0:08:18.89,Default,ELYMAS,0,0,0,,Quái xác sống rất khó bị khựng lại\Nbằng đòn chí mạng!
+Dialogue: 0,0:08:31.63,0:08:34.08,Default,KELT,0,0,0,,Đừng có đứng ngây ra đó!\NYểm trợ cho tôi đi, Chú Hề!
+Dialogue: 0,0:08:34.70,0:08:36.08,Default,RUCHE,0,0,0,,V-Vâng!
+Dialogue: 0,0:08:46.62,0:08:50.01,italics,SYSTEM VOICE,0,0,0,,Nhận được 639 EXP.
+Dialogue: 0,0:08:46.21,0:08:50.01,sign_generic,SIGN,0,0,0,,{\fad(606,2)\b1\fs25\bord1\shad2\blur0.5\c&H2ADDF5&\3c&H292830&\4c&H292830&\pos(317.582,183.364)}Nhận được 639 EXP
+Dialogue: 0,0:08:50.97,0:08:52.95,Default,KELT,0,0,0,,Con nhóc đó tung kỹ năng hớt tay trên mất rồi.
+Dialogue: 0,0:08:54.43,0:08:57.27,Default,KELT,0,0,0,,Mình cứ định ăn trọn ba con cơ đấy.
+Dialogue: 0,0:08:57.27,0:09:04.52,italics,ELYMAS/ID,0,0,0,,Anh ta không cho Maebel tấn công mà tự lao vào cận chiến\Nchỉ để tranh đồ rớt và EXP.
+Dialogue: 0,0:09:04.99,0:09:08.06,italics,ELYMAS/ID,0,0,0,,Cơ mà thực lực anh ta mạnh thật.
+Dialogue: 0,0:09:08.06,0:09:10.55,italics,ELYMAS/ID,0,0,0,,Bảo sao leo lên được tới hạng B.
+Dialogue: 0,0:09:13.91,0:09:15.41,sign_generic,SIGN,0,0,0,,{\b1\bord1.5\c&HF800DB&\3c&H1D031E&\pos(564,50)}Đạn Độc
+Dialogue: 0,0:09:17.28,0:09:19.29,Default,KELT,0,0,0,,Con cóc chết tiệt!
+Dialogue: 0,0:09:19.29,0:09:21.54,italics,SYSTEM VOICE,0,0,0,,Trạng thái bất lợi: Trúng Độc.
+Dialogue: 0,0:09:19.08,0:09:21.54,sign_generic,SIGN,0,0,0,,{\b1\fs25\bord1\c&H68BEFA&\3c&H9F2EBD&\fade(396,0)\pos(150.333,202)}Trạng thái\N{\b1\alpha&HFF&\t(521,1022,\alpha&H00&)\c&HF830F6&\3c&H500033&}Trúng Độc
+Dialogue: 0,0:09:21.54,0:09:23.00,Default,KELT,0,0,0,,Hồi phục cho tôi mau!
+Dialogue: 0,0:09:23.00,0:09:24.67,Default,KELT,0,0,0,,Cô có Giải Độc Thuật đúng không?
+Dialogue: 0,0:09:25.22,0:09:27.88,Default,MAEBEL,0,0,0,,T-Tôi không làm thế được.
+Dialogue: 0,0:09:27.88,0:09:29.05,Default,KELT,0,0,0,,Gì cơ?
+Dialogue: 0,0:09:29.53,0:09:32.63,Default,MAEBEL,0,0,0,,Thi triển Giải Độc Thuật cần mất thời gian niệm phép.
+Dialogue: 0,0:09:32.63,0:09:36.39,Default,MAEBEL,0,0,0,,HP của Ruche đang xuống thấp.\NNếu đúng lúc đó em ấy dính đòn,
+Dialogue: 0,0:09:36.39,0:09:38.45,Default,MAEBEL,0,0,0,,tuyến đầu của chúng ta sẽ sụp đổ mất.
+Dialogue: 0,0:09:39.56,0:09:42.06,Default,KELT,0,0,0,,Tuyến đầu của ta trâu hơn cô tưởng nhiều!
+Dialogue: 0,0:09:42.41,0:09:44.54,Default,KELT,0,0,0,,Tôi đếch quan tâm tới mấy cái "nếu" hay "lỡ như"!
+Dialogue: 0,0:09:44.54,0:09:49.42,Default,MAEBEL,0,0,0,,Hơn nữa, giải độc giữa trận chiến\Nrất tốn kém MP không hiệu quả,
+Dialogue: 0,0:09:49.42,0:09:52.40,Default,MAEBEL,0,0,0,,và tuyến đầu sẽ phải gánh thêm nhiều sát thương độc hơn.
+Dialogue: 0,0:09:52.70,0:09:55.41,Default,MAEBEL,0,0,0,,Anh nên lùi về sau mà chiến đấu đi.
+Dialogue: 0,0:09:58.31,0:09:59.62,Default,KELT,0,0,0,,Được thôi.
+Dialogue: 0,0:09:59.62,0:10:02.79,Default,KELT,0,0,0,,Được lắm, cô nàng Tu Sĩ ạ.
+Dialogue: 0,0:10:02.79,0:10:06.29,Default,KELT,0,0,0,,Cô chẳng ưa việc làm tu sĩ hồi máu\Nmà nhận phần chia bèo bọt, đúng không?
+Dialogue: 0,0:10:06.55,0:10:09.73,Default,KELT,0,0,0,,Lát nữa tôi sẽ đảm bảo cô có phần xứng đáng.
+Dialogue: 0,0:10:10.05,0:10:17.97,Default,KELT,0,0,0,,Cô biết đấy, những mạo hiểm giả chịu nghe lời\Nlão làng thì luôn dễ làm việc cùng hơn nhiều.
+Dialogue: 0,0:10:19.68,0:10:21.32,italics,ELYMAS/ID,0,0,0,,Cây gậy và củ cà rốt à.
+Dialogue: 0,0:10:21.32,0:10:24.19,italics,ELYMAS/ID,0,0,0,,Anh ta đang tìm cách xoa dịu Maebel.
+Dialogue: 0,0:10:25.20,0:10:28.73,Default,MAEBEL,0,0,0,,Anh Kelt, tôi thực sự không thể làm vậy được.
+Dialogue: 0,0:10:31.73,0:10:35.28,Default,MAEBEL,0,0,0,,Tôi công nhận anh rất dày dạn kinh nghiệm\Ntrong việc thám hiểm hầm ngục,
+Dialogue: 0,0:10:35.59,0:10:41.29,Default,MAEBEL,0,0,0,,nhưng tôi luôn chịu trách nhiệm và tự hào\Nvề từng quyết định của mình với tư cách một tu sĩ.
+Dialogue: 0,0:10:41.29,0:10:45.18,Default,MAEBEL,0,0,0,,Tôi đặt sự an toàn của đồng đội lên hàng đầu,\Ndù có bị người khác chê cười đi nữa.
+Dialogue: 0,0:10:45.18,0:10:47.29,Default,MAEBEL,0,0,0,,Đó là lòng tự tôn của một tu sĩ như tôi.
+Dialogue: 0,0:10:49.01,0:10:52.85,italics,ELYMAS/ID,0,0,0,,Mình cứ tưởng chị ấy chỉ là một tu sĩ thâm sâu hiểm độc,\Nhóa ra mình đã nhìn nhầm—
+Dialogue: 0,0:10:52.85,0:10:53.97,Default,KELT,0,0,0,,Thôi được rồi.
+Dialogue: 0,0:10:57.25,0:11:03.48,Default,RUCHE,0,0,0,,Em cứ tưởng chị Maebel đáng sợ lắm,\Nhóa ra chị ấy thực sự rất tốt bụng và tận tâm.
+Dialogue: 0,0:11:06.78,0:11:12.94,flashback,MAEBEL,0,0,0,,Tôi sẽ vô cùng, vô cùng tiết kiệm\Nlượng MP dành để hồi máu cho anh ta.
+Dialogue: 0,0:11:12.94,0:11:18.55,italics,ELYMAS/ID,0,0,0,,Có khi Maebel còn cao tay hơn Kelt cả một bậc ấy chứ.
+Dialogue: 0,0:11:54.75,0:11:56.88,italics,SYSTEM VOICE,0,0,0,,Nhận được EXP.
+Dialogue: 0,0:11:54.15,0:11:58.28,sign_generic,SIGN LEFT,0,0,0,,{\fad(606,2)\b1\fs13\bord1\shad2\blur0.5\c&H2ADDF5&\3c&H292830&\4c&H292830&\pos(112.582,185.364)}Nhận được 651 EXP
+Dialogue: 0,0:11:55.40,0:11:58.28,sign_generic,SIGN TOP RIGHT,0,0,0,,{\fad(606,2)\b1\fs13\bord1\shad2\blur0.5\c&H2ADDF5&\3c&H292830&\4c&H292830&\pos(450.582,31.364)}Nhận được 639 EXP
+Dialogue: 0,0:11:56.65,0:11:58.28,sign_generic,SIGN BOTTOM RIGHT,0,0,0,,{\fad(606,2)\b1\fs13\bord1\shad2\blur0.5\c&H2ADDF5&\3c&H292830&\4c&H292830&\pos(534.582,269.364)}Nhận được 642 EXP
+Dialogue: 0,0:11:59.09,0:12:02.24,Default,KELT,0,0,0,,Hai người lại ăn sạch hết nữa rồi.
+Dialogue: 0,0:12:05.30,0:12:09.34,Default,MAEBEL,0,0,0,,Hai bạn làm tốt lắm.\NCó cần tôi hồi máu không?
+Dialogue: 0,0:12:09.34,0:12:10.72,Default,RUCHE,0,0,0,,Bọn em ổn ạ.
+Dialogue: 0,0:12:10.72,0:12:14.17,Default,ELYMAS,0,0,0,,Ừ, bọn tôi chỉ cần uống vài bình thuốc là đủ rồi.
+Dialogue: 0,0:12:14.98,0:12:21.18,italics,ELYMAS/ID,0,0,0,,Nói chung, vật phẩm hồi máu trong {\i0}Thế Giới Ma Pháp{\i1}\Nchỉ tăng tốc độ hồi phục tự nhiên thôi,
+Dialogue: 0,0:12:21.18,0:12:23.68,italics,ELYMAS/ID,0,0,0,,nhưng chúng giúp tu sĩ tiết kiệm được lượng lớn MP.
+Dialogue: 0,0:12:24.91,0:12:27.73,Default,RUCHE,0,0,0,,Anh Elymas, đi nhặt Ma Thạch thôi nào.
+Dialogue: 0,0:12:27.73,0:12:31.16,Default,RUCHE,0,0,0,,Ơ, chúng làm rớt mấy món đồ kỳ lạ quá.
+Dialogue: 0,0:12:32.58,0:12:37.07,Default,KELT,0,0,0,,Tỷ lệ rớt đồ kiểu quái gì thế này?\NBọn mình bị ma ám rồi à?
+Dialogue: 0,0:12:37.07,0:12:38.50,italics,SYSTEM VOICE,0,0,0,,Nấm Xác Sống.
+Dialogue: 0,0:12:38.50,0:12:40.88,italics,SYSTEM VOICE,0,0,0,,Giá thị trường: 400.000 vàng.
+Dialogue: 0,0:12:40.88,0:12:42.33,italics,SYSTEM VOICE,0,0,0,,Một loại nấm tỏa mùi thơm.
+Dialogue: 0,0:12:42.33,0:12:45.33,italics,SYSTEM VOICE,0,0,0,,Độc tố của nó biến côn trùng\Nvà động vật nhỏ thành xác sống.
+Dialogue: 0,0:12:37.24,0:12:45.33,sign_generic,SIGN,0,0,0,,{\b1\fade(558,1)\bord1.5\blur1\pos(457,93)\c&H6B2062&\3c&HE3F2FF&}Nấm Xác Sống
+Dialogue: 0,0:12:37.24,0:12:45.33,sign_generic,SIGN,0,0,0,,{\b1\fade(558,1)\an7\fs15\blur1.5\pos(324,96)\c&HFBFCF0&\3c&HECE261&}Giá thị trường: 400.000G\NMột loại nấm tỏa mùi thơm\NĐộc tố của nó biến côn trùng và thú nhỏ\Nthành xác sống
+Dialogue: 0,0:12:45.75,0:12:50.69,Default,RUCHE,0,0,0,,Nhặt mấy thứ này lên có thực sự an toàn không ạ?
+Dialogue: 0,0:12:50.69,0:12:51.58,Default,ELYMAS,0,0,0,,Không sao đâu.
+Dialogue: 0,0:12:52.09,0:12:57.68,Default,ELYMAS,0,0,0,,Ngay cả động vật nhỏ cũng chẳng hề hấn gì\Nnếu không hít phải độc khi đang suy yếu.
+Dialogue: 0,0:12:58.84,0:13:01.60,Default,RUCHE,0,0,0,,Ai mà thèm mua mấy thứ này chứ?
+Dialogue: 0,0:13:01.60,0:13:04.85,Default,ELYMAS,0,0,0,,Nó là nguyên liệu đấy.\NNghe bảo dùng trong giả kim thuật.
+Dialogue: 0,0:13:08.55,0:13:12.25,Default,KELT,0,0,0,,Được rồi, đủ rồi đấy. Ngừng diễn kịch đi.
+Dialogue: 0,0:13:13.63,0:13:16.28,Default,KELT,0,0,0,,Tôi đã nhầm khi tưởng cô chỉ là một Tu Sĩ hạng xoàng.
+Dialogue: 0,0:13:16.28,0:13:17.53,Default,KELT,0,0,0,,Tôi nhận thua rồi.
+Dialogue: 0,0:13:19.34,0:13:21.91,Default,MAEBEL,0,0,0,,Anh Kelt nói vậy là có ý gì thế?
+Dialogue: 0,0:13:22.22,0:13:27.66,Default,KELT,0,0,0,,Tôi thừa biết cô đang cố tình bịa lý do\Nđể găm phép hồi máu không chịu chữa cho tôi.
+Dialogue: 0,0:13:28.09,0:13:30.16,Default,KELT,0,0,0,,Hai đứa kia vốn đã là bạn thân với nhau sẵn rồi.
+Dialogue: 0,0:13:30.42,0:13:34.46,Default,KELT,0,0,0,,Tôi không đời nào chịu bị cô lập kiểu này đâu.
+Dialogue: 0,0:13:34.90,0:13:38.02,Default,KELT,0,0,0,,Tôi quen biết rộng lắm đấy.\NCô không muốn chuốc lấy kẻ thù như tôi đâu.
+Dialogue: 0,0:13:38.02,0:13:41.61,Default,KELT,0,0,0,,Cất dao găm đi để hai ta cùng làm việc tử tế nào.
+Dialogue: 0,0:13:42.49,0:13:44.39,italics,ELYMAS/ID,0,0,0,,Anh ta đang tìm cách mua chuộc chị ấy.
+Dialogue: 0,0:13:44.39,0:13:47.18,Default,MAEBEL,0,0,0,,Anh sắp khiến tôi nổi giận thực sự rồi đấy, anh Kelt!
+Dialogue: 0,0:13:48.56,0:13:51.60,Default,MAEBEL,0,0,0,,Ở đây tôi phải gánh trách nhiệm cho mạng sống của mọi người!
+Dialogue: 0,0:13:52.00,0:13:58.11,Default,MAEBEL,0,0,0,,Hội đã cấp riêng một khoản thưởng thêm\Ncho các tu sĩ trong nhiệm vụ tổ đội lần này.
+Dialogue: 0,0:13:58.11,0:14:04.16,Default,MAEBEL,0,0,0,,Chừng đó là quá đủ với tôi rồi, và tôi chẳng có ý định\Nđấu trí với ai để trục lợi cá nhân cả.
+Dialogue: 0,0:14:04.16,0:14:09.16,Default,MAEBEL,0,0,0,,Chúng ta đều đang đánh cược mạng sống, nên tôi hiểu\Nmong muốn thu về lợi ích tối đa của anh.
+Dialogue: 0,0:14:09.16,0:14:14.92,Default,MAEBEL,0,0,0,,Tôi không bảo quan điểm của anh sai,\Nnhưng đừng có lôi tôi vào trò đó!
+Dialogue: 0,0:14:24.38,0:14:28.81,Default,KELT,0,0,0,,L-Làm gì mà cô phải sồn sồn lên thế?
+Dialogue: 0,0:14:28.81,0:14:31.59,Default,KELT,0,0,0,,Cô chỉ đang tự làm khó cho cả hai bên thôi.
+Dialogue: 0,0:14:31.59,0:14:34.81,Default,KELT,0,0,0,,Tôi cũng chẳng hiểu một kẻ ngây thơ như cô\Nlàm thế nào mà lên nổi hạng C nữa.
+Dialogue: 0,0:14:39.42,0:14:41.84,Default,KELT,0,0,0,,Thu gom đồ rớt xong hết rồi đúng không?
+Dialogue: 0,0:14:42.51,0:14:44.03,Default,KELT,0,0,0,,Đi thôi.
+Dialogue: 0,0:14:53.08,0:14:55.13,Default,ELYMAS,0,0,0,,Ch-Chị Maebel...
+Dialogue: 0,0:14:57.75,0:15:00.94,Default,MAEBEL,0,0,0,,Làm tu sĩ hồi máu thường xuyên phải thương lượng lắm.
+Dialogue: 0,0:15:00.94,0:15:03.29,Default,MAEBEL,0,0,0,,Để người khác nghĩ họ có thể lợi dụng mình\Nlà coi như tiêu đời ngay.
+Dialogue: 0,0:15:03.29,0:15:06.43,Default,MAEBEL,0,0,0,,Nhưng nếu để họ phát hiện ra\Nmình đang toan tính điều gì,
+Dialogue: 0,0:15:06.43,0:15:10.14,Default,MAEBEL,0,0,0,,thì dễ bị họ sinh lòng thù hận\Nrồi đi tung tin đồn xấu lắm.
+Dialogue: 0,0:15:11.15,0:15:17.69,Default,MAEBEL,0,0,0,,Tu sĩ tuyệt đối không bao giờ được để lộ bài tẩy\Ntrước mặt kẻ đã tỏ rõ ác ý.
+Dialogue: 0,0:15:23.19,0:15:26.47,Default,MAEBEL,0,0,0,,Tất cả là lỗi của anh Kelt vì đã khơi mào trước.
+Dialogue: 0,0:15:27.31,0:15:28.87,Default,ELYMAS,0,0,0,,R-Ra là vậy...
+Dialogue: 0,0:15:29.35,0:15:31.27,Default,ELYMAS,0,0,0,,Tôi sẽ giữ kín miệng.
+Dialogue: 0,0:15:31.80,0:15:33.62,Default,RUCHE,0,0,0,,Ờm, xin lỗi chị...
+Dialogue: 0,0:15:33.62,0:15:39.13,Default,RUCHE,0,0,0,,Chị có muốn lấy bớt một ít đồ rớt của em không?\NDù nhìn chúng hơi rờn rợn chút.
+Dialogue: 0,0:15:39.13,0:15:44.63,Default,MAEBEL,0,0,0,,Gì cơ? Như tôi đã nói rồi đấy,\Ntu sĩ có phần thưởng riêng từ Hội.
+Dialogue: 0,0:15:44.63,0:15:47.59,Default,MAEBEL,0,0,0,,Tôi chỉ muốn hoàn thành trọn vẹn công việc này thôi.
+Dialogue: 0,0:15:47.59,0:15:49.64,Default,MAEBEL,0,0,0,,Nhưng tôi rất cảm kích tấm lòng của em.
+Dialogue: 0,0:15:49.97,0:15:52.13,Default,RUCHE,0,0,0,,Th-Thật vậy sao ạ?
+Dialogue: 0,0:15:54.27,0:15:59.41,italics,ELYMAS/ID,0,0,0,,Chính những cuộc chiến sinh tồn với tư cách một tu sĩ\Nđã tôi luyện nên sự cứng rắn này của chị ấy.
+Dialogue: 0,0:16:27.56,0:16:30.23,Default,KELT,0,0,0,,Cái tuyến đường gì mà đi vòng vèo thế.
+Dialogue: 0,0:16:30.23,0:16:32.55,Default,KELT,0,0,0,,Không biết phía Hội đang nghĩ cái quái gì nữa.
+Dialogue: 0,0:16:33.27,0:16:38.18,italics,ELYMAS/ID,0,0,0,,Vốn đã có rất nhiều quái vật tràn ra ngoài\Ntừ Nghĩa Địa Bi Thương rồi.
+Dialogue: 0,0:16:38.63,0:16:42.83,italics,ELYMAS/ID,0,0,0,,Chúng ta phải đi theo lộ trình tỉ mỉ thế này\Nđể tiêu diệt bớt số lượng quái vật.
+Dialogue: 0,0:16:42.83,0:16:44.36,italics,ELYMAS/ID,0,0,0,,Nếu lượng quái vật còn sót quá đông,
+Dialogue: 0,0:16:44.76,0:16:47.61,italics,ELYMAS/ID,0,0,0,,thì ngay cả khi hạ xong Chúa Tể Mộng Cảnh\Nvà hầm ngục biến mất,
+Dialogue: 0,0:16:47.61,0:16:50.40,italics,ELYMAS/ID,0,0,0,,vẫn có khả năng một số con trốn thoát ra ngoài.
+Dialogue: 0,0:17:37.96,0:17:40.75,Default,ELYMAS,0,0,0,,Dẫu vậy, tuyến đường này đúng là kỳ quặc thật.
+Dialogue: 0,0:17:44.39,0:17:51.17,italics,ELYMAS/ID,0,0,0,,Có những đoạn lại bắt bọn mình đi lòng vòng.\NCòn những khu vực khác thì bỏ qua thẳng thừng.
+Dialogue: 0,0:17:51.49,0:17:55.45,italics,ELYMAS/ID,0,0,0,,Mình chẳng hiểu tiêu chí của nó là gì,\Nmà tấm bản đồ này cũng chẳng chính xác lắm.
+Dialogue: 0,0:17:56.51,0:17:58.18,italics,ELYMAS/ID,0,0,0,,Dù sao đi nữa...
+Dialogue: 0,0:18:03.63,0:18:07.26,italics,ELYMAS/ID,0,0,0,,Anh ta ghi chép tỉ mỉ phết nhỉ.\NHóa ra cũng cẩn thận hơn vẻ bề ngoài à?
+Dialogue: 0,0:18:08.73,0:18:14.37,Default,KELT,0,0,0,,Phía Hội chắc bị điên hết rồi\Nmới bắt bọn mình đi theo cái bản đồ này.
+Dialogue: 0,0:18:14.37,0:18:17.83,Default,KELT,0,0,0,,Cứ đà này không phải chờ giải cứu\Nthì cũng bị bầy quái vây chết mất.
+Dialogue: 0,0:18:17.83,0:18:21.21,Default,KELT,0,0,0,,Tôi chẳng hứng thú gì với việc đụng độ\Nmấy con quái phiền phức đâu.
+Dialogue: 0,0:18:21.21,0:18:24.33,Default,KELT,0,0,0,,Đi thẳng tới điểm hẹn theo đường ngắn nhất thôi.
+Dialogue: 0,0:18:24.70,0:18:29.27,Default,KELT,0,0,0,,Đứng cày quái gần điểm hội quân\Nvẫn an toàn hơn nhiều.
+Dialogue: 0,0:18:30.09,0:18:33.12,Default,ELYMAS,0,0,0,,Làm thế thì còn gọi gì là\Nthăm dò hay tiêu diệt quái vật nữa.
+Dialogue: 0,0:18:33.12,0:18:35.09,Default,ELYMAS,0,0,0,,Anh muốn tụi này phớt lờ nhiệm vụ sao?
+Dialogue: 0,0:18:35.09,0:18:38.38,Default,KELT,0,0,0,,Thằng nhóc này đúng là cứng đầu.\NHội đời nào biết được.
+Dialogue: 0,0:18:38.38,0:18:41.10,Default,KELT,0,0,0,,Chọn một phương án an toàn chắc chắn\Nthì có gì là sai chứ?
+Dialogue: 0,0:18:41.10,0:18:44.68,Default,MAEBEL,0,0,0,,Tôi hiểu lòng trung thành của cậu với Hội,
+Dialogue: 0,0:18:44.68,0:18:47.35,Default,MAEBEL,0,0,0,,nhưng ở một mức độ nào đó, cậu cũng phải biết thỏa hiệp.
+Dialogue: 0,0:18:48.50,0:18:53.15,Default,ELYMAS,0,0,0,,Công nhận là tấm bản đồ này có chỗ bất ổn thật.\NThôi được rồi.
+Dialogue: 0,0:18:53.50,0:18:55.38,Default,ELYMAS,0,0,0,,Tôi sẽ để anh chọn đường đi.
+Dialogue: 0,0:18:55.38,0:18:59.16,Default,ELYMAS,0,0,0,,Chỉ cần đừng đi tắt quá đà là được.
+Dialogue: 0,0:19:00.29,0:19:02.66,Default,KELT,0,0,0,,Cậu chịu nghe lời ngay từ đầu có phải hơn không.
+Dialogue: 0,0:19:02.98,0:19:07.70,Default,KELT,0,0,0,,Ta chỉ tránh mấy đoạn đường\Nrắc rối và rườm rà thôi mà.
+Dialogue: 0,0:19:12.94,0:19:15.68,Default,KELT,0,0,0,,Được rồi, đi thẳng đằng kia.
+Dialogue: 0,0:19:24.96,0:19:28.02,Default,KELT,0,0,0,,Trọng Kỵ Sĩ, rẽ trái chỗ kia đi.
+Dialogue: 0,0:19:28.02,0:19:31.23,Default,ELYMAS,0,0,0,,Vô lý quá đấy.\NLúc nãy anh vừa bảo rẽ phải mà.
+Dialogue: 0,0:19:31.51,0:19:34.74,Default,ELYMAS,0,0,0,,Bọn mình đang đi dích dắc qua lại đấy.
+Dialogue: 0,0:19:34.74,0:19:36.36,Default,KELT,0,0,0,,Đâu phải lỗi của tôi!
+Dialogue: 0,0:19:36.36,0:19:38.74,Default,KELT,0,0,0,,Tại cái bản đồ này sai be bét hết cả lên!
+Dialogue: 0,0:19:39.39,0:19:43.49,Default,ELYMAS,0,0,0,,Anh Kelt, hay là chúng ta quay lại\Ntuyến đường ban đầu đi.
+Dialogue: 0,0:19:43.91,0:19:48.33,Default,ELYMAS,0,0,0,,Nếu bị lạc ở đây, bọn mình sẽ gây phiền phức\Ncho các nhóm khác mất.
+Dialogue: 0,0:19:48.67,0:19:51.34,Default,KELT,0,0,0,,Cậu đang chê bai khả năng định hướng của tôi đấy à?
+Dialogue: 0,0:19:51.34,0:19:54.06,Default,KELT,0,0,0,,Dù sao thì cứ rẽ trái xuống hành lang kia đi.
+Dialogue: 0,0:19:54.06,0:19:58.00,Default,KELT,0,0,0,,Chúng ta vẫn đang đi đúng hướng,\Nchẳng thể nào lệch quá xa được đâu.
+Dialogue: 0,0:19:59.26,0:20:03.22,Default,KELT,0,0,0,,Cái Hội ngu xuẩn. Đưa cho cái bản đồ dở tệ thế này.
+Dialogue: 0,0:20:03.22,0:20:07.14,Default,KELT,0,0,0,,Thằng khốn nào đã bán cho họ\Nmớ thông tin rác rưởi này chứ?
+Dialogue: 0,0:20:07.69,0:20:10.27,Default,KELT,0,0,0,,Rẽ trái xuống hành lang kia đi.
+Dialogue: 0,0:20:13.93,0:20:15.07,Default,RUCHE,0,0,0,,C-Cái gì thế này?!
+Dialogue: 0,0:20:32.77,0:20:36.55,Default,RUCHE,0,0,0,,C-Cảnh này chắc khiến em gặp ác mộng\Nmột thời gian dài mất.
+Dialogue: 0,0:20:40.05,0:20:42.36,italics,ELYMAS/ID,0,0,0,,Khung cảnh này trong game cũng nổi tiếng lắm.
+Dialogue: 0,0:20:43.15,0:20:46.46,italics,ELYMAS/ID,0,0,0,,Có lẽ nó không liên quan gì\Ntới mấy hiện tượng bất thường kia đâu.
+Dialogue: 0,0:20:49.43,0:20:51.53,Default,ELYMAS,0,0,0,,Tôi còn chẳng sợ bức tường xương này
+Dialogue: 0,0:20:51.53,0:20:57.79,Default,ELYMAS,0,0,0,,bằng việc bị một mạo hiểm giả lão làng\Ndẫn thẳng vào ngõ cụt đâu.
+Dialogue: 0,0:21:02.31,0:21:05.03,Default,ELYMAS,0,0,0,,Ta nên quay lại trước khi\Nquái vật kéo tới.
+Dialogue: 0,0:21:05.66,0:21:11.25,italics,ELYMAS/ID,0,0,0,,Chuyện này lỗi chẳng phải tại Kelt nhiều\Nbằng sự tắc trách của phía Hội.
+Dialogue: 0,0:21:11.95,0:21:14.55,italics,ELYMAS/ID,0,0,0,,Tấm bản đồ này được chắp vá từ báo cáo\Ncủa các mạo hiểm giả,
+Dialogue: 0,0:21:14.55,0:21:16.76,italics,ELYMAS/ID,0,0,0,,nên có vài sai sót cũng dễ hiểu thôi,
+Dialogue: 0,0:21:17.09,0:21:19.77,italics,ELYMAS/ID,0,0,0,,nhưng mấy lỗi lần này\Nlại lộ rõ một cách kỳ lạ.
+Dialogue: 0,0:21:31.85,0:21:34.36,italics,ELYMAS/ID,0,0,0,,Hy vọng sẽ không có chuyện gì xảy ra.
+Dialogue: 0,0:21:49.95,0:21:56.59,sign_generic,credits; sign,0,0,0,,{\an9\fs15\b1\c&HEDEAEB&\3c&H0B1211&\blur1}Dịch thuật:\N{\fs17.5}Amtia(NOFACE)\N\N{\fs15}Canh thời gian:\N{\fs17.5}Amtia(NOFACE)\N\N{\fs15}Biên tập:\N{\fs17.5}Amtia(NOFACE)\N\N{\fs15}Kiểm định chất lượng:\N{\fs17.5}Amtia(NOFACE)\N\N{\fs15}Hoàn thiện phụ đề:\N{\fs17.5}Amtia(NOFACE)
+Dialogue: 0,0:23:11.86,0:23:13.93,italics,ELYMAS/NA,0,0,0,,Kelt quả thực là một lão làng kỳ cựu.
+Dialogue: 0,0:23:13.93,0:23:15.92,italics,ELYMAS/NA,0,0,0,,Maebel cũng là một Tu Sĩ rất có thực lực.
+Dialogue: 0,0:23:16.63,0:23:19.41,italics,ELYMAS/NA,0,0,0,,Nhưng hai người họ lại chẳng hề ăn khớp với nhau.
+Dialogue: 0,0:23:20.06,0:23:24.92,italics,ELYMAS/NA,0,0,0,,Thế giới này cũng đầy rẫy mâu thuẫn cá nhân\Nvà xung đột lối chơi hệt như trong game vậy.
+Dialogue: 0,0:23:25.73,0:23:28.79,italics,ELYMAS/NA,0,0,0,,Tuy nhiên, Kelt không phải vấn đề duy nhất.
+Dialogue: 0,0:23:28.79,0:23:32.20,italics,ELYMAS/NA,0,0,0,,Mình không nghĩ thứ sát khí đen tối đang áp sát kia\Nchỉ là do mình tưởng tượng ra đâu.
+Dialogue: 0,0:23:33.31,0:23:35.23,italics,ELYMAS/NA,0,0,0,,Tập tiếp theo: "Tử Thần Ba Tay".
+Dialogue: 0,0:23:36.03,0:23:38.93,italics,ELYMAS/NA,0,0,0,,Dù chuyện gì xảy ra đi nữa, ta vẫn phải chiến đấu.
+
